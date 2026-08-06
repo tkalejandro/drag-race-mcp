@@ -11,6 +11,10 @@
  * @example "US-S17" | "AS-S10" | "UK-S06" | "CVTW-S02"
  */
 
+import type { Money } from "./money.ts";
+import type { PersonRef } from "./person.ts";
+import type { QueenId } from "./queen.ts";
+
 /** Franchise prefix codes embedded in every SeasonId. */
 export const FranchiseCode = {
   /** RuPaul's Drag Race (US main series) */
@@ -222,3 +226,45 @@ export type SeasonId = (typeof SeasonId)[keyof typeof SeasonId];
 
 /** All SeasonId values — useful for Zod enums and exhaustive agent tooling. */
 export const ALL_SEASON_IDS = Object.values(SeasonId) as SeasonId[];
+
+/**
+ * Full season record keyed by {@link SeasonId}.
+ * Prefer this shape in tool responses so agents can navigate without free-text guessing.
+ */
+export interface Season {
+  /** Canonical ID — always use this when linking queens, episodes, or stats. */
+  id: SeasonId;
+  /** Franchise prefix embedded in `id` (e.g. US, AS, CA). */
+  franchise: FranchiseCode;
+  /** Display name, e.g. "RuPaul's Drag Race Season 17". */
+  name: string;
+  /** 1-based season number within the franchise. */
+  seasonNumber: number;
+  /** Premiere calendar year. */
+  year: number;
+  /** Total aired episodes in this season (main series, not Untucked). */
+  episodeCount: number;
+  /** Queen IDs for the full cast (entrance order when known). */
+  castIds: QueenId[];
+  /** Winning queen ID, when known. */
+  winnerId?: QueenId;
+  /** Runner-up queen IDs (finalists who did not win), when known. */
+  runnerUpIds: QueenId[];
+  /** Miss Congeniality queen ID, when the season awarded one. */
+  missCongenialityId?: QueenId;
+  /** First-eliminated queen ID ("Porkchop") for this season, when known. */
+  porkchopId?: QueenId;
+  /**
+   * Queen IDs removed by disqualification (not a standard lip-sync elimination).
+   * Omit or leave empty when none.
+   */
+  disqualifiedIds?: QueenId[];
+  /** Host / main presenter(s). */
+  hosts: PersonRef[];
+  /** Regular (non-guest) judges. */
+  judges: PersonRef[];
+  /** True when the winner's cash prize is donated to charity (common on All Stars). */
+  isCharity: boolean;
+  /** Winner cash prize — amount + {@link Money.currency}. */
+  cashPrice: Money;
+}
