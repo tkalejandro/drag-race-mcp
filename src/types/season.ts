@@ -23,6 +23,16 @@ export const FranchiseCode = {
   DE: "DE",
   /** Drag Race France */
   FR: "FR",
+  /** Drag Race Holland (Netherlands) */
+  NL: "NL",
+  /** Drag Race Belgique */
+  BE: "BE",
+  /** Drag Race Sverige */
+  SE: "SE",
+  /** Drag Race España */
+  ES: "ES",
+  /** Drag Race España All Stars */
+  ESAS: "ESAS",
   /** RuPaul's Drag Race Global All Stars */
   GAS: "GAS",
   /** Canada's Drag Race */
@@ -59,6 +69,11 @@ export const FRANCHISE_LABEL = {
   UK: "RuPaul's Drag Race UK",
   DE: "Drag Race Germany",
   FR: "Drag Race France",
+  NL: "Drag Race Holland",
+  BE: "Drag Race Belgique",
+  SE: "Drag Race Sverige",
+  ES: "Drag Race España",
+  ESAS: "Drag Race España All Stars",
   GAS: "RuPaul's Drag Race Global All Stars",
   CA: "Canada's Drag Race",
   CVTW: "Canada's Drag Race vs The World",
@@ -128,6 +143,28 @@ export const SeasonId = {
   FR_S03: "FR-S03",
   FR_S04: "FR-S04",
 
+  // --- Drag Race Holland ---
+  NL_S01: "NL-S01",
+  NL_S02: "NL-S02",
+
+  // --- Drag Race Belgique ---
+  BE_S01: "BE-S01",
+  BE_S02: "BE-S02",
+
+  // --- Drag Race Sverige ---
+  SE_S01: "SE-S01",
+
+  // --- Drag Race España ---
+  ES_S01: "ES-S01",
+  ES_S02: "ES-S02",
+  ES_S03: "ES-S03",
+  ES_S04: "ES-S04",
+  ES_S05: "ES-S05",
+
+  // --- Drag Race España All Stars ---
+  ESAS_S01: "ESAS-S01",
+  ESAS_S02: "ESAS-S02",
+
   // --- RuPaul's Drag Race Global All Stars ---
   GAS_S01: "GAS-S01",
 
@@ -167,7 +204,6 @@ export const SeasonId = {
   IT_S01: "IT-S01",
   IT_S02: "IT-S02",
   IT_S03: "IT-S03",
-  IT_S04: "IT-S04",
 
   // --- Drag Race Brasil ---
   BR_S01: "BR-S01",
