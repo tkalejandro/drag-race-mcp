@@ -11,6 +11,7 @@
  * @example "US-S17" | "AS-S10" | "UK-S06" | "CVTW-S02"
  */
 
+import type { EpisodeId } from "./episode.ts";
 import type { Money } from "./money.ts";
 import type { PersonRef } from "./person.ts";
 import type { QueenId } from "./queen.ts";
@@ -244,6 +245,8 @@ export interface Season {
   year: number;
   /** Total aired episodes in this season (main series, not Untucked). */
   episodeCount: number;
+  /** Episode IDs in air order — resolve detail from the Episode catalog. */
+  episodeIds: EpisodeId[];
   /** Queen IDs for the full cast (entrance order when known). */
   castIds: QueenId[];
   /** Winning queen ID, when known. */

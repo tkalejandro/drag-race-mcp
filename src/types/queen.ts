@@ -3,8 +3,11 @@
  *
  * ID convention: kebab-case drag-name slug, e.g. "jinkx-monsoon", "bianca-del-rio".
  * Always prefer {@link QueenId} over free-text names when linking seasons or stats.
+ *
+ * Wins link to {@link EpisodeId} — look up the Episode for challenge/lip-sync detail.
  */
 
+import type { EpisodeId } from "./episode.ts";
 import type { Money } from "./money.ts";
 import type { SeasonId } from "./season.ts";
 
@@ -13,23 +16,23 @@ export type QueenId = string;
 
 /**
  * A single maxi or mini challenge win on a season.
- * Prefer listing wins over a bare count so agents can answer episode/prize questions.
+ * `episodeId` points at the Episode; optional `name`/`earnings` are denormalized for quick answers.
  */
 export interface ChallengeWin {
-  /** Episode number where the win occurred. */
-  episode: number;
-  /** Challenge name, e.g. "Snatch Game", "The Ball", "Everybody Say Love". */
-  name: string;
+  /** Episode where the win occurred — resolve full challenge detail via Episode. */
+  episodeId: EpisodeId;
+  /** Challenge name (optional mirror of Episode challenge name). */
+  name?: string;
   /** Cash awarded for this win, when applicable. */
   earnings?: Money;
 }
 
 /** A single lip-sync win on a season. */
 export interface LipSyncWin {
-  /** Episode number where the lip-sync occurred. */
-  episode: number;
-  /** Song title, e.g. "Telephone", "And I Am Telling You I'm Not Going". */
-  song: string;
+  /** Episode where the lip-sync occurred — resolve song/opponents via Episode. */
+  episodeId: EpisodeId;
+  /** Song title (optional mirror of Episode lip-sync song). */
+  song?: string;
 }
 
 /**
@@ -44,8 +47,8 @@ export interface QueenAppearance {
    * Use the announced final ranking when available.
    */
   placement: number;
-  /** Episode number when eliminated; omit for winner / finalists who were never eliminated mid-season. */
-  eliminatedEpisode?: number;
+  /** Episode when eliminated — resolve via Episode catalog; omit if never eliminated mid-season. */
+  eliminatedEpisodeId?: EpisodeId;
   /** Main-challenge (maxi) wins this season — one entry per win. */
   challengeWins: ChallengeWin[];
   /** Mini-challenge wins this season — one entry per win. */
@@ -65,6 +68,8 @@ export interface QueenAppearance {
 /**
  * Full queen record keyed by {@link QueenId}.
  * Prefer this shape in tool responses so agents can navigate without free-text guessing.
+ *
+ * Season stores only {@link QueenId}s (cast, winner, …); resolve the Queen for name/appearances.
  */
 export interface Queen {
   /** Canonical ID — always use this when linking from seasons or appearances. */
