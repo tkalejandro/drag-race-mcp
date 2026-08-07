@@ -1,0 +1,20 @@
+{
+  "id": "tempest-dujour",
+  "name": "Tempest DuJour",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E01",
+          "song": "Geronimo"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E01"
+    }
+  ]
+}

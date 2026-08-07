@@ -1,0 +1,52 @@
+{
+  "id": "US-S06",
+  "franchise": "US",
+  "name": "RuPaul's Drag Race Season 6",
+  "seasonNumber": 6,
+  "year": 2014,
+  "episodeCount": 14,
+  "episodeIds": [
+    "US-S06-E01",
+    "US-S06-E02",
+    "US-S06-E03",
+    "US-S06-E04",
+    "US-S06-E05",
+    "US-S06-E06",
+    "US-S06-E07",
+    "US-S06-E08",
+    "US-S06-E09",
+    "US-S06-E10",
+    "US-S06-E11",
+    "US-S06-E12",
+    "US-S06-E13",
+    "US-S06-E14"
+  ],
+  "castIds": [
+    "bianca-del-rio",
+    "adore-delano",
+    "courtney-act",
+    "darienne-lake",
+    "bendelacreme",
+    "joslyn-fox",
+    "trinity-k-bonet",
+    "laganja-estranja",
+    "milk",
+    "gia-gunn",
+    "april-carrion",
+    "vivacious",
+    "kelly-mantle",
+    "magnolia-crawford"
+  ],
+  "winnerId": "bianca-del-rio",
+  "runnerUpIds": ["adore-delano", "courtney-act"],
+  "missCongenialityId": "bendelacreme",
+  "porkchopId": "kelly-mantle",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Santino Rice" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "USD" }
+}

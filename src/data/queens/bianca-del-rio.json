@@ -1,0 +1,37 @@
+{
+  "id": "bianca-del-rio",
+  "name": "Bianca Del Rio",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S06-E02",
+          "name": "Create an outfit inspired by party supplies"
+        },
+        {
+          "episodeId": "US-S06-E08",
+          "name": "Stand-up comedy act in front of the judges and a live audience"
+        },
+        {
+          "episodeId": "US-S06-E10",
+          "name": "Makeover grooms into brides for a drag wedding"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S06-E10",
+          "name": "Abstract body paintings in honor of same-sex marriage"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S06-E12",
+          "song": "Sissy That Walk"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

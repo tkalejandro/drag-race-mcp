@@ -1,0 +1,165 @@
+[
+  {
+    "id": "AS-S01-E01",
+    "seasonId": "AS-S01",
+    "episodeNumber": 1,
+    "title": "It Takes Two",
+    "maxiChallenge": {
+      "name": "Create an Opposites Attract photoshoot and a half-baked photo",
+      "winnerIds": ["latrice-royale", "manila-luzon"]
+    },
+    "runwayTheme": "Team Unity",
+    "topIds": ["latrice-royale", "manila-luzon", "raven", "jujubee"],
+    "bottomIds": [
+      "mimi-imfurst",
+      "pandora-boxx",
+      "chad-michaels",
+      "shannel"
+    ],
+    "lipSync": {
+      "song": "Opposites Attract",
+      "queenIds": ["chad-michaels", "mimi-imfurst"],
+      "winnerIds": ["chad-michaels"],
+      "eliminatedIds": ["mimi-imfurst", "pandora-boxx"]
+    },
+    "guestJudges": [
+      { "name": "Rachel Hunter" },
+      { "name": "Ross Mathews" }
+    ]
+  },
+  {
+    "id": "AS-S01-E02",
+    "seasonId": "AS-S01",
+    "episodeNumber": 2,
+    "title": "RuPaul's Gaff-In",
+    "miniChallenge": {
+      "name": "In Da Butt Ru",
+      "winnerIds": ["jujubee", "raven"]
+    },
+    "maxiChallenge": {
+      "name": "RuPaul's Gaff-In variety show celebrity impersonations",
+      "winnerIds": ["alexis-mateo", "yara-sofia"]
+    },
+    "runwayTheme": "60's Glam",
+    "topIds": ["alexis-mateo", "yara-sofia", "chad-michaels", "shannel"],
+    "bottomIds": [
+      "nina-flowers",
+      "tammie-brown",
+      "latrice-royale",
+      "manila-luzon"
+    ],
+    "lipSync": {
+      "song": "There's No Business Like Show Business",
+      "queenIds": ["latrice-royale", "tammie-brown"],
+      "winnerIds": ["latrice-royale"],
+      "eliminatedIds": ["nina-flowers", "tammie-brown"]
+    },
+    "guestJudges": [
+      { "name": "Busy Philipps" },
+      { "name": "Vicki Lawrence" }
+    ]
+  },
+  {
+    "id": "AS-S01-E03",
+    "seasonId": "AS-S01",
+    "episodeNumber": 3,
+    "title": "Queens Behaving Badly",
+    "miniChallenge": {
+      "name": "Queens With Guy Phones",
+      "winnerIds": ["alexis-mateo", "yara-sofia"]
+    },
+    "maxiChallenge": {
+      "name": "Act naughty on the streets of Hollywood and do pranks",
+      "winnerIds": ["chad-michaels", "shannel"]
+    },
+    "runwayTheme": "Bad Girls Chic",
+    "topIds": ["chad-michaels", "shannel"],
+    "bottomIds": [
+      "latrice-royale",
+      "manila-luzon",
+      "jujubee",
+      "raven"
+    ],
+    "lipSync": {
+      "song": "Nasty",
+      "queenIds": ["jujubee", "manila-luzon"],
+      "winnerIds": ["jujubee"],
+      "eliminatedIds": ["latrice-royale", "manila-luzon"]
+    },
+    "guestJudges": [
+      { "name": "Rachel Dratch" },
+      { "name": "Janice Dickinson" }
+    ]
+  },
+  {
+    "id": "AS-S01-E04",
+    "seasonId": "AS-S01",
+    "episodeNumber": 4,
+    "title": "All Star Girl Groups",
+    "miniChallenge": {
+      "name": "Cheer-reading routine",
+      "winnerIds": ["alexis-mateo", "yara-sofia"]
+    },
+    "maxiChallenge": {
+      "name": "Form girl groups with a celebrity and perform a RuPaul song",
+      "winnerIds": ["chad-michaels", "shannel"]
+    },
+    "topIds": ["chad-michaels", "shannel"],
+    "bottomIds": [
+      "jujubee",
+      "raven",
+      "alexis-mateo",
+      "yara-sofia"
+    ],
+    "lipSync": {
+      "song": "Don't Cha",
+      "queenIds": ["raven", "alexis-mateo", "yara-sofia"],
+      "winnerIds": ["raven"],
+      "eliminatedIds": ["alexis-mateo", "yara-sofia"]
+    },
+    "guestJudges": [
+      { "name": "Mary Wilson" },
+      { "name": "Rosie Perez" }
+    ]
+  },
+  {
+    "id": "AS-S01-E05",
+    "seasonId": "AS-S01",
+    "episodeNumber": 5,
+    "title": "Dynamic Drag Duos",
+    "miniChallenge": {
+      "name": "Basketball game of Fish",
+      "winnerIds": ["jujubee", "raven"]
+    },
+    "maxiChallenge": {
+      "name": "Super Heroes vs Super Villains",
+      "winnerIds": ["chad-michaels", "shannel"]
+    },
+    "topIds": ["chad-michaels", "shannel"],
+    "bottomIds": ["jujubee", "raven"],
+    "lipSync": {
+      "song": "Dancing on My Own",
+      "queenIds": ["jujubee", "raven"],
+      "winnerIds": ["jujubee", "raven"]
+    },
+    "guestJudges": [
+      { "name": "Wendi McLendon-Covey" },
+      { "name": "Elvira" }
+    ]
+  },
+  {
+    "id": "AS-S01-E06",
+    "seasonId": "AS-S01",
+    "episodeNumber": 6,
+    "title": "The Grand Finale",
+    "lipSync": {
+      "song": "Responsitrannity (Matt Pop Remix)",
+      "queenIds": ["chad-michaels", "raven"],
+      "winnerIds": ["chad-michaels"]
+    },
+    "guestJudges": [
+      { "name": "Beth Ditto" },
+      { "name": "Cheri Oteri" }
+    ]
+  }
+]

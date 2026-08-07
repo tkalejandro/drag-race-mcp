@@ -10,8 +10,25 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "US-S01-E02", "song": "We Break the Dawn" }
+        {
+          "episodeId": "US-S01-E02",
+          "song": "We Break the Dawn"
+        }
       ]
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S01-E02",
+          "song": "There's No Business Like Show Business"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S01-E02"
     }
   ]
 }

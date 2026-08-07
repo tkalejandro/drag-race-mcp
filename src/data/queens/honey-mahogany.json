@@ -1,0 +1,20 @@
+{
+  "id": "honey-mahogany",
+  "name": "Honey Mahogany",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E04",
+          "song": "Oops!... I Did It Again"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E04"
+    }
+  ]
+}

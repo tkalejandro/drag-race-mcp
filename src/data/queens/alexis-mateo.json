@@ -1,0 +1,74 @@
+{
+  "id": "alexis-mateo",
+  "name": "Alexis Mateo",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S03-E03",
+          "name": "Star in Drag Queens in Outer Space sci-fi spoof trailers"
+        },
+        {
+          "episodeId": "US-S03-E04",
+          "name": "Produce a fitness workout video"
+        },
+        {
+          "episodeId": "US-S03-E09",
+          "name": "Film a patriotic message for US military personnel overseas"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E12",
+          "name": "Dunk-A-Queen"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S03-E07",
+          "song": "Knock on Wood"
+        },
+        {
+          "episodeId": "US-S03-E11",
+          "song": "Even Angels"
+        },
+        {
+          "episodeId": "US-S03-E13",
+          "song": "I Think About You"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "US-S03-E15"
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S01-E02",
+          "name": "RuPaul's Gaff-In variety show celebrity impersonations"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S01-E03",
+          "name": "Queens With Guy Phones"
+        },
+        {
+          "episodeId": "AS-S01-E04",
+          "name": "Cheer-reading routine"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S01-E04",
+          "song": "Don't Cha"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S01-E04"
+    }
+  ]
+}

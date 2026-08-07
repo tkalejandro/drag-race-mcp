@@ -1,0 +1,23 @@
+{
+  "id": "sonique",
+  "name": "Sonique",
+  "aliases": [
+    "Kylie Sonique Love"
+  ],
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E04",
+          "song": "Two of Hearts"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S02-E04"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "US-S07",
+  "franchise": "US",
+  "name": "RuPaul's Drag Race Season 7",
+  "seasonNumber": 7,
+  "year": 2015,
+  "episodeCount": 14,
+  "episodeIds": [
+    "US-S07-E01",
+    "US-S07-E02",
+    "US-S07-E03",
+    "US-S07-E04",
+    "US-S07-E05",
+    "US-S07-E06",
+    "US-S07-E07",
+    "US-S07-E08",
+    "US-S07-E09",
+    "US-S07-E10",
+    "US-S07-E11",
+    "US-S07-E12",
+    "US-S07-E13",
+    "US-S07-E14"
+  ],
+  "castIds": [
+    "violet-chachki",
+    "ginger-minj",
+    "pearl",
+    "kennedy-davenport",
+    "katya",
+    "trixie-mattel",
+    "miss-fame",
+    "jaidynn-diore-fierce",
+    "max",
+    "kandy-ho",
+    "mrs-kasha-davis",
+    "jasmine-masters",
+    "sasha-belle",
+    "tempest-dujour"
+  ],
+  "winnerId": "violet-chachki",
+  "runnerUpIds": ["ginger-minj", "pearl"],
+  "missCongenialityId": "katya",
+  "porkchopId": "tempest-dujour",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Carson Kressley" },
+    { "name": "Ross Mathews" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "USD" }
+}

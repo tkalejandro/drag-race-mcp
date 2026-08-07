@@ -1,0 +1,20 @@
+{
+  "id": "alisa-summers",
+  "name": "Alisa Summers",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S04-E01",
+          "song": "Toxic"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S04-E01"
+    }
+  ]
+}

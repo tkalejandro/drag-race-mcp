@@ -113,12 +113,12 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | SeasonId | Season | Queens | Episodes | Lore |
 |----------|:------:|:------:|:--------:|:----:|
 | `US-S01` | ✅ | ✅ | ✅ | ✅ |
-| `US-S02` | — | — | — | — |
-| `US-S03` | — | — | — | — |
-| `US-S04` | — | — | — | — |
-| `US-S05` | — | — | — | — |
-| `US-S06` | — | — | — | — |
-| `US-S07` | — | — | — | — |
+| `US-S02` | ✅ | ✅ | ✅ | ✅ |
+| `US-S03` | ✅ | ✅ | ✅ | ✅ |
+| `US-S04` | ✅ | ✅ | ✅ | ✅ |
+| `US-S05` | ✅ | ✅ | ✅ | ✅ |
+| `US-S06` | ✅ | ✅ | ✅ | ✅ |
+| `US-S07` | ✅ | ✅ | ✅ | ✅ |
 | `US-S08` | — | — | — | — |
 | `US-S09` | — | — | — | — |
 | `US-S10` | — | — | — | — |
@@ -135,8 +135,8 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 
 | SeasonId | Season | Queens | Episodes | Lore |
 |----------|:------:|:------:|:--------:|:----:|
-| `AS-S01` | — | — | — | — |
-| `AS-S02` | — | — | — | — |
+| `AS-S01` | ✅ | ✅ | ✅ | ✅ |
+| `AS-S02` | ✅ | ✅ | ✅ | ✅ |
 | `AS-S03` | — | — | — | — |
 | `AS-S04` | — | — | — | — |
 | `AS-S05` | — | — | — | — |
@@ -234,7 +234,7 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 │   ├── data/
 │   │   ├── queens/           # One JSON file per QueenId
 │   │   └── seasons/
-│   │       └── US-S01/
+│   │       └── US-S01/ … US-S07/, AS-S01/, AS-S02/
 │   │           ├── season.json
 │   │           ├── episodes.json
 │   │           └── lore.json

@@ -1,0 +1,52 @@
+{
+  "id": "roxxxy-andrews",
+  "name": "Roxxxy Andrews",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S05-E01",
+          "name": "Create a Hollywood realness and glamour outfit from dumpster items"
+        },
+        {
+          "episodeId": "US-S05-E10",
+          "name": "Makeover gay veterans"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S05-E05",
+          "name": "Style a cuddler into a red carpet look for an Us Weekly fashion face-off"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S05-E07",
+          "song": "Whip My Hair"
+        }
+      ],
+      "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S02-E01",
+          "name": "Perform a talent show in front of the judges and a live audience"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S02-E01",
+          "song": "Shake It Off"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S02-E08"
+    }
+  ]
+}

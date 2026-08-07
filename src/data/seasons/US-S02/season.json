@@ -1,0 +1,48 @@
+{
+  "id": "US-S02",
+  "franchise": "US",
+  "name": "RuPaul's Drag Race Season 2",
+  "seasonNumber": 2,
+  "year": 2010,
+  "episodeCount": 12,
+  "episodeIds": [
+    "US-S02-E01",
+    "US-S02-E02",
+    "US-S02-E03",
+    "US-S02-E04",
+    "US-S02-E05",
+    "US-S02-E06",
+    "US-S02-E07",
+    "US-S02-E08",
+    "US-S02-E09",
+    "US-S02-E10",
+    "US-S02-E11",
+    "US-S02-E12"
+  ],
+  "castIds": [
+    "tyra-sanchez",
+    "raven",
+    "jujubee",
+    "tatianna",
+    "pandora-boxx",
+    "jessica-wild",
+    "sahara-davenport",
+    "morgan-mcmichaels",
+    "sonique",
+    "mystique-summers-madison",
+    "nicole-paige-brooks",
+    "shangela"
+  ],
+  "winnerId": "tyra-sanchez",
+  "runnerUpIds": ["raven"],
+  "missCongenialityId": "pandora-boxx",
+  "porkchopId": "shangela",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Santino Rice" },
+    { "name": "Merle Ginsberg" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 25000, "currency": "USD" }
+}

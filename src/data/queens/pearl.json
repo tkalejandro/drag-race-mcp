@@ -1,0 +1,39 @@
+{
+  "id": "pearl",
+  "name": "Pearl",
+  "aliases": [
+    "Pearl Liaison"
+  ],
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S07-E05",
+          "name": "Present awards with banter at the DESPY Awards"
+        },
+        {
+          "episodeId": "US-S07-E08",
+          "name": "Create a conjoined twin makeover with a previously eliminated queen"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S07-E04",
+          "song": "Dreaming"
+        },
+        {
+          "episodeId": "US-S07-E09",
+          "song": "Really Don't Care"
+        },
+        {
+          "episodeId": "US-S07-E12",
+          "song": "Born Naked"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

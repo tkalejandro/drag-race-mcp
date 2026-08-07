@@ -1,0 +1,37 @@
+{
+  "id": "tyra-sanchez",
+  "name": "Tyra Sanchez",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S02-E03",
+          "name": "Disco Shortening feuding-families commercial"
+        },
+        {
+          "episodeId": "US-S02-E05",
+          "name": "Bride and groom wedding photoshoot"
+        },
+        {
+          "episodeId": "US-S02-E09",
+          "name": "The Diva Awards"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S02-E09",
+          "name": "Style and accessorize identical dresses"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S02-E11",
+          "song": "Jealous of My Boogie (Gomi and RasJek Edit)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

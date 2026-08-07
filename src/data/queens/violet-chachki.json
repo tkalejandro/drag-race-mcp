@@ -1,0 +1,37 @@
+{
+  "id": "violet-chachki",
+  "name": "Violet Chachki",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S07-E01",
+          "name": "Create a resort-wear tearaway to reveal a nude illusion"
+        },
+        {
+          "episodeId": "US-S07-E10",
+          "name": "In pairs, dance in a live drag dance spectacular"
+        },
+        {
+          "episodeId": "US-S07-E11",
+          "name": "The Hello Kitty Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S07-E10",
+          "name": "Create a Fake Housewives of Drag Race look using tape"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S07-E12",
+          "song": "Born Naked"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mystique-summers-madison",
+  "name": "Mystique Summers Madison",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S02-E03",
+          "name": "Chicken or What? eating contest"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E03",
+          "song": "I Hear You Knocking"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S02-E03"
+    }
+  ]
+}

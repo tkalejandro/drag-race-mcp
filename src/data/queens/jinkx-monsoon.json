@@ -1,0 +1,33 @@
+{
+  "id": "jinkx-monsoon",
+  "name": "Jinkx Monsoon",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S05-E05",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "US-S05-E09",
+          "name": "Star in a faux Latin telenovela"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S05-E04",
+          "name": "Soul Train dance-off"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S05-E11",
+          "song": "Malambo No. 1"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

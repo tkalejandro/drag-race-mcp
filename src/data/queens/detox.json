@@ -1,0 +1,93 @@
+{
+  "id": "detox",
+  "name": "Detox",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S05-E03",
+          "name": "Star in two different children's TV shows"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S05-E01",
+          "name": "Underwater photoshoot"
+        },
+        {
+          "episodeId": "US-S05-E02",
+          "name": "Lip-sync to a RuPaul song with only your mouth visible"
+        },
+        {
+          "episodeId": "US-S05-E05",
+          "name": "Style a cuddler into a red carpet look for an Us Weekly fashion face-off"
+        },
+        {
+          "episodeId": "US-S05-E06",
+          "name": "Apply drag makeup in the dark"
+        },
+        {
+          "episodeId": "US-S05-E09",
+          "name": "Create a fake sob story and produce real tears for RuPaul"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S05-E05",
+          "song": "Take Me Home"
+        },
+        {
+          "episodeId": "US-S05-E10",
+          "song": "(It Takes) Two to Make It Right"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E11",
+          "song": "Malambo No. 1"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E11"
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S02-E03",
+          "name": "Perform a lip-syncing dance number dedicated to legendary historical women"
+        },
+        {
+          "episodeId": "AS-S02-E05",
+          "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen"
+        },
+        {
+          "episodeId": "AS-S02-E07",
+          "name": "Makeover a family member"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S02-E07",
+          "song": "Step It Up"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S02-E03",
+          "song": "Tell It to My Heart"
+        },
+        {
+          "episodeId": "AS-S02-E08",
+          "song": "If I Were Your Woman"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "Detox Icunt"
+  ]
+}

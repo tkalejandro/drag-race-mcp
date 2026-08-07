@@ -1,0 +1,67 @@
+{
+  "id": "chad-michaels",
+  "name": "Chad Michaels",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S04-E02",
+          "name": "Create a wrestling storyline with backstage clip and ring match"
+        },
+        {
+          "episodeId": "US-S04-E05",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S04-E02",
+          "name": "Create a badonkadonk with padding"
+        },
+        {
+          "episodeId": "US-S04-E11",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S04-E11",
+          "song": "No One Else on Earth"
+        }
+      ],
+      "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S01-E03",
+          "name": "Act naughty on the streets of Hollywood and do pranks"
+        },
+        {
+          "episodeId": "AS-S01-E04",
+          "name": "Form girl groups with a celebrity and perform a RuPaul song"
+        },
+        {
+          "episodeId": "AS-S01-E05",
+          "name": "Super Heroes vs Super Villains"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S01-E01",
+          "song": "Opposites Attract"
+        },
+        {
+          "episodeId": "AS-S01-E06",
+          "song": "Responsitrannity (Matt Pop Remix)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

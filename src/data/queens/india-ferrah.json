@@ -1,0 +1,25 @@
+{
+  "id": "india-ferrah",
+  "name": "India Ferrah",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S03-E04",
+          "song": "Don't Leave Me This Way"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E05",
+          "song": "Meeting in the Ladies Room"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E05"
+    }
+  ]
+}

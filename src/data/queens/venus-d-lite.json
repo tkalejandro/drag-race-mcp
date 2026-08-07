@@ -1,0 +1,20 @@
+{
+  "id": "venus-d-lite",
+  "name": "Venus D-Lite",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E02",
+          "song": "The Right Stuff"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E02"
+    }
+  ]
+}

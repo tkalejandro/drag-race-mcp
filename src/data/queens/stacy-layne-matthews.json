@@ -1,0 +1,35 @@
+{
+  "id": "stacy-layne-matthews",
+  "name": "Stacy Layne Matthews",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "US-S03-E06",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E05",
+          "name": "Scandalous Red Carpet photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S03-E05",
+          "song": "Meeting in the Ladies Room"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E07",
+          "song": "Knock on Wood"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E07"
+    }
+  ]
+}

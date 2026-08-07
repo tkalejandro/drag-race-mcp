@@ -1,0 +1,41 @@
+{
+  "id": "AS-S01",
+  "franchise": "AS",
+  "name": "RuPaul's Drag Race All Stars Season 1",
+  "seasonNumber": 1,
+  "year": 2012,
+  "episodeCount": 6,
+  "episodeIds": [
+    "AS-S01-E01",
+    "AS-S01-E02",
+    "AS-S01-E03",
+    "AS-S01-E04",
+    "AS-S01-E05",
+    "AS-S01-E06"
+  ],
+  "castIds": [
+    "chad-michaels",
+    "raven",
+    "jujubee",
+    "shannel",
+    "alexis-mateo",
+    "yara-sofia",
+    "latrice-royale",
+    "manila-luzon",
+    "nina-flowers",
+    "tammie-brown",
+    "mimi-imfurst",
+    "pandora-boxx"
+  ],
+  "winnerId": "chad-michaels",
+  "runnerUpIds": ["raven"],
+  "porkchopId": "mimi-imfurst",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Santino Rice" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "USD" }
+}

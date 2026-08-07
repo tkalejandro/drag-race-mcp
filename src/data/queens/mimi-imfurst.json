@@ -1,0 +1,34 @@
+{
+  "id": "mimi-imfurst",
+  "name": "Mimi Imfurst",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E04",
+          "song": "Don't Leave Me This Way"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E04"
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S01-E01",
+          "song": "Opposites Attract"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S01-E01"
+    }
+  ]
+}

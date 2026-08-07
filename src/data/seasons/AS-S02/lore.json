@@ -1,0 +1,37 @@
+[
+  {
+    "id": "as2-lip-sync-for-your-legacy",
+    "title": "Lip Sync for Your Legacy debuts",
+    "summary": "All Stars 2 replaced Lip Sync for Your Life with Lip Sync for Your Legacy: the top two challenge winners lip-synced, and the winner earned $10,000 and chose which bottom queen to eliminate (starting in AS-S02-E01).",
+    "tags": ["production", "twist", "lip-sync"],
+    "seasonIds": ["AS-S02"],
+    "episodeIds": ["AS-S02-E01"]
+  },
+  {
+    "id": "as2-adore-quits",
+    "title": "Adore Delano quits",
+    "summary": "During All Stars Snatch Game (AS-S02-E02), Adore Delano withdrew from the competition before the runway, leaving nine queens.",
+    "tags": ["quit"],
+    "queenIds": ["adore-delano"],
+    "seasonIds": ["AS-S02"],
+    "episodeIds": ["AS-S02-E02"]
+  },
+  {
+    "id": "as2-shut-up-and-drive",
+    "title": "Shut Up and Drive double return",
+    "summary": "In Revenge of the Queens (AS-S02-E05), eliminated queens returned for a comedy challenge. Alyssa Edwards and Tatianna both won the lip-sync to Rihanna's \"Shut Up and Drive,\" re-entered, and eliminated Phi Phi O'Hara.",
+    "tags": ["lip-sync", "iconic", "return"],
+    "queenIds": ["alyssa-edwards", "tatianna", "phi-phi-ohara"],
+    "seasonIds": ["AS-S02"],
+    "episodeIds": ["AS-S02-E05"]
+  },
+  {
+    "id": "as2-alaska-crown",
+    "title": "Alaska wins All Stars 2",
+    "summary": "In All Stars Supergroup (AS-S02-E08), Roxxxy Andrews was eliminated on the runway. Alaska, Detox, and Katya lip-synced to \"If I Were Your Woman\"; Alaska was crowned and entered the Drag Race Hall of Fame with a $100,000 prize.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["alaska", "detox", "katya", "roxxxy-andrews"],
+    "seasonIds": ["AS-S02"],
+    "episodeIds": ["AS-S02-E08"]
+  }
+]

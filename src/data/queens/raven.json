@@ -1,0 +1,81 @@
+{
+  "id": "raven",
+  "name": "Raven",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S02-E07",
+          "name": "Create and promote an autobiography concept"
+        },
+        {
+          "episodeId": "US-S02-E08",
+          "name": "Makeover older gay men"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S02-E01",
+          "name": "Gone with the Wind inspired photoshoot"
+        },
+        {
+          "episodeId": "US-S02-E04",
+          "name": "The Queen is Right bidding challenge"
+        },
+        {
+          "episodeId": "US-S02-E05",
+          "name": "Decorate a box in your drag style"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S02-E02",
+          "song": "My Lovin' (You're Never Gonna Get It)"
+        },
+        {
+          "episodeId": "US-S02-E03",
+          "song": "I Hear You Knocking"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E11",
+          "song": "Jealous of My Boogie (Gomi and RasJek Edit)"
+        }
+      ]
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 2,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S01-E02",
+          "name": "In Da Butt Ru"
+        },
+        {
+          "episodeId": "AS-S01-E05",
+          "name": "Basketball game of Fish"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S01-E04",
+          "song": "Don't Cha"
+        },
+        {
+          "episodeId": "AS-S01-E05",
+          "song": "Dancing on My Own"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S01-E06",
+          "song": "Responsitrannity (Matt Pop Remix)"
+        }
+      ]
+    }
+  ]
+}

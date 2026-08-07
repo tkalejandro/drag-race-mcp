@@ -1,0 +1,38 @@
+[
+  {
+    "id": "s04-willam-disqualified",
+    "title": "Willam disqualified",
+    "summary": "In Frenemies (US-S04-E08), after Latrice Royale and Willam won the duet challenge, RuPaul revealed Willam had breached contract (inviting her husband to the hotel) and disqualified her — the first disqualification in Drag Race history. Phi Phi O'Hara and Sharon Needles both survived their lip-sync.",
+    "tags": ["controversy", "drama"],
+    "queenIds": ["willam", "phi-phi-ohara", "sharon-needles", "latrice-royale"],
+    "seasonIds": ["US-S04"],
+    "episodeIds": ["US-S04-E08"]
+  },
+  {
+    "id": "s04-first-deferred-crown",
+    "title": "First deferred live crowning",
+    "summary": "Season 4 was the first to defer the crown: The Final Three (US-S04-E13) staged a three-way lip-sync to \"Glamazon\" with no winner announced on set. Sharon Needles was crowned at the live reunion (US-S04-E14), with Chad Michaels and Phi Phi O'Hara as runners-up.",
+    "tags": ["crown", "finale", "production"],
+    "queenIds": ["sharon-needles", "chad-michaels", "phi-phi-ohara"],
+    "seasonIds": ["US-S04"],
+    "episodeIds": ["US-S04-E13", "US-S04-E14"]
+  },
+  {
+    "id": "s04-kenya-return",
+    "title": "Kenya Michaels voted back in",
+    "summary": "After Kenya Michaels was eliminated in Snatch Game (US-S04-E05), the judges voted her back for DILFs: Dads I'd Like to Frock (US-S04-E10). She was eliminated again that episode after lip-syncing against Latrice Royale.",
+    "tags": ["return"],
+    "queenIds": ["kenya-michaels", "latrice-royale"],
+    "seasonIds": ["US-S04"],
+    "episodeIds": ["US-S04-E05", "US-S04-E10"]
+  },
+  {
+    "id": "s04-latrice-miss-c",
+    "title": "Latrice Royale Miss Congeniality",
+    "summary": "Latrice Royale was voted Miss Congeniality by viewers, announced at the Season 4 reunion (US-S04-E14) where Sharon Needles was also crowned.",
+    "tags": ["fan-favorite", "reunion"],
+    "queenIds": ["latrice-royale"],
+    "seasonIds": ["US-S04"],
+    "episodeIds": ["US-S04-E14"]
+  }
+]

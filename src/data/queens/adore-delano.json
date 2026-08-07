@@ -1,0 +1,59 @@
+{
+  "id": "adore-delano",
+  "name": "Adore Delano",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S06-E06",
+          "name": "Write, record, and perform verses to Oh No She Betta Don't"
+        },
+        {
+          "episodeId": "US-S06-E07",
+          "name": "In pairs, film an infomercial for RuPaul's Glamazon Cosmetics"
+        },
+        {
+          "episodeId": "US-S06-E11",
+          "name": "The Glitter Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S06-E03",
+          "name": "Create a beach-themed lip-sync in pairs"
+        },
+        {
+          "episodeId": "US-S06-E04",
+          "name": "Female or She-male?"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S06-E09",
+          "song": "Vibeology"
+        },
+        {
+          "episodeId": "US-S06-E10",
+          "song": "Think"
+        },
+        {
+          "episodeId": "US-S06-E12",
+          "song": "Sissy That Walk"
+        }
+      ],
+      "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S02-E02",
+      "quit": true
+    }
+  ]
+}

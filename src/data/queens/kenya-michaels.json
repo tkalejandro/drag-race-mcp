@@ -1,0 +1,34 @@
+{
+  "id": "kenya-michaels",
+  "name": "Kenya Michaels",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S04-E03",
+          "name": "Create hats with butterfly-shaped accessories for Piyah Martell"
+        },
+        {
+          "episodeId": "US-S04-E10",
+          "name": "Give a teddy bear a makeover"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S04-E05",
+          "song": "Vogue"
+        },
+        {
+          "episodeId": "US-S04-E10",
+          "song": "(You Make Me Feel Like) A Natural Woman"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S04-E10",
+      "reentered": true
+    }
+  ]
+}

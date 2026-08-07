@@ -1,0 +1,64 @@
+{
+  "id": "yara-sofia",
+  "name": "Yara Sofia",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S03-E11",
+          "name": "The Hair Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E13",
+          "name": "Create a marketable drag product and pitch it on RuVC"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S03-E09",
+          "song": "Mickey (Spanish version)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E13",
+          "song": "I Think About You"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E13",
+      "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S01-E02",
+          "name": "RuPaul's Gaff-In variety show celebrity impersonations"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S01-E03",
+          "name": "Queens With Guy Phones"
+        },
+        {
+          "episodeId": "AS-S01-E04",
+          "name": "Cheer-reading routine"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S01-E04",
+          "song": "Don't Cha"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S01-E04"
+    }
+  ]
+}

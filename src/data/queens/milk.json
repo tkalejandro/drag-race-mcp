@@ -1,0 +1,25 @@
+{
+  "id": "milk",
+  "name": "Milk",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S06-E03",
+          "name": "Create a beach-themed lip-sync in pairs"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E06",
+          "song": "Whatta Man"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E06"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "darienne-lake",
+  "name": "Darienne Lake",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S06-E03",
+          "name": "Star in horror film trailers for Drag Race Me to Hell"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S06-E06",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S06-E02",
+          "song": "Turn the Beat Around"
+        },
+        {
+          "episodeId": "US-S06-E07",
+          "song": "Point of No Return"
+        },
+        {
+          "episodeId": "US-S06-E11",
+          "song": "Stronger (What Doesn't Kill You)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E12",
+          "song": "Sissy That Walk"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E12"
+    }
+  ]
+}

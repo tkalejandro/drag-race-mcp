@@ -1,0 +1,37 @@
+[
+  {
+    "id": "s07-new-judges",
+    "title": "Carson and Ross join the panel",
+    "summary": "Season 7 replaced Santino Rice on the regular panel with Carson Kressley and Ross Mathews, who shared judging duties and were both present for the premiere (US-S07-E01).",
+    "tags": ["production", "judges"],
+    "seasonIds": ["US-S07"],
+    "episodeIds": ["US-S07-E01"]
+  },
+  {
+    "id": "s07-trixie-returns",
+    "title": "Trixie Mattel returns via Conjoined Queens",
+    "summary": "After elimination in Spoof! (There It Is) (US-S07-E04), Trixie Mattel re-entered when Pearl won the Conjoined Queens makeover (US-S07-E08). She was eliminated again in Prancing Queens (US-S07-E10).",
+    "tags": ["twist", "return"],
+    "queenIds": ["trixie-mattel", "pearl"],
+    "seasonIds": ["US-S07"],
+    "episodeIds": ["US-S07-E04", "US-S07-E08", "US-S07-E10"]
+  },
+  {
+    "id": "s07-born-naked-four-way",
+    "title": "Four-way Born Naked lip-sync",
+    "summary": "In And the Rest Is Drag (US-S07-E12), the final four lip-synced to RuPaul's \"Born Naked.\" Kennedy Davenport was eliminated; Ginger Minj, Pearl, and Violet Chachki advanced to the finale.",
+    "tags": ["lip-sync", "finale"],
+    "queenIds": ["kennedy-davenport", "ginger-minj", "pearl", "violet-chachki"],
+    "seasonIds": ["US-S07"],
+    "episodeIds": ["US-S07-E12"]
+  },
+  {
+    "id": "s07-violet-crown",
+    "title": "Violet Chachki wins Season 7",
+    "summary": "At the Grand Finale (US-S07-E14), Violet Chachki was crowned. Ginger Minj and Pearl were runners-up. Katya was voted Miss Congeniality by viewers. The cash prize was $100,000.",
+    "tags": ["crown", "finale", "fan-favorite"],
+    "queenIds": ["violet-chachki", "ginger-minj", "pearl", "katya"],
+    "seasonIds": ["US-S07"],
+    "episodeIds": ["US-S07-E14"]
+  }
+]

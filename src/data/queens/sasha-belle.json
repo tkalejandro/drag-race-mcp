@@ -1,0 +1,20 @@
+{
+  "id": "sasha-belle",
+  "name": "Sasha Belle",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E02",
+          "song": "Twist of Fate"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E02"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "alaska",
+  "name": "Alaska",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S05-E08",
+          "name": "Create, market, and film a commercial for a signature fragrance"
+        },
+        {
+          "episodeId": "US-S05-E11",
+          "name": "The Sugar Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S05-E03",
+          "name": "Create a mannequin doll in pairs for America's Junior Drag Superstar"
+        },
+        {
+          "episodeId": "US-S05-E07",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "US-S05-E10",
+          "name": "Last as long as possible in drag booty camp with a fitness trainer"
+        },
+        {
+          "episodeId": "US-S05-E11",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S02-E02",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "AS-S02-E04",
+          "name": "In pairs, act in a parody movie sequel from one of RuPaul's favorite movies"
+        },
+        {
+          "episodeId": "AS-S02-E05",
+          "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen"
+        },
+        {
+          "episodeId": "AS-S02-E06",
+          "name": "Create drag-influenced products"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S02-E01",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "AS-S02-E06",
+          "name": "Play a game of beastly golf"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S02-E02",
+          "song": "Le Freak"
+        },
+        {
+          "episodeId": "AS-S02-E04",
+          "song": "Got to Be Real"
+        },
+        {
+          "episodeId": "AS-S02-E06",
+          "song": "Cherry Bomb"
+        },
+        {
+          "episodeId": "AS-S02-E08",
+          "song": "If I Were Your Woman"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ],
+  "aliases": [
+    "Alaska Thunderfuck 5000"
+  ]
+}

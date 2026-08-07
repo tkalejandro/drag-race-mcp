@@ -1,0 +1,81 @@
+{
+  "id": "katya",
+  "name": "Katya",
+  "aliases": [
+    "Yekaterina Petrovna Zamolodchikova"
+  ],
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S07-E06",
+          "name": "Re-enact Whatever Happened to Merle Ginsberg from Merle Ginsberg, Michelle Visage, and RuPaul points of view"
+        },
+        {
+          "episodeId": "US-S07-E10",
+          "name": "In pairs, dance in a live drag dance spectacular"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S07-E05",
+          "name": "In pairs, make paper versions of classic celebrity red carpet outfits"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S07-E02",
+          "song": "Twist of Fate"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E11",
+          "song": "Roar"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E11",
+      "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S02-E02",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "AS-S02-E06",
+          "name": "Create drag-influenced products"
+        },
+        {
+          "episodeId": "AS-S02-E07",
+          "name": "Makeover a family member"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S02-E02",
+          "song": "Le Freak"
+        },
+        {
+          "episodeId": "AS-S02-E06",
+          "song": "Cherry Bomb"
+        },
+        {
+          "episodeId": "AS-S02-E07",
+          "song": "Step It Up"
+        },
+        {
+          "episodeId": "AS-S02-E08",
+          "song": "If I Were Your Woman"
+        }
+      ]
+    }
+  ]
+}

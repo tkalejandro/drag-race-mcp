@@ -1,0 +1,69 @@
+{
+  "id": "manila-luzon",
+  "name": "Manila Luzon",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S03-E05",
+          "name": "Produce a morning news show called QNN News"
+        },
+        {
+          "episodeId": "US-S03-E12",
+          "name": "Makeover heterosexual male athletes"
+        },
+        {
+          "episodeId": "US-S03-E13",
+          "name": "The Money Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E04",
+          "name": "In pairs, make a leotard using only duct tape"
+        },
+        {
+          "episodeId": "US-S03-E09",
+          "name": "Decorate bras using rhinestones"
+        },
+        {
+          "episodeId": "US-S03-E10",
+          "name": "Musical chairs"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S03-E08",
+          "song": "MacArthur Park"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E15",
+          "song": "Champion (DJ BunJoe's Olympic Mix)"
+        }
+      ]
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S01-E01",
+          "name": "Create an Opposites Attract photoshoot and a half-baked photo"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S01-E03",
+          "song": "Nasty"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S01-E03"
+    }
+  ]
+}

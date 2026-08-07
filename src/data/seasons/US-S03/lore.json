@@ -1,0 +1,46 @@
+[
+  {
+    "id": "s03-raja-win-leaked",
+    "title": "Raja's win leaked before air",
+    "summary": "Before Season 3 aired, Perez Hilton publicly revealed Raja as the winner. The leak prompted production to change crowning formats from Season 4 onward, filming multiple finale outcomes to prevent spoilers.",
+    "tags": ["controversy", "production", "crown"],
+    "queenIds": ["raja"],
+    "seasonIds": ["US-S03"]
+  },
+  {
+    "id": "s03-first-double-shantay",
+    "title": "First double shantay: Mickey Spanish",
+    "summary": "In Life, Liberty and the Pursuit of Style (US-S03-E09), Carmen Carrera and Yara Sofia lip-synced to Toni Basil's \"Mickey\" (Spanish version). Both won and no one was eliminated — the show's first double shantay.",
+    "tags": ["double-shantay", "lip-sync", "iconic"],
+    "queenIds": ["carmen-carrera", "yara-sofia"],
+    "seasonIds": ["US-S03"],
+    "episodeIds": ["US-S03-E09"]
+  },
+  {
+    "id": "s03-carmen-return",
+    "title": "Carmen Carrera voted back in",
+    "summary": "After Carmen Carrera was eliminated in RuPaul-a-palooza (US-S03-E10), the judges voted her back into the competition for Jocks in Frocks (US-S03-E12). She was eliminated again that same episode after lip-syncing against Raja.",
+    "tags": ["return", "drama"],
+    "queenIds": ["carmen-carrera", "raja"],
+    "seasonIds": ["US-S03"],
+    "episodeIds": ["US-S03-E10", "US-S03-E12"]
+  },
+  {
+    "id": "s03-raja-crown",
+    "title": "Raja wins Season 3",
+    "summary": "In the Grand Finale (US-S03-E15), Alexis Mateo was eliminated before the crown lip-sync. Raja and Manila Luzon lip-synced to \"Champion (DJ BunJoe's Olympic Mix)\"; Raja was crowned. The Season 3 cash prize was $75,000.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["raja", "manila-luzon", "alexis-mateo"],
+    "seasonIds": ["US-S03"],
+    "episodeIds": ["US-S03-E15"]
+  },
+  {
+    "id": "s03-yara-miss-c",
+    "title": "Yara Sofia Miss Congeniality",
+    "summary": "Yara Sofia was voted Miss Congeniality by viewers, announced at the Season 3 reunion (US-S03-E16).",
+    "tags": ["fan-favorite", "reunion"],
+    "queenIds": ["yara-sofia"],
+    "seasonIds": ["US-S03"],
+    "episodeIds": ["US-S03-E16"]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "miss-fame",
+  "name": "Miss Fame",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E09",
+          "song": "Really Don't Care"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E09"
+    }
+  ]
+}

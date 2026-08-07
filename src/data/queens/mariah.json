@@ -1,0 +1,28 @@
+{
+  "id": "mariah",
+  "name": "Mariah",
+  "aliases": [
+    "Mariah Paris Balenciaga"
+  ],
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E03",
+          "name": "In pairs, guess your partner's choices for different questions"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E06",
+          "song": "Looking for a New Love"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E06"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "shangela-lipstick-message",
+    "title": "Shangela starts the lipstick message",
+    "summary": "After becoming Season 2's first eliminated queen (US-S02-E01), Shangela wrote a farewell message in lipstick on her workstation mirror — starting a Drag Race tradition continued by later porkchop queens.",
+    "tags": ["porkchop", "iconic", "quote"],
+    "queenIds": ["shangela"],
+    "seasonIds": ["US-S02"],
+    "episodeIds": ["US-S02-E01"]
+  },
+  {
+    "id": "first-snatch-game",
+    "title": "The first Snatch Game",
+    "summary": "Season 2 introduced Snatch Game (US-S02-E04). Tatianna won as Britney Spears; Sonique was eliminated after lip-syncing to \"Two of Hearts.\"",
+    "tags": ["snatch-game", "iconic", "comedy"],
+    "queenIds": ["tatianna", "sonique"],
+    "seasonIds": ["US-S02"],
+    "episodeIds": ["US-S02-E04"]
+  },
+  {
+    "id": "tyra-s02-crown",
+    "title": "Tyra Sanchez wins Season 2",
+    "summary": "In the Grand Finale (US-S02-E11), Tyra Sanchez and Raven lip-synced to \"Jealous of My Boogie (Gomi and RasJek Edit).\" Tyra was crowned; Raven was runner-up. The Season 2 cash prize was $25,000.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["tyra-sanchez", "raven"],
+    "seasonIds": ["US-S02"],
+    "episodeIds": ["US-S02-E11"]
+  },
+  {
+    "id": "untucked-debut",
+    "title": "Untucked debuts with Season 2",
+    "summary": "Season 2 was the first to air RuPaul's Drag Race Untucked as a companion behind-the-scenes show after each week's episode.",
+    "tags": ["untucked", "production"],
+    "seasonIds": ["US-S02"]
+  },
+  {
+    "id": "pandora-boxx-miss-c",
+    "title": "Pandora Boxx Miss Congeniality",
+    "summary": "Pandora Boxx was voted Miss Congeniality by viewers, announced at the Season 2 reunion (US-S02-E12).",
+    "tags": ["fan-favorite", "reunion"],
+    "queenIds": ["pandora-boxx"],
+    "seasonIds": ["US-S02"],
+    "episodeIds": ["US-S02-E12"]
+  }
+]

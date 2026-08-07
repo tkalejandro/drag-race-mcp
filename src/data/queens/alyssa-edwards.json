@@ -1,0 +1,71 @@
+{
+  "id": "alyssa-edwards",
+  "name": "Alyssa Edwards",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "US-S05-E04",
+          "name": "Perform ballet acts about RuPaul's life (No RuPaulogies)"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S05-E05",
+          "name": "Style a cuddler into a red carpet look for an Us Weekly fashion face-off"
+        },
+        {
+          "episodeId": "US-S05-E09",
+          "name": "Create a fake sob story and produce real tears for RuPaul"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S05-E07",
+          "song": "Whip My Hair"
+        },
+        {
+          "episodeId": "US-S05-E08",
+          "song": "Ain't Nothin' Goin' On but the Rent"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E09",
+          "song": "Cold Hearted"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E09"
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S02-E03",
+          "name": "Perform a lip-syncing dance number dedicated to legendary historical women"
+        },
+        {
+          "episodeId": "AS-S02-E05",
+          "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S02-E03",
+          "song": "Tell It to My Heart"
+        },
+        {
+          "episodeId": "AS-S02-E05",
+          "song": "Shut Up and Drive"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S02-E07",
+      "reentered": true
+    }
+  ]
+}

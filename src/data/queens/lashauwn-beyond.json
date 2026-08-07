@@ -1,0 +1,20 @@
+{
+  "id": "lashauwn-beyond",
+  "name": "Lashauwn Beyond",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S04-E02",
+          "song": "Bad Girls"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S04-E02"
+    }
+  ]
+}

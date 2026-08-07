@@ -1,0 +1,39 @@
+{
+  "id": "sahara-davenport",
+  "name": "Sahara Davenport",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "US-S02-E02",
+          "name": "Burlesque performance and gift-certificate sales"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S02-E02",
+          "name": "Turn a mini-Ru doll from a lady to a tramp"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S02-E01",
+          "song": "Cover Girl (Put the Bass in Your Walk)"
+        },
+        {
+          "episodeId": "US-S02-E05",
+          "song": "Carry On"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E06",
+          "song": "Black Velvet"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S02-E06"
+    }
+  ]
+}

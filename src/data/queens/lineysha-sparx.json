@@ -1,0 +1,30 @@
+{
+  "id": "lineysha-sparx",
+  "name": "Lineysha Sparx",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 9,
+      "challengeWins": [
+        {
+          "episodeId": "US-S05-E02",
+          "name": "In teams, lip-sync and re-enact famous Untucked scenes"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S05-E03",
+          "name": "Create a mannequin doll in pairs for America's Junior Drag Superstar"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E05",
+          "song": "Take Me Home"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E05"
+    }
+  ]
+}

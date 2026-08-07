@@ -1,0 +1,20 @@
+{
+  "id": "gia-gunn",
+  "name": "Gia Gunn",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E05",
+          "song": "Head to Toe"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E05"
+    }
+  ]
+}

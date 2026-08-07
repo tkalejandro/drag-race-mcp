@@ -1,0 +1,25 @@
+{
+  "id": "mrs-kasha-davis",
+  "name": "Mrs. Kasha Davis",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S07-E05",
+          "name": "In pairs, make paper versions of classic celebrity red carpet outfits"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E05",
+          "song": "Lovergirl"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E05"
+    }
+  ]
+}

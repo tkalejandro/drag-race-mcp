@@ -1,0 +1,45 @@
+{
+  "id": "raja",
+  "name": "Raja",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S03-E02",
+          "name": "Create an outfit made from Christmas-themed items"
+        },
+        {
+          "episodeId": "US-S03-E07",
+          "name": "Create an outfit inspired by a bakery cake"
+        },
+        {
+          "episodeId": "US-S03-E10",
+          "name": "Perform RuPaul's Superstar in different music genres"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E02",
+          "name": "Christmas Card photoshoot on a trampoline"
+        },
+        {
+          "episodeId": "US-S03-E11",
+          "name": "Create beach-themed headpieces"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S03-E12",
+          "song": "Straight Up"
+        },
+        {
+          "episodeId": "US-S03-E15",
+          "song": "Champion (DJ BunJoe's Olympic Mix)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

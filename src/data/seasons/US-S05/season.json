@@ -1,0 +1,52 @@
+{
+  "id": "US-S05",
+  "franchise": "US",
+  "name": "RuPaul's Drag Race Season 5",
+  "seasonNumber": 5,
+  "year": 2013,
+  "episodeCount": 14,
+  "episodeIds": [
+    "US-S05-E01",
+    "US-S05-E02",
+    "US-S05-E03",
+    "US-S05-E04",
+    "US-S05-E05",
+    "US-S05-E06",
+    "US-S05-E07",
+    "US-S05-E08",
+    "US-S05-E09",
+    "US-S05-E10",
+    "US-S05-E11",
+    "US-S05-E12",
+    "US-S05-E13",
+    "US-S05-E14"
+  ],
+  "castIds": [
+    "jinkx-monsoon",
+    "alaska",
+    "roxxxy-andrews",
+    "detox",
+    "coco-montrese",
+    "alyssa-edwards",
+    "ivy-winters",
+    "jade-jolie",
+    "lineysha-sparx",
+    "honey-mahogany",
+    "vivienne-pinay",
+    "monica-beverly-hillz",
+    "serena-chacha",
+    "penny-tration"
+  ],
+  "winnerId": "jinkx-monsoon",
+  "runnerUpIds": ["alaska", "roxxxy-andrews"],
+  "missCongenialityId": "ivy-winters",
+  "porkchopId": "penny-tration",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Santino Rice" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "USD" }
+}

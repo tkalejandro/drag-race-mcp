@@ -1,0 +1,64 @@
+{
+  "id": "phi-phi-ohara",
+  "name": "Phi Phi O'Hara",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S04-E07",
+          "name": "Create a magazine cover on an assigned topic"
+        },
+        {
+          "episodeId": "US-S04-E10",
+          "name": "Makeover a DILF into a pregnant drag diva"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S04-E02",
+          "name": "Create a badonkadonk with padding"
+        },
+        {
+          "episodeId": "US-S04-E03",
+          "name": "Create hats with butterfly-shaped accessories for Piyah Martell"
+        },
+        {
+          "episodeId": "US-S04-E05",
+          "name": "Beat the Cock"
+        },
+        {
+          "episodeId": "US-S04-E09",
+          "name": "Design an Absolut Vodka inspired shoe"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S04-E08",
+          "song": "It's Raining Men (The Sequel)"
+        }
+      ],
+      "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S02-E04",
+          "name": "In pairs, act in a parody movie sequel from one of RuPaul's favorite movies"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S02-E04",
+          "song": "Got to Be Real"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S02-E05"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "as1-team-format",
+    "title": "First All Stars team format",
+    "summary": "All Stars 1 cast queens into pairs (Shad, Rujubee, Yarlexis, Latrila, Brown Flowers, Mandora). Both teammates were eliminated together each week, and teams were also judged on synergy.",
+    "tags": ["production", "twist"],
+    "seasonIds": ["AS-S01"],
+    "episodeIds": ["AS-S01-E01"]
+  },
+  {
+    "id": "as1-she-mergency",
+    "title": "Yara tags in on Don't Cha",
+    "summary": "In All Star Girl Groups (AS-S01-E04), Raven lip-synced against Alexis Mateo to \"Don't Cha.\" Yara Sofia hit the she-mergency button and tagged in; Raven won and Team Yarlexis (Alexis and Yara) was eliminated.",
+    "tags": ["lip-sync", "iconic", "twist"],
+    "queenIds": ["raven", "alexis-mateo", "yara-sofia"],
+    "seasonIds": ["AS-S01"],
+    "episodeIds": ["AS-S01-E04"]
+  },
+  {
+    "id": "as1-dancing-on-my-own",
+    "title": "Double shantay to Dancing on My Own",
+    "summary": "In Dynamic Drag Duos (AS-S01-E05), Team Rujubee (Jujubee and Raven) were the sole bottom team and lip-synced to Robyn's \"Dancing on My Own.\" RuPaul eliminated no one.",
+    "tags": ["lip-sync", "iconic"],
+    "queenIds": ["jujubee", "raven"],
+    "seasonIds": ["AS-S01"],
+    "episodeIds": ["AS-S01-E05"]
+  },
+  {
+    "id": "as1-chad-crown",
+    "title": "Chad Michaels wins All Stars 1",
+    "summary": "At The Grand Finale (AS-S01-E06), Jujubee and Shannel were cut before the final lip-sync. Chad Michaels beat Raven to \"Responsitrannity (Matt Pop Remix)\" and won $100,000.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["chad-michaels", "raven", "jujubee", "shannel"],
+    "seasonIds": ["AS-S01"],
+    "episodeIds": ["AS-S01-E06"]
+  }
+]

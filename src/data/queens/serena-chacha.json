@@ -1,0 +1,30 @@
+{
+  "id": "serena-chacha",
+  "name": "Serena ChaCha",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S05-E02",
+          "name": "Lip-sync to a RuPaul song with only your mouth visible"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S05-E01",
+          "song": "Party in the U.S.A."
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E02",
+          "song": "Only Girl (In the World)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E02"
+    }
+  ]
+}

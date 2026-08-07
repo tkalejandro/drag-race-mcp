@@ -1,0 +1,23 @@
+{
+  "id": "jasmine-masters",
+  "name": "Jasmine Masters",
+  "aliases": [
+    "Jasmine Diane Masters"
+  ],
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E03",
+          "song": "I Was Gonna Cancel"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E03"
+    }
+  ]
+}

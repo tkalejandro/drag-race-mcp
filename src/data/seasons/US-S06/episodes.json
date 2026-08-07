@@ -1,0 +1,320 @@
+[
+  {
+    "id": "US-S06-E01",
+    "seasonId": "US-S06",
+    "episodeNumber": 1,
+    "title": "RuPaul's Big Opening",
+    "miniChallenge": {
+      "name": "Photoshoot while jumping off a platform",
+      "winnerIds": ["laganja-estranja"]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit inspired by a TV show",
+      "winnerIds": ["bendelacreme"]
+    },
+    "topIds": ["bendelacreme", "april-carrion", "gia-gunn"],
+    "bottomIds": ["kelly-mantle", "vivacious"],
+    "lipSync": {
+      "song": "Express Yourself",
+      "queenIds": ["kelly-mantle", "vivacious"],
+      "winnerIds": ["vivacious"],
+      "eliminatedIds": ["kelly-mantle"]
+    },
+    "guestJudges": [
+      { "name": "Adam Lambert" },
+      { "name": "Mike Ruiz" }
+    ]
+  },
+  {
+    "id": "US-S06-E02",
+    "seasonId": "US-S06",
+    "episodeNumber": 2,
+    "title": "RuPaul's Big Opening: Part 2",
+    "miniChallenge": {
+      "name": "Boudoir pillow fight with the pit crew photoshoot",
+      "winnerIds": ["trinity-k-bonet"]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit inspired by party supplies",
+      "winnerIds": ["bianca-del-rio"]
+    },
+    "topIds": ["bianca-del-rio", "milk", "trinity-k-bonet"],
+    "bottomIds": ["darienne-lake", "magnolia-crawford"],
+    "lipSync": {
+      "song": "Turn the Beat Around",
+      "queenIds": ["darienne-lake", "magnolia-crawford"],
+      "winnerIds": ["darienne-lake"],
+      "eliminatedIds": ["magnolia-crawford"]
+    },
+    "guestJudges": [{ "name": "Khloé Kardashian" }]
+  },
+  {
+    "id": "US-S06-E03",
+    "seasonId": "US-S06",
+    "episodeNumber": 3,
+    "title": "Scream Queens",
+    "miniChallenge": {
+      "name": "Create a beach-themed lip-sync in pairs",
+      "winnerIds": ["adore-delano", "milk"]
+    },
+    "maxiChallenge": {
+      "name": "Star in horror film trailers for Drag Race Me to Hell",
+      "winnerIds": ["darienne-lake"]
+    },
+    "runwayTheme": "Best Drag",
+    "topIds": ["darienne-lake"],
+    "bottomIds": ["april-carrion", "vivacious"],
+    "lipSync": {
+      "song": "Shake It Up",
+      "queenIds": ["april-carrion", "vivacious"],
+      "winnerIds": ["april-carrion"],
+      "eliminatedIds": ["vivacious"]
+    },
+    "guestJudges": [
+      { "name": "Lena Headey" },
+      { "name": "Linda Blair" }
+    ]
+  },
+  {
+    "id": "US-S06-E04",
+    "seasonId": "US-S06",
+    "episodeNumber": 4,
+    "title": "Shade: The Rusical",
+    "miniChallenge": {
+      "name": "Female or She-male?",
+      "winnerIds": ["adore-delano", "bendelacreme"]
+    },
+    "maxiChallenge": {
+      "name": "Shade: The Rusical",
+      "winnerIds": ["courtney-act"]
+    },
+    "runwayTheme": "Tony Award Realness",
+    "topIds": ["courtney-act", "adore-delano", "bendelacreme"],
+    "bottomIds": ["april-carrion", "trinity-k-bonet"],
+    "lipSync": {
+      "song": "I'm Every Woman",
+      "queenIds": ["april-carrion", "trinity-k-bonet"],
+      "winnerIds": ["trinity-k-bonet"],
+      "eliminatedIds": ["april-carrion"]
+    },
+    "guestJudges": [
+      { "name": "Lucian Piane" },
+      { "name": "Sheryl Lee Ralph" }
+    ]
+  },
+  {
+    "id": "US-S06-E05",
+    "seasonId": "US-S06",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["bendelacreme"]
+    },
+    "runwayTheme": "Night of a Thousand RuPaul's",
+    "topIds": ["bendelacreme", "adore-delano", "bianca-del-rio"],
+    "bottomIds": ["gia-gunn", "laganja-estranja"],
+    "lipSync": {
+      "song": "Head to Toe",
+      "queenIds": ["gia-gunn", "laganja-estranja"],
+      "winnerIds": ["laganja-estranja"],
+      "eliminatedIds": ["gia-gunn"]
+    },
+    "guestJudges": [
+      { "name": "Gillian Jacobs" },
+      { "name": "Heather McDonald" }
+    ]
+  },
+  {
+    "id": "US-S06-E06",
+    "seasonId": "US-S06",
+    "episodeNumber": 6,
+    "title": "Oh No She Betta Don't!",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["darienne-lake"]
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to Oh No She Betta Don't",
+      "winnerIds": ["adore-delano"]
+    },
+    "runwayTheme": "Crazy, Sexy, Cool",
+    "topIds": ["adore-delano", "bianca-del-rio", "joslyn-fox"],
+    "bottomIds": ["milk", "trinity-k-bonet"],
+    "lipSync": {
+      "song": "Whatta Man",
+      "queenIds": ["milk", "trinity-k-bonet"],
+      "winnerIds": ["trinity-k-bonet"],
+      "eliminatedIds": ["milk"]
+    },
+    "guestJudges": [
+      { "name": "Eve" },
+      { "name": "Trina" }
+    ]
+  },
+  {
+    "id": "US-S06-E07",
+    "seasonId": "US-S06",
+    "episodeNumber": 7,
+    "title": "Glamazon by Colorevolution",
+    "miniChallenge": {
+      "name": "Design nails and hand-model fruits and vegetables",
+      "winnerIds": ["laganja-estranja"]
+    },
+    "maxiChallenge": {
+      "name": "In pairs, film an infomercial for RuPaul's Glamazon Cosmetics",
+      "winnerIds": ["adore-delano", "laganja-estranja"]
+    },
+    "runwayTheme": "Black and White Drama",
+    "topIds": ["adore-delano", "laganja-estranja", "bianca-del-rio", "trinity-k-bonet"],
+    "bottomIds": ["bendelacreme", "darienne-lake"],
+    "lipSync": {
+      "song": "Point of No Return",
+      "queenIds": ["bendelacreme", "darienne-lake"],
+      "winnerIds": ["darienne-lake"]
+    },
+    "guestJudges": [
+      { "name": "Leah Remini" },
+      { "name": "Lainie Kazan" }
+    ]
+  },
+  {
+    "id": "US-S06-E08",
+    "seasonId": "US-S06",
+    "episodeNumber": 8,
+    "title": "Drag Queens of Comedy",
+    "miniChallenge": {
+      "name": "Lip-sync to a RuPaul song upside down",
+      "winnerIds": ["joslyn-fox"]
+    },
+    "maxiChallenge": {
+      "name": "Stand-up comedy act in front of the judges and a live audience",
+      "winnerIds": ["bianca-del-rio"]
+    },
+    "topIds": ["bianca-del-rio", "darienne-lake", "trinity-k-bonet"],
+    "bottomIds": ["joslyn-fox", "laganja-estranja"],
+    "lipSync": {
+      "song": "Stupid Girls",
+      "queenIds": ["joslyn-fox", "laganja-estranja"],
+      "winnerIds": ["joslyn-fox"],
+      "eliminatedIds": ["laganja-estranja"]
+    },
+    "guestJudges": [
+      { "name": "Bruce Vilanch" },
+      { "name": "Jaime Pressly" }
+    ]
+  },
+  {
+    "id": "US-S06-E09",
+    "seasonId": "US-S06",
+    "episodeNumber": 9,
+    "title": "Queens of Talk",
+    "miniChallenge": {
+      "name": "Hung Men hangman-inspired challenge",
+      "winnerIds": ["bendelacreme"]
+    },
+    "maxiChallenge": {
+      "name": "Guest host The RuPaul Show and interview Chaz Bono and Georgia Holt",
+      "winnerIds": ["courtney-act"]
+    },
+    "runwayTheme": "Animal Kingdom Couture",
+    "topIds": ["courtney-act", "bendelacreme"],
+    "bottomIds": ["adore-delano", "trinity-k-bonet"],
+    "lipSync": {
+      "song": "Vibeology",
+      "queenIds": ["adore-delano", "trinity-k-bonet"],
+      "winnerIds": ["adore-delano"],
+      "eliminatedIds": ["trinity-k-bonet"]
+    },
+    "guestJudges": [
+      { "name": "Chaz Bono" },
+      { "name": "Georgia Holt" },
+      { "name": "Paula Abdul" }
+    ]
+  },
+  {
+    "id": "US-S06-E10",
+    "seasonId": "US-S06",
+    "episodeNumber": 10,
+    "title": "Drag My Wedding",
+    "miniChallenge": {
+      "name": "Abstract body paintings in honor of same-sex marriage",
+      "winnerIds": ["bianca-del-rio"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover grooms into brides for a drag wedding",
+      "winnerIds": ["bianca-del-rio"]
+    },
+    "topIds": ["bianca-del-rio", "bendelacreme"],
+    "bottomIds": ["adore-delano", "joslyn-fox"],
+    "lipSync": {
+      "song": "Think",
+      "queenIds": ["adore-delano", "joslyn-fox"],
+      "winnerIds": ["adore-delano"],
+      "eliminatedIds": ["joslyn-fox"]
+    },
+    "guestJudges": [
+      { "name": "Neil Patrick Harris" },
+      { "name": "David Burtka" }
+    ]
+  },
+  {
+    "id": "US-S06-E11",
+    "seasonId": "US-S06",
+    "episodeNumber": 11,
+    "title": "Glitter Ball",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["bendelacreme"]
+    },
+    "maxiChallenge": {
+      "name": "The Glitter Ball",
+      "winnerIds": ["adore-delano"]
+    },
+    "runwayTheme": "Banjee Girl Bling, Platinum Card Executive Realness, and Dripping in Jewels Eleganza",
+    "topIds": ["adore-delano", "bianca-del-rio"],
+    "bottomIds": ["bendelacreme", "darienne-lake"],
+    "lipSync": {
+      "song": "Stronger (What Doesn't Kill You)",
+      "queenIds": ["bendelacreme", "darienne-lake"],
+      "winnerIds": ["darienne-lake"],
+      "eliminatedIds": ["bendelacreme"]
+    },
+    "guestJudges": [
+      { "name": "Bob Mackie" },
+      { "name": "Khloé Kardashian" }
+    ]
+  },
+  {
+    "id": "US-S06-E12",
+    "seasonId": "US-S06",
+    "episodeNumber": 12,
+    "title": "Sissy That Walk",
+    "runwayTheme": "Best Drag",
+    "topIds": ["adore-delano", "bianca-del-rio", "courtney-act"],
+    "bottomIds": ["darienne-lake"],
+    "lipSync": {
+      "song": "Sissy That Walk",
+      "queenIds": [
+        "adore-delano",
+        "bianca-del-rio",
+        "courtney-act",
+        "darienne-lake"
+      ],
+      "winnerIds": ["adore-delano", "bianca-del-rio", "courtney-act"],
+      "eliminatedIds": ["darienne-lake"]
+    }
+  },
+  {
+    "id": "US-S06-E13",
+    "seasonId": "US-S06",
+    "episodeNumber": 13,
+    "title": "Countdown to the Crown"
+  },
+  {
+    "id": "US-S06-E14",
+    "seasonId": "US-S06",
+    "episodeNumber": 14,
+    "title": "Reunited!"
+  }
+]
