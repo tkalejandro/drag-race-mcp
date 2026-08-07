@@ -54,7 +54,8 @@ Link by IDs only — never nest full queen/season objects.
 ## After filling a season
 
 1. Cross-check IDs and win/elim consistency across the three season files + queen files.
-2. Flip matching cells in README **Data coverage** from `—` to `✅` (Season / Queens / Episodes / Lore).
+2. Run `pnpm test` and fix any reported file/field (or duplicate-id) errors. Do not rely on the commit hook alone — catch mistakes during the edit loop.
+3. Flip matching cells in README **Data coverage** from `—` to `✅` (Season / Queens / Episodes / Lore).
 
 ## Reference pack
 

@@ -263,6 +263,16 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 
 JSON facts live under `src/data/` (queens global; seasons as `src/data/seasons/<SeasonId>/`). The `src/kb/` layer validates and indexes them via Zod + Maps. See `.cursor/skills/drag-race-data/` when contributing with an agent.
 
+### Validating data
+
+After adding or editing anything under `src/data/`, run:
+
+```bash
+pnpm test
+```
+
+That loads every JSON file through Zod, rejects bad fields and duplicate IDs, and fails with file + field paths. `git commit` runs the same check via a Husky pre-commit hook — still run the test yourself while editing so you catch issues before commit. After a fresh clone, run `pnpm install` once so Husky installs the hook.
+
 ---
 
 ## Test locally with Cursor
