@@ -372,6 +372,36 @@ Contributions welcome — especially filling gaps in **[Data coverage](#data-cov
 - Mark the matching cell `✅` in this README when a slice is done
 - New MCP tools & docs
 
+### Pull requests & commits
+
+Do **not** push straight to `main` (branch protection). Work on a branch and open a PR.
+
+**Branch names**
+
+- `feat/...` — new capability (types, tools, data for a season)
+- `fix/...` — bug fix
+- `docs/...` — README / comments only
+- `chore/...` — tooling, deps, cleanup
+
+**Commit / PR titles** (Conventional Commits style)
+
+| Prefix | Use for |
+|--------|---------|
+| `feat:` | New feature or data/types that unlock new agent behavior |
+| `fix:` | Bug fix |
+| `docs:` | Documentation only |
+| `chore:` | Maintenance (deps, config, formatting) |
+| `refactor:` | Code change with no behavior change |
+
+Examples:
+
+- `feat: add Season and SeasonId types`
+- `feat: add US-S06 season + cast data`
+- `fix: correct porkchopId for US-S01`
+- `docs: update data coverage checklist`
+
+**PR body** — short summary of *why*, plus a tiny test plan (e.g. `tsc`, which coverage cells flipped, MCP tool smoke test).
+
 Open an issue or PR.
 
 ---
