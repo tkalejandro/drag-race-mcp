@@ -1,0 +1,38 @@
+{
+  "id": "jiggly-caliente",
+  "name": "Jiggly Caliente",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S04-E01",
+          "name": "Photoshoot on a spinning platform sprayed with hazardous waste"
+        },
+        {
+          "episodeId": "US-S04-E03",
+          "name": "Create hats with butterfly-shaped accessories for Piyah Martell"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S04-E01",
+          "song": "Toxic"
+        },
+        {
+          "episodeId": "US-S04-E06",
+          "song": "Born This Way"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S04-E07",
+          "song": "Mi Vida Loca (My Crazy Life)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S04-E07"
+    }
+  ]
+}

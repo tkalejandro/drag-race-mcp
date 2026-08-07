@@ -1,0 +1,47 @@
+{
+  "id": "bendelacreme",
+  "name": "BenDeLaCreme",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S06-E01",
+          "name": "Create an outfit inspired by a TV show"
+        },
+        {
+          "episodeId": "US-S06-E05",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S06-E04",
+          "name": "Female or She-male?"
+        },
+        {
+          "episodeId": "US-S06-E09",
+          "name": "Hung Men hangman-inspired challenge"
+        },
+        {
+          "episodeId": "US-S06-E11",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E07",
+          "song": "Point of No Return"
+        },
+        {
+          "episodeId": "US-S06-E11",
+          "song": "Stronger (What Doesn't Kill You)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E11",
+      "missCongeniality": true
+    }
+  ]
+}

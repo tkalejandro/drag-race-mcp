@@ -1,0 +1,42 @@
+{
+  "id": "US-S01",
+  "franchise": "US",
+  "name": "RuPaul's Drag Race Season 1",
+  "seasonNumber": 1,
+  "year": 2009,
+  "episodeCount": 9,
+  "episodeIds": [
+    "US-S01-E01",
+    "US-S01-E02",
+    "US-S01-E03",
+    "US-S01-E04",
+    "US-S01-E05",
+    "US-S01-E06",
+    "US-S01-E07",
+    "US-S01-E08",
+    "US-S01-E09"
+  ],
+  "castIds": [
+    "bebe-zahara-benet",
+    "nina-flowers",
+    "rebecca-glasscock",
+    "shannel",
+    "ongina",
+    "jade",
+    "akashia",
+    "tammie-brown",
+    "victoria-porkchop-parker"
+  ],
+  "winnerId": "bebe-zahara-benet",
+  "runnerUpIds": ["nina-flowers"],
+  "missCongenialityId": "nina-flowers",
+  "porkchopId": "victoria-porkchop-parker",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Santino Rice" },
+    { "name": "Merle Ginsberg" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 20000, "currency": "USD" }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "US-S04",
+  "franchise": "US",
+  "name": "RuPaul's Drag Race Season 4",
+  "seasonNumber": 4,
+  "year": 2012,
+  "episodeCount": 14,
+  "episodeIds": [
+    "US-S04-E01",
+    "US-S04-E02",
+    "US-S04-E03",
+    "US-S04-E04",
+    "US-S04-E05",
+    "US-S04-E06",
+    "US-S04-E07",
+    "US-S04-E08",
+    "US-S04-E09",
+    "US-S04-E10",
+    "US-S04-E11",
+    "US-S04-E12",
+    "US-S04-E13",
+    "US-S04-E14"
+  ],
+  "castIds": [
+    "sharon-needles",
+    "chad-michaels",
+    "phi-phi-ohara",
+    "latrice-royale",
+    "kenya-michaels",
+    "dida-ritz",
+    "willam",
+    "jiggly-caliente",
+    "milan",
+    "madame-laqueer",
+    "the-princess",
+    "lashauwn-beyond",
+    "alisa-summers"
+  ],
+  "winnerId": "sharon-needles",
+  "runnerUpIds": ["chad-michaels", "phi-phi-ohara"],
+  "missCongenialityId": "latrice-royale",
+  "porkchopId": "alisa-summers",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Santino Rice" },
+    { "name": "Billy B" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "USD" }
+}

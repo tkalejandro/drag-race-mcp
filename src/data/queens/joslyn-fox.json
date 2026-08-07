@@ -1,0 +1,30 @@
+{
+  "id": "joslyn-fox",
+  "name": "Joslyn Fox",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S06-E08",
+          "name": "Lip-sync to a RuPaul song upside down"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S06-E08",
+          "song": "Stupid Girls"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E10",
+          "song": "Think"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E10"
+    }
+  ]
+}

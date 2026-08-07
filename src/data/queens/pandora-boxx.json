@@ -1,0 +1,39 @@
+{
+  "id": "pandora-boxx",
+  "name": "Pandora Boxx",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S02-E02",
+          "name": "Turn a mini-Ru doll from a lady to a tramp"
+        },
+        {
+          "episodeId": "US-S02-E06",
+          "name": "Glam rock wig makeover"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E08",
+          "song": "Shake Your Love"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S02-E08",
+      "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S01-E01"
+    }
+  ]
+}

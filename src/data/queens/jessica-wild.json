@@ -1,0 +1,25 @@
+{
+  "id": "jessica-wild",
+  "name": "Jessica Wild",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "US-S02-E06",
+          "name": "Live rock performance of Lady Boy"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E07",
+          "song": "He's the Greatest Dancer"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S02-E07"
+    }
+  ]
+}

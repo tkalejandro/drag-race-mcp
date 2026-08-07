@@ -1,0 +1,29 @@
+{
+  "id": "kandy-ho",
+  "name": "Kandy Ho",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S07-E01",
+          "song": "Geronimo"
+        },
+        {
+          "episodeId": "US-S07-E05",
+          "song": "Lovergirl"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E06",
+          "song": "Break Free"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E06"
+    }
+  ]
+}

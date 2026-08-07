@@ -1,0 +1,34 @@
+{
+  "id": "trinity-k-bonet",
+  "name": "Trinity K. Bonet",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S06-E02",
+          "name": "Boudoir pillow fight with the pit crew photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S06-E04",
+          "song": "I'm Every Woman"
+        },
+        {
+          "episodeId": "US-S06-E06",
+          "song": "Whatta Man"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E09",
+          "song": "Vibeology"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E09"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "penny-tration",
+  "name": "Penny Tration",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E01",
+          "song": "Party in the U.S.A."
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E01"
+    }
+  ]
+}

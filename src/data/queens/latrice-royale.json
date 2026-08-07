@@ -1,0 +1,63 @@
+{
+  "id": "latrice-royale",
+  "name": "Latrice Royale",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S04-E04",
+          "name": "Star in two different sitcom episodes"
+        },
+        {
+          "episodeId": "US-S04-E08",
+          "name": "In pairs, live-sing a duet to So Much Better Than You"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S04-E07",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S04-E09",
+          "song": "I've Got to Use My Imagination"
+        },
+        {
+          "episodeId": "US-S04-E10",
+          "song": "(You Make Me Feel Like) A Natural Woman"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S04-E11",
+          "song": "No One Else on Earth"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S04-E11",
+      "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S01-E01",
+          "name": "Create an Opposites Attract photoshoot and a half-baked photo"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S01-E02",
+          "song": "There's No Business Like Show Business"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S01-E03"
+    }
+  ]
+}

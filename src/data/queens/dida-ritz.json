@@ -1,0 +1,25 @@
+{
+  "id": "dida-ritz",
+  "name": "DiDa Ritz",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S04-E03",
+          "song": "This Will Be (An Everlasting Love)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S04-E09",
+          "song": "I've Got to Use My Imagination"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S04-E09"
+    }
+  ]
+}

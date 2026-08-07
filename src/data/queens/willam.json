@@ -1,0 +1,43 @@
+{
+  "id": "willam",
+  "name": "Willam",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "US-S04-E06",
+          "name": "Create and wear a pride parade float based on a pride flag color"
+        },
+        {
+          "episodeId": "US-S04-E08",
+          "name": "In pairs, live-sing a duet to So Much Better Than You"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S04-E02",
+          "name": "Create a badonkadonk with padding"
+        },
+        {
+          "episodeId": "US-S04-E04",
+          "name": "In pairs, paint each other's faces while handcuffed and pose for mug shots"
+        },
+        {
+          "episodeId": "US-S04-E06",
+          "name": "Wet T-shirt contest for biggest crowd reaction"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S04-E07",
+          "song": "Mi Vida Loca (My Crazy Life)"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "US-S04-E08",
+      "disqualified": true
+    }
+  ]
+}

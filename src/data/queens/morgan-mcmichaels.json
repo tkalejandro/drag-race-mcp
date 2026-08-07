@@ -1,0 +1,35 @@
+{
+  "id": "morgan-mcmichaels",
+  "name": "Morgan McMichaels",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "US-S02-E01",
+          "name": "Create an outfit from curtains and home furnishings"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S02-E03",
+          "name": "Chicken or What? eating contest"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S02-E04",
+          "song": "Two of Hearts"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E05",
+          "song": "Carry On"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S02-E05"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+[
+  {
+    "id": "US-S03-E01",
+    "seasonId": "US-S03",
+    "episodeNumber": 1,
+    "title": "Casting Extravaganza"
+  },
+  {
+    "id": "US-S03-E02",
+    "seasonId": "US-S03",
+    "episodeNumber": 2,
+    "title": "The Queen Who Mopped Xmas",
+    "miniChallenge": {
+      "name": "Christmas Card photoshoot on a trampoline",
+      "winnerIds": ["raja"]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit made from Christmas-themed items",
+      "winnerIds": ["raja"]
+    },
+    "topIds": ["raja", "manila-luzon", "mimi-imfurst"],
+    "bottomIds": ["shangela", "venus-d-lite"],
+    "lipSync": {
+      "song": "The Right Stuff",
+      "queenIds": ["shangela", "venus-d-lite"],
+      "winnerIds": ["shangela"],
+      "eliminatedIds": ["venus-d-lite"]
+    },
+    "guestJudges": [
+      { "name": "Bruce Vilanch" },
+      { "name": "Mike Ruiz" },
+      { "name": "Vanessa Williams" }
+    ]
+  },
+  {
+    "id": "US-S03-E03",
+    "seasonId": "US-S03",
+    "episodeNumber": 3,
+    "title": "Queens in Space",
+    "miniChallenge": {
+      "name": "In pairs, guess your partner's choices for different questions",
+      "winnerIds": ["mariah", "phoenix"]
+    },
+    "maxiChallenge": {
+      "name": "Star in Drag Queens in Outer Space sci-fi spoof trailers",
+      "winnerIds": ["alexis-mateo", "shangela"]
+    },
+    "runwayTheme": "Sci-Fi",
+    "topIds": ["alexis-mateo", "shangela"],
+    "bottomIds": ["delta-work", "phoenix"],
+    "lipSync": {
+      "song": "Bad Romance",
+      "queenIds": ["delta-work", "phoenix"],
+      "winnerIds": ["delta-work"],
+      "eliminatedIds": ["phoenix"]
+    },
+    "guestJudges": [
+      { "name": "Lily Tomlin" },
+      { "name": "Alessandra Torresani" }
+    ]
+  },
+  {
+    "id": "US-S03-E04",
+    "seasonId": "US-S03",
+    "episodeNumber": 4,
+    "title": "Totally Leotarded",
+    "miniChallenge": {
+      "name": "In pairs, make a leotard using only duct tape",
+      "winnerIds": ["carmen-carrera", "manila-luzon"]
+    },
+    "maxiChallenge": {
+      "name": "Produce a fitness workout video",
+      "winnerIds": ["alexis-mateo"]
+    },
+    "runwayTheme": "My Favorite Body Part",
+    "topIds": ["alexis-mateo", "stacy-layne-matthews", "yara-sofia"],
+    "bottomIds": ["india-ferrah", "mimi-imfurst"],
+    "lipSync": {
+      "song": "Don't Leave Me This Way",
+      "queenIds": ["india-ferrah", "mimi-imfurst"],
+      "winnerIds": ["india-ferrah"],
+      "eliminatedIds": ["mimi-imfurst"]
+    },
+    "guestJudges": [
+      { "name": "La Toya Jackson" },
+      { "name": "Susan Powter" }
+    ]
+  },
+  {
+    "id": "US-S03-E05",
+    "seasonId": "US-S03",
+    "episodeNumber": 5,
+    "title": "QNN News",
+    "miniChallenge": {
+      "name": "Scandalous Red Carpet photoshoot",
+      "winnerIds": ["carmen-carrera", "stacy-layne-matthews"]
+    },
+    "maxiChallenge": {
+      "name": "Produce a morning news show called QNN News",
+      "winnerIds": ["manila-luzon"]
+    },
+    "runwayTheme": "Fabulous Drag",
+    "topIds": ["manila-luzon", "shangela"],
+    "bottomIds": ["india-ferrah", "stacy-layne-matthews"],
+    "lipSync": {
+      "song": "Meeting in the Ladies Room",
+      "queenIds": ["india-ferrah", "stacy-layne-matthews"],
+      "winnerIds": ["stacy-layne-matthews"],
+      "eliminatedIds": ["india-ferrah"]
+    },
+    "guestJudges": [
+      { "name": "Chloë Sevigny" },
+      { "name": "Debbie Matenopoulos" }
+    ]
+  },
+  {
+    "id": "US-S03-E06",
+    "seasonId": "US-S03",
+    "episodeNumber": 6,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Shit RuPaul Says",
+      "winnerIds": ["delta-work"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["stacy-layne-matthews"]
+    },
+    "runwayTheme": "Best Drag",
+    "topIds": ["stacy-layne-matthews", "alexis-mateo", "raja"],
+    "bottomIds": ["delta-work", "mariah"],
+    "lipSync": {
+      "song": "Looking for a New Love",
+      "queenIds": ["delta-work", "mariah"],
+      "winnerIds": ["delta-work"],
+      "eliminatedIds": ["mariah"]
+    },
+    "guestJudges": [
+      { "name": "Aisha Tyler" },
+      { "name": "Amber Rose" }
+    ]
+  },
+  {
+    "id": "US-S03-E07",
+    "seasonId": "US-S03",
+    "episodeNumber": 7,
+    "title": "Face, Face, Face of Cakes",
+    "miniChallenge": {
+      "name": "Nude photoshoot",
+      "winnerIds": ["carmen-carrera"]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit inspired by a bakery cake",
+      "winnerIds": ["raja"]
+    },
+    "topIds": ["raja", "delta-work", "manila-luzon", "yara-sofia"],
+    "bottomIds": ["alexis-mateo", "stacy-layne-matthews"],
+    "lipSync": {
+      "song": "Knock on Wood",
+      "queenIds": ["alexis-mateo", "stacy-layne-matthews"],
+      "winnerIds": ["alexis-mateo"],
+      "eliminatedIds": ["stacy-layne-matthews"]
+    },
+    "guestJudges": [
+      { "name": "Eliza Dushku" },
+      { "name": "Sara Rue" }
+    ]
+  },
+  {
+    "id": "US-S03-E08",
+    "seasonId": "US-S03",
+    "episodeNumber": 8,
+    "title": "Ru Ha Ha!",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["shangela"]
+    },
+    "maxiChallenge": {
+      "name": "Stand-up comedy routine",
+      "winnerIds": ["shangela"]
+    },
+    "topIds": ["shangela", "carmen-carrera", "raja", "yara-sofia"],
+    "bottomIds": ["delta-work", "manila-luzon"],
+    "lipSync": {
+      "song": "MacArthur Park",
+      "queenIds": ["delta-work", "manila-luzon"],
+      "winnerIds": ["manila-luzon"],
+      "eliminatedIds": ["delta-work"]
+    },
+    "guestJudges": [
+      { "name": "Rita Rudner" },
+      { "name": "Arden Myrin" }
+    ]
+  },
+  {
+    "id": "US-S03-E09",
+    "seasonId": "US-S03",
+    "episodeNumber": 9,
+    "title": "Life, Liberty and the Pursuit of Style",
+    "miniChallenge": {
+      "name": "Decorate bras using rhinestones",
+      "winnerIds": ["manila-luzon"]
+    },
+    "maxiChallenge": {
+      "name": "Film a patriotic message for US military personnel overseas",
+      "winnerIds": ["alexis-mateo"]
+    },
+    "runwayTheme": "Patriotic Drag",
+    "topIds": ["alexis-mateo", "shangela"],
+    "bottomIds": ["carmen-carrera", "yara-sofia"],
+    "lipSync": {
+      "song": "Mickey (Spanish version)",
+      "queenIds": ["carmen-carrera", "yara-sofia"],
+      "winnerIds": ["carmen-carrera", "yara-sofia"]
+    },
+    "guestJudges": [
+      { "name": "Cheryl Tiegs" },
+      { "name": "Johnny Weir" }
+    ]
+  },
+  {
+    "id": "US-S03-E10",
+    "seasonId": "US-S03",
+    "episodeNumber": 10,
+    "title": "RuPaul-a-palooza",
+    "miniChallenge": {
+      "name": "Musical chairs",
+      "winnerIds": ["manila-luzon"]
+    },
+    "maxiChallenge": {
+      "name": "Perform RuPaul's Superstar in different music genres",
+      "winnerIds": ["raja"]
+    },
+    "topIds": ["raja", "manila-luzon", "yara-sofia"],
+    "bottomIds": ["carmen-carrera", "shangela"],
+    "lipSync": {
+      "song": "Believe",
+      "queenIds": ["carmen-carrera", "shangela"],
+      "winnerIds": ["shangela"],
+      "eliminatedIds": ["carmen-carrera"]
+    },
+    "guestJudges": [
+      { "name": "Jeffrey Moran" },
+      { "name": "Jody Watley" },
+      { "name": "Carmen Electra" }
+    ]
+  },
+  {
+    "id": "US-S03-E11",
+    "seasonId": "US-S03",
+    "episodeNumber": 11,
+    "title": "The Hair Ball",
+    "miniChallenge": {
+      "name": "Create beach-themed headpieces",
+      "winnerIds": ["raja"]
+    },
+    "maxiChallenge": {
+      "name": "The Hair Ball",
+      "winnerIds": ["yara-sofia"]
+    },
+    "runwayTheme": "A Classic Look from Another Era, A Modern Red Carpet Look, and A Fantasy Hair Outfit",
+    "topIds": ["yara-sofia", "manila-luzon", "raja"],
+    "bottomIds": ["alexis-mateo", "shangela"],
+    "lipSync": {
+      "song": "Even Angels",
+      "queenIds": ["alexis-mateo", "shangela"],
+      "winnerIds": ["alexis-mateo"],
+      "eliminatedIds": ["shangela"]
+    },
+    "guestJudges": [
+      { "name": "Wayne Brady" },
+      { "name": "Fantasia Barrino" }
+    ]
+  },
+  {
+    "id": "US-S03-E12",
+    "seasonId": "US-S03",
+    "episodeNumber": 12,
+    "title": "Jocks in Frocks",
+    "miniChallenge": {
+      "name": "Dunk-A-Queen",
+      "winnerIds": ["alexis-mateo"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover heterosexual male athletes",
+      "winnerIds": ["manila-luzon"]
+    },
+    "topIds": ["manila-luzon", "alexis-mateo", "yara-sofia"],
+    "bottomIds": ["carmen-carrera", "raja"],
+    "lipSync": {
+      "song": "Straight Up",
+      "queenIds": ["carmen-carrera", "raja"],
+      "winnerIds": ["raja"],
+      "eliminatedIds": ["carmen-carrera"]
+    },
+    "guestJudges": [
+      { "name": "Mike Ruiz" },
+      { "name": "Margaret Cho" },
+      { "name": "Sharon Osbourne" }
+    ]
+  },
+  {
+    "id": "US-S03-E13",
+    "seasonId": "US-S03",
+    "episodeNumber": 13,
+    "title": "The Money Ball",
+    "miniChallenge": {
+      "name": "Create a marketable drag product and pitch it on RuVC",
+      "winnerIds": ["yara-sofia"]
+    },
+    "maxiChallenge": {
+      "name": "The Money Ball",
+      "winnerIds": ["manila-luzon"]
+    },
+    "runwayTheme": "Swimsuit Body Beautiful, Cocktail Attire After 5, and Evening Gown Eleganza",
+    "topIds": ["manila-luzon", "raja"],
+    "bottomIds": ["alexis-mateo", "yara-sofia"],
+    "lipSync": {
+      "song": "I Think About You",
+      "queenIds": ["alexis-mateo", "yara-sofia"],
+      "winnerIds": ["alexis-mateo"],
+      "eliminatedIds": ["yara-sofia"]
+    },
+    "guestJudges": [
+      { "name": "Mike Ruiz" },
+      { "name": "La Toya Jackson" },
+      { "name": "Gigi Levangie" }
+    ]
+  },
+  {
+    "id": "US-S03-E14",
+    "seasonId": "US-S03",
+    "episodeNumber": 14,
+    "title": "RuPaul Rewind"
+  },
+  {
+    "id": "US-S03-E15",
+    "seasonId": "US-S03",
+    "episodeNumber": 15,
+    "title": "Grand Finale",
+    "topIds": ["raja", "manila-luzon"],
+    "bottomIds": ["alexis-mateo"],
+    "lipSync": {
+      "song": "Champion (DJ BunJoe's Olympic Mix)",
+      "queenIds": ["manila-luzon", "raja"],
+      "winnerIds": ["raja"]
+    }
+  },
+  {
+    "id": "US-S03-E16",
+    "seasonId": "US-S03",
+    "episodeNumber": 16,
+    "title": "Reunited"
+  }
+]

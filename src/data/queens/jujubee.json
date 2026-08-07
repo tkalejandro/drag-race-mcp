@@ -1,0 +1,60 @@
+{
+  "id": "jujubee",
+  "name": "Jujubee",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S02-E07",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S02-E06",
+          "song": "Black Velvet"
+        },
+        {
+          "episodeId": "US-S02-E08",
+          "song": "Shake Your Love"
+        },
+        {
+          "episodeId": "US-S02-E09",
+          "song": "Something He Can Feel"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "US-S02-E11"
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S01-E02",
+          "name": "In Da Butt Ru"
+        },
+        {
+          "episodeId": "AS-S01-E05",
+          "name": "Basketball game of Fish"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S01-E03",
+          "song": "Nasty"
+        },
+        {
+          "episodeId": "AS-S01-E05",
+          "song": "Dancing on My Own"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S01-E06"
+    }
+  ]
+}

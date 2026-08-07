@@ -1,0 +1,20 @@
+{
+  "id": "kelly-mantle",
+  "name": "Kelly Mantle",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E01",
+          "song": "Express Yourself"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E01"
+    }
+  ]
+}

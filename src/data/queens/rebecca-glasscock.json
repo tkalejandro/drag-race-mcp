@@ -1,0 +1,22 @@
+{
+  "id": "rebecca-glasscock",
+  "name": "Rebecca Glasscock",
+  "appearances": [
+    {
+      "seasonId": "US-S01",
+      "placement": 3,
+      "eliminatedEpisodeId": "US-S01-E08",
+      "challengeWins": [
+        { "episodeId": "US-S01-E05", "name": "Make over a female fighter into a drag daughter" }
+      ],
+      "miniChallengeWins": [
+        { "episodeId": "US-S01-E05", "name": "Endurance challenge" }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "US-S01-E04", "song": "Would I Lie to You?" },
+        { "episodeId": "US-S01-E06", "song": "Shackles (Praise You)" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

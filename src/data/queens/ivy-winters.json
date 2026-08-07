@@ -1,0 +1,35 @@
+{
+  "id": "ivy-winters",
+  "name": "Ivy Winters",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "US-S05-E06",
+          "name": "Record Can I Get An Amen? charity anthem"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S05-E02",
+          "name": "Lip-sync to a RuPaul song with only your mouth visible"
+        },
+        {
+          "episodeId": "US-S05-E08",
+          "name": "Match the pit crew wearing the same pairs of underwear"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E08",
+          "song": "Ain't Nothin' Goin' On but the Rent"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E08",
+      "missCongeniality": true
+    }
+  ]
+}

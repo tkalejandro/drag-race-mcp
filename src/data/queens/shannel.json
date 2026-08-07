@@ -1,0 +1,47 @@
+{
+  "id": "shannel",
+  "name": "Shannel",
+  "appearances": [
+    {
+      "seasonId": "US-S01",
+      "placement": 4,
+      "eliminatedEpisodeId": "US-S01-E06",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S01-E03",
+          "song": "The Greatest Love of All"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S01-E06",
+          "song": "Shackles (Praise You)"
+        }
+      ]
+    },
+    {
+      "seasonId": "AS-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S01-E03",
+          "name": "Act naughty on the streets of Hollywood and do pranks"
+        },
+        {
+          "episodeId": "AS-S01-E04",
+          "name": "Form girl groups with a celebrity and perform a RuPaul song"
+        },
+        {
+          "episodeId": "AS-S01-E05",
+          "name": "Super Heroes vs Super Villains"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S01-E06"
+    }
+  ]
+}

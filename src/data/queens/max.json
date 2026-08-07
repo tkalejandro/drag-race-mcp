@@ -1,0 +1,37 @@
+{
+  "id": "max",
+  "name": "Max",
+  "aliases": [
+    "Max Malanaphy"
+  ],
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 9,
+      "challengeWins": [
+        {
+          "episodeId": "US-S07-E03",
+          "name": "In teams, star in twisted Shakespeare classics MacBitch and Romy and Juliet"
+        },
+        {
+          "episodeId": "US-S07-E05",
+          "name": "Present awards with banter at the DESPY Awards"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S07-E03",
+          "name": "Dress up in granny drag and dance with walkers and canes"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E07",
+          "song": "No More Lies"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E07"
+    }
+  ]
+}

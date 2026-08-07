@@ -1,0 +1,29 @@
+{
+  "id": "jaidynn-diore-fierce",
+  "name": "Jaidynn Diore Fierce",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S07-E06",
+          "song": "Break Free"
+        },
+        {
+          "episodeId": "US-S07-E07",
+          "song": "No More Lies"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E08",
+          "song": "I Think We're Alone Now"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E08"
+    }
+  ]
+}

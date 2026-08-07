@@ -1,0 +1,311 @@
+[
+  {
+    "id": "US-S07-E01",
+    "seasonId": "US-S07",
+    "episodeNumber": 1,
+    "title": "Born Naked",
+    "maxiChallenge": {
+      "name": "Create a resort-wear tearaway to reveal a nude illusion",
+      "winnerIds": ["violet-chachki"]
+    },
+    "runwayTheme": "Nude Illusion",
+    "topIds": ["violet-chachki", "kennedy-davenport", "miss-fame"],
+    "bottomIds": ["kandy-ho", "tempest-dujour"],
+    "lipSync": {
+      "song": "Geronimo",
+      "queenIds": ["kandy-ho", "tempest-dujour"],
+      "winnerIds": ["kandy-ho"],
+      "eliminatedIds": ["tempest-dujour"]
+    },
+    "guestJudges": [{ "name": "Kathy Griffin" }]
+  },
+  {
+    "id": "US-S07-E02",
+    "seasonId": "US-S07",
+    "episodeNumber": 2,
+    "title": "Glamazonian Airways",
+    "miniChallenge": {
+      "name": "Give face while the pit crew blows them with a leaf blower",
+      "winnerIds": ["ginger-minj", "trixie-mattel"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, perform a mash-up of spoken word and song for a Glamazonian Airways pre-flight safety video",
+      "winnerIds": ["ginger-minj"]
+    },
+    "runwayTheme": "Jet Set Eleganza",
+    "topIds": ["ginger-minj", "mrs-kasha-davis", "violet-chachki"],
+    "bottomIds": ["katya", "sasha-belle"],
+    "lipSync": {
+      "song": "Twist of Fate",
+      "queenIds": ["katya", "sasha-belle"],
+      "winnerIds": ["katya"],
+      "eliminatedIds": ["sasha-belle"]
+    },
+    "guestJudges": [
+      { "name": "Jordin Sparks" },
+      { "name": "Olivia Newton-John" }
+    ]
+  },
+  {
+    "id": "US-S07-E03",
+    "seasonId": "US-S07",
+    "episodeNumber": 3,
+    "title": "ShakesQueer",
+    "miniChallenge": {
+      "name": "Dress up in granny drag and dance with walkers and canes",
+      "winnerIds": ["kennedy-davenport", "max"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, star in twisted Shakespeare classics MacBitch and Romy and Juliet",
+      "winnerIds": ["max"]
+    },
+    "runwayTheme": "Bearded and Beautiful",
+    "topIds": ["max"],
+    "bottomIds": ["jasmine-masters", "kennedy-davenport"],
+    "lipSync": {
+      "song": "I Was Gonna Cancel",
+      "queenIds": ["jasmine-masters", "kennedy-davenport"],
+      "winnerIds": ["kennedy-davenport"],
+      "eliminatedIds": ["jasmine-masters"]
+    },
+    "guestJudges": [
+      { "name": "Mel B" },
+      { "name": "Kat Dennings" }
+    ]
+  },
+  {
+    "id": "US-S07-E04",
+    "seasonId": "US-S07",
+    "episodeNumber": 4,
+    "title": "Spoof! (There It Is)",
+    "maxiChallenge": {
+      "name": "In teams, create a music video parody to one of RuPaul's songs",
+      "winnerIds": ["kennedy-davenport"]
+    },
+    "runwayTheme": "Green",
+    "topIds": ["kennedy-davenport", "jaidynn-diore-fierce", "katya"],
+    "bottomIds": ["pearl", "trixie-mattel"],
+    "lipSync": {
+      "song": "Dreaming",
+      "queenIds": ["pearl", "trixie-mattel"],
+      "winnerIds": ["pearl"],
+      "eliminatedIds": ["trixie-mattel"]
+    },
+    "guestJudges": [
+      { "name": "Jessica Alba" },
+      { "name": "Lucian Piane" }
+    ]
+  },
+  {
+    "id": "US-S07-E05",
+    "seasonId": "US-S07",
+    "episodeNumber": 5,
+    "title": "The DESPY Awards",
+    "miniChallenge": {
+      "name": "In pairs, make paper versions of classic celebrity red carpet outfits",
+      "winnerIds": ["katya", "mrs-kasha-davis"]
+    },
+    "maxiChallenge": {
+      "name": "Present awards with banter at the DESPY Awards",
+      "winnerIds": ["max", "pearl"]
+    },
+    "topIds": ["max", "pearl", "jaidynn-diore-fierce", "kennedy-davenport"],
+    "bottomIds": ["kandy-ho", "mrs-kasha-davis"],
+    "lipSync": {
+      "song": "Lovergirl",
+      "queenIds": ["kandy-ho", "mrs-kasha-davis"],
+      "winnerIds": ["kandy-ho"],
+      "eliminatedIds": ["mrs-kasha-davis"]
+    },
+    "guestJudges": [{ "name": "Isaac Mizrahi" }]
+  },
+  {
+    "id": "US-S07-E06",
+    "seasonId": "US-S07",
+    "episodeNumber": 6,
+    "title": "Ru Hollywood Stories",
+    "miniChallenge": {
+      "name": "Gain points by selecting pit crew members while avoiding the one with a monster in his pants",
+      "winnerIds": ["ginger-minj"]
+    },
+    "maxiChallenge": {
+      "name": "Re-enact Whatever Happened to Merle Ginsberg from Merle Ginsberg, Michelle Visage, and RuPaul points of view",
+      "winnerIds": ["katya"]
+    },
+    "runwayTheme": "Death Becomes Her",
+    "topIds": ["katya"],
+    "bottomIds": ["jaidynn-diore-fierce", "kandy-ho"],
+    "lipSync": {
+      "song": "Break Free",
+      "queenIds": ["jaidynn-diore-fierce", "kandy-ho"],
+      "winnerIds": ["jaidynn-diore-fierce"],
+      "eliminatedIds": ["kandy-ho"]
+    },
+    "guestJudges": [
+      { "name": "Ariana Grande" },
+      { "name": "Merle Ginsberg" }
+    ]
+  },
+  {
+    "id": "US-S07-E07",
+    "seasonId": "US-S07",
+    "episodeNumber": 7,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["ginger-minj", "kennedy-davenport"]
+    },
+    "runwayTheme": "Leather and Lace",
+    "topIds": ["ginger-minj", "kennedy-davenport", "katya"],
+    "bottomIds": ["jaidynn-diore-fierce", "max"],
+    "lipSync": {
+      "song": "No More Lies",
+      "queenIds": ["jaidynn-diore-fierce", "max"],
+      "winnerIds": ["jaidynn-diore-fierce"],
+      "eliminatedIds": ["max"]
+    },
+    "guestJudges": [
+      { "name": "Michael Urie" },
+      { "name": "Tamar Braxton" }
+    ]
+  },
+  {
+    "id": "US-S07-E08",
+    "seasonId": "US-S07",
+    "episodeNumber": 8,
+    "title": "Conjoined Queens",
+    "miniChallenge": {
+      "name": "Recreate prison uniforms as Orange is the new Drag fashion looks",
+      "winnerIds": ["kennedy-davenport"]
+    },
+    "maxiChallenge": {
+      "name": "Create a conjoined twin makeover with a previously eliminated queen",
+      "winnerIds": ["pearl"]
+    },
+    "topIds": ["pearl", "katya", "violet-chachki"],
+    "bottomIds": ["ginger-minj", "jaidynn-diore-fierce"],
+    "lipSync": {
+      "song": "I Think We're Alone Now",
+      "queenIds": ["ginger-minj", "jaidynn-diore-fierce"],
+      "winnerIds": ["ginger-minj"],
+      "eliminatedIds": ["jaidynn-diore-fierce"]
+    },
+    "guestJudges": [
+      { "name": "LeAnn Rimes" },
+      { "name": "Nelsan Ellis" }
+    ]
+  },
+  {
+    "id": "US-S07-E09",
+    "seasonId": "US-S07",
+    "episodeNumber": 9,
+    "title": "Divine Inspiration",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["trixie-mattel"]
+    },
+    "maxiChallenge": {
+      "name": "Star in musical versions of iconic John Waters films",
+      "winnerIds": ["ginger-minj"]
+    },
+    "runwayTheme": "Ugliest Dress",
+    "topIds": ["ginger-minj", "katya", "kennedy-davenport"],
+    "bottomIds": ["miss-fame", "pearl"],
+    "lipSync": {
+      "song": "Really Don't Care",
+      "queenIds": ["miss-fame", "pearl"],
+      "winnerIds": ["pearl"],
+      "eliminatedIds": ["miss-fame"]
+    },
+    "guestJudges": [
+      { "name": "Demi Lovato" },
+      { "name": "John Waters" }
+    ]
+  },
+  {
+    "id": "US-S07-E10",
+    "seasonId": "US-S07",
+    "episodeNumber": 10,
+    "title": "Prancing Queens",
+    "miniChallenge": {
+      "name": "Create a Fake Housewives of Drag Race look using tape",
+      "winnerIds": ["violet-chachki"]
+    },
+    "maxiChallenge": {
+      "name": "In pairs, dance in a live drag dance spectacular",
+      "winnerIds": ["katya", "violet-chachki"]
+    },
+    "runwayTheme": "Half Man, Half Queen",
+    "topIds": ["katya", "violet-chachki"],
+    "bottomIds": ["ginger-minj", "trixie-mattel"],
+    "lipSync": {
+      "song": "Show Me Love",
+      "queenIds": ["ginger-minj", "trixie-mattel"],
+      "winnerIds": ["ginger-minj"],
+      "eliminatedIds": ["trixie-mattel"]
+    },
+    "guestJudges": [
+      { "name": "Alyssa Milano" },
+      { "name": "Rachael Harris" }
+    ]
+  },
+  {
+    "id": "US-S07-E11",
+    "seasonId": "US-S07",
+    "episodeNumber": 11,
+    "title": "Hello, Kitty Girls!",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["ginger-minj"]
+    },
+    "maxiChallenge": {
+      "name": "The Hello Kitty Ball",
+      "winnerIds": ["violet-chachki"]
+    },
+    "runwayTheme": "Hello Kitty BFF and Hello Kitty Eleganza",
+    "topIds": ["violet-chachki", "ginger-minj", "pearl"],
+    "bottomIds": ["katya", "kennedy-davenport"],
+    "lipSync": {
+      "song": "Roar",
+      "queenIds": ["katya", "kennedy-davenport"],
+      "winnerIds": ["kennedy-davenport"],
+      "eliminatedIds": ["katya"]
+    },
+    "guestJudges": [
+      { "name": "Rebecca Romijn" },
+      { "name": "Santino Rice" }
+    ]
+  },
+  {
+    "id": "US-S07-E12",
+    "seasonId": "US-S07",
+    "episodeNumber": 12,
+    "title": "And the Rest Is Drag",
+    "runwayTheme": "Best Drag",
+    "topIds": ["ginger-minj", "pearl", "violet-chachki"],
+    "bottomIds": ["kennedy-davenport"],
+    "lipSync": {
+      "song": "Born Naked",
+      "queenIds": [
+        "ginger-minj",
+        "kennedy-davenport",
+        "pearl",
+        "violet-chachki"
+      ],
+      "winnerIds": ["ginger-minj", "pearl", "violet-chachki"],
+      "eliminatedIds": ["kennedy-davenport"]
+    }
+  },
+  {
+    "id": "US-S07-E13",
+    "seasonId": "US-S07",
+    "episodeNumber": 13,
+    "title": "Countdown to the Crown"
+  },
+  {
+    "id": "US-S07-E14",
+    "seasonId": "US-S07",
+    "episodeNumber": 14,
+    "title": "Grand Finale"
+  }
+]

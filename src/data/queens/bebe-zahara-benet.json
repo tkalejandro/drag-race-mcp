@@ -1,0 +1,21 @@
+{
+  "id": "bebe-zahara-benet",
+  "name": "BeBe Zahara Benet",
+  "aliases": ["Bebe Zahara Benet"],
+  "appearances": [
+    {
+      "seasonId": "US-S01",
+      "placement": 1,
+      "challengeWins": [
+        { "episodeId": "US-S01-E03", "name": "Channel Oprah Winfrey in television personality roles" },
+        { "episodeId": "US-S01-E06", "name": "The Absolut Drag Ball" }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "US-S01-E05", "song": "Stronger" },
+        { "episodeId": "US-S01-E08", "song": "Cover Girl (Put the Bass in Your Walk)" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

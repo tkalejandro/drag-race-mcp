@@ -1,0 +1,62 @@
+{
+  "id": "ginger-minj",
+  "name": "Ginger Minj",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S07-E02",
+          "name": "In teams, perform a mash-up of spoken word and song for a Glamazonian Airways pre-flight safety video"
+        },
+        {
+          "episodeId": "US-S07-E07",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "US-S07-E09",
+          "name": "Star in musical versions of iconic John Waters films"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S07-E02",
+          "name": "Give face while the pit crew blows them with a leaf blower"
+        },
+        {
+          "episodeId": "US-S07-E06",
+          "name": "Gain points by selecting pit crew members while avoiding the one with a monster in his pants"
+        },
+        {
+          "episodeId": "US-S07-E11",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S07-E08",
+          "song": "I Think We're Alone Now"
+        },
+        {
+          "episodeId": "US-S07-E10",
+          "song": "Show Me Love"
+        },
+        {
+          "episodeId": "US-S07-E12",
+          "song": "Born Naked"
+        }
+      ],
+      "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S02-E03"
+    }
+  ]
+}

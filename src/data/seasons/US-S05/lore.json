@@ -1,0 +1,38 @@
+[
+  {
+    "id": "s05-first-double-sashay",
+    "title": "First double sashay",
+    "summary": "In Black Swan: Why It Gotta Be Black? (US-S05-E04), Honey Mahogany and Vivienne Pinay lip-synced to Britney Spears' \"Oops!... I Did It Again.\" RuPaul eliminated both — the first double sashay in Drag Race history.",
+    "tags": ["double-sashay", "lip-sync"],
+    "queenIds": ["honey-mahogany", "vivienne-pinay"],
+    "seasonIds": ["US-S05"],
+    "episodeIds": ["US-S05-E04"]
+  },
+  {
+    "id": "s05-alyssa-roxxxy-whip-my-hair",
+    "title": "Alyssa vs Roxxxy: Whip My Hair",
+    "summary": "In the RuPaul Roast (US-S05-E07), Alyssa Edwards and Roxxxy Andrews lip-synced to Willow Smith's \"Whip My Hair.\" Both won a double shantay after an iconic lip-sync; no one was eliminated.",
+    "tags": ["double-shantay", "lip-sync", "iconic", "rivalry"],
+    "queenIds": ["alyssa-edwards", "roxxxy-andrews"],
+    "seasonIds": ["US-S05"],
+    "episodeIds": ["US-S05-E07"]
+  },
+  {
+    "id": "s05-jinkx-crown",
+    "title": "Jinkx Monsoon wins Season 5",
+    "summary": "After a deferred crowning lip-sync to \"The Beginning\" in The Final Three, Hunty (US-S05-E12), Jinkx Monsoon was crowned at the live reunion (US-S05-E14). Alaska and Roxxxy Andrews were runners-up. The cash prize was $100,000.",
+    "tags": ["crown", "finale"],
+    "queenIds": ["jinkx-monsoon", "alaska", "roxxxy-andrews"],
+    "seasonIds": ["US-S05"],
+    "episodeIds": ["US-S05-E12", "US-S05-E14"]
+  },
+  {
+    "id": "s05-ivy-miss-c",
+    "title": "Ivy Winters Miss Congeniality",
+    "summary": "Ivy Winters was voted Miss Congeniality by viewers, announced at the Season 5 reunion (US-S05-E14).",
+    "tags": ["fan-favorite", "reunion"],
+    "queenIds": ["ivy-winters"],
+    "seasonIds": ["US-S05"],
+    "episodeIds": ["US-S05-E14"]
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "trixie-mattel",
+  "name": "Trixie Mattel",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S07-E02",
+          "name": "Give face while the pit crew blows them with a leaf blower"
+        },
+        {
+          "episodeId": "US-S07-E09",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E04",
+          "song": "Dreaming"
+        },
+        {
+          "episodeId": "US-S07-E10",
+          "song": "Show Me Love"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E10",
+      "reentered": true
+    }
+  ]
+}

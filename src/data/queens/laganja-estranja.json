@@ -1,0 +1,39 @@
+{
+  "id": "laganja-estranja",
+  "name": "Laganja Estranja",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "US-S06-E07",
+          "name": "In pairs, film an infomercial for RuPaul's Glamazon Cosmetics"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S06-E01",
+          "name": "Photoshoot while jumping off a platform"
+        },
+        {
+          "episodeId": "US-S06-E07",
+          "name": "Design nails and hand-model fruits and vegetables"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S06-E05",
+          "song": "Head to Toe"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E08",
+          "song": "Stupid Girls"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E08"
+    }
+  ]
+}

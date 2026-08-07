@@ -1,0 +1,28 @@
+{
+  "id": "courtney-act",
+  "name": "Courtney Act",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S06-E04",
+          "name": "Shade: The Rusical"
+        },
+        {
+          "episodeId": "US-S06-E09",
+          "name": "Guest host The RuPaul Show and interview Chaz Bono and Georgia Holt"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S06-E12",
+          "song": "Sissy That Walk"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

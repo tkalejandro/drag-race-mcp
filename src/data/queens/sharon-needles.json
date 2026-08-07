@@ -1,0 +1,36 @@
+{
+  "id": "sharon-needles",
+  "name": "Sharon Needles",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S04-E01",
+          "name": "Create a post-apocalyptic couture outfit from drag queen zombie loot"
+        },
+        {
+          "episodeId": "US-S04-E03",
+          "name": "Produce and act in TV infomercials for RuPaul's Glamazon and Champion albums"
+        },
+        {
+          "episodeId": "US-S04-E09",
+          "name": "Participate in a Presidential debate as the 2012 Wig Party candidate"
+        },
+        {
+          "episodeId": "US-S04-E11",
+          "name": "The Bitch Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S04-E08",
+          "song": "It's Raining Men (The Sequel)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

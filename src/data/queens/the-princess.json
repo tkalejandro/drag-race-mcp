@@ -1,0 +1,25 @@
+{
+  "id": "the-princess",
+  "name": "The Princess",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S04-E02",
+          "song": "Bad Girls"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S04-E03",
+          "song": "This Will Be (An Everlasting Love)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S04-E03"
+    }
+  ]
+}

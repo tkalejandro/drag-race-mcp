@@ -1,0 +1,52 @@
+{
+  "id": "coco-montrese",
+  "name": "Coco Montrese",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S05-E07",
+          "name": "Perform a roast of RuPaul, the judges, and the fellow queens"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S05-E04",
+          "name": "Soul Train dance-off"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S05-E03",
+          "song": "When I Grow Up"
+        },
+        {
+          "episodeId": "US-S05-E06",
+          "song": "I'm So Excited"
+        },
+        {
+          "episodeId": "US-S05-E09",
+          "song": "Cold Hearted"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E10",
+          "song": "(It Takes) Two to Make It Right"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E10"
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S02-E01"
+    }
+  ]
+}

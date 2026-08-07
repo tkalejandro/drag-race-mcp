@@ -1,0 +1,315 @@
+[
+  {
+    "id": "US-S04-E01",
+    "seasonId": "US-S04",
+    "episodeNumber": 1,
+    "title": "RuPocalypse Now!",
+    "miniChallenge": {
+      "name": "Photoshoot on a spinning platform sprayed with hazardous waste",
+      "winnerIds": ["jiggly-caliente"]
+    },
+    "maxiChallenge": {
+      "name": "Create a post-apocalyptic couture outfit from drag queen zombie loot",
+      "winnerIds": ["sharon-needles"]
+    },
+    "topIds": ["sharon-needles", "lashauwn-beyond", "the-princess"],
+    "bottomIds": ["alisa-summers", "jiggly-caliente"],
+    "lipSync": {
+      "song": "Toxic",
+      "queenIds": ["alisa-summers", "jiggly-caliente"],
+      "winnerIds": ["jiggly-caliente"],
+      "eliminatedIds": ["alisa-summers"]
+    },
+    "guestJudges": [
+      { "name": "Elvira, Mistress of the Dark" },
+      { "name": "Mike Ruiz" }
+    ]
+  },
+  {
+    "id": "US-S04-E02",
+    "seasonId": "US-S04",
+    "episodeNumber": 2,
+    "title": "WTF!: Wrestling's Trashiest Fighters",
+    "miniChallenge": {
+      "name": "Create a badonkadonk with padding",
+      "winnerIds": ["chad-michaels", "phi-phi-ohara", "willam"]
+    },
+    "maxiChallenge": {
+      "name": "Create a wrestling storyline with backstage clip and ring match",
+      "winnerIds": ["chad-michaels", "madame-laqueer"]
+    },
+    "runwayTheme": "Girly Girl Couture",
+    "topIds": ["chad-michaels", "madame-laqueer"],
+    "bottomIds": ["lashauwn-beyond", "the-princess"],
+    "lipSync": {
+      "song": "Bad Girls",
+      "queenIds": ["lashauwn-beyond", "the-princess"],
+      "winnerIds": ["the-princess"],
+      "eliminatedIds": ["lashauwn-beyond"]
+    },
+    "guestJudges": [
+      { "name": "Rick Fox" },
+      { "name": "John Salley" }
+    ]
+  },
+  {
+    "id": "US-S04-E03",
+    "seasonId": "US-S04",
+    "episodeNumber": 3,
+    "title": "Glamazons vs. Champions",
+    "miniChallenge": {
+      "name": "Create hats with butterfly-shaped accessories for Piyah Martell",
+      "winnerIds": ["jiggly-caliente", "kenya-michaels", "phi-phi-ohara"]
+    },
+    "maxiChallenge": {
+      "name": "Produce and act in TV infomercials for RuPaul's Glamazon and Champion albums",
+      "winnerIds": ["sharon-needles"]
+    },
+    "runwayTheme": "Platinum and Gold",
+    "topIds": ["sharon-needles", "chad-michaels", "kenya-michaels"],
+    "bottomIds": ["dida-ritz", "the-princess"],
+    "lipSync": {
+      "song": "This Will Be (An Everlasting Love)",
+      "queenIds": ["dida-ritz", "the-princess"],
+      "winnerIds": ["dida-ritz"],
+      "eliminatedIds": ["the-princess"]
+    },
+    "guestJudges": [
+      { "name": "Amber Riley" },
+      { "name": "Natalie Cole" }
+    ]
+  },
+  {
+    "id": "US-S04-E04",
+    "seasonId": "US-S04",
+    "episodeNumber": 4,
+    "title": "Queens Behind Bars",
+    "miniChallenge": {
+      "name": "In pairs, paint each other's faces while handcuffed and pose for mug shots",
+      "winnerIds": ["madame-laqueer", "willam"]
+    },
+    "maxiChallenge": {
+      "name": "Star in two different sitcom episodes",
+      "winnerIds": ["latrice-royale"]
+    },
+    "runwayTheme": "Television Premiere",
+    "topIds": ["latrice-royale"],
+    "bottomIds": ["madame-laqueer", "milan"],
+    "lipSync": {
+      "song": "Trouble",
+      "queenIds": ["madame-laqueer", "milan"],
+      "winnerIds": ["milan"],
+      "eliminatedIds": ["madame-laqueer"]
+    },
+    "guestJudges": [
+      { "name": "Nicole Sullivan" },
+      { "name": "Max Mutchnick" }
+    ]
+  },
+  {
+    "id": "US-S04-E05",
+    "seasonId": "US-S04",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Beat the Cock",
+      "winnerIds": ["phi-phi-ohara"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["chad-michaels"]
+    },
+    "runwayTheme": "Best Drag",
+    "topIds": ["chad-michaels", "sharon-needles", "willam"],
+    "bottomIds": ["kenya-michaels", "milan"],
+    "lipSync": {
+      "song": "Vogue",
+      "queenIds": ["kenya-michaels", "milan"],
+      "winnerIds": ["milan"],
+      "eliminatedIds": ["kenya-michaels"]
+    },
+    "guestJudges": [
+      { "name": "Loretta Devine" },
+      { "name": "Ross Mathews" }
+    ]
+  },
+  {
+    "id": "US-S04-E06",
+    "seasonId": "US-S04",
+    "episodeNumber": 6,
+    "title": "Float Your Boat",
+    "miniChallenge": {
+      "name": "Wet T-shirt contest for biggest crowd reaction",
+      "winnerIds": ["willam"]
+    },
+    "maxiChallenge": {
+      "name": "Create and wear a pride parade float based on a pride flag color",
+      "winnerIds": ["willam"]
+    },
+    "topIds": ["willam", "latrice-royale", "phi-phi-ohara"],
+    "bottomIds": ["jiggly-caliente", "milan"],
+    "lipSync": {
+      "song": "Born This Way",
+      "queenIds": ["jiggly-caliente", "milan"],
+      "winnerIds": ["jiggly-caliente"],
+      "eliminatedIds": ["milan"]
+    },
+    "guestJudges": [
+      { "name": "Kelly Osbourne" },
+      { "name": "Pauley Perrette" }
+    ]
+  },
+  {
+    "id": "US-S04-E07",
+    "seasonId": "US-S04",
+    "episodeNumber": 7,
+    "title": "Dragazines",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["latrice-royale"]
+    },
+    "maxiChallenge": {
+      "name": "Create a magazine cover on an assigned topic",
+      "winnerIds": ["phi-phi-ohara"]
+    },
+    "topIds": ["phi-phi-ohara", "sharon-needles"],
+    "bottomIds": ["jiggly-caliente", "willam"],
+    "lipSync": {
+      "song": "Mi Vida Loca (My Crazy Life)",
+      "queenIds": ["jiggly-caliente", "willam"],
+      "winnerIds": ["willam"],
+      "eliminatedIds": ["jiggly-caliente"]
+    },
+    "guestJudges": [
+      { "name": "Regina King" },
+      { "name": "Pam Tillis" }
+    ]
+  },
+  {
+    "id": "US-S04-E08",
+    "seasonId": "US-S04",
+    "episodeNumber": 8,
+    "title": "Frenemies",
+    "maxiChallenge": {
+      "name": "In pairs, live-sing a duet to So Much Better Than You",
+      "winnerIds": ["latrice-royale", "willam"]
+    },
+    "topIds": ["latrice-royale", "willam"],
+    "bottomIds": ["phi-phi-ohara", "sharon-needles"],
+    "lipSync": {
+      "song": "It's Raining Men (The Sequel)",
+      "queenIds": ["phi-phi-ohara", "sharon-needles"],
+      "winnerIds": ["phi-phi-ohara", "sharon-needles"]
+    },
+    "guestJudges": [
+      { "name": "Lucian Piane" },
+      { "name": "Pamela Anderson" },
+      { "name": "Jennifer Tilly" }
+    ]
+  },
+  {
+    "id": "US-S04-E09",
+    "seasonId": "US-S04",
+    "episodeNumber": 9,
+    "title": "Frock the Vote!",
+    "miniChallenge": {
+      "name": "Design an Absolut Vodka inspired shoe",
+      "winnerIds": ["phi-phi-ohara"]
+    },
+    "maxiChallenge": {
+      "name": "Participate in a Presidential debate as the 2012 Wig Party candidate",
+      "winnerIds": ["sharon-needles"]
+    },
+    "runwayTheme": "Inaugural Drag",
+    "topIds": ["sharon-needles", "chad-michaels"],
+    "bottomIds": ["dida-ritz", "latrice-royale"],
+    "lipSync": {
+      "song": "I've Got to Use My Imagination",
+      "queenIds": ["dida-ritz", "latrice-royale"],
+      "winnerIds": ["latrice-royale"],
+      "eliminatedIds": ["dida-ritz"]
+    },
+    "guestJudges": [
+      { "name": "Dan Savage" },
+      { "name": "Jeffrey Moran" }
+    ]
+  },
+  {
+    "id": "US-S04-E10",
+    "seasonId": "US-S04",
+    "episodeNumber": 10,
+    "title": "DILFs: Dads I'd Like to Frock",
+    "miniChallenge": {
+      "name": "Give a teddy bear a makeover",
+      "winnerIds": ["kenya-michaels"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover a DILF into a pregnant drag diva",
+      "winnerIds": ["phi-phi-ohara"]
+    },
+    "topIds": ["phi-phi-ohara", "chad-michaels"],
+    "bottomIds": ["kenya-michaels", "latrice-royale"],
+    "lipSync": {
+      "song": "(You Make Me Feel Like) A Natural Woman",
+      "queenIds": ["kenya-michaels", "latrice-royale"],
+      "winnerIds": ["latrice-royale"],
+      "eliminatedIds": ["kenya-michaels"]
+    },
+    "guestJudges": [
+      { "name": "Jesse Tyler Ferguson" },
+      { "name": "Jennifer Love Hewitt" }
+    ]
+  },
+  {
+    "id": "US-S04-E11",
+    "seasonId": "US-S04",
+    "episodeNumber": 11,
+    "title": "The Fabulous Bitch Ball",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["chad-michaels"]
+    },
+    "maxiChallenge": {
+      "name": "The Bitch Ball",
+      "winnerIds": ["sharon-needles"]
+    },
+    "runwayTheme": "Daytime Dog Park, Pooch in a Purse, and Canine Couture",
+    "topIds": ["sharon-needles", "phi-phi-ohara"],
+    "bottomIds": ["chad-michaels", "latrice-royale"],
+    "lipSync": {
+      "song": "No One Else on Earth",
+      "queenIds": ["chad-michaels", "latrice-royale"],
+      "winnerIds": ["chad-michaels"],
+      "eliminatedIds": ["latrice-royale"]
+    },
+    "guestJudges": [
+      { "name": "Rose McGowan" },
+      { "name": "Wynonna Judd" }
+    ]
+  },
+  {
+    "id": "US-S04-E12",
+    "seasonId": "US-S04",
+    "episodeNumber": 12,
+    "title": "RuPaul Rewind"
+  },
+  {
+    "id": "US-S04-E13",
+    "seasonId": "US-S04",
+    "episodeNumber": 13,
+    "title": "The Final Three",
+    "runwayTheme": "Best Drag",
+    "topIds": ["sharon-needles", "chad-michaels", "phi-phi-ohara"],
+    "lipSync": {
+      "song": "Glamazon",
+      "queenIds": ["chad-michaels", "phi-phi-ohara", "sharon-needles"],
+      "winnerIds": []
+    }
+  },
+  {
+    "id": "US-S04-E14",
+    "seasonId": "US-S04",
+    "episodeNumber": 14,
+    "title": "Reunited"
+  }
+]

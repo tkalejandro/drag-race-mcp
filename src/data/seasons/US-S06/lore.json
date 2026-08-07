@@ -1,0 +1,38 @@
+[
+  {
+    "id": "s06-split-premiere",
+    "title": "First split premiere",
+    "summary": "Season 6 was the first to split its premiere across two episodes (US-S06-E01 and US-S06-E02), with seven queens competing in each group before uniting for Scream Queens (US-S06-E03). Kelly Mantle and Magnolia Crawford were eliminated in Parts 1 and 2 respectively.",
+    "tags": ["production"],
+    "queenIds": ["kelly-mantle", "magnolia-crawford"],
+    "seasonIds": ["US-S06"],
+    "episodeIds": ["US-S06-E01", "US-S06-E02"]
+  },
+  {
+    "id": "s06-bendela-saved",
+    "title": "Darienne wins, BenDeLa saved",
+    "summary": "In Glamazon by Colorevolution (US-S06-E07), BenDeLaCreme and Darienne Lake lip-synced to Exposé's \"Point of No Return.\" Darienne won the lip-sync, but RuPaul saved BenDeLa and no one was eliminated.",
+    "tags": ["lip-sync", "iconic"],
+    "queenIds": ["darienne-lake", "bendelacreme"],
+    "seasonIds": ["US-S06"],
+    "episodeIds": ["US-S06-E07"]
+  },
+  {
+    "id": "s06-bianca-crown",
+    "title": "Bianca Del Rio wins Season 6",
+    "summary": "After a four-way lip-sync to \"Sissy That Walk\" eliminated Darienne Lake (US-S06-E12), Bianca Del Rio was crowned at the live reunion (US-S06-E14). Adore Delano and Courtney Act were runners-up. The cash prize was $100,000.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["bianca-del-rio", "adore-delano", "courtney-act", "darienne-lake"],
+    "seasonIds": ["US-S06"],
+    "episodeIds": ["US-S06-E12", "US-S06-E14"]
+  },
+  {
+    "id": "s06-bendela-miss-c",
+    "title": "BenDeLaCreme Miss Congeniality",
+    "summary": "BenDeLaCreme was voted Miss Congeniality by viewers, announced at the Season 6 reunion (US-S06-E14).",
+    "tags": ["fan-favorite", "reunion"],
+    "queenIds": ["bendelacreme"],
+    "seasonIds": ["US-S06"],
+    "episodeIds": ["US-S06-E14"]
+  }
+]

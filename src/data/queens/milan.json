@@ -1,0 +1,29 @@
+{
+  "id": "milan",
+  "name": "Milan",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S04-E04",
+          "song": "Trouble"
+        },
+        {
+          "episodeId": "US-S04-E05",
+          "song": "Vogue"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S04-E06",
+          "song": "Born This Way"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S04-E06"
+    }
+  ]
+}

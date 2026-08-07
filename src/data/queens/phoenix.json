@@ -1,0 +1,25 @@
+{
+  "id": "phoenix",
+  "name": "Phoenix",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E03",
+          "name": "In pairs, guess your partner's choices for different questions"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E03",
+          "song": "Bad Romance"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E03"
+    }
+  ]
+}

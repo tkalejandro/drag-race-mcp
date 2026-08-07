@@ -1,0 +1,43 @@
+{
+  "id": "carmen-carrera",
+  "name": "Carmen Carrera",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E04",
+          "name": "In pairs, make a leotard using only duct tape"
+        },
+        {
+          "episodeId": "US-S03-E05",
+          "name": "Scandalous Red Carpet photoshoot"
+        },
+        {
+          "episodeId": "US-S03-E07",
+          "name": "Nude photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S03-E09",
+          "song": "Mickey (Spanish version)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E10",
+          "song": "Believe"
+        },
+        {
+          "episodeId": "US-S03-E12",
+          "song": "Straight Up"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E12",
+      "reentered": true
+    }
+  ]
+}

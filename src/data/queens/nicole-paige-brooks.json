@@ -1,0 +1,20 @@
+{
+  "id": "nicole-paige-brooks",
+  "name": "Nicole Paige Brooks",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E02",
+          "song": "My Lovin' (You're Never Gonna Get It)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S02-E02"
+    }
+  ]
+}

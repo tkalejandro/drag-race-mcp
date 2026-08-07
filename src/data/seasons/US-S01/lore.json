@@ -1,0 +1,45 @@
+[
+  {
+    "id": "porkchop-origin",
+    "title": "The original Porkchop",
+    "summary": "Victoria \"Porkchop\" Parker was the first contestant eliminated on RuPaul's Drag Race (US-S01-E01). Fans later coined \"Porkchop\" as the nickname for any season's first-out queen.",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["victoria-porkchop-parker"],
+    "seasonIds": ["US-S01"],
+    "episodeIds": ["US-S01-E01"]
+  },
+  {
+    "id": "bebe-s01-crown",
+    "title": "BeBe Zahara Benet wins Season 1",
+    "summary": "In the Grand Finale (US-S01-E08), BeBe Zahara Benet and Nina Flowers lip-synced to RuPaul's \"Cover Girl (Put the Bass in Your Walk)\". BeBe was crowned America's Next Drag Superstar; Nina finished as runner-up. The Season 1 cash prize was $20,000.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["bebe-zahara-benet", "nina-flowers"],
+    "seasonIds": ["US-S01"],
+    "episodeIds": ["US-S01-E08"]
+  },
+  {
+    "id": "s01-no-snatch-game",
+    "title": "No Snatch Game on Season 1",
+    "summary": "RuPaul's Drag Race Season 1 (and All Stars 1) did not feature a Snatch Game episode. The celebrity-impersonation challenge format arrived in later seasons and became a franchise staple.",
+    "tags": ["snatch-game", "production", "iconic"],
+    "seasonIds": ["US-S01"]
+  },
+  {
+    "id": "ongina-hiv-reveal",
+    "title": "Ongina's HIV disclosure",
+    "summary": "During Season 1, Ongina publicly discussed living with HIV — a landmark moment for the show. The reunion (US-S01-E09) revisited her story alongside other season moments; she was eliminated after the US-S01-E05 lip sync.",
+    "tags": ["iconic", "heartbreak", "drama"],
+    "queenIds": ["ongina"],
+    "seasonIds": ["US-S01"],
+    "episodeIds": ["US-S01-E04", "US-S01-E05", "US-S01-E09"]
+  },
+  {
+    "id": "nina-flowers-miss-c",
+    "title": "Nina Flowers: runner-up and Miss Congeniality",
+    "summary": "Nina Flowers won the first maxi challenge of the franchise, reached the final lip sync against BeBe Zahara Benet, and was voted Miss Congeniality by viewers — announced at the Season 1 reunion (US-S01-E09).",
+    "tags": ["fan-favorite", "iconic", "reunion"],
+    "queenIds": ["nina-flowers"],
+    "seasonIds": ["US-S01"],
+    "episodeIds": ["US-S01-E01", "US-S01-E08", "US-S01-E09"]
+  }
+]

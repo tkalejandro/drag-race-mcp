@@ -1,0 +1,25 @@
+{
+  "id": "vivacious",
+  "name": "Vivacious",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S06-E01",
+          "song": "Express Yourself"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E03",
+          "song": "Shake It Up"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E03"
+    }
+  ]
+}

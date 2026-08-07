@@ -1,0 +1,25 @@
+{
+  "id": "monica-beverly-hillz",
+  "name": "Monica Beverly Hillz",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S05-E02",
+          "song": "Only Girl (In the World)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E03",
+          "song": "When I Grow Up"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E03"
+    }
+  ]
+}

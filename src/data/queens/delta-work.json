@@ -1,0 +1,34 @@
+{
+  "id": "delta-work",
+  "name": "Delta Work",
+  "appearances": [
+    {
+      "seasonId": "US-S03",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E06",
+          "name": "Shit RuPaul Says"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S03-E03",
+          "song": "Bad Romance"
+        },
+        {
+          "episodeId": "US-S03-E06",
+          "song": "Looking for a New Love"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E08",
+          "song": "MacArthur Park"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E08"
+    }
+  ]
+}

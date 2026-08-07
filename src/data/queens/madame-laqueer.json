@@ -1,0 +1,30 @@
+{
+  "id": "madame-laqueer",
+  "name": "Madame LaQueer",
+  "appearances": [
+    {
+      "seasonId": "US-S04",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "US-S04-E02",
+          "name": "Create a wrestling storyline with backstage clip and ring match"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S04-E04",
+          "name": "In pairs, paint each other's faces while handcuffed and pose for mug shots"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S04-E04",
+          "song": "Trouble"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S04-E04"
+    }
+  ]
+}

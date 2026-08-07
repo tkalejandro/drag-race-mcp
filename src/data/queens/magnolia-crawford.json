@@ -1,0 +1,20 @@
+{
+  "id": "magnolia-crawford",
+  "name": "Magnolia Crawford",
+  "appearances": [
+    {
+      "seasonId": "US-S06",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S06-E02",
+          "song": "Turn the Beat Around"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S06-E02"
+    }
+  ]
+}

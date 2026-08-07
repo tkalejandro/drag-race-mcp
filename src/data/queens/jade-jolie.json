@@ -1,0 +1,20 @@
+{
+  "id": "jade-jolie",
+  "name": "Jade Jolie",
+  "appearances": [
+    {
+      "seasonId": "US-S05",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S05-E06",
+          "song": "I'm So Excited"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S05-E06"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tatianna",
+  "name": "Tatianna",
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S02-E04",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S02-E08",
+          "name": "Match queens with their baby pictures"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S02-E07",
+          "song": "He's the Greatest Dancer"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E09",
+          "song": "Something He Can Feel"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S02-E09"
+    },
+    {
+      "seasonId": "AS-S02",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S02-E01",
+          "name": "Perform a talent show in front of the judges and a live audience"
+        },
+        {
+          "episodeId": "AS-S02-E05",
+          "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S02-E05",
+          "song": "Shut Up and Drive"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S02-E01",
+          "song": "Shake It Off"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S02-E06",
+      "reentered": true
+    }
+  ]
+}

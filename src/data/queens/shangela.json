@@ -1,0 +1,60 @@
+{
+  "id": "shangela",
+  "name": "Shangela",
+  "aliases": [
+    "Shangela Laquifa Wadley"
+  ],
+  "appearances": [
+    {
+      "seasonId": "US-S02",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S02-E01",
+          "song": "Cover Girl (Put the Bass in Your Walk)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S02-E01"
+    },
+    {
+      "seasonId": "US-S03",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "US-S03-E03",
+          "name": "Star in Drag Queens in Outer Space sci-fi spoof trailers"
+        },
+        {
+          "episodeId": "US-S03-E08",
+          "name": "Stand-up comedy routine"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S03-E08",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S03-E02",
+          "song": "The Right Stuff"
+        },
+        {
+          "episodeId": "US-S03-E10",
+          "song": "Believe"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S03-E11",
+          "song": "Even Angels"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S03-E11"
+    }
+  ]
+}

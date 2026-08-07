@@ -1,0 +1,47 @@
+{
+  "id": "kennedy-davenport",
+  "name": "Kennedy Davenport",
+  "appearances": [
+    {
+      "seasonId": "US-S07",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S07-E04",
+          "name": "In teams, create a music video parody to one of RuPaul's songs"
+        },
+        {
+          "episodeId": "US-S07-E07",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S07-E03",
+          "name": "Dress up in granny drag and dance with walkers and canes"
+        },
+        {
+          "episodeId": "US-S07-E08",
+          "name": "Recreate prison uniforms as Orange is the new Drag fashion looks"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S07-E03",
+          "song": "I Was Gonna Cancel"
+        },
+        {
+          "episodeId": "US-S07-E11",
+          "song": "Roar"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S07-E12",
+          "song": "Born Naked"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S07-E12"
+    }
+  ]
+}
