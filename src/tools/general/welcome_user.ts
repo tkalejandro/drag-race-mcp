@@ -4,7 +4,7 @@ import { z } from "zod";
 /**
  * Welcome user tool
  * Just a simple tool to welcome the user to the server
- * This is explains the basics of how to create a tool for the server.
+ * This explains the basics of how to create a tool for the server.
  */
 const welcomeUserTool = (server: McpServer) => {
     server.registerTool(
