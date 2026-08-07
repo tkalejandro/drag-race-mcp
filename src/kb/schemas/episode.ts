@@ -1,0 +1,39 @@
+import { z } from "zod";
+import {
+  EpisodeIdSchema,
+  QueenIdSchema,
+  SeasonIdSchema,
+} from "./common.ts";
+import { MoneySchema } from "./money.ts";
+import { PersonRefSchema } from "./person.ts";
+
+export const EpisodeChallengeSchema = z.object({
+  name: z.string().min(1),
+  winnerIds: z.array(QueenIdSchema),
+  earnings: MoneySchema.optional(),
+});
+
+export const EpisodeLipSyncSchema = z.object({
+  song: z.string().min(1),
+  queenIds: z.array(QueenIdSchema),
+  winnerIds: z.array(QueenIdSchema),
+  eliminatedIds: z.array(QueenIdSchema).optional(),
+});
+
+export const EpisodeSchema = z.object({
+  id: EpisodeIdSchema,
+  seasonId: SeasonIdSchema,
+  episodeNumber: z.number().int().positive(),
+  title: z.string().min(1),
+  miniChallenge: EpisodeChallengeSchema.optional(),
+  maxiChallenge: EpisodeChallengeSchema.optional(),
+  runwayTheme: z.string().optional(),
+  topIds: z.array(QueenIdSchema).optional(),
+  bottomIds: z.array(QueenIdSchema).optional(),
+  lipSync: EpisodeLipSyncSchema.optional(),
+  guestJudges: z.array(PersonRefSchema).optional(),
+});
+
+export type EpisodeChallenge = z.infer<typeof EpisodeChallengeSchema>;
+export type EpisodeLipSync = z.infer<typeof EpisodeLipSyncSchema>;
+export type Episode = z.infer<typeof EpisodeSchema>;

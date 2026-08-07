@@ -39,17 +39,18 @@
 
 ## Data model (for agents & contributors)
 
-The types in `src/types` are designed so models can navigate facts without burning tokens on repeated prose.
+IDs and catalogs live in `src/kb/catalogs.ts`; entity shapes are Zod schemas in `src/kb/schemas/` (types via `z.infer`). Designed so models can navigate facts without burning tokens on repeated prose.
 
 ### Hard facts
 
-| Type | File | What it stores |
-|------|------|----------------|
-| `Season` | `season.ts` | Franchise season metadata, cast IDs, winner, prize, hosts/judges |
-| `Queen` | `queen.ts` | Drag name, aliases, per-season appearances & wins |
-| `Episode` | `episode.ts` | Week-by-week challenges, runway, lip sync, eliminations |
-| `Money` | `money.ts` | Amount + currency enum |
-| `PersonRef` | `person.ts` | Host/judge `{ name, queenId? }` |
+| Type | Where | What it stores |
+|------|-------|----------------|
+| `Season` | `kb/schemas/season.ts` | Franchise season metadata, cast IDs, winner, prize, hosts/judges |
+| `Queen` | `kb/schemas/queen.ts` | Drag name, aliases, per-season appearances & wins |
+| `Episode` | `kb/schemas/episode.ts` | Week-by-week challenges, runway, lip sync, eliminations |
+| `Money` | `kb/schemas/money.ts` | Amount + currency enum |
+| `PersonRef` | `kb/schemas/person.ts` | Host/judge `{ name, queenId? }` |
+| `SeasonId` / `Currency` / `LoreTag` | `kb/catalogs.ts` | Closed catalogs + string ID aliases |
 
 These are the **source of truth** for placements, wins, cast lists, and episode outcomes.
 
@@ -231,20 +232,19 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 ├── src/
 │   ├── index.ts              # MCP entry (stdio)
 │   ├── server.ts             # Server + tool registration
-│   ├── data/
+│   ├── data/                 # JSON only (no TypeScript)
 │   │   ├── queens/           # One JSON file per QueenId
 │   │   └── seasons/
 │   │       └── US-S01/ … US-S07/, AS-S01/, AS-S02/
 │   │           ├── season.json
 │   │           ├── episodes.json
 │   │           └── lore.json
-│   ├── types/
-│   │   ├── season.ts         # SeasonId, FranchiseCode, Season
-│   │   ├── queen.ts          # QueenId, Queen, appearances, wins
-│   │   ├── episode.ts        # EpisodeId, Episode
-│   │   ├── lore.ts           # LoreId, LoreTag, Lore
-│   │   ├── money.ts          # Currency, Money
-│   │   └── person.ts         # PersonRef
+│   ├── kb/                   # Typed knowledge layer
+│   │   ├── catalogs.ts       # SeasonId, Currency, LoreTag, …
+│   │   ├── schemas/          # Zod per entity + z.infer types
+│   │   ├── load.ts           # Read data/ → validated Maps
+│   │   ├── accessors.ts      # getQueen / getSeason / …
+│   │   └── index.ts          # Public re-exports
 │   └── tools/
 │       └── general/
 │           ├── welcome_user.ts
@@ -253,14 +253,15 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 ├── .cursor/
 │   ├── mcp.json              # Local Cursor MCP config ADD WHEN YOU NEED IT.
 │   └── skills/
-│       └── drag-race-data/   # How to contribute season/queen JSON
+│       ├── drag-race-data/   # How to contribute season/queen JSON
+│       └── typescript-style/ # Arrow-const functions + TS conventions
 │
 ├── package.json
 ├── tsconfig.json
 └── README.md
 ```
 
-Knowledge base JSON lives under `src/data/`. Queens are global (one file per queen). Each season is a folder `src/data/seasons/<SeasonId>/` with `season.json`, `episodes.json`, and `lore.json`. See `.cursor/skills/drag-race-data/` when contributing with an agent.
+JSON facts live under `src/data/` (queens global; seasons as `src/data/seasons/<SeasonId>/`). The `src/kb/` layer validates and indexes them via Zod + Maps. See `.cursor/skills/drag-race-data/` when contributing with an agent.
 
 ---
 
@@ -354,7 +355,7 @@ That’s the same path used in development: **Cursor discovers the server’s to
 ### v1
 
 - [x] Stable TypeScript interfaces (IDs + hard facts + lore)
-- [ ] JSON data + Zod schemas
+- [x] JSON data + Zod schemas
 - [ ] Core read tools (queen / season / episode / lore)
 - [ ] Local Cursor workflow documented
 

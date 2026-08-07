@@ -22,7 +22,7 @@ src/data/
 
 Folder name must equal `SeasonId` exactly (e.g. `US-S01`, not `us-s01`).
 
-Schema contract: `src/types/{season,queen,episode,lore,money,person}.ts`.
+Schema contract: `src/kb/catalogs.ts` + `src/kb/schemas/`.
 
 ## IDs
 
