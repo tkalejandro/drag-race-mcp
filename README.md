@@ -112,7 +112,7 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 
 | SeasonId | Season | Queens | Episodes | Lore |
 |----------|:------:|:------:|:--------:|:----:|
-| `US-S01` | — | — | — | — |
+| `US-S01` | ✅ | ✅ | ✅ | ✅ |
 | `US-S02` | — | — | — | — |
 | `US-S03` | — | — | — | — |
 | `US-S04` | — | — | — | — |
@@ -231,6 +231,13 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 ├── src/
 │   ├── index.ts              # MCP entry (stdio)
 │   ├── server.ts             # Server + tool registration
+│   ├── data/
+│   │   ├── queens/           # One JSON file per QueenId
+│   │   └── seasons/
+│   │       └── US-S01/
+│   │           ├── season.json
+│   │           ├── episodes.json
+│   │           └── lore.json
 │   ├── types/
 │   │   ├── season.ts         # SeasonId, FranchiseCode, Season
 │   │   ├── queen.ts          # QueenId, Queen, appearances, wins
@@ -244,14 +251,16 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 │           └── index.ts
 │
 ├── .cursor/
-│   └── mcp.json              # Local Cursor MCP config ADD WHEN YOU NEED IT.
+│   ├── mcp.json              # Local Cursor MCP config ADD WHEN YOU NEED IT.
+│   └── skills/
+│       └── drag-race-data/   # How to contribute season/queen JSON
 │
 ├── package.json
 ├── tsconfig.json
 └── README.md
 ```
 
-`data/` (queens/seasons/episodes/lore JSON) comes next as tools land.
+Knowledge base JSON lives under `src/data/`. Queens are global (one file per queen). Each season is a folder `src/data/seasons/<SeasonId>/` with `season.json`, `episodes.json`, and `lore.json`. See `.cursor/skills/drag-race-data/` when contributing with an agent.
 
 ---
 

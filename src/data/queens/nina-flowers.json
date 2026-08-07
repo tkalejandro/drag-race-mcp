@@ -1,0 +1,22 @@
+{
+  "id": "nina-flowers",
+  "name": "Nina Flowers",
+  "aliases": ["DJ Nina Flowers"],
+  "appearances": [
+    {
+      "seasonId": "US-S01",
+      "placement": 2,
+      "challengeWins": [
+        { "episodeId": "US-S01-E01", "name": "Create an outfit from thrift-store items" }
+      ],
+      "miniChallengeWins": [
+        { "episodeId": "US-S01-E06", "name": "Vogue battle" }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "US-S01-E08", "song": "Cover Girl (Put the Bass in Your Walk)" }
+      ],
+      "missCongeniality": true
+    }
+  ]
+}

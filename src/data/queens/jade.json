@@ -1,0 +1,20 @@
+{
+  "id": "jade",
+  "name": "Jade",
+  "aliases": ["Jade Sotomayor"],
+  "appearances": [
+    {
+      "seasonId": "US-S01",
+      "placement": 6,
+      "eliminatedEpisodeId": "US-S01-E04",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        { "episodeId": "US-S01-E04", "name": "30-minute partner makeover" }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "US-S01-E04", "song": "Would I Lie to You?" }
+      ]
+    }
+  ]
+}

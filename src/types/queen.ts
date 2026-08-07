@@ -4,7 +4,7 @@
  * ID convention: kebab-case drag-name slug, e.g. "jinkx-monsoon", "bianca-del-rio".
  * Always prefer {@link QueenId} over free-text names when linking seasons or stats.
  *
- * Wins link to {@link EpisodeId} — look up the Episode for challenge/lip-sync detail.
+ * Wins and lip-sync losses link to {@link EpisodeId} — look up the Episode for challenge/lip-sync detail.
  */
 
 import type { EpisodeId } from "./episode.ts";
@@ -27,8 +27,11 @@ export interface ChallengeWin {
   earnings?: Money;
 }
 
-/** A single lip-sync win on a season. */
-export interface LipSyncWin {
+/**
+ * A single lip-sync result (win or loss) on a season.
+ * `episodeId` points at the Episode; optional `song` mirrors Episode lip-sync detail.
+ */
+export interface LipSyncResult {
   /** Episode where the lip-sync occurred — resolve song/opponents via Episode. */
   episodeId: EpisodeId;
   /** Song title (optional mirror of Episode lip-sync song). */
@@ -54,7 +57,12 @@ export interface QueenAppearance {
   /** Mini-challenge wins this season — one entry per win. */
   miniChallengeWins: ChallengeWin[];
   /** Lip-sync wins this season — one entry per win. */
-  lipSyncWins: LipSyncWin[];
+  lipSyncWins: LipSyncResult[];
+  /**
+   * Lip-sync losses this season — queens in Episode.lipSync.queenIds who are not in winnerIds.
+   * Includes eliminated LSFYL losses and finale / crown lip-sync losses.
+   */
+  lipSyncLosses: LipSyncResult[];
   /** True when awarded Miss Congeniality on this season. */
   missCongeniality?: boolean;
   /** True when removed by disqualification on this season. */
