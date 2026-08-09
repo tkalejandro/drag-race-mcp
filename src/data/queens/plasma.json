@@ -1,0 +1,29 @@
+{
+  "id": "plasma",
+  "name": "Plasma",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "US-S16-E04",
+          "name": "Act in the sketch comedy Everything Every-Cher All at Once"
+        },
+        {
+          "episodeId": "US-S16-E07",
+          "name": "The Sound of Rusic"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E09",
+          "song": "Bloody Mary (Wednesday Dance TikTok Version)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S16-E09"
+    }
+  ]
+}

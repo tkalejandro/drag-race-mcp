@@ -1,0 +1,32 @@
+{
+  "id": "peppermint",
+  "name": "Peppermint",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S09-E08",
+          "name": "Perform a roast of Michelle Visage"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E06",
+          "song": "Music"
+        },
+        {
+          "episodeId": "US-S09-E11",
+          "song": "Macho Man"
+        },
+        {
+          "episodeId": "US-S09-E12",
+          "song": "U Wear It Well"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

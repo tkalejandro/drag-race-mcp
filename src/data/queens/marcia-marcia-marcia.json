@@ -1,0 +1,20 @@
+{
+  "id": "marcia-marcia-marcia",
+  "name": "Marcia Marcia Marcia",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E11",
+          "song": "Boss Bitch"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E11"
+    }
+  ]
+}

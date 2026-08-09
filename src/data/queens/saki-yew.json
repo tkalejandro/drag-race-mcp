@@ -1,0 +1,16 @@
+{
+  "id": "saki-yew",
+  "name": "Saki Yew",
+  "appearances": [
+    {
+      "seasonId": "UK-S06",
+      "placement": 12,
+      "eliminatedEpisodeId": "UK-S06-E02",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "quit": true
+    }
+  ]
+}

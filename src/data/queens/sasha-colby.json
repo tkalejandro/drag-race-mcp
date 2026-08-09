@@ -1,0 +1,31 @@
+{
+  "id": "sasha-colby",
+  "name": "Sasha Colby",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S15-E03",
+          "name": "Film a queer afterlife infomercial"
+        },
+        {
+          "episodeId": "US-S15-E09",
+          "name": "The Crystal Ball"
+        },
+        {
+          "episodeId": "US-S15-E10",
+          "name": "Interview celebrities for 50/50's Most Gagworthy Stars"
+        },
+        {
+          "episodeId": "US-S15-E14",
+          "name": "Write, record, and perform verses to Blame It on the Edit"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": []
+    }
+  ]
+}

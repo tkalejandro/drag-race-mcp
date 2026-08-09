@@ -1,0 +1,26 @@
+{
+  "id": "scarlett-bobo",
+  "name": "Scarlett BoBo",
+  "appearances": [
+    {
+      "seasonId": "CA-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S01-E09",
+          "name": "The Snow Ball: Executive Holiday Party Realness, Icy Walk of Shame and Ice Queen Eleganza"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S01-E08",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "CA-S01-E10", "song": "You're a Superstar" }
+      ]
+    }
+  ]
+}

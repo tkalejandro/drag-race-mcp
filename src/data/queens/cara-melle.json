@@ -1,0 +1,38 @@
+{
+  "id": "cara-melle",
+  "name": "Cara Melle",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 6,
+      "eliminatedEpisodeId": "UK-S05-E07",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S05-E03",
+          "name": "Write, record, and perform verses to Don't Ick My Yum"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S05-E03",
+          "song": "Remember"
+        },
+        {
+          "episodeId": "UK-S05-E04",
+          "song": "The Only Way Is Up"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S05-E01",
+          "song": "Ooh Aah... Just a Little Bit"
+        },
+        {
+          "episodeId": "UK-S05-E07",
+          "song": "Touch Me (I Want Your Body)"
+        }
+      ]
+    }
+  ]
+}

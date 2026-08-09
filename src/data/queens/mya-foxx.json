@@ -1,0 +1,26 @@
+{
+  "id": "mya-foxx",
+  "name": "Mya Foxx",
+  "appearances": [
+    {
+      "seasonId": "CA-S06",
+      "placement": 7,
+      "eliminatedEpisodeId": "CA-S06-E06",
+      "challengeWins": [
+        {
+          "episodeId": "CA-S06-E03",
+          "name": "Choose to compete on Snatch Game or create an outfit made for a Red Carpet",
+          "earnings": { "amount": 2500, "currency": "CAD" }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S06-E06",
+          "song": "Sweet Surrender"
+        }
+      ]
+    }
+  ]
+}

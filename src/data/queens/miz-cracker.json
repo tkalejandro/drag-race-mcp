@@ -1,0 +1,25 @@
+{
+  "id": "miz-cracker",
+  "name": "Miz Cracker",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S10-E10",
+          "name": "Makeover social media superstars"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E11",
+          "song": "Nasty Girl"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E11"
+    }
+  ]
+}

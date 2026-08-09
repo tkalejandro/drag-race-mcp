@@ -1,0 +1,45 @@
+{
+  "id": "kandy-muse",
+  "name": "Kandy Muse",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S13-E12",
+          "name": "Roast of former Miss Congeniality winners"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S13-E11",
+          "name": "Are You Smarter Than The Pit Crew?"
+        },
+        {
+          "episodeId": "US-S13-E12",
+          "name": "Comedy makeup tutorials in pairs"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S13-E06",
+          "song": "Hit 'Em Up Style (Oops!)"
+        },
+        {
+          "episodeId": "US-S13-E08",
+          "song": "Boss"
+        },
+        {
+          "episodeId": "US-S13-E13",
+          "song": "Strong Enough"
+        },
+        {
+          "episodeId": "US-S13-E14",
+          "song": "I Learned from the Best (HQ2 Radio Mix)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

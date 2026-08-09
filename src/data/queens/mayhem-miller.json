@@ -1,0 +1,30 @@
+{
+  "id": "mayhem-miller",
+  "name": "Mayhem Miller",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "US-S10-E01",
+          "name": "Create an outfit made from items found at a 99 cent store"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S10-E03",
+          "song": "Celebrity Skin"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E05",
+          "song": "Man! I Feel Like a Woman!"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E05"
+    }
+  ]
+}

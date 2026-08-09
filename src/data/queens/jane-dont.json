@@ -1,0 +1,39 @@
+{
+  "id": "jane-dont",
+  "name": "Jane Don't",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S18-E02",
+          "name": "Write, record, and perform 70s/80s girl-group verses"
+        },
+        {
+          "episodeId": "US-S18-E09",
+          "name": "Fannie: The Hard Knock Ball Rusical"
+        },
+        {
+          "episodeId": "US-S18-E10",
+          "name": "Design a look from eliminated queens' suitcases"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S18-E10",
+          "song": "Feels Like Another One"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E13",
+          "song": "Garden of Eden"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E13",
+      "missCongeniality": true
+    }
+  ]
+}

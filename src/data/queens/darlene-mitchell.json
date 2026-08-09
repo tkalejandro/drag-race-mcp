@@ -1,0 +1,23 @@
+{
+  "id": "darlene-mitchell",
+  "name": "Darlene Mitchell",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S18-E11",
+          "name": "Roast and toast Alyssa Edwards"
+        },
+        {
+          "episodeId": "US-S18-E14",
+          "name": "Host a paired morning show"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": []
+    }
+  ]
+}

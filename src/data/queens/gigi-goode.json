@@ -1,0 +1,49 @@
+{
+  "id": "gigi-goode",
+  "name": "Gigi Goode",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S12-E04",
+          "name": "The Ball Ball"
+        },
+        {
+          "episodeId": "US-S12-E06",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "US-S12-E07",
+          "name": "Madonna: The Unauthorized Rusical"
+        },
+        {
+          "episodeId": "US-S12-E12",
+          "name": "Perform a medley of songs from RuPaul's Drag Race Live!"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S12-E04",
+          "name": "The Beehive Jive dance competition"
+        },
+        {
+          "episodeId": "US-S12-E08",
+          "name": "In pairs, create a box of FabFitFun products for another duo, then gift it to them with shade"
+        },
+        {
+          "episodeId": "US-S12-E12",
+          "name": "Create an over-the-top, one-of-a-kind showgirl headdress"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S12-E01",
+          "song": "Starships"
+        }
+      ]
+    }
+  ]
+}

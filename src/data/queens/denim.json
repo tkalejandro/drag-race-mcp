@@ -1,0 +1,34 @@
+{
+  "id": "denim",
+  "name": "Denim",
+  "appearances": [
+    {
+      "seasonId": "CA-S04",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S04-E08",
+          "name": "Give a drag makeover to a loved one"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S04-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S04-E07",
+          "song": "Seven Day Fool"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S04-E01",
+          "song": "Feel It in My Bones"
+        }
+      ]
+    }
+  ]
+}

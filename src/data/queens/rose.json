@@ -1,0 +1,43 @@
+{
+  "id": "rose",
+  "name": "Rosé",
+  "aliases": ["Rose"],
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S13-E08",
+          "name": "Social Media: The Unverified Rusical"
+        },
+        {
+          "episodeId": "US-S13-E11",
+          "name": "Create and advertise a soft drink brand with a catchy jingle"
+        },
+        {
+          "episodeId": "US-S13-E13",
+          "name": "Star in Henny, I Shrunk the Drag Queens!"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S13-E12",
+          "name": "Comedy makeup tutorials in pairs"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S13-E14",
+          "song": "I Learned from the Best (HQ2 Radio Mix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E03",
+          "song": "If U Seek Amy"
+        }
+      ]
+    }
+  ]
+}

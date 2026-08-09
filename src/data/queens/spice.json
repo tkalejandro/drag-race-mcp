@@ -1,0 +1,25 @@
+{
+  "id": "spice",
+  "name": "Spice",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S15-E04",
+          "song": "You Better Run"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E09",
+          "song": "That's What I Want"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E09"
+    }
+  ]
+}

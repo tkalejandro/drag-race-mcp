@@ -1,0 +1,30 @@
+{
+  "id": "deja-skye",
+  "name": "DeJa Skye",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "US-S14-E10",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E02",
+          "song": "Fallin'"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E13",
+          "song": "Good 4 U"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S14-E13"
+    }
+  ]
+}

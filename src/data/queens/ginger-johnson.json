@@ -1,0 +1,37 @@
+{
+  "id": "ginger-johnson",
+  "name": "Ginger Johnson",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S05-E04",
+          "name": "In teams, perform an inspirational seminar called RuPaul's DisasterClass"
+        },
+        {
+          "episodeId": "UK-S05-E05",
+          "name": "Pant-Oh She Better Don't: The Rusical"
+        },
+        {
+          "episodeId": "UK-S05-E06",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S05-E07",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S05-E10",
+          "song": "A Little Respect"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

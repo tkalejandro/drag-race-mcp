@@ -1,0 +1,33 @@
+{
+  "id": "kori-king",
+  "name": "Kori King",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S17-E04",
+          "song": "Buttons"
+        },
+        {
+          "episodeId": "US-S17-E08",
+          "song": "Wet Dream"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E09",
+          "song": "Kiss Me Deadly"
+        },
+        {
+          "episodeId": "US-S17-E15",
+          "song": "APT."
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E09"
+    }
+  ]
+}

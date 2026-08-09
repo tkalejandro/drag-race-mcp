@@ -1,0 +1,207 @@
+[
+  {
+    "id": "UK-S03-E01",
+    "seasonId": "UK-S03",
+    "episodeNumber": 1,
+    "title": "The Return of Royalty",
+    "maxiChallenge": {
+      "name": "Present two looks on the runway: Queen of Your Hometown and My Favourite Things",
+      "winnerIds": ["krystal-versace"]
+    },
+    "runwayTheme": "Queen of Your Hometown / My Favourite Things",
+    "topIds": ["krystal-versace", "scarlett-harlett", "victoria-scone"],
+    "bottomIds": ["anubis", "elektra-fence"],
+    "lipSync": {
+      "song": "Sweet Melody",
+      "queenIds": ["anubis", "elektra-fence"],
+      "winnerIds": ["elektra-fence"],
+      "eliminatedIds": ["anubis"]
+    },
+    "guestJudges": [{ "name": "Matt Lucas" }]
+  },
+  {
+    "id": "UK-S03-E02",
+    "seasonId": "UK-S03",
+    "episodeNumber": 2,
+    "title": "Dragoton",
+    "maxiChallenge": {
+      "name": "In teams, perform as dance instructors for the fitness concept Dragoton",
+      "winnerIds": ["krystal-versace"]
+    },
+    "runwayTheme": "Red Carpet Showstoppers",
+    "topIds": ["kitty-scott-claus", "krystal-versace", "veronica-green"],
+    "bottomIds": ["elektra-fence", "vanity-milan"],
+    "lipSync": {
+      "song": "Moving On Up",
+      "queenIds": ["elektra-fence", "vanity-milan"],
+      "winnerIds": ["vanity-milan"],
+      "eliminatedIds": ["elektra-fence"]
+    },
+    "guestJudges": [{ "name": "Oti Mabuse" }]
+  },
+  {
+    "id": "UK-S03-E03",
+    "seasonId": "UK-S03",
+    "episodeNumber": 3,
+    "title": "Great Outdoors",
+    "miniChallenge": {
+      "name": "Make a profile video for the dating app Findhr",
+      "winnerIds": ["scarlett-harlett"]
+    },
+    "maxiChallenge": {
+      "name": "Present two looks on the runway: Happy Campers and Campfire Couture",
+      "winnerIds": ["scarlett-harlett"]
+    },
+    "runwayTheme": "Happy Campers / Campfire Couture",
+    "topIds": ["ella-vaday", "krystal-versace", "scarlett-harlett"],
+    "bottomIds": ["vanity-milan", "veronica-green"],
+    "lipSync": {
+      "song": "I've Got the Music in Me",
+      "queenIds": ["vanity-milan", "veronica-green"],
+      "winnerIds": ["vanity-milan"],
+      "eliminatedIds": ["veronica-green"]
+    },
+    "guestJudges": [{ "name": "Nicola Coughlan" }]
+  },
+  {
+    "id": "UK-S03-E04",
+    "seasonId": "UK-S03",
+    "episodeNumber": 4,
+    "title": "Big Drag Energy",
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to B.D.E. (Big Drag Energy)",
+      "winnerIds": ["choriza-may", "ella-vaday", "river-medway", "vanity-milan"]
+    },
+    "runwayTheme": "Night of a Thousand Spice Girls",
+    "topIds": ["choriza-may", "ella-vaday", "river-medway", "vanity-milan"],
+    "bottomIds": ["charity-kase", "scarlett-harlett"],
+    "lipSync": {
+      "song": "Who Do You Think You Are",
+      "queenIds": ["charity-kase", "scarlett-harlett"],
+      "winnerIds": ["charity-kase", "scarlett-harlett"]
+    },
+    "guestJudges": [{ "name": "Emma Bunton" }]
+  },
+  {
+    "id": "UK-S03-E05",
+    "seasonId": "UK-S03",
+    "episodeNumber": 5,
+    "title": "Draglexa",
+    "miniChallenge": {
+      "name": "RuPaul's Dog Race",
+      "winnerIds": ["krystal-versace", "scarlett-harlett"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, market an in-home smart assistant Draglexa",
+      "winnerIds": []
+    },
+    "runwayTheme": "Ex-Penny Henny",
+    "bottomIds": ["charity-kase", "scarlett-harlett"],
+    "lipSync": {
+      "song": "Big Spender",
+      "queenIds": ["charity-kase", "scarlett-harlett"],
+      "winnerIds": ["scarlett-harlett"],
+      "eliminatedIds": ["charity-kase"]
+    },
+    "guestJudges": [{ "name": "Leigh-Anne Pinnock" }]
+  },
+  {
+    "id": "UK-S03-E06",
+    "seasonId": "UK-S03",
+    "episodeNumber": 6,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["choriza-may"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["ella-vaday"]
+    },
+    "runwayTheme": "Feeling Fruity",
+    "topIds": ["ella-vaday", "kitty-scott-claus"],
+    "bottomIds": ["choriza-may", "river-medway"],
+    "lipSync": {
+      "song": "Shout",
+      "queenIds": ["choriza-may", "river-medway"],
+      "winnerIds": [],
+      "eliminatedIds": ["choriza-may", "river-medway"]
+    },
+    "guestJudges": [{ "name": "Lulu" }]
+  },
+  {
+    "id": "UK-S03-E07",
+    "seasonId": "UK-S03",
+    "episodeNumber": 7,
+    "title": "The Miss Fugly Beauty Pageant",
+    "maxiChallenge": {
+      "name": "The Miss Fugly Beauty Pageant",
+      "winnerIds": ["kitty-scott-claus"]
+    },
+    "runwayTheme": "Fugly Swimwear / Charity Shop Chic / Fugly But Fashionable",
+    "topIds": ["ella-vaday", "kitty-scott-claus", "krystal-versace"],
+    "bottomIds": ["scarlett-harlett", "vanity-milan"],
+    "lipSync": {
+      "song": "Scandalous",
+      "queenIds": ["scarlett-harlett", "vanity-milan"],
+      "winnerIds": ["vanity-milan"],
+      "eliminatedIds": ["scarlett-harlett"]
+    },
+    "guestJudges": [{ "name": "Alesha Dixon" }]
+  },
+  {
+    "id": "UK-S03-E08",
+    "seasonId": "UK-S03",
+    "episodeNumber": 8,
+    "title": "Bra Wars",
+    "maxiChallenge": {
+      "name": "Overact in the budget movie Bra Wars - The Fempire Claps Back",
+      "winnerIds": ["ella-vaday", "kitty-scott-claus"]
+    },
+    "runwayTheme": "Scene Stealers",
+    "topIds": ["ella-vaday", "kitty-scott-claus", "krystal-versace", "vanity-milan"],
+    "lipSync": {
+      "song": "Something New",
+      "queenIds": ["ella-vaday", "kitty-scott-claus"],
+      "winnerIds": ["ella-vaday", "kitty-scott-claus"]
+    },
+    "guestJudges": [{ "name": "Russell Tovey" }]
+  },
+  {
+    "id": "UK-S03-E09",
+    "seasonId": "UK-S03",
+    "episodeNumber": 9,
+    "title": "The Pearly Gates Roast",
+    "maxiChallenge": {
+      "name": "Perform a roast of the judges and the eliminated queens of Series 3",
+      "winnerIds": ["ella-vaday"]
+    },
+    "runwayTheme": "Oh My Goddess",
+    "topIds": ["ella-vaday", "kitty-scott-claus"],
+    "bottomIds": ["krystal-versace", "vanity-milan"],
+    "lipSync": {
+      "song": "Hallucinate",
+      "queenIds": ["krystal-versace", "vanity-milan"],
+      "winnerIds": ["krystal-versace"],
+      "eliminatedIds": ["vanity-milan"]
+    },
+    "guestJudges": [{ "name": "Kathy Burke" }]
+  },
+  {
+    "id": "UK-S03-E10",
+    "seasonId": "UK-S03",
+    "episodeNumber": 10,
+    "title": "Grand Finale",
+    "maxiChallenge": {
+      "name": "Write, record and perform a verse to Hey Sis, It's Christmas",
+      "winnerIds": []
+    },
+    "runwayTheme": "Final Three Eleganza Extravaganza",
+    "topIds": ["ella-vaday", "kitty-scott-claus", "krystal-versace"],
+    "lipSync": {
+      "song": "You Don't Own Me",
+      "queenIds": ["ella-vaday", "kitty-scott-claus", "krystal-versace"],
+      "winnerIds": ["krystal-versace"]
+    }
+  }
+]

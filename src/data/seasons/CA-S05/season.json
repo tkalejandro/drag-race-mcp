@@ -1,0 +1,44 @@
+{
+  "id": "CA-S05",
+  "franchise": "CA",
+  "name": "Canada's Drag Race Season 5",
+  "seasonNumber": 5,
+  "year": 2024,
+  "episodeCount": 9,
+  "episodeIds": [
+    "CA-S05-E01",
+    "CA-S05-E02",
+    "CA-S05-E03",
+    "CA-S05-E04",
+    "CA-S05-E05",
+    "CA-S05-E06",
+    "CA-S05-E07",
+    "CA-S05-E08",
+    "CA-S05-E09"
+  ],
+  "castIds": [
+    "the-virgo-queen",
+    "makayla-couture",
+    "helena-poison",
+    "minhi-wang",
+    "perla",
+    "xana",
+    "uma-gahd",
+    "jaylene-tyme",
+    "sanjina-dabish-queen",
+    "tiffany-ann-co",
+    "tara-nova"
+  ],
+  "winnerId": "the-virgo-queen",
+  "runnerUpIds": ["makayla-couture"],
+  "missCongenialityId": "jaylene-tyme",
+  "porkchopId": "tara-nova",
+  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "judges": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
+    { "name": "Brad Goreski" },
+    { "name": "Traci Melchor" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "CAD" }
+}

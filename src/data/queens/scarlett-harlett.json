@@ -1,0 +1,43 @@
+{
+  "id": "scarlett-harlett",
+  "name": "Scarlett Harlett",
+  "appearances": [
+    {
+      "seasonId": "UK-S03",
+      "placement": 5,
+      "eliminatedEpisodeId": "UK-S03-E07",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S03-E03",
+          "name": "Present two looks on the runway: Happy Campers and Campfire Couture"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S03-E03",
+          "name": "Make a profile video for the dating app Findhr"
+        },
+        {
+          "episodeId": "UK-S03-E05",
+          "name": "RuPaul's Dog Race"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S03-E04",
+          "song": "Who Do You Think You Are"
+        },
+        {
+          "episodeId": "UK-S03-E05",
+          "song": "Big Spender"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S03-E07",
+          "song": "Scandalous"
+        }
+      ]
+    }
+  ]
+}

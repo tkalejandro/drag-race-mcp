@@ -1,0 +1,51 @@
+{
+  "id": "suzie-toot",
+  "name": "Suzie Toot",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S17-E01",
+          "name": "Perform a talent show for Drag Queens Got Talent (group 1)"
+        },
+        {
+          "episodeId": "US-S17-E05",
+          "name": "Act in RDR Live! sketch comedy"
+        },
+        {
+          "episodeId": "US-S17-E15",
+          "name": "Compete in a Lip Sync LaLaPaRuZa Smackdown tournament for eliminated queens"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S17-E06",
+          "name": "ABH lipstick mouth relay"
+        },
+        {
+          "episodeId": "US-S17-E09",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S17-E01",
+          "song": "Woman's World"
+        },
+        {
+          "episodeId": "US-S17-E15",
+          "song": "APT."
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E14",
+          "song": "Love Child"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E14"
+    }
+  ]
+}

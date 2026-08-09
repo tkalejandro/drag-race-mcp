@@ -1,0 +1,49 @@
+{
+  "id": "myki-meeks",
+  "name": "Myki Meeks",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S18-E07",
+          "name": "Create paired political campaign ads"
+        },
+        {
+          "episodeId": "US-S18-E12",
+          "name": "Make over rodeo riders into drag family members"
+        },
+        {
+          "episodeId": "US-S18-E13",
+          "name": "Improv with RuPaul"
+        },
+        {
+          "episodeId": "US-S18-E14",
+          "name": "Host a paired morning show"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S18-E10",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "US-S18-E11",
+          "name": "Scent Bird ads"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S18-E06",
+          "song": "Toxic"
+        },
+        {
+          "episodeId": "US-S18-E16",
+          "song": "Every Girl You've Ever Loved"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

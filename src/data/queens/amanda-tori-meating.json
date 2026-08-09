@@ -1,0 +1,20 @@
+{
+  "id": "amanda-tori-meating",
+  "name": "Amanda Tori Meating",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E05",
+          "song": "Emergency"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S16-E05"
+    }
+  ]
+}

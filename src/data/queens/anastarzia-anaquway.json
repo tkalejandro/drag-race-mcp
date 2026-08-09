@@ -1,0 +1,22 @@
+{
+  "id": "anastarzia-anaquway",
+  "name": "Anastarzia Anaquway",
+  "appearances": [
+    {
+      "seasonId": "CA-S01",
+      "placement": 10,
+      "eliminatedEpisodeId": "CA-S01-E03",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S01-E02",
+          "name": "Get into quick drag and audition for a role as a ballerina in The Nutsmacker"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "CA-S01-E03", "song": "Absolutely Not (Chanel Club Mix)" }
+      ]
+    }
+  ]
+}

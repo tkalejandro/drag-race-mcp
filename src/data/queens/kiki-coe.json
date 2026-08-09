@@ -1,0 +1,30 @@
+{
+  "id": "kiki-coe",
+  "name": "Kiki Coe",
+  "appearances": [
+    {
+      "seasonId": "CA-S04",
+      "placement": 6,
+      "eliminatedEpisodeId": "CA-S04-E07",
+      "challengeWins": [
+        {
+          "episodeId": "CA-S04-E04",
+          "name": "Create a look using Brad Goreski's hand-me-downs"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S04-E06",
+          "song": "I Will Love Again"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S04-E07",
+          "song": "Seven Day Fool"
+        }
+      ]
+    }
+  ]
+}

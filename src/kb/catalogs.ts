@@ -109,6 +109,7 @@ export const SeasonId = {
   UK_S04: "UK-S04",
   UK_S05: "UK-S05",
   UK_S06: "UK-S06",
+  UK_S07: "UK-S07",
 
   DE_S01: "DE-S01",
 

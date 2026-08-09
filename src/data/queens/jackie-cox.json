@@ -1,0 +1,42 @@
+{
+  "id": "jackie-cox",
+  "name": "Jackie Cox",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S12-E08",
+          "name": "In pairs, create a box of FabFitFun products for another duo, then gift it to them with shade"
+        },
+        {
+          "episodeId": "US-S12-E09",
+          "name": "Audition for Kitty Girl 2020 sponsored by PrettyLitter"
+        },
+        {
+          "episodeId": "US-S12-E11",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S12-E09",
+          "song": "Firework"
+        },
+        {
+          "episodeId": "US-S12-E10",
+          "song": "Kill the Lights"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S12-E12",
+          "song": "On the Floor"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S12-E12"
+    }
+  ]
+}

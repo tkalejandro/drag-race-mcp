@@ -1,0 +1,25 @@
+{
+  "id": "banksie",
+  "name": "Banksie",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 8,
+      "eliminatedEpisodeId": "UK-S05-E05",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S05-E02",
+          "name": "Create an outfit made from pet store items"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S05-E05",
+          "song": "I Dreamed a Dream"
+        }
+      ]
+    }
+  ]
+}

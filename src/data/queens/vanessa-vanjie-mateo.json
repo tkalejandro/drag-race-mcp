@@ -1,0 +1,48 @@
+{
+  "id": "vanessa-vanjie-mateo",
+  "name": "Vanessa Vanjie Mateo",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E01",
+          "song": "Ain't No Other Man"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E01"
+    },
+    {
+      "seasonId": "US-S11",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S11-E10",
+          "name": "Balls to the Wall"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S11-E09",
+          "song": "Hood Boy"
+        },
+        {
+          "episodeId": "US-S11-E10",
+          "song": "No More Drama"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S11-E12",
+          "song": "Pride (A Deeper Love)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S11-E12"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kaos",
+  "name": "Kaos",
+  "appearances": [
+    {
+      "seasonId": "CA-S03",
+      "placement": 9,
+      "eliminatedEpisodeId": "CA-S03-E04",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S03-E04",
+          "song": "Stranger in My House (Thunderpuss Radio Mix)"
+        }
+      ]
+    }
+  ]
+}

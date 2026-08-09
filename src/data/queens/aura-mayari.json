@@ -1,0 +1,25 @@
+{
+  "id": "aura-mayari",
+  "name": "Aura Mayari",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 11,
+      "challengeWins": [
+        {
+          "episodeId": "US-S15-E06",
+          "name": "Write, record, and perform as old-lady girl groups"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E07",
+          "song": "Sweetest Pie"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E07"
+    }
+  ]
+}

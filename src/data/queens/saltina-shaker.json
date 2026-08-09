@@ -1,0 +1,26 @@
+{
+  "id": "saltina-shaker",
+  "name": "Saltina Shaker",
+  "appearances": [
+    {
+      "seasonId": "CA-S06",
+      "placement": 6,
+      "eliminatedEpisodeId": "CA-S06-E07",
+      "challengeWins": [
+        {
+          "episodeId": "CA-S06-E02",
+          "name": "In teams, film a commercial for a cruise line",
+          "earnings": { "amount": 5000, "currency": "CAD" }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S06-E07",
+          "song": "I'm a Star"
+        }
+      ]
+    }
+  ]
+}

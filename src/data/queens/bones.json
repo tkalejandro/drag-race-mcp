@@ -1,0 +1,34 @@
+{
+  "id": "bones",
+  "name": "Bones",
+  "appearances": [
+    {
+      "seasonId": "UK-S07",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S07-E03",
+          "name": "Write, record, and perform verses to She Ate That"
+        },
+        {
+          "episodeId": "UK-S07-E08",
+          "name": "Makeover celebrity huns into members of the queens' drag family"
+        },
+        {
+          "episodeId": "UK-S07-E09",
+          "name": "Perform a roast of their fellow competitors and the eliminated queens of Series 7"
+        }
+      ],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S07-E02", "name": "The Tainters" },
+        { "episodeId": "UK-S07-E07", "name": "Reading is Fundamental" }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "UK-S07-E05", "song": "Spectrum (Say My Name)" },
+        { "episodeId": "UK-S07-E07", "song": "Tainted Love" },
+        { "episodeId": "UK-S07-E10", "song": "You Make Me Feel (Mighty Real)" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

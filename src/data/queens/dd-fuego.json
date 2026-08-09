@@ -1,0 +1,20 @@
+{
+  "id": "dd-fuego",
+  "name": "DD Fuego",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E02",
+          "song": "Too Much"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E02"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "paige-three",
+  "name": "Paige Three",
+  "appearances": [
+    {
+      "seasonId": "UK-S07",
+      "placement": 7,
+      "eliminatedEpisodeId": "UK-S07-E07",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S07-E06",
+          "name": "Peter Pansy: The Rusical"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S07-E07", "song": "Tainted Love" }
+      ]
+    }
+  ]
+}

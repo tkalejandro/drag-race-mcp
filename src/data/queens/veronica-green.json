@@ -1,0 +1,40 @@
+{
+  "id": "veronica-green",
+  "name": "Veronica Green",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 9,
+      "eliminatedEpisodeId": "UK-S02-E05",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S02-E02",
+          "name": "Rats: The Rusical"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S02-E03",
+          "name": "Limbo Extravaganza"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "quit": true
+    },
+    {
+      "seasonId": "UK-S03",
+      "placement": 9,
+      "eliminatedEpisodeId": "UK-S03-E03",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S03-E03",
+          "song": "I've Got the Music in Me"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "miss-fiercalicious",
+  "name": "Miss Fiercalicious",
+  "appearances": [
+    {
+      "seasonId": "CA-S03",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S03-E06",
+          "name": "Film a commercial and do a photoshoot to promote an eyeshadow palette"
+        },
+        {
+          "episodeId": "CA-S03-E08",
+          "name": "The Masquerade Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S03-E03",
+          "song": "Don't Call Me Baby"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

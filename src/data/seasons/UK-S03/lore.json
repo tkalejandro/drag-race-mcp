@@ -1,0 +1,47 @@
+[
+  {
+    "id": "uk-s03-krystal-crown",
+    "title": "Krystal Versace wins UK Series 3",
+    "summary": "In the Grand Finale (UK-S03-E10), Krystal Versace, Ella Vaday, and Kitty Scott-Claus lip-synced to Dusty Springfield's \"You Don't Own Me\". Krystal was crowned the winner — the youngest person to win a Drag Race season at the time. Ella and Kitty finished as runners-up. Early UK series offered no cash prize.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["krystal-versace", "ella-vaday", "kitty-scott-claus"],
+    "seasonIds": ["UK-S03"],
+    "episodeIds": ["UK-S03-E10"]
+  },
+  {
+    "id": "uk-s03-anubis-porkchop",
+    "title": "Anubis: UK Series 3 Porkchop",
+    "summary": "Anubis was the first contestant eliminated on RuPaul's Drag Race UK Series 3 (UK-S03-E01), lip-syncing to Little Mix's \"Sweet Melody\" against Elektra Fence.",
+    "tags": ["porkchop", "lip-sync"],
+    "queenIds": ["anubis", "elektra-fence"],
+    "seasonIds": ["UK-S03"],
+    "episodeIds": ["UK-S03-E01"]
+  },
+  {
+    "id": "uk-s03-victoria-scone-withdrawal",
+    "title": "Victoria Scone withdraws after injury",
+    "summary": "Victoria Scone, the franchise's first cisgender female contestant, was forced to withdraw in UK-S03-E03 after a knee injury sustained in Episode 1. She had been in the top two of the premiere before losing the lip sync for the win to Krystal Versace.",
+    "tags": ["quit", "heartbreak", "twist"],
+    "queenIds": ["victoria-scone", "krystal-versace"],
+    "seasonIds": ["UK-S03"],
+    "episodeIds": ["UK-S03-E03"]
+  },
+  {
+    "id": "uk-s03-double-sashay",
+    "title": "Double sashay after Snatch Game",
+    "summary": "In UK-S03-E06, Choriza May and River Medway lip-synced to Lulu's \"Shout\" after Snatch Game. RuPaul eliminated both queens, a double sashay that left Ella Vaday as the challenge winner.",
+    "tags": ["double-sashay", "snatch-game", "lip-sync"],
+    "queenIds": ["choriza-may", "river-medway", "ella-vaday"],
+    "seasonIds": ["UK-S03"],
+    "episodeIds": ["UK-S03-E06"]
+  },
+  {
+    "id": "uk-s03-veronica-green-return",
+    "title": "Veronica Green returns after Series 2 exit",
+    "summary": "Veronica Green, who had been forced to withdraw from UK Series 2 after testing positive for COVID-19, returned with an open invitation for Series 3. She was eliminated in UK-S03-E03 after lip-syncing to \"I've Got the Music in Me\" against Vanity Milan.",
+    "tags": ["return", "lip-sync"],
+    "queenIds": ["veronica-green", "vanity-milan"],
+    "seasonIds": ["UK-S03"],
+    "episodeIds": ["UK-S03-E03"]
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "UK-S01",
+  "franchise": "UK",
+  "name": "RuPaul's Drag Race UK Series 1",
+  "seasonNumber": 1,
+  "year": 2019,
+  "episodeCount": 8,
+  "episodeIds": [
+    "UK-S01-E01",
+    "UK-S01-E02",
+    "UK-S01-E03",
+    "UK-S01-E04",
+    "UK-S01-E05",
+    "UK-S01-E06",
+    "UK-S01-E07",
+    "UK-S01-E08"
+  ],
+  "castIds": [
+    "the-vivienne",
+    "divina-de-campo",
+    "baga-chipz",
+    "cheryl-hole",
+    "blu-hydrangea",
+    "crystal",
+    "sum-ting-wong",
+    "vinegar-strokes",
+    "scaredy-kat",
+    "gothy-kendoll"
+  ],
+  "winnerId": "the-vivienne",
+  "runnerUpIds": ["divina-de-campo"],
+  "porkchopId": "gothy-kendoll",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Alan Carr" },
+    { "name": "Graham Norton" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 0, "currency": "GBP" }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "honey-davenport",
+  "name": "Honey Davenport",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S11-E03",
+          "song": "Waiting for Tonight (Hex Hector Mix)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S11-E03"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mia-starr",
+  "name": "Mia Starr",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 9,
+      "challengeWins": [
+        {
+          "episodeId": "US-S18-E05",
+          "name": "Perform a talent show for Rate-A-Queen (group 1)"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S18-E05",
+          "song": "Pretty Ugly"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E08",
+          "song": "Head Over Heels"
+        },
+        {
+          "episodeId": "US-S18-E15",
+          "song": "Cover Girl"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E08"
+    }
+  ]
+}

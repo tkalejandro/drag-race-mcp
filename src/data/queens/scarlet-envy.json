@@ -1,0 +1,35 @@
+{
+  "id": "scarlet-envy",
+  "name": "Scarlet Envy",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "US-S11-E02",
+          "name": "Perform in drag film adaptations of Black Panther and Get Out"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S11-E04",
+          "name": "Why You Maddow, Tho?"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S11-E03",
+          "song": "Waiting for Tonight (Hex Hector Mix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S11-E06",
+          "song": "Last Dance"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S11-E06"
+    }
+  ]
+}

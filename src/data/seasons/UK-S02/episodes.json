@@ -1,0 +1,242 @@
+[
+  {
+    "id": "UK-S02-E01",
+    "seasonId": "UK-S02",
+    "episodeNumber": 1,
+    "title": "Royalty Returns",
+    "miniChallenge": {
+      "name": "Tennis photoshoot",
+      "winnerIds": ["lawrence-chaney"]
+    },
+    "maxiChallenge": {
+      "name": "Present two looks on the runway: UK Gay Icons and Queen of Your Hometown",
+      "winnerIds": ["asttina-mandella"]
+    },
+    "runwayTheme": "UK Gay Icons / Queen of Your Hometown",
+    "topIds": ["asttina-mandella", "ellie-diamond", "lawrence-chaney"],
+    "bottomIds": ["bimini-bon-boulash", "joe-black"],
+    "lipSync": {
+      "song": "Relax",
+      "queenIds": ["bimini-bon-boulash", "joe-black"],
+      "winnerIds": ["bimini-bon-boulash"],
+      "eliminatedIds": ["joe-black"]
+    },
+    "guestJudges": [{ "name": "Elizabeth Hurley" }]
+  },
+  {
+    "id": "UK-S02-E02",
+    "seasonId": "UK-S02",
+    "episodeNumber": 2,
+    "title": "Rats: The Rusical",
+    "miniChallenge": {
+      "name": "Elect a Drag Race cabinet",
+      "winnerIds": ["awhora", "lawrence-chaney", "tayce", "tia-kofi"]
+    },
+    "maxiChallenge": {
+      "name": "Rats: The Rusical",
+      "winnerIds": ["veronica-green"]
+    },
+    "runwayTheme": "Surprise, Surprise",
+    "topIds": ["ellie-diamond", "tia-kofi", "veronica-green"],
+    "bottomIds": ["cherry-valentine", "tayce"],
+    "lipSync": {
+      "song": "Memory",
+      "queenIds": ["cherry-valentine", "tayce"],
+      "winnerIds": ["tayce"],
+      "eliminatedIds": ["cherry-valentine"]
+    },
+    "guestJudges": [{ "name": "Sheridan Smith" }]
+  },
+  {
+    "id": "UK-S02-E03",
+    "seasonId": "UK-S02",
+    "episodeNumber": 3,
+    "title": "Who Wore It Best?",
+    "miniChallenge": {
+      "name": "Limbo Extravaganza",
+      "winnerIds": ["tayce", "veronica-green"]
+    },
+    "maxiChallenge": {
+      "name": "Create a look with the same colors and fabrics as your drag sister",
+      "winnerIds": ["lawrence-chaney"]
+    },
+    "runwayTheme": "Who Wore It Best?",
+    "topIds": [
+      "awhora",
+      "bimini-bon-boulash",
+      "lawrence-chaney",
+      "sister-sister",
+      "veronica-green"
+    ],
+    "bottomIds": ["asttina-mandella", "tia-kofi"],
+    "lipSync": {
+      "song": "Don't Start Now",
+      "queenIds": ["asttina-mandella", "tia-kofi"],
+      "winnerIds": ["tia-kofi"],
+      "eliminatedIds": ["asttina-mandella"]
+    },
+    "guestJudges": [{ "name": "Jourdan Dunn" }]
+  },
+  {
+    "id": "UK-S02-E04",
+    "seasonId": "UK-S02",
+    "episodeNumber": 4,
+    "title": "Morning Glory",
+    "miniChallenge": {
+      "name": "Present a cake as if it was your own",
+      "winnerIds": ["bimini-bon-boulash"]
+    },
+    "maxiChallenge": {
+      "name": "Host in the new daytime show Morning Glory",
+      "winnerIds": ["lawrence-chaney"]
+    },
+    "runwayTheme": "Monster Mashup",
+    "topIds": ["awhora", "bimini-bon-boulash", "lawrence-chaney"],
+    "bottomIds": ["ginny-lemon", "sister-sister"],
+    "lipSync": {
+      "song": "You Keep Me Hangin' On",
+      "queenIds": ["ginny-lemon", "sister-sister"],
+      "winnerIds": ["sister-sister"],
+      "eliminatedIds": ["ginny-lemon"]
+    },
+    "guestJudges": [{ "name": "Lorraine Kelly" }]
+  },
+  {
+    "id": "UK-S02-E05",
+    "seasonId": "UK-S02",
+    "episodeNumber": 5,
+    "title": "The RuRuvision Song Contest",
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to UK Hun?",
+      "winnerIds": [
+        "awhora",
+        "bimini-bon-boulash",
+        "lawrence-chaney",
+        "tayce"
+      ]
+    },
+    "runwayTheme": "A Day at the Seaside",
+    "topIds": [
+      "awhora",
+      "bimini-bon-boulash",
+      "lawrence-chaney",
+      "tayce"
+    ],
+    "bottomIds": ["joe-black", "tia-kofi"],
+    "lipSync": {
+      "song": "Don't Leave Me This Way",
+      "queenIds": ["joe-black", "tia-kofi"],
+      "winnerIds": ["tia-kofi"],
+      "eliminatedIds": ["joe-black"]
+    },
+    "guestJudges": [{ "name": "MNEK" }]
+  },
+  {
+    "id": "UK-S02-E06",
+    "seasonId": "UK-S02",
+    "episodeNumber": 6,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["bimini-bon-boulash"]
+    },
+    "runwayTheme": "Preherstoric",
+    "topIds": ["bimini-bon-boulash", "tayce"],
+    "bottomIds": ["lawrence-chaney", "tia-kofi"],
+    "lipSync": {
+      "song": "Touch Me (All Night Long)",
+      "queenIds": ["lawrence-chaney", "tia-kofi"],
+      "winnerIds": ["lawrence-chaney"],
+      "eliminatedIds": ["tia-kofi"]
+    },
+    "guestJudges": [{ "name": "Jessie Ware" }]
+  },
+  {
+    "id": "UK-S02-E07",
+    "seasonId": "UK-S02",
+    "episodeNumber": 7,
+    "title": "Lockdown Supersheroes",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["sister-sister"]
+    },
+    "maxiChallenge": {
+      "name": "Create a Lockdown Supershero outfit from unconventional materials",
+      "winnerIds": ["awhora"]
+    },
+    "runwayTheme": "Lockdown Supersheroes",
+    "topIds": ["awhora", "ellie-diamond"],
+    "bottomIds": ["sister-sister", "tayce"],
+    "lipSync": {
+      "song": "Don't Be So Hard on Yourself",
+      "queenIds": ["sister-sister", "tayce"],
+      "winnerIds": ["tayce"],
+      "eliminatedIds": ["sister-sister"]
+    },
+    "guestJudges": [{ "name": "Maya Jama" }]
+  },
+  {
+    "id": "UK-S02-E08",
+    "seasonId": "UK-S02",
+    "episodeNumber": 8,
+    "title": "Stoned on the Runway",
+    "miniChallenge": {
+      "name": "Butch performance of RuPaul's Kitty Girl",
+      "winnerIds": ["ellie-diamond"]
+    },
+    "maxiChallenge": {
+      "name": "Perform a stand-up comedy act about love",
+      "winnerIds": ["bimini-bon-boulash"]
+    },
+    "runwayTheme": "Stoned on the Runway",
+    "topIds": ["bimini-bon-boulash", "lawrence-chaney"],
+    "bottomIds": ["awhora", "tayce"],
+    "lipSync": {
+      "song": "You Don't Have to Say You Love Me",
+      "queenIds": ["awhora", "tayce"],
+      "winnerIds": ["tayce"],
+      "eliminatedIds": ["awhora"]
+    },
+    "guestJudges": [{ "name": "Dawn French" }]
+  },
+  {
+    "id": "UK-S02-E09",
+    "seasonId": "UK-S02",
+    "episodeNumber": 9,
+    "title": "BeastEnders",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["bimini-bon-boulash"]
+    },
+    "maxiChallenge": {
+      "name": "Act in the BBC soap opera BeastEnders",
+      "winnerIds": ["bimini-bon-boulash"]
+    },
+    "runwayTheme": "Panto Dame",
+    "topIds": ["bimini-bon-boulash", "lawrence-chaney"],
+    "bottomIds": ["ellie-diamond", "tayce"],
+    "lipSync": {
+      "song": "Last Thing on My Mind",
+      "queenIds": ["ellie-diamond", "tayce"],
+      "winnerIds": ["ellie-diamond", "tayce"]
+    }
+  },
+  {
+    "id": "UK-S02-E10",
+    "seasonId": "UK-S02",
+    "episodeNumber": 10,
+    "title": "Grand Finale",
+    "maxiChallenge": {
+      "name": "Write, record and perform a verse to A Little Bit of Love",
+      "winnerIds": []
+    },
+    "runwayTheme": "Final Four Eleganza Extravaganza",
+    "topIds": ["bimini-bon-boulash", "lawrence-chaney", "tayce"],
+    "bottomIds": ["ellie-diamond"],
+    "lipSync": {
+      "song": "I'm Still Standing",
+      "queenIds": ["bimini-bon-boulash", "lawrence-chaney", "tayce"],
+      "winnerIds": ["lawrence-chaney"]
+    }
+  }
+]

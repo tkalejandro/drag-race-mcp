@@ -1,0 +1,30 @@
+{
+  "id": "cheddar-gorgeous",
+  "name": "Cheddar Gorgeous",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S04-E02",
+          "name": "Write, record, and perform verses to Come Alive"
+        },
+        { "episodeId": "UK-S04-E06", "name": "Snatch Game" },
+        {
+          "episodeId": "UK-S04-E07",
+          "name": "Makeover the Queen Team"
+        },
+        {
+          "episodeId": "UK-S04-E08",
+          "name": "Overact in the murder mystery movie The Squirrel Games"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S04-E10", "song": "This Is My Life" }
+      ]
+    }
+  ]
+}

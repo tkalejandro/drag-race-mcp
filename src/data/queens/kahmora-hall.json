@@ -1,0 +1,20 @@
+{
+  "id": "kahmora-hall",
+  "name": "Kahmora Hall",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E04",
+          "song": "100% Pure Love"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S13-E04"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "bosco",
+  "name": "Bosco",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S14-E05",
+          "name": "In teams, write a commercial for Save A Queen, a charity for first-eliminated queens"
+        },
+        {
+          "episodeId": "US-S14-E09",
+          "name": "In teams, create a RuPaul's DragCon panel discussion about men"
+        },
+        {
+          "episodeId": "US-S14-E13",
+          "name": "Perform a roast of Ross Mathews"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S14-E08",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "US-S14-E10",
+          "name": "Create an outfit made from bubble wrap"
+        },
+        {
+          "episodeId": "US-S14-E13",
+          "name": "In teams, paint a mural of Dolly Parton or RuPaul"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E11",
+          "song": "Swept Away"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E12",
+          "song": "Heartbreak Hotel (Hex Hector Remix)"
+        }
+      ]
+    }
+  ]
+}

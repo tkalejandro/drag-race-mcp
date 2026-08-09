@@ -1,0 +1,35 @@
+{
+  "id": "sami-landri",
+  "name": "Sami Landri",
+  "appearances": [
+    {
+      "seasonId": "CA-S06",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S06-E05",
+          "name": "In teams, host segments in the new daytime show The Shade",
+          "earnings": { "amount": 5000, "currency": "CAD" }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S06-E04",
+          "name": "Improv a fashion consultation with Carson Kressley",
+          "earnings": { "amount": 2500, "currency": "CAD" }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S06-E02",
+          "song": "Raise a Little Hell"
+        },
+        {
+          "episodeId": "CA-S06-E08",
+          "song": "Fix You"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

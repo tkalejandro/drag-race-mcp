@@ -1,0 +1,37 @@
+{
+  "id": "rita-baga",
+  "name": "Rita Baga",
+  "appearances": [
+    {
+      "seasonId": "CA-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S01-E01",
+          "name": "Create a couture outfit from a box of items themed around various aspects of Canada"
+        },
+        {
+          "episodeId": "CA-S01-E04",
+          "name": "In teams, create a cohesive fashion line made out of garbage"
+        },
+        {
+          "episodeId": "CA-S01-E06",
+          "name": "In teams, write and produce commercials for fictional drag queen law firms"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S01-E09",
+          "name": "Sing O Canada as a local chanteuse"
+        }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "CA-S01-E08", "song": "You Oughta Know" },
+        { "episodeId": "CA-S01-E09", "song": "Closer" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "CA-S01-E10", "song": "You're a Superstar" }
+      ]
+    }
+  ]
+}

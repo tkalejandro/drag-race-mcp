@@ -1,0 +1,47 @@
+{
+  "id": "UK-S07",
+  "franchise": "UK",
+  "name": "RuPaul's Drag Race UK Series 7",
+  "seasonNumber": 7,
+  "year": 2025,
+  "episodeCount": 10,
+  "episodeIds": [
+    "UK-S07-E01",
+    "UK-S07-E02",
+    "UK-S07-E03",
+    "UK-S07-E04",
+    "UK-S07-E05",
+    "UK-S07-E06",
+    "UK-S07-E07",
+    "UK-S07-E08",
+    "UK-S07-E09",
+    "UK-S07-E10"
+  ],
+  "castIds": [
+    "bones",
+    "elle-vosque",
+    "catrin-feelings",
+    "silllexa-diction",
+    "tayris-mongardi",
+    "bonnie-ann-clyde",
+    "paige-three",
+    "sally-tm",
+    "chai-t-grande",
+    "nyongbella",
+    "viola",
+    "pasty"
+  ],
+  "winnerId": "bones",
+  "runnerUpIds": ["elle-vosque"],
+  "missCongenialityId": "chai-t-grande",
+  "porkchopId": "pasty",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Alan Carr" },
+    { "name": "Graham Norton" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 25000, "currency": "GBP" }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pm",
+  "name": "PM",
+  "appearances": [
+    {
+      "seasonId": "CA-S06",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S06-E08",
+          "name": "CUNTest: perform a rap about the previous seasons of Canada's Drag Race"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S06-E07",
+          "name": "Star in a perfume commercial",
+          "earnings": { "amount": 2500, "currency": "CAD" }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S06-E04",
+          "song": "Dumb Blonde"
+        },
+        {
+          "episodeId": "CA-S06-E06",
+          "song": "Sweet Surrender"
+        },
+        {
+          "episodeId": "CA-S06-E07",
+          "song": "I'm a Star"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

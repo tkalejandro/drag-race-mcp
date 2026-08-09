@@ -1,0 +1,29 @@
+{
+  "id": "amethyst",
+  "name": "Amethyst",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S15-E02",
+          "song": "7 Rings"
+        },
+        {
+          "episodeId": "US-S15-E03",
+          "song": "Ain't No Mountain High Enough"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E05",
+          "song": "Q.U.E.E.N."
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E05"
+    }
+  ]
+}

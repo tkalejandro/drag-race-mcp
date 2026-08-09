@@ -1,0 +1,24 @@
+{
+  "id": "mistress-isabelle-brooks",
+  "name": "Mistress Isabelle Brooks",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S15-E07",
+          "name": "Act in a soap opera called The Daytona Wind 2"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S15-E14",
+          "song": "When Love Takes Over"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

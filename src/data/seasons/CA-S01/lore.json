@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ca-s01-priyanka-crown",
+    "title": "Priyanka crowned Canada's first Drag Superstar",
+    "summary": "In the Season 1 finale (CA-S01-E10), Priyanka, Rita Baga, and Scarlett BoBo lip-synced to Love Inc.'s \"You're a Superstar\". Priyanka was crowned the winner of Canada's Drag Race Season 1 and took home the $100,000 CAD prize; Rita Baga and Scarlett BoBo finished as runners-up.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["priyanka", "rita-baga", "scarlett-bobo"],
+    "seasonIds": ["CA-S01"],
+    "episodeIds": ["CA-S01-E10"]
+  },
+  {
+    "id": "ca-s01-juice-boxx-porkchop",
+    "title": "Juice Boxx: Canada's first Porkchop",
+    "summary": "Juice Boxx was the first contestant eliminated on Canada's Drag Race (CA-S01-E01), lip-syncing to Carly Rae Jepsen's \"I Really Like You\" against Lemon. Her placement makes her the franchise's first Porkchop.",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["juice-boxx", "lemon"],
+    "seasonIds": ["CA-S01"],
+    "episodeIds": ["CA-S01-E01"]
+  },
+  {
+    "id": "ca-s01-snatch-game",
+    "title": "Jimbo wins the first Canadian Snatch Game",
+    "summary": "CA-S01-E05 introduced Snatch Game to Canada's Drag Race. Jimbo won portraying Joan Rivers. On the Night of a Thousand Céline Dion's runway, Kiara was eliminated after lip-syncing to \"I Drove All Night\" against Priyanka.",
+    "tags": ["snatch-game", "comedy", "iconic"],
+    "queenIds": ["jimbo", "kiara", "priyanka"],
+    "seasonIds": ["CA-S01"],
+    "episodeIds": ["CA-S01-E05"]
+  },
+  {
+    "id": "ca-s01-brooke-lynn-hosts",
+    "title": "Brooke Lynn Hytes hosts Canada's Drag Race",
+    "summary": "Canada's Drag Race Season 1 (2020) was the franchise's Canadian debut on Crave. RuPaul's Drag Race Season 11 runner-up Brooke Lynn Hytes hosted and judged alongside Jeffrey Bowyer-Chapman and Stacey McKenzie.",
+    "tags": ["iconic"],
+    "queenIds": ["brooke-lynn-hytes"],
+    "seasonIds": ["CA-S01"]
+  },
+  {
+    "id": "ca-s01-snow-ball",
+    "title": "Scarlett BoBo wins The Snow Ball",
+    "summary": "In CA-S01-E09, the Top 4 competed in The Snow Ball (Executive Holiday Party Realness, Icy Walk of Shame, and Ice Queen Eleganza). Scarlett BoBo won the challenge. Jimbo was eliminated after lip-syncing to Tegan and Sara's \"Closer\" against Rita Baga.",
+    "tags": ["ball", "lip-sync", "iconic"],
+    "queenIds": ["scarlett-bobo", "jimbo", "rita-baga"],
+    "seasonIds": ["CA-S01"],
+    "episodeIds": ["CA-S01-E09"]
+  }
+]

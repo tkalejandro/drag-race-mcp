@@ -1,0 +1,34 @@
+{
+  "id": "nina-bonina-brown",
+  "name": "Nina Bo'nina Brown",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "US-S09-E01",
+          "name": "Present two looks for the Miss Charisma, Uniqueness, Nerve and Talent Pageant: hometown and Lady Gaga inspired"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E07",
+          "song": "Finally"
+        },
+        {
+          "episodeId": "US-S09-E09",
+          "song": "Greedy"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S09-E10",
+          "song": "Cool for the Summer"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S09-E10"
+    }
+  ]
+}

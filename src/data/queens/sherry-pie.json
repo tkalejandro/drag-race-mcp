@@ -1,0 +1,29 @@
+{
+  "id": "sherry-pie",
+  "name": "Sherry Pie",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S12-E03",
+          "name": "In teams, improvise in the talent competition World's Worst"
+        },
+        {
+          "episodeId": "US-S12-E05",
+          "name": "Overact in a parody of Grey's Anatomy called Gay's Anatomy"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S12-E02",
+          "song": "Call Your Girlfriend"
+        }
+      ],
+      "disqualified": true
+    }
+  ]
+}

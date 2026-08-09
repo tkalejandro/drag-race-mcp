@@ -1,0 +1,41 @@
+{
+  "id": "sam-star",
+  "name": "Sam Star",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S17-E03",
+          "name": "Design a Monopoly monochrome look"
+        },
+        {
+          "episodeId": "US-S17-E08",
+          "name": "The Wicked Wiz of Oz: The Rusical!"
+        },
+        {
+          "episodeId": "US-S17-E13",
+          "name": "Make over parents into drag family members"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S17-E06",
+          "name": "ABH lipstick mouth relay"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S17-E12",
+          "song": "Illusion"
+        },
+        {
+          "episodeId": "US-S17-E14",
+          "song": "Love Child"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

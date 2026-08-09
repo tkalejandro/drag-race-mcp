@@ -1,0 +1,44 @@
+{
+  "id": "CA-S04",
+  "franchise": "CA",
+  "name": "Canada's Drag Race Season 4",
+  "seasonNumber": 4,
+  "year": 2023,
+  "episodeCount": 9,
+  "episodeIds": [
+    "CA-S04-E01",
+    "CA-S04-E02",
+    "CA-S04-E03",
+    "CA-S04-E04",
+    "CA-S04-E05",
+    "CA-S04-E06",
+    "CA-S04-E07",
+    "CA-S04-E08",
+    "CA-S04-E09"
+  ],
+  "castIds": [
+    "venus",
+    "aurora-matrix",
+    "denim",
+    "nearah-nuff",
+    "melinda-verga",
+    "kiki-coe",
+    "aimee-yonce-shennel",
+    "kitten-kaboodle",
+    "luna-dubois",
+    "the-girlfriend-experience",
+    "sisi-superstar"
+  ],
+  "winnerId": "venus",
+  "runnerUpIds": ["aurora-matrix"],
+  "missCongenialityId": "kitten-kaboodle",
+  "porkchopId": "sisi-superstar",
+  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "judges": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
+    { "name": "Brad Goreski" },
+    { "name": "Traci Melchor" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "CAD" }
+}

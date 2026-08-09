@@ -1,0 +1,41 @@
+{
+  "id": "silky-nutmeg-ganache",
+  "name": "Silky Nutmeg Ganache",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S11-E04",
+          "name": "Trump: The Rusical"
+        },
+        {
+          "episodeId": "US-S11-E08",
+          "name": "Snatch Game at Sea"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S11-E01",
+          "name": "Photoshoot with past Drag Race queens"
+        },
+        {
+          "episodeId": "US-S11-E02",
+          "name": "Photobomb iconic celebrity pictures"
+        },
+        {
+          "episodeId": "US-S11-E08",
+          "name": "Pitch your own Self-Help Book"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S11-E11",
+          "song": "No Scrubs"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

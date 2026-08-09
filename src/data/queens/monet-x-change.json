@@ -1,0 +1,39 @@
+{
+  "id": "monet-x-change",
+  "name": "Monét X Change",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S10-E01",
+          "name": "Stand out on the runway among a sea of legendary queens from past seasons"
+        },
+        {
+          "episodeId": "US-S10-E03",
+          "name": "Perform in screen tests for Ru's provocative new RuPaul's Chocolate Bar campaign"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S10-E04",
+          "song": "Pound the Alarm"
+        },
+        {
+          "episodeId": "US-S10-E05",
+          "song": "Man! I Feel Like a Woman!"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E10",
+          "song": "Good as Hell"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E10",
+      "missCongeniality": true
+    }
+  ]
+}

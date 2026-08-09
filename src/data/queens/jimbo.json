@@ -1,0 +1,27 @@
+{
+  "id": "jimbo",
+  "name": "Jimbo",
+  "appearances": [
+    {
+      "seasonId": "CA-S01",
+      "placement": 4,
+      "eliminatedEpisodeId": "CA-S01-E09",
+      "challengeWins": [
+        {
+          "episodeId": "CA-S01-E05",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S01-E04",
+          "name": "Play a memory game with the pit crew's underwear colors"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "CA-S01-E09", "song": "Closer" }
+      ]
+    }
+  ]
+}

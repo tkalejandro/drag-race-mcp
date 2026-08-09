@@ -1,0 +1,43 @@
+{
+  "id": "la-voix",
+  "name": "La Voix",
+  "appearances": [
+    {
+      "seasonId": "UK-S06",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S06-E05",
+          "name": "In teams, improvise in a live episode of The Graham Norton Show"
+        },
+        {
+          "episodeId": "UK-S06-E06",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "UK-S06-E07",
+          "name": "Pop of the Tops - Live: The Rusical"
+        },
+        {
+          "episodeId": "UK-S06-E09",
+          "name": "Perform a roast of the judges and the eliminated queens of Series 6"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S06-E03",
+          "name": "Dirty Laundry"
+        },
+        {
+          "episodeId": "UK-S06-E06",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S06-E01", "song": "Ooh La La" },
+        { "episodeId": "UK-S06-E10", "song": "Don't Stop Me Now" }
+      ]
+    }
+  ]
+}

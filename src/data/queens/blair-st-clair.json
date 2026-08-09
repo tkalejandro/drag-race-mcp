@@ -1,0 +1,25 @@
+{
+  "id": "blair-st-clair",
+  "name": "Blair St. Clair",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S10-E03",
+          "name": "Perform in screen tests for Ru's provocative new RuPaul's Chocolate Bar campaign"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E06",
+          "song": "I'm Coming Out"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E06"
+    }
+  ]
+}

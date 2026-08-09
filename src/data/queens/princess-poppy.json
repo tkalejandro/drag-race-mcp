@@ -1,0 +1,20 @@
+{
+  "id": "princess-poppy",
+  "name": "Princess Poppy",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 15,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E03",
+          "song": "Ain't No Mountain High Enough"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E03"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bombae",
+  "name": "Bombae",
+  "appearances": [
+    {
+      "seasonId": "CA-S03",
+      "placement": 7,
+      "eliminatedEpisodeId": "CA-S03-E06",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S03-E01",
+          "name": "Serve a streetwear chic look in a rooftop fashion show"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S03-E06",
+          "song": "Table Dancer"
+        }
+      ]
+    }
+  ]
+}

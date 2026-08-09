@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sasha-velour-rose-petal-crown",
+    "title": "Sasha Velour's rose-petal crowning",
+    "summary": "In the Grand Finale Lip Sync Smackdown (US-S09-E14), Sasha Velour defeated Peppermint to \"It's Not Right But It's Okay (Thunderpuss Remix)\" after earlier rounds eliminated Trinity Taylor and Shea Couleé. During the final lip sync, Sasha removed a bald cap and released a cascade of rose petals — an iconic crowning moment. Peppermint finished as sole runner-up. The Season 9 cash prize was $100,000.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["sasha-velour", "peppermint", "shea-coulee", "trinity-taylor"],
+    "seasonIds": ["US-S09"],
+    "episodeIds": ["US-S09-E14"]
+  },
+  {
+    "id": "valentina-mask-elimination",
+    "title": "Valentina's mask moment and elimination",
+    "summary": "On Your Pilot's on Fire (US-S09-E09), Valentina lip-synced against Nina Bo'nina Brown to Ariana Grande's \"Greedy\" while keeping a mask over her mouth for much of the performance. Nina won the lip sync and Valentina was eliminated in 7th place. Valentina was later voted Miss Congeniality at the reunion.",
+    "tags": ["drama", "lip-sync", "controversy", "iconic"],
+    "queenIds": ["valentina", "nina-bonina-brown"],
+    "seasonIds": ["US-S09"],
+    "episodeIds": ["US-S09-E09", "US-S09-E13"]
+  },
+  {
+    "id": "eureka-medical-withdrawal-s09",
+    "title": "Eureka's medical withdrawal and double shantay",
+    "summary": "During Reality Stars: The Musical (US-S09-E05), Eureka withdrew from the competition due to a knee injury sustained earlier in the season and was given an open invitation to return. Because of the medical removal, RuPaul saved both Cynthia Lee Fontaine and Farrah Moan after their \"Woman Up\" lip sync — a double shantay with no elimination.",
+    "tags": ["quit", "double-shantay", "twist", "heartbreak"],
+    "queenIds": ["eureka", "cynthia-lee-fontaine", "farrah-moan"],
+    "seasonIds": ["US-S09"],
+    "episodeIds": ["US-S09-E05"]
+  }
+]

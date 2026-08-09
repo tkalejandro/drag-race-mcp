@@ -1,0 +1,18 @@
+{
+  "id": "catrin-feelings",
+  "name": "Catrin Feelings",
+  "appearances": [
+    {
+      "seasonId": "UK-S07",
+      "placement": 3,
+      "eliminatedEpisodeId": "UK-S07-E10",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S07-E08", "song": "Push the Button" },
+        { "episodeId": "UK-S07-E09", "song": "Mamma Knows Best" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

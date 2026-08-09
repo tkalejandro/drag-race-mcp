@@ -1,0 +1,25 @@
+{
+  "id": "aja",
+  "name": "Aja",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E03",
+          "song": "Holding Out for a Hero"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S09-E07",
+          "song": "Finally"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S09-E07"
+    }
+  ]
+}

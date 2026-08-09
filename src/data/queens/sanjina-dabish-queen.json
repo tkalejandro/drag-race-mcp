@@ -1,0 +1,25 @@
+{
+  "id": "sanjina-dabish-queen",
+  "name": "Sanjina DaBish Queen",
+  "appearances": [
+    {
+      "seasonId": "CA-S05",
+      "placement": 9,
+      "eliminatedEpisodeId": "CA-S05-E04",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S05-E04",
+          "name": "Boudoir photoshoot"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S05-E04",
+          "song": "Contemporary Love"
+        }
+      ]
+    }
+  ]
+}

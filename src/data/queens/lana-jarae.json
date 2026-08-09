@@ -1,0 +1,38 @@
+{
+  "id": "lana-jarae",
+  "name": "Lana Ja'Rae",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S17-E01",
+          "name": "Ru Light, Green Light photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S17-E06",
+          "song": "Get Him Back!"
+        },
+        {
+          "episodeId": "US-S17-E07",
+          "song": "Hands to Myself"
+        },
+        {
+          "episodeId": "US-S17-E11",
+          "song": "Unholy"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E12",
+          "song": "Illusion"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E12"
+    }
+  ]
+}

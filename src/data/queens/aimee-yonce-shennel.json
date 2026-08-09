@@ -1,0 +1,25 @@
+{
+  "id": "aimee-yonce-shennel",
+  "name": "Aimee Yonce Shennel",
+  "appearances": [
+    {
+      "seasonId": "CA-S04",
+      "placement": 7,
+      "eliminatedEpisodeId": "CA-S04-E06",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S04-E04",
+          "song": "Come Through"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S04-E06",
+          "song": "I Will Love Again"
+        }
+      ]
+    }
+  ]
+}

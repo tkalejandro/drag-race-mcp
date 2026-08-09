@@ -1,0 +1,33 @@
+{
+  "id": "salina-estitties",
+  "name": "Salina Estitties",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S15-E05",
+          "song": "Q.U.E.E.N."
+        },
+        {
+          "episodeId": "US-S15-E09",
+          "song": "That's What I Want"
+        },
+        {
+          "episodeId": "US-S15-E10",
+          "song": "Single Ladies (Put a Ring on It)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E12",
+          "song": "Running Up That Hill (A Deal with God)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E12"
+    }
+  ]
+}

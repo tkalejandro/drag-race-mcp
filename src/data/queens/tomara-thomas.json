@@ -1,0 +1,38 @@
+{
+  "id": "tomara-thomas",
+  "name": "Tomara Thomas",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S05-E04",
+          "name": "In teams, perform an inspirational seminar called RuPaul's DisasterClass"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S05-E02",
+          "name": "Let the Cat Out of the Bag"
+        },
+        {
+          "episodeId": "UK-S05-E04",
+          "name": "Pose and deliver a sticky tag line for S.P.N.K Protein"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S05-E09",
+          "song": "Little Bird"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S05-E03",
+          "song": "Remember"
+        }
+      ]
+    }
+  ]
+}

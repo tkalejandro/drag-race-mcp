@@ -1,0 +1,36 @@
+{
+  "id": "jaida-essence-hall",
+  "name": "Jaida Essence Hall",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S12-E02",
+          "name": "Write, record, and perform verses to You Don't Know Me"
+        },
+        {
+          "episodeId": "US-S12-E09",
+          "name": "Participate in a presidential debate called Choices 2020"
+        },
+        {
+          "episodeId": "US-S12-E10",
+          "name": "Makeover Drag Race superfans"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S12-E02",
+          "song": "Call Your Girlfriend"
+        },
+        {
+          "episodeId": "US-S12-E11",
+          "song": "1999"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

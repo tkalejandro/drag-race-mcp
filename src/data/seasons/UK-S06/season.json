@@ -1,0 +1,47 @@
+{
+  "id": "UK-S06",
+  "franchise": "UK",
+  "name": "RuPaul's Drag Race UK Series 6",
+  "seasonNumber": 6,
+  "year": 2024,
+  "episodeCount": 10,
+  "episodeIds": [
+    "UK-S06-E01",
+    "UK-S06-E02",
+    "UK-S06-E03",
+    "UK-S06-E04",
+    "UK-S06-E05",
+    "UK-S06-E06",
+    "UK-S06-E07",
+    "UK-S06-E08",
+    "UK-S06-E09",
+    "UK-S06-E10"
+  ],
+  "castIds": [
+    "kyran-thrax",
+    "la-voix",
+    "marmalade",
+    "rileasa-slaves",
+    "lill",
+    "charra-tea",
+    "actavia",
+    "chanel-o-conor",
+    "kiki-snatch",
+    "zahirah-zapanta",
+    "dita-garbo",
+    "saki-yew"
+  ],
+  "winnerId": "kyran-thrax",
+  "runnerUpIds": ["la-voix"],
+  "missCongenialityId": "charra-tea",
+  "porkchopId": "dita-garbo",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Alan Carr" },
+    { "name": "Graham Norton" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 25000, "currency": "GBP" }
+}

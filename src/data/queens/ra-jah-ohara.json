@@ -1,0 +1,42 @@
+{
+  "id": "ra-jah-ohara",
+  "name": "Ra'Jah O'Hara",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S11-E03",
+          "name": "Seduce your way into a Seduction concert"
+        },
+        {
+          "episodeId": "US-S11-E05",
+          "name": "Create a living doll"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S11-E03",
+          "song": "Waiting for Tonight (Hex Hector Mix)"
+        },
+        {
+          "episodeId": "US-S11-E04",
+          "song": "Living in America"
+        },
+        {
+          "episodeId": "US-S11-E06",
+          "song": "Last Dance"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S11-E07",
+          "song": "Strut"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S11-E07"
+    }
+  ]
+}

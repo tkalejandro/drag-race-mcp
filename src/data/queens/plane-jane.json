@@ -1,0 +1,45 @@
+{
+  "id": "plane-jane",
+  "name": "Plane Jane",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S16-E02",
+          "name": "Perform at the Queen Choice Awards talent show"
+        },
+        {
+          "episodeId": "US-S16-E08",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "US-S16-E12",
+          "name": "Design paired bathrooms"
+        },
+        {
+          "episodeId": "US-S16-E13",
+          "name": "Make over Live! pit crew members"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S16-E12",
+          "name": "Face makeup T-shirt imprint"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S16-E02",
+          "song": "Shower"
+        },
+        {
+          "episodeId": "US-S16-E14",
+          "song": "Better Be Good to Me"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

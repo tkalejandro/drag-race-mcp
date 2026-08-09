@@ -1,0 +1,20 @@
+{
+  "id": "tynomi-banks",
+  "name": "Tynomi Banks",
+  "appearances": [
+    {
+      "seasonId": "CA-S01",
+      "placement": 9,
+      "eliminatedEpisodeId": "CA-S01-E04",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "CA-S01-E02", "song": "If You Could Read My Mind" },
+        { "episodeId": "CA-S01-E03", "song": "Absolutely Not (Chanel Club Mix)" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "CA-S01-E04", "song": "Girlfriend" }
+      ]
+    }
+  ]
+}

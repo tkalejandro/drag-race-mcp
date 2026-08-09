@@ -1,0 +1,20 @@
+{
+  "id": "jaymes-mansfield",
+  "name": "Jaymes Mansfield",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S09-E02",
+          "song": "Love Shack"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S09-E02"
+    }
+  ]
+}

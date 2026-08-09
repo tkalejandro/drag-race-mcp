@@ -1,0 +1,21 @@
+{
+  "id": "ginny-lemon",
+  "name": "Ginny Lemon",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 10,
+      "eliminatedEpisodeId": "UK-S02-E04",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S02-E04",
+          "song": "You Keep Me Hangin' On"
+        }
+      ],
+      "quit": true
+    }
+  ]
+}

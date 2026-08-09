@@ -1,0 +1,49 @@
+{
+  "id": "onya-nurve",
+  "name": "Onya Nurve",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S17-E04",
+          "name": "Create commercials for past Drag Race musical tracks"
+        },
+        {
+          "episodeId": "US-S17-E07",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "US-S17-E11",
+          "name": "Act in a Ross Mathews vs. The Ducks parody"
+        },
+        {
+          "episodeId": "US-S17-E12",
+          "name": "Perform paired C.U.N.T. monologues"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S17-E06",
+          "name": "ABH lipstick mouth relay"
+        },
+        {
+          "episodeId": "US-S17-E13",
+          "name": "Spill the T / superlatives"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S17-E13",
+          "song": "1 Thing"
+        },
+        {
+          "episodeId": "US-S17-E16",
+          "song": "Abracadabra"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

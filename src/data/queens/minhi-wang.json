@@ -1,0 +1,23 @@
+{
+  "id": "minhi-wang",
+  "name": "Minhi Wang",
+  "appearances": [
+    {
+      "seasonId": "CA-S05",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S05-E04",
+          "name": "Present two looks on the runway: Slow Mo Couture and Fast Fashion"
+        },
+        {
+          "episodeId": "CA-S05-E07",
+          "name": "Design an outfit to be modeled by Brooke Lynn Hytes"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": []
+    }
+  ]
+}

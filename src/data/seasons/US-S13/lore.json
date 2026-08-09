@@ -1,0 +1,44 @@
+[
+  {
+    "id": "symone-s13-crown",
+    "title": "Symone wins Season 13",
+    "summary": "In the Grand Finale (US-S13-E16), Symone was crowned America's Next Drag Superstar after a Lip Sync Smackdown for the Crown. Kandy Muse finished as runner-up; Gottmik and Rosé placed third. The Season 13 cash prize was $100,000. LaLa Ri was announced as Miss Congeniality.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "symone",
+      "kandy-muse",
+      "gottmik",
+      "rose",
+      "lala-ri"
+    ],
+    "seasonIds": ["US-S13"],
+    "episodeIds": ["US-S13-E16"]
+  },
+  {
+    "id": "gottmik-first-openly-trans-man",
+    "title": "Gottmik becomes the first openly transgender man on Drag Race",
+    "summary": "Season 13 welcomed Gottmik as the franchise's first openly transgender man (assigned female at birth) to compete on RuPaul's Drag Race. He finished in a third-place tie with Rosé after Gettin' Lucky (US-S13-E14).",
+    "tags": ["iconic", "production"],
+    "queenIds": ["gottmik"],
+    "seasonIds": ["US-S13"],
+    "episodeIds": ["US-S13-E01", "US-S13-E14"]
+  },
+  {
+    "id": "kandy-muse-fake-sashay-s13",
+    "title": "Kandy Muse's fake sashay and double shantay",
+    "summary": "On Social Media: The Unverified Rusical (US-S13-E08), Kandy Muse and Symone lip-synced to Fifth Harmony's \"Boss.\" RuPaul told Kandy to sashay away, then revealed it was a fake elimination and declared both winners — a double shantay that kept the Top 9 intact.",
+    "tags": ["double-shantay", "lip-sync", "twist", "iconic", "drama"],
+    "queenIds": ["kandy-muse", "symone"],
+    "seasonIds": ["US-S13"],
+    "episodeIds": ["US-S13-E08"]
+  },
+  {
+    "id": "lala-ri-miss-congeniality-s13",
+    "title": "LaLa Ri named Miss Congeniality",
+    "summary": "LaLa Ri was voted Miss Congeniality by her Season 13 sisters and announced at the Grand Finale (US-S13-E16), after being eliminated on Bossy Rossy RuBoot (US-S13-E07).",
+    "tags": ["fan-favorite", "finale", "iconic"],
+    "queenIds": ["lala-ri"],
+    "seasonIds": ["US-S13"],
+    "episodeIds": ["US-S13-E07", "US-S13-E16"]
+  }
+]

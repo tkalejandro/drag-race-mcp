@@ -1,0 +1,45 @@
+{
+  "id": "lawrence-chaney",
+  "name": "Lawrence Chaney",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S02-E03",
+          "name": "Create a look with the same colors and fabrics as your drag sister"
+        },
+        {
+          "episodeId": "UK-S02-E04",
+          "name": "Host in the new daytime show Morning Glory"
+        },
+        {
+          "episodeId": "UK-S02-E05",
+          "name": "Write, record, and perform verses to UK Hun?"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S02-E01",
+          "name": "Tennis photoshoot"
+        },
+        {
+          "episodeId": "UK-S02-E02",
+          "name": "Elect a Drag Race cabinet"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S02-E06",
+          "song": "Touch Me (All Night Long)"
+        },
+        {
+          "episodeId": "UK-S02-E10",
+          "song": "I'm Still Standing"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

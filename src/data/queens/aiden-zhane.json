@@ -1,0 +1,20 @@
+{
+  "id": "aiden-zhane",
+  "name": "Aiden Zhane",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S12-E06",
+          "song": "Let It Go"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S12-E06"
+    }
+  ]
+}

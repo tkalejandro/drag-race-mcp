@@ -1,0 +1,30 @@
+{
+  "id": "kerri-colby",
+  "name": "Kerri Colby",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S14-E01",
+          "name": "Photoshoot on a spinning wheel"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E04",
+          "song": "Play"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E08",
+          "song": "Un-Break My Heart (Soul-Hex Radio Mix)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S14-E08"
+    }
+  ]
+}

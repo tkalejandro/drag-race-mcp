@@ -1,0 +1,25 @@
+{
+  "id": "kalorie-karbdashian-williams",
+  "name": "Kalorie Karbdashian Williams",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S10-E01",
+          "song": "Ain't No Other Man"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E02",
+          "song": "Best of My Love"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E02"
+    }
+  ]
+}

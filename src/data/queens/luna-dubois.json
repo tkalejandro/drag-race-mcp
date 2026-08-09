@@ -1,0 +1,25 @@
+{
+  "id": "luna-dubois",
+  "name": "Luna DuBois",
+  "appearances": [
+    {
+      "seasonId": "CA-S04",
+      "placement": 9,
+      "eliminatedEpisodeId": "CA-S04-E05",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S04-E02",
+          "song": "I'm with You"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S04-E05",
+          "song": "She's All I Wanna Be"
+        }
+      ]
+    }
+  ]
+}

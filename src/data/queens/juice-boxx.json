@@ -1,0 +1,17 @@
+{
+  "id": "juice-boxx",
+  "name": "Juice Boxx",
+  "appearances": [
+    {
+      "seasonId": "CA-S01",
+      "placement": 12,
+      "eliminatedEpisodeId": "CA-S01-E01",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "CA-S01-E01", "song": "I Really Like You" }
+      ]
+    }
+  ]
+}

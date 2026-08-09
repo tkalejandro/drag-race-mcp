@@ -1,0 +1,73 @@
+[
+  {
+    "id": "ca-s05-virgo-crown",
+    "title": "The Virgo Queen wins Canada's Drag Race Season 5",
+    "summary": "In the Grand Finale (CA-S05-E09), The Virgo Queen and Makayla Couture lip-synced to Shania Twain's \"From This Moment On\". The Virgo Queen was crowned the winner; Makayla finished as runner-up. Helena Poison and Minhi Wang were eliminated before the final lip sync. The season cash prize was $100,000 CAD.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "the-virgo-queen",
+      "makayla-couture",
+      "helena-poison",
+      "minhi-wang"
+    ],
+    "seasonIds": ["CA-S05"],
+    "episodeIds": ["CA-S05-E09"]
+  },
+  {
+    "id": "ca-s05-tara-nova-porkchop",
+    "title": "Tara Nova: Season 5 Porkchop",
+    "summary": "Tara Nova was the first contestant eliminated on Canada's Drag Race Season 5 (CA-S05-E02), after the premiere sent no one home. She lip-synced to Peaches' \"Fuck the Pain Away\" against Tiffany Ann Co.; Perla had used the Golden Beaver to save Xana from the bottom three.",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["tara-nova", "tiffany-ann-co", "perla", "xana"],
+    "seasonIds": ["CA-S05"],
+    "episodeIds": ["CA-S05-E01", "CA-S05-E02"]
+  },
+  {
+    "id": "ca-s05-jaylene-miss-c",
+    "title": "Jaylene Tyme named Miss Congeniality",
+    "summary": "Jaylene Tyme was voted Miss Congeniality by fellow contestants. She had been eliminated in CA-S05-E05 after lip-syncing to Love Inc.'s \"Here Comes the Sunshine\" against Xana; Makayla Couture had used the Golden Beaver to save Helena Poison from that week's bottom three.",
+    "tags": ["fan-favorite", "iconic"],
+    "queenIds": ["jaylene-tyme", "xana", "makayla-couture", "helena-poison"],
+    "seasonIds": ["CA-S05"],
+    "episodeIds": ["CA-S05-E05", "CA-S05-E09"]
+  },
+  {
+    "id": "ca-s05-golden-beaver",
+    "title": "Golden Beaver and Wooden Beaver return",
+    "summary": "Season 5 brought back the Golden Beaver, letting each maxi-challenge winner save one of the bottom three from lip-syncing (saves included Xana in E02, Jaylene Tyme in E03, Makayla Couture in E04, and Helena Poison in E05). In Snatch Game (CA-S05-E06), challenge winner Xana started a Wooden Beaver chain that saved Perla, Helena Poison, and Minhi Wang, leaving Makayla Couture, The Virgo Queen, and Uma Gahd in a bottom three.",
+    "tags": ["production", "iconic"],
+    "queenIds": [
+      "perla",
+      "the-virgo-queen",
+      "minhi-wang",
+      "makayla-couture",
+      "xana",
+      "jaylene-tyme",
+      "helena-poison",
+      "uma-gahd"
+    ],
+    "seasonIds": ["CA-S05"],
+    "episodeIds": [
+      "CA-S05-E02",
+      "CA-S05-E03",
+      "CA-S05-E04",
+      "CA-S05-E05",
+      "CA-S05-E06"
+    ]
+  },
+  {
+    "id": "ca-s05-virgo-early-wins",
+    "title": "The Virgo Queen takes two of the first three maxis",
+    "summary": "The Virgo Queen won the premiere lip sync for the win to Lu Kala's \"Pretty Girl Era\" (CA-S05-E01), then won the Teams Edition Slayoffs (CA-S05-E03) and used the Golden Beaver to save Jaylene Tyme before Perla and Tiffany Ann Co. lip-synced to Avril Lavigne's \"Hot\".",
+    "tags": ["iconic", "lip-sync"],
+    "queenIds": [
+      "the-virgo-queen",
+      "makayla-couture",
+      "jaylene-tyme",
+      "perla",
+      "tiffany-ann-co"
+    ],
+    "seasonIds": ["CA-S05"],
+    "episodeIds": ["CA-S05-E01", "CA-S05-E03"]
+  }
+]

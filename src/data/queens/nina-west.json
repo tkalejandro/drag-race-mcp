@@ -1,0 +1,39 @@
+{
+  "id": "nina-west",
+  "name": "Nina West",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "US-S11-E03",
+          "name": "In teams, star in a she-vangelical talk show worshiping a diva"
+        },
+        {
+          "episodeId": "US-S11-E10",
+          "name": "In teams, perform a magic show in front of the judges and a live audience"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S11-E03",
+          "name": "Seduce your way into a Seduction concert"
+        },
+        {
+          "episodeId": "US-S11-E07",
+          "name": "Participate in a potato sack race serving boob-ography"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S11-E11",
+          "song": "No Scrubs"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S11-E11",
+      "missCongeniality": true
+    }
+  ]
+}

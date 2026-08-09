@@ -1,0 +1,25 @@
+{
+  "id": "irma-gerd",
+  "name": "Irma Gerd",
+  "appearances": [
+    {
+      "seasonId": "CA-S03",
+      "placement": 6,
+      "eliminatedEpisodeId": "CA-S03-E07",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S03-E06",
+          "song": "Table Dancer"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S03-E07",
+          "song": "Love Is"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "kameron-michaels",
+  "name": "Kameron Michaels",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S10-E08",
+          "name": "Cher: The Unauthorized Rusical"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S10-E09",
+          "song": "New Attitude"
+        },
+        {
+          "episodeId": "US-S10-E10",
+          "song": "Good as Hell"
+        },
+        {
+          "episodeId": "US-S10-E11",
+          "song": "Nasty Girl"
+        },
+        {
+          "episodeId": "US-S10-E12",
+          "song": "Call Me Mother"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chelazon-leroux",
+  "name": "Chelazon Leroux",
+  "appearances": [
+    {
+      "seasonId": "CA-S03",
+      "placement": 10,
+      "eliminatedEpisodeId": "CA-S03-E03",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S03-E02",
+          "name": "Design a hockey equipment quick-drag look and audition for a drag queen hockey team"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S03-E03",
+          "song": "Don't Call Me Baby"
+        }
+      ]
+    }
+  ]
+}

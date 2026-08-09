@@ -1,0 +1,21 @@
+{
+  "id": "marmalade",
+  "name": "Marmalade",
+  "appearances": [
+    {
+      "seasonId": "UK-S06",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S06-E08",
+          "name": "Makeover a loved one"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S06-E02", "song": "Tension" }
+      ]
+    }
+  ]
+}

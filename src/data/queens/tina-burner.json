@@ -1,0 +1,25 @@
+{
+  "id": "tina-burner",
+  "name": "Tina Burner",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S13-E09",
+          "name": "Audition for The PantyHoes"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E11",
+          "song": "My Humps"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S13-E11"
+    }
+  ]
+}

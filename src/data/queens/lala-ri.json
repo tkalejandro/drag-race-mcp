@@ -1,0 +1,31 @@
+{
+  "id": "lala-ri",
+  "name": "LaLa Ri",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S13-E05",
+          "name": "Baby Got Back: Who Is the Most Misbehaved Baby?"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S13-E05",
+          "song": "Fancy"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E07",
+          "song": "Whole Lotta Woman"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S13-E07",
+      "missCongeniality": true
+    }
+  ]
+}

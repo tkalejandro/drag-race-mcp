@@ -7,6 +7,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { ZodError } from "zod";
 import type { QueenId, SeasonId } from "./catalogs.ts";
+import { assertKnowledgeBaseIntegrity } from "./integrity.ts";
 import type { Episode, Lore, Queen, Season } from "./schemas/index.ts";
 import {
   EpisodeSchema,
@@ -151,7 +152,9 @@ export const loadKnowledgeBase = (
     }
   }
 
-  return { queens, seasons, episodes, lore };
+  const kb: KnowledgeBase = { queens, seasons, episodes, lore };
+  assertKnowledgeBaseIntegrity(kb);
+  return kb;
 };
 
 let cached: KnowledgeBase | undefined;

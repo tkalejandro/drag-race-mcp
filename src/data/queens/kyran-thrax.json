@@ -1,0 +1,35 @@
+{
+  "id": "kyran-thrax",
+  "name": "Kyran Thrax",
+  "appearances": [
+    {
+      "seasonId": "UK-S06",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S06-E01",
+          "name": "Perform a talent show in the Tickety Boo Cabaret Club"
+        },
+        {
+          "episodeId": "UK-S06-E03",
+          "name": "Act in British movie trailer rom-coms"
+        },
+        {
+          "episodeId": "UK-S06-E06",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S06-E03",
+          "name": "Dirty Laundry"
+        }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "UK-S06-E01", "song": "Ooh La La" },
+        { "episodeId": "UK-S06-E10", "song": "Don't Stop Me Now" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

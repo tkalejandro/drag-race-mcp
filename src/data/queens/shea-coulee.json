@@ -1,0 +1,40 @@
+{
+  "id": "shea-coulee",
+  "name": "Shea Couleé",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S09-E04",
+          "name": "In teams, produce a live morning talk show"
+        },
+        {
+          "episodeId": "US-S09-E05",
+          "name": "Kardashian: The Musical"
+        },
+        {
+          "episodeId": "US-S09-E09",
+          "name": "In pairs, create, write, and star in their own TV pilots"
+        },
+        {
+          "episodeId": "US-S09-E11",
+          "name": "The Gayest Ball Ever"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E10",
+          "song": "Cool for the Summer"
+        },
+        {
+          "episodeId": "US-S09-E12",
+          "song": "U Wear It Well"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

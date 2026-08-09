@@ -1,0 +1,25 @@
+{
+  "id": "kimora-blac",
+  "name": "Kimora Blac",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E02",
+          "song": "Love Shack"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S09-E03",
+          "song": "Holding Out for a Hero"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S09-E03"
+    }
+  ]
+}

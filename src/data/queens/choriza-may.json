@@ -1,0 +1,30 @@
+{
+  "id": "choriza-may",
+  "name": "Choriza May",
+  "appearances": [
+    {
+      "seasonId": "UK-S03",
+      "placement": 6,
+      "eliminatedEpisodeId": "UK-S03-E06",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S03-E04",
+          "name": "Write, record, and perform verses to B.D.E. (Big Drag Energy)"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S03-E06",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S03-E06",
+          "song": "Shout"
+        }
+      ]
+    }
+  ]
+}

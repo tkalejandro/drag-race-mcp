@@ -1,0 +1,33 @@
+{
+  "id": "naomi-smalls",
+  "name": "Naomi Smalls",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S08-E06",
+          "name": "Wizard of Oz makeovers with the cast of Little Women: LA"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S08-E03",
+          "name": "Drag up a Supreme Court judge robe"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S08-E05",
+          "song": "Causing a Commotion"
+        },
+        {
+          "episodeId": "US-S08-E09",
+          "song": "The Realness"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

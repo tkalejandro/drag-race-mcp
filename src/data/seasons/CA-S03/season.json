@@ -1,0 +1,45 @@
+{
+  "id": "CA-S03",
+  "franchise": "CA",
+  "name": "Canada's Drag Race Season 3",
+  "seasonNumber": 3,
+  "year": 2022,
+  "episodeCount": 9,
+  "episodeIds": [
+    "CA-S03-E01",
+    "CA-S03-E02",
+    "CA-S03-E03",
+    "CA-S03-E04",
+    "CA-S03-E05",
+    "CA-S03-E06",
+    "CA-S03-E07",
+    "CA-S03-E08",
+    "CA-S03-E09"
+  ],
+  "castIds": [
+    "gisele-lullaby",
+    "jada-shada-hudson",
+    "kimmy-couture",
+    "miss-fiercalicious",
+    "vivian-vanderpuss",
+    "irma-gerd",
+    "bombae",
+    "lady-boom-boom",
+    "kaos",
+    "chelazon-leroux",
+    "miss-moco",
+    "halal-bae"
+  ],
+  "winnerId": "gisele-lullaby",
+  "runnerUpIds": ["jada-shada-hudson"],
+  "missCongenialityId": "vivian-vanderpuss",
+  "porkchopId": "halal-bae",
+  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "judges": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
+    { "name": "Brad Goreski" },
+    { "name": "Traci Melchor" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "CAD" }
+}

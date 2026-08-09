@@ -1,0 +1,47 @@
+[
+  {
+    "id": "uk-s06-kyran-thrax-crown",
+    "title": "Kyran Thrax wins UK Series 6",
+    "summary": "In the Grand Finale (UK-S06-E10), Kyran Thrax and La Voix lip-synced to Queen's \"Don't Stop Me Now\". Kyran was crowned the winner and received the series' £25,000 cash prize — the first cash prize on a UK main series. La Voix finished as runner-up; Marmalade and Rileasa Slaves placed third and fourth.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["kyran-thrax", "la-voix", "marmalade", "rileasa-slaves"],
+    "seasonIds": ["UK-S06"],
+    "episodeIds": ["UK-S06-E10"]
+  },
+  {
+    "id": "uk-s06-first-uk-cash-prize",
+    "title": "First UK main-series cash prize",
+    "summary": "RuPaul's Drag Race UK Series 6 was the first UK main series to award a cash prize, with the winner receiving £25,000. Earlier UK series crowned a winner without a cash prize.",
+    "tags": ["production", "crown"],
+    "queenIds": ["kyran-thrax"],
+    "seasonIds": ["UK-S06"],
+    "episodeIds": ["UK-S06-E10"]
+  },
+  {
+    "id": "uk-s06-dita-garbo-porkchop",
+    "title": "Dita Garbo: Series 6 Porkchop",
+    "summary": "Dita Garbo was the first contestant eliminated on RuPaul's Drag Race UK Series 6 (UK-S06-E03), lip-syncing to Duran Duran's \"Girls on Film\" against Kiki Snatch.",
+    "tags": ["porkchop", "lip-sync"],
+    "queenIds": ["dita-garbo", "kiki-snatch"],
+    "seasonIds": ["UK-S06"],
+    "episodeIds": ["UK-S06-E03"]
+  },
+  {
+    "id": "uk-s06-saki-yew-withdrawal",
+    "title": "Saki Yew withdraws after knee injury",
+    "summary": "In UK-S06-E02, Saki Yew was forced to withdraw from the competition due to a knee injury. Actavia and Kiki Snatch had been announced as the bottom two, but no further elimination took place; instead Chanel O'Conor, Lill, and Marmalade lip-synced for the win.",
+    "tags": ["quit", "heartbreak", "twist"],
+    "queenIds": ["saki-yew", "actavia", "kiki-snatch", "lill"],
+    "seasonIds": ["UK-S06"],
+    "episodeIds": ["UK-S06-E02"]
+  },
+  {
+    "id": "uk-s06-charra-tea-miss-c",
+    "title": "Charra Tea voted Miss Congeniality",
+    "summary": "At the Grand Finale (UK-S06-E10), Charra Tea was voted Miss Congeniality by her fellow Series 6 contestants after placing sixth.",
+    "tags": ["fan-favorite", "finale"],
+    "queenIds": ["charra-tea"],
+    "seasonIds": ["UK-S06"],
+    "episodeIds": ["UK-S06-E10"]
+  }
+]

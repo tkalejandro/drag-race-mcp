@@ -1,0 +1,20 @@
+{
+  "id": "dax-exclamationpoint",
+  "name": "Dax ExclamationPoint",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S08-E02",
+          "song": "I Will Survive"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S08-E02"
+    }
+  ]
+}

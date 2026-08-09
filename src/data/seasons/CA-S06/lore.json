@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ca-s06-van-goth-crown",
+    "title": "Van Goth wins Canada's Drag Race Season 6",
+    "summary": "In the finale (CA-S06-E09), Van Goth and Eboni La'Belle lip-synced to Chappell Roan's \"Super Graphic Ultra Modern Girl\". Van Goth was crowned Canada's Next Drag Superstar; Eboni finished as runner-up. PM and Sami Landri were eliminated before the final lip sync. The season cash prize was $100,000 CAD.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["van-goth", "eboni-la-belle", "pm", "sami-landri"],
+    "seasonIds": ["CA-S06"],
+    "episodeIds": ["CA-S06-E09"]
+  },
+  {
+    "id": "ca-s06-paolo-porkchop",
+    "title": "Paolo Perfección: Season 6 Porkchop",
+    "summary": "Paolo Perfección was the first contestant eliminated on Canada's Drag Race Season 6 (CA-S06-E02), lip-syncing to Trooper's \"Raise a Little Hell\" against Sami Landri after Hazel was saved from the bottom with the Golden Beaver.",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["paolo-perfeccion", "sami-landri", "hazel"],
+    "seasonIds": ["CA-S06"],
+    "episodeIds": ["CA-S06-E02"]
+  },
+  {
+    "id": "ca-s06-hazel-miss-c",
+    "title": "Hazel named Miss Congeniality",
+    "summary": "Hazel was voted Miss Congeniality by fellow contestants. She had been eliminated in CA-S06-E04 after lip-syncing to Avril Lavigne and Nicki Minaj's \"Dumb Blonde\" against PM.",
+    "tags": ["fan-favorite", "iconic"],
+    "queenIds": ["hazel", "pm"],
+    "seasonIds": ["CA-S06"],
+    "episodeIds": ["CA-S06-E04", "CA-S06-E09"]
+  },
+  {
+    "id": "ca-s06-slayoffs-double-sashay",
+    "title": "Slayoffs double elimination",
+    "summary": "In CA-S06-E06 (\"Slayoffs\"), Eboni La'Belle won the lip-sync slay-off extravaganza. After Van Goth was saved from the bottom with the Golden Beaver, Mya Foxx, PM, and Velma Jones lip-synced to Sarah McLachlan's \"Sweet Surrender\"; Mya Foxx and Velma Jones were both eliminated.",
+    "tags": ["double-sashay", "lip-sync", "twist", "iconic"],
+    "queenIds": [
+      "eboni-la-belle",
+      "van-goth",
+      "mya-foxx",
+      "pm",
+      "velma-jones"
+    ],
+    "seasonIds": ["CA-S06"],
+    "episodeIds": ["CA-S06-E06"]
+  },
+  {
+    "id": "ca-s06-van-goth-four-wins",
+    "title": "Van Goth's four maxi-challenge wins",
+    "summary": "Van Goth won four maxi challenges across Canada's Drag Race Season 6: the Not Sorry Aboot It remix (CA-S06-E01), Pick Your Poison (CA-S06-E03, shared with Mya Foxx), Paris (Ontario) Fashion Week design (CA-S06-E07), and a CUNTest round (CA-S06-E08).",
+    "tags": ["iconic", "runway"],
+    "queenIds": ["van-goth", "mya-foxx"],
+    "seasonIds": ["CA-S06"],
+    "episodeIds": [
+      "CA-S06-E01",
+      "CA-S06-E03",
+      "CA-S06-E07",
+      "CA-S06-E08"
+    ]
+  }
+]

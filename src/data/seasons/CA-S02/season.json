@@ -1,0 +1,47 @@
+{
+  "id": "CA-S02",
+  "franchise": "CA",
+  "name": "Canada's Drag Race Season 2",
+  "seasonNumber": 2,
+  "year": 2021,
+  "episodeCount": 10,
+  "episodeIds": [
+    "CA-S02-E01",
+    "CA-S02-E02",
+    "CA-S02-E03",
+    "CA-S02-E04",
+    "CA-S02-E05",
+    "CA-S02-E06",
+    "CA-S02-E07",
+    "CA-S02-E08",
+    "CA-S02-E09",
+    "CA-S02-E10"
+  ],
+  "castIds": [
+    "icesis-couture",
+    "kendall-gender",
+    "pythia",
+    "gia-metric",
+    "adriana",
+    "kimora-amour",
+    "synthia-kiss",
+    "eve-6000",
+    "suki-doll",
+    "stephanie-prince",
+    "oceane-aqua-black",
+    "beth"
+  ],
+  "winnerId": "icesis-couture",
+  "runnerUpIds": ["kendall-gender", "pythia"],
+  "missCongenialityId": "suki-doll",
+  "porkchopId": "beth",
+  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "judges": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
+    { "name": "Brad Goreski" },
+    { "name": "Amanda Brugel" },
+    { "name": "Traci Melchor" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "CAD" }
+}

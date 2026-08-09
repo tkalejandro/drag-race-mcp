@@ -1,0 +1,25 @@
+{
+  "id": "maddy-morphosis",
+  "name": "Maddy Morphosis",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E03",
+          "song": "I Love It"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E06",
+          "song": "Suga Mama"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S14-E06"
+    }
+  ]
+}

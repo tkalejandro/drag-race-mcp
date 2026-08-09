@@ -1,0 +1,51 @@
+[
+  {
+    "id": "ca-s03-gisele-crown",
+    "title": "Gisèle Lullaby wins Canada's Drag Race Season 3",
+    "summary": "In the finale (CA-S03-E09), Gisèle Lullaby and Jada Shada Hudson lip-synced to Céline Dion's \"A New Day Has Come (Radio Remix)\". Gisèle was crowned the winner; Jada finished as runner-up. Kimmy Couture and Miss Fiercalicious were eliminated before the final lip sync. The season cash prize was $100,000 CAD.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "gisele-lullaby",
+      "jada-shada-hudson",
+      "kimmy-couture",
+      "miss-fiercalicious"
+    ],
+    "seasonIds": ["CA-S03"],
+    "episodeIds": ["CA-S03-E09"]
+  },
+  {
+    "id": "ca-s03-halal-bae-porkchop",
+    "title": "Halal Bae: Season 3 Porkchop",
+    "summary": "Halal Bae was the first contestant eliminated on Canada's Drag Race Season 3 (CA-S03-E01), lip-syncing to Justin Bieber and Nicki Minaj's \"Beauty and a Beat\" against Miss Moço.",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["halal-bae", "miss-moco"],
+    "seasonIds": ["CA-S03"],
+    "episodeIds": ["CA-S03-E01"]
+  },
+  {
+    "id": "ca-s03-vivian-miss-c",
+    "title": "Vivian Vanderpuss named Miss Congeniality",
+    "summary": "Vivian Vanderpuss was voted Miss Congeniality after the finale aired; producers announced the win on the show's social media channels rather than in the finale episode (CA-S03-E09). She had been eliminated in CA-S03-E08 after lip-syncing to Rêve's \"CTRL + ALT + DEL\" against Kimmy Couture.",
+    "tags": ["fan-favorite", "iconic"],
+    "queenIds": ["vivian-vanderpuss"],
+    "seasonIds": ["CA-S03"],
+    "episodeIds": ["CA-S03-E08", "CA-S03-E09"]
+  },
+  {
+    "id": "ca-s03-gisele-snatch-game",
+    "title": "Gisèle Lullaby wins Snatch Game as Marie Curie",
+    "summary": "In CA-S03-E05, Gisèle Lullaby won Snatch Game portraying Marie Curie — her second consecutive maxi-challenge win after CA-S03-E04's Bitch Stole My Look design challenge.",
+    "tags": ["snatch-game", "comedy", "iconic"],
+    "queenIds": ["gisele-lullaby"],
+    "seasonIds": ["CA-S03"],
+    "episodeIds": ["CA-S03-E04", "CA-S03-E05"]
+  },
+  {
+    "id": "ca-s03-uk-finale-delay",
+    "title": "UK finale broadcast delayed after Queen Elizabeth II's death",
+    "summary": "Following the death of Queen Elizabeth II on September 8, 2022, the broadcast of the CA-S03 finale (\"True North Strong (and Fierce)\") was delayed in the United Kingdom during the period of national mourning.",
+    "tags": ["production", "finale"],
+    "seasonIds": ["CA-S03"],
+    "episodeIds": ["CA-S03-E09"]
+  }
+]

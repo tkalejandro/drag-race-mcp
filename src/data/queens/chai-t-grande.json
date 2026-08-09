@@ -1,0 +1,18 @@
+{
+  "id": "chai-t-grande",
+  "name": "Chai T Grande",
+  "appearances": [
+    {
+      "seasonId": "UK-S07",
+      "placement": 9,
+      "eliminatedEpisodeId": "UK-S07-E05",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S07-E05", "song": "Spectrum (Say My Name)" }
+      ],
+      "missCongeniality": true
+    }
+  ]
+}

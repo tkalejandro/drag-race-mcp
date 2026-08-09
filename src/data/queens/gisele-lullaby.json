@@ -1,0 +1,32 @@
+{
+  "id": "gisele-lullaby",
+  "name": "Gisèle Lullaby",
+  "appearances": [
+    {
+      "seasonId": "CA-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S03-E04",
+          "name": "Create a distinctive runway look from the same material as the other queens"
+        },
+        {
+          "episodeId": "CA-S03-E05",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S03-E07",
+          "song": "Love Is"
+        },
+        {
+          "episodeId": "CA-S03-E09",
+          "song": "A New Day Has Come (Radio Remix)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "nicky-doll",
+  "name": "Nicky Doll",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S12-E03",
+          "song": "Problem"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S12-E05",
+          "song": "Heart to Break"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S12-E05"
+    }
+  ]
+}

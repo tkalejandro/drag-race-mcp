@@ -1,0 +1,20 @@
+{
+  "id": "stephanie-prince",
+  "name": "Stephanie Prince",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E03",
+          "song": "Ghost"
+        }
+      ],
+      "eliminatedEpisodeId": "CA-S02-E03"
+    }
+  ]
+}

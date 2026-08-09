@@ -1,0 +1,29 @@
+[
+  {
+    "id": "bob-s08-crown",
+    "title": "Bob the Drag Queen wins Season 8",
+    "summary": "In the Grand Finale (US-S08-E10), Bob the Drag Queen was crowned America's Next Drag Superstar over runners-up Kim Chi and Naomi Smalls. The Season 8 cash prize was $100,000.",
+    "tags": ["crown", "finale", "iconic"],
+    "queenIds": ["bob-the-drag-queen", "kim-chi", "naomi-smalls"],
+    "seasonIds": ["US-S08"],
+    "episodeIds": ["US-S08-E10"]
+  },
+  {
+    "id": "bob-snatch-game-s08",
+    "title": "Bob's Snatch Game as Crazy Eyes and Carol Channing",
+    "summary": "On Supermodel Snatch Game (US-S08-E05), Bob the Drag Queen won the maxi challenge with a dual impression of Crazy Eyes (Orange Is the New Black) and Carol Channing — an early showcase of the comedy that carried Bob to the crown.",
+    "tags": ["snatch-game", "comedy", "iconic"],
+    "queenIds": ["bob-the-drag-queen"],
+    "seasonIds": ["US-S08"],
+    "episodeIds": ["US-S08-E05"]
+  },
+  {
+    "id": "s08-double-elim",
+    "title": "Season 8's early double elimination",
+    "summary": "In Bitch Perfect (US-S08-E02), Dax ExclamationPoint and Laila McQueen were both eliminated after lip-syncing to Gloria Gaynor's \"I Will Survive\" — a double sashay that trimmed the cast early.",
+    "tags": ["drama", "lip-sync", "iconic"],
+    "queenIds": ["dax-exclamationpoint", "laila-mcqueen"],
+    "seasonIds": ["US-S08"],
+    "episodeIds": ["US-S08-E02"]
+  }
+]

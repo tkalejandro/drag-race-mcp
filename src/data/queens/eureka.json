@@ -1,0 +1,55 @@
+{
+  "id": "eureka",
+  "name": "Eureka",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "US-S09-E05",
+      "quit": true
+    },
+    {
+      "seasonId": "US-S10",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S10-E05",
+          "name": "In pairs, improvise in the new day-time talk show \"Bossy Rossy\""
+        },
+        {
+          "episodeId": "US-S10-E06",
+          "name": "In teams, create and produce RuPaul's DragCon panels in front of a live audience"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S10-E07",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "US-S10-E10",
+          "name": "Participate in a manly photoshoot advertising a new body spray called \"Trade\""
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S10-E02",
+          "song": "Best of My Love"
+        },
+        {
+          "episodeId": "US-S10-E09",
+          "song": "New Attitude"
+        },
+        {
+          "episodeId": "US-S10-E12",
+          "song": "Call Me Mother"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

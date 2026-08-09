@@ -1,0 +1,25 @@
+{
+  "id": "charity-kase",
+  "name": "Charity Kase",
+  "appearances": [
+    {
+      "seasonId": "UK-S03",
+      "placement": 8,
+      "eliminatedEpisodeId": "UK-S03-E05",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S03-E04",
+          "song": "Who Do You Think You Are"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S03-E05",
+          "song": "Big Spender"
+        }
+      ]
+    }
+  ]
+}

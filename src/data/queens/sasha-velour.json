@@ -1,0 +1,33 @@
+{
+  "id": "sasha-velour",
+  "name": "Sasha Velour",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S09-E04",
+          "name": "In teams, produce a live morning talk show"
+        },
+        {
+          "episodeId": "US-S09-E09",
+          "name": "In pairs, create, write, and star in their own TV pilots"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S09-E11",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E12",
+          "song": "U Wear It Well"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

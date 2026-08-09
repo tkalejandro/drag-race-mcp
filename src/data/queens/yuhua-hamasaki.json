@@ -1,0 +1,20 @@
+{
+  "id": "yuhua-hamasaki",
+  "name": "Yuhua Hamasaki",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E03",
+          "song": "Celebrity Skin"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E03"
+    }
+  ]
+}

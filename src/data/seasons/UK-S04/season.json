@@ -1,0 +1,46 @@
+{
+  "id": "UK-S04",
+  "franchise": "UK",
+  "name": "RuPaul's Drag Race UK Series 4",
+  "seasonNumber": 4,
+  "year": 2022,
+  "episodeCount": 10,
+  "episodeIds": [
+    "UK-S04-E01",
+    "UK-S04-E02",
+    "UK-S04-E03",
+    "UK-S04-E04",
+    "UK-S04-E05",
+    "UK-S04-E06",
+    "UK-S04-E07",
+    "UK-S04-E08",
+    "UK-S04-E09",
+    "UK-S04-E10"
+  ],
+  "castIds": [
+    "danny-beard",
+    "cheddar-gorgeous",
+    "black-peppa",
+    "jonbers-blonde",
+    "pixie-polite",
+    "dakota-schiffer",
+    "le-fil",
+    "baby",
+    "sminty-drop",
+    "copper-topp",
+    "starlet",
+    "just-may"
+  ],
+  "winnerId": "danny-beard",
+  "runnerUpIds": ["cheddar-gorgeous"],
+  "porkchopId": "just-may",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Alan Carr" },
+    { "name": "Graham Norton" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 0, "currency": "GBP" }
+}

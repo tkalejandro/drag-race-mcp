@@ -1,0 +1,25 @@
+{
+  "id": "eve-6000",
+  "name": "Eve 6000",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S02-E04",
+          "song": "Happiness"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E05",
+          "song": "I Love Myself Today"
+        }
+      ],
+      "eliminatedEpisodeId": "CA-S02-E05"
+    }
+  ]
+}

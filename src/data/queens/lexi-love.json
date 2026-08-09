@@ -1,0 +1,33 @@
+{
+  "id": "lexi-love",
+  "name": "Lexi Love",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S17-E02",
+          "name": "Perform a talent show for Drag Queens Got Talent (group 2)"
+        },
+        {
+          "episodeId": "US-S17-E12",
+          "name": "Perform paired C.U.N.T. monologues"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S17-E06",
+          "name": "ABH lipstick mouth relay"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S17-E02",
+          "song": "Alter Ego"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

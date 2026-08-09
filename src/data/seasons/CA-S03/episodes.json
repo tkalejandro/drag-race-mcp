@@ -1,0 +1,217 @@
+[
+  {
+    "id": "CA-S03-E01",
+    "seasonId": "CA-S03",
+    "episodeNumber": 1,
+    "title": "Sidewalk to Catwalk",
+    "miniChallenge": {
+      "name": "Serve a streetwear chic look in a rooftop fashion show",
+      "winnerIds": ["bombae"]
+    },
+    "maxiChallenge": {
+      "name": "Create a new catwalk couture look using the mini-challenge streetwear look",
+      "winnerIds": ["lady-boom-boom"]
+    },
+    "runwayTheme": "Sidewalk to Catwalk",
+    "topIds": ["jada-shada-hudson", "kaos", "lady-boom-boom"],
+    "bottomIds": ["halal-bae", "miss-moco"],
+    "lipSync": {
+      "song": "Beauty and a Beat",
+      "queenIds": ["halal-bae", "miss-moco"],
+      "winnerIds": ["miss-moco"],
+      "eliminatedIds": ["halal-bae"]
+    },
+    "guestJudges": [{ "name": "Monika Schnarre" }]
+  },
+  {
+    "id": "CA-S03-E02",
+    "seasonId": "CA-S03",
+    "episodeNumber": 2,
+    "title": "The Who-Knows",
+    "miniChallenge": {
+      "name": "Design a hockey equipment quick-drag look and audition for a drag queen hockey team",
+      "winnerIds": ["chelazon-leroux"]
+    },
+    "maxiChallenge": {
+      "name": "Host and present segments of the Who-Knows awards show",
+      "winnerIds": ["kimmy-couture"]
+    },
+    "runwayTheme": "Goddesses of the Ancient World",
+    "topIds": ["chelazon-leroux", "kimmy-couture", "miss-fiercalicious"],
+    "bottomIds": ["jada-shada-hudson", "miss-moco"],
+    "lipSync": {
+      "song": "High School Confidential",
+      "queenIds": ["jada-shada-hudson", "miss-moco"],
+      "winnerIds": ["jada-shada-hudson"],
+      "eliminatedIds": ["miss-moco"]
+    },
+    "guestJudges": [{ "name": "Carole Pope" }]
+  },
+  {
+    "id": "CA-S03-E03",
+    "seasonId": "CA-S03",
+    "episodeNumber": 3,
+    "title": "Ruets",
+    "miniChallenge": {
+      "name": "Create a quick-drag masculine character and make Brooke laugh on a blind date",
+      "winnerIds": ["vivian-vanderpuss"]
+    },
+    "maxiChallenge": {
+      "name": "In pairs, choreograph and perform lip-sync numbers to RuPaul duets",
+      "winnerIds": ["jada-shada-hudson"]
+    },
+    "runwayTheme": "Sleeves",
+    "topIds": [
+      "irma-gerd",
+      "jada-shada-hudson",
+      "kimmy-couture",
+      "lady-boom-boom"
+    ],
+    "bottomIds": ["chelazon-leroux", "miss-fiercalicious"],
+    "lipSync": {
+      "song": "Don't Call Me Baby",
+      "queenIds": ["chelazon-leroux", "miss-fiercalicious"],
+      "winnerIds": ["miss-fiercalicious"],
+      "eliminatedIds": ["chelazon-leroux"]
+    },
+    "guestJudges": [
+      { "name": "Vanessa Vanjie Mateo" },
+      { "name": "Hollywood Jade" }
+    ]
+  },
+  {
+    "id": "CA-S03-E04",
+    "seasonId": "CA-S03",
+    "episodeNumber": 4,
+    "title": "Bitch Stole My Look",
+    "miniChallenge": {
+      "name": "Improvise a Tuck Talk sponsored by Trojan",
+      "winnerIds": ["jada-shada-hudson"]
+    },
+    "maxiChallenge": {
+      "name": "Create a distinctive runway look from the same material as the other queens",
+      "winnerIds": ["gisele-lullaby"]
+    },
+    "runwayTheme": "Bitch Stole My Look",
+    "topIds": ["bombae", "gisele-lullaby", "kimmy-couture"],
+    "bottomIds": ["jada-shada-hudson", "kaos"],
+    "lipSync": {
+      "song": "Stranger in My House (Thunderpuss Radio Mix)",
+      "queenIds": ["jada-shada-hudson", "kaos"],
+      "winnerIds": ["jada-shada-hudson"],
+      "eliminatedIds": ["kaos"]
+    },
+    "guestJudges": [{ "name": "Sarain Fox" }, { "name": "Jimbo" }]
+  },
+  {
+    "id": "CA-S03-E05",
+    "seasonId": "CA-S03",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["lady-boom-boom"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["gisele-lullaby"]
+    },
+    "runwayTheme": "Periodic Table of Elements",
+    "topIds": ["gisele-lullaby", "irma-gerd", "vivian-vanderpuss"],
+    "bottomIds": ["kimmy-couture", "lady-boom-boom"],
+    "lipSync": {
+      "song": "Run Away with Me",
+      "queenIds": ["kimmy-couture", "lady-boom-boom"],
+      "winnerIds": ["kimmy-couture"],
+      "eliminatedIds": ["lady-boom-boom"]
+    },
+    "guestJudges": [{ "name": "Sarain Fox" }]
+  },
+  {
+    "id": "CA-S03-E06",
+    "seasonId": "CA-S03",
+    "episodeNumber": 6,
+    "title": "Cosmetic Queens",
+    "miniChallenge": {
+      "name": "Drag Family Portrait Session",
+      "winnerIds": ["jada-shada-hudson"]
+    },
+    "maxiChallenge": {
+      "name": "Film a commercial and do a photoshoot to promote an eyeshadow palette",
+      "winnerIds": ["miss-fiercalicious"]
+    },
+    "runwayTheme": "Paint",
+    "topIds": ["jada-shada-hudson", "miss-fiercalicious", "vivian-vanderpuss"],
+    "bottomIds": ["bombae", "irma-gerd"],
+    "lipSync": {
+      "song": "Table Dancer",
+      "queenIds": ["bombae", "irma-gerd"],
+      "winnerIds": ["irma-gerd"],
+      "eliminatedIds": ["bombae"]
+    },
+    "guestJudges": [{ "name": "Mei Pang" }]
+  },
+  {
+    "id": "CA-S03-E07",
+    "seasonId": "CA-S03",
+    "episodeNumber": 7,
+    "title": "Squirrels Trip: The Rusical",
+    "miniChallenge": {
+      "name": "Audition for a parody sci-fi film",
+      "winnerIds": ["kimmy-couture"]
+    },
+    "maxiChallenge": {
+      "name": "Squirrels Trip: The Rusical",
+      "winnerIds": ["vivian-vanderpuss"]
+    },
+    "runwayTheme": "Dystopian Drag",
+    "topIds": ["kimmy-couture", "miss-fiercalicious", "vivian-vanderpuss"],
+    "bottomIds": ["gisele-lullaby", "irma-gerd"],
+    "lipSync": {
+      "song": "Love Is",
+      "queenIds": ["gisele-lullaby", "irma-gerd"],
+      "winnerIds": ["gisele-lullaby"],
+      "eliminatedIds": ["irma-gerd"]
+    },
+    "guestJudges": [{ "name": "Jeremy Dutcher" }]
+  },
+  {
+    "id": "CA-S03-E08",
+    "seasonId": "CA-S03",
+    "episodeNumber": 8,
+    "title": "Masquerade Ball",
+    "maxiChallenge": {
+      "name": "The Masquerade Ball",
+      "winnerIds": ["miss-fiercalicious"]
+    },
+    "runwayTheme": "Masc for Mascara / Incog-She-To / Masquerade Eleganza",
+    "topIds": ["gisele-lullaby", "miss-fiercalicious"],
+    "bottomIds": ["kimmy-couture", "vivian-vanderpuss"],
+    "lipSync": {
+      "song": "CTRL + ALT + DEL",
+      "queenIds": ["kimmy-couture", "vivian-vanderpuss"],
+      "winnerIds": ["kimmy-couture"],
+      "eliminatedIds": ["vivian-vanderpuss"]
+    },
+    "guestJudges": [{ "name": "Lesley Hampton" }]
+  },
+  {
+    "id": "CA-S03-E09",
+    "seasonId": "CA-S03",
+    "episodeNumber": 9,
+    "title": "True North Strong (and Fierce)",
+    "maxiChallenge": {
+      "name": "Write and record a verse for and perform True North Strong and Fierce; photoshoot with Icesis Couture",
+      "winnerIds": []
+    },
+    "runwayTheme": "Coronation Eleganza",
+    "topIds": ["gisele-lullaby", "jada-shada-hudson"],
+    "bottomIds": ["kimmy-couture", "miss-fiercalicious"],
+    "lipSync": {
+      "song": "A New Day Has Come (Radio Remix)",
+      "queenIds": ["gisele-lullaby", "jada-shada-hudson"],
+      "winnerIds": ["gisele-lullaby"]
+    },
+    "guestJudges": [{ "name": "Sarah Nurse" }]
+  }
+]

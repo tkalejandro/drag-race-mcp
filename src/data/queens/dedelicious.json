@@ -1,0 +1,33 @@
+{
+  "id": "dedelicious",
+  "name": "DeDeLicious",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 4,
+      "eliminatedEpisodeId": "UK-S05-E09",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S05-E05",
+          "song": "I Dreamed a Dream"
+        },
+        {
+          "episodeId": "UK-S05-E06",
+          "song": "Heartbreak on Hold"
+        },
+        {
+          "episodeId": "UK-S05-E08",
+          "song": "This Hell"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S05-E09",
+          "song": "Little Bird"
+        }
+      ]
+    }
+  ]
+}

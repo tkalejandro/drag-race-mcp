@@ -1,0 +1,38 @@
+{
+  "id": "jorgeous",
+  "name": "Jorgeous",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "US-S14-E06",
+          "name": "Create an outfit from junk Michelle Visage bought online"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E05",
+          "song": "My Head & My Heart"
+        },
+        {
+          "episodeId": "US-S14-E09",
+          "song": "Something's Got a Hold on Me"
+        },
+        {
+          "episodeId": "US-S14-E12",
+          "song": "Heartbreak Hotel (Hex Hector Remix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E13",
+          "song": "Good 4 U"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S14-E13"
+    }
+  ]
+}

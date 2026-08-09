@@ -1,0 +1,25 @@
+{
+  "id": "miss-moco",
+  "name": "Miss Moço",
+  "appearances": [
+    {
+      "seasonId": "CA-S03",
+      "placement": 11,
+      "eliminatedEpisodeId": "CA-S03-E02",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S03-E01",
+          "song": "Beauty and a Beat"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S03-E02",
+          "song": "High School Confidential"
+        }
+      ]
+    }
+  ]
+}

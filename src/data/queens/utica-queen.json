@@ -1,0 +1,34 @@
+{
+  "id": "utica-queen",
+  "name": "Utica Queen",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "US-S13-E10",
+          "name": "Makeover another queen into your drag doppelganger"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S13-E09",
+          "song": "Fascinated"
+        },
+        {
+          "episodeId": "US-S13-E11",
+          "song": "My Humps"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E12",
+          "song": "No Tears Left to Cry"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S13-E12"
+    }
+  ]
+}

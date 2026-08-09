@@ -1,0 +1,42 @@
+{
+  "id": "jada-shada-hudson",
+  "name": "Jada Shada Hudson",
+  "appearances": [
+    {
+      "seasonId": "CA-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S03-E03",
+          "name": "In pairs, choreograph and perform lip-sync numbers to RuPaul duets"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S03-E04",
+          "name": "Improvise a Tuck Talk sponsored by Trojan"
+        },
+        {
+          "episodeId": "CA-S03-E06",
+          "name": "Drag Family Portrait Session"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S03-E02",
+          "song": "High School Confidential"
+        },
+        {
+          "episodeId": "CA-S03-E04",
+          "song": "Stranger in My House (Thunderpuss Radio Mix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S03-E09",
+          "song": "A New Day Has Come (Radio Remix)"
+        }
+      ]
+    }
+  ]
+}

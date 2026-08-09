@@ -1,0 +1,48 @@
+{
+  "id": "symone",
+  "name": "Symone",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S13-E02",
+          "name": "Write, record, and perform verses to Condragulations"
+        },
+        {
+          "episodeId": "US-S13-E04",
+          "name": "Overact in cheesy RuPaulmark holiday movies"
+        },
+        {
+          "episodeId": "US-S13-E10",
+          "name": "Makeover another queen into your drag doppelganger"
+        },
+        {
+          "episodeId": "US-S13-E11",
+          "name": "Create and advertise a soft drink brand with a catchy jingle"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S13-E02",
+          "song": "Break My Heart"
+        },
+        {
+          "episodeId": "US-S13-E08",
+          "song": "Boss"
+        },
+        {
+          "episodeId": "US-S13-E12",
+          "song": "No Tears Left to Cry"
+        },
+        {
+          "episodeId": "US-S13-E14",
+          "song": "I Learned from the Best (HQ2 Radio Mix)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

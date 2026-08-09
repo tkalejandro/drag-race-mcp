@@ -1,0 +1,72 @@
+[
+  {
+    "id": "onya-nurve-s17-crown",
+    "title": "Onya Nurve wins Season 17",
+    "summary": "In the Grand Finale (US-S17-E16), Onya Nurve was crowned America's Next Drag Superstar after a Lip Sync for the Crown to \"Abracadabra\" against Jewels Sparkles. Lexi Love and Sam Star placed third after the final four cut. The Season 17 cash prize was $200,000. Crystal Envy was announced as Miss Congeniality.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "onya-nurve",
+      "jewels-sparkles",
+      "lexi-love",
+      "sam-star",
+      "crystal-envy"
+    ],
+    "seasonIds": ["US-S17"],
+    "episodeIds": ["US-S17-E16"]
+  },
+  {
+    "id": "suzie-toot-sdadhh-s17",
+    "title": "Suzie Toot wins the Season 17 LaLaPaRuZa",
+    "summary": "On Lip Sync LaLaPaRuZa Smackdown (US-S17-E15), eliminated queens returned for a lip sync tournament. Suzie Toot won the smackdown and was named the season's Golden Boot / SDADHH winner after defeating Kori King in the final round to \"APT.\"",
+    "tags": ["lip-sync", "return", "iconic"],
+    "queenIds": ["suzie-toot", "kori-king"],
+    "seasonIds": ["US-S17"],
+    "episodeIds": ["US-S17-E15"]
+  },
+  {
+    "id": "crystal-envy-miss-congeniality-s17",
+    "title": "Crystal Envy is Season 17 Miss Congeniality",
+    "summary": "At the Grand Finale (US-S17-E16), Crystal Envy was announced as Season 17's Miss Congeniality after being eliminated on Snatch Game (US-S17-E07).",
+    "tags": ["fan-favorite", "finale"],
+    "queenIds": ["crystal-envy"],
+    "seasonIds": ["US-S17"],
+    "episodeIds": ["US-S17-E07", "US-S17-E16"]
+  },
+  {
+    "id": "lucky-starzzz-porkchop-s17",
+    "title": "Lucky Starzzz is Season 17's porkchop",
+    "summary": "On Monopulence! (US-S17-E03), Lucky Starzzz lip-synced against Joella to \"(It's Just) The Way That You Love Me,\" failed the Badonka Dunk Tank, and was the first queen eliminated, becoming Season 17's porkchop.",
+    "tags": ["porkchop", "lip-sync", "heartbreak", "twist"],
+    "queenIds": ["lucky-starzzz", "joella"],
+    "seasonIds": ["US-S17"],
+    "episodeIds": ["US-S17-E03"]
+  },
+  {
+    "id": "badonka-dunk-tank-s17",
+    "title": "Season 17 Badonka Dunk Tank twist",
+    "summary": "Season 17 introduced the Badonka Dunk Tank after Lip Sync for Your Life losses: queens pulled a lever that could dunk them into elimination or save them. Hormona Lisa was saved on Drag Queens Got Talent – Part 2 (US-S17-E02) and Arrietty was saved on RDR Live! (US-S17-E05). Lucky Starzzz (US-S17-E03) and Joella (US-S17-E04) failed their dunks and were eliminated. The twist was retired after the E05 save.",
+    "tags": ["twist", "production", "lip-sync"],
+    "queenIds": [
+      "hormona-lisa",
+      "arrietty",
+      "lucky-starzzz",
+      "joella"
+    ],
+    "seasonIds": ["US-S17"],
+    "episodeIds": [
+      "US-S17-E02",
+      "US-S17-E03",
+      "US-S17-E04",
+      "US-S17-E05"
+    ]
+  },
+  {
+    "id": "jewels-onya-double-shantay-s17",
+    "title": "Jewels Sparkles and Onya Nurve double shantay",
+    "summary": "On Drag Baby Mamas (US-S17-E13), Jewels Sparkles and Onya Nurve lip-synced to \"1 Thing.\" Both were declared winners and neither was eliminated — a double shantay that kept the Top 5 intact heading into the final competitive episode.",
+    "tags": ["double-shantay", "lip-sync", "iconic"],
+    "queenIds": ["jewels-sparkles", "onya-nurve"],
+    "seasonIds": ["US-S17"],
+    "episodeIds": ["US-S17-E13"]
+  }
+]

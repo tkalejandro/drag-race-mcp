@@ -1,0 +1,20 @@
+{
+  "id": "beth",
+  "name": "Beth",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E01",
+          "song": "Maneater"
+        }
+      ],
+      "eliminatedEpisodeId": "CA-S02-E01"
+    }
+  ]
+}

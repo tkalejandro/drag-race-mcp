@@ -1,0 +1,38 @@
+{
+  "id": "q",
+  "name": "Q",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S16-E06",
+          "name": "Design a doll for Welcome to the Dollhouse"
+        },
+        {
+          "episodeId": "US-S16-E09",
+          "name": "Create a neo-goth look from unconventional materials"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S16-E05",
+          "song": "Emergency"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E01",
+          "song": "Break My Soul"
+        },
+        {
+          "episodeId": "US-S16-E14",
+          "song": "Better Be Good to Me"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S16-E14"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "US-S10",
+  "franchise": "US",
+  "name": "RuPaul's Drag Race Season 10",
+  "seasonNumber": 10,
+  "year": 2018,
+  "episodeCount": 14,
+  "episodeIds": [
+    "US-S10-E01",
+    "US-S10-E02",
+    "US-S10-E03",
+    "US-S10-E04",
+    "US-S10-E05",
+    "US-S10-E06",
+    "US-S10-E07",
+    "US-S10-E08",
+    "US-S10-E09",
+    "US-S10-E10",
+    "US-S10-E11",
+    "US-S10-E12",
+    "US-S10-E13",
+    "US-S10-E14"
+  ],
+  "castIds": [
+    "aquaria",
+    "eureka",
+    "kameron-michaels",
+    "asia-ohara",
+    "miz-cracker",
+    "monet-x-change",
+    "the-vixen",
+    "monique-heart",
+    "blair-st-clair",
+    "mayhem-miller",
+    "dusty-ray-bottoms",
+    "yuhua-hamasaki",
+    "kalorie-karbdashian-williams",
+    "vanessa-vanjie-mateo"
+  ],
+  "winnerId": "aquaria",
+  "runnerUpIds": ["eureka", "kameron-michaels"],
+  "missCongenialityId": "monet-x-change",
+  "porkchopId": "vanessa-vanjie-mateo",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Carson Kressley" },
+    { "name": "Ross Mathews" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "USD" }
+}

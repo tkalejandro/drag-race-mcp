@@ -1,0 +1,33 @@
+{
+  "id": "gottmik",
+  "name": "Gottmik",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S13-E05",
+          "name": "The Bag Ball"
+        },
+        {
+          "episodeId": "US-S13-E09",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S13-E07",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S13-E14",
+          "song": "I Learned from the Best (HQ2 Radio Mix)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

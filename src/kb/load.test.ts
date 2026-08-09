@@ -248,4 +248,107 @@ describe("loadKnowledgeBase", () => {
       /Duplicate lore id "shared-lore"/,
     );
   });
+
+  it("rejects PersonRef queenId that does not exist", () => {
+    const root = makeDataRoot();
+    writeValidMinimalKb(root);
+
+    const season = {
+      ...minimalSeason("US-S01", ["test-queen"], ["US-S01-E01"]),
+      hosts: [{ name: "Missing Host", queenId: "missing-host" }],
+    };
+    writeFileSync(
+      path.join(root, "seasons", "US-S01", "season.json"),
+      JSON.stringify(season, null, 2),
+    );
+
+    assert.throws(
+      () => loadKnowledgeBase(root),
+      /season US-S01 hosts: queenId "missing-host" does not exist/,
+    );
+  });
+
+  it("rejects duplicate appearances for the same season", () => {
+    const root = makeDataRoot();
+    writeValidMinimalKb(root);
+
+    const queen = {
+      id: "test-queen",
+      name: "test-queen",
+      appearances: [
+        ...minimalQueen("test-queen").appearances,
+        ...minimalQueen("test-queen").appearances,
+      ],
+    };
+    writeQueen(root, queen);
+
+    assert.throws(
+      () => loadKnowledgeBase(root),
+      /queen "test-queen" has duplicate appearance for season "US-S01"/,
+    );
+  });
+
+  it("rejects queens with no appearances", () => {
+    const root = makeDataRoot();
+    writeValidMinimalKb(root);
+
+    writeFileSync(
+      path.join(root, "queens", "empty-queen.json"),
+      JSON.stringify(
+        { id: "empty-queen", name: "Empty Queen", appearances: [] },
+        null,
+        2,
+      ),
+    );
+    const season = minimalSeason(
+      "US-S01",
+      ["test-queen", "empty-queen"],
+      ["US-S01-E01"],
+    );
+    writeFileSync(
+      path.join(root, "seasons", "US-S01", "season.json"),
+      JSON.stringify(season, null, 2),
+    );
+
+    assert.throws(
+      () => loadKnowledgeBase(root),
+      /queen "empty-queen" has no appearances/,
+    );
+  });
+
+  it("rejects appearance that references a missing season pack", () => {
+    const root = makeDataRoot();
+    writeValidMinimalKb(root);
+
+    writeQueen(root, {
+      ...minimalQueen("ghost-queen", "AS-S01"),
+      id: "ghost-queen",
+      name: "Ghost Queen",
+    });
+    const season = minimalSeason(
+      "US-S01",
+      ["test-queen", "ghost-queen"],
+      ["US-S01-E01"],
+    );
+    writeFileSync(
+      path.join(root, "seasons", "US-S01", "season.json"),
+      JSON.stringify(season, null, 2),
+    );
+
+    assert.throws(
+      () => loadKnowledgeBase(root),
+      /queen "ghost-queen" appearance references missing season "AS-S01"/,
+    );
+  });
+
+  it("rejects queens not referenced by castIds or PersonRef queenId", () => {
+    const root = makeDataRoot();
+    writeValidMinimalKb(root);
+    writeQueen(root, minimalQueen("orphan-queen"));
+
+    assert.throws(
+      () => loadKnowledgeBase(root),
+      /queen "orphan-queen" is not referenced by any castIds or PersonRef queenId/,
+    );
+  });
 });

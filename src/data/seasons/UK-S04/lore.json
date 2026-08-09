@@ -1,0 +1,52 @@
+[
+  {
+    "id": "uk-s04-danny-beard-crown",
+    "title": "Danny Beard wins UK Series 4",
+    "summary": "In the Grand Finale (UK-S04-E10), Danny Beard and Cheddar Gorgeous lip-synced to Shirley Bassey's \"This Is My Life\". Danny Beard was crowned the winner; Cheddar Gorgeous finished as runner-up. Black Peppa and Jonbers Blonde placed third and fourth. Early UK series offered no cash prize.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "danny-beard",
+      "cheddar-gorgeous",
+      "black-peppa",
+      "jonbers-blonde"
+    ],
+    "seasonIds": ["UK-S04"],
+    "episodeIds": ["UK-S04-E10"]
+  },
+  {
+    "id": "uk-s04-just-may-porkchop",
+    "title": "Just May: Series 4 Porkchop",
+    "summary": "Just May was the first contestant eliminated on RuPaul's Drag Race UK Series 4 (UK-S04-E01), lip-syncing to Mabel's \"Let Them Know\" against Dakota Schiffer.",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["just-may", "dakota-schiffer"],
+    "seasonIds": ["UK-S04"],
+    "episodeIds": ["UK-S04-E01"]
+  },
+  {
+    "id": "uk-s04-baby-quit",
+    "title": "Baby quits after the Rusical lip sync",
+    "summary": "In UK-S04-E05, Baby and Dakota Schiffer lip-synced to \"No Way\" from Six. After the lip sync, Baby left the competition; Dakota Schiffer remained safe.",
+    "tags": ["quit", "heartbreak", "lip-sync"],
+    "queenIds": ["baby", "dakota-schiffer"],
+    "seasonIds": ["UK-S04"],
+    "episodeIds": ["UK-S04-E05"]
+  },
+  {
+    "id": "uk-s04-squirrel-games-double-shantay",
+    "title": "Double shantay on The Squirrel Games",
+    "summary": "In UK-S04-E08, Black Peppa and Jonbers Blonde lip-synced to Booty Luv's \"Some Kinda Rush\". Both won the lip sync and no one was eliminated.",
+    "tags": ["double-shantay", "lip-sync", "iconic"],
+    "queenIds": ["black-peppa", "jonbers-blonde"],
+    "seasonIds": ["UK-S04"],
+    "episodeIds": ["UK-S04-E08"]
+  },
+  {
+    "id": "uk-s04-rupaul-misses-episode",
+    "title": "RuPaul misses Queen Team Makeovers",
+    "summary": "RuPaul missed filming UK-S04-E07, the first episode he has missed across Drag Race franchises he hosts. Michelle Visage hosted; Raven guest-judged alongside Boy George, becoming the first former Drag Race contestant to judge on a RuPaul-fronted franchise.",
+    "tags": ["production", "judges", "twist"],
+    "queenIds": [],
+    "seasonIds": ["UK-S04"],
+    "episodeIds": ["UK-S04-E07"]
+  }
+]

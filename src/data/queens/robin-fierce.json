@@ -1,0 +1,20 @@
+{
+  "id": "robin-fierce",
+  "name": "Robin Fierce",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E06",
+          "song": "In Your Room"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E06"
+    }
+  ]
+}

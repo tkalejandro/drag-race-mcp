@@ -1,0 +1,45 @@
+{
+  "id": "CA-S01",
+  "franchise": "CA",
+  "name": "Canada's Drag Race Season 1",
+  "seasonNumber": 1,
+  "year": 2020,
+  "episodeCount": 10,
+  "episodeIds": [
+    "CA-S01-E01",
+    "CA-S01-E02",
+    "CA-S01-E03",
+    "CA-S01-E04",
+    "CA-S01-E05",
+    "CA-S01-E06",
+    "CA-S01-E07",
+    "CA-S01-E08",
+    "CA-S01-E09",
+    "CA-S01-E10"
+  ],
+  "castIds": [
+    "priyanka",
+    "rita-baga",
+    "scarlett-bobo",
+    "jimbo",
+    "lemon",
+    "ilona-verley",
+    "boa",
+    "kiara",
+    "tynomi-banks",
+    "anastarzia-anaquway",
+    "kyne",
+    "juice-boxx"
+  ],
+  "winnerId": "priyanka",
+  "runnerUpIds": ["rita-baga", "scarlett-bobo"],
+  "porkchopId": "juice-boxx",
+  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "judges": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
+    { "name": "Jeffrey Bowyer-Chapman" },
+    { "name": "Stacey McKenzie" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "CAD" }
+}

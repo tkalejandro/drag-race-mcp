@@ -1,0 +1,38 @@
+{
+  "id": "vanity-milan",
+  "name": "Vanity Milan",
+  "appearances": [
+    {
+      "seasonId": "UK-S03",
+      "placement": 4,
+      "eliminatedEpisodeId": "UK-S03-E09",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S03-E04",
+          "name": "Write, record, and perform verses to B.D.E. (Big Drag Energy)"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S03-E02",
+          "song": "Moving On Up"
+        },
+        {
+          "episodeId": "UK-S03-E03",
+          "song": "I've Got the Music in Me"
+        },
+        {
+          "episodeId": "UK-S03-E07",
+          "song": "Scandalous"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S03-E09",
+          "song": "Hallucinate"
+        }
+      ]
+    }
+  ]
+}

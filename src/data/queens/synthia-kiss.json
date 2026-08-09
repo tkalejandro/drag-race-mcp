@@ -1,0 +1,39 @@
+{
+  "id": "synthia-kiss",
+  "name": "Synthia Kiss",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S02-E04",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S02-E05",
+          "name": "In pairs, give a lesson on safe sex"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S02-E03",
+          "song": "Ghost"
+        },
+        {
+          "episodeId": "CA-S02-E05",
+          "song": "I Love Myself Today"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E06",
+          "song": "Heaven"
+        }
+      ],
+      "eliminatedEpisodeId": "CA-S02-E06"
+    }
+  ]
+}

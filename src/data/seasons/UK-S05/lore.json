@@ -1,0 +1,47 @@
+[
+  {
+    "id": "uk-s05-ginger-johnson-crown",
+    "title": "Ginger Johnson wins UK Series 5",
+    "summary": "In the Grand Finale (UK-S05-E10), Ginger Johnson and Michael Marouli lip-synced to Erasure's \"A Little Respect\". Ginger Johnson was crowned the winner; Michael Marouli finished as runner-up. Tomara Thomas placed third. Early UK series offered no cash prize.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["ginger-johnson", "michael-marouli", "tomara-thomas"],
+    "seasonIds": ["UK-S05"],
+    "episodeIds": ["UK-S05-E10"]
+  },
+  {
+    "id": "uk-s05-alexis-saint-pete-porkchop",
+    "title": "Alexis Saint-Pete: Series 5 Porkchop",
+    "summary": "Alexis Saint-Pete was the first contestant eliminated on RuPaul's Drag Race UK Series 5 (UK-S05-E02), lip-syncing to Tiësto and Charli XCX's \"Hot in It\" against Miss Naomi Carter. Episode 1 had been a non-elimination premiere with a top-two lip sync for the win.",
+    "tags": ["porkchop", "lip-sync"],
+    "queenIds": ["alexis-saint-pete", "miss-naomi-carter"],
+    "seasonIds": ["UK-S05"],
+    "episodeIds": ["UK-S05-E02"]
+  },
+  {
+    "id": "uk-s05-ginger-triple-win",
+    "title": "Ginger Johnson's three-win streak",
+    "summary": "Ginger Johnson won three consecutive maxi challenges across UK-S05-E04 (DisasterClass, shared with Michael Marouli and Tomara Thomas), UK-S05-E05 (Pant-Oh She Better Don't: The Rusical), and UK-S05-E06 (Snatch Game as Dame Barbara Cartland).",
+    "tags": ["iconic", "comedy", "snatch-game"],
+    "queenIds": ["ginger-johnson"],
+    "seasonIds": ["UK-S05"],
+    "episodeIds": ["UK-S05-E04", "UK-S05-E05", "UK-S05-E06"]
+  },
+  {
+    "id": "uk-s05-dedelicious-lip-syncs",
+    "title": "DeDeLicious survives three lip syncs",
+    "summary": "DeDeLicious won three consecutive lip syncs for her life — \"I Dreamed a Dream\" (UK-S05-E05), \"Heartbreak on Hold\" (UK-S05-E06), and \"This Hell\" (UK-S05-E08) — before being eliminated in UK-S05-E09 after losing to Tomara Thomas to Annie Lennox's \"Little Bird\".",
+    "tags": ["lip-sync", "underdog", "iconic"],
+    "queenIds": ["dedelicious", "tomara-thomas"],
+    "seasonIds": ["UK-S05"],
+    "episodeIds": ["UK-S05-E05", "UK-S05-E06", "UK-S05-E08", "UK-S05-E09"]
+  },
+  {
+    "id": "uk-s05-no-cash-prize",
+    "title": "Series 5 airs amid UK prize scrutiny",
+    "summary": "Before Series 5 aired, the show faced public criticism that UK contestants receive no cash prize despite the cost of competing. Series 4 winner Danny Beard said they \"could have bought a house\" with the money spent preparing; Willam also called for the franchise to pay winners. The Series 5 prize remained non-cash.",
+    "tags": ["controversy", "production"],
+    "queenIds": [],
+    "seasonIds": ["UK-S05"],
+    "episodeIds": []
+  }
+]

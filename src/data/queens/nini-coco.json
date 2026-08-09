@@ -1,0 +1,45 @@
+{
+  "id": "nini-coco",
+  "name": "Nini Coco",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S18-E01",
+          "name": "Design a look from leftover past-season materials"
+        },
+        {
+          "episodeId": "US-S18-E08",
+          "name": "Snatch Game of Love Island"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S18-E01",
+          "song": "Enough (Miami)"
+        },
+        {
+          "episodeId": "US-S18-E12",
+          "song": "We Can't Be Friends (Wait for Your Love)"
+        },
+        {
+          "episodeId": "US-S18-E13",
+          "song": "Garden of Eden"
+        },
+        {
+          "episodeId": "US-S18-E14",
+          "song": "Super Graphic Ultra Modern Girl"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E16",
+          "song": "Every Girl You've Ever Loved"
+        }
+      ]
+    }
+  ]
+}

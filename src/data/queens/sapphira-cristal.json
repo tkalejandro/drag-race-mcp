@@ -1,0 +1,67 @@
+{
+  "id": "sapphira-cristal",
+  "name": "Sapphira Cristál",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S16-E01",
+          "name": "Perform a talent show for MTV Spring Break"
+        },
+        {
+          "episodeId": "US-S16-E10",
+          "name": "Write, record, and perform verses to Power"
+        },
+        {
+          "episodeId": "US-S16-E11",
+          "name": "Present drag awareness seminars"
+        },
+        {
+          "episodeId": "US-S16-E12",
+          "name": "Design paired bathrooms"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S16-E01",
+          "name": "Porch doorbell photoshoot"
+        },
+        {
+          "episodeId": "US-S16-E05",
+          "name": "Memoir cover photoshoot"
+        },
+        {
+          "episodeId": "US-S16-E11",
+          "name": "Spill the Tea superlatives"
+        },
+        {
+          "episodeId": "US-S16-E14",
+          "name": "Underwater Kitty Girl lip sync"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S16-E01",
+          "song": "Break My Soul"
+        },
+        {
+          "episodeId": "US-S16-E10",
+          "song": "Made You Look"
+        },
+        {
+          "episodeId": "US-S16-E13",
+          "song": "Miss Me More"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E16",
+          "song": "Padam Padam"
+        }
+      ],
+      "missCongeniality": true
+    }
+  ]
+}

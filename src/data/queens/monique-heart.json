@@ -1,0 +1,25 @@
+{
+  "id": "monique-heart",
+  "name": "Monique Heart",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S10-E03",
+          "name": "Perform in screen tests for Ru's provocative new RuPaul's Chocolate Bar campaign"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E07",
+          "song": "Cut to the Feeling"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E07"
+    }
+  ]
+}

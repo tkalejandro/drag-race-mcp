@@ -1,0 +1,24 @@
+{
+  "id": "copper-topp",
+  "name": "Copper Topp",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 10,
+      "eliminatedEpisodeId": "UK-S04-E03",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S04-E02",
+          "name": "Write, record, and perform verses to Come Alive"
+        }
+      ],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S04-E03", "name": "Naff-ta Awards" }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S04-E03", "song": "This Is Real" }
+      ]
+    }
+  ]
+}

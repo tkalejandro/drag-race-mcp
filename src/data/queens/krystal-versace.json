@@ -1,0 +1,37 @@
+{
+  "id": "krystal-versace",
+  "name": "Krystal Versace",
+  "appearances": [
+    {
+      "seasonId": "UK-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S03-E01",
+          "name": "Present two looks on the runway: Queen of Your Hometown and My Favourite Things"
+        },
+        {
+          "episodeId": "UK-S03-E02",
+          "name": "In teams, perform as dance instructors for the fitness concept Dragoton"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S03-E05",
+          "name": "RuPaul's Dog Race"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S03-E09",
+          "song": "Hallucinate"
+        },
+        {
+          "episodeId": "UK-S03-E10",
+          "song": "You Don't Own Me"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

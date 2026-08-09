@@ -1,0 +1,25 @@
+{
+  "id": "athena-dion",
+  "name": "Athena Dion",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "US-S18-E06",
+          "name": "Perform a talent show for Rate-A-Queen (group 2)"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E09",
+          "song": "Call Me When You Break Up"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E09"
+    }
+  ]
+}

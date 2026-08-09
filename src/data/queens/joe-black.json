@@ -1,0 +1,25 @@
+{
+  "id": "joe-black",
+  "name": "Joe Black",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 8,
+      "eliminatedEpisodeId": "UK-S02-E05",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S02-E01",
+          "song": "Relax"
+        },
+        {
+          "episodeId": "UK-S02-E05",
+          "song": "Don't Leave Me This Way"
+        }
+      ],
+      "reentered": true
+    }
+  ]
+}

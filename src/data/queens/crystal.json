@@ -1,0 +1,21 @@
+{
+  "id": "crystal",
+  "name": "Crystal",
+  "appearances": [
+    {
+      "seasonId": "UK-S01",
+      "placement": 6,
+      "eliminatedEpisodeId": "UK-S01-E05",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S01-E05", "name": "Reading is Fundamental" }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "UK-S01-E04", "song": "Spice Up Your Life" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S01-E05", "song": "Power" }
+      ]
+    }
+  ]
+}

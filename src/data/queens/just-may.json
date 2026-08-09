@@ -1,0 +1,17 @@
+{
+  "id": "just-may",
+  "name": "Just May",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 12,
+      "eliminatedEpisodeId": "UK-S04-E01",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S04-E01", "song": "Let Them Know" }
+      ]
+    }
+  ]
+}

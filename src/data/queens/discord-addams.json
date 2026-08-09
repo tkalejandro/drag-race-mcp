@@ -1,0 +1,29 @@
+{
+  "id": "discord-addams",
+  "name": "Discord Addams",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S18-E09",
+          "name": "Grindr, I Hardly Know Her"
+        },
+        {
+          "episodeId": "US-S18-E12",
+          "name": "Cowgirl bouncy-horse race"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E12",
+          "song": "We Can't Be Friends (Wait for Your Love)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E12"
+    }
+  ]
+}

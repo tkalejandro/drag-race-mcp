@@ -1,0 +1,30 @@
+{
+  "id": "black-peppa",
+  "name": "Black Peppa",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S04-E01",
+          "name": "Present two looks: BBC Keeping It 100 and Ru Are You?"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S04-E01",
+          "name": "Photoshoot inspired by the Spice Girls' Olympics performance"
+        },
+        { "episodeId": "UK-S04-E03", "name": "Naff-ta Awards" }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "UK-S04-E03", "song": "This Is Real" },
+        { "episodeId": "UK-S04-E06", "song": "Stop" },
+        { "episodeId": "UK-S04-E08", "song": "Some Kinda Rush" },
+        { "episodeId": "UK-S04-E09", "song": "Another One Bites the Dust" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

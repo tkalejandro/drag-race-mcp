@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ca-s04-venus-crown",
+    "title": "Venus wins Canada's Drag Race Season 4",
+    "summary": "In the Grand Finale (CA-S04-E09), Venus and Aurora Matrix lip-synced to Nelly Furtado's \"Try\". Venus was crowned the winner; Aurora finished as runner-up. Denim and Nearah Nuff were eliminated before the final lip sync. The season cash prize was $100,000 CAD.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["venus", "aurora-matrix", "denim", "nearah-nuff"],
+    "seasonIds": ["CA-S04"],
+    "episodeIds": ["CA-S04-E09"]
+  },
+  {
+    "id": "ca-s04-sisi-superstar-porkchop",
+    "title": "Sisi Superstar: Season 4 Porkchop",
+    "summary": "Sisi Superstar was the first contestant eliminated on Canada's Drag Race Season 4 (CA-S04-E02), after the premiere ball sent no one home. She lip-synced to Avril Lavigne's \"I'm with You\" against Luna DuBois.",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["sisi-superstar", "luna-dubois"],
+    "seasonIds": ["CA-S04"],
+    "episodeIds": ["CA-S04-E01", "CA-S04-E02"]
+  },
+  {
+    "id": "ca-s04-kitten-kaboodle-miss-c",
+    "title": "Kitten Kaboodle named Miss Congeniality",
+    "summary": "Kitten Kaboodle was voted Miss Congeniality on the official Canada's Drag Race Instagram page after the finale aired. She had been double-eliminated in CA-S04-E06's Lip Sync Slay Offs alongside Aimee Yonce Shennel after lip-syncing to Lara Fabian's \"I Will Love Again\".",
+    "tags": ["fan-favorite", "iconic"],
+    "queenIds": ["kitten-kaboodle", "aimee-yonce-shennel"],
+    "seasonIds": ["CA-S04"],
+    "episodeIds": ["CA-S04-E06", "CA-S04-E09"]
+  },
+  {
+    "id": "ca-s04-golden-beaver",
+    "title": "Golden Beaver saves bottom queens",
+    "summary": "From CA-S04-E02 onward, each maxi-challenge winner received the Golden Beaver and could save one of the bottom queens from lip-syncing. Saves included The Girlfriend Experience (E02), Kiki Coe (E03 and E05), Melinda Verga (E04), and Denim (E06).",
+    "tags": ["production", "iconic"],
+    "queenIds": [
+      "kitten-kaboodle",
+      "aurora-matrix",
+      "kiki-coe",
+      "melinda-verga",
+      "nearah-nuff",
+      "the-girlfriend-experience",
+      "denim"
+    ],
+    "seasonIds": ["CA-S04"],
+    "episodeIds": [
+      "CA-S04-E02",
+      "CA-S04-E03",
+      "CA-S04-E04",
+      "CA-S04-E05",
+      "CA-S04-E06"
+    ]
+  },
+  {
+    "id": "ca-s04-lip-sync-slay-offs",
+    "title": "Lip Sync Slay Offs double elimination",
+    "summary": "In CA-S04-E06, the queens competed in a lip-sync slay-off tournament. Nearah Nuff won the challenge and used the Golden Beaver to save Denim. Aimee Yonce Shennel, Kiki Coe, and Kitten Kaboodle then lip-synced to \"I Will Love Again\"; Kiki stayed, and Aimee and Kitten were both eliminated.",
+    "tags": ["lip-sync", "iconic"],
+    "queenIds": [
+      "nearah-nuff",
+      "denim",
+      "aimee-yonce-shennel",
+      "kiki-coe",
+      "kitten-kaboodle"
+    ],
+    "seasonIds": ["CA-S04"],
+    "episodeIds": ["CA-S04-E06"]
+  }
+]

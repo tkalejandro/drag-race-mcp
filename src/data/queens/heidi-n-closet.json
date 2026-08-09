@@ -1,0 +1,39 @@
+{
+  "id": "heidi-n-closet",
+  "name": "Heidi N Closet",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "US-S12-E08",
+          "name": "Create and market products for the new drag queen lifestyle brand Droop"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S12-E05",
+          "song": "Heart to Break"
+        },
+        {
+          "episodeId": "US-S12-E07",
+          "song": "Burning Up"
+        },
+        {
+          "episodeId": "US-S12-E10",
+          "song": "Kill the Lights"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S12-E11",
+          "song": "1999"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S12-E11",
+      "missCongeniality": true
+    }
+  ]
+}

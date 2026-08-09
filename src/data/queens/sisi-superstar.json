@@ -1,0 +1,20 @@
+{
+  "id": "sisi-superstar",
+  "name": "Sisi Superstar",
+  "appearances": [
+    {
+      "seasonId": "CA-S04",
+      "placement": 11,
+      "eliminatedEpisodeId": "CA-S04-E02",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S04-E02",
+          "song": "I'm with You"
+        }
+      ]
+    }
+  ]
+}

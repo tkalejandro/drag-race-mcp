@@ -1,0 +1,25 @@
+{
+  "id": "june-jambalaya",
+  "name": "June Jambalaya",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E01",
+          "song": "Water Me"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E03",
+          "song": "I Love It"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S14-E03"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dakota-schiffer",
+  "name": "Dakota Schiffer",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 6,
+      "eliminatedEpisodeId": "UK-S04-E07",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S04-E02",
+          "name": "Write, record, and perform verses to Come Alive"
+        },
+        {
+          "episodeId": "UK-S04-E03",
+          "name": "In pairs, create a look with the same colors and fabrics"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S04-E01", "song": "Let Them Know" },
+        { "episodeId": "UK-S04-E05", "song": "No Way" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S04-E07", "song": "Miss Me Blind" }
+      ]
+    }
+  ]
+}

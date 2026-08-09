@@ -1,0 +1,53 @@
+{
+  "id": "US-S09",
+  "franchise": "US",
+  "name": "RuPaul's Drag Race Season 9",
+  "seasonNumber": 9,
+  "year": 2017,
+  "episodeCount": 14,
+  "episodeIds": [
+    "US-S09-E01",
+    "US-S09-E02",
+    "US-S09-E03",
+    "US-S09-E04",
+    "US-S09-E05",
+    "US-S09-E06",
+    "US-S09-E07",
+    "US-S09-E08",
+    "US-S09-E09",
+    "US-S09-E10",
+    "US-S09-E11",
+    "US-S09-E12",
+    "US-S09-E13",
+    "US-S09-E14"
+  ],
+  "castIds": [
+    "sasha-velour",
+    "peppermint",
+    "shea-coulee",
+    "trinity-taylor",
+    "alexis-michelle",
+    "nina-bonina-brown",
+    "valentina",
+    "farrah-moan",
+    "aja",
+    "cynthia-lee-fontaine",
+    "eureka",
+    "charlie-hides",
+    "kimora-blac",
+    "jaymes-mansfield"
+  ],
+  "winnerId": "sasha-velour",
+  "runnerUpIds": ["peppermint"],
+  "missCongenialityId": "valentina",
+  "porkchopId": "jaymes-mansfield",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Carson Kressley" },
+    { "name": "Ross Mathews" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "USD" }
+}
