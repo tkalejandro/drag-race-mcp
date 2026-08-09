@@ -21,6 +21,8 @@ export {
   type KnowledgeBase,
 } from "./load.ts";
 
+export { assertKnowledgeBaseIntegrity } from "./integrity.ts";
+
 export {
   getQueen,
   getSeason,
