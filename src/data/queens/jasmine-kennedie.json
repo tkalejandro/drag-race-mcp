@@ -1,0 +1,33 @@
+{
+  "id": "jasmine-kennedie",
+  "name": "Jasmine Kennedie",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E06",
+          "song": "Suga Mama"
+        },
+        {
+          "episodeId": "US-S14-E08",
+          "song": "Un-Break My Heart (Soul-Hex Radio Mix)"
+        },
+        {
+          "episodeId": "US-S14-E09",
+          "song": "Something's Got a Hold on Me"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E11",
+          "song": "Swept Away"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S14-E11"
+    }
+  ]
+}

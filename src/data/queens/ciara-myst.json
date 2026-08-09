@@ -1,0 +1,20 @@
+{
+  "id": "ciara-myst",
+  "name": "Ciara Myst",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E06",
+          "song": "Toxic"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E06"
+    }
+  ]
+}

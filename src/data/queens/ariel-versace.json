@@ -1,0 +1,20 @@
+{
+  "id": "ariel-versace",
+  "name": "Ariel Versace",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S11-E05",
+          "song": "I'm Your Baby Tonight"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S11-E05"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kornbread-the-snack-jete",
+  "name": "Kornbread \"The Snack\" Jeté",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 12,
+      "challengeWins": [
+        {
+          "episodeId": "US-S14-E01",
+          "name": "Perform a talent show in front of the judges"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "US-S14-E05",
+      "quit": true,
+      "missCongeniality": true
+    }
+  ]
+}

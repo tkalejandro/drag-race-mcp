@@ -1,0 +1,362 @@
+[
+  {
+    "id": "US-S11-E01",
+    "seasonId": "US-S11",
+    "episodeNumber": 1,
+    "title": "Whatcha Unpackin?",
+    "miniChallenge": {
+      "name": "Photoshoot with past Drag Race queens",
+      "winnerIds": ["silky-nutmeg-ganache"]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit using materials belonging to former RuPaul's Drag Race queens",
+      "winnerIds": ["brooke-lynn-hytes"]
+    },
+    "topIds": [
+      "akeria-c-davenport",
+      "brooke-lynn-hytes",
+      "plastique-tiara",
+      "vanessa-vanjie-mateo"
+    ],
+    "bottomIds": ["kahanna-montrese", "soju"],
+    "lipSync": {
+      "song": "The Best of Both Worlds",
+      "queenIds": ["kahanna-montrese", "soju"],
+      "winnerIds": ["kahanna-montrese"],
+      "eliminatedIds": ["soju"]
+    },
+    "guestJudges": [{ "name": "Miley Cyrus" }]
+  },
+  {
+    "id": "US-S11-E02",
+    "seasonId": "US-S11",
+    "episodeNumber": 2,
+    "title": "Good God Girl, Get Out",
+    "miniChallenge": {
+      "name": "Photobomb iconic celebrity pictures",
+      "winnerIds": ["brooke-lynn-hytes", "silky-nutmeg-ganache"]
+    },
+    "maxiChallenge": {
+      "name": "Perform in drag film adaptations of Black Panther and Get Out",
+      "winnerIds": ["scarlet-envy", "yvie-oddly"]
+    },
+    "runwayTheme": "What's Your Sign?",
+    "topIds": [
+      "plastique-tiara",
+      "scarlet-envy",
+      "shuga-cain",
+      "yvie-oddly"
+    ],
+    "bottomIds": ["kahanna-montrese", "mercedes-iman-diamond"],
+    "lipSync": {
+      "song": "Work Bitch",
+      "queenIds": ["kahanna-montrese", "mercedes-iman-diamond"],
+      "winnerIds": ["mercedes-iman-diamond"],
+      "eliminatedIds": ["kahanna-montrese"]
+    },
+    "guestJudges": [
+      { "name": "Sydelle Noel" },
+      { "name": "Bobby Moynihan" }
+    ]
+  },
+  {
+    "id": "US-S11-E03",
+    "seasonId": "US-S11",
+    "episodeNumber": 3,
+    "title": "Diva Worship",
+    "miniChallenge": {
+      "name": "Seduce your way into a Seduction concert",
+      "winnerIds": ["nina-west", "ra-jah-ohara"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, star in a she-vangelical talk show worshiping a diva",
+      "winnerIds": ["nina-west"]
+    },
+    "runwayTheme": "Fringe",
+    "topIds": ["nina-west"],
+    "bottomIds": [
+      "akeria-c-davenport",
+      "honey-davenport",
+      "plastique-tiara",
+      "ra-jah-ohara",
+      "scarlet-envy",
+      "shuga-cain"
+    ],
+    "lipSync": {
+      "song": "Waiting for Tonight (Hex Hector Mix)",
+      "queenIds": [
+        "akeria-c-davenport",
+        "honey-davenport",
+        "plastique-tiara",
+        "ra-jah-ohara",
+        "scarlet-envy",
+        "shuga-cain"
+      ],
+      "winnerIds": [
+        "akeria-c-davenport",
+        "plastique-tiara",
+        "ra-jah-ohara",
+        "scarlet-envy",
+        "shuga-cain"
+      ],
+      "eliminatedIds": ["honey-davenport"]
+    },
+    "guestJudges": [
+      { "name": "Guillermo Díaz" },
+      { "name": "Troye Sivan" }
+    ]
+  },
+  {
+    "id": "US-S11-E04",
+    "seasonId": "US-S11",
+    "episodeNumber": 4,
+    "title": "Trump: The Rusical",
+    "miniChallenge": {
+      "name": "Why You Maddow, Tho?",
+      "winnerIds": ["scarlet-envy"]
+    },
+    "maxiChallenge": {
+      "name": "Trump: The Rusical",
+      "winnerIds": ["silky-nutmeg-ganache"]
+    },
+    "runwayTheme": "Orange Alert",
+    "topIds": ["brooke-lynn-hytes", "silky-nutmeg-ganache", "yvie-oddly"],
+    "bottomIds": ["mercedes-iman-diamond", "ra-jah-ohara"],
+    "lipSync": {
+      "song": "Living in America",
+      "queenIds": ["mercedes-iman-diamond", "ra-jah-ohara"],
+      "winnerIds": ["ra-jah-ohara"],
+      "eliminatedIds": ["mercedes-iman-diamond"]
+    },
+    "guestJudges": [
+      { "name": "Tiffany Pollard" },
+      { "name": "Joel McHale" }
+    ]
+  },
+  {
+    "id": "US-S11-E05",
+    "seasonId": "US-S11",
+    "episodeNumber": 5,
+    "title": "Monster Ball",
+    "miniChallenge": {
+      "name": "Create a living doll",
+      "winnerIds": ["ra-jah-ohara"]
+    },
+    "maxiChallenge": {
+      "name": "The Monster Ball",
+      "winnerIds": ["brooke-lynn-hytes"]
+    },
+    "runwayTheme": "Trampy Trick or Treater, Witch Please!, and MILF Eleganza",
+    "topIds": ["brooke-lynn-hytes", "plastique-tiara", "yvie-oddly"],
+    "bottomIds": ["ariel-versace", "shuga-cain"],
+    "lipSync": {
+      "song": "I'm Your Baby Tonight",
+      "queenIds": ["ariel-versace", "shuga-cain"],
+      "winnerIds": ["shuga-cain"],
+      "eliminatedIds": ["ariel-versace"]
+    },
+    "guestJudges": [
+      { "name": "Cara Delevingne" },
+      { "name": "Elvira" }
+    ]
+  },
+  {
+    "id": "US-S11-E06",
+    "seasonId": "US-S11",
+    "episodeNumber": 6,
+    "title": "The Draglympics",
+    "miniChallenge": {
+      "name": "Galisthenics with Love Connie",
+      "winnerIds": ["akeria-c-davenport", "plastique-tiara"]
+    },
+    "maxiChallenge": {
+      "name": "Perform in a free-style floor performance which includes Fanography, Voguing and Shablam",
+      "winnerIds": ["akeria-c-davenport"]
+    },
+    "runwayTheme": "All That Glitters is Gold",
+    "topIds": ["akeria-c-davenport"],
+    "bottomIds": ["ra-jah-ohara", "scarlet-envy"],
+    "lipSync": {
+      "song": "Last Dance",
+      "queenIds": ["ra-jah-ohara", "scarlet-envy"],
+      "winnerIds": ["ra-jah-ohara"],
+      "eliminatedIds": ["scarlet-envy"]
+    },
+    "guestJudges": [
+      { "name": "Travis Wall" },
+      { "name": "Mirai Nagasu" },
+      { "name": "Adam Rippon" }
+    ]
+  },
+  {
+    "id": "US-S11-E07",
+    "seasonId": "US-S11",
+    "episodeNumber": 7,
+    "title": "From Farm to Runway",
+    "miniChallenge": {
+      "name": "Participate in a potato sack race serving boob-ography",
+      "winnerIds": ["nina-west", "shuga-cain"]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit made out of organic materials",
+      "winnerIds": ["plastique-tiara"]
+    },
+    "runwayTheme": "Farm to Runway",
+    "topIds": ["brooke-lynn-hytes", "plastique-tiara", "yvie-oddly"],
+    "bottomIds": ["akeria-c-davenport", "ra-jah-ohara"],
+    "lipSync": {
+      "song": "Strut",
+      "queenIds": ["akeria-c-davenport", "ra-jah-ohara"],
+      "winnerIds": ["akeria-c-davenport"],
+      "eliminatedIds": ["ra-jah-ohara"]
+    },
+    "guestJudges": [
+      { "name": "Kandi Burruss" },
+      { "name": "Amber Valletta" }
+    ]
+  },
+  {
+    "id": "US-S11-E08",
+    "seasonId": "US-S11",
+    "episodeNumber": 8,
+    "title": "Snatch Game at Sea",
+    "miniChallenge": {
+      "name": "Pitch your own Self-Help Book",
+      "winnerIds": ["silky-nutmeg-ganache"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game at Sea",
+      "winnerIds": ["silky-nutmeg-ganache"]
+    },
+    "runwayTheme": "Sequins on the Runway",
+    "topIds": ["nina-west", "shuga-cain", "silky-nutmeg-ganache"],
+    "bottomIds": ["brooke-lynn-hytes", "yvie-oddly"],
+    "lipSync": {
+      "song": "Sorry Not Sorry",
+      "queenIds": ["brooke-lynn-hytes", "yvie-oddly"],
+      "winnerIds": ["brooke-lynn-hytes", "yvie-oddly"]
+    },
+    "guestJudges": [
+      { "name": "Tony Hale" },
+      { "name": "Clea DuVall" }
+    ]
+  },
+  {
+    "id": "US-S11-E09",
+    "seasonId": "US-S11",
+    "episodeNumber": 9,
+    "title": "L.A.D.P.!",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["brooke-lynn-hytes"]
+    },
+    "maxiChallenge": {
+      "name": "In pairs, perform in an improvised comedy police sketch for Los Angeles Drag Patrol (L.A.D.P.)",
+      "winnerIds": ["akeria-c-davenport"]
+    },
+    "runwayTheme": "Face-Kini Fantasy",
+    "topIds": [
+      "akeria-c-davenport",
+      "brooke-lynn-hytes",
+      "silky-nutmeg-ganache"
+    ],
+    "bottomIds": ["plastique-tiara", "vanessa-vanjie-mateo"],
+    "lipSync": {
+      "song": "Hood Boy",
+      "queenIds": ["plastique-tiara", "vanessa-vanjie-mateo"],
+      "winnerIds": ["vanessa-vanjie-mateo"],
+      "eliminatedIds": ["plastique-tiara"]
+    },
+    "guestJudges": [
+      { "name": "Fortune Feimster" },
+      { "name": "Cheyenne Jackson" },
+      { "name": "Natasha Lyonne" }
+    ]
+  },
+  {
+    "id": "US-S11-E10",
+    "seasonId": "US-S11",
+    "episodeNumber": 10,
+    "title": "Dragracadabra",
+    "miniChallenge": {
+      "name": "Balls to the Wall",
+      "winnerIds": ["vanessa-vanjie-mateo"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, perform a magic show in front of the judges and a live audience",
+      "winnerIds": ["nina-west"]
+    },
+    "runwayTheme": "Caftan Realness",
+    "topIds": ["brooke-lynn-hytes", "nina-west"],
+    "bottomIds": ["shuga-cain", "vanessa-vanjie-mateo"],
+    "lipSync": {
+      "song": "No More Drama",
+      "queenIds": ["shuga-cain", "vanessa-vanjie-mateo"],
+      "winnerIds": ["vanessa-vanjie-mateo"],
+      "eliminatedIds": ["shuga-cain"]
+    },
+    "guestJudges": [
+      { "name": "Katherine Langford" },
+      { "name": "Gina Rodriguez" }
+    ]
+  },
+  {
+    "id": "US-S11-E11",
+    "seasonId": "US-S11",
+    "episodeNumber": 11,
+    "title": "Bring Back My Queens!",
+    "miniChallenge": {
+      "name": "Attempt to make the other queens slap them",
+      "winnerIds": ["brooke-lynn-hytes"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover the eliminated queens",
+      "winnerIds": ["brooke-lynn-hytes"]
+    },
+    "runwayTheme": "Drag Family Values",
+    "topIds": [
+      "akeria-c-davenport",
+      "brooke-lynn-hytes",
+      "vanessa-vanjie-mateo"
+    ],
+    "bottomIds": ["nina-west", "silky-nutmeg-ganache"],
+    "lipSync": {
+      "song": "No Scrubs",
+      "queenIds": ["nina-west", "silky-nutmeg-ganache"],
+      "winnerIds": ["silky-nutmeg-ganache"],
+      "eliminatedIds": ["nina-west"]
+    },
+    "guestJudges": [
+      { "name": "Lena Waithe" },
+      { "name": "Wanda Sykes" }
+    ]
+  },
+  {
+    "id": "US-S11-E12",
+    "seasonId": "US-S11",
+    "episodeNumber": 12,
+    "title": "Queens Everywhere",
+    "runwayTheme": "Best Drag",
+    "topIds": ["akeria-c-davenport", "yvie-oddly"],
+    "bottomIds": ["brooke-lynn-hytes", "vanessa-vanjie-mateo"],
+    "lipSync": {
+      "song": "Pride (A Deeper Love)",
+      "queenIds": ["brooke-lynn-hytes", "vanessa-vanjie-mateo"],
+      "winnerIds": ["brooke-lynn-hytes"],
+      "eliminatedIds": ["vanessa-vanjie-mateo"]
+    },
+    "guestJudges": [{ "name": "Todrick Hall" }]
+  },
+  {
+    "id": "US-S11-E13",
+    "seasonId": "US-S11",
+    "episodeNumber": 13,
+    "title": "Reunited"
+  },
+  {
+    "id": "US-S11-E14",
+    "seasonId": "US-S11",
+    "episodeNumber": 14,
+    "title": "Grand Finale"
+  }
+]

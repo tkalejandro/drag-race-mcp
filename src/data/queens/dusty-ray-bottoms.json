@@ -1,0 +1,20 @@
+{
+  "id": "dusty-ray-bottoms",
+  "name": "Dusty Ray Bottoms",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E04",
+          "song": "Pound the Alarm"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E04"
+    }
+  ]
+}

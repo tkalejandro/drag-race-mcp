@@ -1,0 +1,46 @@
+{
+  "id": "cynthia-lee-fontaine",
+  "name": "Cynthia Lee Fontaine",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S08-E02",
+          "name": "Latin dance-off to Cha Cha Bitch"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S08-E03",
+          "song": "Mesmerized (Freemasons Radio Edit)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S08-E03",
+      "missCongeniality": true
+    },
+    {
+      "seasonId": "US-S09",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E05",
+          "song": "Woman Up"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S09-E06",
+          "song": "Music"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S09-E06",
+      "reentered": true
+    }
+  ]
+}

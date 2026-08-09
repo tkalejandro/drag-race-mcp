@@ -1,0 +1,25 @@
+{
+  "id": "briar-blush",
+  "name": "Briar Blush",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S18-E03",
+          "song": "Love in Real Life"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E04",
+          "song": "Lights Camera Action"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E04"
+    }
+  ]
+}

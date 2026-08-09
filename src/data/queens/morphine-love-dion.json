@@ -1,0 +1,46 @@
+{
+  "id": "morphine-love-dion",
+  "name": "Morphine Love Dion",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S16-E15",
+          "name": "Compete in a Lip Sync LaLaPaRuZa Smackdown tournament for eliminated queens"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S16-E08",
+          "song": "I Wanna Dance with Somebody (Who Loves Me)"
+        },
+        {
+          "episodeId": "US-S16-E11",
+          "song": "Dim All the Lights"
+        },
+        {
+          "episodeId": "US-S16-E12",
+          "song": "Body"
+        },
+        {
+          "episodeId": "US-S16-E15",
+          "song": "Gonna Make You Sweat"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E10",
+          "song": "Made You Look"
+        },
+        {
+          "episodeId": "US-S16-E13",
+          "song": "Miss Me More"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S16-E13"
+    }
+  ]
+}

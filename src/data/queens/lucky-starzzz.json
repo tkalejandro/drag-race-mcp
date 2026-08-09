@@ -1,0 +1,20 @@
+{
+  "id": "lucky-starzzz",
+  "name": "Lucky Starzzz",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E03",
+          "song": "(It's Just) The Way That You Love Me"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E03"
+    }
+  ]
+}

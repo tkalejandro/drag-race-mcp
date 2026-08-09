@@ -1,0 +1,20 @@
+{
+  "id": "mirage",
+  "name": "Mirage",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E04",
+          "song": "Dark Lady"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S16-E04"
+    }
+  ]
+}

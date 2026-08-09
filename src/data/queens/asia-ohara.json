@@ -1,0 +1,49 @@
+{
+  "id": "asia-ohara",
+  "name": "Asia O'Hara",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S10-E03",
+          "name": "In teams, film ads for new dating apps"
+        },
+        {
+          "episodeId": "US-S10-E09",
+          "name": "Act in the new hit series \"Breastworld\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S10-E02",
+          "name": "Participate in the \"Hay Girl Hay\" hoedown"
+        },
+        {
+          "episodeId": "US-S10-E06",
+          "name": "Identify objects by only sitting on them"
+        },
+        {
+          "episodeId": "US-S10-E08",
+          "name": "Attempt to make RuPaul slap them"
+        },
+        {
+          "episodeId": "US-S10-E11",
+          "name": "Decorate a pancake in edible drag"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S10-E08",
+          "song": "Groove Is in the Heart"
+        },
+        {
+          "episodeId": "US-S10-E12",
+          "song": "Call Me Mother"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

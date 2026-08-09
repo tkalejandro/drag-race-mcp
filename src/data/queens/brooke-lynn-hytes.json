@@ -1,0 +1,49 @@
+{
+  "id": "brooke-lynn-hytes",
+  "name": "Brooke Lynn Hytes",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S11-E01",
+          "name": "Create an outfit using materials belonging to former RuPaul's Drag Race queens"
+        },
+        {
+          "episodeId": "US-S11-E05",
+          "name": "The Monster Ball"
+        },
+        {
+          "episodeId": "US-S11-E11",
+          "name": "Makeover the eliminated queens"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S11-E02",
+          "name": "Photobomb iconic celebrity pictures"
+        },
+        {
+          "episodeId": "US-S11-E09",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "US-S11-E11",
+          "name": "Attempt to make the other queens slap them"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S11-E08",
+          "song": "Sorry Not Sorry"
+        },
+        {
+          "episodeId": "US-S11-E12",
+          "song": "Pride (A Deeper Love)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

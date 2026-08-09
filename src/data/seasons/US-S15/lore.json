@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sasha-colby-s15-crown",
+    "title": "Sasha Colby wins Season 15",
+    "summary": "In the Grand Finale (US-S15-E16), Sasha Colby was crowned America's Next Drag Superstar after a Lip Sync for the Crown to \"Knock on Wood\" against Anetra. Luxx Noir London and Mistress Isabelle Brooks placed third after the final four cut. The Season 15 cash prize was $200,000. Malaysia Babydoll Foxx was announced as Miss Congeniality.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "sasha-colby",
+      "anetra",
+      "luxx-noir-london",
+      "mistress-isabelle-brooks",
+      "malaysia-babydoll-foxx"
+    ],
+    "seasonIds": ["US-S15"],
+    "episodeIds": ["US-S15-E16"]
+  },
+  {
+    "id": "sugar-spice-first-twins-s15",
+    "title": "Sugar and Spice become the first twin contestants",
+    "summary": "Season 15 cast identical twins Sugar and Spice as individual contestants — the first twins to compete on RuPaul's Drag Race. Sugar was eliminated on Supersized Snatch Game (US-S15-E04) after a lip sync to \"You Better Run\"; Spice was eliminated on The Crystal Ball (US-S15-E09) after being saved earlier by Anetra during the LaLaPaRuZa (US-S15-E08).",
+    "tags": ["iconic", "production", "sisterhood"],
+    "queenIds": ["sugar", "spice", "anetra"],
+    "seasonIds": ["US-S15"],
+    "episodeIds": ["US-S15-E04", "US-S15-E08", "US-S15-E09"]
+  },
+  {
+    "id": "anetra-mistress-double-shantay-s15",
+    "title": "Anetra and Mistress Isabelle Brooks double shantay",
+    "summary": "On Blame It on the Edit (US-S15-E14), Anetra and Mistress Isabelle Brooks lip-synced to \"When Love Takes Over.\" Both were declared winners and neither was eliminated — a double shantay that kept the Top 4 intact heading into the reunion and finale.",
+    "tags": ["double-shantay", "lip-sync", "iconic"],
+    "queenIds": ["anetra", "mistress-isabelle-brooks"],
+    "seasonIds": ["US-S15"],
+    "episodeIds": ["US-S15-E14"]
+  }
+]

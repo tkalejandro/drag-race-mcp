@@ -1,0 +1,29 @@
+{
+  "id": "jax",
+  "name": "Jax",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S15-E06",
+          "song": "In Your Room"
+        },
+        {
+          "episodeId": "US-S15-E07",
+          "song": "Sweetest Pie"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E08",
+          "song": "Finally"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E08"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "jewels-sparkles",
+  "name": "Jewels Sparkles",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S17-E09",
+          "name": "Design looks inspired by a Betsey Johnson collection"
+        },
+        {
+          "episodeId": "US-S17-E14",
+          "name": "Audition for Drag Race Live!"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S17-E12",
+          "name": "Duo Drag Race bios"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S17-E10",
+          "song": "Ya Ya"
+        },
+        {
+          "episodeId": "US-S17-E13",
+          "song": "1 Thing"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E01",
+          "song": "Woman's World"
+        },
+        {
+          "episodeId": "US-S17-E16",
+          "song": "Abracadabra"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "lady-camden",
+  "name": "Lady Camden",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S14-E07",
+          "name": "Act in an 80s soap opera called The Daytona Wind"
+        },
+        {
+          "episodeId": "US-S14-E12",
+          "name": "Moulin Ru: The Rusical"
+        },
+        {
+          "episodeId": "US-S14-E14",
+          "name": "Write, record, and perform verses to RuPaul's Catwalk"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S14-E13",
+          "name": "In teams, paint a mural of Dolly Parton or RuPaul"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E07",
+          "song": "One Way or Another"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

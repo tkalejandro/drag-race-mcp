@@ -1,0 +1,49 @@
+{
+  "id": "anetra",
+  "name": "Anetra",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S15-E02",
+          "name": "Perform a talent show in front of the judges"
+        },
+        {
+          "episodeId": "US-S15-E12",
+          "name": "Wigloose: The Rusical!"
+        },
+        {
+          "episodeId": "US-S15-E13",
+          "name": "Make over teachers into drag family members"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S15-E09",
+          "name": "Photobomb iconic Drag Race moments"
+        },
+        {
+          "episodeId": "US-S15-E11",
+          "name": "Harlem Vogue Ball"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S15-E08",
+          "song": "Finally"
+        },
+        {
+          "episodeId": "US-S15-E11",
+          "song": "Boss Bitch"
+        },
+        {
+          "episodeId": "US-S15-E14",
+          "song": "When Love Takes Over"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

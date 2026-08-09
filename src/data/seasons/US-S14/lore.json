@@ -1,0 +1,45 @@
+[
+  {
+    "id": "willow-pill-s14-crown",
+    "title": "Willow Pill wins Season 14",
+    "summary": "In the Grand Finale (US-S14-E16), Willow Pill was crowned America's Next Drag Superstar after a Lip Sync for the Crown against Lady Camden. She became the first transgender woman to win the main US franchise. Angeria Paris VanMicheals, Bosco, and Daya Betty placed third after the final five cut. The Season 14 cash prize was $150,000. Kornbread \"The Snack\" Jeté was announced as Miss Congeniality.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "willow-pill",
+      "lady-camden",
+      "angeria-paris-vanmicheals",
+      "bosco",
+      "daya-betty",
+      "kornbread-the-snack-jete"
+    ],
+    "seasonIds": ["US-S14"],
+    "episodeIds": ["US-S14-E16"]
+  },
+  {
+    "id": "s14-chocolate-bar-twist",
+    "title": "Season 14 chocolate bar twist",
+    "summary": "On A Pair of Balls (US-S14-E03), RuPaul introduced a chocolate bar twist: each queen received a bar, one of which hid a golden ticket. After losing a Lip Sync for Your Life, a queen opened her bar; a plain bar meant elimination, while the golden bar meant a save. The twist ended on Moulin Ru: The Rusical (US-S14-E12), when Bosco revealed the golden bar and was saved after losing to Jorgeous.",
+    "tags": ["twist", "production", "iconic"],
+    "queenIds": ["bosco", "jorgeous"],
+    "seasonIds": ["US-S14"],
+    "episodeIds": ["US-S14-E03", "US-S14-E12"]
+  },
+  {
+    "id": "kornbread-miss-congeniality-injury-s14",
+    "title": "Kornbread withdraws and is named Miss Congeniality",
+    "summary": "Kornbread \"The Snack\" Jeté withdrew from Save a Queen (US-S14-E05) after an ankle injury sustained the prior week. She was later voted Miss Congeniality by her Season 14 sisters and announced at the Grand Finale (US-S14-E16), becoming the first transgender contestant to win the title.",
+    "tags": ["quit", "fan-favorite", "finale", "heartbreak"],
+    "queenIds": ["kornbread-the-snack-jete"],
+    "seasonIds": ["US-S14"],
+    "episodeIds": ["US-S14-E05", "US-S14-E16"]
+  },
+  {
+    "id": "deja-jorgeous-double-sashay-s14",
+    "title": "DeJa Skye and Jorgeous double sashay",
+    "summary": "On The Ross Mathews Roast (US-S14-E13), Daya Betty, DeJa Skye, and Jorgeous lip-synced to Olivia Rodrigo's \"Good 4 U.\" Daya Betty won; DeJa Skye and Jorgeous were both eliminated in a double sashay, finishing tied for sixth/seventh.",
+    "tags": ["double-sashay", "lip-sync", "iconic"],
+    "queenIds": ["daya-betty", "deja-skye", "jorgeous"],
+    "seasonIds": ["US-S14"],
+    "episodeIds": ["US-S14-E13"]
+  }
+]

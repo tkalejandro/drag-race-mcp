@@ -1,0 +1,25 @@
+{
+  "id": "tamisha-iman",
+  "name": "Tamisha Iman",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S13-E06",
+          "name": "Create eye-popping dresses made from wallpaper"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E06",
+          "song": "Hit 'Em Up Style (Oops!)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S13-E06"
+    }
+  ]
+}

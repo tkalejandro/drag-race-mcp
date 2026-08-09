@@ -1,0 +1,29 @@
+{
+  "id": "vita-vontesse-starr",
+  "name": "Vita VonTesse Starr",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "US-S18-E04",
+          "name": "Design red carpet mashup looks in pairs"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E01",
+          "song": "Enough (Miami)"
+        },
+        {
+          "episodeId": "US-S18-E07",
+          "song": "Houdini"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E07"
+    }
+  ]
+}

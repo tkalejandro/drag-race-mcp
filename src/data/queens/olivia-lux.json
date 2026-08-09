@@ -1,0 +1,38 @@
+{
+  "id": "olivia-lux",
+  "name": "Olivia Lux",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S13-E06",
+          "name": "Perform in a disco-themed dance documentary"
+        },
+        {
+          "episodeId": "US-S13-E07",
+          "name": "Improvise in the Bossy Rossy After Dark talk show"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S13-E10",
+          "song": "Shackles (Praise You)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E02",
+          "song": "Break My Heart"
+        },
+        {
+          "episodeId": "US-S13-E13",
+          "song": "Strong Enough"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S13-E13"
+    }
+  ]
+}

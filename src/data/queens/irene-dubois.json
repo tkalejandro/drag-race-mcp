@@ -1,0 +1,25 @@
+{
+  "id": "irene-dubois",
+  "name": "Irene Dubois",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 16,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S15-E01",
+          "name": "Sexy Car Wash and Windy Hog photoshoots"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E02",
+          "song": "7 Rings"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E02"
+    }
+  ]
+}

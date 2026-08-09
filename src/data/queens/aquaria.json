@@ -1,0 +1,41 @@
+{
+  "id": "aquaria",
+  "name": "Aquaria",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S10-E04",
+          "name": "The Last Ball on Earth"
+        },
+        {
+          "episodeId": "US-S10-E07",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "US-S10-E11",
+          "name": "Present two characters on the runway: Best Self and Evil Twin"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S10-E04",
+          "name": "Photobomb iconic celebrity pictures"
+        },
+        {
+          "episodeId": "US-S10-E09",
+          "name": "Find matching pairs of pit crew's underwear"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S10-E12",
+          "song": "Call Me Mother"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

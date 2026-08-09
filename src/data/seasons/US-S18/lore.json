@@ -1,0 +1,52 @@
+[
+  {
+    "id": "myki-meeks-s18-crown",
+    "title": "Myki Meeks wins Season 18",
+    "summary": "In the Grand Finale (US-S18-E16), Myki Meeks was crowned America's Next Drag Superstar after a Lip Sync for the Crown to \"Every Girl You've Ever Loved\" against Nini Coco. Darlene Mitchell placed third after the final three cut. The Season 18 cash prize was $200,000. Jane Don't was announced as Miss Congeniality.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "myki-meeks",
+      "nini-coco",
+      "darlene-mitchell",
+      "jane-dont"
+    ],
+    "seasonIds": ["US-S18"],
+    "episodeIds": ["US-S18-E16"]
+  },
+  {
+    "id": "jane-dont-miss-congeniality-s18",
+    "title": "Jane Don't is Season 18 Miss Congeniality",
+    "summary": "At the Grand Finale (US-S18-E16), Jane Don't was announced as Season 18's Miss Congeniality after being eliminated on Karens Gone Wild (US-S18-E13).",
+    "tags": ["fan-favorite", "finale"],
+    "queenIds": ["jane-dont"],
+    "seasonIds": ["US-S18"],
+    "episodeIds": ["US-S18-E13", "US-S18-E16"]
+  },
+  {
+    "id": "juicy-love-dion-sdadhh-s18",
+    "title": "Juicy Love Dion wins the Season 18 All RuPaul-A-Paruza",
+    "summary": "On All RuPaul-A-Paruza Smackdown (US-S18-E15), eliminated queens returned for a RuPaul-song lip sync tournament. Briar Blush did not compete for medical reasons. Juicy Love Dion won the smackdown and was named SDADHH after defeating Mia Starr in the final round to \"Cover Girl,\" earning a $50,000 prize.",
+    "tags": ["lip-sync", "return", "iconic"],
+    "queenIds": ["juicy-love-dion", "mia-starr", "briar-blush"],
+    "seasonIds": ["US-S18"],
+    "episodeIds": ["US-S18-E15"]
+  },
+  {
+    "id": "dd-fuego-porkchop-s18",
+    "title": "DD Fuego is Season 18's porkchop",
+    "summary": "On Q-Pop Girl Groups (US-S18-E02), DD Fuego lip-synced against Mandy Mango to \"Too Much\" and was the first queen eliminated, becoming Season 18's porkchop. Episode 1 had announced bottoms but cancelled the elimination in favor of a Top 2 lip sync for the win.",
+    "tags": ["porkchop", "lip-sync", "heartbreak", "twist"],
+    "queenIds": ["dd-fuego", "mandy-mango"],
+    "seasonIds": ["US-S18"],
+    "episodeIds": ["US-S18-E01", "US-S18-E02"]
+  },
+  {
+    "id": "juicy-mia-tied-lsfyw-s18",
+    "title": "Juicy Love Dion and Mia Starr tie a Lip Sync for the Win",
+    "summary": "On The Rate-A-Queen Talent Show, Part 1 (US-S18-E05), Juicy Love Dion and Mia Starr lip-synced to \"Pretty Ugly\" for the win. Both were declared winners — a tied Top 2 outcome — while Ciara Myst's bottom placement was deferred to Part 2 (US-S18-E06).",
+    "tags": ["lip-sync", "iconic", "twist"],
+    "queenIds": ["juicy-love-dion", "mia-starr", "ciara-myst"],
+    "seasonIds": ["US-S18"],
+    "episodeIds": ["US-S18-E05", "US-S18-E06"]
+  }
+]

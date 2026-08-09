@@ -1,0 +1,47 @@
+{
+  "id": "US-S08",
+  "franchise": "US",
+  "name": "RuPaul's Drag Race Season 8",
+  "seasonNumber": 8,
+  "year": 2016,
+  "episodeCount": 10,
+  "episodeIds": [
+    "US-S08-E01",
+    "US-S08-E02",
+    "US-S08-E03",
+    "US-S08-E04",
+    "US-S08-E05",
+    "US-S08-E06",
+    "US-S08-E07",
+    "US-S08-E08",
+    "US-S08-E09",
+    "US-S08-E10"
+  ],
+  "castIds": [
+    "bob-the-drag-queen",
+    "kim-chi",
+    "naomi-smalls",
+    "chi-chi-devayne",
+    "derrick-barry",
+    "thorgy-thor",
+    "robbie-turner",
+    "acid-betty",
+    "naysha-lopez",
+    "cynthia-lee-fontaine",
+    "dax-exclamationpoint",
+    "laila-mcqueen"
+  ],
+  "winnerId": "bob-the-drag-queen",
+  "runnerUpIds": ["kim-chi", "naomi-smalls"],
+  "missCongenialityId": "cynthia-lee-fontaine",
+  "porkchopId": "naysha-lopez",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Carson Kressley" },
+    { "name": "Ross Mathews" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "USD" }
+}

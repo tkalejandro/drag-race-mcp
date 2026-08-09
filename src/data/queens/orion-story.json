@@ -1,0 +1,25 @@
+{
+  "id": "orion-story",
+  "name": "Orion Story",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E01",
+          "song": "Water Me"
+        },
+        {
+          "episodeId": "US-S14-E05",
+          "song": "My Head & My Heart"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S14-E05",
+      "reentered": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "laila-mcqueen",
+  "name": "Laila McQueen",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S08-E01",
+          "song": "Applause"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S08-E02",
+          "song": "I Will Survive"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S08-E02"
+    }
+  ]
+}

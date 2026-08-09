@@ -1,0 +1,20 @@
+{
+  "id": "alyssa-hunter",
+  "name": "Alyssa Hunter",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E04",
+          "song": "Play"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S14-E04"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "jaida-essence-hall-s12-crown",
+    "title": "Jaida Essence Hall wins Season 12",
+    "summary": "In the Grand Finale (US-S12-E14), Jaida Essence Hall was crowned America's Next Drag Superstar after a virtual Lip Sync for the Crown held remotely due to COVID-19. Crystal Methyd and Gigi Goode finished as runners-up. The Season 12 cash prize was $100,000. Heidi N Closet was announced as Miss Congeniality.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "jaida-essence-hall",
+      "crystal-methyd",
+      "gigi-goode",
+      "heidi-n-closet"
+    ],
+    "seasonIds": ["US-S12"],
+    "episodeIds": ["US-S12-E14"]
+  },
+  {
+    "id": "sherry-pie-disqualification",
+    "title": "Sherry Pie disqualified from Season 12",
+    "summary": "Before the season premiere finished airing, Sherry Pie was disqualified after multiple men publicly accused Joey Gugliemelli of catfishing and sexual misconduct. VH1 and World of Wonder confirmed the disqualification while still airing the filmed competition; Sherry did not appear in the reunion or finale and is recorded at 4th place. Challenge prize money from World's Worst (US-S12-E03) and Gay's Anatomy (US-S12-E05) was donated to The Trevor Project.",
+    "tags": ["controversy", "drama", "production"],
+    "queenIds": ["sherry-pie"],
+    "seasonIds": ["US-S12"],
+    "episodeIds": ["US-S12-E03", "US-S12-E05", "US-S12-E12"]
+  },
+  {
+    "id": "heidi-jackie-double-shantay-s12",
+    "title": "Heidi and Jackie's double shantay",
+    "summary": "On Superfan Makeover (US-S12-E10), Heidi N Closet and Jackie Cox lip-synced to \"Kill the Lights.\" Both were declared winners and neither was eliminated — a double shantay that kept the Top 6 intact.",
+    "tags": ["double-shantay", "lip-sync", "twist", "iconic"],
+    "queenIds": ["heidi-n-closet", "jackie-cox"],
+    "seasonIds": ["US-S12"],
+    "episodeIds": ["US-S12-E10"]
+  },
+  {
+    "id": "heidi-n-closet-miss-congeniality-s12",
+    "title": "Heidi N Closet named Miss Congeniality",
+    "summary": "Heidi N Closet was voted Miss Congeniality by her Season 12 sisters and announced at the Grand Finale (US-S12-E14), after being eliminated on One-Queen Show (US-S12-E11).",
+    "tags": ["fan-favorite", "finale", "iconic"],
+    "queenIds": ["heidi-n-closet"],
+    "seasonIds": ["US-S12"],
+    "episodeIds": ["US-S12-E11", "US-S12-E14"]
+  }
+]

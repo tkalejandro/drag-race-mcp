@@ -1,0 +1,31 @@
+{
+  "id": "valentina",
+  "name": "Valentina",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "US-S09-E02",
+          "name": "Compete in a cheerleading battle"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S09-E08",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S09-E09",
+          "song": "Greedy"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S09-E09",
+      "missCongeniality": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "joella",
+  "name": "Joella",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S17-E03",
+          "song": "(It's Just) The Way That You Love Me"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E04",
+          "song": "Buttons"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E04"
+    }
+  ]
+}

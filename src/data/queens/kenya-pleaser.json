@@ -1,0 +1,42 @@
+{
+  "id": "kenya-pleaser",
+  "name": "Kenya Pleaser",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S18-E01",
+          "name": "Scream queen photoshoot with masked dancers"
+        },
+        {
+          "episodeId": "US-S18-E09",
+          "name": "Grindr, I Hardly Know Her"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S18-E04",
+          "song": "Lights Camera Action"
+        },
+        {
+          "episodeId": "US-S18-E08",
+          "song": "Head Over Heels"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E10",
+          "song": "Feels Like Another One"
+        },
+        {
+          "episodeId": "US-S18-E11",
+          "song": "Total Eclipse of the Heart"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E11"
+    }
+  ]
+}

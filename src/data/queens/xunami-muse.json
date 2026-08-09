@@ -1,0 +1,29 @@
+{
+  "id": "xunami-muse",
+  "name": "Xunami Muse",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S16-E06",
+          "name": "Flamenco dance"
+        },
+        {
+          "episodeId": "US-S16-E08",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E08",
+          "song": "I Wanna Dance with Somebody (Who Loves Me)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S16-E08"
+    }
+  ]
+}

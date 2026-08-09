@@ -1,0 +1,29 @@
+{
+  "id": "brita",
+  "name": "Brita",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S12-E04",
+          "song": "S&M"
+        },
+        {
+          "episodeId": "US-S12-E06",
+          "song": "Let It Go"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S12-E07",
+          "song": "Burning Up"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S12-E07"
+    }
+  ]
+}

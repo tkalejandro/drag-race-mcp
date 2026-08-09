@@ -1,0 +1,25 @@
+{
+  "id": "kahanna-montrese",
+  "name": "Kahanna Montrese",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S11-E01",
+          "song": "The Best of Both Worlds"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S11-E02",
+          "song": "Work Bitch"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S11-E02"
+    }
+  ]
+}

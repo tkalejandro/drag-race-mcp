@@ -1,0 +1,39 @@
+{
+  "id": "daya-betty",
+  "name": "Daya Betty",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S14-E08",
+          "name": "Write, record, and perform verses as 60s-inspired girl groups"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S14-E13",
+          "name": "In teams, paint a mural of Dolly Parton or RuPaul"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E13",
+          "song": "Good 4 U"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S14-E02",
+          "song": "Fallin'"
+        },
+        {
+          "episodeId": "US-S14-E07",
+          "song": "One Way or Another"
+        }
+      ],
+      "reentered": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "malaysia-babydoll-foxx",
+  "name": "Malaysia Babydoll Foxx",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E10",
+          "song": "Single Ladies (Put a Ring on It)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E10",
+      "missCongeniality": true
+    }
+  ]
+}

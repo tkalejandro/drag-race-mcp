@@ -1,0 +1,285 @@
+[
+  {
+    "id": "US-S09-E01",
+    "seasonId": "US-S09",
+    "episodeNumber": 1,
+    "title": "Oh. My. Gaga!",
+    "maxiChallenge": {
+      "name": "Present two looks for the Miss Charisma, Uniqueness, Nerve and Talent Pageant: hometown and Lady Gaga inspired",
+      "winnerIds": ["nina-bonina-brown"]
+    },
+    "topIds": ["eureka", "nina-bonina-brown", "sasha-velour"],
+    "guestJudges": [{ "name": "Lady Gaga" }]
+  },
+  {
+    "id": "US-S09-E02",
+    "seasonId": "US-S09",
+    "episodeNumber": 2,
+    "title": "She Done Already Done Brought It On",
+    "maxiChallenge": {
+      "name": "Compete in a cheerleading battle",
+      "winnerIds": ["valentina"]
+    },
+    "runwayTheme": "White Party Realness",
+    "topIds": ["shea-coulee", "trinity-taylor", "valentina"],
+    "bottomIds": ["jaymes-mansfield", "kimora-blac"],
+    "lipSync": {
+      "song": "Love Shack",
+      "queenIds": ["jaymes-mansfield", "kimora-blac"],
+      "winnerIds": ["kimora-blac"],
+      "eliminatedIds": ["jaymes-mansfield"]
+    },
+    "guestJudges": [{ "name": "The B-52's" }]
+  },
+  {
+    "id": "US-S09-E03",
+    "seasonId": "US-S09",
+    "episodeNumber": 3,
+    "title": "Draggily Ever After",
+    "maxiChallenge": {
+      "name": "Create an original fairytale princess with a sassy sidekick",
+      "winnerIds": ["trinity-taylor"]
+    },
+    "runwayTheme": "Fairytale Princess Eleganza",
+    "topIds": ["peppermint", "trinity-taylor", "valentina"],
+    "bottomIds": ["aja", "kimora-blac"],
+    "lipSync": {
+      "song": "Holding Out for a Hero",
+      "queenIds": ["aja", "kimora-blac"],
+      "winnerIds": ["aja"],
+      "eliminatedIds": ["kimora-blac"]
+    },
+    "guestJudges": [
+      { "name": "Todrick Hall" },
+      { "name": "Cheyenne Jackson" }
+    ]
+  },
+  {
+    "id": "US-S09-E04",
+    "seasonId": "US-S09",
+    "episodeNumber": 4,
+    "title": "Good Morning Bitches",
+    "maxiChallenge": {
+      "name": "In teams, produce a live morning talk show",
+      "winnerIds": ["sasha-velour", "shea-coulee"]
+    },
+    "runwayTheme": "Naughty Nighties",
+    "topIds": ["sasha-velour", "shea-coulee"],
+    "bottomIds": ["charlie-hides", "trinity-taylor"],
+    "lipSync": {
+      "song": "I Wanna Go",
+      "queenIds": ["charlie-hides", "trinity-taylor"],
+      "winnerIds": ["trinity-taylor"],
+      "eliminatedIds": ["charlie-hides"]
+    },
+    "guestJudges": [
+      { "name": "Jeffrey Bowyer-Chapman" },
+      { "name": "Naya Rivera" }
+    ]
+  },
+  {
+    "id": "US-S09-E05",
+    "seasonId": "US-S09",
+    "episodeNumber": 5,
+    "title": "Reality Stars: The Musical",
+    "miniChallenge": {
+      "name": "Shoot a sexy selfie with the pit crew",
+      "winnerIds": ["alexis-michelle"]
+    },
+    "maxiChallenge": {
+      "name": "Kardashian: The Musical",
+      "winnerIds": ["shea-coulee"]
+    },
+    "runwayTheme": "Faux Fur Fabulous",
+    "topIds": ["alexis-michelle", "peppermint", "shea-coulee"],
+    "bottomIds": ["cynthia-lee-fontaine", "farrah-moan"],
+    "lipSync": {
+      "song": "Woman Up",
+      "queenIds": ["cynthia-lee-fontaine", "farrah-moan"],
+      "winnerIds": ["cynthia-lee-fontaine", "farrah-moan"]
+    },
+    "guestJudges": [
+      { "name": "Meghan Trainor" },
+      { "name": "Todrick Hall" }
+    ]
+  },
+  {
+    "id": "US-S09-E06",
+    "seasonId": "US-S09",
+    "episodeNumber": 6,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["alexis-michelle"]
+    },
+    "runwayTheme": "Night of a Thousand Madonnas",
+    "topIds": ["alexis-michelle", "nina-bonina-brown", "sasha-velour"],
+    "bottomIds": ["cynthia-lee-fontaine", "peppermint"],
+    "lipSync": {
+      "song": "Music",
+      "queenIds": ["cynthia-lee-fontaine", "peppermint"],
+      "winnerIds": ["peppermint"],
+      "eliminatedIds": ["cynthia-lee-fontaine"]
+    },
+    "guestJudges": [
+      { "name": "Candis Cayne" },
+      { "name": "Denis O'Hare" }
+    ]
+  },
+  {
+    "id": "US-S09-E07",
+    "seasonId": "US-S09",
+    "episodeNumber": 7,
+    "title": "9021-HO",
+    "maxiChallenge": {
+      "name": "Act in a 90210 parody spin-off titled 9021-HO",
+      "winnerIds": ["trinity-taylor"]
+    },
+    "runwayTheme": "Big Hair Everywhere",
+    "topIds": ["shea-coulee", "trinity-taylor", "valentina"],
+    "bottomIds": ["aja", "nina-bonina-brown"],
+    "lipSync": {
+      "song": "Finally",
+      "queenIds": ["aja", "nina-bonina-brown"],
+      "winnerIds": ["nina-bonina-brown"],
+      "eliminatedIds": ["aja"]
+    },
+    "guestJudges": [
+      { "name": "Jennie Garth" },
+      { "name": "Tori Spelling" }
+    ]
+  },
+  {
+    "id": "US-S09-E08",
+    "seasonId": "US-S09",
+    "episodeNumber": 8,
+    "title": "RuPaul Roast",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["valentina"]
+    },
+    "maxiChallenge": {
+      "name": "Perform a roast of Michelle Visage",
+      "winnerIds": ["peppermint"]
+    },
+    "topIds": ["peppermint", "sasha-velour", "shea-coulee"],
+    "bottomIds": ["alexis-michelle", "farrah-moan"],
+    "lipSync": {
+      "song": "Baby I'm Burnin'",
+      "queenIds": ["alexis-michelle", "farrah-moan"],
+      "winnerIds": ["alexis-michelle"],
+      "eliminatedIds": ["farrah-moan"]
+    },
+    "guestJudges": [
+      { "name": "Fortune Feimster" },
+      { "name": "Tamar Braxton" }
+    ]
+  },
+  {
+    "id": "US-S09-E09",
+    "seasonId": "US-S09",
+    "episodeNumber": 9,
+    "title": "Your Pilot's on Fire",
+    "maxiChallenge": {
+      "name": "In pairs, create, write, and star in their own TV pilots",
+      "winnerIds": ["sasha-velour", "shea-coulee"]
+    },
+    "runwayTheme": "Club Kid Couture",
+    "topIds": ["peppermint", "sasha-velour", "shea-coulee", "trinity-taylor"],
+    "bottomIds": ["nina-bonina-brown", "valentina"],
+    "lipSync": {
+      "song": "Greedy",
+      "queenIds": ["nina-bonina-brown", "valentina"],
+      "winnerIds": ["nina-bonina-brown"],
+      "eliminatedIds": ["valentina"]
+    },
+    "guestJudges": [
+      { "name": "Lisa Robertson" },
+      { "name": "Noah Galvin" }
+    ]
+  },
+  {
+    "id": "US-S09-E10",
+    "seasonId": "US-S09",
+    "episodeNumber": 10,
+    "title": "Makeovers: Crew Better Work",
+    "maxiChallenge": {
+      "name": "Makeover members of the RuPaul's Drag Race crew",
+      "winnerIds": ["trinity-taylor"]
+    },
+    "topIds": ["sasha-velour", "trinity-taylor"],
+    "bottomIds": ["nina-bonina-brown", "shea-coulee"],
+    "lipSync": {
+      "song": "Cool for the Summer",
+      "queenIds": ["nina-bonina-brown", "shea-coulee"],
+      "winnerIds": ["shea-coulee"],
+      "eliminatedIds": ["nina-bonina-brown"]
+    },
+    "guestJudges": [
+      { "name": "Kesha" },
+      { "name": "Zaldy" }
+    ]
+  },
+  {
+    "id": "US-S09-E11",
+    "seasonId": "US-S09",
+    "episodeNumber": 11,
+    "title": "Gayest Ball Ever",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["sasha-velour"]
+    },
+    "maxiChallenge": {
+      "name": "The Gayest Ball Ever",
+      "winnerIds": ["shea-coulee"]
+    },
+    "runwayTheme": "Rainbow-She-Better-Do, Sexy Unicorn, and Village People Eleganza Extravaganza",
+    "topIds": ["sasha-velour", "shea-coulee"],
+    "bottomIds": ["alexis-michelle", "peppermint"],
+    "lipSync": {
+      "song": "Macho Man",
+      "queenIds": ["alexis-michelle", "peppermint"],
+      "winnerIds": ["peppermint"],
+      "eliminatedIds": ["alexis-michelle"]
+    },
+    "guestJudges": [
+      { "name": "Andie MacDowell" },
+      { "name": "Joan Smalls" }
+    ]
+  },
+  {
+    "id": "US-S09-E12",
+    "seasonId": "US-S09",
+    "episodeNumber": 12,
+    "title": "Category Is",
+    "runwayTheme": "Best Drag",
+    "topIds": ["peppermint", "sasha-velour", "shea-coulee", "trinity-taylor"],
+    "lipSync": {
+      "song": "U Wear It Well",
+      "queenIds": [
+        "peppermint",
+        "sasha-velour",
+        "shea-coulee",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "peppermint",
+        "sasha-velour",
+        "shea-coulee",
+        "trinity-taylor"
+      ]
+    }
+  },
+  {
+    "id": "US-S09-E13",
+    "seasonId": "US-S09",
+    "episodeNumber": 13,
+    "title": "Reunited"
+  },
+  {
+    "id": "US-S09-E14",
+    "seasonId": "US-S09",
+    "episodeNumber": 14,
+    "title": "Grand Finale"
+  }
+]

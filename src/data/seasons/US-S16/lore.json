@@ -1,0 +1,29 @@
+[
+  {
+    "id": "nymphia-wind-s16-crown",
+    "title": "Nymphia Wind wins Season 16",
+    "summary": "In the Grand Finale (US-S16-E16), Nymphia Wind was crowned America's Next Drag Superstar after a Lip Sync for the Crown to \"Padam Padam\" against Sapphira Cristál. Plane Jane placed third after the final three cut. The Season 16 cash prize was $200,000.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["nymphia-wind", "sapphira-cristal", "plane-jane"],
+    "seasonIds": ["US-S16"],
+    "episodeIds": ["US-S16-E16"]
+  },
+  {
+    "id": "s16-tied-miss-congeniality",
+    "title": "Sapphira Cristál and Xunami Muse tie for Miss Congeniality",
+    "summary": "At the Grand Finale (US-S16-E16), Season 16 announced a tied Miss Congeniality between Sapphira Cristál and Xunami Muse — the first dual Miss Congeniality title on the main US series. The season record flags Sapphira Cristál as missCongenialityId.",
+    "tags": ["fan-favorite", "finale", "iconic"],
+    "queenIds": ["sapphira-cristal", "xunami-muse"],
+    "seasonIds": ["US-S16"],
+    "episodeIds": ["US-S16-E16"]
+  },
+  {
+    "id": "hershii-liqcour-jete-porkchop-s16",
+    "title": "Hershii LiqCour-Jeté is Season 16's porkchop",
+    "summary": "On The Mother of All Balls (US-S16-E03), Hershii LiqCour-Jeté lip-synced against Geneva Karr to Ava Max's \"Maybe You're the Problem\" and was the first queen eliminated, becoming Season 16's porkchop.",
+    "tags": ["porkchop", "lip-sync", "heartbreak"],
+    "queenIds": ["hershii-liqcour-jete", "geneva-karr"],
+    "seasonIds": ["US-S16"],
+    "episodeIds": ["US-S16-E03"]
+  }
+]

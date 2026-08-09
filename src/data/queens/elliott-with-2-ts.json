@@ -1,0 +1,30 @@
+{
+  "id": "elliott-with-2-ts",
+  "name": "Elliott with 2 Ts",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S13-E06",
+          "name": "Create eye-popping dresses made from wallpaper"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S13-E07",
+          "song": "Whole Lotta Woman"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E09",
+          "song": "Fascinated"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S13-E09"
+    }
+  ]
+}

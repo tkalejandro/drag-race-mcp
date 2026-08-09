@@ -1,0 +1,20 @@
+{
+  "id": "thorgy-thor",
+  "name": "Thorgy Thor",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S08-E07",
+          "song": "And I Am Telling You I'm Not Going"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S08-E07"
+    }
+  ]
+}

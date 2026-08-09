@@ -1,0 +1,24 @@
+{
+  "id": "crystal-methyd",
+  "name": "Crystal Methyd",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "US-S12-E11",
+          "name": "Create and perform in your own one-queen show"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S12-E12",
+          "song": "On the Floor"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

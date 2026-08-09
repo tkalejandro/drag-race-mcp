@@ -1,0 +1,20 @@
+{
+  "id": "hormona-lisa",
+  "name": "Hormona Lisa",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E06",
+          "song": "Get Him Back!"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E06"
+    }
+  ]
+}

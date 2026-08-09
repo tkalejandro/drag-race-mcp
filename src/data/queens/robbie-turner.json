@@ -1,0 +1,35 @@
+{
+  "id": "robbie-turner",
+  "name": "Robbie Turner",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "US-S08-E04",
+          "name": "Write, record, and perform 1980s New Wave girl-band verses"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S08-E01",
+          "name": "Photoshoot with past winners"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S08-E03",
+          "song": "Mesmerized (Freemasons Radio Edit)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S08-E06",
+          "song": "I Love It"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S08-E06"
+    }
+  ]
+}

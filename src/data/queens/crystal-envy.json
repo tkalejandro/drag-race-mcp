@@ -1,0 +1,25 @@
+{
+  "id": "crystal-envy",
+  "name": "Crystal Envy",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E02",
+          "song": "Alter Ego"
+        },
+        {
+          "episodeId": "US-S17-E07",
+          "song": "Hands to Myself"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E07",
+      "missCongeniality": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "denali",
+  "name": "Denali",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "US-S13-E03",
+          "name": "Write, record, and perform verses to Phenomenon"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S13-E03",
+          "song": "If U Seek Amy"
+        },
+        {
+          "episodeId": "US-S13-E04",
+          "song": "100% Pure Love"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E10",
+          "song": "Shackles (Praise You)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S13-E10"
+    }
+  ]
+}

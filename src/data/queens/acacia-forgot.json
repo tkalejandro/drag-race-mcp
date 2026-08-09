@@ -1,0 +1,25 @@
+{
+  "id": "acacia-forgot",
+  "name": "Acacia Forgot",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S17-E06",
+          "name": "ABH lipstick mouth relay"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E08",
+          "song": "Wet Dream"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E08"
+    }
+  ]
+}

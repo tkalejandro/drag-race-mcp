@@ -1,0 +1,20 @@
+{
+  "id": "charlie-hides",
+  "name": "Charlie Hides",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S09-E04",
+          "song": "I Wanna Go"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S09-E04"
+    }
+  ]
+}

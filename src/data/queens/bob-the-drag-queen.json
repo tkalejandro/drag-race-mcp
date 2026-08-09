@@ -1,0 +1,41 @@
+{
+  "id": "bob-the-drag-queen",
+  "name": "Bob the Drag Queen",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S08-E03",
+          "name": "Empire-inspired acting challenge"
+        },
+        {
+          "episodeId": "US-S08-E05",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "US-S08-E07",
+          "name": "Paired presidential smear campaign ads"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S08-E06",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S08-E08",
+          "song": "You Make Me Feel (Mighty Real)"
+        },
+        {
+          "episodeId": "US-S08-E09",
+          "song": "The Realness"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

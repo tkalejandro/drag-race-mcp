@@ -1,0 +1,28 @@
+{
+  "id": "luxx-noir-london",
+  "name": "Luxx Noir London",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S15-E05",
+          "name": "Design home-decor looks in fashion houses"
+        },
+        {
+          "episodeId": "US-S15-E11",
+          "name": "Perform paired stand-up comedy routines"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S15-E13",
+          "song": "For the Girls"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

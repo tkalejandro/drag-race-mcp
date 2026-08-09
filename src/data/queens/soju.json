@@ -1,0 +1,20 @@
+{
+  "id": "soju",
+  "name": "Soju",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 15,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S11-E01",
+          "song": "The Best of Both Worlds"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S11-E01"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "the-vixen",
+  "name": "The Vixen",
+  "appearances": [
+    {
+      "seasonId": "US-S10",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "US-S10-E02",
+          "name": "PharmaRusical"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S10-E02",
+          "name": "Participate in the \"Hay Girl Hay\" hoedown"
+        },
+        {
+          "episodeId": "US-S10-E05",
+          "name": "Create a military inspired outfit to enlist in the Drag Army"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S10-E06",
+          "song": "I'm Coming Out"
+        },
+        {
+          "episodeId": "US-S10-E07",
+          "song": "Cut to the Feeling"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S10-E08",
+          "song": "Groove Is in the Heart"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S10-E08"
+    }
+  ]
+}

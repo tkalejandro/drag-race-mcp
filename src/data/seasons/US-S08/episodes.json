@@ -1,0 +1,233 @@
+[
+  {
+    "id": "US-S08-E01",
+    "seasonId": "US-S08",
+    "episodeNumber": 1,
+    "title": "Keeping It 100!",
+    "miniChallenge": {
+      "name": "Photoshoot with past winners",
+      "winnerIds": ["robbie-turner"]
+    },
+    "maxiChallenge": {
+      "name": "Design a look based on a past-season design challenge",
+      "winnerIds": ["kim-chi"]
+    },
+    "topIds": ["acid-betty", "derrick-barry", "kim-chi"],
+    "bottomIds": ["laila-mcqueen", "naysha-lopez"],
+    "lipSync": {
+      "song": "Applause",
+      "queenIds": ["laila-mcqueen", "naysha-lopez"],
+      "winnerIds": ["laila-mcqueen"],
+      "eliminatedIds": ["naysha-lopez"]
+    },
+    "guestJudges": [{ "name": "Nicole Richie" }]
+  },
+  {
+    "id": "US-S08-E02",
+    "seasonId": "US-S08",
+    "episodeNumber": 2,
+    "title": "Bitch Perfect",
+    "miniChallenge": {
+      "name": "Latin dance-off to Cha Cha Bitch",
+      "winnerIds": ["chi-chi-devayne", "cynthia-lee-fontaine"]
+    },
+    "maxiChallenge": {
+      "name": "Collegiate a cappella sing-off (Bitch Perfect)",
+      "winnerIds": ["chi-chi-devayne"]
+    },
+    "runwayTheme": "Movie Premiere Realness",
+    "topIds": ["acid-betty", "chi-chi-devayne", "thorgy-thor"],
+    "bottomIds": ["dax-exclamationpoint", "laila-mcqueen"],
+    "lipSync": {
+      "song": "I Will Survive",
+      "queenIds": ["dax-exclamationpoint", "laila-mcqueen"],
+      "winnerIds": [],
+      "eliminatedIds": ["dax-exclamationpoint", "laila-mcqueen"]
+    },
+    "guestJudges": [
+      { "name": "Ester Dean" },
+      { "name": "Jamal Sims" },
+      { "name": "Lucian Piane" }
+    ]
+  },
+  {
+    "id": "US-S08-E03",
+    "seasonId": "US-S08",
+    "episodeNumber": 3,
+    "title": "RuCo's Empire",
+    "miniChallenge": {
+      "name": "Drag up a Supreme Court judge robe",
+      "winnerIds": ["naomi-smalls"]
+    },
+    "maxiChallenge": {
+      "name": "Empire-inspired acting challenge",
+      "winnerIds": ["bob-the-drag-queen"]
+    },
+    "runwayTheme": "Roller Girl Realness",
+    "topIds": ["acid-betty", "bob-the-drag-queen", "thorgy-thor"],
+    "bottomIds": ["cynthia-lee-fontaine", "robbie-turner"],
+    "lipSync": {
+      "song": "Mesmerized (Freemasons Radio Edit)",
+      "queenIds": ["cynthia-lee-fontaine", "robbie-turner"],
+      "winnerIds": ["robbie-turner"],
+      "eliminatedIds": ["cynthia-lee-fontaine"]
+    },
+    "guestJudges": [
+      { "name": "Faith Evans" },
+      { "name": "Tasha Smith" }
+    ]
+  },
+  {
+    "id": "US-S08-E04",
+    "seasonId": "US-S08",
+    "episodeNumber": 4,
+    "title": "New Wave Queens",
+    "maxiChallenge": {
+      "name": "Write, record, and perform 1980s New Wave girl-band verses",
+      "winnerIds": ["robbie-turner"]
+    },
+    "runwayTheme": "Neon Queen Realness",
+    "topIds": ["robbie-turner"],
+    "bottomIds": ["chi-chi-devayne", "naysha-lopez"],
+    "lipSync": {
+      "song": "Call Me",
+      "queenIds": ["chi-chi-devayne", "naysha-lopez"],
+      "winnerIds": ["chi-chi-devayne"],
+      "eliminatedIds": ["naysha-lopez"]
+    },
+    "guestJudges": [
+      { "name": "Debbie Harry" },
+      { "name": "Chris Stein" },
+      { "name": "Lucian Piane" }
+    ]
+  },
+  {
+    "id": "US-S08-E05",
+    "seasonId": "US-S08",
+    "episodeNumber": 5,
+    "title": "Supermodel Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["bob-the-drag-queen"]
+    },
+    "runwayTheme": "Night of a Thousand Madonnas",
+    "topIds": ["bob-the-drag-queen", "derrick-barry", "thorgy-thor"],
+    "bottomIds": ["acid-betty", "naomi-smalls"],
+    "lipSync": {
+      "song": "Causing a Commotion",
+      "queenIds": ["acid-betty", "naomi-smalls"],
+      "winnerIds": ["naomi-smalls"],
+      "eliminatedIds": ["acid-betty"]
+    },
+    "guestJudges": [
+      { "name": "Chanel Iman" },
+      { "name": "Gigi Hadid" }
+    ]
+  },
+  {
+    "id": "US-S08-E06",
+    "seasonId": "US-S08",
+    "episodeNumber": 6,
+    "title": "Wizards of Drag",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["bob-the-drag-queen"]
+    },
+    "maxiChallenge": {
+      "name": "Wizard of Oz makeovers with the cast of Little Women: LA",
+      "winnerIds": ["naomi-smalls"]
+    },
+    "topIds": ["kim-chi", "naomi-smalls"],
+    "bottomIds": ["derrick-barry", "robbie-turner"],
+    "lipSync": {
+      "song": "I Love It",
+      "queenIds": ["derrick-barry", "robbie-turner"],
+      "winnerIds": ["derrick-barry"],
+      "eliminatedIds": ["robbie-turner"]
+    },
+    "guestJudges": [
+      { "name": "Marc Jacobs" },
+      { "name": "Todrick Hall" }
+    ]
+  },
+  {
+    "id": "US-S08-E07",
+    "seasonId": "US-S08",
+    "episodeNumber": 7,
+    "title": "Shady Politics",
+    "miniChallenge": {
+      "name": "True/false guessing game with the pit crew",
+      "winnerIds": ["derrick-barry"]
+    },
+    "maxiChallenge": {
+      "name": "Paired presidential smear campaign ads",
+      "winnerIds": ["bob-the-drag-queen", "derrick-barry"]
+    },
+    "runwayTheme": "Black and White Realness",
+    "topIds": ["bob-the-drag-queen", "derrick-barry"],
+    "bottomIds": ["chi-chi-devayne", "thorgy-thor"],
+    "lipSync": {
+      "song": "And I Am Telling You I'm Not Going",
+      "queenIds": ["chi-chi-devayne", "thorgy-thor"],
+      "winnerIds": ["chi-chi-devayne"],
+      "eliminatedIds": ["thorgy-thor"]
+    },
+    "guestJudges": [
+      { "name": "Thomas Roberts" },
+      { "name": "Vivica A. Fox" }
+    ]
+  },
+  {
+    "id": "US-S08-E08",
+    "seasonId": "US-S08",
+    "episodeNumber": 8,
+    "title": "RuPaul Book Ball",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["chi-chi-devayne"]
+    },
+    "maxiChallenge": {
+      "name": "The RuPaul Book Ball",
+      "winnerIds": ["kim-chi"]
+    },
+    "runwayTheme": "Baby Drag Realness, That's My Mama Realness, and Book Couture",
+    "topIds": ["chi-chi-devayne", "kim-chi", "naomi-smalls"],
+    "bottomIds": ["bob-the-drag-queen", "derrick-barry"],
+    "lipSync": {
+      "song": "You Make Me Feel (Mighty Real)",
+      "queenIds": ["bob-the-drag-queen", "derrick-barry"],
+      "winnerIds": ["bob-the-drag-queen"],
+      "eliminatedIds": ["derrick-barry"]
+    },
+    "guestJudges": [
+      { "name": "Amy Sedaris" },
+      { "name": "David Sedaris" }
+    ]
+  },
+  {
+    "id": "US-S08-E09",
+    "seasonId": "US-S08",
+    "episodeNumber": 9,
+    "title": "The Realness",
+    "runwayTheme": "Best Drag",
+    "topIds": ["bob-the-drag-queen", "kim-chi", "naomi-smalls"],
+    "bottomIds": ["chi-chi-devayne"],
+    "lipSync": {
+      "song": "The Realness",
+      "queenIds": [
+        "bob-the-drag-queen",
+        "chi-chi-devayne",
+        "kim-chi",
+        "naomi-smalls"
+      ],
+      "winnerIds": ["bob-the-drag-queen", "kim-chi", "naomi-smalls"],
+      "eliminatedIds": ["chi-chi-devayne"]
+    }
+  },
+  {
+    "id": "US-S08-E10",
+    "seasonId": "US-S08",
+    "episodeNumber": 10,
+    "title": "Grand Finale"
+  }
+]

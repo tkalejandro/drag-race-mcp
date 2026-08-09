@@ -1,0 +1,35 @@
+{
+  "id": "alexis-michelle",
+  "name": "Alexis Michelle",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S09-E06",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S09-E05",
+          "name": "Shoot a sexy selfie with the pit crew"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E08",
+          "song": "Baby I'm Burnin'"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S09-E11",
+          "song": "Macho Man"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S09-E11"
+    }
+  ]
+}

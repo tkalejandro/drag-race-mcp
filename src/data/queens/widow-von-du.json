@@ -1,0 +1,34 @@
+{
+  "id": "widow-von-du",
+  "name": "Widow Von'Du",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "US-S12-E01",
+          "name": "Write, record, and perform verses to I'm That Bitch"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S12-E01",
+          "song": "Starships"
+        },
+        {
+          "episodeId": "US-S12-E08",
+          "song": "This Is My Night"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S12-E09",
+          "song": "Firework"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S12-E09"
+    }
+  ]
+}

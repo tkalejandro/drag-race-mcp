@@ -1,0 +1,33 @@
+{
+  "id": "angeria-paris-vanmicheals",
+  "name": "Angeria Paris VanMicheals",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S14-E02",
+          "name": "Perform a talent show in front of the judges"
+        },
+        {
+          "episodeId": "US-S14-E04",
+          "name": "In teams, produce attention-grabbing superteases for Season 14"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S14-E02",
+          "name": "Photoshoot in a bowl of tic-tacs"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E14",
+          "song": "Telephone"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

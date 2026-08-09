@@ -1,0 +1,20 @@
+{
+  "id": "dawn",
+  "name": "Dawn",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E12",
+          "song": "Body"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S16-E12"
+    }
+  ]
+}

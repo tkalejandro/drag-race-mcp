@@ -1,0 +1,340 @@
+[
+  {
+    "id": "US-S10-E01",
+    "seasonId": "US-S10",
+    "episodeNumber": 1,
+    "title": "10s Across the Board",
+    "miniChallenge": {
+      "name": "Stand out on the runway among a sea of legendary queens from past seasons",
+      "winnerIds": ["monet-x-change"]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit made from items found at a 99 cent store",
+      "winnerIds": ["mayhem-miller"]
+    },
+    "topIds": [
+      "blair-st-clair",
+      "mayhem-miller",
+      "miz-cracker",
+      "yuhua-hamasaki"
+    ],
+    "bottomIds": ["kalorie-karbdashian-williams", "vanessa-vanjie-mateo"],
+    "lipSync": {
+      "song": "Ain't No Other Man",
+      "queenIds": ["kalorie-karbdashian-williams", "vanessa-vanjie-mateo"],
+      "winnerIds": ["kalorie-karbdashian-williams"],
+      "eliminatedIds": ["vanessa-vanjie-mateo"]
+    },
+    "guestJudges": [{ "name": "Christina Aguilera" }]
+  },
+  {
+    "id": "US-S10-E02",
+    "seasonId": "US-S10",
+    "episodeNumber": 2,
+    "title": "PharmaRusical",
+    "miniChallenge": {
+      "name": "Participate in the \"Hay Girl Hay\" hoedown",
+      "winnerIds": ["asia-ohara", "the-vixen"]
+    },
+    "maxiChallenge": {
+      "name": "PharmaRusical",
+      "winnerIds": ["the-vixen"]
+    },
+    "runwayTheme": "Very Best Drag",
+    "topIds": ["the-vixen"],
+    "bottomIds": ["eureka", "kalorie-karbdashian-williams"],
+    "lipSync": {
+      "song": "Best of My Love",
+      "queenIds": ["eureka", "kalorie-karbdashian-williams"],
+      "winnerIds": ["eureka"],
+      "eliminatedIds": ["kalorie-karbdashian-williams"]
+    },
+    "guestJudges": [
+      { "name": "Halsey" },
+      { "name": "Padma Lakshmi" }
+    ]
+  },
+  {
+    "id": "US-S10-E03",
+    "seasonId": "US-S10",
+    "episodeNumber": 3,
+    "title": "Tap That App",
+    "miniChallenge": {
+      "name": "Perform in screen tests for Ru's provocative new RuPaul's Chocolate Bar campaign",
+      "winnerIds": ["blair-st-clair", "monet-x-change", "monique-heart"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, film ads for new dating apps",
+      "winnerIds": ["asia-ohara"]
+    },
+    "runwayTheme": "Feathers",
+    "topIds": ["asia-ohara", "blair-st-clair", "eureka"],
+    "bottomIds": ["mayhem-miller", "yuhua-hamasaki"],
+    "lipSync": {
+      "song": "Celebrity Skin",
+      "queenIds": ["mayhem-miller", "yuhua-hamasaki"],
+      "winnerIds": ["mayhem-miller"],
+      "eliminatedIds": ["yuhua-hamasaki"]
+    },
+    "guestJudges": [
+      { "name": "Courtney Love" },
+      { "name": "Nico Tortorella" }
+    ]
+  },
+  {
+    "id": "US-S10-E04",
+    "seasonId": "US-S10",
+    "episodeNumber": 4,
+    "title": "The Last Ball on Earth",
+    "miniChallenge": {
+      "name": "Photobomb iconic celebrity pictures",
+      "winnerIds": ["aquaria"]
+    },
+    "maxiChallenge": {
+      "name": "The Last Ball on Earth",
+      "winnerIds": ["aquaria"]
+    },
+    "runwayTheme": "Alaskan Winter Realness, Miami Summer Realness, and Martian Eleganza Extravaganza",
+    "topIds": ["aquaria", "kameron-michaels", "miz-cracker"],
+    "bottomIds": ["dusty-ray-bottoms", "monet-x-change"],
+    "lipSync": {
+      "song": "Pound the Alarm",
+      "queenIds": ["dusty-ray-bottoms", "monet-x-change"],
+      "winnerIds": ["monet-x-change"],
+      "eliminatedIds": ["dusty-ray-bottoms"]
+    },
+    "guestJudges": [
+      { "name": "Logan Browning" },
+      { "name": "Tisha Campbell" }
+    ]
+  },
+  {
+    "id": "US-S10-E05",
+    "seasonId": "US-S10",
+    "episodeNumber": 5,
+    "title": "The Bossy Rossy Show",
+    "miniChallenge": {
+      "name": "Create a military inspired outfit to enlist in the Drag Army",
+      "winnerIds": ["the-vixen"]
+    },
+    "maxiChallenge": {
+      "name": "In pairs, improvise in the new day-time talk show \"Bossy Rossy\"",
+      "winnerIds": ["eureka"]
+    },
+    "runwayTheme": "Denim and Diamonds",
+    "topIds": ["eureka", "monique-heart", "miz-cracker"],
+    "bottomIds": ["mayhem-miller", "monet-x-change"],
+    "lipSync": {
+      "song": "Man! I Feel Like a Woman!",
+      "queenIds": ["mayhem-miller", "monet-x-change"],
+      "winnerIds": ["monet-x-change"],
+      "eliminatedIds": ["mayhem-miller"]
+    },
+    "guestJudges": [
+      { "name": "Carrie Preston" },
+      { "name": "Shania Twain" }
+    ]
+  },
+  {
+    "id": "US-S10-E06",
+    "seasonId": "US-S10",
+    "episodeNumber": 6,
+    "title": "Drag Con Panel Extravaganza",
+    "miniChallenge": {
+      "name": "Identify objects by only sitting on them",
+      "winnerIds": ["asia-ohara"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, create and produce RuPaul's DragCon panels in front of a live audience",
+      "winnerIds": ["eureka"]
+    },
+    "runwayTheme": "Hats Incredible",
+    "topIds": ["eureka", "kameron-michaels", "monet-x-change"],
+    "bottomIds": ["blair-st-clair", "the-vixen"],
+    "lipSync": {
+      "song": "I'm Coming Out",
+      "queenIds": ["blair-st-clair", "the-vixen"],
+      "winnerIds": ["the-vixen"],
+      "eliminatedIds": ["blair-st-clair"]
+    },
+    "guestJudges": [
+      { "name": "Kumail Nanjiani" },
+      { "name": "Emily V. Gordon" }
+    ]
+  },
+  {
+    "id": "US-S10-E07",
+    "seasonId": "US-S10",
+    "episodeNumber": 7,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["eureka"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["aquaria"]
+    },
+    "runwayTheme": "Mermaid Fantasy",
+    "topIds": ["aquaria", "eureka", "monet-x-change"],
+    "bottomIds": ["monique-heart", "the-vixen"],
+    "lipSync": {
+      "song": "Cut to the Feeling",
+      "queenIds": ["monique-heart", "the-vixen"],
+      "winnerIds": ["the-vixen"],
+      "eliminatedIds": ["monique-heart"]
+    },
+    "guestJudges": [
+      { "name": "Audra McDonald" },
+      { "name": "Kate Upton" }
+    ]
+  },
+  {
+    "id": "US-S10-E08",
+    "seasonId": "US-S10",
+    "episodeNumber": 8,
+    "title": "The Unauthorized Rusical",
+    "miniChallenge": {
+      "name": "Attempt to make RuPaul slap them",
+      "winnerIds": ["asia-ohara"]
+    },
+    "maxiChallenge": {
+      "name": "Cher: The Unauthorized Rusical",
+      "winnerIds": ["kameron-michaels"]
+    },
+    "runwayTheme": "Glitterific",
+    "topIds": ["kameron-michaels", "monet-x-change"],
+    "bottomIds": ["asia-ohara", "the-vixen"],
+    "lipSync": {
+      "song": "Groove Is in the Heart",
+      "queenIds": ["asia-ohara", "the-vixen"],
+      "winnerIds": ["asia-ohara"],
+      "eliminatedIds": ["the-vixen"]
+    },
+    "guestJudges": [
+      { "name": "Billy Eichner" },
+      { "name": "Andrew Rannells" }
+    ]
+  },
+  {
+    "id": "US-S10-E09",
+    "seasonId": "US-S10",
+    "episodeNumber": 9,
+    "title": "Breastworld",
+    "miniChallenge": {
+      "name": "Find matching pairs of pit crew's underwear",
+      "winnerIds": ["aquaria"]
+    },
+    "maxiChallenge": {
+      "name": "Act in the new hit series \"Breastworld\"",
+      "winnerIds": ["asia-ohara"]
+    },
+    "runwayTheme": "Silver Foxy",
+    "topIds": ["aquaria", "asia-ohara", "monet-x-change"],
+    "bottomIds": ["eureka", "kameron-michaels"],
+    "lipSync": {
+      "song": "New Attitude",
+      "queenIds": ["eureka", "kameron-michaels"],
+      "winnerIds": ["eureka", "kameron-michaels"]
+    },
+    "guestJudges": [
+      { "name": "Abbi Jacobson" },
+      { "name": "Ilana Glazer" }
+    ]
+  },
+  {
+    "id": "US-S10-E10",
+    "seasonId": "US-S10",
+    "episodeNumber": 10,
+    "title": "Social Media Kings Into Queens",
+    "miniChallenge": {
+      "name": "Participate in a manly photoshoot advertising a new body spray called \"Trade\"",
+      "winnerIds": ["eureka"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover social media superstars",
+      "winnerIds": ["miz-cracker"]
+    },
+    "runwayTheme": "Drag Family Values",
+    "topIds": ["asia-ohara", "eureka", "miz-cracker"],
+    "bottomIds": ["kameron-michaels", "monet-x-change"],
+    "lipSync": {
+      "song": "Good as Hell",
+      "queenIds": ["kameron-michaels", "monet-x-change"],
+      "winnerIds": ["kameron-michaels"],
+      "eliminatedIds": ["monet-x-change"]
+    },
+    "guestJudges": [
+      { "name": "Miles Heizer" },
+      { "name": "Lizzo" }
+    ]
+  },
+  {
+    "id": "US-S10-E11",
+    "seasonId": "US-S10",
+    "episodeNumber": 11,
+    "title": "Evil Twins",
+    "miniChallenge": {
+      "name": "Decorate a pancake in edible drag",
+      "winnerIds": ["asia-ohara"]
+    },
+    "maxiChallenge": {
+      "name": "Present two characters on the runway: Best Self and Evil Twin",
+      "winnerIds": ["aquaria"]
+    },
+    "runwayTheme": "Best Self and Evil Twin",
+    "topIds": ["aquaria", "asia-ohara", "eureka"],
+    "bottomIds": ["kameron-michaels", "miz-cracker"],
+    "lipSync": {
+      "song": "Nasty Girl",
+      "queenIds": ["kameron-michaels", "miz-cracker"],
+      "winnerIds": ["kameron-michaels"],
+      "eliminatedIds": ["miz-cracker"]
+    },
+    "guestJudges": [
+      { "name": "Lena Dunham" },
+      { "name": "Ashanti" }
+    ]
+  },
+  {
+    "id": "US-S10-E12",
+    "seasonId": "US-S10",
+    "episodeNumber": 12,
+    "title": "American",
+    "runwayTheme": "Best Drag",
+    "topIds": [
+      "aquaria",
+      "asia-ohara",
+      "eureka",
+      "kameron-michaels"
+    ],
+    "lipSync": {
+      "song": "Call Me Mother",
+      "queenIds": [
+        "aquaria",
+        "asia-ohara",
+        "eureka",
+        "kameron-michaels"
+      ],
+      "winnerIds": [
+        "aquaria",
+        "asia-ohara",
+        "eureka",
+        "kameron-michaels"
+      ]
+    },
+    "guestJudges": [{ "name": "Todrick Hall" }]
+  },
+  {
+    "id": "US-S10-E13",
+    "seasonId": "US-S10",
+    "episodeNumber": 13,
+    "title": "Queens Reunited"
+  },
+  {
+    "id": "US-S10-E14",
+    "seasonId": "US-S10",
+    "episodeNumber": 14,
+    "title": "Grand Finale"
+  }
+]

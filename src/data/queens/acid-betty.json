@@ -1,0 +1,20 @@
+{
+  "id": "acid-betty",
+  "name": "Acid Betty",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S08-E05",
+          "song": "Causing a Commotion"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S08-E05"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "lydia-b-kollins",
+  "name": "Lydia B. Kollins",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "US-S17-E10",
+          "name": "Perform a roast of Kandy Muse, Mistress Isabelle Brooks, and Plane Jane"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S17-E06",
+          "name": "ABH lipstick mouth relay"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S17-E05",
+          "song": "Boogie Wonderland"
+        },
+        {
+          "episodeId": "US-S17-E09",
+          "song": "Kiss Me Deadly"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E11",
+          "song": "Unholy"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E11"
+    }
+  ]
+}

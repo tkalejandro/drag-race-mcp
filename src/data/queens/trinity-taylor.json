@@ -1,0 +1,36 @@
+{
+  "id": "trinity-taylor",
+  "name": "Trinity Taylor",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "US-S09-E03",
+          "name": "Create an original fairytale princess with a sassy sidekick"
+        },
+        {
+          "episodeId": "US-S09-E07",
+          "name": "Act in a 90210 parody spin-off titled 9021-HO"
+        },
+        {
+          "episodeId": "US-S09-E10",
+          "name": "Makeover members of the RuPaul's Drag Race crew"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E04",
+          "song": "I Wanna Go"
+        },
+        {
+          "episodeId": "US-S09-E12",
+          "song": "U Wear It Well"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

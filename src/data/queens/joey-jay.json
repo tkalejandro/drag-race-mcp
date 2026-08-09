@@ -1,0 +1,20 @@
+{
+  "id": "joey-jay",
+  "name": "Joey Jay",
+  "appearances": [
+    {
+      "seasonId": "US-S13",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S13-E05",
+          "song": "Fancy"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S13-E05"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "yvie-oddly",
+  "name": "Yvie Oddly",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S11-E02",
+          "name": "Perform in drag film adaptations of Black Panther and Get Out"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S11-E08",
+          "song": "Sorry Not Sorry"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

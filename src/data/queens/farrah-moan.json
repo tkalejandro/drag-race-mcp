@@ -1,0 +1,25 @@
+{
+  "id": "farrah-moan",
+  "name": "Farrah Moan",
+  "appearances": [
+    {
+      "seasonId": "US-S09",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S09-E05",
+          "song": "Woman Up"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S09-E08",
+          "song": "Baby I'm Burnin'"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S09-E08"
+    }
+  ]
+}

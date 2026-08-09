@@ -1,0 +1,55 @@
+{
+  "id": "juicy-love-dion",
+  "name": "Juicy Love Dion",
+  "appearances": [
+    {
+      "seasonId": "US-S18",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S18-E03",
+          "name": "Act in RDR Live! sketch comedy"
+        },
+        {
+          "episodeId": "US-S18-E05",
+          "name": "Perform a talent show for Rate-A-Queen (group 1)"
+        },
+        {
+          "episodeId": "US-S18-E15",
+          "name": "Compete in an All RuPaul-A-Paruza Smackdown tournament for eliminated queens",
+          "earnings": { "amount": 50000, "currency": "USD" }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S18-E05",
+          "song": "Pretty Ugly"
+        },
+        {
+          "episodeId": "US-S18-E07",
+          "song": "Houdini"
+        },
+        {
+          "episodeId": "US-S18-E09",
+          "song": "Call Me When You Break Up"
+        },
+        {
+          "episodeId": "US-S18-E11",
+          "song": "Total Eclipse of the Heart"
+        },
+        {
+          "episodeId": "US-S18-E15",
+          "song": "Cover Girl"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S18-E14",
+          "song": "Super Graphic Ultra Modern Girl"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S18-E14"
+    }
+  ]
+}

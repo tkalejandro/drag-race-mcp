@@ -1,0 +1,20 @@
+{
+  "id": "jan",
+  "name": "Jan",
+  "appearances": [
+    {
+      "seasonId": "US-S12",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S12-E08",
+          "song": "This Is My Night"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S12-E08"
+    }
+  ]
+}

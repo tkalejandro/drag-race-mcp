@@ -1,0 +1,20 @@
+{
+  "id": "sugar",
+  "name": "Sugar",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E04",
+          "song": "You Better Run"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E04"
+    }
+  ]
+}

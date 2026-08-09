@@ -1,0 +1,33 @@
+{
+  "id": "willow-pill",
+  "name": "Willow Pill",
+  "appearances": [
+    {
+      "seasonId": "US-S14",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "US-S14-E03",
+          "name": "Compete in dual balls: The Hide and Chic Ball and The Red, White and Blue Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S14-E09",
+          "name": "Photobomb famous male celebrities"
+        },
+        {
+          "episodeId": "US-S14-E13",
+          "name": "In teams, paint a mural of Dolly Parton or RuPaul"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S14-E14",
+          "song": "Telephone"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

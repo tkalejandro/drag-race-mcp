@@ -1,0 +1,47 @@
+{
+  "id": "loosey-laduca",
+  "name": "Loosey LaDuca",
+  "appearances": [
+    {
+      "seasonId": "US-S15",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S15-E04",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "US-S15-E11",
+          "name": "Perform paired stand-up comedy routines"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S15-E01",
+          "name": "Sexy Car Wash and Windy Hog photoshoots"
+        },
+        {
+          "episodeId": "US-S15-E05",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "US-S15-E13",
+          "name": "Spill the Tea superlatives"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S15-E12",
+          "song": "Running Up That Hill (A Deal with God)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S15-E13",
+          "song": "For the Girls"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S15-E13"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mercedes-iman-diamond",
+  "name": "Mercedes Iman Diamond",
+  "appearances": [
+    {
+      "seasonId": "US-S11",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S11-E02",
+          "song": "Work Bitch"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S11-E04",
+          "song": "Living in America"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S11-E04"
+    }
+  ]
+}

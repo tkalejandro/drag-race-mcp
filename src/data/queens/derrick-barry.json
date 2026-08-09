@@ -1,0 +1,35 @@
+{
+  "id": "derrick-barry",
+  "name": "Derrick Barry",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "US-S08-E07",
+          "name": "Paired presidential smear campaign ads"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S08-E07",
+          "name": "True/false guessing game with the pit crew"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S08-E06",
+          "song": "I Love It"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S08-E08",
+          "song": "You Make Me Feel (Mighty Real)"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S08-E08"
+    }
+  ]
+}

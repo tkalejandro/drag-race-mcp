@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yvie-oddly-s11-crown",
+    "title": "Yvie Oddly wins Season 11",
+    "summary": "In the Grand Finale (US-S11-E14), Yvie Oddly was crowned America's Next Drag Superstar after a Lip Sync Smackdown for the Crown. Brooke Lynn Hytes finished as runner-up; A'keria C. Davenport and Silky Nutmeg Ganache placed third. The Season 11 cash prize was $100,000. Nina West was announced as Miss Congeniality.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "yvie-oddly",
+      "brooke-lynn-hytes",
+      "akeria-c-davenport",
+      "silky-nutmeg-ganache",
+      "nina-west"
+    ],
+    "seasonIds": ["US-S11"],
+    "episodeIds": ["US-S11-E14"]
+  },
+  {
+    "id": "vanjie-s11-return",
+    "title": "Miss Vanjie returns for Season 11",
+    "summary": "After an iconic first-out exit on Season 10, Vanessa Vanjie Mateo returned by popular demand for Season 11 — the first queen through the workroom doors on Whatcha Unpackin? (US-S11-E01). She competed through Queens Everywhere (US-S11-E12), placing fifth.",
+    "tags": ["return", "fan-favorite", "iconic"],
+    "queenIds": ["vanessa-vanjie-mateo"],
+    "seasonIds": ["US-S10", "US-S11"],
+    "episodeIds": ["US-S11-E01", "US-S11-E12"]
+  },
+  {
+    "id": "brooke-yvie-double-shantay-s11",
+    "title": "Brooke Lynn and Yvie's double shantay",
+    "summary": "On Snatch Game at Sea (US-S11-E08), Brooke Lynn Hytes and Yvie Oddly lip-synced to Demi Lovato's \"Sorry Not Sorry.\" Both were declared winners and neither was eliminated — a double shantay that kept the Top 8 intact.",
+    "tags": ["double-shantay", "lip-sync", "twist", "iconic"],
+    "queenIds": ["brooke-lynn-hytes", "yvie-oddly"],
+    "seasonIds": ["US-S11"],
+    "episodeIds": ["US-S11-E08"]
+  }
+]

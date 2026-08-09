@@ -1,0 +1,43 @@
+{
+  "id": "chi-chi-devayne",
+  "name": "Chi Chi DeVayne",
+  "appearances": [
+    {
+      "seasonId": "US-S08",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "US-S08-E02",
+          "name": "Collegiate a cappella sing-off (Bitch Perfect)"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "US-S08-E02",
+          "name": "Latin dance-off to Cha Cha Bitch"
+        },
+        {
+          "episodeId": "US-S08-E08",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "US-S08-E04",
+          "song": "Call Me"
+        },
+        {
+          "episodeId": "US-S08-E07",
+          "song": "And I Am Telling You I'm Not Going"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S08-E09",
+          "song": "The Realness"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S08-E09"
+    }
+  ]
+}

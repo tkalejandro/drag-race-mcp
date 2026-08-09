@@ -1,0 +1,35 @@
+[
+  {
+    "id": "aquaria-s10-crown",
+    "title": "Aquaria wins Season 10",
+    "summary": "In the Grand Finale (US-S10-E14), Aquaria was crowned America's Next Drag Superstar after a Lip Sync Smackdown for the Crown. Asia O'Hara was eliminated first; Aquaria, Eureka, and Kameron Michaels advanced to the final round to \"Bang Bang,\" with Eureka and Kameron finishing as runners-up. The Season 10 cash prize was $100,000. Monét X Change was announced as Miss Congeniality.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": [
+      "aquaria",
+      "eureka",
+      "kameron-michaels",
+      "asia-ohara",
+      "monet-x-change"
+    ],
+    "seasonIds": ["US-S10"],
+    "episodeIds": ["US-S10-E14"]
+  },
+  {
+    "id": "miss-vanjie-exit",
+    "title": "Miss Vanjie's iconic first-out exit",
+    "summary": "On 10s Across the Board (US-S10-E01), Vanessa Vanjie Mateo was eliminated after lip-syncing to Christina Aguilera's \"Ain't No Other Man\" against Kalorie Karbdashian Williams. Walking away, she delivered the now-iconic parting call \"Miss Vanjie\" — a catchphrase that made her an immediate fan favorite despite being first out (porkchop).",
+    "tags": ["quote", "iconic", "porkchop", "fan-favorite"],
+    "queenIds": ["vanessa-vanjie-mateo", "kalorie-karbdashian-williams"],
+    "seasonIds": ["US-S10"],
+    "episodeIds": ["US-S10-E01"]
+  },
+  {
+    "id": "eureka-kameron-double-shantay-s10",
+    "title": "Eureka and Kameron's double shantay",
+    "summary": "On Breastworld (US-S10-E09), Eureka and Kameron Michaels lip-synced to Patti LaBelle's \"New Attitude.\" Both were declared winners and neither was eliminated — a double shantay that kept the Top 6 intact.",
+    "tags": ["double-shantay", "lip-sync", "twist", "iconic"],
+    "queenIds": ["eureka", "kameron-michaels"],
+    "seasonIds": ["US-S10"],
+    "episodeIds": ["US-S10-E09"]
+  }
+]

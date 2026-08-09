@@ -1,0 +1,29 @@
+{
+  "id": "arrietty",
+  "name": "Arrietty",
+  "appearances": [
+    {
+      "seasonId": "US-S17",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "US-S17-E06",
+          "name": "Let's Get Sea Sickening Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S17-E05",
+          "song": "Boogie Wonderland"
+        },
+        {
+          "episodeId": "US-S17-E10",
+          "song": "Ya Ya"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S17-E10"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "megami",
+  "name": "Megami",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "US-S16-E05",
+          "name": "Write, record, and perform RuPaul girl-group verses"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E07",
+          "song": "Flowers"
+        },
+        {
+          "episodeId": "US-S16-E15",
+          "song": "Gonna Make You Sweat"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S16-E07"
+    }
+  ]
+}

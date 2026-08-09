@@ -1,0 +1,20 @@
+{
+  "id": "hershii-liqcour-jete",
+  "name": "Hershii LiqCour-Jeté",
+  "appearances": [
+    {
+      "seasonId": "US-S16",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "US-S16-E03",
+          "song": "Maybe You're the Problem"
+        }
+      ],
+      "eliminatedEpisodeId": "US-S16-E03"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "US-S18-E01",
+    "seasonId": "US-S18",
+    "episodeNumber": 1,
+    "title": "You Can't Keep a Good Drag Queen Down!",
+    "miniChallenge": {
+      "name": "Scream queen photoshoot with masked dancers",
+      "winnerIds": ["kenya-pleaser"]
+    },
+    "maxiChallenge": {
+      "name": "Design a look from leftover past-season materials",
+      "winnerIds": ["nini-coco"]
+    },
+    "runwayTheme": "Reclaim, Renew, Rejoice",
+    "topIds": ["jane-dont", "nini-coco", "vita-vontesse-starr"],
+    "bottomIds": ["kenya-pleaser", "mandy-mango"],
+    "lipSync": {
+      "song": "Enough (Miami)",
+      "queenIds": ["nini-coco", "vita-vontesse-starr"],
+      "winnerIds": ["nini-coco"]
+    },
+    "guestJudges": [{ "name": "Cardi B" }]
+  },
+  {
+    "id": "US-S18-E02",
+    "seasonId": "US-S18",
+    "episodeNumber": 2,
+    "title": "Q-Pop Girl Groups",
+    "maxiChallenge": {
+      "name": "Write, record, and perform 70s/80s girl-group verses",
+      "winnerIds": ["jane-dont"]
+    },
+    "runwayTheme": "Your Neck, Your Back, Your Pussy, and Your Crack",
+    "topIds": ["jane-dont", "mia-starr"],
+    "bottomIds": ["dd-fuego", "mandy-mango"],
+    "lipSync": {
+      "song": "Too Much",
+      "queenIds": ["dd-fuego", "mandy-mango"],
+      "winnerIds": ["mandy-mango"],
+      "eliminatedIds": ["dd-fuego"]
+    },
+    "guestJudges": [{ "name": "Dove Cameron" }]
+  },
+  {
+    "id": "US-S18-E03",
+    "seasonId": "US-S18",
+    "episodeNumber": 3,
+    "title": "RDR Live Returns!",
+    "maxiChallenge": {
+      "name": "Act in RDR Live! sketch comedy",
+      "winnerIds": ["juicy-love-dion"]
+    },
+    "runwayTheme": "Animal Attraction",
+    "topIds": ["darlene-mitchell", "jane-dont", "juicy-love-dion"],
+    "bottomIds": ["briar-blush", "mandy-mango"],
+    "lipSync": {
+      "song": "Love in Real Life",
+      "queenIds": ["briar-blush", "mandy-mango"],
+      "winnerIds": ["briar-blush"],
+      "eliminatedIds": ["mandy-mango"]
+    },
+    "guestJudges": [{ "name": "Sarah Sherman" }]
+  },
+  {
+    "id": "US-S18-E04",
+    "seasonId": "US-S18",
+    "episodeNumber": 4,
+    "title": "Red Carpet Mash Up",
+    "maxiChallenge": {
+      "name": "Design red carpet mashup looks in pairs",
+      "winnerIds": ["vita-vontesse-starr"]
+    },
+    "topIds": ["vita-vontesse-starr"],
+    "bottomIds": ["briar-blush", "kenya-pleaser"],
+    "lipSync": {
+      "song": "Lights Camera Action",
+      "queenIds": ["briar-blush", "kenya-pleaser"],
+      "winnerIds": ["kenya-pleaser"],
+      "eliminatedIds": ["briar-blush"]
+    },
+    "guestJudges": [{ "name": "Annaleigh Ashford" }]
+  },
+  {
+    "id": "US-S18-E05",
+    "seasonId": "US-S18",
+    "episodeNumber": 5,
+    "title": "The Rate-A-Queen Talent Show, Part 1",
+    "maxiChallenge": {
+      "name": "Perform a talent show for Rate-A-Queen (group 1)",
+      "winnerIds": ["juicy-love-dion", "mia-starr"]
+    },
+    "runwayTheme": "Not Today Satin",
+    "topIds": ["juicy-love-dion", "mia-starr"],
+    "bottomIds": ["ciara-myst"],
+    "lipSync": {
+      "song": "Pretty Ugly",
+      "queenIds": ["juicy-love-dion", "mia-starr"],
+      "winnerIds": ["juicy-love-dion", "mia-starr"]
+    },
+    "guestJudges": [{ "name": "Zara Larsson" }]
+  },
+  {
+    "id": "US-S18-E06",
+    "seasonId": "US-S18",
+    "episodeNumber": 6,
+    "title": "The Rate-A-Queen Talent Show, Part 2",
+    "maxiChallenge": {
+      "name": "Perform a talent show for Rate-A-Queen (group 2)",
+      "winnerIds": ["athena-dion"]
+    },
+    "runwayTheme": "Shake, Shake, Shake",
+    "topIds": ["athena-dion", "jane-dont"],
+    "bottomIds": ["ciara-myst", "myki-meeks"],
+    "lipSync": {
+      "song": "Toxic",
+      "queenIds": ["ciara-myst", "myki-meeks"],
+      "winnerIds": ["myki-meeks"],
+      "eliminatedIds": ["ciara-myst"]
+    },
+    "guestJudges": [{ "name": "Amy Taylor" }]
+  },
+  {
+    "id": "US-S18-E07",
+    "seasonId": "US-S18",
+    "episodeNumber": 7,
+    "title": "Drag Queens for Change",
+    "maxiChallenge": {
+      "name": "Create paired political campaign ads",
+      "winnerIds": ["myki-meeks"]
+    },
+    "runwayTheme": "I Can See Right Through Ha",
+    "topIds": ["darlene-mitchell", "jane-dont", "myki-meeks"],
+    "bottomIds": ["juicy-love-dion", "vita-vontesse-starr"],
+    "lipSync": {
+      "song": "Houdini",
+      "queenIds": ["juicy-love-dion", "vita-vontesse-starr"],
+      "winnerIds": ["juicy-love-dion"],
+      "eliminatedIds": ["vita-vontesse-starr"]
+    },
+    "guestJudges": [{ "name": "Leland" }]
+  },
+  {
+    "id": "US-S18-E08",
+    "seasonId": "US-S18",
+    "episodeNumber": 8,
+    "title": "Snatch Game of Love: Island Edition",
+    "maxiChallenge": {
+      "name": "Snatch Game of Love Island",
+      "winnerIds": ["nini-coco"]
+    },
+    "runwayTheme": "80s Ladies",
+    "topIds": ["jane-dont", "myki-meeks", "nini-coco"],
+    "bottomIds": ["kenya-pleaser", "mia-starr"],
+    "lipSync": {
+      "song": "Head Over Heels",
+      "queenIds": ["kenya-pleaser", "mia-starr"],
+      "winnerIds": ["kenya-pleaser"],
+      "eliminatedIds": ["mia-starr"]
+    },
+    "guestJudges": [{ "name": "Brooke Shields" }]
+  },
+  {
+    "id": "US-S18-E09",
+    "seasonId": "US-S18",
+    "episodeNumber": 9,
+    "title": "Fannie: The Hard Knock Ball Rusical",
+    "miniChallenge": {
+      "name": "Grindr, I Hardly Know Her",
+      "winnerIds": ["discord-addams", "kenya-pleaser"]
+    },
+    "maxiChallenge": {
+      "name": "Fannie: The Hard Knock Ball Rusical",
+      "winnerIds": ["jane-dont"]
+    },
+    "runwayTheme": "Beige Against The Machine",
+    "topIds": ["jane-dont", "kenya-pleaser", "myki-meeks"],
+    "bottomIds": ["athena-dion", "juicy-love-dion"],
+    "lipSync": {
+      "song": "Call Me When You Break Up",
+      "queenIds": ["athena-dion", "juicy-love-dion"],
+      "winnerIds": ["juicy-love-dion"],
+      "eliminatedIds": ["athena-dion"]
+    },
+    "guestJudges": [{ "name": "Benny Blanco" }]
+  },
+  {
+    "id": "US-S18-E10",
+    "seasonId": "US-S18",
+    "episodeNumber": 10,
+    "title": "Drag in a Bag",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["myki-meeks"]
+    },
+    "maxiChallenge": {
+      "name": "Design a look from eliminated queens' suitcases",
+      "winnerIds": ["jane-dont"]
+    },
+    "runwayTheme": "Party",
+    "topIds": ["jane-dont", "kenya-pleaser"],
+    "lipSync": {
+      "song": "Feels Like Another One",
+      "queenIds": ["jane-dont", "kenya-pleaser"],
+      "winnerIds": ["jane-dont"]
+    },
+    "guestJudges": [{ "name": "Iman" }]
+  },
+  {
+    "id": "US-S18-E11",
+    "seasonId": "US-S18",
+    "episodeNumber": 11,
+    "title": "A Toast to Alyssa Edwards",
+    "miniChallenge": {
+      "name": "Scent Bird ads",
+      "winnerIds": ["myki-meeks"]
+    },
+    "maxiChallenge": {
+      "name": "Roast and toast Alyssa Edwards",
+      "winnerIds": ["darlene-mitchell"]
+    },
+    "runwayTheme": "Swept Away",
+    "topIds": ["darlene-mitchell", "jane-dont", "myki-meeks"],
+    "bottomIds": ["juicy-love-dion", "kenya-pleaser"],
+    "lipSync": {
+      "song": "Total Eclipse of the Heart",
+      "queenIds": ["juicy-love-dion", "kenya-pleaser"],
+      "winnerIds": ["juicy-love-dion"],
+      "eliminatedIds": ["kenya-pleaser"]
+    },
+    "guestJudges": [{ "name": "Atsuko Okatsuka" }]
+  },
+  {
+    "id": "US-S18-E12",
+    "seasonId": "US-S18",
+    "episodeNumber": 12,
+    "title": "Mammas, Don't Let Your Babies Grow Up to Be Drag Queens",
+    "miniChallenge": {
+      "name": "Cowgirl bouncy-horse race",
+      "winnerIds": ["discord-addams"]
+    },
+    "maxiChallenge": {
+      "name": "Make over rodeo riders into drag family members",
+      "winnerIds": ["myki-meeks"]
+    },
+    "runwayTheme": "Drag Family Resemblance",
+    "topIds": ["darlene-mitchell", "juicy-love-dion", "myki-meeks"],
+    "bottomIds": ["discord-addams", "nini-coco"],
+    "lipSync": {
+      "song": "We Can't Be Friends (Wait for Your Love)",
+      "queenIds": ["discord-addams", "nini-coco"],
+      "winnerIds": ["nini-coco"],
+      "eliminatedIds": ["discord-addams"]
+    },
+    "guestJudges": [{ "name": "Danielle Pinnock" }]
+  },
+  {
+    "id": "US-S18-E13",
+    "seasonId": "US-S18",
+    "episodeNumber": 13,
+    "title": "Karens Gone Wild",
+    "maxiChallenge": {
+      "name": "Improv with RuPaul",
+      "winnerIds": ["myki-meeks"]
+    },
+    "runwayTheme": "From Wholesome to Folsom",
+    "topIds": ["darlene-mitchell", "juicy-love-dion", "myki-meeks"],
+    "bottomIds": ["jane-dont", "nini-coco"],
+    "lipSync": {
+      "song": "Garden of Eden",
+      "queenIds": ["jane-dont", "nini-coco"],
+      "winnerIds": ["nini-coco"],
+      "eliminatedIds": ["jane-dont"]
+    },
+    "guestJudges": [{ "name": "Julianne Nicholson" }]
+  },
+  {
+    "id": "US-S18-E14",
+    "seasonId": "US-S18",
+    "episodeNumber": 14,
+    "title": "Good Morning Bitches",
+    "maxiChallenge": {
+      "name": "Host a paired morning show",
+      "winnerIds": ["darlene-mitchell", "myki-meeks"]
+    },
+    "runwayTheme": "Drag Excellence",
+    "topIds": ["darlene-mitchell", "myki-meeks"],
+    "bottomIds": ["juicy-love-dion", "nini-coco"],
+    "lipSync": {
+      "song": "Super Graphic Ultra Modern Girl",
+      "queenIds": ["juicy-love-dion", "nini-coco"],
+      "winnerIds": ["nini-coco"],
+      "eliminatedIds": ["juicy-love-dion"]
+    },
+    "guestJudges": [{ "name": "Teyana Taylor" }]
+  },
+  {
+    "id": "US-S18-E15",
+    "seasonId": "US-S18",
+    "episodeNumber": 15,
+    "title": "All RuPaul-A-Paruza Smackdown",
+    "maxiChallenge": {
+      "name": "Compete in an All RuPaul-A-Paruza Smackdown tournament for eliminated queens",
+      "winnerIds": ["juicy-love-dion"],
+      "earnings": { "amount": 50000, "currency": "USD" }
+    },
+    "lipSync": {
+      "song": "Cover Girl",
+      "queenIds": ["juicy-love-dion", "mia-starr"],
+      "winnerIds": ["juicy-love-dion"]
+    }
+  },
+  {
+    "id": "US-S18-E16",
+    "seasonId": "US-S18",
+    "episodeNumber": 16,
+    "title": "Grand Finale",
+    "topIds": ["myki-meeks", "nini-coco"],
+    "bottomIds": ["darlene-mitchell"],
+    "lipSync": {
+      "song": "Every Girl You've Ever Loved",
+      "queenIds": ["myki-meeks", "nini-coco"],
+      "winnerIds": ["myki-meeks"]
+    }
+  }
+]
