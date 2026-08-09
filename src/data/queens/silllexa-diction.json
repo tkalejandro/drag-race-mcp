@@ -1,0 +1,22 @@
+{
+  "id": "silllexa-diction",
+  "name": "Silllexa Diction",
+  "appearances": [
+    {
+      "seasonId": "UK-S07",
+      "placement": 4,
+      "eliminatedEpisodeId": "UK-S07-E10",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S07-E05",
+          "name": "Perform a talent show on the SS Tickety Boo Cruise Liner"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S07-E04", "song": "Pearls" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

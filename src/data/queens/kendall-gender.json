@@ -1,0 +1,34 @@
+{
+  "id": "kendall-gender",
+  "name": "Kendall Gender",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S02-E07",
+          "name": "Perform a roast of Brooke Lynn Hytes"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S02-E07",
+          "name": "Sound off on the highs and lows of this season's fashion on Brad Goreski's Fashion Puh-Leeze"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S02-E06",
+          "song": "Heaven"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E10",
+          "song": "It's All Coming Back to Me Now"
+        }
+      ]
+    }
+  ]
+}

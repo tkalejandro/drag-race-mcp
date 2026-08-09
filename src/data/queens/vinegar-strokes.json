@@ -1,0 +1,19 @@
+{
+  "id": "vinegar-strokes",
+  "name": "Vinegar Strokes",
+  "appearances": [
+    {
+      "seasonId": "UK-S01",
+      "placement": 8,
+      "eliminatedEpisodeId": "UK-S01-E03",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S01-E01", "song": "New Rules" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S01-E03", "song": "Would I Lie to You?" }
+      ]
+    }
+  ]
+}

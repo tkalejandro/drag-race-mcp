@@ -1,0 +1,26 @@
+{
+  "id": "suki-doll",
+  "name": "Suki Doll",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S02-E01",
+          "name": "Photoshoot while jumping off a platform"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E04",
+          "song": "Happiness"
+        }
+      ],
+      "eliminatedEpisodeId": "CA-S02-E04",
+      "missCongeniality": true
+    }
+  ]
+}

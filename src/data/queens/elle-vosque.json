@@ -1,0 +1,27 @@
+{
+  "id": "elle-vosque",
+  "name": "Elle Vosque",
+  "appearances": [
+    {
+      "seasonId": "UK-S07",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S07-E01",
+          "name": "Present a signature look at the Brit Gala and answer questions from Drag Race alumni"
+        },
+        {
+          "episodeId": "UK-S07-E06",
+          "name": "Peter Pansy: The Rusical"
+        }
+      ],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S07-E02", "name": "The Tainters" }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S07-E10", "song": "You Make Me Feel (Mighty Real)" }
+      ]
+    }
+  ]
+}

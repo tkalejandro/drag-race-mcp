@@ -1,0 +1,33 @@
+{
+  "id": "pythia",
+  "name": "Pythia",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S02-E02",
+          "name": "Perform in Under the Big Top, Live"
+        },
+        {
+          "episodeId": "CA-S02-E08",
+          "name": "Makeover LGBTQ+ teenagers"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S02-E09",
+          "song": "Call Me Mother"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E10",
+          "song": "It's All Coming Back to Me Now"
+        }
+      ]
+    }
+  ]
+}

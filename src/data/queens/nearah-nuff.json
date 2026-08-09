@@ -1,0 +1,33 @@
+{
+  "id": "nearah-nuff",
+  "name": "Nearah Nuff",
+  "appearances": [
+    {
+      "seasonId": "CA-S04",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S04-E06",
+          "name": "Participate in a lip-sync slay off extravaganza"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S04-E04",
+          "name": "Metallic photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S04-E04",
+          "song": "Come Through"
+        },
+        {
+          "episodeId": "CA-S04-E08",
+          "song": "I Didn't Just Come Here to Dance"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

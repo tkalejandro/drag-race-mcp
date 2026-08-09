@@ -1,0 +1,23 @@
+{
+  "id": "chanel-o-conor",
+  "name": "Chanel O'Conor",
+  "appearances": [
+    {
+      "seasonId": "UK-S06",
+      "placement": 8,
+      "eliminatedEpisodeId": "UK-S06-E06",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S06-E03",
+          "name": "Dirty Laundry"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S06-E02", "song": "Tension" },
+        { "episodeId": "UK-S06-E06", "song": "Something Kinda Ooooh" }
+      ]
+    }
+  ]
+}

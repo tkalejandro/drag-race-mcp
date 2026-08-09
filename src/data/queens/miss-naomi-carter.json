@@ -1,0 +1,25 @@
+{
+  "id": "miss-naomi-carter",
+  "name": "Miss Naomi Carter",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 9,
+      "eliminatedEpisodeId": "UK-S05-E04",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S05-E02",
+          "song": "Hot in It"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S05-E04",
+          "song": "The Only Way Is Up"
+        }
+      ]
+    }
+  ]
+}

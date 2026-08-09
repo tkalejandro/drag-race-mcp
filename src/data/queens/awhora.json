@@ -1,0 +1,34 @@
+{
+  "id": "awhora",
+  "name": "A'Whora",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 5,
+      "eliminatedEpisodeId": "UK-S02-E08",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S02-E05",
+          "name": "Write, record, and perform verses to UK Hun?"
+        },
+        {
+          "episodeId": "UK-S02-E07",
+          "name": "Create a Lockdown Supershero outfit from unconventional materials"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S02-E02",
+          "name": "Elect a Drag Race cabinet"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S02-E08",
+          "song": "You Don't Have to Say You Love Me"
+        }
+      ]
+    }
+  ]
+}

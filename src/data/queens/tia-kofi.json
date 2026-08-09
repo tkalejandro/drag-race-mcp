@@ -1,0 +1,34 @@
+{
+  "id": "tia-kofi",
+  "name": "Tia Kofi",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 7,
+      "eliminatedEpisodeId": "UK-S02-E06",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S02-E02",
+          "name": "Elect a Drag Race cabinet"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S02-E03",
+          "song": "Don't Start Now"
+        },
+        {
+          "episodeId": "UK-S02-E05",
+          "song": "Don't Leave Me This Way"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S02-E06",
+          "song": "Touch Me (All Night Long)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "uk-s01-vivienne-crown",
+    "title": "The Vivienne wins UK Series 1",
+    "summary": "In the Grand Finale (UK-S01-E08), The Vivienne and Divina de Campo lip-synced to Wham!'s \"I'm Your Man\". The Vivienne was crowned the UK's first Drag Race superstar; Divina finished as runner-up. Baga Chipz placed third. Early UK series offered no cash prize.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["the-vivienne", "divina-de-campo", "baga-chipz"],
+    "seasonIds": ["UK-S01"],
+    "episodeIds": ["UK-S01-E08"]
+  },
+  {
+    "id": "uk-s01-gothy-porkchop",
+    "title": "Gothy Kendoll: UK's first Porkchop",
+    "summary": "Gothy Kendoll was the first contestant eliminated on RuPaul's Drag Race UK (UK-S01-E01), lip-syncing to Dua Lipa's \"New Rules\" against Vinegar Strokes. Her farewell message called herself \"the UK's Porkchop\".",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["gothy-kendoll"],
+    "seasonIds": ["UK-S01"],
+    "episodeIds": ["UK-S01-E01"]
+  },
+  {
+    "id": "uk-s01-break-up-bye-bye",
+    "title": "Break Up (Bye Bye) chart success",
+    "summary": "In UK-S01-E05, the queens wrote and performed verses to \"Break Up (Bye Bye)\". The Frock Destroyers (Baga Chipz, Blu Hydrangea, Divina de Campo) won. The song was released as a single and reached number 35 on the UK Singles Chart.",
+    "tags": ["iconic", "comedy"],
+    "queenIds": ["baga-chipz", "blu-hydrangea", "divina-de-campo"],
+    "seasonIds": ["UK-S01"],
+    "episodeIds": ["UK-S01-E05"]
+  },
+  {
+    "id": "uk-s01-snatch-game",
+    "title": "First UK Snatch Game",
+    "summary": "UK-S01-E04 introduced Snatch Game to the UK franchise. Baga Chipz (Margaret Thatcher) and The Vivienne (Donald Trump) both won. Sum Ting Wong was eliminated after lip-syncing to \"Spice Up Your Life\".",
+    "tags": ["snatch-game", "iconic", "comedy"],
+    "queenIds": ["baga-chipz", "the-vivienne", "sum-ting-wong"],
+    "seasonIds": ["UK-S01"],
+    "episodeIds": ["UK-S01-E04"]
+  }
+]

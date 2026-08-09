@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ca-s02-icesis-crown",
+    "title": "Icesis Couture wins Canada's Drag Race Season 2",
+    "summary": "In the finale (CA-S02-E10), Icesis Couture, Kendall Gender, and Pythia lip-synced to Céline Dion's \"It's All Coming Back to Me Now\". Icesis was crowned Canada's Next Drag Superstar; Kendall and Pythia finished as runners-up. The cash prize was $100,000 CAD.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["icesis-couture", "kendall-gender", "pythia"],
+    "seasonIds": ["CA-S02"],
+    "episodeIds": ["CA-S02-E10"]
+  },
+  {
+    "id": "ca-s02-beth-porkchop",
+    "title": "Beth: Season 2's Porkchop",
+    "summary": "Beth was the first contestant eliminated on Canada's Drag Race Season 2 (CA-S02-E01), lip-syncing to Nelly Furtado's \"Maneater\" against Gia Metric.",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["beth", "gia-metric"],
+    "seasonIds": ["CA-S02"],
+    "episodeIds": ["CA-S02-E01"]
+  },
+  {
+    "id": "ca-s02-panel-shake-up",
+    "title": "Season 2 judging panel shake-up",
+    "summary": "For Canada's Drag Race Season 2, Brad Goreski replaced Jeffrey Bowyer-Chapman as a judge, while Amanda Brugel and Traci Melchor replaced Stacey McKenzie. Brooke Lynn Hytes continued as host.",
+    "tags": ["production", "iconic"],
+    "queenIds": ["brooke-lynn-hytes"],
+    "seasonIds": ["CA-S02"]
+  },
+  {
+    "id": "ca-s02-suki-miss-c",
+    "title": "Suki Doll voted Miss Congeniality",
+    "summary": "At the Season 2 reunion (CA-S02-E09), Suki Doll was announced as Miss Congeniality after being voted by her fellow contestants. She had been eliminated in Snatch Game (CA-S02-E04).",
+    "tags": ["fan-favorite", "reunion", "iconic"],
+    "queenIds": ["suki-doll"],
+    "seasonIds": ["CA-S02"],
+    "episodeIds": ["CA-S02-E04", "CA-S02-E09"]
+  },
+  {
+    "id": "ca-s02-reunion-smackdown",
+    "title": "Top 4 lip-sync smackdown at the reunion",
+    "summary": "In CA-S02-E09, the top four competed in a lip-sync smackdown to secure the top three. After rounds set to RuPaul's \"Main Event\" and \"Born Naked\", Gia Metric and Pythia lip-synced to \"Call Me Mother\"; Pythia won and Gia was eliminated, leaving Icesis Couture, Kendall Gender, and Pythia in the finale.",
+    "tags": ["reunion", "lip-sync", "twist", "iconic"],
+    "queenIds": ["icesis-couture", "kendall-gender", "pythia", "gia-metric"],
+    "seasonIds": ["CA-S02"],
+    "episodeIds": ["CA-S02-E09"]
+  }
+]

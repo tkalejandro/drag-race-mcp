@@ -1,0 +1,24 @@
+{
+  "id": "ellie-diamond",
+  "name": "Ellie Diamond",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 4,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S02-E08",
+          "name": "Butch performance of RuPaul's Kitty Girl"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S02-E09",
+          "song": "Last Thing on My Mind"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

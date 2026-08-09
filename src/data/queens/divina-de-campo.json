@@ -1,0 +1,23 @@
+{
+  "id": "divina-de-campo",
+  "name": "Divina de Campo",
+  "appearances": [
+    {
+      "seasonId": "UK-S01",
+      "placement": 2,
+      "challengeWins": [
+        { "episodeId": "UK-S01-E03", "name": "Create an outfit from car boot sale junk" },
+        { "episodeId": "UK-S01-E05", "name": "Write, record, and perform verses to Break Up (Bye Bye)" },
+        { "episodeId": "UK-S01-E07", "name": "Makeover a family member" }
+      ],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S01-E06", "name": "Boxers, Briefs or Commando" },
+        { "episodeId": "UK-S01-E07", "name": "Everybody Loves Puppets" }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S01-E08", "song": "I'm Your Man" }
+      ]
+    }
+  ]
+}

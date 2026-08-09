@@ -1,0 +1,33 @@
+{
+  "id": "venus",
+  "name": "Venus",
+  "appearances": [
+    {
+      "seasonId": "CA-S04",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S04-E01",
+          "name": "Present three looks: First Impressions, Shimmering Showgirls and Me Myself and I"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S04-E07",
+          "name": "Get into quick drag and host a parody late night call-in show called Just A Tip"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S04-E01",
+          "song": "Feel It in My Bones"
+        },
+        {
+          "episodeId": "CA-S04-E09",
+          "song": "Try"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

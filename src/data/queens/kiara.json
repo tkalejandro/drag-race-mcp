@@ -1,0 +1,18 @@
+{
+  "id": "kiara",
+  "name": "Kiara",
+  "aliases": ["Kiara Schatzi"],
+  "appearances": [
+    {
+      "seasonId": "CA-S01",
+      "placement": 8,
+      "eliminatedEpisodeId": "CA-S01-E05",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "CA-S01-E05", "song": "I Drove All Night" }
+      ]
+    }
+  ]
+}

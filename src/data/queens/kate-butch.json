@@ -1,0 +1,30 @@
+{
+  "id": "kate-butch",
+  "name": "Kate Butch",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 5,
+      "eliminatedEpisodeId": "UK-S05-E08",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S05-E07",
+          "name": "In pairs, perform in screen tests for a romantic drama"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S05-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S05-E08",
+          "song": "This Hell"
+        }
+      ]
+    }
+  ]
+}

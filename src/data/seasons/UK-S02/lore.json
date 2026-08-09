@@ -1,0 +1,47 @@
+[
+  {
+    "id": "uk-s02-lawrence-crown",
+    "title": "Lawrence Chaney wins UK Series 2",
+    "summary": "In the Grand Finale (UK-S02-E10), Ellie Diamond was eliminated without a lip sync, leaving Bimini Bon-Boulash, Lawrence Chaney, and Tayce. The final three lip-synced to Elton John's \"I'm Still Standing\". Lawrence Chaney was crowned; Bimini and Tayce finished as runners-up. Early UK series offered no cash prize.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["lawrence-chaney", "bimini-bon-boulash", "tayce", "ellie-diamond"],
+    "seasonIds": ["UK-S02"],
+    "episodeIds": ["UK-S02-E10"]
+  },
+  {
+    "id": "uk-s02-joe-black-porkchop",
+    "title": "Joe Black: first out, then back",
+    "summary": "Joe Black was the first contestant eliminated on UK Series 2 (UK-S02-E01), lip-syncing to Frankie Goes to Hollywood's \"Relax\" against Bimini Bon-Boulash. After a COVID-related production break, Joe won the returning-queen vote in The RuRuvision Song Contest (UK-S02-E05) before being eliminated again.",
+    "tags": ["porkchop", "return", "twist"],
+    "queenIds": ["joe-black", "bimini-bon-boulash"],
+    "seasonIds": ["UK-S02"],
+    "episodeIds": ["UK-S02-E01", "UK-S02-E05"]
+  },
+  {
+    "id": "uk-s02-uk-hun",
+    "title": "UK Hun? chart success",
+    "summary": "In UK-S02-E05, the queens wrote and performed verses to \"UK Hun?\". Team United Kingdolls (A'Whora, Bimini Bon-Boulash, Lawrence Chaney, and Tayce) won. The United Kingdolls version reached number 27 on the Official UK Singles Chart.",
+    "tags": ["iconic", "comedy"],
+    "queenIds": ["awhora", "bimini-bon-boulash", "lawrence-chaney", "tayce"],
+    "seasonIds": ["UK-S02"],
+    "episodeIds": ["UK-S02-E05"]
+  },
+  {
+    "id": "uk-s02-ginny-quit",
+    "title": "Ginny Lemon quits mid lip-sync",
+    "summary": "In Morning Glory (UK-S02-E04), Ginny Lemon and Sister Sister lip-synced to Kim Wilde's \"You Keep Me Hangin' On\". Ginny walked off stage at the start of the performance and quit the competition; Sister Sister was declared the lip-sync winner.",
+    "tags": ["quit", "lip-sync", "iconic"],
+    "queenIds": ["ginny-lemon", "sister-sister"],
+    "seasonIds": ["UK-S02"],
+    "episodeIds": ["UK-S02-E04"]
+  },
+  {
+    "id": "uk-s02-veronica-covid",
+    "title": "Veronica Green withdrawn for COVID-19",
+    "summary": "When filming resumed after a lockdown break for The RuRuvision Song Contest (UK-S02-E05), Veronica Green was removed after testing positive for COVID-19 and given an open invitation to return for Series 3. Joe Black re-entered via a cast vote among previously eliminated queens.",
+    "tags": ["quit", "production", "twist", "return"],
+    "queenIds": ["veronica-green", "joe-black"],
+    "seasonIds": ["UK-S02"],
+    "episodeIds": ["UK-S02-E05"]
+  }
+]

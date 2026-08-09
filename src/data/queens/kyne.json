@@ -1,0 +1,22 @@
+{
+  "id": "kyne",
+  "name": "Kyne",
+  "appearances": [
+    {
+      "seasonId": "CA-S01",
+      "placement": 11,
+      "eliminatedEpisodeId": "CA-S01-E02",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S01-E01",
+          "name": "Photoshoot atop a replica of the Rocky Mountains"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "CA-S01-E02", "song": "If You Could Read My Mind" }
+      ]
+    }
+  ]
+}

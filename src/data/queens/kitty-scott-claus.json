@@ -1,0 +1,33 @@
+{
+  "id": "kitty-scott-claus",
+  "name": "Kitty Scott-Claus",
+  "appearances": [
+    {
+      "seasonId": "UK-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S03-E07",
+          "name": "The Miss Fugly Beauty Pageant"
+        },
+        {
+          "episodeId": "UK-S03-E08",
+          "name": "Overact in the budget movie Bra Wars - The Fempire Claps Back"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S03-E08",
+          "song": "Something New"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S03-E10",
+          "song": "You Don't Own Me"
+        }
+      ]
+    }
+  ]
+}

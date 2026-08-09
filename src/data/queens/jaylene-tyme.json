@@ -1,0 +1,21 @@
+{
+  "id": "jaylene-tyme",
+  "name": "Jaylene Tyme",
+  "appearances": [
+    {
+      "seasonId": "CA-S05",
+      "placement": 8,
+      "eliminatedEpisodeId": "CA-S05-E05",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S05-E05",
+          "song": "Here Comes the Sunshine"
+        }
+      ],
+      "missCongeniality": true
+    }
+  ]
+}

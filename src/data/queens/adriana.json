@@ -1,0 +1,26 @@
+{
+  "id": "adriana",
+  "name": "Adriana",
+  "aliases": ["Adriana The Bombshell", "Adriana Schatzim"],
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S02-E03",
+          "name": "Overact in the slasher film parody Screech"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E08",
+          "song": "Everybody Say Love"
+        }
+      ],
+      "eliminatedEpisodeId": "CA-S02-E08"
+    }
+  ]
+}

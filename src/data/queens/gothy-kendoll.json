@@ -1,0 +1,17 @@
+{
+  "id": "gothy-kendoll",
+  "name": "Gothy Kendoll",
+  "appearances": [
+    {
+      "seasonId": "UK-S01",
+      "placement": 10,
+      "eliminatedEpisodeId": "UK-S01-E01",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S01-E01", "song": "New Rules" }
+      ]
+    }
+  ]
+}

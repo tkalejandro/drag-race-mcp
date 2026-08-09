@@ -1,0 +1,33 @@
+{
+  "id": "kimmy-couture",
+  "name": "Kimmy Couture",
+  "appearances": [
+    {
+      "seasonId": "CA-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S03-E02",
+          "name": "Host and present segments of the Who-Knows awards show"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S03-E07",
+          "name": "Audition for a parody sci-fi film"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S03-E05",
+          "song": "Run Away with Me"
+        },
+        {
+          "episodeId": "CA-S03-E08",
+          "song": "CTRL + ALT + DEL"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

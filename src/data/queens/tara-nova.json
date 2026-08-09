@@ -1,0 +1,20 @@
+{
+  "id": "tara-nova",
+  "name": "Tara Nova",
+  "appearances": [
+    {
+      "seasonId": "CA-S05",
+      "placement": 11,
+      "eliminatedEpisodeId": "CA-S05-E02",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S05-E02",
+          "song": "Fuck the Pain Away"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "the-virgo-queen",
+  "name": "The Virgo Queen",
+  "appearances": [
+    {
+      "seasonId": "CA-S05",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S05-E01",
+          "name": "Write, record, and perform verses to Go Off Queen"
+        },
+        {
+          "episodeId": "CA-S05-E03",
+          "name": "In teams, participate in a lip-sync slay off extravaganza"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S05-E08",
+          "name": "Reporting in front of a green screen"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S05-E01",
+          "song": "Pretty Girl Era"
+        },
+        {
+          "episodeId": "CA-S05-E06",
+          "song": "Hello"
+        },
+        {
+          "episodeId": "CA-S05-E07",
+          "song": "Taking Chances"
+        },
+        {
+          "episodeId": "CA-S05-E09",
+          "song": "From This Moment On"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

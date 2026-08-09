@@ -1,0 +1,45 @@
+{
+  "id": "icesis-couture",
+  "name": "Icesis Couture",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S02-E01",
+          "name": "Create a look made from coat check items"
+        },
+        {
+          "episodeId": "CA-S02-E06",
+          "name": "The Sinner's Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S02-E04",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "CA-S02-E06",
+          "name": "Get into quick drag and paint an evocative twerk of art resembling their inner saboteur"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S02-E02",
+          "song": "Stupid Shit"
+        },
+        {
+          "episodeId": "CA-S02-E08",
+          "song": "Everybody Say Love"
+        },
+        {
+          "episodeId": "CA-S02-E10",
+          "song": "It's All Coming Back to Me Now"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

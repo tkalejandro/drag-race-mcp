@@ -1,0 +1,17 @@
+{
+  "id": "dita-garbo",
+  "name": "Dita Garbo",
+  "appearances": [
+    {
+      "seasonId": "UK-S06",
+      "placement": 11,
+      "eliminatedEpisodeId": "UK-S06-E03",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S06-E03", "song": "Girls on Film" }
+      ]
+    }
+  ]
+}

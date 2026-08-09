@@ -1,0 +1,27 @@
+{
+  "id": "baby",
+  "name": "Baby",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 8,
+      "eliminatedEpisodeId": "UK-S04-E05",
+      "quit": true,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S04-E03",
+          "name": "In pairs, create a look with the same colors and fabrics"
+        }
+      ],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S04-E03", "name": "Naff-ta Awards" }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "UK-S04-E04", "song": "Respectable" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S04-E05", "song": "No Way" }
+      ]
+    }
+  ]
+}

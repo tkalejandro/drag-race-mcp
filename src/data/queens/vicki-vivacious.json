@@ -1,0 +1,30 @@
+{
+  "id": "vicki-vivacious",
+  "name": "Vicki Vivacious",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 7,
+      "eliminatedEpisodeId": "UK-S05-E06",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S05-E01",
+          "name": "Serve three looks: Entrance Looks, Club Tickety-Boo Looks and Fierce Impressions"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S05-E01",
+          "song": "Ooh Aah... Just a Little Bit"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S05-E06",
+          "song": "Heartbreak on Hold"
+        }
+      ]
+    }
+  ]
+}

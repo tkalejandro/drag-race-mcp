@@ -1,0 +1,30 @@
+{
+  "id": "uma-gahd",
+  "name": "Uma Gahd",
+  "appearances": [
+    {
+      "seasonId": "CA-S05",
+      "placement": 7,
+      "eliminatedEpisodeId": "CA-S05-E06",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S05-E05",
+          "name": "Get into quick drag and audition to be a '90s showcase supermodel"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S05-E04",
+          "song": "Contemporary Love"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S05-E06",
+          "song": "Hello"
+        }
+      ]
+    }
+  ]
+}

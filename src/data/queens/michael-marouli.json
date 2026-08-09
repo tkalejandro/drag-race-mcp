@@ -1,0 +1,37 @@
+{
+  "id": "michael-marouli",
+  "name": "Michael Marouli",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S05-E04",
+          "name": "In teams, perform an inspirational seminar called RuPaul's DisasterClass"
+        },
+        {
+          "episodeId": "UK-S05-E08",
+          "name": "Makeover hotline workers of Switchboard"
+        },
+        {
+          "episodeId": "UK-S05-E09",
+          "name": "Perform a roast of the judges and the eliminated queens of Series 5"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S05-E07",
+          "song": "Touch Me (I Want Your Body)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S05-E10",
+          "song": "A Little Respect"
+        }
+      ]
+    }
+  ]
+}

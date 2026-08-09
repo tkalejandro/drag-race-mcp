@@ -1,0 +1,41 @@
+{
+  "id": "ella-vaday",
+  "name": "Ella Vaday",
+  "appearances": [
+    {
+      "seasonId": "UK-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S03-E04",
+          "name": "Write, record, and perform verses to B.D.E. (Big Drag Energy)"
+        },
+        {
+          "episodeId": "UK-S03-E06",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "UK-S03-E08",
+          "name": "Overact in the budget movie Bra Wars - The Fempire Claps Back"
+        },
+        {
+          "episodeId": "UK-S03-E09",
+          "name": "Perform a roast of the judges and the eliminated queens of Series 3"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S03-E08",
+          "song": "Something New"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S03-E10",
+          "song": "You Don't Own Me"
+        }
+      ]
+    }
+  ]
+}

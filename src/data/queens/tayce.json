@@ -1,0 +1,50 @@
+{
+  "id": "tayce",
+  "name": "Tayce",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S02-E05",
+          "name": "Write, record, and perform verses to UK Hun?"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S02-E02",
+          "name": "Elect a Drag Race cabinet"
+        },
+        {
+          "episodeId": "UK-S02-E03",
+          "name": "Limbo Extravaganza"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S02-E02",
+          "song": "Memory"
+        },
+        {
+          "episodeId": "UK-S02-E07",
+          "song": "Don't Be So Hard on Yourself"
+        },
+        {
+          "episodeId": "UK-S02-E08",
+          "song": "You Don't Have to Say You Love Me"
+        },
+        {
+          "episodeId": "UK-S02-E09",
+          "song": "Last Thing on My Mind"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S02-E10",
+          "song": "I'm Still Standing"
+        }
+      ]
+    }
+  ]
+}

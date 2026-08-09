@@ -1,0 +1,25 @@
+{
+  "id": "elektra-fence",
+  "name": "Elektra Fence",
+  "appearances": [
+    {
+      "seasonId": "UK-S03",
+      "placement": 11,
+      "eliminatedEpisodeId": "UK-S03-E02",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S03-E01",
+          "song": "Sweet Melody"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S03-E02",
+          "song": "Moving On Up"
+        }
+      ]
+    }
+  ]
+}

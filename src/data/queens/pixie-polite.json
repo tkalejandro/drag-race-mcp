@@ -1,0 +1,27 @@
+{
+  "id": "pixie-polite",
+  "name": "Pixie Polite",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 5,
+      "eliminatedEpisodeId": "UK-S04-E09",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S04-E02",
+          "name": "Write, record, and perform verses to Come Alive"
+        }
+      ],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S04-E04", "name": "Musical chairs" },
+        { "episodeId": "UK-S04-E05", "name": "Reading is Fundamental" }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "UK-S04-E07", "song": "Miss Me Blind" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S04-E09", "song": "Another One Bites the Dust" }
+      ]
+    }
+  ]
+}

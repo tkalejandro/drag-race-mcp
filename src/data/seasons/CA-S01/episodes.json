@@ -1,0 +1,230 @@
+[
+  {
+    "id": "CA-S01-E01",
+    "seasonId": "CA-S01",
+    "episodeNumber": 1,
+    "title": "Eh-laganza Eh-xtravaganza",
+    "miniChallenge": {
+      "name": "Photoshoot atop a replica of the Rocky Mountains",
+      "winnerIds": ["kyne"]
+    },
+    "maxiChallenge": {
+      "name": "Create a couture outfit from a box of items themed around various aspects of Canada",
+      "winnerIds": ["rita-baga"]
+    },
+    "topIds": ["rita-baga", "boa", "jimbo"],
+    "bottomIds": ["juice-boxx", "lemon"],
+    "lipSync": {
+      "song": "I Really Like You",
+      "queenIds": ["juice-boxx", "lemon"],
+      "winnerIds": ["lemon"],
+      "eliminatedIds": ["juice-boxx"]
+    },
+    "guestJudges": [{ "name": "Elisha Cuthbert" }]
+  },
+  {
+    "id": "CA-S01-E02",
+    "seasonId": "CA-S01",
+    "episodeNumber": 2,
+    "title": "Her-itage Moments",
+    "miniChallenge": {
+      "name": "Get into quick drag and audition for a role as a ballerina in The Nutsmacker",
+      "winnerIds": ["anastarzia-anaquway", "boa"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, overact in parodies of Heritage Minutes",
+      "winnerIds": ["lemon"]
+    },
+    "runwayTheme": "Not My First Time",
+    "topIds": ["lemon", "jimbo", "kiara", "priyanka"],
+    "bottomIds": ["kyne", "tynomi-banks"],
+    "lipSync": {
+      "song": "If You Could Read My Mind",
+      "queenIds": ["kyne", "tynomi-banks"],
+      "winnerIds": ["tynomi-banks"],
+      "eliminatedIds": ["kyne"]
+    },
+    "guestJudges": [{ "name": "Jade Hassouné" }]
+  },
+  {
+    "id": "CA-S01-E03",
+    "seasonId": "CA-S01",
+    "episodeNumber": 3,
+    "title": "Not Sorry Aboot It",
+    "miniChallenge": {
+      "name": "Get into quick drag and perform an audition for the morning show Canada Gay M while reading from a teleprompter in English, French, and Draglish",
+      "winnerIds": ["lemon", "priyanka"]
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to Not Sorry Aboot It",
+      "winnerIds": ["priyanka"]
+    },
+    "runwayTheme": "Que-Becky With the Good Hair",
+    "topIds": ["priyanka", "boa", "scarlett-bobo"],
+    "bottomIds": ["anastarzia-anaquway", "tynomi-banks"],
+    "lipSync": {
+      "song": "Absolutely Not (Chanel Club Mix)",
+      "queenIds": ["anastarzia-anaquway", "tynomi-banks"],
+      "winnerIds": ["tynomi-banks"],
+      "eliminatedIds": ["anastarzia-anaquway"]
+    },
+    "guestJudges": [{ "name": "Deborah Cox" }]
+  },
+  {
+    "id": "CA-S01-E04",
+    "seasonId": "CA-S01",
+    "episodeNumber": 4,
+    "title": "Single-Use Queens",
+    "miniChallenge": {
+      "name": "Play a memory game with the pit crew's underwear colors",
+      "winnerIds": ["jimbo"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, create a cohesive fashion line made out of garbage",
+      "winnerIds": ["rita-baga"]
+    },
+    "topIds": ["rita-baga"],
+    "bottomIds": ["ilona-verley", "tynomi-banks"],
+    "lipSync": {
+      "song": "Girlfriend",
+      "queenIds": ["ilona-verley", "tynomi-banks"],
+      "winnerIds": ["ilona-verley"],
+      "eliminatedIds": ["tynomi-banks"]
+    },
+    "guestJudges": [{ "name": "Evan Biddell" }]
+  },
+  {
+    "id": "CA-S01-E05",
+    "seasonId": "CA-S01",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading Is Fundamental",
+      "winnerIds": ["lemon"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["jimbo"]
+    },
+    "runwayTheme": "Night of a Thousand Céline Dion's",
+    "topIds": ["jimbo", "lemon", "rita-baga"],
+    "bottomIds": ["kiara", "priyanka"],
+    "lipSync": {
+      "song": "I Drove All Night",
+      "queenIds": ["kiara", "priyanka"],
+      "winnerIds": ["priyanka"],
+      "eliminatedIds": ["kiara"]
+    },
+    "guestJudges": [{ "name": "Mary Walsh" }]
+  },
+  {
+    "id": "CA-S01-E06",
+    "seasonId": "CA-S01",
+    "episodeNumber": 6,
+    "title": "Star Sixty-Nine",
+    "miniChallenge": {
+      "name": "Get into quick drag and play psychic hotline operators",
+      "winnerIds": ["lemon"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, write and produce commercials for fictional drag queen law firms",
+      "winnerIds": ["rita-baga"]
+    },
+    "runwayTheme": "Canadian 'Tuck'-shedo",
+    "topIds": ["rita-baga", "jimbo", "scarlett-bobo"],
+    "bottomIds": ["boa", "ilona-verley"],
+    "lipSync": {
+      "song": "Scars to Your Beautiful",
+      "queenIds": ["boa", "ilona-verley"],
+      "winnerIds": ["ilona-verley"],
+      "eliminatedIds": ["boa"]
+    },
+    "guestJudges": [{ "name": "Tom Green" }]
+  },
+  {
+    "id": "CA-S01-E07",
+    "seasonId": "CA-S01",
+    "episodeNumber": 7,
+    "title": "Miss Loose Jaw",
+    "maxiChallenge": {
+      "name": "Compete in The Miss Loose Jaw Pageant",
+      "winnerIds": ["lemon"]
+    },
+    "runwayTheme": "Pageant Perfection",
+    "topIds": ["lemon", "scarlett-bobo"],
+    "bottomIds": ["ilona-verley", "priyanka"],
+    "lipSync": {
+      "song": "Hello",
+      "queenIds": ["ilona-verley", "priyanka"],
+      "winnerIds": ["priyanka"],
+      "eliminatedIds": ["ilona-verley"]
+    },
+    "guestJudges": [{ "name": "Allie X" }]
+  },
+  {
+    "id": "CA-S01-E08",
+    "seasonId": "CA-S01",
+    "episodeNumber": 8,
+    "title": "Welcome to the Family",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["scarlett-bobo"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover LGBT refugees who have recently moved to Canada through Rainbow Railroad",
+      "winnerIds": ["priyanka"]
+    },
+    "runwayTheme": "A Family Affair",
+    "topIds": ["priyanka", "scarlett-bobo"],
+    "bottomIds": ["lemon", "rita-baga"],
+    "lipSync": {
+      "song": "You Oughta Know",
+      "queenIds": ["lemon", "rita-baga"],
+      "winnerIds": ["rita-baga"],
+      "eliminatedIds": ["lemon"]
+    },
+    "guestJudges": [{ "name": "Amanda Brugel" }]
+  },
+  {
+    "id": "CA-S01-E09",
+    "seasonId": "CA-S01",
+    "episodeNumber": 9,
+    "title": "The Snow Ball",
+    "miniChallenge": {
+      "name": "Sing O Canada as a local chanteuse",
+      "winnerIds": ["rita-baga"]
+    },
+    "maxiChallenge": {
+      "name": "The Snow Ball: Executive Holiday Party Realness, Icy Walk of Shame and Ice Queen Eleganza",
+      "winnerIds": ["scarlett-bobo"]
+    },
+    "runwayTheme": "Executive Holiday Party Realness, Icy Walk of Shame and Ice Queen Eleganza",
+    "topIds": ["scarlett-bobo"],
+    "bottomIds": ["jimbo", "rita-baga"],
+    "lipSync": {
+      "song": "Closer",
+      "queenIds": ["jimbo", "rita-baga"],
+      "winnerIds": ["rita-baga"],
+      "eliminatedIds": ["jimbo"]
+    },
+    "guestJudges": [{ "name": "Michelle Visage" }]
+  },
+  {
+    "id": "CA-S01-E10",
+    "seasonId": "CA-S01",
+    "episodeNumber": 10,
+    "title": "U Wear It Well",
+    "maxiChallenge": {
+      "name": "Write, record and perform verses to a remix of RuPaul's U Wear It Well",
+      "winnerIds": []
+    },
+    "runwayTheme": "Coronation Eleganza",
+    "topIds": ["priyanka", "rita-baga", "scarlett-bobo"],
+    "lipSync": {
+      "song": "You're a Superstar",
+      "queenIds": ["priyanka", "rita-baga", "scarlett-bobo"],
+      "winnerIds": ["priyanka"]
+    },
+    "guestJudges": [{ "name": "Traci Melchor" }]
+  }
+]

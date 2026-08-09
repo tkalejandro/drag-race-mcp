@@ -1,0 +1,38 @@
+{
+  "id": "van-goth",
+  "name": "Van Goth",
+  "appearances": [
+    {
+      "seasonId": "CA-S06",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S06-E01",
+          "name": "Write, record, and perform verses to Not Sorry Aboot It (Remix)",
+          "earnings": { "amount": 5000, "currency": "CAD" }
+        },
+        {
+          "episodeId": "CA-S06-E03",
+          "name": "Choose to compete on Snatch Game or create an outfit made for a Red Carpet",
+          "earnings": { "amount": 2500, "currency": "CAD" }
+        },
+        {
+          "episodeId": "CA-S06-E07",
+          "name": "Design an outfit to be modeled by Brooke Lynn Hytes"
+        },
+        {
+          "episodeId": "CA-S06-E08",
+          "name": "CUNTest: design your own look with a little black dress"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S06-E09",
+          "song": "Super Graphic Ultra Modern Girl"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

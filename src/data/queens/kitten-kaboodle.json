@@ -1,0 +1,31 @@
+{
+  "id": "kitten-kaboodle",
+  "name": "Kitten Kaboodle",
+  "appearances": [
+    {
+      "seasonId": "CA-S04",
+      "placement": 7,
+      "eliminatedEpisodeId": "CA-S04-E06",
+      "challengeWins": [
+        {
+          "episodeId": "CA-S04-E02",
+          "name": "In teams, advertise a drag look product as a host on the shopping channel parody QV-She"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S04-E03",
+          "song": "Tongue"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S04-E06",
+          "song": "I Will Love Again"
+        }
+      ],
+      "missCongeniality": true
+    }
+  ]
+}

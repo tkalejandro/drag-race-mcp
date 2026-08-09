@@ -1,0 +1,21 @@
+{
+  "id": "the-vivienne",
+  "name": "The Vivienne",
+  "appearances": [
+    {
+      "seasonId": "UK-S01",
+      "placement": 1,
+      "challengeWins": [
+        { "episodeId": "UK-S01-E01", "name": "Present two looks: Queen of Your Hometown and Queen Elizabeth II-inspired" },
+        { "episodeId": "UK-S01-E04", "name": "Snatch Game" },
+        { "episodeId": "UK-S01-E06", "name": "Campaign, market and design a bottled water brand" }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S01-E05", "song": "Power" },
+        { "episodeId": "UK-S01-E08", "song": "I'm Your Man" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

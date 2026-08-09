@@ -1,0 +1,30 @@
+{
+  "id": "sister-sister",
+  "name": "Sister Sister",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 6,
+      "eliminatedEpisodeId": "UK-S02-E07",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S02-E07",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UK-S02-E04",
+          "song": "You Keep Me Hangin' On"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S02-E07",
+          "song": "Don't Be So Hard on Yourself"
+        }
+      ]
+    }
+  ]
+}

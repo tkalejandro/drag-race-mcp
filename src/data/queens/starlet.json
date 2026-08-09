@@ -1,0 +1,17 @@
+{
+  "id": "starlet",
+  "name": "Starlet",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 11,
+      "eliminatedEpisodeId": "UK-S04-E02",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S04-E02", "song": "About You Now" }
+      ]
+    }
+  ]
+}

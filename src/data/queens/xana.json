@@ -1,0 +1,30 @@
+{
+  "id": "xana",
+  "name": "Xana",
+  "appearances": [
+    {
+      "seasonId": "CA-S05",
+      "placement": 6,
+      "eliminatedEpisodeId": "CA-S05-E07",
+      "challengeWins": [
+        {
+          "episodeId": "CA-S05-E06",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S05-E05",
+          "song": "Here Comes the Sunshine"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S05-E07",
+          "song": "Taking Chances"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "danny-beard",
+  "name": "Danny Beard",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UK-S04-E02",
+          "name": "Write, record, and perform verses to Come Alive"
+        },
+        {
+          "episodeId": "UK-S04-E04",
+          "name": "In teams, improvise on Alan Carr's show Catty Man"
+        },
+        {
+          "episodeId": "UK-S04-E05",
+          "name": "Lairy Poppins: The Rusical"
+        },
+        {
+          "episodeId": "UK-S04-E09",
+          "name": "Perform a roast of the judges and the eliminated queens of Series 4"
+        }
+      ],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S04-E03", "name": "Naff-ta Awards" }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "UK-S04-E10", "song": "This Is My Life" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

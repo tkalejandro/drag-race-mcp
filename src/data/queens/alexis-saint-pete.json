@@ -1,0 +1,20 @@
+{
+  "id": "alexis-saint-pete",
+  "name": "Alexis Saint-Pete",
+  "appearances": [
+    {
+      "seasonId": "UK-S05",
+      "placement": 10,
+      "eliminatedEpisodeId": "UK-S05-E02",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S05-E02",
+          "song": "Hot in It"
+        }
+      ]
+    }
+  ]
+}

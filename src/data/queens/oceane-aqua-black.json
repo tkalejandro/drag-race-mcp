@@ -1,0 +1,25 @@
+{
+  "id": "oceane-aqua-black",
+  "name": "Océane Aqua-Black",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S02-E02",
+          "name": "Queen of My Neighborhood Pageant"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E02",
+          "song": "Stupid Shit"
+        }
+      ],
+      "eliminatedEpisodeId": "CA-S02-E02"
+    }
+  ]
+}

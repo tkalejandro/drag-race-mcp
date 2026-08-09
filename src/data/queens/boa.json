@@ -1,0 +1,23 @@
+{
+  "id": "boa",
+  "name": "BOA",
+  "aliases": ["Bitch On Arrival"],
+  "appearances": [
+    {
+      "seasonId": "CA-S01",
+      "placement": 7,
+      "eliminatedEpisodeId": "CA-S01-E06",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S01-E02",
+          "name": "Get into quick drag and audition for a role as a ballerina in The Nutsmacker"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "CA-S01-E06", "song": "Scars to Your Beautiful" }
+      ]
+    }
+  ]
+}

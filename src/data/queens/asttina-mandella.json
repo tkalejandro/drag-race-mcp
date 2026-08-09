@@ -1,0 +1,25 @@
+{
+  "id": "asttina-mandella",
+  "name": "Asttina Mandella",
+  "appearances": [
+    {
+      "seasonId": "UK-S02",
+      "placement": 11,
+      "eliminatedEpisodeId": "UK-S02-E03",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S02-E01",
+          "name": "Present two looks on the runway: UK Gay Icons and Queen of Your Hometown"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UK-S02-E03",
+          "song": "Don't Start Now"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "blu-hydrangea",
+  "name": "Blu Hydrangea",
+  "appearances": [
+    {
+      "seasonId": "UK-S01",
+      "placement": 5,
+      "eliminatedEpisodeId": "UK-S01-E06",
+      "challengeWins": [
+        { "episodeId": "UK-S01-E05", "name": "Write, record, and perform verses to Break Up (Bye Bye)" }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S01-E02", "song": "Venus" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S01-E06", "song": "Call My Name (Wideboys Remix)" }
+      ]
+    }
+  ]
+}

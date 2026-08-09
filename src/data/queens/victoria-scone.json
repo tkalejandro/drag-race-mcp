@@ -1,0 +1,16 @@
+{
+  "id": "victoria-scone",
+  "name": "Victoria Scone",
+  "appearances": [
+    {
+      "seasonId": "UK-S03",
+      "placement": 10,
+      "eliminatedEpisodeId": "UK-S03-E03",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "quit": true
+    }
+  ]
+}

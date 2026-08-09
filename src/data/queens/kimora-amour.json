@@ -1,0 +1,20 @@
+{
+  "id": "kimora-amour",
+  "name": "Kimora Amour",
+  "appearances": [
+    {
+      "seasonId": "CA-S02",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S02-E07",
+          "song": "Get Down"
+        }
+      ],
+      "eliminatedEpisodeId": "CA-S02-E07"
+    }
+  ]
+}

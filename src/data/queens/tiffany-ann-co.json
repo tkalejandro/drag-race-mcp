@@ -1,0 +1,25 @@
+{
+  "id": "tiffany-ann-co",
+  "name": "Tiffany Ann Co.",
+  "appearances": [
+    {
+      "seasonId": "CA-S05",
+      "placement": 10,
+      "eliminatedEpisodeId": "CA-S05-E03",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S05-E02",
+          "song": "Fuck the Pain Away"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S05-E03",
+          "song": "Hot"
+        }
+      ]
+    }
+  ]
+}

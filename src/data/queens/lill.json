@@ -1,0 +1,26 @@
+{
+  "id": "lill",
+  "name": "Lill",
+  "appearances": [
+    {
+      "seasonId": "UK-S06",
+      "placement": 5,
+      "eliminatedEpisodeId": "UK-S06-E09",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S06-E02",
+          "name": "In teams, create a three-piece fashion collection using household materials"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S06-E02", "song": "Tension" },
+        { "episodeId": "UK-S06-E04", "song": "Don't Call Me Up" },
+        { "episodeId": "UK-S06-E07", "song": "Time Warp" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S06-E09", "song": "Crazy What Love Can Do" }
+      ]
+    }
+  ]
+}

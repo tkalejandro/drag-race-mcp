@@ -1,0 +1,22 @@
+{
+  "id": "le-fil",
+  "name": "Le Fil",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 7,
+      "eliminatedEpisodeId": "UK-S04-E06",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S04-E02",
+          "name": "Write, record, and perform verses to Come Alive"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S04-E06", "song": "Stop" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "jonbers-blonde",
+  "name": "Jonbers Blonde",
+  "appearances": [
+    {
+      "seasonId": "UK-S04",
+      "placement": 4,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S04-E02", "song": "About You Now" },
+        { "episodeId": "UK-S04-E08", "song": "Some Kinda Rush" }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

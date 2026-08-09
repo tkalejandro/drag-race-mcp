@@ -1,0 +1,33 @@
+{
+  "id": "aurora-matrix",
+  "name": "Aurora Matrix",
+  "appearances": [
+    {
+      "seasonId": "CA-S04",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S04-E03",
+          "name": "Write, record, and perform verses for the OH-SHE-GAGGIN music festival"
+        },
+        {
+          "episodeId": "CA-S04-E07",
+          "name": "From Drags to Riches: The Rusical"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CA-S04-E05",
+          "song": "She's All I Wanna Be"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CA-S04-E09",
+          "song": "Try"
+        }
+      ]
+    }
+  ]
+}

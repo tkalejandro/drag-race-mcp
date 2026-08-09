@@ -1,0 +1,19 @@
+{
+  "id": "sum-ting-wong",
+  "name": "Sum Ting Wong",
+  "appearances": [
+    {
+      "seasonId": "UK-S01",
+      "placement": 7,
+      "eliminatedEpisodeId": "UK-S01-E04",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S01-E03", "song": "Would I Lie to You?" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S01-E04", "song": "Spice Up Your Life" }
+      ]
+    }
+  ]
+}

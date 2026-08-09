@@ -1,0 +1,47 @@
+{
+  "id": "CA-S06",
+  "franchise": "CA",
+  "name": "Canada's Drag Race Season 6",
+  "seasonNumber": 6,
+  "year": 2025,
+  "episodeCount": 9,
+  "episodeIds": [
+    "CA-S06-E01",
+    "CA-S06-E02",
+    "CA-S06-E03",
+    "CA-S06-E04",
+    "CA-S06-E05",
+    "CA-S06-E06",
+    "CA-S06-E07",
+    "CA-S06-E08",
+    "CA-S06-E09"
+  ],
+  "castIds": [
+    "van-goth",
+    "eboni-la-belle",
+    "pm",
+    "sami-landri",
+    "karamilk",
+    "saltina-shaker",
+    "mya-foxx",
+    "velma-jones",
+    "dulce",
+    "hazel",
+    "star-doll",
+    "paolo-perfeccion"
+  ],
+  "winnerId": "van-goth",
+  "runnerUpIds": ["eboni-la-belle"],
+  "missCongenialityId": "hazel",
+  "porkchopId": "paolo-perfeccion",
+  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "judges": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
+    { "name": "Traci Melchor" },
+    { "name": "Carson Kressley" },
+    { "name": "Hollywood Jade" },
+    { "name": "Sarain Fox" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "CAD" }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kiki-snatch",
+  "name": "Kiki Snatch",
+  "appearances": [
+    {
+      "seasonId": "UK-S06",
+      "placement": 9,
+      "eliminatedEpisodeId": "UK-S06-E05",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UK-S06-E05",
+          "name": "Pink Furry Chair: Make RuPaul and Raven laugh"
+        }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "UK-S06-E03", "song": "Girls on Film" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S06-E05", "song": "Let's Dance" }
+      ]
+    }
+  ]
+}

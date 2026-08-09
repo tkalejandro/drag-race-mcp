@@ -1,0 +1,19 @@
+{
+  "id": "actavia",
+  "name": "Actavia",
+  "appearances": [
+    {
+      "seasonId": "UK-S06",
+      "placement": 7,
+      "eliminatedEpisodeId": "UK-S06-E07",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        { "episodeId": "UK-S06-E05", "song": "Let's Dance" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S06-E07", "song": "Time Warp" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "uk-s07-bones-crown",
+    "title": "Bones wins UK Series 7",
+    "summary": "In the Grand Finale (UK-S07-E10), Bones and Elle Vosque lip-synced to Jimmy Somerville's \"You Make Me Feel (Mighty Real)\". Bones was crowned the winner; Elle Vosque finished as runner-up. Catrin Feelings and Silllexa Diction placed third and fourth. The series offered a £25,000 cash prize.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["bones", "elle-vosque", "catrin-feelings", "silllexa-diction"],
+    "seasonIds": ["UK-S07"],
+    "episodeIds": ["UK-S07-E10"]
+  },
+  {
+    "id": "uk-s07-pasty-porkchop",
+    "title": "Pasty: Series 7 Porkchop",
+    "summary": "After surviving the premiere via The Lucky Cow twist, Pasty was the first contestant eliminated on RuPaul's Drag Race UK Series 7 (UK-S07-E02), lip-syncing to Freemasons and Sophie Ellis-Bextor's \"Heartbreak (Make Me a Dancer)\" against Viola.",
+    "tags": ["porkchop", "iconic"],
+    "queenIds": ["pasty", "viola"],
+    "seasonIds": ["UK-S07"],
+    "episodeIds": ["UK-S07-E02"]
+  },
+  {
+    "id": "uk-s07-lucky-cow",
+    "title": "The Lucky Cow premiere twist",
+    "summary": "In UK-S07-E01, Nyongbella and Pasty lip-synced to Charli XCX's \"Von Dutch\". Nyongbella won the lip sync, but Pasty had been voted The Lucky Cow by the other queens and was saved, so nobody was eliminated.",
+    "tags": ["twist", "lip-sync", "iconic"],
+    "queenIds": ["nyongbella", "pasty"],
+    "seasonIds": ["UK-S07"],
+    "episodeIds": ["UK-S07-E01"]
+  },
+  {
+    "id": "uk-s07-chai-miss-c",
+    "title": "Chai T Grande Miss Congeniality",
+    "summary": "At the Grand Finale (UK-S07-E10), the eliminated queens returned and Chai T Grande was announced as Miss Congeniality, voted by her fellow contestants. She had been eliminated in UK-S07-E05 after lip-syncing to \"Spectrum (Say My Name)\".",
+    "tags": ["fan-favorite", "finale"],
+    "queenIds": ["chai-t-grande"],
+    "seasonIds": ["UK-S07"],
+    "episodeIds": ["UK-S07-E10", "UK-S07-E05"]
+  },
+  {
+    "id": "uk-s07-snatch-game",
+    "title": "Bonnie Ann Clyde wins Snatch Game",
+    "summary": "In UK-S07-E07, Bonnie Ann Clyde won Snatch Game as Cher (as a chair). Bones won Reading is Fundamental, then survived a lip sync to Soft Cell's \"Tainted Love\" against Paige Three, who was eliminated.",
+    "tags": ["snatch-game", "comedy", "iconic"],
+    "queenIds": ["bonnie-ann-clyde", "bones", "paige-three"],
+    "seasonIds": ["UK-S07"],
+    "episodeIds": ["UK-S07-E07"]
+  }
+]

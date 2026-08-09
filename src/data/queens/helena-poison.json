@@ -1,0 +1,24 @@
+{
+  "id": "helena-poison",
+  "name": "Helena Poison",
+  "appearances": [
+    {
+      "seasonId": "CA-S05",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CA-S05-E08",
+          "name": "Recap talk show hosted by Brad Goreski"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CA-S05-E06",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": []
+    }
+  ]
+}

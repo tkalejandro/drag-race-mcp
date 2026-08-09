@@ -1,0 +1,20 @@
+{
+  "id": "pasty",
+  "name": "Pasty",
+  "appearances": [
+    {
+      "seasonId": "UK-S07",
+      "placement": 12,
+      "eliminatedEpisodeId": "UK-S07-E02",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S07-E02", "name": "The Tainters" }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S07-E01", "song": "Von Dutch" },
+        { "episodeId": "UK-S07-E02", "song": "Heartbreak (Make Me a Dancer)" }
+      ]
+    }
+  ]
+}

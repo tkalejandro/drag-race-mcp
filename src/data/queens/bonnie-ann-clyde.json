@@ -1,0 +1,26 @@
+{
+  "id": "bonnie-ann-clyde",
+  "name": "Bonnie Ann Clyde",
+  "appearances": [
+    {
+      "seasonId": "UK-S07",
+      "placement": 6,
+      "eliminatedEpisodeId": "UK-S07-E08",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S07-E04",
+          "name": "Act in the three-part TV series Mother Tuckers"
+        },
+        {
+          "episodeId": "UK-S07-E07",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S07-E08", "song": "Push the Button" }
+      ]
+    }
+  ]
+}

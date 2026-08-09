@@ -1,0 +1,207 @@
+[
+  {
+    "id": "UK-S07-E01",
+    "seasonId": "UK-S07",
+    "episodeNumber": 1,
+    "title": "Queens of the Brit Gala",
+    "maxiChallenge": {
+      "name": "Present a signature look at the Brit Gala and answer questions from Drag Race alumni",
+      "winnerIds": ["elle-vosque"]
+    },
+    "runwayTheme": "Queen of Your Hometown",
+    "topIds": ["catrin-feelings", "elle-vosque", "paige-three"],
+    "bottomIds": ["nyongbella", "pasty"],
+    "lipSync": {
+      "song": "Von Dutch",
+      "queenIds": ["nyongbella", "pasty"],
+      "winnerIds": ["nyongbella"]
+    },
+    "guestJudges": [{ "name": "Joel Dommett" }]
+  },
+  {
+    "id": "UK-S07-E02",
+    "seasonId": "UK-S07",
+    "episodeNumber": 2,
+    "title": "Rumble in the Jumble",
+    "miniChallenge": {
+      "name": "The Tainters",
+      "winnerIds": ["bones", "elle-vosque", "pasty", "viola"]
+    },
+    "maxiChallenge": {
+      "name": "In pairs, create a look using materials from previous series of RuPaul's Drag Race UK",
+      "winnerIds": ["sally-tm"]
+    },
+    "runwayTheme": "Rumble in the Jumble Eleganza",
+    "topIds": ["bones", "catrin-feelings", "sally-tm"],
+    "bottomIds": ["pasty", "viola"],
+    "lipSync": {
+      "song": "Heartbreak (Make Me a Dancer)",
+      "queenIds": ["pasty", "viola"],
+      "winnerIds": ["viola"],
+      "eliminatedIds": ["pasty"]
+    },
+    "guestJudges": [{ "name": "Michelle de Swarte" }]
+  },
+  {
+    "id": "UK-S07-E03",
+    "seasonId": "UK-S07",
+    "episodeNumber": 3,
+    "title": "Battle of the Brats",
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to She Ate That",
+      "winnerIds": ["bones"]
+    },
+    "runwayTheme": "Cuddly Wuddly",
+    "topIds": ["bones", "elle-vosque", "paige-three"],
+    "bottomIds": ["nyongbella", "viola"],
+    "lipSync": {
+      "song": "Sound of the Underground",
+      "queenIds": ["nyongbella", "viola"],
+      "winnerIds": ["nyongbella"],
+      "eliminatedIds": ["viola"]
+    },
+    "guestJudges": [{ "name": "Nadine Coyle" }]
+  },
+  {
+    "id": "UK-S07-E04",
+    "seasonId": "UK-S07",
+    "episodeNumber": 4,
+    "title": "Sweety Darlings!",
+    "maxiChallenge": {
+      "name": "Act in the three-part TV series Mother Tuckers",
+      "winnerIds": ["bonnie-ann-clyde"]
+    },
+    "runwayTheme": "Ab Fab – Night of a Thousand Sweety Darlings",
+    "topIds": ["bonnie-ann-clyde", "catrin-feelings", "sally-tm"],
+    "bottomIds": ["nyongbella", "silllexa-diction"],
+    "lipSync": {
+      "song": "Pearls",
+      "queenIds": ["nyongbella", "silllexa-diction"],
+      "winnerIds": ["silllexa-diction"],
+      "eliminatedIds": ["nyongbella"]
+    },
+    "guestJudges": [{ "name": "Jane Horrocks" }]
+  },
+  {
+    "id": "UK-S07-E05",
+    "seasonId": "UK-S07",
+    "episodeNumber": 5,
+    "title": "Talent Ahoy!",
+    "maxiChallenge": {
+      "name": "Perform a talent show on the SS Tickety Boo Cruise Liner",
+      "winnerIds": ["silllexa-diction"]
+    },
+    "runwayTheme": "Having It Large",
+    "topIds": ["elle-vosque", "silllexa-diction", "tayris-mongardi"],
+    "bottomIds": ["bones", "chai-t-grande"],
+    "lipSync": {
+      "song": "Spectrum (Say My Name)",
+      "queenIds": ["bones", "chai-t-grande"],
+      "winnerIds": ["bones"],
+      "eliminatedIds": ["chai-t-grande"]
+    },
+    "guestJudges": [{ "name": "Jamie-Lee O'Donnell" }]
+  },
+  {
+    "id": "UK-S07-E06",
+    "seasonId": "UK-S07",
+    "episodeNumber": 6,
+    "title": "Peter Pansy: The Rusical",
+    "maxiChallenge": {
+      "name": "Peter Pansy: The Rusical",
+      "winnerIds": ["elle-vosque", "paige-three"]
+    },
+    "runwayTheme": "Battle-Axe – Warrior Queen",
+    "topIds": ["bones", "elle-vosque", "paige-three"],
+    "bottomIds": ["sally-tm", "tayris-mongardi"],
+    "lipSync": {
+      "song": "Don't Rain on My Parade",
+      "queenIds": ["sally-tm", "tayris-mongardi"],
+      "winnerIds": ["tayris-mongardi"],
+      "eliminatedIds": ["sally-tm"]
+    },
+    "guestJudges": [{ "name": "Mazz Murray" }]
+  },
+  {
+    "id": "UK-S07-E07",
+    "seasonId": "UK-S07",
+    "episodeNumber": 7,
+    "title": "Snatch Me Out!",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["bones"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["bonnie-ann-clyde"]
+    },
+    "runwayTheme": "Holiday Ho Ho Hos",
+    "topIds": ["bonnie-ann-clyde", "catrin-feelings", "elle-vosque"],
+    "bottomIds": ["bones", "paige-three"],
+    "lipSync": {
+      "song": "Tainted Love",
+      "queenIds": ["bones", "paige-three"],
+      "winnerIds": ["bones"],
+      "eliminatedIds": ["paige-three"]
+    },
+    "guestJudges": [{ "name": "Susan Wokoma" }]
+  },
+  {
+    "id": "UK-S07-E08",
+    "seasonId": "UK-S07",
+    "episodeNumber": 8,
+    "title": "The Hun Makeover",
+    "maxiChallenge": {
+      "name": "Makeover celebrity huns into members of the queens' drag family",
+      "winnerIds": ["bones"]
+    },
+    "runwayTheme": "100% Drag Family Resemblance",
+    "topIds": ["bones", "silllexa-diction"],
+    "bottomIds": ["bonnie-ann-clyde", "catrin-feelings"],
+    "lipSync": {
+      "song": "Push the Button",
+      "queenIds": ["bonnie-ann-clyde", "catrin-feelings"],
+      "winnerIds": ["catrin-feelings"],
+      "eliminatedIds": ["bonnie-ann-clyde"]
+    },
+    "guestJudges": [{ "name": "Mutya Buena" }]
+  },
+  {
+    "id": "UK-S07-E09",
+    "seasonId": "UK-S07",
+    "episodeNumber": 9,
+    "title": "Comedy is a Bitch",
+    "maxiChallenge": {
+      "name": "Perform a roast of their fellow competitors and the eliminated queens of Series 7",
+      "winnerIds": ["bones"]
+    },
+    "runwayTheme": "English Country Garden Realness",
+    "topIds": ["bones", "elle-vosque", "silllexa-diction"],
+    "bottomIds": ["catrin-feelings", "tayris-mongardi"],
+    "lipSync": {
+      "song": "Mamma Knows Best",
+      "queenIds": ["catrin-feelings", "tayris-mongardi"],
+      "winnerIds": ["catrin-feelings"],
+      "eliminatedIds": ["tayris-mongardi"]
+    },
+    "guestJudges": [{ "name": "Sophie Willan" }]
+  },
+  {
+    "id": "UK-S07-E10",
+    "seasonId": "UK-S07",
+    "episodeNumber": 10,
+    "title": "Sing for the Crown",
+    "maxiChallenge": {
+      "name": "Write, record, and perform their own verses to the original song Money Shot",
+      "winnerIds": []
+    },
+    "runwayTheme": "Epic Eleganza",
+    "topIds": ["bones", "elle-vosque"],
+    "bottomIds": ["catrin-feelings", "silllexa-diction"],
+    "lipSync": {
+      "song": "You Make Me Feel (Mighty Real)",
+      "queenIds": ["bones", "elle-vosque"],
+      "winnerIds": ["bones"]
+    }
+  }
+]

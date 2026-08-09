@@ -1,0 +1,22 @@
+{
+  "id": "cheryl-hole",
+  "name": "Cheryl Hole",
+  "aliases": ["Cheryl"],
+  "appearances": [
+    {
+      "seasonId": "UK-S01",
+      "placement": 4,
+      "eliminatedEpisodeId": "UK-S01-E07",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        { "episodeId": "UK-S01-E03", "name": "Maypole dance moves" }
+      ],
+      "lipSyncWins": [
+        { "episodeId": "UK-S01-E06", "song": "Call My Name (Wideboys Remix)" }
+      ],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S01-E07", "song": "Tears Dry on Their Own" }
+      ]
+    }
+  ]
+}

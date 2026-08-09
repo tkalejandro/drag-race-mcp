@@ -1,0 +1,22 @@
+{
+  "id": "sally-tm",
+  "name": "Sally™",
+  "appearances": [
+    {
+      "seasonId": "UK-S07",
+      "placement": 8,
+      "eliminatedEpisodeId": "UK-S07-E06",
+      "challengeWins": [
+        {
+          "episodeId": "UK-S07-E02",
+          "name": "In pairs, create a look using materials from previous series of RuPaul's Drag Race UK"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        { "episodeId": "UK-S07-E06", "song": "Don't Rain on My Parade" }
+      ]
+    }
+  ]
+}
