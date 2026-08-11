@@ -6,20 +6,41 @@
     "title": "Who's That Queen?",
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
-      "winnerIds": ["keta-minaj"]
+      "winnerIds": [
+        "keta-minaj"
+      ]
     },
     "runwayTheme": "Nightlife Extravaganza",
-    "topIds": ["keta-minaj", "my-little-puny", "vanessa-van-cartier", "vivaldi"],
-    "bottomIds": ["juicy-kutoure", "reggy-b"],
+    "topIds": [
+      "keta-minaj",
+      "my-little-puny",
+      "vanessa-van-cartier",
+      "vivaldi"
+    ],
+    "bottomIds": [
+      "juicy-kutoure",
+      "reggy-b"
+    ],
     "lipSync": {
       "song": "Physical",
-      "queenIds": ["juicy-kutoure", "reggy-b"],
-      "winnerIds": ["reggy-b"],
-      "eliminatedIds": ["juicy-kutoure"]
+      "queenIds": [
+        "juicy-kutoure",
+        "reggy-b"
+      ],
+      "winnerIds": [
+        "reggy-b"
+      ],
+      "eliminatedIds": [
+        "juicy-kutoure"
+      ]
     },
     "guestJudges": [
-      { "name": "Carlo Boszhard" },
-      { "name": "Elise Schaap" }
+      {
+        "name": "Carlo Boszhard"
+      },
+      {
+        "name": "Elise Schaap"
+      }
     ]
   },
   {
@@ -29,24 +50,46 @@
     "title": "Ooh, I Got Sunburned!",
     "miniChallenge": {
       "name": "Photoshoot on a bicycle",
-      "winnerIds": ["the-countess"]
+      "winnerIds": [
+        "the-countess"
+      ]
     },
     "maxiChallenge": {
       "name": "Create a couture outfit made from camping materials",
-      "winnerIds": ["the-countess"]
+      "winnerIds": [
+        "the-countess"
+      ]
     },
     "runwayTheme": "Glamping Couture",
-    "topIds": ["love-masisi", "the-countess", "vivaldi"],
-    "bottomIds": ["ivy-elyse", "reggy-b"],
+    "topIds": [
+      "love-masisi",
+      "the-countess",
+      "vivaldi"
+    ],
+    "bottomIds": [
+      "ivy-elyse",
+      "reggy-b"
+    ],
     "lipSync": {
       "song": "Don't Leave Me This Way",
-      "queenIds": ["ivy-elyse", "reggy-b"],
-      "winnerIds": ["ivy-elyse"],
-      "eliminatedIds": ["reggy-b"]
+      "queenIds": [
+        "ivy-elyse",
+        "reggy-b"
+      ],
+      "winnerIds": [
+        "ivy-elyse"
+      ],
+      "eliminatedIds": [
+        "reggy-b"
+      ]
     },
     "guestJudges": [
-      { "name": "Carlo Boszhard" },
-      { "name": "Soundos El Ahmadi" }
+      {
+        "name": "Carlo Boszhard"
+      },
+      {
+        "name": "Soundos El Ahmadi"
+      }
     ]
   },
   {
@@ -56,24 +99,47 @@
     "title": "Icons Only (Snatch Game)",
     "miniChallenge": {
       "name": "Hakken In Heels",
-      "winnerIds": ["ivy-elyse"]
+      "winnerIds": [
+        "ivy-elyse"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["keta-minaj", "vivaldi"]
+      "winnerIds": [
+        "keta-minaj",
+        "vivaldi"
+      ]
     },
     "runwayTheme": "Monster Ball",
-    "topIds": ["keta-minaj", "my-little-puny", "vivaldi"],
-    "bottomIds": ["ivy-elyse", "love-masisi"],
+    "topIds": [
+      "keta-minaj",
+      "my-little-puny",
+      "vivaldi"
+    ],
+    "bottomIds": [
+      "ivy-elyse",
+      "love-masisi"
+    ],
     "lipSync": {
       "song": "It's All Coming Back to Me Now",
-      "queenIds": ["ivy-elyse", "love-masisi"],
-      "winnerIds": ["ivy-elyse"],
-      "eliminatedIds": ["love-masisi"]
+      "queenIds": [
+        "ivy-elyse",
+        "love-masisi"
+      ],
+      "winnerIds": [
+        "ivy-elyse"
+      ],
+      "eliminatedIds": [
+        "love-masisi"
+      ]
     },
     "guestJudges": [
-      { "name": "Carlo Boszhard" },
-      { "name": "Buddy Vedder" }
+      {
+        "name": "Carlo Boszhard"
+      },
+      {
+        "name": "Buddy Vedder"
+      }
     ]
   },
   {
@@ -83,24 +149,46 @@
     "title": "Cinderella in Mokum",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["my-little-puny"]
+      "winnerIds": [
+        "my-little-puny"
+      ]
     },
     "maxiChallenge": {
       "name": "Cinderulla: The Rusical",
-      "winnerIds": ["my-little-puny"]
+      "winnerIds": [
+        "my-little-puny"
+      ]
     },
     "runwayTheme": "Statements on the Runway",
-    "topIds": ["keta-minaj", "my-little-puny", "tabitha"],
-    "bottomIds": ["ivy-elyse", "the-countess"],
+    "topIds": [
+      "keta-minaj",
+      "my-little-puny",
+      "tabitha"
+    ],
+    "bottomIds": [
+      "ivy-elyse",
+      "the-countess"
+    ],
     "lipSync": {
       "song": "Free Your Mind",
-      "queenIds": ["ivy-elyse", "the-countess"],
-      "winnerIds": ["the-countess"],
-      "eliminatedIds": ["ivy-elyse"]
+      "queenIds": [
+        "ivy-elyse",
+        "the-countess"
+      ],
+      "winnerIds": [
+        "the-countess"
+      ],
+      "eliminatedIds": [
+        "ivy-elyse"
+      ]
     },
     "guestJudges": [
-      { "name": "Raven van Dorst" },
-      { "name": "Freek Bartels" }
+      {
+        "name": "Raven van Dorst"
+      },
+      {
+        "name": "Freek Bartels"
+      }
     ]
   },
   {
@@ -110,20 +198,43 @@
     "title": "Dearly Beloved (Family Resemblance)",
     "maxiChallenge": {
       "name": "Makeover a family member, partner or friend",
-      "winnerIds": ["vanessa-van-cartier"]
+      "winnerIds": [
+        "vanessa-van-cartier"
+      ]
     },
     "runwayTheme": "Roots",
-    "topIds": ["keta-minaj", "vanessa-van-cartier", "vivaldi"],
-    "bottomIds": ["my-little-puny", "tabitha", "the-countess"],
+    "topIds": [
+      "keta-minaj",
+      "vanessa-van-cartier",
+      "vivaldi"
+    ],
+    "bottomIds": [
+      "my-little-puny",
+      "tabitha",
+      "the-countess"
+    ],
     "lipSync": {
       "song": "Call Me Mother",
-      "queenIds": ["my-little-puny", "tabitha", "the-countess"],
-      "winnerIds": ["my-little-puny", "tabitha"],
-      "eliminatedIds": ["the-countess"]
+      "queenIds": [
+        "my-little-puny",
+        "tabitha",
+        "the-countess"
+      ],
+      "winnerIds": [
+        "my-little-puny",
+        "tabitha"
+      ],
+      "eliminatedIds": [
+        "the-countess"
+      ]
     },
     "guestJudges": [
-      { "name": "Raven van Dorst" },
-      { "name": "Alex Klaasen" }
+      {
+        "name": "Raven van Dorst"
+      },
+      {
+        "name": "Alex Klaasen"
+      }
     ]
   },
   {
@@ -133,24 +244,45 @@
     "title": "Spill the Coffee",
     "miniChallenge": {
       "name": "Emoji memory",
-      "winnerIds": ["my-little-puny"]
+      "winnerIds": [
+        "my-little-puny"
+      ]
     },
     "maxiChallenge": {
       "name": "Overact in the daytime television show \"Koffie Meid\"",
-      "winnerIds": ["keta-minaj"]
+      "winnerIds": [
+        "keta-minaj"
+      ]
     },
     "runwayTheme": "Opposites Attract",
-    "topIds": ["keta-minaj", "my-little-puny"],
-    "bottomIds": ["tabitha", "vivaldi"],
+    "topIds": [
+      "keta-minaj",
+      "my-little-puny"
+    ],
+    "bottomIds": [
+      "tabitha",
+      "vivaldi"
+    ],
     "lipSync": {
       "song": "Lekker met de meiden",
-      "queenIds": ["tabitha", "vivaldi"],
-      "winnerIds": ["vivaldi"],
-      "eliminatedIds": ["tabitha"]
+      "queenIds": [
+        "tabitha",
+        "vivaldi"
+      ],
+      "winnerIds": [
+        "vivaldi"
+      ],
+      "eliminatedIds": [
+        "tabitha"
+      ]
     },
     "guestJudges": [
-      { "name": "Carlo Boszhard" },
-      { "name": "Merol" }
+      {
+        "name": "Carlo Boszhard"
+      },
+      {
+        "name": "Merol"
+      }
     ]
   },
   {
@@ -160,24 +292,44 @@
     "title": "Whodunnit",
     "miniChallenge": {
       "name": "Impersonate a castmate in the Miss Match pageant",
-      "winnerIds": ["vanessa-van-cartier"]
+      "winnerIds": [
+        "vanessa-van-cartier"
+      ]
     },
     "maxiChallenge": {
       "name": "Act in the murder mystery \"De Moord op de Hak\"",
-      "winnerIds": ["my-little-puny"]
+      "winnerIds": [
+        "my-little-puny"
+      ]
     },
     "runwayTheme": "Double Dutch",
-    "topIds": ["my-little-puny"],
-    "bottomIds": ["keta-minaj", "vivaldi"],
+    "topIds": [
+      "my-little-puny"
+    ],
+    "bottomIds": [
+      "keta-minaj",
+      "vivaldi"
+    ],
     "lipSync": {
       "song": "Don't Stop Me Now",
-      "queenIds": ["keta-minaj", "vivaldi"],
-      "winnerIds": ["vivaldi"],
-      "eliminatedIds": ["keta-minaj"]
+      "queenIds": [
+        "keta-minaj",
+        "vivaldi"
+      ],
+      "winnerIds": [
+        "vivaldi"
+      ],
+      "eliminatedIds": [
+        "keta-minaj"
+      ]
     },
     "guestJudges": [
-      { "name": "Glennis Grace" },
-      { "name": "Tina de Bruin" }
+      {
+        "name": "Glennis Grace"
+      },
+      {
+        "name": "Tina de Bruin"
+      }
     ]
   },
   {
@@ -186,17 +338,35 @@
     "episodeNumber": 8,
     "title": "Finale",
     "runwayTheme": "Best Drag",
-    "topIds": ["my-little-puny", "vanessa-van-cartier"],
-    "bottomIds": ["vivaldi"],
+    "topIds": [
+      "my-little-puny",
+      "vanessa-van-cartier"
+    ],
+    "bottomIds": [
+      "vivaldi"
+    ],
     "lipSync": {
       "song": "This Is My Life",
-      "queenIds": ["my-little-puny", "vanessa-van-cartier"],
-      "winnerIds": ["vanessa-van-cartier"]
+      "queenIds": [
+        "my-little-puny",
+        "vanessa-van-cartier"
+      ],
+      "winnerIds": [
+        "vanessa-van-cartier"
+      ],
+      "kind": "for-the-crown"
     },
     "guestJudges": [
-      { "name": "Carlo Boszhard" },
-      { "name": "Raven van Dorst" },
-      { "name": "Envy Peru", "queenId": "envy-peru" }
+      {
+        "name": "Carlo Boszhard"
+      },
+      {
+        "name": "Raven van Dorst"
+      },
+      {
+        "name": "Envy Peru",
+        "queenId": "envy-peru"
+      }
     ]
   }
 ]

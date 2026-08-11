@@ -6,16 +6,32 @@
     "title": "I'm That Bitch",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to I'm That Bitch",
-      "winnerIds": ["widow-von-du"]
+      "winnerIds": [
+        "widow-von-du"
+      ]
     },
     "runwayTheme": "Sparkles",
-    "topIds": ["brita", "gigi-goode", "jackie-cox", "widow-von-du"],
+    "topIds": [
+      "brita",
+      "gigi-goode",
+      "jackie-cox",
+      "widow-von-du"
+    ],
     "lipSync": {
       "song": "Starships",
-      "queenIds": ["gigi-goode", "widow-von-du"],
-      "winnerIds": ["widow-von-du"]
+      "queenIds": [
+        "gigi-goode",
+        "widow-von-du"
+      ],
+      "winnerIds": [
+        "widow-von-du"
+      ]
     },
-    "guestJudges": [{ "name": "Nicki Minaj" }]
+    "guestJudges": [
+      {
+        "name": "Nicki Minaj"
+      }
+    ]
   },
   {
     "id": "US-S12-E02",
@@ -24,18 +40,34 @@
     "title": "You Don't Know Me",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to You Don't Know Me",
-      "winnerIds": ["jaida-essence-hall"]
+      "winnerIds": [
+        "jaida-essence-hall"
+      ]
     },
     "runwayTheme": "Tulle",
-    "topIds": ["aiden-zhane", "jaida-essence-hall", "jan", "sherry-pie"],
+    "topIds": [
+      "aiden-zhane",
+      "jaida-essence-hall",
+      "jan",
+      "sherry-pie"
+    ],
     "lipSync": {
       "song": "Call Your Girlfriend",
-      "queenIds": ["jaida-essence-hall", "sherry-pie"],
-      "winnerIds": ["jaida-essence-hall"]
+      "queenIds": [
+        "jaida-essence-hall",
+        "sherry-pie"
+      ],
+      "winnerIds": [
+        "jaida-essence-hall"
+      ]
     },
     "guestJudges": [
-      { "name": "Robyn" },
-      { "name": "Thandiwe Newton" }
+      {
+        "name": "Robyn"
+      },
+      {
+        "name": "Thandiwe Newton"
+      }
     ]
   },
   {
@@ -45,18 +77,38 @@
     "title": "World's Worst",
     "maxiChallenge": {
       "name": "In teams, improvise in the talent competition World's Worst",
-      "winnerIds": ["sherry-pie"]
+      "winnerIds": [
+        "sherry-pie"
+      ]
     },
     "runwayTheme": "Buttons and Bows",
-    "topIds": ["heidi-n-closet", "jackie-cox", "sherry-pie"],
-    "bottomIds": ["dahlia-sin", "nicky-doll"],
+    "topIds": [
+      "heidi-n-closet",
+      "jackie-cox",
+      "sherry-pie"
+    ],
+    "bottomIds": [
+      "dahlia-sin",
+      "nicky-doll"
+    ],
     "lipSync": {
       "song": "Problem",
-      "queenIds": ["dahlia-sin", "nicky-doll"],
-      "winnerIds": ["nicky-doll"],
-      "eliminatedIds": ["dahlia-sin"]
+      "queenIds": [
+        "dahlia-sin",
+        "nicky-doll"
+      ],
+      "winnerIds": [
+        "nicky-doll"
+      ],
+      "eliminatedIds": [
+        "dahlia-sin"
+      ]
     },
-    "guestJudges": [{ "name": "Olivia Munn" }]
+    "guestJudges": [
+      {
+        "name": "Olivia Munn"
+      }
+    ]
   },
   {
     "id": "US-S12-E04",
@@ -65,22 +117,44 @@
     "title": "The Ball Ball",
     "miniChallenge": {
       "name": "The Beehive Jive dance competition",
-      "winnerIds": ["gigi-goode"]
+      "winnerIds": [
+        "gigi-goode"
+      ]
     },
     "maxiChallenge": {
       "name": "The Ball Ball",
-      "winnerIds": ["gigi-goode"]
+      "winnerIds": [
+        "gigi-goode"
+      ]
     },
     "runwayTheme": "Lady Baller, Basketball Wife Realness, and Balls to the Wall Eleganza",
-    "topIds": ["gigi-goode", "jaida-essence-hall", "nicky-doll"],
-    "bottomIds": ["brita", "rock-m-sakura"],
+    "topIds": [
+      "gigi-goode",
+      "jaida-essence-hall",
+      "nicky-doll"
+    ],
+    "bottomIds": [
+      "brita",
+      "rock-m-sakura"
+    ],
     "lipSync": {
       "song": "S&M",
-      "queenIds": ["brita", "rock-m-sakura"],
-      "winnerIds": ["brita"],
-      "eliminatedIds": ["rock-m-sakura"]
+      "queenIds": [
+        "brita",
+        "rock-m-sakura"
+      ],
+      "winnerIds": [
+        "brita"
+      ],
+      "eliminatedIds": [
+        "rock-m-sakura"
+      ]
     },
-    "guestJudges": [{ "name": "Leslie Jones" }]
+    "guestJudges": [
+      {
+        "name": "Leslie Jones"
+      }
+    ]
   },
   {
     "id": "US-S12-E05",
@@ -89,7 +163,9 @@
     "title": "Gay's Anatomy",
     "maxiChallenge": {
       "name": "Overact in a parody of Grey's Anatomy called Gay's Anatomy",
-      "winnerIds": ["sherry-pie"]
+      "winnerIds": [
+        "sherry-pie"
+      ]
     },
     "runwayTheme": "Planet of the Capes",
     "topIds": [
@@ -100,14 +176,28 @@
       "sherry-pie",
       "widow-von-du"
     ],
-    "bottomIds": ["heidi-n-closet", "nicky-doll"],
+    "bottomIds": [
+      "heidi-n-closet",
+      "nicky-doll"
+    ],
     "lipSync": {
       "song": "Heart to Break",
-      "queenIds": ["heidi-n-closet", "nicky-doll"],
-      "winnerIds": ["heidi-n-closet"],
-      "eliminatedIds": ["nicky-doll"]
+      "queenIds": [
+        "heidi-n-closet",
+        "nicky-doll"
+      ],
+      "winnerIds": [
+        "heidi-n-closet"
+      ],
+      "eliminatedIds": [
+        "nicky-doll"
+      ]
     },
-    "guestJudges": [{ "name": "Normani" }]
+    "guestJudges": [
+      {
+        "name": "Normani"
+      }
+    ]
   },
   {
     "id": "US-S12-E06",
@@ -116,20 +206,40 @@
     "title": "Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["gigi-goode"]
+      "winnerIds": [
+        "gigi-goode"
+      ]
     },
     "runwayTheme": "Frozen Eleganza",
-    "topIds": ["gigi-goode", "jackie-cox", "sherry-pie"],
-    "bottomIds": ["aiden-zhane", "brita"],
+    "topIds": [
+      "gigi-goode",
+      "jackie-cox",
+      "sherry-pie"
+    ],
+    "bottomIds": [
+      "aiden-zhane",
+      "brita"
+    ],
     "lipSync": {
       "song": "Let It Go",
-      "queenIds": ["aiden-zhane", "brita"],
-      "winnerIds": ["brita"],
-      "eliminatedIds": ["aiden-zhane"]
+      "queenIds": [
+        "aiden-zhane",
+        "brita"
+      ],
+      "winnerIds": [
+        "brita"
+      ],
+      "eliminatedIds": [
+        "aiden-zhane"
+      ]
     },
     "guestJudges": [
-      { "name": "Daniel Franzese" },
-      { "name": "Jonathan Bennett" }
+      {
+        "name": "Daniel Franzese"
+      },
+      {
+        "name": "Jonathan Bennett"
+      }
     ]
   },
   {
@@ -139,20 +249,40 @@
     "title": "Madonna: The Unauthorized Rusical",
     "maxiChallenge": {
       "name": "Madonna: The Unauthorized Rusical",
-      "winnerIds": ["gigi-goode"]
+      "winnerIds": [
+        "gigi-goode"
+      ]
     },
     "runwayTheme": "Night of a Thousand Michelle Visages",
-    "topIds": ["crystal-methyd", "gigi-goode", "jan"],
-    "bottomIds": ["brita", "heidi-n-closet"],
+    "topIds": [
+      "crystal-methyd",
+      "gigi-goode",
+      "jan"
+    ],
+    "bottomIds": [
+      "brita",
+      "heidi-n-closet"
+    ],
     "lipSync": {
       "song": "Burning Up",
-      "queenIds": ["brita", "heidi-n-closet"],
-      "winnerIds": ["heidi-n-closet"],
-      "eliminatedIds": ["brita"]
+      "queenIds": [
+        "brita",
+        "heidi-n-closet"
+      ],
+      "winnerIds": [
+        "heidi-n-closet"
+      ],
+      "eliminatedIds": [
+        "brita"
+      ]
     },
     "guestJudges": [
-      { "name": "Alexandria Ocasio-Cortez" },
-      { "name": "Winnie Harlow" }
+      {
+        "name": "Alexandria Ocasio-Cortez"
+      },
+      {
+        "name": "Winnie Harlow"
+      }
     ]
   },
   {
@@ -162,11 +292,16 @@
     "title": "Droop",
     "miniChallenge": {
       "name": "In pairs, create a box of FabFitFun products for another duo, then gift it to them with shade",
-      "winnerIds": ["gigi-goode", "jackie-cox"]
+      "winnerIds": [
+        "gigi-goode",
+        "jackie-cox"
+      ]
     },
     "maxiChallenge": {
       "name": "Create and market products for the new drag queen lifestyle brand Droop",
-      "winnerIds": ["heidi-n-closet"]
+      "winnerIds": [
+        "heidi-n-closet"
+      ]
     },
     "runwayTheme": "Black Wedding",
     "topIds": [
@@ -175,14 +310,28 @@
       "jackie-cox",
       "jaida-essence-hall"
     ],
-    "bottomIds": ["jan", "widow-von-du"],
+    "bottomIds": [
+      "jan",
+      "widow-von-du"
+    ],
     "lipSync": {
       "song": "This Is My Night",
-      "queenIds": ["jan", "widow-von-du"],
-      "winnerIds": ["widow-von-du"],
-      "eliminatedIds": ["jan"]
+      "queenIds": [
+        "jan",
+        "widow-von-du"
+      ],
+      "winnerIds": [
+        "widow-von-du"
+      ],
+      "eliminatedIds": [
+        "jan"
+      ]
     },
-    "guestJudges": [{ "name": "Chaka Khan" }]
+    "guestJudges": [
+      {
+        "name": "Chaka Khan"
+      }
+    ]
   },
   {
     "id": "US-S12-E09",
@@ -191,24 +340,46 @@
     "title": "Choices 2020",
     "miniChallenge": {
       "name": "Audition for Kitty Girl 2020 sponsored by PrettyLitter",
-      "winnerIds": ["jackie-cox"]
+      "winnerIds": [
+        "jackie-cox"
+      ]
     },
     "maxiChallenge": {
       "name": "Participate in a presidential debate called Choices 2020",
-      "winnerIds": ["jaida-essence-hall"]
+      "winnerIds": [
+        "jaida-essence-hall"
+      ]
     },
     "runwayTheme": "Stars and Stripes Forever",
-    "topIds": ["crystal-methyd", "heidi-n-closet", "jaida-essence-hall"],
-    "bottomIds": ["jackie-cox", "widow-von-du"],
+    "topIds": [
+      "crystal-methyd",
+      "heidi-n-closet",
+      "jaida-essence-hall"
+    ],
+    "bottomIds": [
+      "jackie-cox",
+      "widow-von-du"
+    ],
     "lipSync": {
       "song": "Firework",
-      "queenIds": ["jackie-cox", "widow-von-du"],
-      "winnerIds": ["jackie-cox"],
-      "eliminatedIds": ["widow-von-du"]
+      "queenIds": [
+        "jackie-cox",
+        "widow-von-du"
+      ],
+      "winnerIds": [
+        "jackie-cox"
+      ],
+      "eliminatedIds": [
+        "widow-von-du"
+      ]
     },
     "guestJudges": [
-      { "name": "Jeff Goldblum" },
-      { "name": "Rachel Bloom" }
+      {
+        "name": "Jeff Goldblum"
+      },
+      {
+        "name": "Rachel Bloom"
+      }
     ]
   },
   {
@@ -218,17 +389,36 @@
     "title": "Superfan Makeover",
     "maxiChallenge": {
       "name": "Makeover Drag Race superfans",
-      "winnerIds": ["jaida-essence-hall"]
+      "winnerIds": [
+        "jaida-essence-hall"
+      ]
     },
     "runwayTheme": "Drag Family Resemblance",
-    "topIds": ["crystal-methyd", "jaida-essence-hall", "sherry-pie"],
-    "bottomIds": ["heidi-n-closet", "jackie-cox"],
+    "topIds": [
+      "crystal-methyd",
+      "jaida-essence-hall",
+      "sherry-pie"
+    ],
+    "bottomIds": [
+      "heidi-n-closet",
+      "jackie-cox"
+    ],
     "lipSync": {
       "song": "Kill the Lights",
-      "queenIds": ["heidi-n-closet", "jackie-cox"],
-      "winnerIds": ["heidi-n-closet", "jackie-cox"]
+      "queenIds": [
+        "heidi-n-closet",
+        "jackie-cox"
+      ],
+      "winnerIds": [
+        "heidi-n-closet",
+        "jackie-cox"
+      ]
     },
-    "guestJudges": [{ "name": "Daisy Ridley" }]
+    "guestJudges": [
+      {
+        "name": "Daisy Ridley"
+      }
+    ]
   },
   {
     "id": "US-S12-E11",
@@ -237,22 +427,43 @@
     "title": "One-Queen Show",
     "miniChallenge": {
       "name": "Everybody Loves Puppets",
-      "winnerIds": ["jackie-cox"]
+      "winnerIds": [
+        "jackie-cox"
+      ]
     },
     "maxiChallenge": {
       "name": "Create and perform in your own one-queen show",
-      "winnerIds": ["crystal-methyd"]
+      "winnerIds": [
+        "crystal-methyd"
+      ]
     },
     "runwayTheme": "The Color Purple",
-    "topIds": ["crystal-methyd", "jackie-cox"],
-    "bottomIds": ["heidi-n-closet", "jaida-essence-hall"],
+    "topIds": [
+      "crystal-methyd",
+      "jackie-cox"
+    ],
+    "bottomIds": [
+      "heidi-n-closet",
+      "jaida-essence-hall"
+    ],
     "lipSync": {
       "song": "1999",
-      "queenIds": ["heidi-n-closet", "jaida-essence-hall"],
-      "winnerIds": ["jaida-essence-hall"],
-      "eliminatedIds": ["heidi-n-closet"]
+      "queenIds": [
+        "heidi-n-closet",
+        "jaida-essence-hall"
+      ],
+      "winnerIds": [
+        "jaida-essence-hall"
+      ],
+      "eliminatedIds": [
+        "heidi-n-closet"
+      ]
     },
-    "guestJudges": [{ "name": "Whoopi Goldberg" }]
+    "guestJudges": [
+      {
+        "name": "Whoopi Goldberg"
+      }
+    ]
   },
   {
     "id": "US-S12-E12",
@@ -261,22 +472,43 @@
     "title": "Viva Drag Vegas",
     "miniChallenge": {
       "name": "Create an over-the-top, one-of-a-kind showgirl headdress",
-      "winnerIds": ["gigi-goode"]
+      "winnerIds": [
+        "gigi-goode"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a medley of songs from RuPaul's Drag Race Live!",
-      "winnerIds": ["gigi-goode"]
+      "winnerIds": [
+        "gigi-goode"
+      ]
     },
     "runwayTheme": "Eleganza Extravaganza",
-    "topIds": ["gigi-goode", "jaida-essence-hall"],
-    "bottomIds": ["crystal-methyd", "jackie-cox"],
+    "topIds": [
+      "gigi-goode",
+      "jaida-essence-hall"
+    ],
+    "bottomIds": [
+      "crystal-methyd",
+      "jackie-cox"
+    ],
     "lipSync": {
       "song": "On the Floor",
-      "queenIds": ["crystal-methyd", "jackie-cox"],
-      "winnerIds": ["crystal-methyd"],
-      "eliminatedIds": ["jackie-cox"]
+      "queenIds": [
+        "crystal-methyd",
+        "jackie-cox"
+      ],
+      "winnerIds": [
+        "crystal-methyd"
+      ],
+      "eliminatedIds": [
+        "jackie-cox"
+      ]
     },
-    "guestJudges": [{ "name": "Jamal Sims" }]
+    "guestJudges": [
+      {
+        "name": "Jamal Sims"
+      }
+    ]
   },
   {
     "id": "US-S12-E13",

@@ -6,16 +6,30 @@
     "title": "Cabaret Talent Show",
     "maxiChallenge": {
       "name": "Perform a talent show in the Tickety Boo Cabaret Club",
-      "winnerIds": ["kyran-thrax"]
+      "winnerIds": [
+        "kyran-thrax"
+      ]
     },
     "runwayTheme": "Queen of Your Hometown",
-    "topIds": ["kyran-thrax", "la-voix"],
+    "topIds": [
+      "kyran-thrax",
+      "la-voix"
+    ],
     "lipSync": {
       "song": "Ooh La La",
-      "queenIds": ["kyran-thrax", "la-voix"],
-      "winnerIds": ["kyran-thrax"]
+      "queenIds": [
+        "kyran-thrax",
+        "la-voix"
+      ],
+      "winnerIds": [
+        "kyran-thrax"
+      ]
     },
-    "guestJudges": [{ "name": "Alison Goldfrapp" }]
+    "guestJudges": [
+      {
+        "name": "Alison Goldfrapp"
+      }
+    ]
   },
   {
     "id": "UK-S06-E02",
@@ -24,17 +38,36 @@
     "title": "Stitch & Strut",
     "maxiChallenge": {
       "name": "In teams, create a three-piece fashion collection using household materials",
-      "winnerIds": ["lill"]
+      "winnerIds": [
+        "lill"
+      ]
     },
     "runwayTheme": "Cocktail Party / Lady Boss / Red Carpet",
-    "topIds": ["chanel-o-conor", "lill", "marmalade"],
-    "bottomIds": ["actavia", "kiki-snatch"],
+    "topIds": [
+      "chanel-o-conor",
+      "lill",
+      "marmalade"
+    ],
+    "bottomIds": [
+      "actavia",
+      "kiki-snatch"
+    ],
     "lipSync": {
       "song": "Tension",
-      "queenIds": ["chanel-o-conor", "lill", "marmalade"],
-      "winnerIds": ["lill"]
+      "queenIds": [
+        "chanel-o-conor",
+        "lill",
+        "marmalade"
+      ],
+      "winnerIds": [
+        "lill"
+      ]
     },
-    "guestJudges": [{ "name": "Kristen McMenamy" }]
+    "guestJudges": [
+      {
+        "name": "Kristen McMenamy"
+      }
+    ]
   },
   {
     "id": "UK-S06-E03",
@@ -53,18 +86,36 @@
     },
     "maxiChallenge": {
       "name": "Act in British movie trailer rom-coms",
-      "winnerIds": ["kyran-thrax"]
+      "winnerIds": [
+        "kyran-thrax"
+      ]
     },
     "runwayTheme": "New Romantics",
-    "topIds": ["kyran-thrax"],
-    "bottomIds": ["dita-garbo", "kiki-snatch"],
+    "topIds": [
+      "kyran-thrax"
+    ],
+    "bottomIds": [
+      "dita-garbo",
+      "kiki-snatch"
+    ],
     "lipSync": {
       "song": "Girls on Film",
-      "queenIds": ["dita-garbo", "kiki-snatch"],
-      "winnerIds": ["kiki-snatch"],
-      "eliminatedIds": ["dita-garbo"]
+      "queenIds": [
+        "dita-garbo",
+        "kiki-snatch"
+      ],
+      "winnerIds": [
+        "kiki-snatch"
+      ],
+      "eliminatedIds": [
+        "dita-garbo"
+      ]
     },
-    "guestJudges": [{ "name": "Simon Le Bon" }]
+    "guestJudges": [
+      {
+        "name": "Simon Le Bon"
+      }
+    ]
   },
   {
     "id": "UK-S06-E04",
@@ -73,18 +124,36 @@
     "title": "Ghoul Power",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Dead or Alive",
-      "winnerIds": ["rileasa-slaves"]
+      "winnerIds": [
+        "rileasa-slaves"
+      ]
     },
     "runwayTheme": "Call Me Mother Nature",
-    "topIds": ["rileasa-slaves"],
-    "bottomIds": ["lill", "zahirah-zapanta"],
+    "topIds": [
+      "rileasa-slaves"
+    ],
+    "bottomIds": [
+      "lill",
+      "zahirah-zapanta"
+    ],
     "lipSync": {
       "song": "Don't Call Me Up",
-      "queenIds": ["lill", "zahirah-zapanta"],
-      "winnerIds": ["lill"],
-      "eliminatedIds": ["zahirah-zapanta"]
+      "queenIds": [
+        "lill",
+        "zahirah-zapanta"
+      ],
+      "winnerIds": [
+        "lill"
+      ],
+      "eliminatedIds": [
+        "zahirah-zapanta"
+      ]
     },
-    "guestJudges": [{ "name": "Mabel" }]
+    "guestJudges": [
+      {
+        "name": "Mabel"
+      }
+    ]
   },
   {
     "id": "UK-S06-E05",
@@ -93,22 +162,42 @@
     "title": "Sofa Showdown",
     "miniChallenge": {
       "name": "Pink Furry Chair: Make RuPaul and Raven laugh",
-      "winnerIds": ["kiki-snatch"]
+      "winnerIds": [
+        "kiki-snatch"
+      ]
     },
     "maxiChallenge": {
       "name": "In teams, improvise in a live episode of The Graham Norton Show",
-      "winnerIds": ["la-voix"]
+      "winnerIds": [
+        "la-voix"
+      ]
     },
     "runwayTheme": "How's Your Headpiece?",
-    "topIds": ["la-voix"],
-    "bottomIds": ["actavia", "kiki-snatch"],
+    "topIds": [
+      "la-voix"
+    ],
+    "bottomIds": [
+      "actavia",
+      "kiki-snatch"
+    ],
     "lipSync": {
       "song": "Let's Dance",
-      "queenIds": ["actavia", "kiki-snatch"],
-      "winnerIds": ["actavia"],
-      "eliminatedIds": ["kiki-snatch"]
+      "queenIds": [
+        "actavia",
+        "kiki-snatch"
+      ],
+      "winnerIds": [
+        "actavia"
+      ],
+      "eliminatedIds": [
+        "kiki-snatch"
+      ]
     },
-    "guestJudges": [{ "name": "Claire Richards" }]
+    "guestJudges": [
+      {
+        "name": "Claire Richards"
+      }
+    ]
   },
   {
     "id": "UK-S06-E06",
@@ -117,22 +206,44 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["la-voix"]
+      "winnerIds": [
+        "la-voix"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["kyran-thrax", "la-voix"]
+      "winnerIds": [
+        "kyran-thrax",
+        "la-voix"
+      ]
     },
     "runwayTheme": "Doctor Who Is She?",
-    "topIds": ["kyran-thrax", "la-voix"],
-    "bottomIds": ["chanel-o-conor", "rileasa-slaves"],
+    "topIds": [
+      "kyran-thrax",
+      "la-voix"
+    ],
+    "bottomIds": [
+      "chanel-o-conor",
+      "rileasa-slaves"
+    ],
     "lipSync": {
       "song": "Something Kinda Ooooh",
-      "queenIds": ["chanel-o-conor", "rileasa-slaves"],
-      "winnerIds": ["rileasa-slaves"],
-      "eliminatedIds": ["chanel-o-conor"]
+      "queenIds": [
+        "chanel-o-conor",
+        "rileasa-slaves"
+      ],
+      "winnerIds": [
+        "rileasa-slaves"
+      ],
+      "eliminatedIds": [
+        "chanel-o-conor"
+      ]
     },
-    "guestJudges": [{ "name": "Amanda Holden" }]
+    "guestJudges": [
+      {
+        "name": "Amanda Holden"
+      }
+    ]
   },
   {
     "id": "UK-S06-E07",
@@ -141,18 +252,36 @@
     "title": "Pop of the Tops - Live: The Rusical",
     "maxiChallenge": {
       "name": "Pop of the Tops - Live: The Rusical",
-      "winnerIds": ["la-voix"]
+      "winnerIds": [
+        "la-voix"
+      ]
     },
     "runwayTheme": "Night of a Thousand Princess Dianas",
-    "topIds": ["la-voix"],
-    "bottomIds": ["actavia", "lill"],
+    "topIds": [
+      "la-voix"
+    ],
+    "bottomIds": [
+      "actavia",
+      "lill"
+    ],
     "lipSync": {
       "song": "Time Warp",
-      "queenIds": ["actavia", "lill"],
-      "winnerIds": ["lill"],
-      "eliminatedIds": ["actavia"]
+      "queenIds": [
+        "actavia",
+        "lill"
+      ],
+      "winnerIds": [
+        "lill"
+      ],
+      "eliminatedIds": [
+        "actavia"
+      ]
     },
-    "guestJudges": [{ "name": "Beverley Knight" }]
+    "guestJudges": [
+      {
+        "name": "Beverley Knight"
+      }
+    ]
   },
   {
     "id": "UK-S06-E08",
@@ -161,18 +290,36 @@
     "title": "All in the Drag Family",
     "maxiChallenge": {
       "name": "Makeover a loved one",
-      "winnerIds": ["marmalade"]
+      "winnerIds": [
+        "marmalade"
+      ]
     },
     "runwayTheme": "Drag Family Resemblance",
-    "topIds": ["marmalade"],
-    "bottomIds": ["charra-tea", "rileasa-slaves"],
+    "topIds": [
+      "marmalade"
+    ],
+    "bottomIds": [
+      "charra-tea",
+      "rileasa-slaves"
+    ],
     "lipSync": {
       "song": "Never Gonna Give You Up",
-      "queenIds": ["charra-tea", "rileasa-slaves"],
-      "winnerIds": ["rileasa-slaves"],
-      "eliminatedIds": ["charra-tea"]
+      "queenIds": [
+        "charra-tea",
+        "rileasa-slaves"
+      ],
+      "winnerIds": [
+        "rileasa-slaves"
+      ],
+      "eliminatedIds": [
+        "charra-tea"
+      ]
     },
-    "guestJudges": [{ "name": "AJ Odudu" }]
+    "guestJudges": [
+      {
+        "name": "AJ Odudu"
+      }
+    ]
   },
   {
     "id": "UK-S06-E09",
@@ -181,18 +328,36 @@
     "title": "Send in the Clowns",
     "maxiChallenge": {
       "name": "Perform a roast of the judges and the eliminated queens of Series 6",
-      "winnerIds": ["la-voix"]
+      "winnerIds": [
+        "la-voix"
+      ]
     },
     "runwayTheme": "Semi-Final Vinyl",
-    "topIds": ["la-voix"],
-    "bottomIds": ["lill", "rileasa-slaves"],
+    "topIds": [
+      "la-voix"
+    ],
+    "bottomIds": [
+      "lill",
+      "rileasa-slaves"
+    ],
     "lipSync": {
       "song": "Crazy What Love Can Do",
-      "queenIds": ["lill", "rileasa-slaves"],
-      "winnerIds": ["rileasa-slaves"],
-      "eliminatedIds": ["lill"]
+      "queenIds": [
+        "lill",
+        "rileasa-slaves"
+      ],
+      "winnerIds": [
+        "rileasa-slaves"
+      ],
+      "eliminatedIds": [
+        "lill"
+      ]
     },
-    "guestJudges": [{ "name": "Siobhán McSweeney" }]
+    "guestJudges": [
+      {
+        "name": "Siobhán McSweeney"
+      }
+    ]
   },
   {
     "id": "UK-S06-E10",
@@ -204,12 +369,24 @@
       "winnerIds": []
     },
     "runwayTheme": "Grand Finale Eleganza",
-    "topIds": ["kyran-thrax", "la-voix"],
-    "bottomIds": ["marmalade", "rileasa-slaves"],
+    "topIds": [
+      "kyran-thrax",
+      "la-voix"
+    ],
+    "bottomIds": [
+      "marmalade",
+      "rileasa-slaves"
+    ],
     "lipSync": {
       "song": "Don't Stop Me Now",
-      "queenIds": ["kyran-thrax", "la-voix"],
-      "winnerIds": ["kyran-thrax"]
+      "queenIds": [
+        "kyran-thrax",
+        "la-voix"
+      ],
+      "winnerIds": [
+        "kyran-thrax"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

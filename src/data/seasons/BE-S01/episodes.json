@@ -6,18 +6,40 @@
     "title": "Bonjour Iedereen",
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
-      "winnerIds": ["athena-sorgelikis"]
+      "winnerIds": [
+        "athena-sorgelikis"
+      ]
     },
     "runwayTheme": "Belgicolor: Noir, Jaune, Rouge",
-    "topIds": ["athena-sorgelikis", "drag-couenne"],
-    "bottomIds": ["amanda-tears", "brittany-von-bottoks"],
+    "topIds": [
+      "athena-sorgelikis",
+      "drag-couenne"
+    ],
+    "bottomIds": [
+      "amanda-tears",
+      "brittany-von-bottoks"
+    ],
     "lipSync": {
       "song": "Tous les mêmes",
-      "queenIds": ["amanda-tears", "brittany-von-bottoks"],
-      "winnerIds": ["amanda-tears"],
-      "eliminatedIds": ["brittany-von-bottoks"]
+      "queenIds": [
+        "amanda-tears",
+        "brittany-von-bottoks"
+      ],
+      "winnerIds": [
+        "amanda-tears"
+      ],
+      "eliminatedIds": [
+        "brittany-von-bottoks"
+      ]
     },
-    "guestJudges": [{ "name": "Fanny Ruwet" }, { "name": "Rokia Bamba" }]
+    "guestJudges": [
+      {
+        "name": "Fanny Ruwet"
+      },
+      {
+        "name": "Rokia Bamba"
+      }
+    ]
   },
   {
     "id": "BE-S01-E02",
@@ -26,22 +48,46 @@
     "title": "Les incontournables",
     "miniChallenge": {
       "name": "Give face while the pit crew blows them with a leaf blower",
-      "winnerIds": ["susan"]
+      "winnerIds": [
+        "susan"
+      ]
     },
     "maxiChallenge": {
       "name": "In teams, create a commercial promoting different Belgian foods",
-      "winnerIds": ["drag-couenne"]
+      "winnerIds": [
+        "drag-couenne"
+      ]
     },
     "runwayTheme": "Belgian Comics",
-    "topIds": ["drag-couenne", "peach"],
-    "bottomIds": ["amanda-tears", "valenciaga"],
+    "topIds": [
+      "drag-couenne",
+      "peach"
+    ],
+    "bottomIds": [
+      "amanda-tears",
+      "valenciaga"
+    ],
     "lipSync": {
       "song": "Je t'aime",
-      "queenIds": ["amanda-tears", "valenciaga"],
-      "winnerIds": ["valenciaga"],
-      "eliminatedIds": ["amanda-tears"]
+      "queenIds": [
+        "amanda-tears",
+        "valenciaga"
+      ],
+      "winnerIds": [
+        "valenciaga"
+      ],
+      "eliminatedIds": [
+        "amanda-tears"
+      ]
     },
-    "guestJudges": [{ "name": "BJ Scott" }, { "name": "Jarry" }]
+    "guestJudges": [
+      {
+        "name": "BJ Scott"
+      },
+      {
+        "name": "Jarry"
+      }
+    ]
   },
   {
     "id": "BE-S01-E03",
@@ -50,22 +96,46 @@
     "title": "Festival Realness",
     "miniChallenge": {
       "name": "Soccer goalie photoshoot",
-      "winnerIds": ["edna-sorgelsen"]
+      "winnerIds": [
+        "edna-sorgelsen"
+      ]
     },
     "maxiChallenge": {
       "name": "Create two looks made out of festival materials",
-      "winnerIds": ["susan"]
+      "winnerIds": [
+        "susan"
+      ]
     },
     "runwayTheme": "Les reines de la scène / Festival Realness",
-    "topIds": ["mademoiselle-boop", "susan"],
-    "bottomIds": ["edna-sorgelsen", "mocca-bone", "valenciaga"],
+    "topIds": [
+      "mademoiselle-boop",
+      "susan"
+    ],
+    "bottomIds": [
+      "edna-sorgelsen",
+      "mocca-bone",
+      "valenciaga"
+    ],
     "lipSync": {
       "song": "Pump Up the Jam",
-      "queenIds": ["edna-sorgelsen", "mocca-bone", "valenciaga"],
-      "winnerIds": ["mocca-bone", "valenciaga"],
-      "eliminatedIds": ["edna-sorgelsen"]
+      "queenIds": [
+        "edna-sorgelsen",
+        "mocca-bone",
+        "valenciaga"
+      ],
+      "winnerIds": [
+        "mocca-bone",
+        "valenciaga"
+      ],
+      "eliminatedIds": [
+        "edna-sorgelsen"
+      ]
     },
-    "guestJudges": [{ "name": "Jean-Paul Lespagnard" }]
+    "guestJudges": [
+      {
+        "name": "Jean-Paul Lespagnard"
+      }
+    ]
   },
   {
     "id": "BE-S01-E04",
@@ -74,22 +144,43 @@
     "title": "L'émission qui vous déshabille",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["mademoiselle-boop"]
+      "winnerIds": [
+        "mademoiselle-boop"
+      ]
     },
     "maxiChallenge": {
       "name": "Act in a parody of Ni juge, ni soumise (\"So Help Me God\")",
-      "winnerIds": ["drag-couenne"]
+      "winnerIds": [
+        "drag-couenne"
+      ]
     },
     "runwayTheme": "Surréalisme",
-    "topIds": ["drag-couenne", "peach"],
-    "bottomIds": ["mocca-bone", "susan"],
+    "topIds": [
+      "drag-couenne",
+      "peach"
+    ],
+    "bottomIds": [
+      "mocca-bone",
+      "susan"
+    ],
     "lipSync": {
       "song": "Million Eyes",
-      "queenIds": ["mocca-bone", "susan"],
-      "winnerIds": ["susan"],
-      "eliminatedIds": ["mocca-bone"]
+      "queenIds": [
+        "mocca-bone",
+        "susan"
+      ],
+      "winnerIds": [
+        "susan"
+      ],
+      "eliminatedIds": [
+        "mocca-bone"
+      ]
     },
-    "guestJudges": [{ "name": "Anne Gruwez" }]
+    "guestJudges": [
+      {
+        "name": "Anne Gruwez"
+      }
+    ]
   },
   {
     "id": "BE-S01-E05",
@@ -98,22 +189,44 @@
     "title": "Snatch Game - Belgique Season 1",
     "miniChallenge": {
       "name": "Lip-sync to RuPaul's \"Bring Back My Girls\" in pairs",
-      "winnerIds": ["mademoiselle-boop", "susan"]
+      "winnerIds": [
+        "mademoiselle-boop",
+        "susan"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["mademoiselle-boop"]
+      "winnerIds": [
+        "mademoiselle-boop"
+      ]
     },
     "runwayTheme": "Mille et une Audrey Hepburn",
-    "topIds": ["drag-couenne", "mademoiselle-boop"],
-    "bottomIds": ["peach", "valenciaga"],
+    "topIds": [
+      "drag-couenne",
+      "mademoiselle-boop"
+    ],
+    "bottomIds": [
+      "peach",
+      "valenciaga"
+    ],
     "lipSync": {
       "song": "The Feeling",
-      "queenIds": ["peach", "valenciaga"],
-      "winnerIds": ["peach"],
-      "eliminatedIds": ["valenciaga"]
+      "queenIds": [
+        "peach",
+        "valenciaga"
+      ],
+      "winnerIds": [
+        "peach"
+      ],
+      "eliminatedIds": [
+        "valenciaga"
+      ]
     },
-    "guestJudges": [{ "name": "Plastic Bertrand" }]
+    "guestJudges": [
+      {
+        "name": "Plastic Bertrand"
+      }
+    ]
   },
   {
     "id": "BE-S01-E06",
@@ -122,22 +235,46 @@
     "title": "À deux c'est mieux",
     "miniChallenge": {
       "name": "Match members of the pit crew based on the portrait taped to their backs",
-      "winnerIds": ["peach"]
+      "winnerIds": [
+        "peach"
+      ]
     },
     "maxiChallenge": {
       "name": "Makeover Belgian TV personalities",
-      "winnerIds": ["athena-sorgelikis"]
+      "winnerIds": [
+        "athena-sorgelikis"
+      ]
     },
     "runwayTheme": "Portraits de Famille",
-    "topIds": ["athena-sorgelikis", "drag-couenne"],
-    "bottomIds": ["mademoiselle-boop", "peach"],
+    "topIds": [
+      "athena-sorgelikis",
+      "drag-couenne"
+    ],
+    "bottomIds": [
+      "mademoiselle-boop",
+      "peach"
+    ],
     "lipSync": {
       "song": "J'aime la vie",
-      "queenIds": ["mademoiselle-boop", "peach"],
-      "winnerIds": ["mademoiselle-boop"],
-      "eliminatedIds": ["peach"]
+      "queenIds": [
+        "mademoiselle-boop",
+        "peach"
+      ],
+      "winnerIds": [
+        "mademoiselle-boop"
+      ],
+      "eliminatedIds": [
+        "peach"
+      ]
     },
-    "guestJudges": [{ "name": "David Jeanmotte" }, { "name": "Sandra Kim" }]
+    "guestJudges": [
+      {
+        "name": "David Jeanmotte"
+      },
+      {
+        "name": "Sandra Kim"
+      }
+    ]
   },
   {
     "id": "BE-S01-E07",
@@ -146,22 +283,42 @@
     "title": "Discours de reine",
     "miniChallenge": {
       "name": "Get into drag in total darkness using only the products provided",
-      "winnerIds": ["mademoiselle-boop"]
+      "winnerIds": [
+        "mademoiselle-boop"
+      ]
     },
     "maxiChallenge": {
       "name": "Write and deliver an inspiring and humorous speech to become Queen of Belgium",
-      "winnerIds": ["drag-couenne"]
+      "winnerIds": [
+        "drag-couenne"
+      ]
     },
     "runwayTheme": "Glamour à Knokke-le-Zoute",
-    "topIds": ["drag-couenne"],
-    "bottomIds": ["athena-sorgelikis", "mademoiselle-boop"],
+    "topIds": [
+      "drag-couenne"
+    ],
+    "bottomIds": [
+      "athena-sorgelikis",
+      "mademoiselle-boop"
+    ],
     "lipSync": {
       "song": "Le Banana Split",
-      "queenIds": ["athena-sorgelikis", "mademoiselle-boop"],
-      "winnerIds": ["athena-sorgelikis"],
-      "eliminatedIds": ["mademoiselle-boop"]
+      "queenIds": [
+        "athena-sorgelikis",
+        "mademoiselle-boop"
+      ],
+      "winnerIds": [
+        "athena-sorgelikis"
+      ],
+      "eliminatedIds": [
+        "mademoiselle-boop"
+      ]
     },
-    "guestJudges": [{ "name": "Lio" }]
+    "guestJudges": [
+      {
+        "name": "Lio"
+      }
+    ]
   },
   {
     "id": "BE-S01-E08",
@@ -173,11 +330,20 @@
       "winnerIds": []
     },
     "runwayTheme": "Eleganza Extravaganza",
-    "topIds": ["athena-sorgelikis", "drag-couenne"],
+    "topIds": [
+      "athena-sorgelikis",
+      "drag-couenne"
+    ],
     "lipSync": {
       "song": "Démons",
-      "queenIds": ["athena-sorgelikis", "drag-couenne"],
-      "winnerIds": ["drag-couenne"]
+      "queenIds": [
+        "athena-sorgelikis",
+        "drag-couenne"
+      ],
+      "winnerIds": [
+        "drag-couenne"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

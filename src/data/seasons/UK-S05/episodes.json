@@ -6,16 +6,30 @@
     "title": "Tickety-Boo",
     "maxiChallenge": {
       "name": "Serve three looks: Entrance Looks, Club Tickety-Boo Looks and Fierce Impressions",
-      "winnerIds": ["vicki-vivacious"]
+      "winnerIds": [
+        "vicki-vivacious"
+      ]
     },
     "runwayTheme": "Fierce Impressions Eleganza Extravaganza",
-    "topIds": ["cara-melle", "vicki-vivacious"],
+    "topIds": [
+      "cara-melle",
+      "vicki-vivacious"
+    ],
     "lipSync": {
       "song": "Ooh Aah... Just a Little Bit",
-      "queenIds": ["cara-melle", "vicki-vivacious"],
-      "winnerIds": ["vicki-vivacious"]
+      "queenIds": [
+        "cara-melle",
+        "vicki-vivacious"
+      ],
+      "winnerIds": [
+        "vicki-vivacious"
+      ]
     },
-    "guestJudges": [{ "name": "Kristen McMenamy" }]
+    "guestJudges": [
+      {
+        "name": "Kristen McMenamy"
+      }
+    ]
   },
   {
     "id": "UK-S05-E02",
@@ -24,22 +38,42 @@
     "title": "Purrfect Looks",
     "miniChallenge": {
       "name": "Let the Cat Out of the Bag",
-      "winnerIds": ["tomara-thomas"]
+      "winnerIds": [
+        "tomara-thomas"
+      ]
     },
     "maxiChallenge": {
       "name": "Create an outfit made from pet store items",
-      "winnerIds": ["banksie"]
+      "winnerIds": [
+        "banksie"
+      ]
     },
     "runwayTheme": "Pet Shop Girls Couture",
-    "topIds": ["banksie"],
-    "bottomIds": ["alexis-saint-pete", "miss-naomi-carter"],
+    "topIds": [
+      "banksie"
+    ],
+    "bottomIds": [
+      "alexis-saint-pete",
+      "miss-naomi-carter"
+    ],
     "lipSync": {
       "song": "Hot in It",
-      "queenIds": ["alexis-saint-pete", "miss-naomi-carter"],
-      "winnerIds": ["miss-naomi-carter"],
-      "eliminatedIds": ["alexis-saint-pete"]
+      "queenIds": [
+        "alexis-saint-pete",
+        "miss-naomi-carter"
+      ],
+      "winnerIds": [
+        "miss-naomi-carter"
+      ],
+      "eliminatedIds": [
+        "alexis-saint-pete"
+      ]
     },
-    "guestJudges": [{ "name": "Yasmin Finney" }]
+    "guestJudges": [
+      {
+        "name": "Yasmin Finney"
+      }
+    ]
   },
   {
     "id": "UK-S05-E03",
@@ -48,16 +82,30 @@
     "title": "Club Bangers",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Don't Ick My Yum",
-      "winnerIds": ["cara-melle"]
+      "winnerIds": [
+        "cara-melle"
+      ]
     },
     "runwayTheme": "Night of a Thousand Pop Icons",
-    "topIds": ["cara-melle", "tomara-thomas"],
+    "topIds": [
+      "cara-melle",
+      "tomara-thomas"
+    ],
     "lipSync": {
       "song": "Remember",
-      "queenIds": ["cara-melle", "tomara-thomas"],
-      "winnerIds": ["cara-melle"]
+      "queenIds": [
+        "cara-melle",
+        "tomara-thomas"
+      ],
+      "winnerIds": [
+        "cara-melle"
+      ]
     },
-    "guestJudges": [{ "name": "Sophie Ellis-Bextor" }]
+    "guestJudges": [
+      {
+        "name": "Sophie Ellis-Bextor"
+      }
+    ]
   },
   {
     "id": "UK-S05-E04",
@@ -66,22 +114,46 @@
     "title": "DisasterClass",
     "miniChallenge": {
       "name": "Pose and deliver a sticky tag line for S.P.N.K Protein",
-      "winnerIds": ["tomara-thomas"]
+      "winnerIds": [
+        "tomara-thomas"
+      ]
     },
     "maxiChallenge": {
       "name": "In teams, perform an inspirational seminar called RuPaul's DisasterClass",
-      "winnerIds": ["ginger-johnson", "michael-marouli", "tomara-thomas"]
+      "winnerIds": [
+        "ginger-johnson",
+        "michael-marouli",
+        "tomara-thomas"
+      ]
     },
     "runwayTheme": "Slaycation",
-    "topIds": ["ginger-johnson", "michael-marouli", "tomara-thomas"],
-    "bottomIds": ["cara-melle", "miss-naomi-carter"],
+    "topIds": [
+      "ginger-johnson",
+      "michael-marouli",
+      "tomara-thomas"
+    ],
+    "bottomIds": [
+      "cara-melle",
+      "miss-naomi-carter"
+    ],
     "lipSync": {
       "song": "The Only Way Is Up",
-      "queenIds": ["cara-melle", "miss-naomi-carter"],
-      "winnerIds": ["cara-melle"],
-      "eliminatedIds": ["miss-naomi-carter"]
+      "queenIds": [
+        "cara-melle",
+        "miss-naomi-carter"
+      ],
+      "winnerIds": [
+        "cara-melle"
+      ],
+      "eliminatedIds": [
+        "miss-naomi-carter"
+      ]
     },
-    "guestJudges": [{ "name": "Suranne Jones" }]
+    "guestJudges": [
+      {
+        "name": "Suranne Jones"
+      }
+    ]
   },
   {
     "id": "UK-S05-E05",
@@ -90,22 +162,42 @@
     "title": "Pant-Oh She Better Don't!: The Rusical",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["kate-butch"]
+      "winnerIds": [
+        "kate-butch"
+      ]
     },
     "maxiChallenge": {
       "name": "Pant-Oh She Better Don't: The Rusical",
-      "winnerIds": ["ginger-johnson"]
+      "winnerIds": [
+        "ginger-johnson"
+      ]
     },
     "runwayTheme": "Mirror, Mirror",
-    "topIds": ["ginger-johnson"],
-    "bottomIds": ["banksie", "dedelicious"],
+    "topIds": [
+      "ginger-johnson"
+    ],
+    "bottomIds": [
+      "banksie",
+      "dedelicious"
+    ],
     "lipSync": {
       "song": "I Dreamed a Dream",
-      "queenIds": ["banksie", "dedelicious"],
-      "winnerIds": ["dedelicious"],
-      "eliminatedIds": ["banksie"]
+      "queenIds": [
+        "banksie",
+        "dedelicious"
+      ],
+      "winnerIds": [
+        "dedelicious"
+      ],
+      "eliminatedIds": [
+        "banksie"
+      ]
     },
-    "guestJudges": [{ "name": "Cush Jumbo" }]
+    "guestJudges": [
+      {
+        "name": "Cush Jumbo"
+      }
+    ]
   },
   {
     "id": "UK-S05-E06",
@@ -114,18 +206,36 @@
     "title": "Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["ginger-johnson"]
+      "winnerIds": [
+        "ginger-johnson"
+      ]
     },
     "runwayTheme": "Heart-Ons",
-    "topIds": ["ginger-johnson"],
-    "bottomIds": ["dedelicious", "vicki-vivacious"],
+    "topIds": [
+      "ginger-johnson"
+    ],
+    "bottomIds": [
+      "dedelicious",
+      "vicki-vivacious"
+    ],
     "lipSync": {
       "song": "Heartbreak on Hold",
-      "queenIds": ["dedelicious", "vicki-vivacious"],
-      "winnerIds": ["dedelicious"],
-      "eliminatedIds": ["vicki-vivacious"]
+      "queenIds": [
+        "dedelicious",
+        "vicki-vivacious"
+      ],
+      "winnerIds": [
+        "dedelicious"
+      ],
+      "eliminatedIds": [
+        "vicki-vivacious"
+      ]
     },
-    "guestJudges": [{ "name": "Alexandra Burke" }]
+    "guestJudges": [
+      {
+        "name": "Alexandra Burke"
+      }
+    ]
   },
   {
     "id": "UK-S05-E07",
@@ -134,22 +244,42 @@
     "title": "Melodrama-Rama",
     "miniChallenge": {
       "name": "Everybody Loves Puppets",
-      "winnerIds": ["ginger-johnson"]
+      "winnerIds": [
+        "ginger-johnson"
+      ]
     },
     "maxiChallenge": {
       "name": "In pairs, perform in screen tests for a romantic drama",
-      "winnerIds": ["kate-butch"]
+      "winnerIds": [
+        "kate-butch"
+      ]
     },
     "runwayTheme": "Pajamarama",
-    "topIds": ["kate-butch"],
-    "bottomIds": ["cara-melle", "michael-marouli"],
+    "topIds": [
+      "kate-butch"
+    ],
+    "bottomIds": [
+      "cara-melle",
+      "michael-marouli"
+    ],
     "lipSync": {
       "song": "Touch Me (I Want Your Body)",
-      "queenIds": ["cara-melle", "michael-marouli"],
-      "winnerIds": ["michael-marouli"],
-      "eliminatedIds": ["cara-melle"]
+      "queenIds": [
+        "cara-melle",
+        "michael-marouli"
+      ],
+      "winnerIds": [
+        "michael-marouli"
+      ],
+      "eliminatedIds": [
+        "cara-melle"
+      ]
     },
-    "guestJudges": [{ "name": "Joel Dommett" }]
+    "guestJudges": [
+      {
+        "name": "Joel Dommett"
+      }
+    ]
   },
   {
     "id": "UK-S05-E08",
@@ -158,18 +288,36 @@
     "title": "Hotline Makeover",
     "maxiChallenge": {
       "name": "Makeover hotline workers of Switchboard",
-      "winnerIds": ["michael-marouli"]
+      "winnerIds": [
+        "michael-marouli"
+      ]
     },
     "runwayTheme": "Drag Family Resemblance",
-    "topIds": ["michael-marouli"],
-    "bottomIds": ["dedelicious", "kate-butch"],
+    "topIds": [
+      "michael-marouli"
+    ],
+    "bottomIds": [
+      "dedelicious",
+      "kate-butch"
+    ],
     "lipSync": {
       "song": "This Hell",
-      "queenIds": ["dedelicious", "kate-butch"],
-      "winnerIds": ["dedelicious"],
-      "eliminatedIds": ["kate-butch"]
+      "queenIds": [
+        "dedelicious",
+        "kate-butch"
+      ],
+      "winnerIds": [
+        "dedelicious"
+      ],
+      "eliminatedIds": [
+        "kate-butch"
+      ]
     },
-    "guestJudges": [{ "name": "Daphne Guinness" }]
+    "guestJudges": [
+      {
+        "name": "Daphne Guinness"
+      }
+    ]
   },
   {
     "id": "UK-S05-E09",
@@ -178,18 +326,36 @@
     "title": "The Dragiators' Roast",
     "maxiChallenge": {
       "name": "Perform a roast of the judges and the eliminated queens of Series 5",
-      "winnerIds": ["michael-marouli"]
+      "winnerIds": [
+        "michael-marouli"
+      ]
     },
     "runwayTheme": "Poofs on Parade",
-    "topIds": ["michael-marouli"],
-    "bottomIds": ["dedelicious", "tomara-thomas"],
+    "topIds": [
+      "michael-marouli"
+    ],
+    "bottomIds": [
+      "dedelicious",
+      "tomara-thomas"
+    ],
     "lipSync": {
       "song": "Little Bird",
-      "queenIds": ["dedelicious", "tomara-thomas"],
-      "winnerIds": ["tomara-thomas"],
-      "eliminatedIds": ["dedelicious"]
+      "queenIds": [
+        "dedelicious",
+        "tomara-thomas"
+      ],
+      "winnerIds": [
+        "tomara-thomas"
+      ],
+      "eliminatedIds": [
+        "dedelicious"
+      ]
     },
-    "guestJudges": [{ "name": "Aisling Bea" }]
+    "guestJudges": [
+      {
+        "name": "Aisling Bea"
+      }
+    ]
   },
   {
     "id": "UK-S05-E10",
@@ -201,12 +367,23 @@
       "winnerIds": []
     },
     "runwayTheme": "Grand Finale Eleganza, Dripping in Jewels",
-    "topIds": ["ginger-johnson", "michael-marouli"],
-    "bottomIds": ["tomara-thomas"],
+    "topIds": [
+      "ginger-johnson",
+      "michael-marouli"
+    ],
+    "bottomIds": [
+      "tomara-thomas"
+    ],
     "lipSync": {
       "song": "A Little Respect",
-      "queenIds": ["ginger-johnson", "michael-marouli"],
-      "winnerIds": ["ginger-johnson"]
+      "queenIds": [
+        "ginger-johnson",
+        "michael-marouli"
+      ],
+      "winnerIds": [
+        "ginger-johnson"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

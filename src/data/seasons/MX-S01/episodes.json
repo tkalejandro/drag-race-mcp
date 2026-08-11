@@ -6,22 +6,46 @@
     "title": "Drag Mi Tierra México",
     "miniChallenge": {
       "name": "Piñata-inspired photoshoot",
-      "winnerIds": ["margaret-y-ya"],
-      "earnings": { "amount": 18000, "currency": "MXN" }
+      "winnerIds": [
+        "margaret-y-ya"
+      ],
+      "earnings": {
+        "amount": 18000,
+        "currency": "MXN"
+      }
     },
     "maxiChallenge": {
       "name": "Present a runway look representing your hometown and region",
-      "winnerIds": ["cristian-peralta"]
+      "winnerIds": [
+        "cristian-peralta"
+      ]
     },
     "runwayTheme": "Mi Tierra (My Homeland)",
-    "topIds": ["cristian-peralta", "lady-kero", "matraka"],
-    "bottomIds": ["miss-vallarta", "vermelha-noir"],
+    "topIds": [
+      "cristian-peralta",
+      "lady-kero",
+      "matraka"
+    ],
+    "bottomIds": [
+      "miss-vallarta",
+      "vermelha-noir"
+    ],
     "lipSync": {
       "song": "En la obscuridad",
-      "queenIds": ["miss-vallarta", "vermelha-noir"],
-      "winnerIds": ["miss-vallarta", "vermelha-noir"]
+      "queenIds": [
+        "miss-vallarta",
+        "vermelha-noir"
+      ],
+      "winnerIds": [
+        "miss-vallarta",
+        "vermelha-noir"
+      ]
     },
-    "guestJudges": [{ "name": "Christian Chávez" }]
+    "guestJudges": [
+      {
+        "name": "Christian Chávez"
+      }
+    ]
   },
   {
     "id": "MX-S01-E02",
@@ -30,19 +54,42 @@
     "title": "Mi Quinceañera Drag",
     "maxiChallenge": {
       "name": "Design a Quinceañera look with unconventional materials and party supplies",
-      "winnerIds": ["argennis"],
-      "earnings": { "amount": 18000, "currency": "MXN" }
+      "winnerIds": [
+        "argennis"
+      ],
+      "earnings": {
+        "amount": 18000,
+        "currency": "MXN"
+      }
     },
     "runwayTheme": "Quinceañera Drag",
-    "topIds": ["argennis", "cristian-peralta", "margaret-y-ya"],
-    "bottomIds": ["miss-vallarta", "serena-morena"],
+    "topIds": [
+      "argennis",
+      "cristian-peralta",
+      "margaret-y-ya"
+    ],
+    "bottomIds": [
+      "miss-vallarta",
+      "serena-morena"
+    ],
     "lipSync": {
       "song": "Mírala, míralo",
-      "queenIds": ["miss-vallarta", "serena-morena"],
-      "winnerIds": ["serena-morena"],
-      "eliminatedIds": ["miss-vallarta"]
+      "queenIds": [
+        "miss-vallarta",
+        "serena-morena"
+      ],
+      "winnerIds": [
+        "serena-morena"
+      ],
+      "eliminatedIds": [
+        "miss-vallarta"
+      ]
     },
-    "guestJudges": [{ "name": "Rojstar" }]
+    "guestJudges": [
+      {
+        "name": "Rojstar"
+      }
+    ]
   },
   {
     "id": "MX-S01-E03",
@@ -51,23 +98,49 @@
     "title": "Noche de María Félix",
     "miniChallenge": {
       "name": "In pairs, participate in a taco eating contest",
-      "winnerIds": ["regina-voce", "vermelha-noir"],
-      "earnings": { "amount": 18000, "currency": "MXN" }
+      "winnerIds": [
+        "regina-voce",
+        "vermelha-noir"
+      ],
+      "earnings": {
+        "amount": 18000,
+        "currency": "MXN"
+      }
     },
     "maxiChallenge": {
       "name": "In pairs, create and star in a commercial promoting a different business",
-      "winnerIds": ["regina-voce"]
+      "winnerIds": [
+        "regina-voce"
+      ]
     },
     "runwayTheme": "La Noche de las Mil María Félix",
-    "topIds": ["argennis", "cristian-peralta", "regina-voce"],
-    "bottomIds": ["serena-morena", "vermelha-noir"],
+    "topIds": [
+      "argennis",
+      "cristian-peralta",
+      "regina-voce"
+    ],
+    "bottomIds": [
+      "serena-morena",
+      "vermelha-noir"
+    ],
     "lipSync": {
       "song": "XT4S1S",
-      "queenIds": ["serena-morena", "vermelha-noir"],
-      "winnerIds": ["serena-morena"],
-      "eliminatedIds": ["vermelha-noir"]
+      "queenIds": [
+        "serena-morena",
+        "vermelha-noir"
+      ],
+      "winnerIds": [
+        "serena-morena"
+      ],
+      "eliminatedIds": [
+        "vermelha-noir"
+      ]
     },
-    "guestJudges": [{ "name": "Danna Paola" }]
+    "guestJudges": [
+      {
+        "name": "Danna Paola"
+      }
+    ]
   },
   {
     "id": "MX-S01-E04",
@@ -76,22 +149,44 @@
     "title": "Dragapulco Shore: El Rusical",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["margaret-y-ya"]
+      "winnerIds": [
+        "margaret-y-ya"
+      ]
     },
     "maxiChallenge": {
       "name": "Dragapulco Shore: El Rusical",
-      "winnerIds": ["cristian-peralta"]
+      "winnerIds": [
+        "cristian-peralta"
+      ]
     },
     "runwayTheme": "Oro (Gold)",
-    "topIds": ["cristian-peralta", "gala-varo", "regina-voce"],
-    "bottomIds": ["argennis", "pixie-pixie"],
+    "topIds": [
+      "cristian-peralta",
+      "gala-varo",
+      "regina-voce"
+    ],
+    "bottomIds": [
+      "argennis",
+      "pixie-pixie"
+    ],
     "lipSync": {
       "song": "Mío",
-      "queenIds": ["argennis", "pixie-pixie"],
-      "winnerIds": ["argennis"],
-      "eliminatedIds": ["pixie-pixie"]
+      "queenIds": [
+        "argennis",
+        "pixie-pixie"
+      ],
+      "winnerIds": [
+        "argennis"
+      ],
+      "eliminatedIds": [
+        "pixie-pixie"
+      ]
     },
-    "guestJudges": [{ "name": "Karime Pindter" }]
+    "guestJudges": [
+      {
+        "name": "Karime Pindter"
+      }
+    ]
   },
   {
     "id": "MX-S01-E05",
@@ -100,23 +195,50 @@
     "title": "Girl Band Mexicana",
     "miniChallenge": {
       "name": "Drag up a pair of tribal boots and wear them in a Latin dance-off",
-      "winnerIds": ["argennis", "matraka"],
-      "earnings": { "amount": 9000, "currency": "MXN" }
+      "winnerIds": [
+        "argennis",
+        "matraka"
+      ],
+      "earnings": {
+        "amount": 9000,
+        "currency": "MXN"
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to \"Así soy yo\"",
-      "winnerIds": ["gala-varo", "matraka"]
+      "winnerIds": [
+        "gala-varo",
+        "matraka"
+      ]
     },
     "runwayTheme": "Flores de México",
-    "topIds": ["gala-varo", "margaret-y-ya", "matraka"],
-    "bottomIds": ["argennis", "serena-morena"],
+    "topIds": [
+      "gala-varo",
+      "margaret-y-ya",
+      "matraka"
+    ],
+    "bottomIds": [
+      "argennis",
+      "serena-morena"
+    ],
     "lipSync": {
       "song": "Amor prohibido",
-      "queenIds": ["argennis", "serena-morena"],
-      "winnerIds": ["argennis"],
-      "eliminatedIds": ["serena-morena"]
+      "queenIds": [
+        "argennis",
+        "serena-morena"
+      ],
+      "winnerIds": [
+        "argennis"
+      ],
+      "eliminatedIds": [
+        "serena-morena"
+      ]
     },
-    "guestJudges": [{ "name": "Alejandra Bogue" }]
+    "guestJudges": [
+      {
+        "name": "Alejandra Bogue"
+      }
+    ]
   },
   {
     "id": "MX-S01-E06",
@@ -125,23 +247,48 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Apply quick drag makeup without mirrors",
-      "winnerIds": ["regina-voce"],
-      "earnings": { "amount": 18000, "currency": "MXN" }
+      "winnerIds": [
+        "regina-voce"
+      ],
+      "earnings": {
+        "amount": 18000,
+        "currency": "MXN"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["cristian-peralta"]
+      "winnerIds": [
+        "cristian-peralta"
+      ]
     },
     "runwayTheme": "Sobrenatural (Supernatural)",
-    "topIds": ["cristian-peralta", "lady-kero", "matraka"],
-    "bottomIds": ["argennis", "gala-varo"],
+    "topIds": [
+      "cristian-peralta",
+      "lady-kero",
+      "matraka"
+    ],
+    "bottomIds": [
+      "argennis",
+      "gala-varo"
+    ],
     "lipSync": {
       "song": "Ábranse perras",
-      "queenIds": ["argennis", "gala-varo"],
-      "winnerIds": ["gala-varo"],
-      "eliminatedIds": ["argennis"]
+      "queenIds": [
+        "argennis",
+        "gala-varo"
+      ],
+      "winnerIds": [
+        "gala-varo"
+      ],
+      "eliminatedIds": [
+        "argennis"
+      ]
     },
-    "guestJudges": [{ "name": "Mauricio Martínez" }]
+    "guestJudges": [
+      {
+        "name": "Mauricio Martínez"
+      }
+    ]
   },
   {
     "id": "MX-S01-E07",
@@ -150,19 +297,42 @@
     "title": "Terapia Villanas De Telenovela",
     "maxiChallenge": {
       "name": "Act as soap opera villains in the telenovela \"Villa No Más\"",
-      "winnerIds": ["matraka"],
-      "earnings": { "amount": 18000, "currency": "MXN" }
+      "winnerIds": [
+        "matraka"
+      ],
+      "earnings": {
+        "amount": 18000,
+        "currency": "MXN"
+      }
     },
     "runwayTheme": "Chica Joven / Señora de la Casa / Maldita Villana",
-    "topIds": ["gala-varo", "matraka", "regina-voce"],
-    "bottomIds": ["lady-kero", "margaret-y-ya"],
+    "topIds": [
+      "gala-varo",
+      "matraka",
+      "regina-voce"
+    ],
+    "bottomIds": [
+      "lady-kero",
+      "margaret-y-ya"
+    ],
     "lipSync": {
       "song": "Quítame ese hombre del corazón",
-      "queenIds": ["lady-kero", "margaret-y-ya"],
-      "winnerIds": ["lady-kero"],
-      "eliminatedIds": ["margaret-y-ya"]
+      "queenIds": [
+        "lady-kero",
+        "margaret-y-ya"
+      ],
+      "winnerIds": [
+        "lady-kero"
+      ],
+      "eliminatedIds": [
+        "margaret-y-ya"
+      ]
     },
-    "guestJudges": [{ "name": "Alan Estrada" }]
+    "guestJudges": [
+      {
+        "name": "Alan Estrada"
+      }
+    ]
   },
   {
     "id": "MX-S01-E08",
@@ -171,20 +341,41 @@
     "title": "Re-Diseña Con Levi's",
     "miniChallenge": {
       "name": "Photoshoot posing as wrestlers in a ring",
-      "winnerIds": ["lady-kero"],
-      "earnings": { "amount": 18000, "currency": "MXN" }
+      "winnerIds": [
+        "lady-kero"
+      ],
+      "earnings": {
+        "amount": 18000,
+        "currency": "MXN"
+      }
     },
     "maxiChallenge": {
       "name": "Create a look made from denim from Levi's",
-      "winnerIds": ["matraka"],
-      "earnings": { "amount": 25000, "currency": "MXN" }
+      "winnerIds": [
+        "matraka"
+      ],
+      "earnings": {
+        "amount": 25000,
+        "currency": "MXN"
+      }
     },
     "runwayTheme": "Denim Eleganza Extravaganza",
-    "topIds": ["cristian-peralta", "gala-varo", "lady-kero", "matraka", "regina-voce"],
+    "topIds": [
+      "cristian-peralta",
+      "gala-varo",
+      "lady-kero",
+      "matraka",
+      "regina-voce"
+    ],
     "lipSync": {
       "song": "Bizcochito",
-      "queenIds": ["gala-varo", "matraka"],
-      "winnerIds": ["matraka"]
+      "queenIds": [
+        "gala-varo",
+        "matraka"
+      ],
+      "winnerIds": [
+        "matraka"
+      ]
     }
   },
   {
@@ -194,22 +385,44 @@
     "title": "Roast y Stand Up Comedy",
     "miniChallenge": {
       "name": "Impersonate each other with puppets",
-      "winnerIds": ["matraka", "regina-voce"]
+      "winnerIds": [
+        "matraka",
+        "regina-voce"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a stand-up comedy routine",
-      "winnerIds": ["cristian-peralta"]
+      "winnerIds": [
+        "cristian-peralta"
+      ]
     },
     "runwayTheme": "Picante (Spicy)",
-    "topIds": ["cristian-peralta", "regina-voce"],
-    "bottomIds": ["gala-varo", "lady-kero"],
+    "topIds": [
+      "cristian-peralta",
+      "regina-voce"
+    ],
+    "bottomIds": [
+      "gala-varo",
+      "lady-kero"
+    ],
     "lipSync": {
       "song": "De mí enamórate",
-      "queenIds": ["gala-varo", "lady-kero"],
-      "winnerIds": ["gala-varo"],
-      "eliminatedIds": ["lady-kero"]
+      "queenIds": [
+        "gala-varo",
+        "lady-kero"
+      ],
+      "winnerIds": [
+        "gala-varo"
+      ],
+      "eliminatedIds": [
+        "lady-kero"
+      ]
     },
-    "guestJudges": [{ "name": "Manu NNa" }]
+    "guestJudges": [
+      {
+        "name": "Manu NNa"
+      }
+    ]
   },
   {
     "id": "MX-S01-E10",
@@ -218,18 +431,39 @@
     "title": "Reinas de Belleza Latinas",
     "maxiChallenge": {
       "name": "Makeover a Drag Race fan from Chile, Colombia, Mexico or Venezuela",
-      "winnerIds": ["cristian-peralta"],
-      "earnings": { "amount": 18000, "currency": "MXN" }
+      "winnerIds": [
+        "cristian-peralta"
+      ],
+      "earnings": {
+        "amount": 18000,
+        "currency": "MXN"
+      }
     },
     "runwayTheme": "Miss Drag Latinoamérica",
-    "topIds": ["cristian-peralta", "gala-varo"],
-    "bottomIds": ["matraka", "regina-voce"],
+    "topIds": [
+      "cristian-peralta",
+      "gala-varo"
+    ],
+    "bottomIds": [
+      "matraka",
+      "regina-voce"
+    ],
     "lipSync": {
       "song": "El bombón asesino",
-      "queenIds": ["matraka", "regina-voce"],
-      "winnerIds": ["matraka", "regina-voce"]
+      "queenIds": [
+        "matraka",
+        "regina-voce"
+      ],
+      "winnerIds": [
+        "matraka",
+        "regina-voce"
+      ]
     },
-    "guestJudges": [{ "name": "Laura Carmine" }]
+    "guestJudges": [
+      {
+        "name": "Laura Carmine"
+      }
+    ]
   },
   {
     "id": "MX-S01-E11",
@@ -243,11 +477,24 @@
     "episodeNumber": 12,
     "title": "Grand Finale",
     "runwayTheme": "Mi mejor drag (My Best Drag)",
-    "topIds": ["cristian-peralta", "gala-varo", "matraka", "regina-voce"],
+    "topIds": [
+      "cristian-peralta",
+      "gala-varo",
+      "matraka",
+      "regina-voce"
+    ],
     "lipSync": {
       "song": "Él me mintió",
-      "queenIds": ["cristian-peralta", "gala-varo", "matraka", "regina-voce"],
-      "winnerIds": ["cristian-peralta"]
+      "queenIds": [
+        "cristian-peralta",
+        "gala-varo",
+        "matraka",
+        "regina-voce"
+      ],
+      "winnerIds": [
+        "cristian-peralta"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

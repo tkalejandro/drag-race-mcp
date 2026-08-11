@@ -6,12 +6,23 @@
     "title": "Not Sorry Aboot It",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Not Sorry Aboot It (Remix)",
-      "winnerIds": ["van-goth"],
-      "earnings": { "amount": 5000, "currency": "CAD" }
+      "winnerIds": [
+        "van-goth"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD"
+      }
     },
     "runwayTheme": "More is More",
-    "topIds": ["van-goth"],
-    "guestJudges": [{ "name": "Paula Abdul" }]
+    "topIds": [
+      "van-goth"
+    ],
+    "guestJudges": [
+      {
+        "name": "Paula Abdul"
+      }
+    ]
   },
   {
     "id": "CA-S06-E02",
@@ -20,19 +31,40 @@
     "title": "Yachty Girls",
     "maxiChallenge": {
       "name": "In teams, film a commercial for a cruise line",
-      "winnerIds": ["saltina-shaker"],
-      "earnings": { "amount": 5000, "currency": "CAD" }
+      "winnerIds": [
+        "saltina-shaker"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD"
+      }
     },
     "runwayTheme": "In the Shadows",
-    "topIds": ["saltina-shaker"],
-    "bottomIds": ["paolo-perfeccion", "sami-landri"],
+    "topIds": [
+      "saltina-shaker"
+    ],
+    "bottomIds": [
+      "paolo-perfeccion",
+      "sami-landri"
+    ],
     "lipSync": {
       "song": "Raise a Little Hell",
-      "queenIds": ["paolo-perfeccion", "sami-landri"],
-      "winnerIds": ["sami-landri"],
-      "eliminatedIds": ["paolo-perfeccion"]
+      "queenIds": [
+        "paolo-perfeccion",
+        "sami-landri"
+      ],
+      "winnerIds": [
+        "sami-landri"
+      ],
+      "eliminatedIds": [
+        "paolo-perfeccion"
+      ]
     },
-    "guestJudges": [{ "name": "Glamzilla" }]
+    "guestJudges": [
+      {
+        "name": "Glamzilla"
+      }
+    ]
   },
   {
     "id": "CA-S06-E03",
@@ -41,19 +73,43 @@
     "title": "Pick Your Poison",
     "maxiChallenge": {
       "name": "Choose to compete on Snatch Game or create an outfit made for a Red Carpet",
-      "winnerIds": ["mya-foxx", "van-goth"],
-      "earnings": { "amount": 2500, "currency": "CAD" }
+      "winnerIds": [
+        "mya-foxx",
+        "van-goth"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD"
+      }
     },
     "runwayTheme": "Scene Stealers",
-    "topIds": ["mya-foxx", "van-goth"],
-    "bottomIds": ["karamilk", "star-doll"],
+    "topIds": [
+      "mya-foxx",
+      "van-goth"
+    ],
+    "bottomIds": [
+      "karamilk",
+      "star-doll"
+    ],
     "lipSync": {
       "song": "Tonight I'm Getting Over You",
-      "queenIds": ["karamilk", "star-doll"],
-      "winnerIds": ["karamilk"],
-      "eliminatedIds": ["star-doll"]
+      "queenIds": [
+        "karamilk",
+        "star-doll"
+      ],
+      "winnerIds": [
+        "karamilk"
+      ],
+      "eliminatedIds": [
+        "star-doll"
+      ]
     },
-    "guestJudges": [{ "name": "Icesis Couture", "queenId": "icesis-couture" }]
+    "guestJudges": [
+      {
+        "name": "Icesis Couture",
+        "queenId": "icesis-couture"
+      }
+    ]
   },
   {
     "id": "CA-S06-E04",
@@ -62,24 +118,51 @@
     "title": "Reading Battles are Back Back Back Again",
     "miniChallenge": {
       "name": "Improv a fashion consultation with Carson Kressley",
-      "winnerIds": ["sami-landri"],
-      "earnings": { "amount": 2500, "currency": "CAD" }
+      "winnerIds": [
+        "sami-landri"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD"
+      }
     },
     "maxiChallenge": {
       "name": "Reading Battles",
-      "winnerIds": ["eboni-la-belle"],
-      "earnings": { "amount": 5000, "currency": "CAD" }
+      "winnerIds": [
+        "eboni-la-belle"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD"
+      }
     },
     "runwayTheme": "My Chemical Reaction",
-    "topIds": ["eboni-la-belle"],
-    "bottomIds": ["hazel", "pm"],
+    "topIds": [
+      "eboni-la-belle"
+    ],
+    "bottomIds": [
+      "hazel",
+      "pm"
+    ],
     "lipSync": {
       "song": "Dumb Blonde",
-      "queenIds": ["hazel", "pm"],
-      "winnerIds": ["pm"],
-      "eliminatedIds": ["hazel"]
+      "queenIds": [
+        "hazel",
+        "pm"
+      ],
+      "winnerIds": [
+        "pm"
+      ],
+      "eliminatedIds": [
+        "hazel"
+      ]
     },
-    "guestJudges": [{ "name": "Alyssa Edwards", "queenId": "alyssa-edwards" }]
+    "guestJudges": [
+      {
+        "name": "Alyssa Edwards",
+        "queenId": "alyssa-edwards"
+      }
+    ]
   },
   {
     "id": "CA-S06-E05",
@@ -88,24 +171,50 @@
     "title": "The Shade",
     "miniChallenge": {
       "name": "Sing karaoke to iconic verses from Canada's Drag Race girl groups",
-      "winnerIds": ["dulce"],
-      "earnings": { "amount": 2500, "currency": "CAD" }
+      "winnerIds": [
+        "dulce"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD"
+      }
     },
     "maxiChallenge": {
       "name": "In teams, host segments in the new daytime show The Shade",
-      "winnerIds": ["sami-landri"],
-      "earnings": { "amount": 5000, "currency": "CAD" }
+      "winnerIds": [
+        "sami-landri"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD"
+      }
     },
     "runwayTheme": "A Perp Walk to Remember",
-    "topIds": ["sami-landri"],
-    "bottomIds": ["dulce", "karamilk"],
+    "topIds": [
+      "sami-landri"
+    ],
+    "bottomIds": [
+      "dulce",
+      "karamilk"
+    ],
     "lipSync": {
       "song": "Dancing and Crying",
-      "queenIds": ["dulce", "karamilk"],
-      "winnerIds": ["karamilk"],
-      "eliminatedIds": ["dulce"]
+      "queenIds": [
+        "dulce",
+        "karamilk"
+      ],
+      "winnerIds": [
+        "karamilk"
+      ],
+      "eliminatedIds": [
+        "dulce"
+      ]
     },
-    "guestJudges": [{ "name": "Kiesza" }]
+    "guestJudges": [
+      {
+        "name": "Kiesza"
+      }
+    ]
   },
   {
     "id": "CA-S06-E06",
@@ -114,16 +223,37 @@
     "title": "Slayoffs",
     "maxiChallenge": {
       "name": "Participate in a lip-sync slay off extravaganza",
-      "winnerIds": ["eboni-la-belle"],
-      "earnings": { "amount": 5000, "currency": "CAD" }
+      "winnerIds": [
+        "eboni-la-belle"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD"
+      }
     },
-    "topIds": ["eboni-la-belle", "saltina-shaker"],
-    "bottomIds": ["mya-foxx", "pm", "velma-jones"],
+    "topIds": [
+      "eboni-la-belle",
+      "saltina-shaker"
+    ],
+    "bottomIds": [
+      "mya-foxx",
+      "pm",
+      "velma-jones"
+    ],
     "lipSync": {
       "song": "Sweet Surrender",
-      "queenIds": ["mya-foxx", "pm", "velma-jones"],
-      "winnerIds": ["pm"],
-      "eliminatedIds": ["mya-foxx", "velma-jones"]
+      "queenIds": [
+        "mya-foxx",
+        "pm",
+        "velma-jones"
+      ],
+      "winnerIds": [
+        "pm"
+      ],
+      "eliminatedIds": [
+        "mya-foxx",
+        "velma-jones"
+      ]
     }
   },
   {
@@ -133,23 +263,46 @@
     "title": "Paris (Ontario) Fashion Week",
     "miniChallenge": {
       "name": "Star in a perfume commercial",
-      "winnerIds": ["pm"],
-      "earnings": { "amount": 2500, "currency": "CAD" }
+      "winnerIds": [
+        "pm"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD"
+      }
     },
     "maxiChallenge": {
       "name": "Design an outfit to be modeled by Brooke Lynn Hytes",
-      "winnerIds": ["van-goth"]
+      "winnerIds": [
+        "van-goth"
+      ]
     },
     "runwayTheme": "Paris: Spring, Summer and Closing the Show",
-    "topIds": ["van-goth"],
-    "bottomIds": ["pm", "saltina-shaker"],
+    "topIds": [
+      "van-goth"
+    ],
+    "bottomIds": [
+      "pm",
+      "saltina-shaker"
+    ],
     "lipSync": {
       "song": "I'm a Star",
-      "queenIds": ["pm", "saltina-shaker"],
-      "winnerIds": ["pm"],
-      "eliminatedIds": ["saltina-shaker"]
+      "queenIds": [
+        "pm",
+        "saltina-shaker"
+      ],
+      "winnerIds": [
+        "pm"
+      ],
+      "eliminatedIds": [
+        "saltina-shaker"
+      ]
     },
-    "guestJudges": [{ "name": "Erdem Moralıoğlu" }]
+    "guestJudges": [
+      {
+        "name": "Erdem Moralıoğlu"
+      }
+    ]
   },
   {
     "id": "CA-S06-E08",
@@ -158,17 +311,40 @@
     "title": "Charisma, Uniqueness, Nerve, And Talent",
     "maxiChallenge": {
       "name": "CUNTest: rap about previous Canada's Drag Race seasons, little black dress design, and dramatic monologue",
-      "winnerIds": ["pm", "van-goth", "eboni-la-belle"]
+      "winnerIds": [
+        "pm",
+        "van-goth",
+        "eboni-la-belle"
+      ]
     },
-    "topIds": ["eboni-la-belle", "pm", "sami-landri", "van-goth"],
-    "bottomIds": ["karamilk", "sami-landri"],
+    "topIds": [
+      "eboni-la-belle",
+      "pm",
+      "sami-landri",
+      "van-goth"
+    ],
+    "bottomIds": [
+      "karamilk",
+      "sami-landri"
+    ],
     "lipSync": {
       "song": "Fix You",
-      "queenIds": ["karamilk", "sami-landri"],
-      "winnerIds": ["sami-landri"],
-      "eliminatedIds": ["karamilk"]
+      "queenIds": [
+        "karamilk",
+        "sami-landri"
+      ],
+      "winnerIds": [
+        "sami-landri"
+      ],
+      "eliminatedIds": [
+        "karamilk"
+      ]
     },
-    "guestJudges": [{ "name": "Allison Russell" }]
+    "guestJudges": [
+      {
+        "name": "Allison Russell"
+      }
+    ]
   },
   {
     "id": "CA-S06-E09",
@@ -180,13 +356,29 @@
       "winnerIds": []
     },
     "runwayTheme": "Coronation Eleganza",
-    "topIds": ["eboni-la-belle", "van-goth"],
-    "bottomIds": ["pm", "sami-landri"],
+    "topIds": [
+      "eboni-la-belle",
+      "van-goth"
+    ],
+    "bottomIds": [
+      "pm",
+      "sami-landri"
+    ],
     "lipSync": {
       "song": "Super Graphic Ultra Modern Girl",
-      "queenIds": ["eboni-la-belle", "van-goth"],
-      "winnerIds": ["van-goth"]
+      "queenIds": [
+        "eboni-la-belle",
+        "van-goth"
+      ],
+      "winnerIds": [
+        "van-goth"
+      ],
+      "kind": "for-the-crown"
     },
-    "guestJudges": [{ "name": "Rufus Wainwright" }]
+    "guestJudges": [
+      {
+        "name": "Rufus Wainwright"
+      }
+    ]
   }
 ]

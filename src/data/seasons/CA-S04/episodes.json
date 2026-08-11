@@ -6,16 +6,30 @@
     "title": "Premiere Ball",
     "maxiChallenge": {
       "name": "Present three looks: First Impressions, Shimmering Showgirls and Me Myself and I",
-      "winnerIds": ["venus"]
+      "winnerIds": [
+        "venus"
+      ]
     },
     "runwayTheme": "Me Myself and I",
-    "topIds": ["denim", "venus"],
+    "topIds": [
+      "denim",
+      "venus"
+    ],
     "lipSync": {
       "song": "Feel It in My Bones",
-      "queenIds": ["denim", "venus"],
-      "winnerIds": ["venus"]
+      "queenIds": [
+        "denim",
+        "venus"
+      ],
+      "winnerIds": [
+        "venus"
+      ]
     },
-    "guestJudges": [{ "name": "Tegan and Sara" }]
+    "guestJudges": [
+      {
+        "name": "Tegan and Sara"
+      }
+    ]
   },
   {
     "id": "CA-S04-E02",
@@ -24,18 +38,38 @@
     "title": "QV-She",
     "maxiChallenge": {
       "name": "In teams, advertise a drag look product as a host on the shopping channel parody QV-She",
-      "winnerIds": ["kitten-kaboodle"]
+      "winnerIds": [
+        "kitten-kaboodle"
+      ]
     },
     "runwayTheme": "Gemstones",
-    "topIds": ["kitten-kaboodle", "melinda-verga", "venus"],
-    "bottomIds": ["luna-dubois", "sisi-superstar"],
+    "topIds": [
+      "kitten-kaboodle",
+      "melinda-verga",
+      "venus"
+    ],
+    "bottomIds": [
+      "luna-dubois",
+      "sisi-superstar"
+    ],
     "lipSync": {
       "song": "I'm with You",
-      "queenIds": ["luna-dubois", "sisi-superstar"],
-      "winnerIds": ["luna-dubois"],
-      "eliminatedIds": ["sisi-superstar"]
+      "queenIds": [
+        "luna-dubois",
+        "sisi-superstar"
+      ],
+      "winnerIds": [
+        "luna-dubois"
+      ],
+      "eliminatedIds": [
+        "sisi-superstar"
+      ]
     },
-    "guestJudges": [{ "name": "Ra'Jah O'Hara" }]
+    "guestJudges": [
+      {
+        "name": "Ra'Jah O'Hara"
+      }
+    ]
   },
   {
     "id": "CA-S04-E03",
@@ -44,22 +78,44 @@
     "title": "OH-SHE-GAGGIN",
     "miniChallenge": {
       "name": "Get into quick drag and interview as an actress for a parody film",
-      "winnerIds": ["melinda-verga"]
+      "winnerIds": [
+        "melinda-verga"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses for the OH-SHE-GAGGIN music festival",
-      "winnerIds": ["aurora-matrix"]
+      "winnerIds": [
+        "aurora-matrix"
+      ]
     },
     "runwayTheme": "Sunglasses at Night",
-    "topIds": ["aimee-yonce-shennel", "aurora-matrix", "denim"],
-    "bottomIds": ["kitten-kaboodle", "the-girlfriend-experience"],
+    "topIds": [
+      "aimee-yonce-shennel",
+      "aurora-matrix",
+      "denim"
+    ],
+    "bottomIds": [
+      "kitten-kaboodle",
+      "the-girlfriend-experience"
+    ],
     "lipSync": {
       "song": "Tongue",
-      "queenIds": ["kitten-kaboodle", "the-girlfriend-experience"],
-      "winnerIds": ["kitten-kaboodle"],
-      "eliminatedIds": ["the-girlfriend-experience"]
+      "queenIds": [
+        "kitten-kaboodle",
+        "the-girlfriend-experience"
+      ],
+      "winnerIds": [
+        "kitten-kaboodle"
+      ],
+      "eliminatedIds": [
+        "the-girlfriend-experience"
+      ]
     },
-    "guestJudges": [{ "name": "Rêve" }]
+    "guestJudges": [
+      {
+        "name": "Rêve"
+      }
+    ]
   },
   {
     "id": "CA-S04-E04",
@@ -68,21 +124,42 @@
     "title": "Out of the Closet",
     "miniChallenge": {
       "name": "Metallic photoshoot",
-      "winnerIds": ["nearah-nuff"]
+      "winnerIds": [
+        "nearah-nuff"
+      ]
     },
     "maxiChallenge": {
       "name": "Create a look using Brad Goreski's hand-me-downs",
-      "winnerIds": ["kiki-coe"]
+      "winnerIds": [
+        "kiki-coe"
+      ]
     },
     "runwayTheme": "Out of the Closet",
-    "topIds": ["denim", "kiki-coe", "kitten-kaboodle"],
-    "bottomIds": ["aimee-yonce-shennel", "nearah-nuff"],
+    "topIds": [
+      "denim",
+      "kiki-coe",
+      "kitten-kaboodle"
+    ],
+    "bottomIds": [
+      "aimee-yonce-shennel",
+      "nearah-nuff"
+    ],
     "lipSync": {
       "song": "Come Through",
-      "queenIds": ["aimee-yonce-shennel", "nearah-nuff"],
-      "winnerIds": ["aimee-yonce-shennel", "nearah-nuff"]
+      "queenIds": [
+        "aimee-yonce-shennel",
+        "nearah-nuff"
+      ],
+      "winnerIds": [
+        "aimee-yonce-shennel",
+        "nearah-nuff"
+      ]
     },
-    "guestJudges": [{ "name": "Christian Allaire" }]
+    "guestJudges": [
+      {
+        "name": "Christian Allaire"
+      }
+    ]
   },
   {
     "id": "CA-S04-E05",
@@ -91,22 +168,44 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["denim"]
+      "winnerIds": [
+        "denim"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["melinda-verga"]
+      "winnerIds": [
+        "melinda-verga"
+      ]
     },
     "runwayTheme": "Steampunk",
-    "topIds": ["kitten-kaboodle", "melinda-verga", "venus"],
-    "bottomIds": ["aurora-matrix", "luna-dubois"],
+    "topIds": [
+      "kitten-kaboodle",
+      "melinda-verga",
+      "venus"
+    ],
+    "bottomIds": [
+      "aurora-matrix",
+      "luna-dubois"
+    ],
     "lipSync": {
       "song": "She's All I Wanna Be",
-      "queenIds": ["aurora-matrix", "luna-dubois"],
-      "winnerIds": ["aurora-matrix"],
-      "eliminatedIds": ["luna-dubois"]
+      "queenIds": [
+        "aurora-matrix",
+        "luna-dubois"
+      ],
+      "winnerIds": [
+        "aurora-matrix"
+      ],
+      "eliminatedIds": [
+        "luna-dubois"
+      ]
     },
-    "guestJudges": [{ "name": "Jaida Essence Hall" }]
+    "guestJudges": [
+      {
+        "name": "Jaida Essence Hall"
+      }
+    ]
   },
   {
     "id": "CA-S04-E06",
@@ -115,9 +214,14 @@
     "title": "Lip Sync Slay Offs",
     "maxiChallenge": {
       "name": "Participate in a lip-sync slay off extravaganza",
-      "winnerIds": ["nearah-nuff"]
+      "winnerIds": [
+        "nearah-nuff"
+      ]
     },
-    "topIds": ["aurora-matrix", "nearah-nuff"],
+    "topIds": [
+      "aurora-matrix",
+      "nearah-nuff"
+    ],
     "bottomIds": [
       "aimee-yonce-shennel",
       "kiki-coe",
@@ -130,10 +234,19 @@
         "kiki-coe",
         "kitten-kaboodle"
       ],
-      "winnerIds": ["kiki-coe"],
-      "eliminatedIds": ["aimee-yonce-shennel", "kitten-kaboodle"]
+      "winnerIds": [
+        "kiki-coe"
+      ],
+      "eliminatedIds": [
+        "aimee-yonce-shennel",
+        "kitten-kaboodle"
+      ]
     },
-    "guestJudges": [{ "name": "Winnie Harlow" }]
+    "guestJudges": [
+      {
+        "name": "Winnie Harlow"
+      }
+    ]
   },
   {
     "id": "CA-S04-E07",
@@ -142,22 +255,44 @@
     "title": "From Drags to Riches: The Rusical",
     "miniChallenge": {
       "name": "Get into quick drag and host a parody late night call-in show called Just A Tip",
-      "winnerIds": ["venus"]
+      "winnerIds": [
+        "venus"
+      ]
     },
     "maxiChallenge": {
       "name": "From Drags to Riches: The Rusical",
-      "winnerIds": ["aurora-matrix"]
+      "winnerIds": [
+        "aurora-matrix"
+      ]
     },
     "runwayTheme": "Always a Bridesmaid",
-    "topIds": ["aurora-matrix", "nearah-nuff", "venus"],
-    "bottomIds": ["denim", "kiki-coe"],
+    "topIds": [
+      "aurora-matrix",
+      "nearah-nuff",
+      "venus"
+    ],
+    "bottomIds": [
+      "denim",
+      "kiki-coe"
+    ],
     "lipSync": {
       "song": "Seven Day Fool",
-      "queenIds": ["denim", "kiki-coe"],
-      "winnerIds": ["denim"],
-      "eliminatedIds": ["kiki-coe"]
+      "queenIds": [
+        "denim",
+        "kiki-coe"
+      ],
+      "winnerIds": [
+        "denim"
+      ],
+      "eliminatedIds": [
+        "kiki-coe"
+      ]
     },
-    "guestJudges": [{ "name": "Luann de Lesseps" }]
+    "guestJudges": [
+      {
+        "name": "Luann de Lesseps"
+      }
+    ]
   },
   {
     "id": "CA-S04-E08",
@@ -166,22 +301,43 @@
     "title": "A Star Is Born",
     "miniChallenge": {
       "name": "Model in a photoshoot wearing makeup applied by your loved one",
-      "winnerIds": ["melinda-verga"]
+      "winnerIds": [
+        "melinda-verga"
+      ]
     },
     "maxiChallenge": {
       "name": "Give a drag makeover to a loved one",
-      "winnerIds": ["denim"]
+      "winnerIds": [
+        "denim"
+      ]
     },
     "runwayTheme": "A Star Is Born",
-    "topIds": ["denim", "venus"],
-    "bottomIds": ["melinda-verga", "nearah-nuff"],
+    "topIds": [
+      "denim",
+      "venus"
+    ],
+    "bottomIds": [
+      "melinda-verga",
+      "nearah-nuff"
+    ],
     "lipSync": {
       "song": "I Didn't Just Come Here to Dance",
-      "queenIds": ["melinda-verga", "nearah-nuff"],
-      "winnerIds": ["nearah-nuff"],
-      "eliminatedIds": ["melinda-verga"]
+      "queenIds": [
+        "melinda-verga",
+        "nearah-nuff"
+      ],
+      "winnerIds": [
+        "nearah-nuff"
+      ],
+      "eliminatedIds": [
+        "melinda-verga"
+      ]
     },
-    "guestJudges": [{ "name": "Sarain Fox" }]
+    "guestJudges": [
+      {
+        "name": "Sarain Fox"
+      }
+    ]
   },
   {
     "id": "CA-S04-E09",
@@ -193,13 +349,29 @@
       "winnerIds": []
     },
     "runwayTheme": "Coronation Eleganza",
-    "topIds": ["aurora-matrix", "venus"],
-    "bottomIds": ["denim", "nearah-nuff"],
+    "topIds": [
+      "aurora-matrix",
+      "venus"
+    ],
+    "bottomIds": [
+      "denim",
+      "nearah-nuff"
+    ],
     "lipSync": {
       "song": "Try",
-      "queenIds": ["aurora-matrix", "venus"],
-      "winnerIds": ["venus"]
+      "queenIds": [
+        "aurora-matrix",
+        "venus"
+      ],
+      "winnerIds": [
+        "venus"
+      ],
+      "kind": "for-the-crown"
     },
-    "guestJudges": [{ "name": "Nelly Furtado" }]
+    "guestJudges": [
+      {
+        "name": "Nelly Furtado"
+      }
+    ]
   }
 ]

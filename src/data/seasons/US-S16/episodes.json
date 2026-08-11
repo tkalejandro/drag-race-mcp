@@ -6,20 +6,36 @@
     "title": "Rate-A-Queen",
     "miniChallenge": {
       "name": "Porch doorbell photoshoot",
-      "winnerIds": ["sapphira-cristal"]
+      "winnerIds": [
+        "sapphira-cristal"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a talent show for MTV Spring Break",
-      "winnerIds": ["sapphira-cristal"]
+      "winnerIds": [
+        "sapphira-cristal"
+      ]
     },
     "runwayTheme": "RuVeal Yourself",
-    "topIds": ["q", "sapphira-cristal"],
+    "topIds": [
+      "q",
+      "sapphira-cristal"
+    ],
     "lipSync": {
       "song": "Break My Soul",
-      "queenIds": ["q", "sapphira-cristal"],
-      "winnerIds": ["sapphira-cristal"]
+      "queenIds": [
+        "q",
+        "sapphira-cristal"
+      ],
+      "winnerIds": [
+        "sapphira-cristal"
+      ]
     },
-    "guestJudges": [{ "name": "Charlize Theron" }]
+    "guestJudges": [
+      {
+        "name": "Charlize Theron"
+      }
+    ]
   },
   {
     "id": "US-S16-E02",
@@ -28,20 +44,36 @@
     "title": "Queen Choice Awards",
     "miniChallenge": {
       "name": "SheMV Hollywood photoshoot",
-      "winnerIds": ["nymphia-wind"]
+      "winnerIds": [
+        "nymphia-wind"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform at the Queen Choice Awards talent show",
-      "winnerIds": ["plane-jane"]
+      "winnerIds": [
+        "plane-jane"
+      ]
     },
     "runwayTheme": "Made You Look",
-    "topIds": ["geneva-karr", "plane-jane"],
+    "topIds": [
+      "geneva-karr",
+      "plane-jane"
+    ],
     "lipSync": {
       "song": "Shower",
-      "queenIds": ["geneva-karr", "plane-jane"],
-      "winnerIds": ["plane-jane"]
+      "queenIds": [
+        "geneva-karr",
+        "plane-jane"
+      ],
+      "winnerIds": [
+        "plane-jane"
+      ]
     },
-    "guestJudges": [{ "name": "Becky G" }]
+    "guestJudges": [
+      {
+        "name": "Becky G"
+      }
+    ]
   },
   {
     "id": "US-S16-E03",
@@ -50,18 +82,38 @@
     "title": "The Mother of All Balls",
     "maxiChallenge": {
       "name": "The Mother of All Balls",
-      "winnerIds": ["nymphia-wind"]
+      "winnerIds": [
+        "nymphia-wind"
+      ]
     },
     "runwayTheme": "Mother Goose / Significant Mother / Call Me Mother/Father Eleganza",
-    "topIds": ["nymphia-wind", "q", "sapphira-cristal"],
-    "bottomIds": ["geneva-karr", "hershii-liqcour-jete"],
+    "topIds": [
+      "nymphia-wind",
+      "q",
+      "sapphira-cristal"
+    ],
+    "bottomIds": [
+      "geneva-karr",
+      "hershii-liqcour-jete"
+    ],
     "lipSync": {
       "song": "Maybe You're the Problem",
-      "queenIds": ["geneva-karr", "hershii-liqcour-jete"],
-      "winnerIds": ["geneva-karr"],
-      "eliminatedIds": ["hershii-liqcour-jete"]
+      "queenIds": [
+        "geneva-karr",
+        "hershii-liqcour-jete"
+      ],
+      "winnerIds": [
+        "geneva-karr"
+      ],
+      "eliminatedIds": [
+        "hershii-liqcour-jete"
+      ]
     },
-    "guestJudges": [{ "name": "Isaac Mizrahi" }]
+    "guestJudges": [
+      {
+        "name": "Isaac Mizrahi"
+      }
+    ]
   },
   {
     "id": "US-S16-E04",
@@ -70,18 +122,38 @@
     "title": "RDR Live!",
     "maxiChallenge": {
       "name": "Act in the sketch comedy Everything Every-Cher All at Once",
-      "winnerIds": ["plasma"]
+      "winnerIds": [
+        "plasma"
+      ]
     },
     "runwayTheme": "Everything Every-Cher All at Once",
-    "topIds": ["plane-jane", "plasma", "q"],
-    "bottomIds": ["geneva-karr", "mirage"],
+    "topIds": [
+      "plane-jane",
+      "plasma",
+      "q"
+    ],
+    "bottomIds": [
+      "geneva-karr",
+      "mirage"
+    ],
     "lipSync": {
       "song": "Dark Lady",
-      "queenIds": ["geneva-karr", "mirage"],
-      "winnerIds": ["geneva-karr"],
-      "eliminatedIds": ["mirage"]
+      "queenIds": [
+        "geneva-karr",
+        "mirage"
+      ],
+      "winnerIds": [
+        "geneva-karr"
+      ],
+      "eliminatedIds": [
+        "mirage"
+      ]
     },
-    "guestJudges": [{ "name": "Sarah Michelle Gellar" }]
+    "guestJudges": [
+      {
+        "name": "Sarah Michelle Gellar"
+      }
+    ]
   },
   {
     "id": "US-S16-E05",
@@ -90,7 +162,9 @@
     "title": "Girl Groups",
     "miniChallenge": {
       "name": "Memoir cover photoshoot",
-      "winnerIds": ["sapphira-cristal"]
+      "winnerIds": [
+        "sapphira-cristal"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record, and perform RuPaul girl-group verses",
@@ -108,14 +182,28 @@
       "mhiya-iman-lepaige",
       "nymphia-wind"
     ],
-    "bottomIds": ["amanda-tori-meating", "q"],
+    "bottomIds": [
+      "amanda-tori-meating",
+      "q"
+    ],
     "lipSync": {
       "song": "Emergency",
-      "queenIds": ["amanda-tori-meating", "q"],
-      "winnerIds": ["q"],
-      "eliminatedIds": ["amanda-tori-meating"]
+      "queenIds": [
+        "amanda-tori-meating",
+        "q"
+      ],
+      "winnerIds": [
+        "q"
+      ],
+      "eliminatedIds": [
+        "amanda-tori-meating"
+      ]
     },
-    "guestJudges": [{ "name": "Icona Pop" }]
+    "guestJudges": [
+      {
+        "name": "Icona Pop"
+      }
+    ]
   },
   {
     "id": "US-S16-E06",
@@ -124,22 +212,44 @@
     "title": "Welcome to the DollHouse",
     "miniChallenge": {
       "name": "Flamenco dance",
-      "winnerIds": ["xunami-muse"]
+      "winnerIds": [
+        "xunami-muse"
+      ]
     },
     "maxiChallenge": {
       "name": "Design a doll for Welcome to the Dollhouse",
-      "winnerIds": ["q"]
+      "winnerIds": [
+        "q"
+      ]
     },
     "runwayTheme": "Welcome to the Dollhouse",
-    "topIds": ["dawn", "plane-jane", "q"],
-    "bottomIds": ["geneva-karr", "mhiya-iman-lepaige"],
+    "topIds": [
+      "dawn",
+      "plane-jane",
+      "q"
+    ],
+    "bottomIds": [
+      "geneva-karr",
+      "mhiya-iman-lepaige"
+    ],
     "lipSync": {
       "song": "Control",
-      "queenIds": ["geneva-karr", "mhiya-iman-lepaige"],
-      "winnerIds": ["mhiya-iman-lepaige"],
-      "eliminatedIds": ["geneva-karr"]
+      "queenIds": [
+        "geneva-karr",
+        "mhiya-iman-lepaige"
+      ],
+      "winnerIds": [
+        "mhiya-iman-lepaige"
+      ],
+      "eliminatedIds": [
+        "geneva-karr"
+      ]
     },
-    "guestJudges": [{ "name": "Law Roach" }]
+    "guestJudges": [
+      {
+        "name": "Law Roach"
+      }
+    ]
   },
   {
     "id": "US-S16-E07",
@@ -148,18 +258,38 @@
     "title": "The Sound of Rusic",
     "maxiChallenge": {
       "name": "The Sound of Rusic",
-      "winnerIds": ["plasma"]
+      "winnerIds": [
+        "plasma"
+      ]
     },
     "runwayTheme": "I Can Buy Myself Flowers",
-    "topIds": ["plasma", "q", "sapphira-cristal"],
-    "bottomIds": ["megami", "mhiya-iman-lepaige"],
+    "topIds": [
+      "plasma",
+      "q",
+      "sapphira-cristal"
+    ],
+    "bottomIds": [
+      "megami",
+      "mhiya-iman-lepaige"
+    ],
     "lipSync": {
       "song": "Flowers",
-      "queenIds": ["megami", "mhiya-iman-lepaige"],
-      "winnerIds": ["mhiya-iman-lepaige"],
-      "eliminatedIds": ["megami"]
+      "queenIds": [
+        "megami",
+        "mhiya-iman-lepaige"
+      ],
+      "winnerIds": [
+        "mhiya-iman-lepaige"
+      ],
+      "eliminatedIds": [
+        "megami"
+      ]
     },
-    "guestJudges": [{ "name": "Adam Shankman" }]
+    "guestJudges": [
+      {
+        "name": "Adam Shankman"
+      }
+    ]
   },
   {
     "id": "US-S16-E08",
@@ -168,22 +298,44 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["xunami-muse"]
+      "winnerIds": [
+        "xunami-muse"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["plane-jane"]
+      "winnerIds": [
+        "plane-jane"
+      ]
     },
     "runwayTheme": "Dancing Queen",
-    "topIds": ["mhiya-iman-lepaige", "plane-jane", "sapphira-cristal"],
-    "bottomIds": ["morphine-love-dion", "xunami-muse"],
+    "topIds": [
+      "mhiya-iman-lepaige",
+      "plane-jane",
+      "sapphira-cristal"
+    ],
+    "bottomIds": [
+      "morphine-love-dion",
+      "xunami-muse"
+    ],
     "lipSync": {
       "song": "I Wanna Dance with Somebody (Who Loves Me)",
-      "queenIds": ["morphine-love-dion", "xunami-muse"],
-      "winnerIds": ["morphine-love-dion"],
-      "eliminatedIds": ["xunami-muse"]
+      "queenIds": [
+        "morphine-love-dion",
+        "xunami-muse"
+      ],
+      "winnerIds": [
+        "morphine-love-dion"
+      ],
+      "eliminatedIds": [
+        "xunami-muse"
+      ]
     },
-    "guestJudges": [{ "name": "Kyra Sedgwick" }]
+    "guestJudges": [
+      {
+        "name": "Kyra Sedgwick"
+      }
+    ]
   },
   {
     "id": "US-S16-E09",
@@ -192,22 +344,45 @@
     "title": "See You Next Wednesday",
     "miniChallenge": {
       "name": "Spit-take challenge",
-      "winnerIds": ["nymphia-wind"]
+      "winnerIds": [
+        "nymphia-wind"
+      ]
     },
     "maxiChallenge": {
       "name": "Create a neo-goth look from unconventional materials",
-      "winnerIds": ["q"]
+      "winnerIds": [
+        "q"
+      ]
     },
     "runwayTheme": "See You Next Wednesday",
-    "topIds": ["dawn", "nymphia-wind", "q", "sapphira-cristal"],
-    "bottomIds": ["mhiya-iman-lepaige", "plasma"],
+    "topIds": [
+      "dawn",
+      "nymphia-wind",
+      "q",
+      "sapphira-cristal"
+    ],
+    "bottomIds": [
+      "mhiya-iman-lepaige",
+      "plasma"
+    ],
     "lipSync": {
       "song": "Bloody Mary (Wednesday Dance TikTok Version)",
-      "queenIds": ["mhiya-iman-lepaige", "plasma"],
-      "winnerIds": ["mhiya-iman-lepaige"],
-      "eliminatedIds": ["plasma"]
+      "queenIds": [
+        "mhiya-iman-lepaige",
+        "plasma"
+      ],
+      "winnerIds": [
+        "mhiya-iman-lepaige"
+      ],
+      "eliminatedIds": [
+        "plasma"
+      ]
     },
-    "guestJudges": [{ "name": "Kaia Gerber" }]
+    "guestJudges": [
+      {
+        "name": "Kaia Gerber"
+      }
+    ]
   },
   {
     "id": "US-S16-E10",
@@ -216,16 +391,30 @@
     "title": "Werq the World",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Power",
-      "winnerIds": ["sapphira-cristal"]
+      "winnerIds": [
+        "sapphira-cristal"
+      ]
     },
     "runwayTheme": "True Colors",
-    "topIds": ["morphine-love-dion", "sapphira-cristal"],
+    "topIds": [
+      "morphine-love-dion",
+      "sapphira-cristal"
+    ],
     "lipSync": {
       "song": "Made You Look",
-      "queenIds": ["morphine-love-dion", "sapphira-cristal"],
-      "winnerIds": ["sapphira-cristal"]
+      "queenIds": [
+        "morphine-love-dion",
+        "sapphira-cristal"
+      ],
+      "winnerIds": [
+        "sapphira-cristal"
+      ]
     },
-    "guestJudges": [{ "name": "Jamal Sims" }]
+    "guestJudges": [
+      {
+        "name": "Jamal Sims"
+      }
+    ]
   },
   {
     "id": "US-S16-E11",
@@ -234,22 +423,45 @@
     "title": "Corporate Queens",
     "miniChallenge": {
       "name": "Spill the Tea superlatives",
-      "winnerIds": ["sapphira-cristal"]
+      "winnerIds": [
+        "sapphira-cristal"
+      ]
     },
     "maxiChallenge": {
       "name": "Present drag awareness seminars",
-      "winnerIds": ["sapphira-cristal"]
+      "winnerIds": [
+        "sapphira-cristal"
+      ]
     },
     "runwayTheme": "Flashback: DragCon 1980",
-    "topIds": ["nymphia-wind", "plane-jane", "q", "sapphira-cristal"],
-    "bottomIds": ["mhiya-iman-lepaige", "morphine-love-dion"],
+    "topIds": [
+      "nymphia-wind",
+      "plane-jane",
+      "q",
+      "sapphira-cristal"
+    ],
+    "bottomIds": [
+      "mhiya-iman-lepaige",
+      "morphine-love-dion"
+    ],
     "lipSync": {
       "song": "Dim All the Lights",
-      "queenIds": ["mhiya-iman-lepaige", "morphine-love-dion"],
-      "winnerIds": ["morphine-love-dion"],
-      "eliminatedIds": ["mhiya-iman-lepaige"]
+      "queenIds": [
+        "mhiya-iman-lepaige",
+        "morphine-love-dion"
+      ],
+      "winnerIds": [
+        "morphine-love-dion"
+      ],
+      "eliminatedIds": [
+        "mhiya-iman-lepaige"
+      ]
     },
-    "guestJudges": [{ "name": "Joel Kim Booster" }]
+    "guestJudges": [
+      {
+        "name": "Joel Kim Booster"
+      }
+    ]
   },
   {
     "id": "US-S16-E12",
@@ -258,22 +470,44 @@
     "title": "Bathroom Hunties",
     "miniChallenge": {
       "name": "Face makeup T-shirt imprint",
-      "winnerIds": ["plane-jane"]
+      "winnerIds": [
+        "plane-jane"
+      ]
     },
     "maxiChallenge": {
       "name": "Design paired bathrooms",
-      "winnerIds": ["plane-jane", "sapphira-cristal"]
+      "winnerIds": [
+        "plane-jane",
+        "sapphira-cristal"
+      ]
     },
     "runwayTheme": "Chain Reaction",
-    "topIds": ["plane-jane", "sapphira-cristal"],
-    "bottomIds": ["dawn", "morphine-love-dion"],
+    "topIds": [
+      "plane-jane",
+      "sapphira-cristal"
+    ],
+    "bottomIds": [
+      "dawn",
+      "morphine-love-dion"
+    ],
     "lipSync": {
       "song": "Body",
-      "queenIds": ["dawn", "morphine-love-dion"],
-      "winnerIds": ["morphine-love-dion"],
-      "eliminatedIds": ["dawn"]
+      "queenIds": [
+        "dawn",
+        "morphine-love-dion"
+      ],
+      "winnerIds": [
+        "morphine-love-dion"
+      ],
+      "eliminatedIds": [
+        "dawn"
+      ]
     },
-    "guestJudges": [{ "name": "Mayan Lopez" }]
+    "guestJudges": [
+      {
+        "name": "Mayan Lopez"
+      }
+    ]
   },
   {
     "id": "US-S16-E13",
@@ -282,18 +516,38 @@
     "title": "Drag Race Vegas Live! Makeovers",
     "maxiChallenge": {
       "name": "Make over Live! pit crew members",
-      "winnerIds": ["plane-jane"]
+      "winnerIds": [
+        "plane-jane"
+      ]
     },
     "runwayTheme": "Drag Family Resemblance",
-    "topIds": ["nymphia-wind", "plane-jane", "q"],
-    "bottomIds": ["morphine-love-dion", "sapphira-cristal"],
+    "topIds": [
+      "nymphia-wind",
+      "plane-jane",
+      "q"
+    ],
+    "bottomIds": [
+      "morphine-love-dion",
+      "sapphira-cristal"
+    ],
     "lipSync": {
       "song": "Miss Me More",
-      "queenIds": ["morphine-love-dion", "sapphira-cristal"],
-      "winnerIds": ["sapphira-cristal"],
-      "eliminatedIds": ["morphine-love-dion"]
+      "queenIds": [
+        "morphine-love-dion",
+        "sapphira-cristal"
+      ],
+      "winnerIds": [
+        "sapphira-cristal"
+      ],
+      "eliminatedIds": [
+        "morphine-love-dion"
+      ]
     },
-    "guestJudges": [{ "name": "Kelsea Ballerini" }]
+    "guestJudges": [
+      {
+        "name": "Kelsea Ballerini"
+      }
+    ]
   },
   {
     "id": "US-S16-E14",
@@ -302,22 +556,43 @@
     "title": "Booked and Blessed",
     "miniChallenge": {
       "name": "Underwater Kitty Girl lip sync",
-      "winnerIds": ["sapphira-cristal"]
+      "winnerIds": [
+        "sapphira-cristal"
+      ]
     },
     "maxiChallenge": {
       "name": "Create a memoir concept",
-      "winnerIds": ["nymphia-wind"]
+      "winnerIds": [
+        "nymphia-wind"
+      ]
     },
     "runwayTheme": "Fandango",
-    "topIds": ["nymphia-wind", "sapphira-cristal"],
-    "bottomIds": ["plane-jane", "q"],
+    "topIds": [
+      "nymphia-wind",
+      "sapphira-cristal"
+    ],
+    "bottomIds": [
+      "plane-jane",
+      "q"
+    ],
     "lipSync": {
       "song": "Better Be Good to Me",
-      "queenIds": ["plane-jane", "q"],
-      "winnerIds": ["plane-jane"],
-      "eliminatedIds": ["q"]
+      "queenIds": [
+        "plane-jane",
+        "q"
+      ],
+      "winnerIds": [
+        "plane-jane"
+      ],
+      "eliminatedIds": [
+        "q"
+      ]
     },
-    "guestJudges": [{ "name": "Ronan Farrow" }]
+    "guestJudges": [
+      {
+        "name": "Ronan Farrow"
+      }
+    ]
   },
   {
     "id": "US-S16-E15",
@@ -326,12 +601,19 @@
     "title": "Lip Sync LaLaPaRuZa Smackdown – Reunited",
     "maxiChallenge": {
       "name": "Compete in a Lip Sync LaLaPaRuZa Smackdown tournament for eliminated queens",
-      "winnerIds": ["morphine-love-dion"]
+      "winnerIds": [
+        "morphine-love-dion"
+      ]
     },
     "lipSync": {
       "song": "Gonna Make You Sweat",
-      "queenIds": ["megami", "morphine-love-dion"],
-      "winnerIds": ["morphine-love-dion"]
+      "queenIds": [
+        "megami",
+        "morphine-love-dion"
+      ],
+      "winnerIds": [
+        "morphine-love-dion"
+      ]
     }
   },
   {
@@ -339,12 +621,23 @@
     "seasonId": "US-S16",
     "episodeNumber": 16,
     "title": "Grand Finale",
-    "topIds": ["nymphia-wind", "sapphira-cristal"],
-    "bottomIds": ["plane-jane"],
+    "topIds": [
+      "nymphia-wind",
+      "sapphira-cristal"
+    ],
+    "bottomIds": [
+      "plane-jane"
+    ],
     "lipSync": {
       "song": "Padam Padam",
-      "queenIds": ["nymphia-wind", "sapphira-cristal"],
-      "winnerIds": ["nymphia-wind"]
+      "queenIds": [
+        "nymphia-wind",
+        "sapphira-cristal"
+      ],
+      "winnerIds": [
+        "nymphia-wind"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

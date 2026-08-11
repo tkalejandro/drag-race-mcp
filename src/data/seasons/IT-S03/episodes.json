@@ -6,18 +6,38 @@
     "title": "Express Yourself",
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
-      "winnerIds": ["melissa-bianchini"]
+      "winnerIds": [
+        "melissa-bianchini"
+      ]
     },
     "runwayTheme": "Drag Excellence",
-    "topIds": ["leila-yarn", "melissa-bianchini", "silvana-della-magliana"],
-    "bottomIds": ["adriana-picasso", "la-prada"],
+    "topIds": [
+      "leila-yarn",
+      "melissa-bianchini",
+      "silvana-della-magliana"
+    ],
+    "bottomIds": [
+      "adriana-picasso",
+      "la-prada"
+    ],
     "lipSync": {
       "song": "Pazzeska",
-      "queenIds": ["adriana-picasso", "la-prada"],
-      "winnerIds": ["la-prada"],
-      "eliminatedIds": ["adriana-picasso"]
+      "queenIds": [
+        "adriana-picasso",
+        "la-prada"
+      ],
+      "winnerIds": [
+        "la-prada"
+      ],
+      "eliminatedIds": [
+        "adriana-picasso"
+      ]
     },
-    "guestJudges": [{ "name": "Myss Keta" }]
+    "guestJudges": [
+      {
+        "name": "Myss Keta"
+      }
+    ]
   },
   {
     "id": "IT-S03-E02",
@@ -26,22 +46,42 @@
     "title": "Walk of Fame",
     "miniChallenge": {
       "name": "Musical chairs",
-      "winnerIds": ["sypario"]
+      "winnerIds": [
+        "sypario"
+      ]
     },
     "maxiChallenge": {
       "name": "In teams, act in a Grease-inspired scene called \"Pink Queens\"",
-      "winnerIds": ["silvana-della-magliana"]
+      "winnerIds": [
+        "silvana-della-magliana"
+      ]
     },
     "runwayTheme": "Cinema Iconic",
-    "topIds": ["silvana-della-magliana"],
-    "bottomIds": ["amy-krania", "leila-yarn"],
+    "topIds": [
+      "silvana-della-magliana"
+    ],
+    "bottomIds": [
+      "amy-krania",
+      "leila-yarn"
+    ],
     "lipSync": {
       "song": "2 Be Loved (Am I Ready)",
-      "queenIds": ["amy-krania", "leila-yarn"],
-      "winnerIds": ["leila-yarn"],
-      "eliminatedIds": ["amy-krania"]
+      "queenIds": [
+        "amy-krania",
+        "leila-yarn"
+      ],
+      "winnerIds": [
+        "leila-yarn"
+      ],
+      "eliminatedIds": [
+        "amy-krania"
+      ]
     },
-    "guestJudges": [{ "name": "Alessandra Mastronardi" }]
+    "guestJudges": [
+      {
+        "name": "Alessandra Mastronardi"
+      }
+    ]
   },
   {
     "id": "IT-S03-E03",
@@ -50,18 +90,38 @@
     "title": "Night of a Thousand Paola and Chiaras",
     "maxiChallenge": {
       "name": "Paola & Chiara: Un Rusical Da Favola Non Autorizzato",
-      "winnerIds": ["sypario"]
+      "winnerIds": [
+        "sypario"
+      ]
     },
     "runwayTheme": "Viva el amor!",
-    "topIds": ["melissa-bianchini", "silvana-della-magliana", "sypario"],
-    "bottomIds": ["sissy-lea", "vezirja"],
+    "topIds": [
+      "melissa-bianchini",
+      "silvana-della-magliana",
+      "sypario"
+    ],
+    "bottomIds": [
+      "sissy-lea",
+      "vezirja"
+    ],
     "lipSync": {
       "song": "Mare caos",
-      "queenIds": ["sissy-lea", "vezirja"],
-      "winnerIds": ["sissy-lea"],
-      "eliminatedIds": ["vezirja"]
+      "queenIds": [
+        "sissy-lea",
+        "vezirja"
+      ],
+      "winnerIds": [
+        "sissy-lea"
+      ],
+      "eliminatedIds": [
+        "vezirja"
+      ]
     },
-    "guestJudges": [{ "name": "Chiara Iezzi" }]
+    "guestJudges": [
+      {
+        "name": "Chiara Iezzi"
+      }
+    ]
   },
   {
     "id": "IT-S03-E04",
@@ -70,24 +130,46 @@
     "title": "The Devil Wears Drag!",
     "miniChallenge": {
       "name": "Photobomb famous pictures",
-      "winnerIds": ["sypario"]
+      "winnerIds": [
+        "sypario"
+      ]
     },
     "maxiChallenge": {
       "name": "Create a look made from different red fabrics and materials",
-      "winnerIds": ["la-sheeva"]
+      "winnerIds": [
+        "la-sheeva"
+      ]
     },
     "runwayTheme": "Red Passion Week",
-    "topIds": ["la-sheeva", "lina-galore", "melissa-bianchini"],
-    "bottomIds": ["lightning-aurora", "morgana-cosmica"],
+    "topIds": [
+      "la-sheeva",
+      "lina-galore",
+      "melissa-bianchini"
+    ],
+    "bottomIds": [
+      "lightning-aurora",
+      "morgana-cosmica"
+    ],
     "lipSync": {
       "song": "Tribale",
-      "queenIds": ["lightning-aurora", "morgana-cosmica"],
-      "winnerIds": ["morgana-cosmica"],
-      "eliminatedIds": ["lightning-aurora"]
+      "queenIds": [
+        "lightning-aurora",
+        "morgana-cosmica"
+      ],
+      "winnerIds": [
+        "morgana-cosmica"
+      ],
+      "eliminatedIds": [
+        "lightning-aurora"
+      ]
     },
     "guestJudges": [
-      { "name": "Ciro Immobile" },
-      { "name": "Jessica Melena" }
+      {
+        "name": "Ciro Immobile"
+      },
+      {
+        "name": "Jessica Melena"
+      }
     ]
   },
   {
@@ -97,22 +179,42 @@
     "title": "Back to School",
     "miniChallenge": {
       "name": "Vogue battle",
-      "winnerIds": ["leila-yarn"]
+      "winnerIds": [
+        "leila-yarn"
+      ]
     },
     "maxiChallenge": {
       "name": "In teams, present a drag masterclass about different subjects of drag",
-      "winnerIds": ["lina-galore"]
+      "winnerIds": [
+        "lina-galore"
+      ]
     },
     "runwayTheme": "Back to School",
-    "topIds": ["lina-galore"],
-    "bottomIds": ["la-sheeva", "morgana-cosmica"],
+    "topIds": [
+      "lina-galore"
+    ],
+    "bottomIds": [
+      "la-sheeva",
+      "morgana-cosmica"
+    ],
     "lipSync": {
       "song": "Born This Way",
-      "queenIds": ["la-sheeva", "morgana-cosmica"],
-      "winnerIds": ["la-sheeva"],
-      "eliminatedIds": ["morgana-cosmica"]
+      "queenIds": [
+        "la-sheeva",
+        "morgana-cosmica"
+      ],
+      "winnerIds": [
+        "la-sheeva"
+      ],
+      "eliminatedIds": [
+        "morgana-cosmica"
+      ]
     },
-    "guestJudges": [{ "name": "Rosa Chemical" }]
+    "guestJudges": [
+      {
+        "name": "Rosa Chemical"
+      }
+    ]
   },
   {
     "id": "IT-S03-E06",
@@ -121,22 +223,43 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["sissy-lea"]
+      "winnerIds": [
+        "sissy-lea"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["silvana-della-magliana"]
+      "winnerIds": [
+        "silvana-della-magliana"
+      ]
     },
     "runwayTheme": "Twist",
-    "topIds": ["lina-galore", "silvana-della-magliana"],
-    "bottomIds": ["sissy-lea", "sypario"],
+    "topIds": [
+      "lina-galore",
+      "silvana-della-magliana"
+    ],
+    "bottomIds": [
+      "sissy-lea",
+      "sypario"
+    ],
     "lipSync": {
       "song": "Vamos a bailar (Esta vida nueva)",
-      "queenIds": ["sissy-lea", "sypario"],
-      "winnerIds": ["sypario"],
-      "eliminatedIds": ["sissy-lea"]
+      "queenIds": [
+        "sissy-lea",
+        "sypario"
+      ],
+      "winnerIds": [
+        "sypario"
+      ],
+      "eliminatedIds": [
+        "sissy-lea"
+      ]
     },
-    "guestJudges": [{ "name": "Tiziano Ferro" }]
+    "guestJudges": [
+      {
+        "name": "Tiziano Ferro"
+      }
+    ]
   },
   {
     "id": "IT-S03-E07",
@@ -145,24 +268,44 @@
     "title": "A Rhythm of Drag",
     "miniChallenge": {
       "name": "Play \"Un, due, tre, drag!\"",
-      "winnerIds": ["sypario"]
+      "winnerIds": [
+        "sypario"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a choreographed dance routine in different styles",
-      "winnerIds": ["melissa-bianchini"]
+      "winnerIds": [
+        "melissa-bianchini"
+      ]
     },
     "runwayTheme": "Shine Bright Like a Diamond",
-    "topIds": ["melissa-bianchini"],
-    "bottomIds": ["la-prada", "lina-galore"],
+    "topIds": [
+      "melissa-bianchini"
+    ],
+    "bottomIds": [
+      "la-prada",
+      "lina-galore"
+    ],
     "lipSync": {
       "song": "Up & Down (Don't Fall in Love with Me)",
-      "queenIds": ["la-prada", "lina-galore"],
-      "winnerIds": ["lina-galore"],
-      "eliminatedIds": ["la-prada"]
+      "queenIds": [
+        "la-prada",
+        "lina-galore"
+      ],
+      "winnerIds": [
+        "lina-galore"
+      ],
+      "eliminatedIds": [
+        "la-prada"
+      ]
     },
     "guestJudges": [
-      { "name": "Andreas Müller" },
-      { "name": "Veronica Peparini" }
+      {
+        "name": "Andreas Müller"
+      },
+      {
+        "name": "Veronica Peparini"
+      }
     ]
   },
   {
@@ -172,22 +315,44 @@
     "title": "Death Drags You",
     "miniChallenge": {
       "name": "Sell yourself on a dating app for widows",
-      "winnerIds": ["lina-galore"]
+      "winnerIds": [
+        "lina-galore"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a roast of Chiara Francini in front of the judges and a live audience",
-      "winnerIds": ["lina-galore"]
+      "winnerIds": [
+        "lina-galore"
+      ]
     },
     "runwayTheme": "La morte ti fa Drag",
-    "topIds": ["lina-galore", "melissa-bianchini", "silvana-della-magliana"],
-    "bottomIds": ["la-sheeva", "leila-yarn"],
+    "topIds": [
+      "lina-galore",
+      "melissa-bianchini",
+      "silvana-della-magliana"
+    ],
+    "bottomIds": [
+      "la-sheeva",
+      "leila-yarn"
+    ],
     "lipSync": {
       "song": "Believe",
-      "queenIds": ["la-sheeva", "leila-yarn"],
-      "winnerIds": ["la-sheeva"],
-      "eliminatedIds": ["leila-yarn"]
+      "queenIds": [
+        "la-sheeva",
+        "leila-yarn"
+      ],
+      "winnerIds": [
+        "la-sheeva"
+      ],
+      "eliminatedIds": [
+        "leila-yarn"
+      ]
     },
-    "guestJudges": [{ "name": "Anna Dello Russo" }]
+    "guestJudges": [
+      {
+        "name": "Anna Dello Russo"
+      }
+    ]
   },
   {
     "id": "IT-S03-E09",
@@ -196,22 +361,43 @@
     "title": "Social Media Queens",
     "miniChallenge": {
       "name": "Quick drag makeup tutorial",
-      "winnerIds": ["la-sheeva"]
+      "winnerIds": [
+        "la-sheeva"
+      ]
     },
     "maxiChallenge": {
       "name": "Makeover social media influencers",
-      "winnerIds": ["la-sheeva"]
+      "winnerIds": [
+        "la-sheeva"
+      ]
     },
     "runwayTheme": "Drag Topic",
-    "topIds": ["la-sheeva", "melissa-bianchini"],
-    "bottomIds": ["lina-galore", "sypario"],
+    "topIds": [
+      "la-sheeva",
+      "melissa-bianchini"
+    ],
+    "bottomIds": [
+      "lina-galore",
+      "sypario"
+    ],
     "lipSync": {
       "song": "Mon amour",
-      "queenIds": ["lina-galore", "sypario"],
-      "winnerIds": ["lina-galore"],
-      "eliminatedIds": ["sypario"]
+      "queenIds": [
+        "lina-galore",
+        "sypario"
+      ],
+      "winnerIds": [
+        "lina-galore"
+      ],
+      "eliminatedIds": [
+        "sypario"
+      ]
     },
-    "guestJudges": [{ "name": "Filippo Timi" }]
+    "guestJudges": [
+      {
+        "name": "Filippo Timi"
+      }
+    ]
   },
   {
     "id": "IT-S03-E10",
@@ -220,23 +406,43 @@
     "title": "Dragremo",
     "miniChallenge": {
       "name": "Deliver a news report",
-      "winnerIds": ["lina-galore"]
+      "winnerIds": [
+        "lina-galore"
+      ]
     },
     "maxiChallenge": {
       "name": "In pairs, sing live for the Drag Remo Festival",
-      "winnerIds": ["lina-galore"]
+      "winnerIds": [
+        "lina-galore"
+      ]
     },
     "runwayTheme": "Drag Remo Style",
-    "topIds": ["lina-galore", "melissa-bianchini"],
-    "bottomIds": ["la-sheeva", "silvana-della-magliana"],
+    "topIds": [
+      "lina-galore",
+      "melissa-bianchini"
+    ],
+    "bottomIds": [
+      "la-sheeva",
+      "silvana-della-magliana"
+    ],
     "lipSync": {
       "song": "Siamo donne",
-      "queenIds": ["la-sheeva", "silvana-della-magliana"],
-      "winnerIds": ["la-sheeva", "silvana-della-magliana"]
+      "queenIds": [
+        "la-sheeva",
+        "silvana-della-magliana"
+      ],
+      "winnerIds": [
+        "la-sheeva",
+        "silvana-della-magliana"
+      ]
     },
     "guestJudges": [
-      { "name": "Sabrina Salerno" },
-      { "name": "Jo Squillo" }
+      {
+        "name": "Sabrina Salerno"
+      },
+      {
+        "name": "Jo Squillo"
+      }
     ]
   },
   {
@@ -251,13 +457,29 @@
     "episodeNumber": 12,
     "title": "Grand Finale",
     "runwayTheme": "Eleganza Extravaganza",
-    "topIds": ["lina-galore", "melissa-bianchini"],
-    "bottomIds": ["la-sheeva", "silvana-della-magliana"],
+    "topIds": [
+      "lina-galore",
+      "melissa-bianchini"
+    ],
+    "bottomIds": [
+      "la-sheeva",
+      "silvana-della-magliana"
+    ],
     "lipSync": {
       "song": "Furore",
-      "queenIds": ["lina-galore", "melissa-bianchini"],
-      "winnerIds": ["lina-galore"]
+      "queenIds": [
+        "lina-galore",
+        "melissa-bianchini"
+      ],
+      "winnerIds": [
+        "lina-galore"
+      ],
+      "kind": "for-the-crown"
     },
-    "guestJudges": [{ "name": "Melissa Satta" }]
+    "guestJudges": [
+      {
+        "name": "Melissa Satta"
+      }
+    ]
   }
 ]

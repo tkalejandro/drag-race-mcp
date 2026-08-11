@@ -6,24 +6,46 @@
     "title": "Voulez-Vous Drag Race Avec Moi Ce Soir?",
     "miniChallenge": {
       "name": "Photoshoot while balancing on a mechanical surfboard",
-      "winnerIds": ["magnetica"]
+      "winnerIds": [
+        "magnetica"
+      ]
     },
     "maxiChallenge": {
       "name": "Record and perform verses for a cabaret show",
-      "winnerIds": ["norma-bell"]
+      "winnerIds": [
+        "norma-bell"
+      ]
     },
     "runwayTheme": "Made in France",
-    "topIds": ["leona-winter", "magnetica", "norma-bell"],
-    "bottomIds": ["afrodite-amour", "edeha-noire"],
+    "topIds": [
+      "leona-winter",
+      "magnetica",
+      "norma-bell"
+    ],
+    "bottomIds": [
+      "afrodite-amour",
+      "edeha-noire"
+    ],
     "lipSync": {
       "song": "Sur le fil",
-      "queenIds": ["afrodite-amour", "edeha-noire"],
-      "winnerIds": ["edeha-noire"],
-      "eliminatedIds": ["afrodite-amour"]
+      "queenIds": [
+        "afrodite-amour",
+        "edeha-noire"
+      ],
+      "winnerIds": [
+        "edeha-noire"
+      ],
+      "eliminatedIds": [
+        "afrodite-amour"
+      ]
     },
     "guestJudges": [
-      { "name": "Charles de Vilmorin" },
-      { "name": "Jenifer" }
+      {
+        "name": "Charles de Vilmorin"
+      },
+      {
+        "name": "Jenifer"
+      }
     ]
   },
   {
@@ -33,24 +55,46 @@
     "title": "Talent Show Extravaganza",
     "miniChallenge": {
       "name": "Teen dance party (Boom)",
-      "winnerIds": ["misty-phoenix"]
+      "winnerIds": [
+        "misty-phoenix"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
-      "winnerIds": ["perseo"]
+      "winnerIds": [
+        "perseo"
+      ]
     },
     "runwayTheme": "Couture Vivante",
-    "topIds": ["le-filip", "leona-winter", "perseo"],
-    "bottomIds": ["magnetica", "ruby-on-the-nail"],
+    "topIds": [
+      "le-filip",
+      "leona-winter",
+      "perseo"
+    ],
+    "bottomIds": [
+      "magnetica",
+      "ruby-on-the-nail"
+    ],
     "lipSync": {
       "song": "Gigi l'amoroso",
-      "queenIds": ["magnetica", "ruby-on-the-nail"],
-      "winnerIds": ["ruby-on-the-nail"],
-      "eliminatedIds": ["magnetica"]
+      "queenIds": [
+        "magnetica",
+        "ruby-on-the-nail"
+      ],
+      "winnerIds": [
+        "ruby-on-the-nail"
+      ],
+      "eliminatedIds": [
+        "magnetica"
+      ]
     },
     "guestJudges": [
-      { "name": "Guillaume Diop" },
-      { "name": "Virginie Efira" }
+      {
+        "name": "Guillaume Diop"
+      },
+      {
+        "name": "Virginie Efira"
+      }
     ]
   },
   {
@@ -60,24 +104,47 @@
     "title": "Ball Games",
     "miniChallenge": {
       "name": "Drag Olympics",
-      "winnerIds": ["lula-strega", "ruby-on-the-nail"]
+      "winnerIds": [
+        "lula-strega",
+        "ruby-on-the-nail"
+      ]
     },
     "maxiChallenge": {
       "name": "Showcase two looks for the Ball Games",
-      "winnerIds": ["lula-strega"]
+      "winnerIds": [
+        "lula-strega"
+      ]
     },
     "runwayTheme": "Flamme Olympique / Cérémonie d'Ouverture",
-    "topIds": ["leona-winter", "lula-strega", "misty-phoenix"],
-    "bottomIds": ["edeha-noire", "ruby-on-the-nail"],
+    "topIds": [
+      "leona-winter",
+      "lula-strega",
+      "misty-phoenix"
+    ],
+    "bottomIds": [
+      "edeha-noire",
+      "ruby-on-the-nail"
+    ],
     "lipSync": {
       "song": "C'est l'amour",
-      "queenIds": ["edeha-noire", "ruby-on-the-nail"],
-      "winnerIds": ["ruby-on-the-nail"],
-      "eliminatedIds": ["edeha-noire"]
+      "queenIds": [
+        "edeha-noire",
+        "ruby-on-the-nail"
+      ],
+      "winnerIds": [
+        "ruby-on-the-nail"
+      ],
+      "eliminatedIds": [
+        "edeha-noire"
+      ]
     },
     "guestJudges": [
-      { "name": "Clara Luciani" },
-      { "name": "Loïc Prigent" }
+      {
+        "name": "Clara Luciani"
+      },
+      {
+        "name": "Loïc Prigent"
+      }
     ]
   },
   {
@@ -87,18 +154,32 @@
     "title": "Céline Dion: The Rusical",
     "maxiChallenge": {
       "name": "Céline Dion, Le Musidrag (The Rusical)",
-      "winnerIds": ["leona-winter"]
+      "winnerIds": [
+        "leona-winter"
+      ]
     },
     "runwayTheme": "La Nuit des 1000 Célines",
-    "topIds": ["le-filip", "leona-winter"],
+    "topIds": [
+      "le-filip",
+      "leona-winter"
+    ],
     "lipSync": {
       "song": "Pour que tu m'aimes encore",
-      "queenIds": ["le-filip", "leona-winter"],
-      "winnerIds": ["leona-winter"]
+      "queenIds": [
+        "le-filip",
+        "leona-winter"
+      ],
+      "winnerIds": [
+        "leona-winter"
+      ]
     },
     "guestJudges": [
-      { "name": "Louane" },
-      { "name": "Woodkid" }
+      {
+        "name": "Louane"
+      },
+      {
+        "name": "Woodkid"
+      }
     ]
   },
   {
@@ -108,24 +189,46 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["le-filip"]
+      "winnerIds": [
+        "le-filip"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["ruby-on-the-nail"]
+      "winnerIds": [
+        "ruby-on-the-nail"
+      ]
     },
     "runwayTheme": "Le Grand Méchant Look",
-    "topIds": ["lula-strega", "misty-phoenix", "ruby-on-the-nail"],
-    "bottomIds": ["le-filip", "norma-bell"],
+    "topIds": [
+      "lula-strega",
+      "misty-phoenix",
+      "ruby-on-the-nail"
+    ],
+    "bottomIds": [
+      "le-filip",
+      "norma-bell"
+    ],
     "lipSync": {
       "song": "Marcia Baïla",
-      "queenIds": ["le-filip", "norma-bell"],
-      "winnerIds": ["le-filip"],
-      "eliminatedIds": ["norma-bell"]
+      "queenIds": [
+        "le-filip",
+        "norma-bell"
+      ],
+      "winnerIds": [
+        "le-filip"
+      ],
+      "eliminatedIds": [
+        "norma-bell"
+      ]
     },
     "guestJudges": [
-      { "name": "Cristina Córdula" },
-      { "name": "Tahnee" }
+      {
+        "name": "Cristina Córdula"
+      },
+      {
+        "name": "Tahnee"
+      }
     ]
   },
   {
@@ -135,24 +238,46 @@
     "title": "Makeover, Ma Grande Sœur Drag",
     "miniChallenge": {
       "name": "Bingo Loco",
-      "winnerIds": ["perseo"]
+      "winnerIds": [
+        "perseo"
+      ]
     },
     "maxiChallenge": {
       "name": "Give a drag makeover to an LGBT senior",
-      "winnerIds": ["ruby-on-the-nail"]
+      "winnerIds": [
+        "ruby-on-the-nail"
+      ]
     },
     "runwayTheme": "Ma Grande Sœur Drag",
-    "topIds": ["leona-winter", "lula-strega", "ruby-on-the-nail"],
-    "bottomIds": ["misty-phoenix", "perseo"],
+    "topIds": [
+      "leona-winter",
+      "lula-strega",
+      "ruby-on-the-nail"
+    ],
+    "bottomIds": [
+      "misty-phoenix",
+      "perseo"
+    ],
     "lipSync": {
       "song": "Hey Mama",
-      "queenIds": ["misty-phoenix", "perseo"],
-      "winnerIds": ["misty-phoenix"],
-      "eliminatedIds": ["perseo"]
+      "queenIds": [
+        "misty-phoenix",
+        "perseo"
+      ],
+      "winnerIds": [
+        "misty-phoenix"
+      ],
+      "eliminatedIds": [
+        "perseo"
+      ]
     },
     "guestJudges": [
-      { "name": "Béatrice Dalle" },
-      { "name": "Meryl Bie" }
+      {
+        "name": "Béatrice Dalle"
+      },
+      {
+        "name": "Meryl Bie"
+      }
     ]
   },
   {
@@ -162,24 +287,45 @@
     "title": "La Folle Journée Drag",
     "miniChallenge": {
       "name": "Le Talon Faible",
-      "winnerIds": ["lula-strega"]
+      "winnerIds": [
+        "lula-strega"
+      ]
     },
     "maxiChallenge": {
       "name": "Style a wig to create a couture hairstyle",
-      "winnerIds": ["lula-strega"]
+      "winnerIds": [
+        "lula-strega"
+      ]
     },
     "runwayTheme": "Haute Coiffure / Chevelure Couture",
-    "topIds": ["lula-strega", "ruby-on-the-nail"],
-    "bottomIds": ["leona-winter", "misty-phoenix"],
+    "topIds": [
+      "lula-strega",
+      "ruby-on-the-nail"
+    ],
+    "bottomIds": [
+      "leona-winter",
+      "misty-phoenix"
+    ],
     "lipSync": {
       "song": "En rouge et noir",
-      "queenIds": ["leona-winter", "misty-phoenix"],
-      "winnerIds": ["leona-winter"],
-      "eliminatedIds": ["misty-phoenix"]
+      "queenIds": [
+        "leona-winter",
+        "misty-phoenix"
+      ],
+      "winnerIds": [
+        "leona-winter"
+      ],
+      "eliminatedIds": [
+        "misty-phoenix"
+      ]
     },
     "guestJudges": [
-      { "name": "Diane Kruger" },
-      { "name": "Panayotis Pascot" }
+      {
+        "name": "Diane Kruger"
+      },
+      {
+        "name": "Panayotis Pascot"
+      }
     ]
   },
   {
@@ -188,12 +334,24 @@
     "episodeNumber": 8,
     "title": "Grand Finale",
     "runwayTheme": "Dragnifique",
-    "topIds": ["le-filip", "ruby-on-the-nail"],
-    "bottomIds": ["leona-winter", "lula-strega"],
+    "topIds": [
+      "le-filip",
+      "ruby-on-the-nail"
+    ],
+    "bottomIds": [
+      "leona-winter",
+      "lula-strega"
+    ],
     "lipSync": {
       "song": "I'm Alive",
-      "queenIds": ["le-filip", "ruby-on-the-nail"],
-      "winnerIds": ["le-filip"]
+      "queenIds": [
+        "le-filip",
+        "ruby-on-the-nail"
+      ],
+      "winnerIds": [
+        "le-filip"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

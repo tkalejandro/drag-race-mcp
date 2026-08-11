@@ -6,21 +6,46 @@
     "title": "Gone with the Window",
     "miniChallenge": {
       "name": "Gone with the Wind inspired photoshoot",
-      "winnerIds": ["raven"]
+      "winnerIds": [
+        "raven"
+      ]
     },
     "maxiChallenge": {
       "name": "Create an outfit from curtains and home furnishings",
-      "winnerIds": ["morgan-mcmichaels"]
+      "winnerIds": [
+        "morgan-mcmichaels"
+      ]
     },
-    "topIds": ["morgan-mcmichaels", "pandora-boxx", "tyra-sanchez"],
-    "bottomIds": ["sahara-davenport", "shangela"],
+    "topIds": [
+      "morgan-mcmichaels",
+      "pandora-boxx",
+      "tyra-sanchez"
+    ],
+    "bottomIds": [
+      "sahara-davenport",
+      "shangela"
+    ],
     "lipSync": {
       "song": "Cover Girl (Put the Bass in Your Walk)",
-      "queenIds": ["sahara-davenport", "shangela"],
-      "winnerIds": ["sahara-davenport"],
-      "eliminatedIds": ["shangela"]
+      "queenIds": [
+        "sahara-davenport",
+        "shangela"
+      ],
+      "winnerIds": [
+        "sahara-davenport"
+      ],
+      "eliminatedIds": [
+        "shangela"
+      ]
     },
-    "guestJudges": [{ "name": "Mike Ruiz" }, { "name": "Kathy Griffin" }]
+    "guestJudges": [
+      {
+        "name": "Mike Ruiz"
+      },
+      {
+        "name": "Kathy Griffin"
+      }
+    ]
   },
   {
     "id": "US-S02-E02",
@@ -29,22 +54,50 @@
     "title": "Starrbootylicious",
     "miniChallenge": {
       "name": "Turn a mini-Ru doll from a lady to a tramp",
-      "winnerIds": ["pandora-boxx", "sahara-davenport"]
+      "winnerIds": [
+        "pandora-boxx",
+        "sahara-davenport"
+      ]
     },
     "maxiChallenge": {
       "name": "Burlesque performance and gift-certificate sales",
-      "winnerIds": ["sahara-davenport"]
+      "winnerIds": [
+        "sahara-davenport"
+      ]
     },
     "runwayTheme": "High Class Drag",
-    "topIds": ["sahara-davenport", "jessica-wild", "jujubee", "mystique-summers-madison", "tyra-sanchez"],
-    "bottomIds": ["nicole-paige-brooks", "raven"],
+    "topIds": [
+      "sahara-davenport",
+      "jessica-wild",
+      "jujubee",
+      "mystique-summers-madison",
+      "tyra-sanchez"
+    ],
+    "bottomIds": [
+      "nicole-paige-brooks",
+      "raven"
+    ],
     "lipSync": {
       "song": "My Lovin' (You're Never Gonna Get It)",
-      "queenIds": ["nicole-paige-brooks", "raven"],
-      "winnerIds": ["raven"],
-      "eliminatedIds": ["nicole-paige-brooks"]
+      "queenIds": [
+        "nicole-paige-brooks",
+        "raven"
+      ],
+      "winnerIds": [
+        "raven"
+      ],
+      "eliminatedIds": [
+        "nicole-paige-brooks"
+      ]
     },
-    "guestJudges": [{ "name": "Kim Coles" }, { "name": "Dita Von Teese" }]
+    "guestJudges": [
+      {
+        "name": "Kim Coles"
+      },
+      {
+        "name": "Dita Von Teese"
+      }
+    ]
   },
   {
     "id": "US-S02-E03",
@@ -53,22 +106,48 @@
     "title": "Country Queens",
     "miniChallenge": {
       "name": "Chicken or What? eating contest",
-      "winnerIds": ["morgan-mcmichaels", "mystique-summers-madison"]
+      "winnerIds": [
+        "morgan-mcmichaels",
+        "mystique-summers-madison"
+      ]
     },
     "maxiChallenge": {
       "name": "Disco Shortening feuding-families commercial",
-      "winnerIds": ["tyra-sanchez"]
+      "winnerIds": [
+        "tyra-sanchez"
+      ]
     },
     "runwayTheme": "Country Realness",
-    "topIds": ["tyra-sanchez", "jessica-wild", "pandora-boxx"],
-    "bottomIds": ["mystique-summers-madison", "raven"],
+    "topIds": [
+      "tyra-sanchez",
+      "jessica-wild",
+      "pandora-boxx"
+    ],
+    "bottomIds": [
+      "mystique-summers-madison",
+      "raven"
+    ],
     "lipSync": {
       "song": "I Hear You Knocking",
-      "queenIds": ["mystique-summers-madison", "raven"],
-      "winnerIds": ["raven"],
-      "eliminatedIds": ["mystique-summers-madison"]
+      "queenIds": [
+        "mystique-summers-madison",
+        "raven"
+      ],
+      "winnerIds": [
+        "raven"
+      ],
+      "eliminatedIds": [
+        "mystique-summers-madison"
+      ]
     },
-    "guestJudges": [{ "name": "Kathy Najimy" }, { "name": "Tanya Tucker" }]
+    "guestJudges": [
+      {
+        "name": "Kathy Najimy"
+      },
+      {
+        "name": "Tanya Tucker"
+      }
+    ]
   },
   {
     "id": "US-S02-E04",
@@ -77,22 +156,46 @@
     "title": "The Snatch Game",
     "miniChallenge": {
       "name": "The Queen is Right bidding challenge",
-      "winnerIds": ["raven"]
+      "winnerIds": [
+        "raven"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["tatianna"]
+      "winnerIds": [
+        "tatianna"
+      ]
     },
     "runwayTheme": "Personal Style",
-    "topIds": ["tatianna", "pandora-boxx"],
-    "bottomIds": ["morgan-mcmichaels", "sonique"],
+    "topIds": [
+      "tatianna",
+      "pandora-boxx"
+    ],
+    "bottomIds": [
+      "morgan-mcmichaels",
+      "sonique"
+    ],
     "lipSync": {
       "song": "Two of Hearts",
-      "queenIds": ["morgan-mcmichaels", "sonique"],
-      "winnerIds": ["morgan-mcmichaels"],
-      "eliminatedIds": ["sonique"]
+      "queenIds": [
+        "morgan-mcmichaels",
+        "sonique"
+      ],
+      "winnerIds": [
+        "morgan-mcmichaels"
+      ],
+      "eliminatedIds": [
+        "sonique"
+      ]
     },
-    "guestJudges": [{ "name": "Lisa Rinna" }, { "name": "Niecy Nash" }]
+    "guestJudges": [
+      {
+        "name": "Lisa Rinna"
+      },
+      {
+        "name": "Niecy Nash"
+      }
+    ]
   },
   {
     "id": "US-S02-E05",
@@ -101,21 +204,47 @@
     "title": "Here Comes the Bride",
     "miniChallenge": {
       "name": "Decorate a box in your drag style",
-      "winnerIds": ["raven"]
+      "winnerIds": [
+        "raven"
+      ]
     },
     "maxiChallenge": {
       "name": "Bride and groom wedding photoshoot",
-      "winnerIds": ["tyra-sanchez"]
+      "winnerIds": [
+        "tyra-sanchez"
+      ]
     },
-    "topIds": ["tyra-sanchez", "jessica-wild", "jujubee", "raven"],
-    "bottomIds": ["morgan-mcmichaels", "sahara-davenport"],
+    "topIds": [
+      "tyra-sanchez",
+      "jessica-wild",
+      "jujubee",
+      "raven"
+    ],
+    "bottomIds": [
+      "morgan-mcmichaels",
+      "sahara-davenport"
+    ],
     "lipSync": {
       "song": "Carry On",
-      "queenIds": ["morgan-mcmichaels", "sahara-davenport"],
-      "winnerIds": ["sahara-davenport"],
-      "eliminatedIds": ["morgan-mcmichaels"]
+      "queenIds": [
+        "morgan-mcmichaels",
+        "sahara-davenport"
+      ],
+      "winnerIds": [
+        "sahara-davenport"
+      ],
+      "eliminatedIds": [
+        "morgan-mcmichaels"
+      ]
     },
-    "guestJudges": [{ "name": "Mathu Andersen" }, { "name": "Martha Wash" }]
+    "guestJudges": [
+      {
+        "name": "Mathu Andersen"
+      },
+      {
+        "name": "Martha Wash"
+      }
+    ]
   },
   {
     "id": "US-S02-E06",
@@ -124,21 +253,46 @@
     "title": "Rocker Chicks",
     "miniChallenge": {
       "name": "Glam rock wig makeover",
-      "winnerIds": ["pandora-boxx"]
+      "winnerIds": [
+        "pandora-boxx"
+      ]
     },
     "maxiChallenge": {
       "name": "Live rock performance of Lady Boy",
-      "winnerIds": ["jessica-wild"]
+      "winnerIds": [
+        "jessica-wild"
+      ]
     },
-    "topIds": ["jessica-wild", "pandora-boxx", "raven"],
-    "bottomIds": ["jujubee", "sahara-davenport"],
+    "topIds": [
+      "jessica-wild",
+      "pandora-boxx",
+      "raven"
+    ],
+    "bottomIds": [
+      "jujubee",
+      "sahara-davenport"
+    ],
     "lipSync": {
       "song": "Black Velvet",
-      "queenIds": ["jujubee", "sahara-davenport"],
-      "winnerIds": ["jujubee"],
-      "eliminatedIds": ["sahara-davenport"]
+      "queenIds": [
+        "jujubee",
+        "sahara-davenport"
+      ],
+      "winnerIds": [
+        "jujubee"
+      ],
+      "eliminatedIds": [
+        "sahara-davenport"
+      ]
     },
-    "guestJudges": [{ "name": "Henry Rollins" }, { "name": "Terri Nunn" }]
+    "guestJudges": [
+      {
+        "name": "Henry Rollins"
+      },
+      {
+        "name": "Terri Nunn"
+      }
+    ]
   },
   {
     "id": "US-S02-E07",
@@ -147,21 +301,46 @@
     "title": "Once Upon a Queen",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["jujubee"]
+      "winnerIds": [
+        "jujubee"
+      ]
     },
     "maxiChallenge": {
       "name": "Create and promote an autobiography concept",
-      "winnerIds": ["raven"]
+      "winnerIds": [
+        "raven"
+      ]
     },
-    "topIds": ["raven", "jujubee", "tyra-sanchez"],
-    "bottomIds": ["jessica-wild", "tatianna"],
+    "topIds": [
+      "raven",
+      "jujubee",
+      "tyra-sanchez"
+    ],
+    "bottomIds": [
+      "jessica-wild",
+      "tatianna"
+    ],
     "lipSync": {
       "song": "He's the Greatest Dancer",
-      "queenIds": ["jessica-wild", "tatianna"],
-      "winnerIds": ["tatianna"],
-      "eliminatedIds": ["jessica-wild"]
+      "queenIds": [
+        "jessica-wild",
+        "tatianna"
+      ],
+      "winnerIds": [
+        "tatianna"
+      ],
+      "eliminatedIds": [
+        "jessica-wild"
+      ]
     },
-    "guestJudges": [{ "name": "Gigi Levangie" }, { "name": "Jackie Collins" }]
+    "guestJudges": [
+      {
+        "name": "Gigi Levangie"
+      },
+      {
+        "name": "Jackie Collins"
+      }
+    ]
   },
   {
     "id": "US-S02-E08",
@@ -170,24 +349,48 @@
     "title": "Golden Gals",
     "miniChallenge": {
       "name": "Match queens with their baby pictures",
-      "winnerIds": ["tatianna"]
+      "winnerIds": [
+        "tatianna"
+      ]
     },
     "maxiChallenge": {
       "name": "Makeover older gay men",
-      "winnerIds": ["raven"]
+      "winnerIds": [
+        "raven"
+      ]
     },
-    "topIds": ["raven", "tatianna", "tyra-sanchez"],
-    "bottomIds": ["jujubee", "pandora-boxx"],
+    "topIds": [
+      "raven",
+      "tatianna",
+      "tyra-sanchez"
+    ],
+    "bottomIds": [
+      "jujubee",
+      "pandora-boxx"
+    ],
     "lipSync": {
       "song": "Shake Your Love",
-      "queenIds": ["jujubee", "pandora-boxx"],
-      "winnerIds": ["jujubee"],
-      "eliminatedIds": ["pandora-boxx"]
+      "queenIds": [
+        "jujubee",
+        "pandora-boxx"
+      ],
+      "winnerIds": [
+        "jujubee"
+      ],
+      "eliminatedIds": [
+        "pandora-boxx"
+      ]
     },
     "guestJudges": [
-      { "name": "Debbie Reynolds" },
-      { "name": "Cloris Leachman" },
-      { "name": "Toni Ko" }
+      {
+        "name": "Debbie Reynolds"
+      },
+      {
+        "name": "Cloris Leachman"
+      },
+      {
+        "name": "Toni Ko"
+      }
     ]
   },
   {
@@ -197,22 +400,46 @@
     "title": "The Diva Awards",
     "miniChallenge": {
       "name": "Style and accessorize identical dresses",
-      "winnerIds": ["tyra-sanchez"]
+      "winnerIds": [
+        "tyra-sanchez"
+      ]
     },
     "maxiChallenge": {
       "name": "The Diva Awards",
-      "winnerIds": ["tyra-sanchez"]
+      "winnerIds": [
+        "tyra-sanchez"
+      ]
     },
     "runwayTheme": "Teen Diva, Diva D.C. Press, and Diva Hollywood Extravaganza",
-    "topIds": ["tyra-sanchez", "raven"],
-    "bottomIds": ["jujubee", "tatianna"],
+    "topIds": [
+      "tyra-sanchez",
+      "raven"
+    ],
+    "bottomIds": [
+      "jujubee",
+      "tatianna"
+    ],
     "lipSync": {
       "song": "Something He Can Feel",
-      "queenIds": ["jujubee", "tatianna"],
-      "winnerIds": ["jujubee"],
-      "eliminatedIds": ["tatianna"]
+      "queenIds": [
+        "jujubee",
+        "tatianna"
+      ],
+      "winnerIds": [
+        "jujubee"
+      ],
+      "eliminatedIds": [
+        "tatianna"
+      ]
     },
-    "guestJudges": [{ "name": "Tatum O'Neal" }, { "name": "Marissa Jaret Winokur" }]
+    "guestJudges": [
+      {
+        "name": "Tatum O'Neal"
+      },
+      {
+        "name": "Marissa Jaret Winokur"
+      }
+    ]
   },
   {
     "id": "US-S02-E10",
@@ -225,12 +452,23 @@
     "seasonId": "US-S02",
     "episodeNumber": 11,
     "title": "Grand Finale",
-    "topIds": ["tyra-sanchez", "raven"],
-    "bottomIds": ["jujubee"],
+    "topIds": [
+      "tyra-sanchez",
+      "raven"
+    ],
+    "bottomIds": [
+      "jujubee"
+    ],
     "lipSync": {
       "song": "Jealous of My Boogie (Gomi and RasJek Edit)",
-      "queenIds": ["raven", "tyra-sanchez"],
-      "winnerIds": ["tyra-sanchez"]
+      "queenIds": [
+        "raven",
+        "tyra-sanchez"
+      ],
+      "winnerIds": [
+        "tyra-sanchez"
+      ],
+      "kind": "for-the-crown"
     }
   },
   {

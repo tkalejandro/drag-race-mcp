@@ -6,20 +6,36 @@
     "title": "Viral Queens",
     "miniChallenge": {
       "name": "Perform a voguing routine in front of the other queens and previous Drag Race Philippines queens",
-      "winnerIds": ["khianna"]
+      "winnerIds": [
+        "khianna"
+      ]
     },
     "maxiChallenge": {
       "name": "Create a one-minute viral dance video that showcases your personality and/or brand",
-      "winnerIds": ["khianna"]
+      "winnerIds": [
+        "khianna"
+      ]
     },
     "runwayTheme": "Hometown Realness",
-    "topIds": ["khianna", "zymba-ding"],
+    "topIds": [
+      "khianna",
+      "zymba-ding"
+    ],
     "lipSync": {
       "song": "Puede Ba",
-      "queenIds": ["khianna", "zymba-ding"],
-      "winnerIds": ["khianna"]
+      "queenIds": [
+        "khianna",
+        "zymba-ding"
+      ],
+      "winnerIds": [
+        "khianna"
+      ]
     },
-    "guestJudges": [{ "name": "Jolina Magdangal-Escueta" }]
+    "guestJudges": [
+      {
+        "name": "Jolina Magdangal-Escueta"
+      }
+    ]
   },
   {
     "id": "PH-S03-E02",
@@ -28,21 +44,40 @@
     "title": "The Sustaina-Ball",
     "miniChallenge": {
       "name": "Tumbang Preso (Prisoner Lockdown)",
-      "winnerIds": ["versex"]
+      "winnerIds": [
+        "versex"
+      ]
     },
     "maxiChallenge": {
       "name": "The Sustaina-Ball",
-      "winnerIds": ["myx-chanel"]
+      "winnerIds": [
+        "myx-chanel"
+      ]
     },
     "runwayTheme": "Sari-Sari Store Eleganza and Trash-ion",
-    "topIds": ["myx-chanel"],
-    "bottomIds": ["angel", "tita-baby"],
+    "topIds": [
+      "myx-chanel"
+    ],
+    "bottomIds": [
+      "angel",
+      "tita-baby"
+    ],
     "lipSync": {
       "song": "Nosi Balasi",
-      "queenIds": ["angel", "tita-baby"],
-      "winnerIds": ["angel", "tita-baby"]
+      "queenIds": [
+        "angel",
+        "tita-baby"
+      ],
+      "winnerIds": [
+        "angel",
+        "tita-baby"
+      ]
     },
-    "guestJudges": [{ "name": "R'Bonney Gabriel" }]
+    "guestJudges": [
+      {
+        "name": "R'Bonney Gabriel"
+      }
+    ]
   },
   {
     "id": "PH-S03-E03",
@@ -51,22 +86,42 @@
     "title": "Dapat Pakak!",
     "miniChallenge": {
       "name": "Sack race",
-      "winnerIds": ["khianna"]
+      "winnerIds": [
+        "khianna"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to \"Dapat Pakak!\"",
-      "winnerIds": ["maxie"]
+      "winnerIds": [
+        "maxie"
+      ]
     },
     "runwayTheme": "Per-Yeah!",
-    "topIds": ["maxie"],
-    "bottomIds": ["myx-chanel", "versex"],
+    "topIds": [
+      "maxie"
+    ],
+    "bottomIds": [
+      "myx-chanel",
+      "versex"
+    ],
     "lipSync": {
       "song": "Miss Manila",
-      "queenIds": ["myx-chanel", "versex"],
-      "winnerIds": ["myx-chanel"],
-      "eliminatedIds": ["versex"]
+      "queenIds": [
+        "myx-chanel",
+        "versex"
+      ],
+      "winnerIds": [
+        "myx-chanel"
+      ],
+      "eliminatedIds": [
+        "versex"
+      ]
     },
-    "guestJudges": [{ "name": "Angeline Quinto" }]
+    "guestJudges": [
+      {
+        "name": "Angeline Quinto"
+      }
+    ]
   },
   {
     "id": "PH-S03-E04",
@@ -75,22 +130,42 @@
     "title": "Pao Presents Plus",
     "miniChallenge": {
       "name": "Guess the contents of four boxes while blindfolded",
-      "winnerIds": ["john-fedellaga"]
+      "winnerIds": [
+        "john-fedellaga"
+      ]
     },
     "maxiChallenge": {
       "name": "In pairs, create shows for Pao Presents Plus",
-      "winnerIds": ["maxie"]
+      "winnerIds": [
+        "maxie"
+      ]
     },
     "runwayTheme": "3D Fractal Extravaganza",
-    "topIds": ["maxie"],
-    "bottomIds": ["j-quinn", "yudipota"],
+    "topIds": [
+      "maxie"
+    ],
+    "bottomIds": [
+      "j-quinn",
+      "yudipota"
+    ],
     "lipSync": {
       "song": "Wag Kang Pabebe",
-      "queenIds": ["j-quinn", "yudipota"],
-      "winnerIds": ["j-quinn"],
-      "eliminatedIds": ["yudipota"]
+      "queenIds": [
+        "j-quinn",
+        "yudipota"
+      ],
+      "winnerIds": [
+        "j-quinn"
+      ],
+      "eliminatedIds": [
+        "yudipota"
+      ]
     },
-    "guestJudges": [{ "name": "Melai Cantiveros" }]
+    "guestJudges": [
+      {
+        "name": "Melai Cantiveros"
+      }
+    ]
   },
   {
     "id": "PH-S03-E05",
@@ -99,22 +174,42 @@
     "title": "Snatch Game KNB?",
     "miniChallenge": {
       "name": "90's inspired notebook cover photoshoot",
-      "winnerIds": ["khianna"]
+      "winnerIds": [
+        "khianna"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["angel"]
+      "winnerIds": [
+        "angel"
+      ]
     },
     "runwayTheme": "Gosh With The Wind",
-    "topIds": ["angel"],
-    "bottomIds": ["j-quinn", "zymba-ding"],
+    "topIds": [
+      "angel"
+    ],
+    "bottomIds": [
+      "j-quinn",
+      "zymba-ding"
+    ],
     "lipSync": {
       "song": "Geronimo",
-      "queenIds": ["j-quinn", "zymba-ding"],
-      "winnerIds": ["zymba-ding"],
-      "eliminatedIds": ["j-quinn"]
+      "queenIds": [
+        "j-quinn",
+        "zymba-ding"
+      ],
+      "winnerIds": [
+        "zymba-ding"
+      ],
+      "eliminatedIds": [
+        "j-quinn"
+      ]
     },
-    "guestJudges": [{ "name": "Kyle Echarri" }]
+    "guestJudges": [
+      {
+        "name": "Kyle Echarri"
+      }
+    ]
   },
   {
     "id": "PH-S03-E06",
@@ -123,22 +218,42 @@
     "title": "AaWicked Kita: The Rusical",
     "miniChallenge": {
       "name": "Recreate a line from an Ogie Diaz acting workshop in the most exaggerated manner possible",
-      "winnerIds": ["zymba-ding"]
+      "winnerIds": [
+        "zymba-ding"
+      ]
     },
     "maxiChallenge": {
       "name": "AaWicked Kita: The Rusical",
-      "winnerIds": ["zymba-ding"]
+      "winnerIds": [
+        "zymba-ding"
+      ]
     },
     "runwayTheme": "Kum-Haute Couture",
-    "topIds": ["zymba-ding"],
-    "bottomIds": ["john-fedellaga", "popstar-bench"],
+    "topIds": [
+      "zymba-ding"
+    ],
+    "bottomIds": [
+      "john-fedellaga",
+      "popstar-bench"
+    ],
     "lipSync": {
       "song": "Dadalhin",
-      "queenIds": ["john-fedellaga", "popstar-bench"],
-      "winnerIds": ["popstar-bench"],
-      "eliminatedIds": ["john-fedellaga"]
+      "queenIds": [
+        "john-fedellaga",
+        "popstar-bench"
+      ],
+      "winnerIds": [
+        "popstar-bench"
+      ],
+      "eliminatedIds": [
+        "john-fedellaga"
+      ]
     },
-    "guestJudges": [{ "name": "Precious Paula Nicole" }]
+    "guestJudges": [
+      {
+        "name": "Precious Paula Nicole"
+      }
+    ]
   },
   {
     "id": "PH-S03-E07",
@@ -147,22 +262,42 @@
     "title": "Super Queens!",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["maxie"]
+      "winnerIds": [
+        "maxie"
+      ]
     },
     "maxiChallenge": {
       "name": "Makeover a loved one",
-      "winnerIds": ["maxie"]
+      "winnerIds": [
+        "maxie"
+      ]
     },
     "runwayTheme": "Super Queens",
-    "topIds": ["maxie"],
-    "bottomIds": ["khianna", "popstar-bench"],
+    "topIds": [
+      "maxie"
+    ],
+    "bottomIds": [
+      "khianna",
+      "popstar-bench"
+    ],
     "lipSync": {
       "song": "Get Your Rebel On",
-      "queenIds": ["khianna", "popstar-bench"],
-      "winnerIds": ["khianna"],
-      "eliminatedIds": ["popstar-bench"]
+      "queenIds": [
+        "khianna",
+        "popstar-bench"
+      ],
+      "winnerIds": [
+        "khianna"
+      ],
+      "eliminatedIds": [
+        "popstar-bench"
+      ]
     },
-    "guestJudges": [{ "name": "Sharon Cuneta" }]
+    "guestJudges": [
+      {
+        "name": "Sharon Cuneta"
+      }
+    ]
   },
   {
     "id": "PH-S03-E08",
@@ -171,19 +306,39 @@
     "title": "Lip Sync LaLaPaRuZa Smackdown",
     "miniChallenge": {
       "name": "Attempt to smash a hanging clay pot while blindfolded in one minute",
-      "winnerIds": ["myx-chanel"]
+      "winnerIds": [
+        "myx-chanel"
+      ]
     },
     "maxiChallenge": {
       "name": "Lip-Sync LaLaPaRuZa Smackdown",
-      "winnerIds": ["tita-baby", "angel", "maxie"]
+      "winnerIds": [
+        "tita-baby",
+        "angel",
+        "maxie"
+      ]
     },
-    "topIds": ["tita-baby", "angel", "maxie"],
-    "bottomIds": ["myx-chanel", "zymba-ding"],
+    "topIds": [
+      "tita-baby",
+      "angel",
+      "maxie"
+    ],
+    "bottomIds": [
+      "myx-chanel",
+      "zymba-ding"
+    ],
     "lipSync": {
       "song": "Ligaw Tingin",
-      "queenIds": ["myx-chanel", "zymba-ding"],
-      "winnerIds": ["zymba-ding"],
-      "eliminatedIds": ["myx-chanel"]
+      "queenIds": [
+        "myx-chanel",
+        "zymba-ding"
+      ],
+      "winnerIds": [
+        "zymba-ding"
+      ],
+      "eliminatedIds": [
+        "myx-chanel"
+      ]
     }
   },
   {
@@ -193,22 +348,42 @@
     "title": "Slay Accla, Slay!",
     "miniChallenge": {
       "name": "Answer questions from the previously eliminated queens",
-      "winnerIds": ["tita-baby"]
+      "winnerIds": [
+        "tita-baby"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to \"Slay Accla\"",
-      "winnerIds": ["angel"]
+      "winnerIds": [
+        "angel"
+      ]
     },
     "runwayTheme": "Ang Gown-Da (What a Beautiful Gown)",
-    "topIds": ["angel"],
-    "bottomIds": ["tita-baby", "zymba-ding"],
+    "topIds": [
+      "angel"
+    ],
+    "bottomIds": [
+      "tita-baby",
+      "zymba-ding"
+    ],
     "lipSync": {
       "song": "Isa Pang Araw",
-      "queenIds": ["tita-baby", "zymba-ding"],
-      "winnerIds": ["tita-baby"],
-      "eliminatedIds": ["zymba-ding"]
+      "queenIds": [
+        "tita-baby",
+        "zymba-ding"
+      ],
+      "winnerIds": [
+        "tita-baby"
+      ],
+      "eliminatedIds": [
+        "zymba-ding"
+      ]
     },
-    "guestJudges": [{ "name": "Janella Salvador" }]
+    "guestJudges": [
+      {
+        "name": "Janella Salvador"
+      }
+    ]
   },
   {
     "id": "PH-S03-E10",
@@ -216,12 +391,24 @@
     "episodeNumber": 10,
     "title": "Grand Finale",
     "runwayTheme": "First Time's a Charm, Art Attack Extravaganza and Come in Your Best Drag",
-    "topIds": ["khianna", "maxie"],
-    "bottomIds": ["angel", "tita-baby"],
+    "topIds": [
+      "khianna",
+      "maxie"
+    ],
+    "bottomIds": [
+      "angel",
+      "tita-baby"
+    ],
     "lipSync": {
       "song": "Lipad ng Pangarap",
-      "queenIds": ["khianna", "maxie"],
-      "winnerIds": ["maxie"]
+      "queenIds": [
+        "khianna",
+        "maxie"
+      ],
+      "winnerIds": [
+        "maxie"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

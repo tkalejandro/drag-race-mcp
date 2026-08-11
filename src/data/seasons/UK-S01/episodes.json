@@ -6,22 +6,44 @@
     "title": "The Royal Queens",
     "miniChallenge": {
       "name": "Off with Your Heads photoshoot",
-      "winnerIds": ["scaredy-kat"]
+      "winnerIds": [
+        "scaredy-kat"
+      ]
     },
     "maxiChallenge": {
       "name": "Present two looks: Queen of Your Hometown and Queen Elizabeth II-inspired",
-      "winnerIds": ["the-vivienne"]
+      "winnerIds": [
+        "the-vivienne"
+      ]
     },
     "runwayTheme": "Queen of Your Hometown / Queen Elizabeth II",
-    "topIds": ["the-vivienne", "baga-chipz", "sum-ting-wong"],
-    "bottomIds": ["gothy-kendoll", "vinegar-strokes"],
+    "topIds": [
+      "the-vivienne",
+      "baga-chipz",
+      "sum-ting-wong"
+    ],
+    "bottomIds": [
+      "gothy-kendoll",
+      "vinegar-strokes"
+    ],
     "lipSync": {
       "song": "New Rules",
-      "queenIds": ["gothy-kendoll", "vinegar-strokes"],
-      "winnerIds": ["vinegar-strokes"],
-      "eliminatedIds": ["gothy-kendoll"]
+      "queenIds": [
+        "gothy-kendoll",
+        "vinegar-strokes"
+      ],
+      "winnerIds": [
+        "vinegar-strokes"
+      ],
+      "eliminatedIds": [
+        "gothy-kendoll"
+      ]
     },
-    "guestJudges": [{ "name": "Andrew Garfield" }]
+    "guestJudges": [
+      {
+        "name": "Andrew Garfield"
+      }
+    ]
   },
   {
     "id": "UK-S01-E02",
@@ -30,18 +52,36 @@
     "title": "Downton Draggy",
     "maxiChallenge": {
       "name": "Downton Draggy acting challenge",
-      "winnerIds": ["baga-chipz"]
+      "winnerIds": [
+        "baga-chipz"
+      ]
     },
     "runwayTheme": "Bond Girl Glamourama",
-    "topIds": ["baga-chipz"],
-    "bottomIds": ["blu-hydrangea", "scaredy-kat"],
+    "topIds": [
+      "baga-chipz"
+    ],
+    "bottomIds": [
+      "blu-hydrangea",
+      "scaredy-kat"
+    ],
     "lipSync": {
       "song": "Venus",
-      "queenIds": ["blu-hydrangea", "scaredy-kat"],
-      "winnerIds": ["blu-hydrangea"],
-      "eliminatedIds": ["scaredy-kat"]
+      "queenIds": [
+        "blu-hydrangea",
+        "scaredy-kat"
+      ],
+      "winnerIds": [
+        "blu-hydrangea"
+      ],
+      "eliminatedIds": [
+        "scaredy-kat"
+      ]
     },
-    "guestJudges": [{ "name": "Maisie Williams" }]
+    "guestJudges": [
+      {
+        "name": "Maisie Williams"
+      }
+    ]
   },
   {
     "id": "UK-S01-E03",
@@ -50,21 +90,43 @@
     "title": "Posh on a Penny",
     "miniChallenge": {
       "name": "Maypole dance moves",
-      "winnerIds": ["cheryl-hole"]
+      "winnerIds": [
+        "cheryl-hole"
+      ]
     },
     "maxiChallenge": {
       "name": "Create an outfit from car boot sale junk",
-      "winnerIds": ["divina-de-campo"]
+      "winnerIds": [
+        "divina-de-campo"
+      ]
     },
-    "topIds": ["divina-de-campo", "crystal", "the-vivienne"],
-    "bottomIds": ["sum-ting-wong", "vinegar-strokes"],
+    "topIds": [
+      "divina-de-campo",
+      "crystal",
+      "the-vivienne"
+    ],
+    "bottomIds": [
+      "sum-ting-wong",
+      "vinegar-strokes"
+    ],
     "lipSync": {
       "song": "Would I Lie to You?",
-      "queenIds": ["sum-ting-wong", "vinegar-strokes"],
-      "winnerIds": ["sum-ting-wong"],
-      "eliminatedIds": ["vinegar-strokes"]
+      "queenIds": [
+        "sum-ting-wong",
+        "vinegar-strokes"
+      ],
+      "winnerIds": [
+        "sum-ting-wong"
+      ],
+      "eliminatedIds": [
+        "vinegar-strokes"
+      ]
     },
-    "guestJudges": [{ "name": "Twiggy" }]
+    "guestJudges": [
+      {
+        "name": "Twiggy"
+      }
+    ]
   },
   {
     "id": "UK-S01-E04",
@@ -73,18 +135,38 @@
     "title": "Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["baga-chipz", "the-vivienne"]
+      "winnerIds": [
+        "baga-chipz",
+        "the-vivienne"
+      ]
     },
     "runwayTheme": "Weird Science",
-    "topIds": ["baga-chipz", "the-vivienne"],
-    "bottomIds": ["crystal", "sum-ting-wong"],
+    "topIds": [
+      "baga-chipz",
+      "the-vivienne"
+    ],
+    "bottomIds": [
+      "crystal",
+      "sum-ting-wong"
+    ],
     "lipSync": {
       "song": "Spice Up Your Life",
-      "queenIds": ["crystal", "sum-ting-wong"],
-      "winnerIds": ["crystal"],
-      "eliminatedIds": ["sum-ting-wong"]
+      "queenIds": [
+        "crystal",
+        "sum-ting-wong"
+      ],
+      "winnerIds": [
+        "crystal"
+      ],
+      "eliminatedIds": [
+        "sum-ting-wong"
+      ]
     },
-    "guestJudges": [{ "name": "Geri Halliwell" }]
+    "guestJudges": [
+      {
+        "name": "Geri Halliwell"
+      }
+    ]
   },
   {
     "id": "UK-S01-E05",
@@ -93,22 +175,46 @@
     "title": "Girl Groups Battle Royale",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["crystal"]
+      "winnerIds": [
+        "crystal"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Break Up (Bye Bye)",
-      "winnerIds": ["baga-chipz", "blu-hydrangea", "divina-de-campo"]
+      "winnerIds": [
+        "baga-chipz",
+        "blu-hydrangea",
+        "divina-de-campo"
+      ]
     },
     "runwayTheme": "Day at the Races",
-    "topIds": ["baga-chipz", "blu-hydrangea", "divina-de-campo"],
-    "bottomIds": ["crystal", "the-vivienne"],
+    "topIds": [
+      "baga-chipz",
+      "blu-hydrangea",
+      "divina-de-campo"
+    ],
+    "bottomIds": [
+      "crystal",
+      "the-vivienne"
+    ],
     "lipSync": {
       "song": "Power",
-      "queenIds": ["crystal", "the-vivienne"],
-      "winnerIds": ["the-vivienne"],
-      "eliminatedIds": ["crystal"]
+      "queenIds": [
+        "crystal",
+        "the-vivienne"
+      ],
+      "winnerIds": [
+        "the-vivienne"
+      ],
+      "eliminatedIds": [
+        "crystal"
+      ]
     },
-    "guestJudges": [{ "name": "Jade Thirlwall" }]
+    "guestJudges": [
+      {
+        "name": "Jade Thirlwall"
+      }
+    ]
   },
   {
     "id": "UK-S01-E06",
@@ -117,22 +223,43 @@
     "title": "Thirsty Werk",
     "miniChallenge": {
       "name": "Boxers, Briefs or Commando",
-      "winnerIds": ["divina-de-campo"]
+      "winnerIds": [
+        "divina-de-campo"
+      ]
     },
     "maxiChallenge": {
       "name": "Campaign, market and design a bottled water brand",
-      "winnerIds": ["the-vivienne"]
+      "winnerIds": [
+        "the-vivienne"
+      ]
     },
     "runwayTheme": "Rainy Day Eleganza",
-    "topIds": ["the-vivienne", "divina-de-campo"],
-    "bottomIds": ["blu-hydrangea", "cheryl-hole"],
+    "topIds": [
+      "the-vivienne",
+      "divina-de-campo"
+    ],
+    "bottomIds": [
+      "blu-hydrangea",
+      "cheryl-hole"
+    ],
     "lipSync": {
       "song": "Call My Name (Wideboys Remix)",
-      "queenIds": ["blu-hydrangea", "cheryl-hole"],
-      "winnerIds": ["cheryl-hole"],
-      "eliminatedIds": ["blu-hydrangea"]
+      "queenIds": [
+        "blu-hydrangea",
+        "cheryl-hole"
+      ],
+      "winnerIds": [
+        "cheryl-hole"
+      ],
+      "eliminatedIds": [
+        "blu-hydrangea"
+      ]
     },
-    "guestJudges": [{ "name": "Cheryl" }]
+    "guestJudges": [
+      {
+        "name": "Cheryl"
+      }
+    ]
   },
   {
     "id": "UK-S01-E07",
@@ -141,21 +268,42 @@
     "title": "Family That Drags Together",
     "miniChallenge": {
       "name": "Everybody Loves Puppets",
-      "winnerIds": ["divina-de-campo"]
+      "winnerIds": [
+        "divina-de-campo"
+      ]
     },
     "maxiChallenge": {
       "name": "Makeover a family member",
-      "winnerIds": ["divina-de-campo"]
+      "winnerIds": [
+        "divina-de-campo"
+      ]
     },
-    "topIds": ["divina-de-campo", "the-vivienne"],
-    "bottomIds": ["baga-chipz", "cheryl-hole"],
+    "topIds": [
+      "divina-de-campo",
+      "the-vivienne"
+    ],
+    "bottomIds": [
+      "baga-chipz",
+      "cheryl-hole"
+    ],
     "lipSync": {
       "song": "Tears Dry on Their Own",
-      "queenIds": ["baga-chipz", "cheryl-hole"],
-      "winnerIds": ["baga-chipz"],
-      "eliminatedIds": ["cheryl-hole"]
+      "queenIds": [
+        "baga-chipz",
+        "cheryl-hole"
+      ],
+      "winnerIds": [
+        "baga-chipz"
+      ],
+      "eliminatedIds": [
+        "cheryl-hole"
+      ]
     },
-    "guestJudges": [{ "name": "Michaela Coel" }]
+    "guestJudges": [
+      {
+        "name": "Michaela Coel"
+      }
+    ]
   },
   {
     "id": "UK-S01-E08",
@@ -167,12 +315,23 @@
       "winnerIds": []
     },
     "runwayTheme": "Final Three Eleganza Extravaganza",
-    "topIds": ["the-vivienne", "divina-de-campo"],
-    "bottomIds": ["baga-chipz"],
+    "topIds": [
+      "the-vivienne",
+      "divina-de-campo"
+    ],
+    "bottomIds": [
+      "baga-chipz"
+    ],
     "lipSync": {
       "song": "I'm Your Man",
-      "queenIds": ["the-vivienne", "divina-de-campo"],
-      "winnerIds": ["the-vivienne"]
+      "queenIds": [
+        "the-vivienne",
+        "divina-de-campo"
+      ],
+      "winnerIds": [
+        "the-vivienne"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

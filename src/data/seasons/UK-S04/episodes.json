@@ -6,22 +6,44 @@
     "title": "ST4RT Your Engines",
     "miniChallenge": {
       "name": "Photoshoot inspired by the Spice Girls' Olympics performance",
-      "winnerIds": ["black-peppa"]
+      "winnerIds": [
+        "black-peppa"
+      ]
     },
     "maxiChallenge": {
       "name": "Present two looks: BBC Keeping It 100 and Ru Are You?",
-      "winnerIds": ["black-peppa"]
+      "winnerIds": [
+        "black-peppa"
+      ]
     },
     "runwayTheme": "BBC Keeping It 100 / Ru Are You?",
-    "topIds": ["black-peppa", "sminty-drop", "starlet"],
-    "bottomIds": ["dakota-schiffer", "just-may"],
+    "topIds": [
+      "black-peppa",
+      "sminty-drop",
+      "starlet"
+    ],
+    "bottomIds": [
+      "dakota-schiffer",
+      "just-may"
+    ],
     "lipSync": {
       "song": "Let Them Know",
-      "queenIds": ["dakota-schiffer", "just-may"],
-      "winnerIds": ["dakota-schiffer"],
-      "eliminatedIds": ["just-may"]
+      "queenIds": [
+        "dakota-schiffer",
+        "just-may"
+      ],
+      "winnerIds": [
+        "dakota-schiffer"
+      ],
+      "eliminatedIds": [
+        "just-may"
+      ]
     },
-    "guestJudges": [{ "name": "Dame Joanna Lumley" }]
+    "guestJudges": [
+      {
+        "name": "Dame Joanna Lumley"
+      }
+    ]
   },
   {
     "id": "UK-S04-E02",
@@ -48,14 +70,28 @@
       "le-fil",
       "pixie-polite"
     ],
-    "bottomIds": ["jonbers-blonde", "starlet"],
+    "bottomIds": [
+      "jonbers-blonde",
+      "starlet"
+    ],
     "lipSync": {
       "song": "About You Now",
-      "queenIds": ["jonbers-blonde", "starlet"],
-      "winnerIds": ["jonbers-blonde"],
-      "eliminatedIds": ["starlet"]
+      "queenIds": [
+        "jonbers-blonde",
+        "starlet"
+      ],
+      "winnerIds": [
+        "jonbers-blonde"
+      ],
+      "eliminatedIds": [
+        "starlet"
+      ]
     },
-    "guestJudges": [{ "name": "FKA Twigs" }]
+    "guestJudges": [
+      {
+        "name": "FKA Twigs"
+      }
+    ]
   },
   {
     "id": "UK-S04-E03",
@@ -74,18 +110,40 @@
     },
     "maxiChallenge": {
       "name": "In pairs, create a look with the same colors and fabrics",
-      "winnerIds": ["baby", "dakota-schiffer"]
+      "winnerIds": [
+        "baby",
+        "dakota-schiffer"
+      ]
     },
     "runwayTheme": "Bing-Oh She Better Don't!",
-    "topIds": ["baby", "dakota-schiffer", "le-fil", "sminty-drop"],
-    "bottomIds": ["black-peppa", "copper-topp"],
+    "topIds": [
+      "baby",
+      "dakota-schiffer",
+      "le-fil",
+      "sminty-drop"
+    ],
+    "bottomIds": [
+      "black-peppa",
+      "copper-topp"
+    ],
     "lipSync": {
       "song": "This Is Real",
-      "queenIds": ["black-peppa", "copper-topp"],
-      "winnerIds": ["black-peppa"],
-      "eliminatedIds": ["copper-topp"]
+      "queenIds": [
+        "black-peppa",
+        "copper-topp"
+      ],
+      "winnerIds": [
+        "black-peppa"
+      ],
+      "eliminatedIds": [
+        "copper-topp"
+      ]
     },
-    "guestJudges": [{ "name": "Leomie Anderson" }]
+    "guestJudges": [
+      {
+        "name": "Leomie Anderson"
+      }
+    ]
   },
   {
     "id": "UK-S04-E04",
@@ -94,22 +152,44 @@
     "title": "Catty Man",
     "miniChallenge": {
       "name": "Musical chairs",
-      "winnerIds": ["pixie-polite"]
+      "winnerIds": [
+        "pixie-polite"
+      ]
     },
     "maxiChallenge": {
       "name": "In teams, improvise on Alan Carr's show Catty Man",
-      "winnerIds": ["danny-beard"]
+      "winnerIds": [
+        "danny-beard"
+      ]
     },
     "runwayTheme": "The Mane Event - Love Your Hair, Hope You Win",
-    "topIds": ["cheddar-gorgeous", "danny-beard", "pixie-polite"],
-    "bottomIds": ["baby", "sminty-drop"],
+    "topIds": [
+      "cheddar-gorgeous",
+      "danny-beard",
+      "pixie-polite"
+    ],
+    "bottomIds": [
+      "baby",
+      "sminty-drop"
+    ],
     "lipSync": {
       "song": "Respectable",
-      "queenIds": ["baby", "sminty-drop"],
-      "winnerIds": ["baby"],
-      "eliminatedIds": ["sminty-drop"]
+      "queenIds": [
+        "baby",
+        "sminty-drop"
+      ],
+      "winnerIds": [
+        "baby"
+      ],
+      "eliminatedIds": [
+        "sminty-drop"
+      ]
     },
-    "guestJudges": [{ "name": "Alison Hammond" }]
+    "guestJudges": [
+      {
+        "name": "Alison Hammond"
+      }
+    ]
   },
   {
     "id": "UK-S04-E05",
@@ -118,22 +198,44 @@
     "title": "Lairy Poppins: The Rusical",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["pixie-polite"]
+      "winnerIds": [
+        "pixie-polite"
+      ]
     },
     "maxiChallenge": {
       "name": "Lairy Poppins: The Rusical",
-      "winnerIds": ["danny-beard"]
+      "winnerIds": [
+        "danny-beard"
+      ]
     },
     "runwayTheme": "West End Wonders",
-    "topIds": ["danny-beard", "jonbers-blonde", "pixie-polite"],
-    "bottomIds": ["baby", "dakota-schiffer"],
+    "topIds": [
+      "danny-beard",
+      "jonbers-blonde",
+      "pixie-polite"
+    ],
+    "bottomIds": [
+      "baby",
+      "dakota-schiffer"
+    ],
     "lipSync": {
       "song": "No Way",
-      "queenIds": ["baby", "dakota-schiffer"],
-      "winnerIds": ["dakota-schiffer"],
-      "eliminatedIds": ["baby"]
+      "queenIds": [
+        "baby",
+        "dakota-schiffer"
+      ],
+      "winnerIds": [
+        "dakota-schiffer"
+      ],
+      "eliminatedIds": [
+        "baby"
+      ]
     },
-    "guestJudges": [{ "name": "Hannah Waddingham" }]
+    "guestJudges": [
+      {
+        "name": "Hannah Waddingham"
+      }
+    ]
   },
   {
     "id": "UK-S04-E06",
@@ -142,18 +244,37 @@
     "title": "Strictly Come Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["cheddar-gorgeous"]
+      "winnerIds": [
+        "cheddar-gorgeous"
+      ]
     },
     "runwayTheme": "Tickled Pink",
-    "topIds": ["cheddar-gorgeous", "jonbers-blonde"],
-    "bottomIds": ["black-peppa", "le-fil"],
+    "topIds": [
+      "cheddar-gorgeous",
+      "jonbers-blonde"
+    ],
+    "bottomIds": [
+      "black-peppa",
+      "le-fil"
+    ],
     "lipSync": {
       "song": "Stop",
-      "queenIds": ["black-peppa", "le-fil"],
-      "winnerIds": ["black-peppa"],
-      "eliminatedIds": ["le-fil"]
+      "queenIds": [
+        "black-peppa",
+        "le-fil"
+      ],
+      "winnerIds": [
+        "black-peppa"
+      ],
+      "eliminatedIds": [
+        "le-fil"
+      ]
     },
-    "guestJudges": [{ "name": "Mel B" }]
+    "guestJudges": [
+      {
+        "name": "Mel B"
+      }
+    ]
   },
   {
     "id": "UK-S04-E07",
@@ -162,18 +283,41 @@
     "title": "Queen Team Makeovers",
     "maxiChallenge": {
       "name": "Makeover the Queen Team",
-      "winnerIds": ["cheddar-gorgeous"]
+      "winnerIds": [
+        "cheddar-gorgeous"
+      ]
     },
     "runwayTheme": "Drag Family Realness",
-    "topIds": ["black-peppa", "cheddar-gorgeous", "danny-beard"],
-    "bottomIds": ["dakota-schiffer", "pixie-polite"],
+    "topIds": [
+      "black-peppa",
+      "cheddar-gorgeous",
+      "danny-beard"
+    ],
+    "bottomIds": [
+      "dakota-schiffer",
+      "pixie-polite"
+    ],
     "lipSync": {
       "song": "Miss Me Blind",
-      "queenIds": ["dakota-schiffer", "pixie-polite"],
-      "winnerIds": ["pixie-polite"],
-      "eliminatedIds": ["dakota-schiffer"]
+      "queenIds": [
+        "dakota-schiffer",
+        "pixie-polite"
+      ],
+      "winnerIds": [
+        "pixie-polite"
+      ],
+      "eliminatedIds": [
+        "dakota-schiffer"
+      ]
     },
-    "guestJudges": [{ "name": "Boy George" }, { "name": "Raven" }]
+    "guestJudges": [
+      {
+        "name": "Boy George"
+      },
+      {
+        "name": "Raven"
+      }
+    ]
   },
   {
     "id": "UK-S04-E08",
@@ -182,17 +326,35 @@
     "title": "The Squirrel Games",
     "maxiChallenge": {
       "name": "Overact in the murder mystery movie The Squirrel Games",
-      "winnerIds": ["cheddar-gorgeous"]
+      "winnerIds": [
+        "cheddar-gorgeous"
+      ]
     },
     "runwayTheme": "Ruff and Ready",
-    "topIds": ["cheddar-gorgeous", "danny-beard"],
-    "bottomIds": ["black-peppa", "jonbers-blonde"],
+    "topIds": [
+      "cheddar-gorgeous",
+      "danny-beard"
+    ],
+    "bottomIds": [
+      "black-peppa",
+      "jonbers-blonde"
+    ],
     "lipSync": {
       "song": "Some Kinda Rush",
-      "queenIds": ["black-peppa", "jonbers-blonde"],
-      "winnerIds": ["black-peppa", "jonbers-blonde"]
+      "queenIds": [
+        "black-peppa",
+        "jonbers-blonde"
+      ],
+      "winnerIds": [
+        "black-peppa",
+        "jonbers-blonde"
+      ]
     },
-    "guestJudges": [{ "name": "Lorraine Pascale" }]
+    "guestJudges": [
+      {
+        "name": "Lorraine Pascale"
+      }
+    ]
   },
   {
     "id": "UK-S04-E09",
@@ -201,18 +363,37 @@
     "title": "Comedy Queens",
     "maxiChallenge": {
       "name": "Perform a roast of the judges and the eliminated queens of Series 4",
-      "winnerIds": ["danny-beard"]
+      "winnerIds": [
+        "danny-beard"
+      ]
     },
     "runwayTheme": "Pretty in Punk",
-    "topIds": ["danny-beard", "jonbers-blonde"],
-    "bottomIds": ["black-peppa", "pixie-polite"],
+    "topIds": [
+      "danny-beard",
+      "jonbers-blonde"
+    ],
+    "bottomIds": [
+      "black-peppa",
+      "pixie-polite"
+    ],
     "lipSync": {
       "song": "Another One Bites the Dust",
-      "queenIds": ["black-peppa", "pixie-polite"],
-      "winnerIds": ["black-peppa"],
-      "eliminatedIds": ["pixie-polite"]
+      "queenIds": [
+        "black-peppa",
+        "pixie-polite"
+      ],
+      "winnerIds": [
+        "black-peppa"
+      ],
+      "eliminatedIds": [
+        "pixie-polite"
+      ]
     },
-    "guestJudges": [{ "name": "Olly Alexander" }]
+    "guestJudges": [
+      {
+        "name": "Olly Alexander"
+      }
+    ]
   },
   {
     "id": "UK-S04-E10",
@@ -224,12 +405,24 @@
       "winnerIds": []
     },
     "runwayTheme": "Grand Finale Eleganza",
-    "topIds": ["cheddar-gorgeous", "danny-beard"],
-    "bottomIds": ["black-peppa", "jonbers-blonde"],
+    "topIds": [
+      "cheddar-gorgeous",
+      "danny-beard"
+    ],
+    "bottomIds": [
+      "black-peppa",
+      "jonbers-blonde"
+    ],
     "lipSync": {
       "song": "This Is My Life",
-      "queenIds": ["cheddar-gorgeous", "danny-beard"],
-      "winnerIds": ["danny-beard"]
+      "queenIds": [
+        "cheddar-gorgeous",
+        "danny-beard"
+      ],
+      "winnerIds": [
+        "danny-beard"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

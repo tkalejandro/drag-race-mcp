@@ -6,16 +6,30 @@
     "title": "Go Off Queen",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Go Off Queen",
-      "winnerIds": ["the-virgo-queen"]
+      "winnerIds": [
+        "the-virgo-queen"
+      ]
     },
     "runwayTheme": "You Oughta Know... Me",
-    "topIds": ["makayla-couture", "the-virgo-queen"],
+    "topIds": [
+      "makayla-couture",
+      "the-virgo-queen"
+    ],
     "lipSync": {
       "song": "Pretty Girl Era",
-      "queenIds": ["makayla-couture", "the-virgo-queen"],
-      "winnerIds": ["the-virgo-queen"]
+      "queenIds": [
+        "makayla-couture",
+        "the-virgo-queen"
+      ],
+      "winnerIds": [
+        "the-virgo-queen"
+      ]
     },
-    "guestJudges": [{ "name": "Lu Kala" }]
+    "guestJudges": [
+      {
+        "name": "Lu Kala"
+      }
+    ]
   },
   {
     "id": "CA-S05-E02",
@@ -24,18 +38,41 @@
     "title": "Greetings Queenlings",
     "maxiChallenge": {
       "name": "In teams, film a PSA teaching aliens about life on Earth",
-      "winnerIds": ["perla"]
+      "winnerIds": [
+        "perla"
+      ]
     },
     "runwayTheme": "Time and Place",
-    "topIds": ["helena-poison", "minhi-wang", "perla"],
-    "bottomIds": ["tara-nova", "tiffany-ann-co"],
+    "topIds": [
+      "helena-poison",
+      "minhi-wang",
+      "perla"
+    ],
+    "bottomIds": [
+      "tara-nova",
+      "tiffany-ann-co"
+    ],
     "lipSync": {
       "song": "Fuck the Pain Away",
-      "queenIds": ["tara-nova", "tiffany-ann-co"],
-      "winnerIds": ["tiffany-ann-co"],
-      "eliminatedIds": ["tara-nova"]
+      "queenIds": [
+        "tara-nova",
+        "tiffany-ann-co"
+      ],
+      "winnerIds": [
+        "tiffany-ann-co"
+      ],
+      "eliminatedIds": [
+        "tara-nova"
+      ]
     },
-    "guestJudges": [{ "name": "Peaches" }, { "name": "Sarain Fox" }]
+    "guestJudges": [
+      {
+        "name": "Peaches"
+      },
+      {
+        "name": "Sarain Fox"
+      }
+    ]
   },
   {
     "id": "CA-S05-E03",
@@ -44,17 +81,35 @@
     "title": "The Slayoffs: Teams Edition",
     "maxiChallenge": {
       "name": "In teams, participate in a lip-sync slay off extravaganza",
-      "winnerIds": ["the-virgo-queen"]
+      "winnerIds": [
+        "the-virgo-queen"
+      ]
     },
-    "topIds": ["the-virgo-queen"],
-    "bottomIds": ["perla", "tiffany-ann-co"],
+    "topIds": [
+      "the-virgo-queen"
+    ],
+    "bottomIds": [
+      "perla",
+      "tiffany-ann-co"
+    ],
     "lipSync": {
       "song": "Hot",
-      "queenIds": ["perla", "tiffany-ann-co"],
-      "winnerIds": ["perla"],
-      "eliminatedIds": ["tiffany-ann-co"]
+      "queenIds": [
+        "perla",
+        "tiffany-ann-co"
+      ],
+      "winnerIds": [
+        "perla"
+      ],
+      "eliminatedIds": [
+        "tiffany-ann-co"
+      ]
     },
-    "guestJudges": [{ "name": "Shea Couleé" }]
+    "guestJudges": [
+      {
+        "name": "Shea Couleé"
+      }
+    ]
   },
   {
     "id": "CA-S05-E04",
@@ -63,22 +118,44 @@
     "title": "Fast Fashion",
     "miniChallenge": {
       "name": "Boudoir photoshoot",
-      "winnerIds": ["sanjina-dabish-queen"]
+      "winnerIds": [
+        "sanjina-dabish-queen"
+      ]
     },
     "maxiChallenge": {
       "name": "Present two looks on the runway: Slow Mo Couture and Fast Fashion",
-      "winnerIds": ["minhi-wang"]
+      "winnerIds": [
+        "minhi-wang"
+      ]
     },
     "runwayTheme": "Slow Mo Couture / Fast Fashion",
-    "topIds": ["helena-poison", "jaylene-tyme", "minhi-wang"],
-    "bottomIds": ["sanjina-dabish-queen", "uma-gahd"],
+    "topIds": [
+      "helena-poison",
+      "jaylene-tyme",
+      "minhi-wang"
+    ],
+    "bottomIds": [
+      "sanjina-dabish-queen",
+      "uma-gahd"
+    ],
     "lipSync": {
       "song": "Contemporary Love",
-      "queenIds": ["sanjina-dabish-queen", "uma-gahd"],
-      "winnerIds": ["uma-gahd"],
-      "eliminatedIds": ["sanjina-dabish-queen"]
+      "queenIds": [
+        "sanjina-dabish-queen",
+        "uma-gahd"
+      ],
+      "winnerIds": [
+        "uma-gahd"
+      ],
+      "eliminatedIds": [
+        "sanjina-dabish-queen"
+      ]
     },
-    "guestJudges": [{ "name": "Lauren Chan" }]
+    "guestJudges": [
+      {
+        "name": "Lauren Chan"
+      }
+    ]
   },
   {
     "id": "CA-S05-E05",
@@ -87,22 +164,44 @@
     "title": "The One Where They Went '90s",
     "miniChallenge": {
       "name": "Get into quick drag and audition to be a '90s showcase supermodel",
-      "winnerIds": ["uma-gahd"]
+      "winnerIds": [
+        "uma-gahd"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Duh and Not",
-      "winnerIds": ["makayla-couture"]
+      "winnerIds": [
+        "makayla-couture"
+      ]
     },
     "runwayTheme": "Grunge and Glamour",
-    "topIds": ["makayla-couture", "perla", "the-virgo-queen"],
-    "bottomIds": ["jaylene-tyme", "xana"],
+    "topIds": [
+      "makayla-couture",
+      "perla",
+      "the-virgo-queen"
+    ],
+    "bottomIds": [
+      "jaylene-tyme",
+      "xana"
+    ],
     "lipSync": {
       "song": "Here Comes the Sunshine",
-      "queenIds": ["jaylene-tyme", "xana"],
-      "winnerIds": ["xana"],
-      "eliminatedIds": ["jaylene-tyme"]
+      "queenIds": [
+        "jaylene-tyme",
+        "xana"
+      ],
+      "winnerIds": [
+        "xana"
+      ],
+      "eliminatedIds": [
+        "jaylene-tyme"
+      ]
     },
-    "guestJudges": [{ "name": "Simone Denny" }]
+    "guestJudges": [
+      {
+        "name": "Simone Denny"
+      }
+    ]
   },
   {
     "id": "CA-S05-E06",
@@ -111,22 +210,45 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["helena-poison"]
+      "winnerIds": [
+        "helena-poison"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["xana"]
+      "winnerIds": [
+        "xana"
+      ]
     },
     "runwayTheme": "Alien Superstar",
-    "topIds": ["xana"],
-    "bottomIds": ["makayla-couture", "the-virgo-queen", "uma-gahd"],
+    "topIds": [
+      "xana"
+    ],
+    "bottomIds": [
+      "makayla-couture",
+      "the-virgo-queen",
+      "uma-gahd"
+    ],
     "lipSync": {
       "song": "Hello",
-      "queenIds": ["makayla-couture", "the-virgo-queen", "uma-gahd"],
-      "winnerIds": ["makayla-couture", "the-virgo-queen"],
-      "eliminatedIds": ["uma-gahd"]
+      "queenIds": [
+        "makayla-couture",
+        "the-virgo-queen",
+        "uma-gahd"
+      ],
+      "winnerIds": [
+        "makayla-couture",
+        "the-virgo-queen"
+      ],
+      "eliminatedIds": [
+        "uma-gahd"
+      ]
     },
-    "guestJudges": [{ "name": "Steph Tolev" }]
+    "guestJudges": [
+      {
+        "name": "Steph Tolev"
+      }
+    ]
   },
   {
     "id": "CA-S05-E07",
@@ -135,18 +257,37 @@
     "title": "The Devil Wore Custom",
     "maxiChallenge": {
       "name": "Design an outfit to be modeled by Brooke Lynn Hytes",
-      "winnerIds": ["minhi-wang"]
+      "winnerIds": [
+        "minhi-wang"
+      ]
     },
     "runwayTheme": "Wardrobe Malfunction",
-    "topIds": ["helena-poison", "minhi-wang"],
-    "bottomIds": ["the-virgo-queen", "xana"],
+    "topIds": [
+      "helena-poison",
+      "minhi-wang"
+    ],
+    "bottomIds": [
+      "the-virgo-queen",
+      "xana"
+    ],
     "lipSync": {
       "song": "Taking Chances",
-      "queenIds": ["the-virgo-queen", "xana"],
-      "winnerIds": ["the-virgo-queen"],
-      "eliminatedIds": ["xana"]
+      "queenIds": [
+        "the-virgo-queen",
+        "xana"
+      ],
+      "winnerIds": [
+        "the-virgo-queen"
+      ],
+      "eliminatedIds": [
+        "xana"
+      ]
     },
-    "guestJudges": [{ "name": "Sarain Fox" }]
+    "guestJudges": [
+      {
+        "name": "Sarain Fox"
+      }
+    ]
   },
   {
     "id": "CA-S05-E08",
@@ -155,22 +296,43 @@
     "title": "What Just Happened?!",
     "miniChallenge": {
       "name": "Reporting in front of a green screen",
-      "winnerIds": ["the-virgo-queen"]
+      "winnerIds": [
+        "the-virgo-queen"
+      ]
     },
     "maxiChallenge": {
       "name": "Recap talk show hosted by Brad Goreski",
-      "winnerIds": ["helena-poison"]
+      "winnerIds": [
+        "helena-poison"
+      ]
     },
     "runwayTheme": "Statuesque",
-    "topIds": ["helena-poison", "the-virgo-queen"],
-    "bottomIds": ["makayla-couture", "perla"],
+    "topIds": [
+      "helena-poison",
+      "the-virgo-queen"
+    ],
+    "bottomIds": [
+      "makayla-couture",
+      "perla"
+    ],
     "lipSync": {
       "song": "Desperate Measures",
-      "queenIds": ["makayla-couture", "perla"],
-      "winnerIds": ["makayla-couture"],
-      "eliminatedIds": ["perla"]
+      "queenIds": [
+        "makayla-couture",
+        "perla"
+      ],
+      "winnerIds": [
+        "makayla-couture"
+      ],
+      "eliminatedIds": [
+        "perla"
+      ]
     },
-    "guestJudges": [{ "name": "Ts Madison" }]
+    "guestJudges": [
+      {
+        "name": "Ts Madison"
+      }
+    ]
   },
   {
     "id": "CA-S05-E09",
@@ -182,13 +344,29 @@
       "winnerIds": []
     },
     "runwayTheme": "Coronation Eleganza",
-    "topIds": ["makayla-couture", "the-virgo-queen"],
-    "bottomIds": ["helena-poison", "minhi-wang"],
+    "topIds": [
+      "makayla-couture",
+      "the-virgo-queen"
+    ],
+    "bottomIds": [
+      "helena-poison",
+      "minhi-wang"
+    ],
     "lipSync": {
       "song": "From This Moment On",
-      "queenIds": ["makayla-couture", "the-virgo-queen"],
-      "winnerIds": ["the-virgo-queen"]
+      "queenIds": [
+        "makayla-couture",
+        "the-virgo-queen"
+      ],
+      "winnerIds": [
+        "the-virgo-queen"
+      ],
+      "kind": "for-the-crown"
     },
-    "guestJudges": [{ "name": "Orville Peck" }]
+    "guestJudges": [
+      {
+        "name": "Orville Peck"
+      }
+    ]
   }
 ]

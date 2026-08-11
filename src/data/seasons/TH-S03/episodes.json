@@ -6,21 +6,40 @@
     "title": "Thai Tea Is Back Back Back Again",
     "miniChallenge": {
       "name": "Thai Tea Photoshoot",
-      "winnerIds": ["spicy-sunshine"]
+      "winnerIds": [
+        "spicy-sunshine"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a talent in the Talent Show Phenomenon",
-      "winnerIds": ["frankie-wonga"]
+      "winnerIds": [
+        "frankie-wonga"
+      ]
     },
     "runwayTheme": "World Wide Wet",
-    "topIds": ["frankie-wonga"],
-    "bottomIds": ["shortgun", "srirasha-hotsauce"],
+    "topIds": [
+      "frankie-wonga"
+    ],
+    "bottomIds": [
+      "shortgun",
+      "srirasha-hotsauce"
+    ],
     "lipSync": {
       "song": "ผีเสื้อราตรี (2002 Ratree)",
-      "queenIds": ["shortgun", "srirasha-hotsauce"],
-      "winnerIds": ["shortgun", "srirasha-hotsauce"]
+      "queenIds": [
+        "shortgun",
+        "srirasha-hotsauce"
+      ],
+      "winnerIds": [
+        "shortgun",
+        "srirasha-hotsauce"
+      ]
     },
-    "guestJudges": [{ "name": "Rhatha Phongam" }]
+    "guestJudges": [
+      {
+        "name": "Rhatha Phongam"
+      }
+    ]
   },
   {
     "id": "TH-S03-E02",
@@ -29,22 +48,42 @@
     "title": "The Pageant Ball",
     "miniChallenge": {
       "name": "Ree Ree Khaosan",
-      "winnerIds": ["nane-sphera"]
+      "winnerIds": [
+        "nane-sphera"
+      ]
     },
     "maxiChallenge": {
       "name": "The Pageant Ball",
-      "winnerIds": ["nane-sphera"]
+      "winnerIds": [
+        "nane-sphera"
+      ]
     },
     "runwayTheme": "Swimsuit Outta-Space, Thai-Turistic and ET-Vening Gown in the Universe",
-    "topIds": ["nane-sphera"],
-    "bottomIds": ["spicy-sunshine", "srirasha-hotsauce"],
+    "topIds": [
+      "nane-sphera"
+    ],
+    "bottomIds": [
+      "spicy-sunshine",
+      "srirasha-hotsauce"
+    ],
     "lipSync": {
       "song": "บุ๋ง",
-      "queenIds": ["spicy-sunshine", "srirasha-hotsauce"],
-      "winnerIds": ["spicy-sunshine"],
-      "eliminatedIds": ["srirasha-hotsauce"]
+      "queenIds": [
+        "spicy-sunshine",
+        "srirasha-hotsauce"
+      ],
+      "winnerIds": [
+        "spicy-sunshine"
+      ],
+      "eliminatedIds": [
+        "srirasha-hotsauce"
+      ]
     },
-    "guestJudges": [{ "name": "Maria Lynn Ehren" }]
+    "guestJudges": [
+      {
+        "name": "Maria Lynn Ehren"
+      }
+    ]
   },
   {
     "id": "TH-S03-E03",
@@ -53,22 +92,46 @@
     "title": "Dig Mountain Music Fiercetival",
     "miniChallenge": {
       "name": "Perform a rap dressed as grandmas",
-      "winnerIds": ["benze-diva", "frankie-wonga"]
+      "winnerIds": [
+        "benze-diva",
+        "frankie-wonga"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to \"Sip Sip Sip\"",
-      "winnerIds": ["zepee"]
+      "winnerIds": [
+        "zepee"
+      ]
     },
     "runwayTheme": "I Don't Need a Sugar Daddy, I AM a Sugar Daddy!",
-    "topIds": ["zepee"],
-    "bottomIds": ["kara-might", "spicy-sunshine"],
+    "topIds": [
+      "zepee"
+    ],
+    "bottomIds": [
+      "kara-might",
+      "spicy-sunshine"
+    ],
     "lipSync": {
       "song": "ฟ้ารักพ่อ (DILF)",
-      "queenIds": ["kara-might", "spicy-sunshine"],
-      "winnerIds": ["spicy-sunshine"],
-      "eliminatedIds": ["kara-might"]
+      "queenIds": [
+        "kara-might",
+        "spicy-sunshine"
+      ],
+      "winnerIds": [
+        "spicy-sunshine"
+      ],
+      "eliminatedIds": [
+        "kara-might"
+      ]
     },
-    "guestJudges": [{ "name": "Badmixy" }, { "name": "Paolo Ballesteros" }]
+    "guestJudges": [
+      {
+        "name": "Badmixy"
+      },
+      {
+        "name": "Paolo Ballesteros"
+      }
+    ]
   },
   {
     "id": "TH-S03-E04",
@@ -77,22 +140,42 @@
     "title": "Acting Is Not Acting, Isn't It?",
     "miniChallenge": {
       "name": "Glamakorn Photoshoot",
-      "winnerIds": ["nane-sphera"]
+      "winnerIds": [
+        "nane-sphera"
+      ]
     },
     "maxiChallenge": {
       "name": "Act in the soap opera \"บ้าน หลัก โลก เลิศ รูด ลาย ลาย ไทย และ ลุ้น\"",
-      "winnerIds": ["zepee"]
+      "winnerIds": [
+        "zepee"
+      ]
     },
     "runwayTheme": "Hat the Way I Like It",
-    "topIds": ["zepee"],
-    "bottomIds": ["benze-diva", "shortgun"],
+    "topIds": [
+      "zepee"
+    ],
+    "bottomIds": [
+      "benze-diva",
+      "shortgun"
+    ],
     "lipSync": {
       "song": "Condragulations",
-      "queenIds": ["benze-diva", "shortgun"],
-      "winnerIds": ["benze-diva"],
-      "eliminatedIds": ["shortgun"]
+      "queenIds": [
+        "benze-diva",
+        "shortgun"
+      ],
+      "winnerIds": [
+        "benze-diva"
+      ],
+      "eliminatedIds": [
+        "shortgun"
+      ]
     },
-    "guestJudges": [{ "name": "Title Kittiphak" }]
+    "guestJudges": [
+      {
+        "name": "Title Kittiphak"
+      }
+    ]
   },
   {
     "id": "TH-S03-E05",
@@ -101,22 +184,42 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["gawdland"]
+      "winnerIds": [
+        "gawdland"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["spicy-sunshine"]
+      "winnerIds": [
+        "spicy-sunshine"
+      ]
     },
     "runwayTheme": "Clown is Sexy and I Know It",
-    "topIds": ["spicy-sunshine"],
-    "bottomIds": ["benze-diva", "gigi-ferocious"],
+    "topIds": [
+      "spicy-sunshine"
+    ],
+    "bottomIds": [
+      "benze-diva",
+      "gigi-ferocious"
+    ],
     "lipSync": {
       "song": "Burning for You",
-      "queenIds": ["benze-diva", "gigi-ferocious"],
-      "winnerIds": ["gigi-ferocious"],
-      "eliminatedIds": ["benze-diva"]
+      "queenIds": [
+        "benze-diva",
+        "gigi-ferocious"
+      ],
+      "winnerIds": [
+        "gigi-ferocious"
+      ],
+      "eliminatedIds": [
+        "benze-diva"
+      ]
     },
-    "guestJudges": [{ "name": "Cindy Bishop" }]
+    "guestJudges": [
+      {
+        "name": "Cindy Bishop"
+      }
+    ]
   },
   {
     "id": "TH-S03-E06",
@@ -125,22 +228,45 @@
     "title": "Hunter, Lover, Mother?",
     "miniChallenge": {
       "name": "ASMR Mukbang",
-      "winnerIds": ["gawdland"]
+      "winnerIds": [
+        "gawdland"
+      ]
     },
     "maxiChallenge": {
       "name": "Kraitong: The Rusical",
-      "winnerIds": ["gawdland"]
+      "winnerIds": [
+        "gawdland"
+      ]
     },
     "runwayTheme": "Love is Blind",
-    "topIds": ["gawdland"],
-    "bottomIds": ["gigi-ferocious", "siam-phusri"],
+    "topIds": [
+      "gawdland"
+    ],
+    "bottomIds": [
+      "gigi-ferocious",
+      "siam-phusri"
+    ],
     "lipSync": {
       "song": "We Are Beautiful",
-      "queenIds": ["gigi-ferocious", "siam-phusri"],
-      "winnerIds": ["gigi-ferocious"],
-      "eliminatedIds": ["siam-phusri"]
+      "queenIds": [
+        "gigi-ferocious",
+        "siam-phusri"
+      ],
+      "winnerIds": [
+        "gigi-ferocious"
+      ],
+      "eliminatedIds": [
+        "siam-phusri"
+      ]
     },
-    "guestJudges": [{ "name": "Mintita Wattanakul" }, { "name": "Silvy Pavida" }]
+    "guestJudges": [
+      {
+        "name": "Mintita Wattanakul"
+      },
+      {
+        "name": "Silvy Pavida"
+      }
+    ]
   },
   {
     "id": "TH-S03-E07",
@@ -149,22 +275,42 @@
     "title": "Yes, and...",
     "miniChallenge": {
       "name": "Perform multiple wig reveals",
-      "winnerIds": ["nane-sphera"]
+      "winnerIds": [
+        "nane-sphera"
+      ]
     },
     "maxiChallenge": {
       "name": "Improvise in the game show \"Dubble Trubble\"",
-      "winnerIds": ["frankie-wonga"]
+      "winnerIds": [
+        "frankie-wonga"
+      ]
     },
     "runwayTheme": "The Iconic",
-    "topIds": ["frankie-wonga"],
-    "bottomIds": ["gigi-ferocious", "nane-sphera"],
+    "topIds": [
+      "frankie-wonga"
+    ],
+    "bottomIds": [
+      "gigi-ferocious",
+      "nane-sphera"
+    ],
     "lipSync": {
       "song": "Music Lover",
-      "queenIds": ["gigi-ferocious", "nane-sphera"],
-      "winnerIds": ["nane-sphera"],
-      "eliminatedIds": ["gigi-ferocious"]
+      "queenIds": [
+        "gigi-ferocious",
+        "nane-sphera"
+      ],
+      "winnerIds": [
+        "nane-sphera"
+      ],
+      "eliminatedIds": [
+        "gigi-ferocious"
+      ]
     },
-    "guestJudges": [{ "name": "Kanticha Chumma" }]
+    "guestJudges": [
+      {
+        "name": "Kanticha Chumma"
+      }
+    ]
   },
   {
     "id": "TH-S03-E08",
@@ -173,22 +319,45 @@
     "title": "Makeover With Pride",
     "miniChallenge": {
       "name": "Everybody Loves Puppets",
-      "winnerIds": ["spicy-sunshine"]
+      "winnerIds": [
+        "spicy-sunshine"
+      ]
     },
     "maxiChallenge": {
       "name": "Makeover queer people from Bangkok Pride",
-      "winnerIds": ["gawdland"]
+      "winnerIds": [
+        "gawdland"
+      ]
     },
     "runwayTheme": "Mother-Daughter, Feather Together",
-    "topIds": ["gawdland"],
-    "bottomIds": ["nane-sphera", "spicy-sunshine"],
+    "topIds": [
+      "gawdland"
+    ],
+    "bottomIds": [
+      "nane-sphera",
+      "spicy-sunshine"
+    ],
     "lipSync": {
       "song": "Call Me Mother",
-      "queenIds": ["nane-sphera", "spicy-sunshine"],
-      "winnerIds": ["spicy-sunshine"],
-      "eliminatedIds": ["nane-sphera"]
+      "queenIds": [
+        "nane-sphera",
+        "spicy-sunshine"
+      ],
+      "winnerIds": [
+        "spicy-sunshine"
+      ],
+      "eliminatedIds": [
+        "nane-sphera"
+      ]
     },
-    "guestJudges": [{ "name": "Eyeta" }, { "name": "Nicky Doll" }]
+    "guestJudges": [
+      {
+        "name": "Eyeta"
+      },
+      {
+        "name": "Nicky Doll"
+      }
+    ]
   },
   {
     "id": "TH-S03-E09",
@@ -197,21 +366,40 @@
     "title": "Tea V Show",
     "miniChallenge": {
       "name": "Twerk on the most lemons while blindfolded",
-      "winnerIds": ["frankie-wonga"]
+      "winnerIds": [
+        "frankie-wonga"
+      ]
     },
     "maxiChallenge": {
       "name": "Write and record an episode for your own talk show",
-      "winnerIds": ["frankie-wonga"]
+      "winnerIds": [
+        "frankie-wonga"
+      ]
     },
     "runwayTheme": "Hair",
-    "topIds": ["frankie-wonga"],
-    "bottomIds": ["spicy-sunshine", "zepee"],
+    "topIds": [
+      "frankie-wonga"
+    ],
+    "bottomIds": [
+      "spicy-sunshine",
+      "zepee"
+    ],
     "lipSync": {
       "song": "ร (W8)",
-      "queenIds": ["spicy-sunshine", "zepee"],
-      "winnerIds": ["spicy-sunshine", "zepee"]
+      "queenIds": [
+        "spicy-sunshine",
+        "zepee"
+      ],
+      "winnerIds": [
+        "spicy-sunshine",
+        "zepee"
+      ]
     },
-    "guestJudges": [{ "name": "Pa-Tue" }]
+    "guestJudges": [
+      {
+        "name": "Pa-Tue"
+      }
+    ]
   },
   {
     "id": "TH-S03-E10",
@@ -219,13 +407,29 @@
     "episodeNumber": 10,
     "title": "Grand Finale",
     "runwayTheme": "Queen of All Queens",
-    "topIds": ["frankie-wonga", "zepee"],
-    "bottomIds": ["gawdland", "spicy-sunshine"],
+    "topIds": [
+      "frankie-wonga",
+      "zepee"
+    ],
+    "bottomIds": [
+      "gawdland",
+      "spicy-sunshine"
+    ],
     "lipSync": {
       "song": "ประวัติศาสตร์ (History)",
-      "queenIds": ["frankie-wonga", "zepee"],
-      "winnerIds": ["frankie-wonga"]
+      "queenIds": [
+        "frankie-wonga",
+        "zepee"
+      ],
+      "winnerIds": [
+        "frankie-wonga"
+      ],
+      "kind": "for-the-crown"
     },
-    "guestJudges": [{ "name": "Christina Aguilar" }]
+    "guestJudges": [
+      {
+        "name": "Christina Aguilar"
+      }
+    ]
   }
 ]

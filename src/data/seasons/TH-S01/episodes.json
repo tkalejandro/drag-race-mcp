@@ -6,24 +6,46 @@
     "title": "Contestant's Story",
     "miniChallenge": {
       "name": "Photoshoot while being doused with buckets of water",
-      "winnerIds": ["morrigan"]
+      "winnerIds": [
+        "morrigan"
+      ]
     },
     "maxiChallenge": {
       "name": "Design a three-in-one runway look incorporating materials that tell the story of your life",
-      "winnerIds": ["annee-maywong"]
+      "winnerIds": [
+        "annee-maywong"
+      ]
     },
-    "topIds": ["annee-maywong"],
-    "bottomIds": ["meannie-minaj", "morrigan"],
+    "topIds": [
+      "annee-maywong"
+    ],
+    "bottomIds": [
+      "meannie-minaj",
+      "morrigan"
+    ],
     "lipSync": {
       "song": "Born This Way",
-      "queenIds": ["meannie-minaj", "morrigan"],
-      "winnerIds": ["morrigan"],
-      "eliminatedIds": ["meannie-minaj"]
+      "queenIds": [
+        "meannie-minaj",
+        "morrigan"
+      ],
+      "winnerIds": [
+        "morrigan"
+      ],
+      "eliminatedIds": [
+        "meannie-minaj"
+      ]
     },
     "guestJudges": [
-      { "name": "Madame Mod" },
-      { "name": "Madeaw" },
-      { "name": "Pa-Tue" }
+      {
+        "name": "Madame Mod"
+      },
+      {
+        "name": "Madeaw"
+      },
+      {
+        "name": "Pa-Tue"
+      }
     ]
   },
   {
@@ -33,24 +55,45 @@
     "title": "The Power of Love",
     "miniChallenge": {
       "name": "Photoshoot with blacklight",
-      "winnerIds": ["natalia-pliacam"]
+      "winnerIds": [
+        "natalia-pliacam"
+      ]
     },
     "maxiChallenge": {
       "name": "Dress up as the bride and groom in a photoshoot",
-      "winnerIds": ["natalia-pliacam"]
+      "winnerIds": [
+        "natalia-pliacam"
+      ]
     },
     "runwayTheme": "Power of Love",
-    "topIds": ["natalia-pliacam", "amadiva"],
-    "bottomIds": ["bunny-be-fly", "petchra"],
+    "topIds": [
+      "natalia-pliacam",
+      "amadiva"
+    ],
+    "bottomIds": [
+      "bunny-be-fly",
+      "petchra"
+    ],
     "lipSync": {
       "song": "รักยังไม่ต้องการ (I Don't Want Love Yet)",
-      "queenIds": ["bunny-be-fly", "petchra"],
-      "winnerIds": ["petchra"],
-      "eliminatedIds": ["bunny-be-fly"]
+      "queenIds": [
+        "bunny-be-fly",
+        "petchra"
+      ],
+      "winnerIds": [
+        "petchra"
+      ],
+      "eliminatedIds": [
+        "bunny-be-fly"
+      ]
     },
     "guestJudges": [
-      { "name": "Marsha Vadhanapanich" },
-      { "name": "Jai Sira" }
+      {
+        "name": "Marsha Vadhanapanich"
+      },
+      {
+        "name": "Jai Sira"
+      }
     ]
   },
   {
@@ -60,24 +103,46 @@
     "title": "Curtain to Couture",
     "miniChallenge": {
       "name": "Fairy tale puppet show",
-      "winnerIds": ["dearis-doll"]
+      "winnerIds": [
+        "dearis-doll"
+      ]
     },
     "maxiChallenge": {
       "name": "Create a couture evening gown out of window curtains",
-      "winnerIds": ["annee-maywong"]
+      "winnerIds": [
+        "annee-maywong"
+      ]
     },
-    "topIds": ["annee-maywong"],
-    "bottomIds": ["dearis-doll", "morrigan"],
+    "topIds": [
+      "annee-maywong"
+    ],
+    "bottomIds": [
+      "dearis-doll",
+      "morrigan"
+    ],
     "lipSync": {
       "song": "O.K. นะคะ (O.K. Yes)",
-      "queenIds": ["dearis-doll", "morrigan"],
-      "winnerIds": ["dearis-doll"],
-      "eliminatedIds": ["morrigan"]
+      "queenIds": [
+        "dearis-doll",
+        "morrigan"
+      ],
+      "winnerIds": [
+        "dearis-doll"
+      ],
+      "eliminatedIds": [
+        "morrigan"
+      ]
     },
     "guestJudges": [
-      { "name": "Mae Baan Mee Nuad" },
-      { "name": "Prapakas Angsulin" },
-      { "name": "Cris Horwang" }
+      {
+        "name": "Mae Baan Mee Nuad"
+      },
+      {
+        "name": "Prapakas Angsulin"
+      },
+      {
+        "name": "Cris Horwang"
+      }
     ]
   },
   {
@@ -87,24 +152,47 @@
     "title": "Drag Race Thailand Debut Season Award",
     "miniChallenge": {
       "name": "Pink carpet photoshoot",
-      "winnerIds": ["jaja"]
+      "winnerIds": [
+        "jaja"
+      ]
     },
     "maxiChallenge": {
       "name": "Present and accept the Drag Race Thailand Debut Season Awards",
-      "winnerIds": ["natalia-pliacam"]
+      "winnerIds": [
+        "natalia-pliacam"
+      ]
     },
     "runwayTheme": "Beloved Thai Movies",
-    "topIds": ["natalia-pliacam", "dearis-doll", "jaja"],
-    "bottomIds": ["amadiva", "natalia-pliacam"],
+    "topIds": [
+      "natalia-pliacam",
+      "dearis-doll",
+      "jaja"
+    ],
+    "bottomIds": [
+      "amadiva",
+      "natalia-pliacam"
+    ],
     "lipSync": {
       "song": "Dhoom Dhoom",
-      "queenIds": ["amadiva", "natalia-pliacam"],
-      "winnerIds": ["amadiva", "natalia-pliacam"]
+      "queenIds": [
+        "amadiva",
+        "natalia-pliacam"
+      ],
+      "winnerIds": [
+        "amadiva",
+        "natalia-pliacam"
+      ]
     },
     "guestJudges": [
-      { "name": "Ananda Everingham" },
-      { "name": "Sinjai Plengpanich" },
-      { "name": "Pattriya Na Nakorn" }
+      {
+        "name": "Ananda Everingham"
+      },
+      {
+        "name": "Sinjai Plengpanich"
+      },
+      {
+        "name": "Pattriya Na Nakorn"
+      }
     ]
   },
   {
@@ -114,24 +202,47 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["amadiva"]
+      "winnerIds": [
+        "amadiva"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["natalia-pliacam"]
+      "winnerIds": [
+        "natalia-pliacam"
+      ]
     },
     "runwayTheme": "Thai Silk Extravaganza",
-    "topIds": ["natalia-pliacam"],
-    "bottomIds": ["annee-maywong", "jaja", "petchra"],
+    "topIds": [
+      "natalia-pliacam"
+    ],
+    "bottomIds": [
+      "annee-maywong",
+      "jaja",
+      "petchra"
+    ],
     "lipSync": {
       "song": "Toxic",
-      "queenIds": ["annee-maywong", "jaja", "petchra"],
-      "winnerIds": ["annee-maywong", "jaja"],
-      "eliminatedIds": ["petchra"]
+      "queenIds": [
+        "annee-maywong",
+        "jaja",
+        "petchra"
+      ],
+      "winnerIds": [
+        "annee-maywong",
+        "jaja"
+      ],
+      "eliminatedIds": [
+        "petchra"
+      ]
     },
     "guestJudges": [
-      { "name": "Metinee Kingpayom" },
-      { "name": "Polpat Asavaprapha" }
+      {
+        "name": "Metinee Kingpayom"
+      },
+      {
+        "name": "Polpat Asavaprapha"
+      }
     ]
   },
   {
@@ -141,25 +252,48 @@
     "title": "Commercial, Commercial",
     "miniChallenge": {
       "name": "Line Mobile presentation clip",
-      "winnerIds": ["b-ella"]
+      "winnerIds": [
+        "b-ella"
+      ]
     },
     "maxiChallenge": {
       "name": "In pairs, create parodies of Line Mobile commercials",
-      "winnerIds": ["b-ella", "dearis-doll"]
+      "winnerIds": [
+        "b-ella",
+        "dearis-doll"
+      ]
     },
     "runwayTheme": "Chompoo Araya",
-    "topIds": ["b-ella", "dearis-doll"],
-    "bottomIds": ["amadiva", "jaja"],
+    "topIds": [
+      "b-ella",
+      "dearis-doll"
+    ],
+    "bottomIds": [
+      "amadiva",
+      "jaja"
+    ],
     "lipSync": {
       "song": "เพลงสุดท้าย (Last Song)",
-      "queenIds": ["amadiva", "jaja"],
+      "queenIds": [
+        "amadiva",
+        "jaja"
+      ],
       "winnerIds": [],
-      "eliminatedIds": ["amadiva", "jaja"]
+      "eliminatedIds": [
+        "amadiva",
+        "jaja"
+      ]
     },
     "guestJudges": [
-      { "name": "Araya A. Hargate" },
-      { "name": "Ornapa Krisadee" },
-      { "name": "Pavarisa Chumvigrant" }
+      {
+        "name": "Araya A. Hargate"
+      },
+      {
+        "name": "Ornapa Krisadee"
+      },
+      {
+        "name": "Pavarisa Chumvigrant"
+      }
     ]
   },
   {
@@ -169,25 +303,48 @@
     "title": "Twins",
     "miniChallenge": {
       "name": "Twin photoshoot",
-      "winnerIds": ["annee-maywong", "dearis-doll"]
+      "winnerIds": [
+        "annee-maywong",
+        "dearis-doll"
+      ]
     },
     "maxiChallenge": {
       "name": "Design a conjoined-twins outfit and act out a scene inspired by Plerng Phra Nang",
-      "winnerIds": ["annee-maywong"]
+      "winnerIds": [
+        "annee-maywong"
+      ]
     },
     "runwayTheme": "Water Festival (Songkran)",
-    "topIds": ["annee-maywong"],
-    "bottomIds": ["b-ella", "dearis-doll"],
+    "topIds": [
+      "annee-maywong"
+    ],
+    "bottomIds": [
+      "b-ella",
+      "dearis-doll"
+    ],
     "lipSync": {
       "song": "Crazy in Love",
-      "queenIds": ["b-ella", "dearis-doll"],
-      "winnerIds": ["dearis-doll"],
-      "eliminatedIds": ["b-ella"]
+      "queenIds": [
+        "b-ella",
+        "dearis-doll"
+      ],
+      "winnerIds": [
+        "dearis-doll"
+      ],
+      "eliminatedIds": [
+        "b-ella"
+      ]
     },
     "guestJudges": [
-      { "name": "Ploy Chermarn" },
-      { "name": "Utt Uttsada" },
-      { "name": "Chom" }
+      {
+        "name": "Ploy Chermarn"
+      },
+      {
+        "name": "Utt Uttsada"
+      },
+      {
+        "name": "Chom"
+      }
     ]
   },
   {

@@ -9,7 +9,11 @@
       "winnerIds": []
     },
     "runwayTheme": "Minhas Raízes (My Roots)",
-    "guestJudges": [{ "name": "Gretchen" }]
+    "guestJudges": [
+      {
+        "name": "Gretchen"
+      }
+    ]
   },
   {
     "id": "BR-S01-E02",
@@ -18,19 +22,45 @@
     "title": "Rinha de Picumãs",
     "maxiChallenge": {
       "name": "Write, record, perform verses and choreograph a music video to \"Madrugatas\" (Hotties of the Night)",
-      "winnerIds": ["organzza"],
-      "earnings": { "amount": 5000, "currency": "BRL" }
+      "winnerIds": [
+        "organzza"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "BRL"
+      }
     },
     "runwayTheme": "Minhas Raízes (My Roots)",
-    "topIds": ["dallas-de-vil", "hellena-malditta", "organzza", "rubi-ocean", "shannon-skarllet", "tristan-soledade"],
-    "bottomIds": ["betina-polaroid", "diva-more"],
+    "topIds": [
+      "dallas-de-vil",
+      "hellena-malditta",
+      "organzza",
+      "rubi-ocean",
+      "shannon-skarllet",
+      "tristan-soledade"
+    ],
+    "bottomIds": [
+      "betina-polaroid",
+      "diva-more"
+    ],
     "lipSync": {
       "song": "Bandida",
-      "queenIds": ["betina-polaroid", "diva-more"],
-      "winnerIds": ["betina-polaroid"],
-      "eliminatedIds": ["diva-more"]
+      "queenIds": [
+        "betina-polaroid",
+        "diva-more"
+      ],
+      "winnerIds": [
+        "betina-polaroid"
+      ],
+      "eliminatedIds": [
+        "diva-more"
+      ]
     },
-    "guestJudges": [{ "name": "Flávio Verne" }]
+    "guestJudges": [
+      {
+        "name": "Flávio Verne"
+      }
+    ]
   },
   {
     "id": "BR-S01-E03",
@@ -39,23 +69,48 @@
     "title": "Tupiniqueens",
     "miniChallenge": {
       "name": "Compete in the Miss Drag Race Brasil pageant",
-      "winnerIds": ["dallas-de-vil"],
-      "earnings": { "amount": 5000, "currency": "BRL" }
+      "winnerIds": [
+        "dallas-de-vil"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "BRL"
+      }
     },
     "maxiChallenge": {
       "name": "Act in the sketch \"As Chuteiras de Trovão\" (Trovão's Soccer Shoes)",
-      "winnerIds": ["organzza"]
+      "winnerIds": [
+        "organzza"
+      ]
     },
     "runwayTheme": "Tupiniqueens (Brazilian Top Models)",
-    "topIds": ["hellena-malditta", "miranda-lebrao", "organzza"],
-    "bottomIds": ["dallas-de-vil", "tristan-soledade"],
+    "topIds": [
+      "hellena-malditta",
+      "miranda-lebrao",
+      "organzza"
+    ],
+    "bottomIds": [
+      "dallas-de-vil",
+      "tristan-soledade"
+    ],
     "lipSync": {
       "song": "Cachorrinhas",
-      "queenIds": ["dallas-de-vil", "tristan-soledade"],
-      "winnerIds": ["dallas-de-vil"],
-      "eliminatedIds": ["tristan-soledade"]
+      "queenIds": [
+        "dallas-de-vil",
+        "tristan-soledade"
+      ],
+      "winnerIds": [
+        "dallas-de-vil"
+      ],
+      "eliminatedIds": [
+        "tristan-soledade"
+      ]
     },
-    "guestJudges": [{ "name": "Hugo Gloss" }]
+    "guestJudges": [
+      {
+        "name": "Hugo Gloss"
+      }
+    ]
   },
   {
     "id": "BR-S01-E04",
@@ -64,23 +119,49 @@
     "title": "Sereias do Atlântico",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["betina-polaroid"],
-      "earnings": { "amount": 5000, "currency": "BRL" }
+      "winnerIds": [
+        "betina-polaroid"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "BRL"
+      }
     },
     "maxiChallenge": {
       "name": "Create a mermaid look made from unconventional materials",
-      "winnerIds": ["hellena-malditta", "naza"]
+      "winnerIds": [
+        "hellena-malditta",
+        "naza"
+      ]
     },
     "runwayTheme": "Sereias do Atlântico (Mermaids of the Atlantic Ocean)",
-    "topIds": ["hellena-malditta", "naza", "rubi-ocean"],
-    "bottomIds": ["aquarela", "melusine-sparkle"],
+    "topIds": [
+      "hellena-malditta",
+      "naza",
+      "rubi-ocean"
+    ],
+    "bottomIds": [
+      "aquarela",
+      "melusine-sparkle"
+    ],
     "lipSync": {
       "song": "Cheguei",
-      "queenIds": ["aquarela", "melusine-sparkle"],
-      "winnerIds": ["aquarela"],
-      "eliminatedIds": ["melusine-sparkle"]
+      "queenIds": [
+        "aquarela",
+        "melusine-sparkle"
+      ],
+      "winnerIds": [
+        "aquarela"
+      ],
+      "eliminatedIds": [
+        "melusine-sparkle"
+      ]
     },
-    "guestJudges": [{ "name": "Raphael Dumaresq" }]
+    "guestJudges": [
+      {
+        "name": "Raphael Dumaresq"
+      }
+    ]
   },
   {
     "id": "BR-S01-E05",
@@ -89,23 +170,49 @@
     "title": "Glamazônia",
     "miniChallenge": {
       "name": "Get into quick drag and decorate a drag wedding cake in five minutes",
-      "winnerIds": ["betina-polaroid", "hellena-malditta"],
-      "earnings": { "amount": 2500, "currency": "BRL" }
+      "winnerIds": [
+        "betina-polaroid",
+        "hellena-malditta"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "BRL"
+      }
     },
     "maxiChallenge": {
       "name": "Create a 30-second campaign with the theme \"Você Não Está Só\" (You Are Not Alone)",
-      "winnerIds": ["shannon-skarllet"]
+      "winnerIds": [
+        "shannon-skarllet"
+      ]
     },
     "runwayTheme": "Glamazônia (Glamazon)",
-    "topIds": ["miranda-lebrao", "organzza", "shannon-skarllet"],
-    "bottomIds": ["aquarela", "dallas-de-vil"],
+    "topIds": [
+      "miranda-lebrao",
+      "organzza",
+      "shannon-skarllet"
+    ],
+    "bottomIds": [
+      "aquarela",
+      "dallas-de-vil"
+    ],
     "lipSync": {
       "song": "Vermelho",
-      "queenIds": ["aquarela", "dallas-de-vil"],
-      "winnerIds": ["dallas-de-vil"],
-      "eliminatedIds": ["aquarela"]
+      "queenIds": [
+        "aquarela",
+        "dallas-de-vil"
+      ],
+      "winnerIds": [
+        "dallas-de-vil"
+      ],
+      "eliminatedIds": [
+        "aquarela"
+      ]
     },
-    "guestJudges": [{ "name": "Esse Menino" }]
+    "guestJudges": [
+      {
+        "name": "Esse Menino"
+      }
+    ]
   },
   {
     "id": "BR-S01-E06",
@@ -114,23 +221,48 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Grávida de Taubaté inspired photoshoot",
-      "winnerIds": ["miranda-lebrao"],
-      "earnings": { "amount": 5000, "currency": "BRL" }
+      "winnerIds": [
+        "miranda-lebrao"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "BRL"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["hellena-malditta"]
+      "winnerIds": [
+        "hellena-malditta"
+      ]
     },
     "runwayTheme": "Filhas de Carmen (Daughters of Carmen)",
-    "topIds": ["dallas-de-vil", "hellena-malditta", "miranda-lebrao"],
-    "bottomIds": ["naza", "rubi-ocean"],
+    "topIds": [
+      "dallas-de-vil",
+      "hellena-malditta",
+      "miranda-lebrao"
+    ],
+    "bottomIds": [
+      "naza",
+      "rubi-ocean"
+    ],
     "lipSync": {
       "song": "Shine It On",
-      "queenIds": ["naza", "rubi-ocean"],
-      "winnerIds": ["naza"],
-      "eliminatedIds": ["rubi-ocean"]
+      "queenIds": [
+        "naza",
+        "rubi-ocean"
+      ],
+      "winnerIds": [
+        "naza"
+      ],
+      "eliminatedIds": [
+        "rubi-ocean"
+      ]
     },
-    "guestJudges": [{ "name": "Kéfera Buchmann" }]
+    "guestJudges": [
+      {
+        "name": "Kéfera Buchmann"
+      }
+    ]
   },
   {
     "id": "BR-S01-E07",
@@ -139,22 +271,44 @@
     "title": "Brazil Loves Puppets!",
     "miniChallenge": {
       "name": "Impersonate each other with puppets",
-      "winnerIds": ["miranda-lebrao"]
+      "winnerIds": [
+        "miranda-lebrao"
+      ]
     },
     "maxiChallenge": {
       "name": "Present two looks on the runway: Black and White",
-      "winnerIds": ["miranda-lebrao"]
+      "winnerIds": [
+        "miranda-lebrao"
+      ]
     },
     "runwayTheme": "Black and White",
-    "topIds": ["betina-polaroid", "miranda-lebrao", "organzza"],
-    "bottomIds": ["dallas-de-vil", "shannon-skarllet"],
+    "topIds": [
+      "betina-polaroid",
+      "miranda-lebrao",
+      "organzza"
+    ],
+    "bottomIds": [
+      "dallas-de-vil",
+      "shannon-skarllet"
+    ],
     "lipSync": {
       "song": "Decadence Avec Elegance",
-      "queenIds": ["dallas-de-vil", "shannon-skarllet"],
-      "winnerIds": ["shannon-skarllet"],
-      "eliminatedIds": ["dallas-de-vil"]
+      "queenIds": [
+        "dallas-de-vil",
+        "shannon-skarllet"
+      ],
+      "winnerIds": [
+        "shannon-skarllet"
+      ],
+      "eliminatedIds": [
+        "dallas-de-vil"
+      ]
     },
-    "guestJudges": [{ "name": "Maria Casadevall" }]
+    "guestJudges": [
+      {
+        "name": "Maria Casadevall"
+      }
+    ]
   },
   {
     "id": "BR-S01-E08",
@@ -163,23 +317,48 @@
     "title": "The Brazilian Festivals Ball",
     "miniChallenge": {
       "name": "Pose as tourists in front of the Iguazu Falls",
-      "winnerIds": ["shannon-skarllet"],
-      "earnings": { "amount": 5000, "currency": "BRL" }
+      "winnerIds": [
+        "shannon-skarllet"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "BRL"
+      }
     },
     "maxiChallenge": {
       "name": "The Brazilian Festivals Ball: Maracatu, Festival de Parintins and Bate-bola",
-      "winnerIds": ["betina-polaroid"]
+      "winnerIds": [
+        "betina-polaroid"
+      ]
     },
     "runwayTheme": "Maracatu / Festival de Parintins / Bate-bola",
-    "topIds": ["betina-polaroid", "organzza", "shannon-skarllet"],
-    "bottomIds": ["hellena-malditta", "naza"],
+    "topIds": [
+      "betina-polaroid",
+      "organzza",
+      "shannon-skarllet"
+    ],
+    "bottomIds": [
+      "hellena-malditta",
+      "naza"
+    ],
     "lipSync": {
       "song": "Dois Trabalhos",
-      "queenIds": ["hellena-malditta", "naza"],
-      "winnerIds": ["hellena-malditta"],
-      "eliminatedIds": ["naza"]
+      "queenIds": [
+        "hellena-malditta",
+        "naza"
+      ],
+      "winnerIds": [
+        "hellena-malditta"
+      ],
+      "eliminatedIds": [
+        "naza"
+      ]
     },
-    "guestJudges": [{ "name": "Bruna Linzmeyer" }]
+    "guestJudges": [
+      {
+        "name": "Bruna Linzmeyer"
+      }
+    ]
   },
   {
     "id": "BR-S01-E09",
@@ -188,21 +367,41 @@
     "title": "Drag Shade Brasil",
     "miniChallenge": {
       "name": "Do a makeup look of an assigned animal without mirrors",
-      "winnerIds": ["shannon-skarllet"]
+      "winnerIds": [
+        "shannon-skarllet"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a roast of the judges and fellow queens",
-      "winnerIds": ["betina-polaroid"]
+      "winnerIds": [
+        "betina-polaroid"
+      ]
     },
     "runwayTheme": "Glitter Glam",
-    "topIds": ["betina-polaroid", "miranda-lebrao"],
-    "bottomIds": ["organzza", "shannon-skarllet"],
+    "topIds": [
+      "betina-polaroid",
+      "miranda-lebrao"
+    ],
+    "bottomIds": [
+      "organzza",
+      "shannon-skarllet"
+    ],
     "lipSync": {
       "song": "Festa",
-      "queenIds": ["organzza", "shannon-skarllet"],
-      "winnerIds": ["organzza", "shannon-skarllet"]
+      "queenIds": [
+        "organzza",
+        "shannon-skarllet"
+      ],
+      "winnerIds": [
+        "organzza",
+        "shannon-skarllet"
+      ]
     },
-    "guestJudges": [{ "name": "Júnior Chicó" }]
+    "guestJudges": [
+      {
+        "name": "Júnior Chicó"
+      }
+    ]
   },
   {
     "id": "BR-S01-E10",
@@ -211,18 +410,37 @@
     "title": "Carnaval Makeover",
     "maxiChallenge": {
       "name": "Makeover Drag Race superfans",
-      "winnerIds": ["organzza"]
+      "winnerIds": [
+        "organzza"
+      ]
     },
     "runwayTheme": "Carnaval Makeover (Carnival Makeover)",
-    "topIds": ["hellena-malditta", "organzza"],
-    "bottomIds": ["miranda-lebrao", "shannon-skarllet"],
+    "topIds": [
+      "hellena-malditta",
+      "organzza"
+    ],
+    "bottomIds": [
+      "miranda-lebrao",
+      "shannon-skarllet"
+    ],
     "lipSync": {
       "song": "Gueto",
-      "queenIds": ["miranda-lebrao", "shannon-skarllet"],
-      "winnerIds": ["miranda-lebrao"],
-      "eliminatedIds": ["shannon-skarllet"]
+      "queenIds": [
+        "miranda-lebrao",
+        "shannon-skarllet"
+      ],
+      "winnerIds": [
+        "miranda-lebrao"
+      ],
+      "eliminatedIds": [
+        "shannon-skarllet"
+      ]
     },
-    "guestJudges": [{ "name": "Mauro Sousa" }]
+    "guestJudges": [
+      {
+        "name": "Mauro Sousa"
+      }
+    ]
   },
   {
     "id": "BR-S01-E11",
@@ -240,11 +458,24 @@
       "winnerIds": []
     },
     "runwayTheme": "Meu Melhor Look Drag (My Best Drag Look)",
-    "topIds": ["betina-polaroid", "hellena-malditta", "miranda-lebrao", "organzza"],
+    "topIds": [
+      "betina-polaroid",
+      "hellena-malditta",
+      "miranda-lebrao",
+      "organzza"
+    ],
     "lipSync": {
       "song": "Envolver",
-      "queenIds": ["betina-polaroid", "hellena-malditta", "miranda-lebrao", "organzza"],
-      "winnerIds": ["organzza"]
+      "queenIds": [
+        "betina-polaroid",
+        "hellena-malditta",
+        "miranda-lebrao",
+        "organzza"
+      ],
+      "winnerIds": [
+        "organzza"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

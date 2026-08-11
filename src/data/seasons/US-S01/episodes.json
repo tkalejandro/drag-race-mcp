@@ -6,20 +6,39 @@
     "title": "Drag on a Dime",
     "maxiChallenge": {
       "name": "Create an outfit from thrift-store items",
-      "winnerIds": ["nina-flowers"]
+      "winnerIds": [
+        "nina-flowers"
+      ]
     },
     "runwayTheme": "Drag on a Dime",
-    "topIds": ["nina-flowers", "ongina"],
-    "bottomIds": ["akashia", "victoria-porkchop-parker"],
+    "topIds": [
+      "nina-flowers",
+      "ongina"
+    ],
+    "bottomIds": [
+      "akashia",
+      "victoria-porkchop-parker"
+    ],
     "lipSync": {
       "song": "Supermodel (You Better Work)",
-      "queenIds": ["akashia", "victoria-porkchop-parker"],
-      "winnerIds": ["akashia"],
-      "eliminatedIds": ["victoria-porkchop-parker"]
+      "queenIds": [
+        "akashia",
+        "victoria-porkchop-parker"
+      ],
+      "winnerIds": [
+        "akashia"
+      ],
+      "eliminatedIds": [
+        "victoria-porkchop-parker"
+      ]
     },
     "guestJudges": [
-      { "name": "Bob Mackie" },
-      { "name": "Mike Ruiz" }
+      {
+        "name": "Bob Mackie"
+      },
+      {
+        "name": "Mike Ruiz"
+      }
     ]
   },
   {
@@ -29,23 +48,47 @@
     "title": "Girl Groups",
     "miniChallenge": {
       "name": "Act out emotions and photograph them",
-      "winnerIds": ["akashia", "ongina"]
+      "winnerIds": [
+        "akashia",
+        "ongina"
+      ]
     },
     "maxiChallenge": {
       "name": "Destiny's Child girl group battle",
-      "winnerIds": ["ongina"]
+      "winnerIds": [
+        "ongina"
+      ]
     },
-    "topIds": ["ongina", "nina-flowers", "rebecca-glasscock", "shannel"],
-    "bottomIds": ["akashia", "tammie-brown"],
+    "topIds": [
+      "ongina",
+      "nina-flowers",
+      "rebecca-glasscock",
+      "shannel"
+    ],
+    "bottomIds": [
+      "akashia",
+      "tammie-brown"
+    ],
     "lipSync": {
       "song": "We Break the Dawn",
-      "queenIds": ["akashia", "tammie-brown"],
-      "winnerIds": ["akashia"],
-      "eliminatedIds": ["tammie-brown"]
+      "queenIds": [
+        "akashia",
+        "tammie-brown"
+      ],
+      "winnerIds": [
+        "akashia"
+      ],
+      "eliminatedIds": [
+        "tammie-brown"
+      ]
     },
     "guestJudges": [
-      { "name": "Frank Gatson" },
-      { "name": "Michelle Williams" }
+      {
+        "name": "Frank Gatson"
+      },
+      {
+        "name": "Michelle Williams"
+      }
     ]
   },
   {
@@ -55,20 +98,40 @@
     "title": "Queens of All Media",
     "maxiChallenge": {
       "name": "Channel Oprah Winfrey in television personality roles",
-      "winnerIds": ["bebe-zahara-benet"]
+      "winnerIds": [
+        "bebe-zahara-benet"
+      ]
     },
     "runwayTheme": "Dress to Impress",
-    "topIds": ["bebe-zahara-benet", "nina-flowers", "ongina"],
-    "bottomIds": ["akashia", "shannel"],
+    "topIds": [
+      "bebe-zahara-benet",
+      "nina-flowers",
+      "ongina"
+    ],
+    "bottomIds": [
+      "akashia",
+      "shannel"
+    ],
     "lipSync": {
       "song": "The Greatest Love of All",
-      "queenIds": ["akashia", "shannel"],
-      "winnerIds": ["shannel"],
-      "eliminatedIds": ["akashia"]
+      "queenIds": [
+        "akashia",
+        "shannel"
+      ],
+      "winnerIds": [
+        "shannel"
+      ],
+      "eliminatedIds": [
+        "akashia"
+      ]
     },
     "guestJudges": [
-      { "name": "Howard Bragman" },
-      { "name": "Debra Wilson" }
+      {
+        "name": "Howard Bragman"
+      },
+      {
+        "name": "Debra Wilson"
+      }
     ]
   },
   {
@@ -78,23 +141,45 @@
     "title": "Mac-Viva Glam",
     "miniChallenge": {
       "name": "30-minute partner makeover",
-      "winnerIds": ["jade"]
+      "winnerIds": [
+        "jade"
+      ]
     },
     "maxiChallenge": {
       "name": "Write and film a MAC Viva Glam commercial",
-      "winnerIds": ["ongina"]
+      "winnerIds": [
+        "ongina"
+      ]
     },
-    "topIds": ["ongina", "bebe-zahara-benet", "nina-flowers"],
-    "bottomIds": ["jade", "rebecca-glasscock"],
+    "topIds": [
+      "ongina",
+      "bebe-zahara-benet",
+      "nina-flowers"
+    ],
+    "bottomIds": [
+      "jade",
+      "rebecca-glasscock"
+    ],
     "lipSync": {
       "song": "Would I Lie to You?",
-      "queenIds": ["jade", "rebecca-glasscock"],
-      "winnerIds": ["rebecca-glasscock"],
-      "eliminatedIds": ["jade"]
+      "queenIds": [
+        "jade",
+        "rebecca-glasscock"
+      ],
+      "winnerIds": [
+        "rebecca-glasscock"
+      ],
+      "eliminatedIds": [
+        "jade"
+      ]
     },
     "guestJudges": [
-      { "name": "Gordon Espinet" },
-      { "name": "Jenny Shimizu" }
+      {
+        "name": "Gordon Espinet"
+      },
+      {
+        "name": "Jenny Shimizu"
+      }
     ]
   },
   {
@@ -104,23 +189,44 @@
     "title": "Drag School of Charm",
     "miniChallenge": {
       "name": "Endurance challenge",
-      "winnerIds": ["rebecca-glasscock"]
+      "winnerIds": [
+        "rebecca-glasscock"
+      ]
     },
     "maxiChallenge": {
       "name": "Make over a female fighter into a drag daughter",
-      "winnerIds": ["rebecca-glasscock"]
+      "winnerIds": [
+        "rebecca-glasscock"
+      ]
     },
-    "topIds": ["rebecca-glasscock", "shannel"],
-    "bottomIds": ["bebe-zahara-benet", "ongina"],
+    "topIds": [
+      "rebecca-glasscock",
+      "shannel"
+    ],
+    "bottomIds": [
+      "bebe-zahara-benet",
+      "ongina"
+    ],
     "lipSync": {
       "song": "Stronger",
-      "queenIds": ["bebe-zahara-benet", "ongina"],
-      "winnerIds": ["bebe-zahara-benet"],
-      "eliminatedIds": ["ongina"]
+      "queenIds": [
+        "bebe-zahara-benet",
+        "ongina"
+      ],
+      "winnerIds": [
+        "bebe-zahara-benet"
+      ],
+      "eliminatedIds": [
+        "ongina"
+      ]
     },
     "guestJudges": [
-      { "name": "Lucy Lawless" },
-      { "name": "Robin Antin" }
+      {
+        "name": "Lucy Lawless"
+      },
+      {
+        "name": "Robin Antin"
+      }
     ]
   },
   {
@@ -130,25 +236,48 @@
     "title": "The Absolut Ball",
     "miniChallenge": {
       "name": "Vogue battle",
-      "winnerIds": ["nina-flowers"]
+      "winnerIds": [
+        "nina-flowers"
+      ]
     },
     "maxiChallenge": {
       "name": "The Absolut Drag Ball",
-      "winnerIds": ["bebe-zahara-benet"]
+      "winnerIds": [
+        "bebe-zahara-benet"
+      ]
     },
     "runwayTheme": "Swimsuit, Executive Realness, and Evening Wear",
-    "topIds": ["bebe-zahara-benet", "nina-flowers"],
-    "bottomIds": ["rebecca-glasscock", "shannel"],
+    "topIds": [
+      "bebe-zahara-benet",
+      "nina-flowers"
+    ],
+    "bottomIds": [
+      "rebecca-glasscock",
+      "shannel"
+    ],
     "lipSync": {
       "song": "Shackles (Praise You)",
-      "queenIds": ["rebecca-glasscock", "shannel"],
-      "winnerIds": ["rebecca-glasscock"],
-      "eliminatedIds": ["shannel"]
+      "queenIds": [
+        "rebecca-glasscock",
+        "shannel"
+      ],
+      "winnerIds": [
+        "rebecca-glasscock"
+      ],
+      "eliminatedIds": [
+        "shannel"
+      ]
     },
     "guestJudges": [
-      { "name": "Jeffrey Moran" },
-      { "name": "María Conchita Alonso" },
-      { "name": "Charo" }
+      {
+        "name": "Jeffrey Moran"
+      },
+      {
+        "name": "María Conchita Alonso"
+      },
+      {
+        "name": "Charo"
+      }
     ]
   },
   {
@@ -157,8 +286,12 @@
     "episodeNumber": 7,
     "title": "Extra Special Edition",
     "guestJudges": [
-      { "name": "Merle Ginsberg" },
-      { "name": "Santino Rice" }
+      {
+        "name": "Merle Ginsberg"
+      },
+      {
+        "name": "Santino Rice"
+      }
     ]
   },
   {
@@ -166,12 +299,23 @@
     "seasonId": "US-S01",
     "episodeNumber": 8,
     "title": "Grand Finale",
-    "topIds": ["bebe-zahara-benet", "nina-flowers"],
-    "bottomIds": ["rebecca-glasscock"],
+    "topIds": [
+      "bebe-zahara-benet",
+      "nina-flowers"
+    ],
+    "bottomIds": [
+      "rebecca-glasscock"
+    ],
     "lipSync": {
       "song": "Cover Girl (Put the Bass in Your Walk)",
-      "queenIds": ["bebe-zahara-benet", "nina-flowers"],
-      "winnerIds": ["bebe-zahara-benet"]
+      "queenIds": [
+        "bebe-zahara-benet",
+        "nina-flowers"
+      ],
+      "winnerIds": [
+        "bebe-zahara-benet"
+      ],
+      "kind": "for-the-crown"
     }
   },
   {

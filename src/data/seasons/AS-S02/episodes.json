@@ -6,21 +6,47 @@
     "title": "All Star Talent Show Extravaganza",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["alaska"]
+      "winnerIds": [
+        "alaska"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges and a live audience",
-      "winnerIds": ["roxxxy-andrews", "tatianna"]
+      "winnerIds": [
+        "roxxxy-andrews",
+        "tatianna"
+      ]
     },
-    "topIds": ["roxxxy-andrews", "tatianna", "alaska", "ginger-minj"],
-    "bottomIds": ["adore-delano", "coco-montrese", "phi-phi-ohara"],
+    "topIds": [
+      "roxxxy-andrews",
+      "tatianna",
+      "alaska",
+      "ginger-minj"
+    ],
+    "bottomIds": [
+      "adore-delano",
+      "coco-montrese",
+      "phi-phi-ohara"
+    ],
     "lipSync": {
       "song": "Shake It Off",
-      "queenIds": ["roxxxy-andrews", "tatianna"],
-      "winnerIds": ["roxxxy-andrews"],
-      "eliminatedIds": ["coco-montrese"]
+      "queenIds": [
+        "roxxxy-andrews",
+        "tatianna"
+      ],
+      "winnerIds": [
+        "roxxxy-andrews"
+      ],
+      "eliminatedIds": [
+        "coco-montrese"
+      ],
+      "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Raven-Symoné" }]
+    "guestJudges": [
+      {
+        "name": "Raven-Symoné"
+      }
+    ]
   },
   {
     "id": "AS-S02-E02",
@@ -29,18 +55,41 @@
     "title": "All Stars Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["alaska", "katya"]
+      "winnerIds": [
+        "alaska",
+        "katya"
+      ]
     },
     "runwayTheme": "Latex Eleganza",
-    "topIds": ["alaska", "katya", "phi-phi-ohara"],
-    "bottomIds": ["detox", "roxxxy-andrews", "tatianna"],
+    "topIds": [
+      "alaska",
+      "katya",
+      "phi-phi-ohara"
+    ],
+    "bottomIds": [
+      "detox",
+      "roxxxy-andrews",
+      "tatianna"
+    ],
     "lipSync": {
       "song": "Le Freak",
-      "queenIds": ["alaska", "katya"],
-      "winnerIds": ["alaska"],
-      "eliminatedIds": ["tatianna"]
+      "queenIds": [
+        "alaska",
+        "katya"
+      ],
+      "winnerIds": [
+        "alaska"
+      ],
+      "eliminatedIds": [
+        "tatianna"
+      ],
+      "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Ross Mathews" }]
+    "guestJudges": [
+      {
+        "name": "Ross Mathews"
+      }
+    ]
   },
   {
     "id": "AS-S02-E03",
@@ -49,18 +98,39 @@
     "title": "HERstory of the World",
     "maxiChallenge": {
       "name": "Perform a lip-syncing dance number dedicated to legendary historical women",
-      "winnerIds": ["alyssa-edwards", "detox"]
+      "winnerIds": [
+        "alyssa-edwards",
+        "detox"
+      ]
     },
     "runwayTheme": "Future of Drag",
-    "topIds": ["alyssa-edwards", "detox"],
-    "bottomIds": ["ginger-minj", "katya"],
+    "topIds": [
+      "alyssa-edwards",
+      "detox"
+    ],
+    "bottomIds": [
+      "ginger-minj",
+      "katya"
+    ],
     "lipSync": {
       "song": "Tell It to My Heart",
-      "queenIds": ["alyssa-edwards", "detox"],
-      "winnerIds": ["alyssa-edwards"],
-      "eliminatedIds": ["ginger-minj"]
+      "queenIds": [
+        "alyssa-edwards",
+        "detox"
+      ],
+      "winnerIds": [
+        "alyssa-edwards"
+      ],
+      "eliminatedIds": [
+        "ginger-minj"
+      ],
+      "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Jeremy Scott" }]
+    "guestJudges": [
+      {
+        "name": "Jeremy Scott"
+      }
+    ]
   },
   {
     "id": "AS-S02-E04",
@@ -69,18 +139,40 @@
     "title": "Drag Movie Shequels",
     "maxiChallenge": {
       "name": "In pairs, act in a parody movie sequel from one of RuPaul's favorite movies",
-      "winnerIds": ["alaska", "phi-phi-ohara"]
+      "winnerIds": [
+        "alaska",
+        "phi-phi-ohara"
+      ]
     },
     "runwayTheme": "Two Looks in One",
-    "topIds": ["alaska", "phi-phi-ohara"],
-    "bottomIds": ["alyssa-edwards", "katya", "roxxxy-andrews"],
+    "topIds": [
+      "alaska",
+      "phi-phi-ohara"
+    ],
+    "bottomIds": [
+      "alyssa-edwards",
+      "katya",
+      "roxxxy-andrews"
+    ],
     "lipSync": {
       "song": "Got to Be Real",
-      "queenIds": ["alaska", "phi-phi-ohara"],
-      "winnerIds": ["alaska"],
-      "eliminatedIds": ["alyssa-edwards"]
+      "queenIds": [
+        "alaska",
+        "phi-phi-ohara"
+      ],
+      "winnerIds": [
+        "alaska"
+      ],
+      "eliminatedIds": [
+        "alyssa-edwards"
+      ],
+      "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Nicole Scherzinger" }]
+    "guestJudges": [
+      {
+        "name": "Nicole Scherzinger"
+      }
+    ]
   },
   {
     "id": "AS-S02-E05",
@@ -89,17 +181,41 @@
     "title": "Revenge of the Queens",
     "maxiChallenge": {
       "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen",
-      "winnerIds": ["alaska", "alyssa-edwards", "detox", "tatianna"]
+      "winnerIds": [
+        "alaska",
+        "alyssa-edwards",
+        "detox",
+        "tatianna"
+      ]
     },
-    "topIds": ["alyssa-edwards", "tatianna"],
-    "bottomIds": ["phi-phi-ohara", "roxxxy-andrews"],
+    "topIds": [
+      "alyssa-edwards",
+      "tatianna"
+    ],
+    "bottomIds": [
+      "phi-phi-ohara",
+      "roxxxy-andrews"
+    ],
     "lipSync": {
       "song": "Shut Up and Drive",
-      "queenIds": ["alyssa-edwards", "tatianna"],
-      "winnerIds": ["alyssa-edwards", "tatianna"],
-      "eliminatedIds": ["phi-phi-ohara"]
+      "queenIds": [
+        "alyssa-edwards",
+        "tatianna"
+      ],
+      "winnerIds": [
+        "alyssa-edwards",
+        "tatianna"
+      ],
+      "eliminatedIds": [
+        "phi-phi-ohara"
+      ],
+      "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Ross Mathews" }]
+    "guestJudges": [
+      {
+        "name": "Ross Mathews"
+      }
+    ]
   },
   {
     "id": "AS-S02-E06",
@@ -108,22 +224,45 @@
     "title": "Drag Fish Tank",
     "miniChallenge": {
       "name": "Play a game of beastly golf",
-      "winnerIds": ["alaska"]
+      "winnerIds": [
+        "alaska"
+      ]
     },
     "maxiChallenge": {
       "name": "Create drag-influenced products",
-      "winnerIds": ["alaska", "katya"]
+      "winnerIds": [
+        "alaska",
+        "katya"
+      ]
     },
     "runwayTheme": "Pants",
-    "topIds": ["alaska", "katya"],
-    "bottomIds": ["roxxxy-andrews", "tatianna"],
+    "topIds": [
+      "alaska",
+      "katya"
+    ],
+    "bottomIds": [
+      "roxxxy-andrews",
+      "tatianna"
+    ],
     "lipSync": {
       "song": "Cherry Bomb",
-      "queenIds": ["alaska", "katya"],
-      "winnerIds": ["alaska"],
-      "eliminatedIds": ["tatianna"]
+      "queenIds": [
+        "alaska",
+        "katya"
+      ],
+      "winnerIds": [
+        "alaska"
+      ],
+      "eliminatedIds": [
+        "tatianna"
+      ],
+      "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Graham Norton" }]
+    "guestJudges": [
+      {
+        "name": "Graham Norton"
+      }
+    ]
   },
   {
     "id": "AS-S02-E07",
@@ -132,17 +271,39 @@
     "title": "Family That Drags Together",
     "maxiChallenge": {
       "name": "Makeover a family member",
-      "winnerIds": ["detox", "katya"]
+      "winnerIds": [
+        "detox",
+        "katya"
+      ]
     },
-    "topIds": ["detox", "katya"],
-    "bottomIds": ["alaska", "alyssa-edwards", "roxxxy-andrews"],
+    "topIds": [
+      "detox",
+      "katya"
+    ],
+    "bottomIds": [
+      "alaska",
+      "alyssa-edwards",
+      "roxxxy-andrews"
+    ],
     "lipSync": {
       "song": "Step It Up",
-      "queenIds": ["detox", "katya"],
-      "winnerIds": ["detox"],
-      "eliminatedIds": ["alyssa-edwards"]
+      "queenIds": [
+        "detox",
+        "katya"
+      ],
+      "winnerIds": [
+        "detox"
+      ],
+      "eliminatedIds": [
+        "alyssa-edwards"
+      ],
+      "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Aubrey Plaza" }]
+    "guestJudges": [
+      {
+        "name": "Aubrey Plaza"
+      }
+    ]
   },
   {
     "id": "AS-S02-E08",
@@ -151,8 +312,15 @@
     "title": "All Stars Supergroup",
     "lipSync": {
       "song": "If I Were Your Woman",
-      "queenIds": ["alaska", "detox", "katya"],
-      "winnerIds": ["alaska"]
+      "queenIds": [
+        "alaska",
+        "detox",
+        "katya"
+      ],
+      "winnerIds": [
+        "alaska"
+      ],
+      "kind": "for-the-crown"
     }
   },
   {
