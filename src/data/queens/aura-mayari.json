@@ -20,6 +20,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S15-E07"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E04",
+          "name": "In pairs, write, record, and perform original duets"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E04",
+          "song": "No More Tears (Enough Is Enough)"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E06"
     }
   ]
 }

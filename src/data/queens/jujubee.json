@@ -55,6 +55,33 @@
       ],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S01-E06"
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S05-E03",
+          "name": "Design and present a signature hotel suite"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S05-E01",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S05-E03",
+          "song": "Juice"
+        },
+        {
+          "episodeId": "AS-S05-E08",
+          "song": "Make Me Feel"
+        }
+      ]
     }
   ]
 }

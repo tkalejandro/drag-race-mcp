@@ -1,0 +1,71 @@
+[
+  {
+    "id": "as-s09-angeria-crown",
+    "title": "Angeria Paris VanMicheals crowned All Stars 9 winner",
+    "summary": "In the All Stars 9 finale (AS-S09-E12), Angeria Paris VanMicheals, Roxxxy Andrews, and Vanessa Vanjie lip-synced to Janet Jackson's \"Rhythm Nation\". Angeria won the Lip Sync for the Crown and the $200,000 Palette Fund charity contribution for the National Black Justice Coalition after placing third on Season 14.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "angeria-paris-vanmicheals",
+      "roxxxy-andrews",
+      "vanessa-vanjie-mateo"
+    ],
+    "seasonIds": [
+      "AS-S09"
+    ],
+    "episodeIds": [
+      "AS-S09-E12"
+    ]
+  },
+  {
+    "id": "as-s09-charity-bridging-format",
+    "title": "Charity bridging format with Beautiful Benefactress Badges",
+    "summary": "All Stars 9 cast eight queens competing for a $200,000 Palette Fund charity prize with no weekly eliminations. Top All Stars earned Beautiful Benefactress Badges; Lip Sync for Your Charity winners could cut off a safe queen from earning a badge the following week (suspended after episode 8). The three queens with the most badges advanced to the crown lip sync. Nina West won the Double Diamond contestant vote in the finale, doubling her badge total to four.",
+    "tags": [
+      "twist",
+      "all-stars",
+      "production",
+      "finale"
+    ],
+    "queenIds": [
+      "angeria-paris-vanmicheals",
+      "roxxxy-andrews",
+      "vanessa-vanjie-mateo",
+      "nina-west"
+    ],
+    "seasonIds": [
+      "AS-S09"
+    ],
+    "episodeIds": [
+      "AS-S09-E01",
+      "AS-S09-E08",
+      "AS-S09-E12"
+    ]
+  },
+  {
+    "id": "as-s09-lalaparuza-smackdown",
+    "title": "Lip Sync LaLaPaRuZa Smackdown awards badges",
+    "summary": "In All Stars 9 episode 10, all eight queens competed in a Lip Sync LaLaPaRuZa Smackdown. Round winners Angeria Paris VanMicheals, Vanessa Vanjie, Shannel, and Roxxxy Andrews advanced; Roxxxy beat Shannel in the final round to \"Break Free\", earning the Lip Sync for Your Charity win while Roxxxy and Shannel each received a Beautiful Benefactress Badge as challenge winners.",
+    "tags": [
+      "lip-sync",
+      "all-stars",
+      "twist"
+    ],
+    "queenIds": [
+      "roxxxy-andrews",
+      "shannel",
+      "angeria-paris-vanmicheals",
+      "vanessa-vanjie-mateo"
+    ],
+    "seasonIds": [
+      "AS-S09"
+    ],
+    "episodeIds": [
+      "AS-S09-E10"
+    ]
+  }
+]

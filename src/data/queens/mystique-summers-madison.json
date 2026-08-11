@@ -20,6 +20,18 @@
         }
       ],
       "eliminatedEpisodeId": "US-S02-E03"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S11-E03"
     }
+  ],
+  "aliases": [
+    "Mystique Summers"
   ]
 }

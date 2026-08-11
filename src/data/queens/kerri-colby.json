@@ -25,6 +25,21 @@
         }
       ],
       "eliminatedEpisodeId": "US-S14-E08"
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E12",
+          "song": "Disease / Joyride / Party Lights / Show Me How You Burlesque / Raise Your Glass / Whenever, Wherever / It's Raining Men"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E12",
+      "reentered": true
     }
   ]
 }

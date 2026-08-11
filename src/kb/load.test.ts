@@ -341,14 +341,14 @@ describe("loadKnowledgeBase", () => {
     );
   });
 
-  it("rejects queens not referenced by castIds or PersonRef queenId", () => {
+  it("rejects queens not referenced by castIds, lipSync, or PersonRef queenId", () => {
     const root = makeDataRoot();
     writeValidMinimalKb(root);
     writeQueen(root, minimalQueen("orphan-queen"));
 
     assert.throws(
       () => loadKnowledgeBase(root),
-      /queen "orphan-queen" is not referenced by any castIds or PersonRef queenId/,
+      /queen "orphan-queen" is not referenced by any castIds, lipSync\.queenIds, or PersonRef queenId/,
     );
   });
 });

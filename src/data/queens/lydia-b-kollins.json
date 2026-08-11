@@ -34,6 +34,45 @@
         }
       ],
       "eliminatedEpisodeId": "US-S17-E11"
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E04",
+          "name": "Design an outfit using all items inside an 8-ball"
+        },
+        {
+          "episodeId": "AS-S10-E06",
+          "name": "Perform in Starrbooty: The ReBooty, a rusical follow-up to RuPaul Is: Starbooty!"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S10-E04",
+          "song": "Love Sensation"
+        },
+        {
+          "episodeId": "AS-S10-E11",
+          "song": "Guess"
+        },
+        {
+          "episodeId": "AS-S10-E12",
+          "song": "Disease / Joyride / Party Lights / Show Me How You Burlesque / Raise Your Glass / Whenever, Wherever / It's Raining Men"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E06",
+          "song": "Texas Hold 'Em"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E12"
     }
+  ],
+  "aliases": [
+    "Lydia Butthole Kollins"
   ]
 }

@@ -28,6 +28,57 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S09",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S09-E01",
+          "name": "Write and perform original verses on RuPaul's \"Drag Queens Save the World\""
+        },
+        {
+          "episodeId": "AS-S09-E06",
+          "name": "Deliver a drag political convention roast"
+        },
+        {
+          "episodeId": "AS-S09-E07",
+          "name": "Act in a campy two-person scene opposite RuPaul"
+        },
+        {
+          "episodeId": "AS-S09-E12",
+          "name": "Slay It Forward Variety Extravaganza"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S09-E11",
+          "name": "Give a crew member a drag makeover"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S09-E01",
+          "song": "Million Dollar Bill (Freemasons Radio Mix)"
+        },
+        {
+          "episodeId": "AS-S09-E06",
+          "song": "Be My Lover"
+        },
+        {
+          "episodeId": "AS-S09-E07",
+          "song": "Lovergirl"
+        },
+        {
+          "episodeId": "AS-S09-E10",
+          "song": "My Lovin' (You're Never Gonna Get It) / When I Grow Up / You Spin Me Round (Like a Record) / Holding Out for a Hero / I'm Every Woman / Groove Is in the Heart / Break Free"
+        },
+        {
+          "episodeId": "AS-S09-E12",
+          "song": "Rhythm Nation"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

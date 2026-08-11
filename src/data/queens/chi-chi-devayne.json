@@ -38,6 +38,15 @@
         }
       ],
       "eliminatedEpisodeId": "US-S08-E09"
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S03-E04"
     }
   ]
 }

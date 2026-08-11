@@ -1,0 +1,70 @@
+[
+  {
+    "id": "as-s10-ginger-minj-crown",
+    "title": "Ginger Minj crowned Tournament of All Stars winner",
+    "summary": "In the All Stars 10 finale (AS-S10-E12), Ginger Minj and Jorgeous lip-synced to The Weather Girls' \"It's Raining Men\". Ginger won the Lip Sync Smackdown for the Crown, the $200,000 prize, and Hall of Fame induction — the first contestant to win any Drag Race franchise season on a fourth attempt after Season 7, All Stars 2, and All Stars 6.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "ginger-minj",
+      "jorgeous"
+    ],
+    "seasonIds": [
+      "AS-S10"
+    ],
+    "episodeIds": [
+      "AS-S10-E12"
+    ]
+  },
+  {
+    "id": "as-s10-tournament-format",
+    "title": "Tournament of All Stars bracket format debuts",
+    "summary": "All Stars 10 introduced the Tournament of All Stars: eighteen queens competed in three brackets of six across three episodes each. Top 2 queens earned points and lip-synced for an extra legacy point and $10,000, while non-Top queens awarded Most Valuable Queen points. The top three point-earners from each bracket advanced to two semifinal episodes with traditional eliminations, then a Lip Sync Smackdown for the Crown.",
+    "tags": [
+      "twist",
+      "all-stars",
+      "production"
+    ],
+    "queenIds": [
+      "ginger-minj",
+      "jorgeous",
+      "bosco",
+      "lydia-b-kollins"
+    ],
+    "seasonIds": [
+      "AS-S10"
+    ],
+    "episodeIds": [
+      "AS-S10-E01",
+      "AS-S10-E10",
+      "AS-S10-E12"
+    ]
+  },
+  {
+    "id": "as-s10-kerri-colby-wildcard",
+    "title": "Kerri Colby returns via Wildcard Lottery",
+    "summary": "After elimination in Bracket 2, Kerri Colby was chosen by Ts Madison and Michelle Visage (over Ross Mathews' pick of Mistress Isabelle Brooks) and won the Wildcard Lottery to re-enter for the finale Smackdown for the Crown. She lost her first-round lip sync to Ginger Minj to Lady Gaga's \"Disease\".",
+    "tags": [
+      "twist",
+      "all-stars",
+      "lip-sync",
+      "finale"
+    ],
+    "queenIds": [
+      "kerri-colby",
+      "ginger-minj",
+      "mistress-isabelle-brooks"
+    ],
+    "seasonIds": [
+      "AS-S10"
+    ],
+    "episodeIds": [
+      "AS-S10-E11",
+      "AS-S10-E12"
+    ]
+  }
+]

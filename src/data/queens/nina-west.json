@@ -34,6 +34,50 @@
       ],
       "eliminatedEpisodeId": "US-S11-E11",
       "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S09",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S09-E03",
+          "name": "Snatch Game of Love"
+        },
+        {
+          "episodeId": "AS-S09-E07",
+          "name": "Act in a campy two-person scene opposite RuPaul"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S09-E07",
+          "name": "Fruity Patootie"
+        },
+        {
+          "episodeId": "AS-S09-E08",
+          "name": "Photobomb a vacation locale"
+        },
+        {
+          "episodeId": "AS-S09-E11",
+          "name": "Give a crew member a drag makeover"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S09-E03",
+          "song": "Banana"
+        },
+        {
+          "episodeId": "AS-S09-E07",
+          "song": "Lovergirl"
+        },
+        {
+          "episodeId": "AS-S09-E10",
+          "song": "My Lovin' (You're Never Gonna Get It) / When I Grow Up / You Spin Me Round (Like a Record) / Holding Out for a Hero / I'm Every Woman / Groove Is in the Heart / Break Free"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S09-E12"
     }
   ]
 }

@@ -37,6 +37,37 @@
         }
       ],
       "eliminatedEpisodeId": "US-S11-E07"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S06-E02",
+          "name": "The Blue Ball"
+        },
+        {
+          "episodeId": "AS-S06-E09",
+          "name": "Create a magical live-action character for Drag Tots"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S06-E02",
+          "song": "Miss You Much"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E09",
+          "song": "Boom Clap"
+        },
+        {
+          "episodeId": "AS-S06-E12",
+          "song": "Stupid Love"
+        }
+      ]
     }
   ]
 }

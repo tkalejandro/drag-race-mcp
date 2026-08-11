@@ -20,6 +20,30 @@
         }
       ],
       "eliminatedEpisodeId": "US-S02-E07"
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E03",
+          "name": "The Supermarket Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S08-E10",
+          "name": "Design and model a look based on a Jean Paul Gaultier perfume bottle"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S08-E03",
+          "song": "Coconuts"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S08-E10"
     }
   ]
 }

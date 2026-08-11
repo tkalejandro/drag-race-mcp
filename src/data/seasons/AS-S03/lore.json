@@ -1,0 +1,67 @@
+[
+  {
+    "id": "as-s03-trixie-hall-of-fame",
+    "title": "Trixie Mattel inducted into the Hall of Fame",
+    "summary": "In the All Stars 3 finale (AS-S03-E08), a jury of eliminated queens voted Kennedy Davenport and Trixie Mattel into the final lip sync. Trixie won the Lip Sync for the Crown to Miley Cyrus's \"Wrecking Ball\" and was crowned the third All Stars winner with $100,000.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "trixie-mattel",
+      "kennedy-davenport"
+    ],
+    "seasonIds": [
+      "AS-S03"
+    ],
+    "episodeIds": [
+      "AS-S03-E08"
+    ]
+  },
+  {
+    "id": "as-s03-bendela-quit",
+    "title": "BenDeLaCreme quits after winning",
+    "summary": "On AS-S03-E06, BenDeLaCreme won the Lip Sync for Your Legacy against BeBe Zahara Benet, chose Morgan McMichaels to return, then eliminated herself by writing her own name in whiteout on another contestant's lipstick — quitting while undefeated in challenges.",
+    "tags": [
+      "twist",
+      "iconic",
+      "all-stars",
+      "lip-sync"
+    ],
+    "queenIds": [
+      "bendelacreme",
+      "morgan-mcmichaels",
+      "bebe-zahara-benet"
+    ],
+    "seasonIds": [
+      "AS-S03"
+    ],
+    "episodeIds": [
+      "AS-S03-E06"
+    ]
+  },
+  {
+    "id": "as-s03-jury-vote",
+    "title": "All Stars 3 jury of their queers",
+    "summary": "Eliminated queens returned as jurors in AS-S03-E08 and voted which of the final four (BeBe, Kennedy, Shangela, Trixie) would lip sync for the crown. Kennedy and Trixie advanced; BeBe and Shangela were eliminated by the jury vote.",
+    "tags": [
+      "finale",
+      "twist",
+      "all-stars"
+    ],
+    "queenIds": [
+      "trixie-mattel",
+      "kennedy-davenport",
+      "bebe-zahara-benet",
+      "shangela"
+    ],
+    "seasonIds": [
+      "AS-S03"
+    ],
+    "episodeIds": [
+      "AS-S03-E08"
+    ]
+  }
+]

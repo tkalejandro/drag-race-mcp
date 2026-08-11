@@ -40,6 +40,37 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E06",
+          "name": "JOAN: The Unauthorized Rusical!"
+        },
+        {
+          "episodeId": "AS-S08-E10",
+          "name": "Give lesbians drag makeovers"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S08-E06",
+          "song": "I'm Not Perfect (But I'm Perfect for You)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S08-E10",
+          "song": "Jumpin', Jumpin'"
+        },
+        {
+          "episodeId": "AS-S08-E12",
+          "song": "Do Ya Wanna Funk"
+        }
+      ]
     }
   ]
 }

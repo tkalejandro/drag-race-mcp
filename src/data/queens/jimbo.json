@@ -20,7 +20,57 @@
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E09", "song": "Closer" }
+        {
+          "episodeId": "CA-S01-E09",
+          "song": "Closer"
+        }
+      ]
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E02",
+          "name": "Perform in a sketch comedy of RDR Live"
+        },
+        {
+          "episodeId": "AS-S08-E04",
+          "name": "Star in a scripted TV series trailer"
+        },
+        {
+          "episodeId": "AS-S08-E05",
+          "name": "Snatch Game of Love"
+        },
+        {
+          "episodeId": "AS-S08-E09",
+          "name": "A roast of Carson Kressley"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S08-E09",
+          "song": "Freak-A-Zoid"
+        },
+        {
+          "episodeId": "AS-S08-E12",
+          "song": "Do Ya Wanna Funk"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S08-E02",
+          "song": "She Bop"
+        },
+        {
+          "episodeId": "AS-S08-E04",
+          "song": "Bad Reputation"
+        },
+        {
+          "episodeId": "AS-S08-E05",
+          "song": "Hallucinate"
+        }
       ]
     }
   ]

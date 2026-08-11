@@ -15,6 +15,29 @@
         }
       ],
       "eliminatedEpisodeId": "US-S12-E08"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S06-E04",
+          "name": "All Stars 6 Hall of Fame Half-Time Show"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E04",
+          "song": "Womanizer"
+        },
+        {
+          "episodeId": "AS-S06-E10",
+          "song": "Free Your Mind / Girls Just Want to Have Fun / Point of No Return / Song for the Lonely / Barbie Girl / Heartbreaker / Focus / Since U Been Gone"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S06-E07"
     }
   ]
 }

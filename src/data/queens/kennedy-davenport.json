@@ -42,6 +42,61 @@
         }
       ],
       "eliminatedEpisodeId": "US-S07-E12"
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S03-E03",
+          "name": "In pairs, improvise in an unscripted dating show inspired by The Bachelor called \"The Bitchelor\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S03-E03",
+          "song": "Green Light"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S03-E08",
+          "song": "Wrecking Ball"
+        }
+      ]
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E08",
+          "name": "Write and perform verses roasting each other in the Rappin' Roast"
+        },
+        {
+          "episodeId": "AS-S11-E09",
+          "name": "Lip-sync interviews from The RuPaul Show portraying RuPaul and celebrity guests"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E08",
+          "song": "The Ladies Who Lunch"
+        },
+        {
+          "episodeId": "AS-S11-E09",
+          "song": "Breakin' Dishes"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E10",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E10"
     }
   ]
 }

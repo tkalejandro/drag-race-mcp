@@ -45,6 +45,47 @@
           "song": "Heartbreak Hotel (Hex Hector Remix)"
         }
       ]
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E02",
+          "name": "Perform in the improv murder mystery \"Murder on the Dance Floor\""
+        },
+        {
+          "episodeId": "AS-S10-E03",
+          "name": "Give drag makeovers to collegiate women's basketball players and perform original verses with them"
+        },
+        {
+          "episodeId": "AS-S10-E11",
+          "name": "Perform a talent in the Tournament of All Stars Talent Invitational"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S10-E11",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S10-E02",
+          "song": "Murder on the Dancefloor"
+        },
+        {
+          "episodeId": "AS-S10-E12",
+          "song": "Disease / Joyride / Party Lights / Show Me How You Burlesque / Raise Your Glass / Whenever, Wherever / It's Raining Men"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E03",
+          "song": "Pocketbook"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E12"
     }
   ]
 }

@@ -28,6 +28,47 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S09",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S09-E02",
+          "name": "The Paint Ball"
+        },
+        {
+          "episodeId": "AS-S09-E03",
+          "name": "Snatch Game of Love"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S09-E05",
+          "name": "Teletubbies Soul Train Dance-off"
+        },
+        {
+          "episodeId": "AS-S09-E11",
+          "name": "Give a crew member a drag makeover"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S09-E02",
+          "song": "Jump in the Line (Shake, Senora)"
+        },
+        {
+          "episodeId": "AS-S09-E03",
+          "song": "Banana"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S09-E10",
+          "song": "My Lovin' (You're Never Gonna Get It) / When I Grow Up / You Spin Me Round (Like a Record) / Holding Out for a Hero / I'm Every Woman / Groove Is in the Heart / Break Free"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S09-E12"
     }
   ]
 }

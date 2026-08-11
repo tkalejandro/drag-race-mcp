@@ -1,0 +1,66 @@
+[
+  {
+    "id": "as-s05-shea-coulee-crown",
+    "title": "Shea Couleé inducted into the Hall of Fame",
+    "summary": "In the All Stars 5 finale (AS-S05-E08), Shea Couleé, Jujubee, and Miz Cracker lip-synced to Janelle Monáe's \"Make Me Feel\". Shea Couleé won the Lip Sync for the Crown, earning the $100,000 prize, Anastasia Beverly Hills cosmetics, and Hall of Fame induction after placing third on Season 9.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "shea-coulee",
+      "jujubee",
+      "miz-cracker"
+    ],
+    "seasonIds": [
+      "AS-S05"
+    ],
+    "episodeIds": [
+      "AS-S05-E08"
+    ]
+  },
+  {
+    "id": "as-s05-lip-sync-assassin-twist",
+    "title": "Lip Sync Assassin format debuts",
+    "summary": "All Stars 5 replaced the Top 2 Lip Sync for Your Legacy with a single challenge winner who lipsyncs against a guest Lip Sync Assassin from the Legendary Legend Library. If the All Star wins, she eliminates a bottom queen and takes $10,000; if the Assassin wins, the remaining queens' majority vote decides who leaves and the tip rolls over.",
+    "tags": [
+      "twist",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "yvie-oddly",
+      "india-ferrah"
+    ],
+    "seasonIds": [
+      "AS-S05"
+    ],
+    "episodeIds": [
+      "AS-S05-E01"
+    ]
+  },
+  {
+    "id": "as-s05-morgan-double-win",
+    "title": "Miz Cracker and Morgan McMichaels double shantay",
+    "summary": "On AS-S05-E04, Top All Star Miz Cracker and Lip Sync Assassin Morgan McMichaels both won the lip sync to Rihanna's \"Where Have You Been\". Both Cracker and the group had voted Mayhem Miller out, so Mayhem left; Morgan's shared win counted as an Assassin victory contribution for the week.",
+    "tags": [
+      "lip-sync",
+      "iconic",
+      "all-stars",
+      "double-shantay"
+    ],
+    "queenIds": [
+      "miz-cracker",
+      "morgan-mcmichaels",
+      "mayhem-miller"
+    ],
+    "seasonIds": [
+      "AS-S05"
+    ],
+    "episodeIds": [
+      "AS-S05-E04"
+    ]
+  }
+]

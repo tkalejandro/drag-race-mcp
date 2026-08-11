@@ -29,6 +29,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S13-E10"
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 11,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E08",
+          "name": "Perform original verses in Stagecooch country festival groups \"Key Your Car\" and \"Trailer Hitch\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E08",
+          "song": "See You Again"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E09"
     }
   ]
 }

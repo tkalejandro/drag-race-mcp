@@ -1,0 +1,461 @@
+[
+  {
+    "id": "AS-S10-E01",
+    "seasonId": "AS-S10",
+    "episodeNumber": 1,
+    "title": "Winner Winner, Chicken Dinner",
+    "maxiChallenge": {
+      "name": "Write and perform original verses to \"Winner Winner, Chicken Dinner\" with choreography by Jamal Sims",
+      "winnerIds": [
+        "aja",
+        "irene-dubois"
+      ]
+    },
+    "runwayTheme": "Tits and Slits",
+    "topIds": [
+      "aja",
+      "irene-dubois"
+    ],
+    "bottomIds": [
+      "bosco",
+      "deja-skye",
+      "olivia-lux",
+      "phoenix"
+    ],
+    "lipSync": {
+      "song": "Think U the Shit (Fart)",
+      "queenIds": [
+        "aja",
+        "irene-dubois"
+      ],
+      "winnerIds": [
+        "aja"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Ice Spice"
+      }
+    ]
+  },
+  {
+    "id": "AS-S10-E02",
+    "seasonId": "AS-S10",
+    "episodeNumber": 2,
+    "title": "Murder on the Dance Floor",
+    "maxiChallenge": {
+      "name": "Perform in the improv murder mystery \"Murder on the Dance Floor\"",
+      "winnerIds": [
+        "bosco",
+        "irene-dubois"
+      ]
+    },
+    "runwayTheme": "Coming and Going",
+    "topIds": [
+      "bosco",
+      "irene-dubois"
+    ],
+    "bottomIds": [
+      "aja",
+      "deja-skye",
+      "olivia-lux",
+      "phoenix"
+    ],
+    "lipSync": {
+      "song": "Murder on the Dancefloor",
+      "queenIds": [
+        "bosco",
+        "irene-dubois"
+      ],
+      "winnerIds": [
+        "bosco"
+      ],
+      "kind": "for-the-win"
+    }
+  },
+  {
+    "id": "AS-S10-E03",
+    "seasonId": "AS-S10",
+    "episodeNumber": 3,
+    "title": "Hoop Queens Makeovers",
+    "maxiChallenge": {
+      "name": "Give drag makeovers to collegiate women's basketball players and perform original verses with them",
+      "winnerIds": [
+        "bosco",
+        "irene-dubois"
+      ]
+    },
+    "runwayTheme": "Drag Family Resemblance",
+    "topIds": [
+      "bosco",
+      "irene-dubois"
+    ],
+    "bottomIds": [
+      "aja",
+      "deja-skye",
+      "olivia-lux",
+      "phoenix"
+    ],
+    "lipSync": {
+      "song": "Pocketbook",
+      "queenIds": [
+        "bosco",
+        "irene-dubois"
+      ],
+      "winnerIds": [
+        "irene-dubois"
+      ],
+      "kind": "for-the-win"
+    }
+  },
+  {
+    "id": "AS-S10-E04",
+    "seasonId": "AS-S10",
+    "episodeNumber": 4,
+    "title": "Eight Ball",
+    "maxiChallenge": {
+      "name": "Design an outfit using all items inside an 8-ball",
+      "winnerIds": [
+        "lydia-b-kollins",
+        "tina-burner"
+      ]
+    },
+    "runwayTheme": "Eight Ball Eleganza",
+    "topIds": [
+      "lydia-b-kollins",
+      "tina-burner"
+    ],
+    "bottomIds": [
+      "jorgeous",
+      "kerri-colby",
+      "mistress-isabelle-brooks",
+      "nicole-paige-brooks"
+    ],
+    "lipSync": {
+      "song": "Love Sensation",
+      "queenIds": [
+        "lydia-b-kollins",
+        "tina-burner"
+      ],
+      "winnerIds": [
+        "lydia-b-kollins"
+      ],
+      "kind": "for-the-win"
+    }
+  },
+  {
+    "id": "AS-S10-E05",
+    "seasonId": "AS-S10",
+    "episodeNumber": 5,
+    "title": "Rappin' Roast",
+    "maxiChallenge": {
+      "name": "Write and perform verses roasting each other in the Rappin' Roast",
+      "winnerIds": [
+        "jorgeous",
+        "mistress-isabelle-brooks"
+      ]
+    },
+    "runwayTheme": "Little Shop of Whores",
+    "topIds": [
+      "jorgeous",
+      "mistress-isabelle-brooks"
+    ],
+    "bottomIds": [
+      "kerri-colby",
+      "lydia-b-kollins",
+      "nicole-paige-brooks",
+      "tina-burner"
+    ],
+    "lipSync": {
+      "song": "Hot to Go!",
+      "queenIds": [
+        "jorgeous",
+        "mistress-isabelle-brooks"
+      ],
+      "winnerIds": [
+        "jorgeous",
+        "mistress-isabelle-brooks"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Chappell Roan"
+      }
+    ]
+  },
+  {
+    "id": "AS-S10-E06",
+    "seasonId": "AS-S10",
+    "episodeNumber": 6,
+    "title": "Starrbooty: The ReBooty",
+    "maxiChallenge": {
+      "name": "Perform in Starrbooty: The ReBooty, a rusical follow-up to RuPaul Is: Starbooty!",
+      "winnerIds": [
+        "jorgeous",
+        "lydia-b-kollins"
+      ]
+    },
+    "runwayTheme": "Wild Wild West",
+    "topIds": [
+      "jorgeous",
+      "lydia-b-kollins"
+    ],
+    "bottomIds": [
+      "kerri-colby",
+      "mistress-isabelle-brooks",
+      "nicole-paige-brooks",
+      "tina-burner"
+    ],
+    "lipSync": {
+      "song": "Texas Hold 'Em",
+      "queenIds": [
+        "jorgeous",
+        "lydia-b-kollins"
+      ],
+      "winnerIds": [
+        "jorgeous"
+      ],
+      "kind": "for-the-win"
+    }
+  },
+  {
+    "id": "AS-S10-E07",
+    "seasonId": "AS-S10",
+    "episodeNumber": 7,
+    "title": "Wicked Good",
+    "maxiChallenge": {
+      "name": "In pairs, create good and wicked witch looks with an enchanting backstory",
+      "winnerIds": [
+        "daya-betty",
+        "ginger-minj"
+      ]
+    },
+    "runwayTheme": "Good Witch and Wicked Witch",
+    "topIds": [
+      "daya-betty",
+      "ginger-minj"
+    ],
+    "bottomIds": [
+      "acid-betty",
+      "alyssa-hunter",
+      "cynthia-lee-fontaine",
+      "denali"
+    ],
+    "lipSync": {
+      "song": "Defying Gravity",
+      "queenIds": [
+        "daya-betty",
+        "ginger-minj"
+      ],
+      "winnerIds": [
+        "ginger-minj"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Ariana Grande"
+      }
+    ]
+  },
+  {
+    "id": "AS-S10-E08",
+    "seasonId": "AS-S10",
+    "episodeNumber": 8,
+    "title": "Stagecooch",
+    "maxiChallenge": {
+      "name": "Perform original verses in Stagecooch country festival groups \"Key Your Car\" and \"Trailer Hitch\"",
+      "winnerIds": [
+        "denali",
+        "ginger-minj"
+      ]
+    },
+    "runwayTheme": "Night of a Thousand Mileys",
+    "topIds": [
+      "denali",
+      "ginger-minj"
+    ],
+    "bottomIds": [
+      "acid-betty",
+      "alyssa-hunter",
+      "cynthia-lee-fontaine",
+      "daya-betty"
+    ],
+    "lipSync": {
+      "song": "See You Again",
+      "queenIds": [
+        "denali",
+        "ginger-minj"
+      ],
+      "winnerIds": [
+        "ginger-minj"
+      ],
+      "kind": "for-the-win"
+    }
+  },
+  {
+    "id": "AS-S10-E09",
+    "seasonId": "AS-S10",
+    "episodeNumber": 9,
+    "title": "The Golden Bitchelor",
+    "maxiChallenge": {
+      "name": "Improvise as dogs courting a Golden Retriever on a dating show with Zane Phillips",
+      "winnerIds": [
+        "daya-betty",
+        "ginger-minj"
+      ]
+    },
+    "runwayTheme": "Paper Dolls",
+    "topIds": [
+      "daya-betty",
+      "ginger-minj"
+    ],
+    "bottomIds": [
+      "acid-betty",
+      "alyssa-hunter",
+      "cynthia-lee-fontaine",
+      "denali"
+    ],
+    "lipSync": {
+      "song": "Mama Used to Say",
+      "queenIds": [
+        "daya-betty",
+        "ginger-minj"
+      ],
+      "winnerIds": [
+        "daya-betty"
+      ],
+      "kind": "for-the-win"
+    }
+  },
+  {
+    "id": "AS-S10-E10",
+    "seasonId": "AS-S10",
+    "episodeNumber": 10,
+    "title": "Tournament of All Stars Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "ginger-minj"
+      ]
+    },
+    "runwayTheme": "Tirami-Suit",
+    "topIds": [
+      "ginger-minj"
+    ],
+    "bottomIds": [
+      "cynthia-lee-fontaine",
+      "mistress-isabelle-brooks"
+    ],
+    "lipSync": {
+      "song": "Who's Zoomin' Who (Acappella Mix)",
+      "queenIds": [
+        "cynthia-lee-fontaine",
+        "mistress-isabelle-brooks"
+      ],
+      "winnerIds": [
+        "mistress-isabelle-brooks"
+      ],
+      "eliminatedIds": [
+        "cynthia-lee-fontaine"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Sarah Michelle Gellar"
+      }
+    ]
+  },
+  {
+    "id": "AS-S10-E11",
+    "seasonId": "AS-S10",
+    "episodeNumber": 11,
+    "title": "Tournament of All Stars Talent Invitational",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "bosco"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent in the Tournament of All Stars Talent Invitational",
+      "winnerIds": [
+        "bosco"
+      ]
+    },
+    "runwayTheme": "Foiled Again",
+    "topIds": [
+      "bosco"
+    ],
+    "bottomIds": [
+      "lydia-b-kollins",
+      "mistress-isabelle-brooks"
+    ],
+    "lipSync": {
+      "song": "Guess",
+      "queenIds": [
+        "lydia-b-kollins",
+        "mistress-isabelle-brooks"
+      ],
+      "winnerIds": [
+        "lydia-b-kollins"
+      ],
+      "eliminatedIds": [
+        "mistress-isabelle-brooks"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Devery Jacobs"
+      }
+    ]
+  },
+  {
+    "id": "AS-S10-E12",
+    "seasonId": "AS-S10",
+    "episodeNumber": 12,
+    "title": "Tournament of All Stars Smackdown for the Crown",
+    "maxiChallenge": {
+      "name": "Lip Sync Smackdown for the Crown",
+      "winnerIds": [
+        "ginger-minj"
+      ]
+    },
+    "topIds": [
+      "ginger-minj",
+      "jorgeous"
+    ],
+    "lipSync": {
+      "song": "Disease / Joyride / Party Lights / Show Me How You Burlesque / Raise Your Glass / Whenever, Wherever / It's Raining Men",
+      "queenIds": [
+        "ginger-minj",
+        "kerri-colby",
+        "irene-dubois",
+        "lydia-b-kollins",
+        "aja",
+        "jorgeous",
+        "bosco",
+        "daya-betty"
+      ],
+      "winnerIds": [
+        "ginger-minj",
+        "lydia-b-kollins",
+        "jorgeous",
+        "bosco"
+      ],
+      "eliminatedIds": [
+        "kerri-colby",
+        "irene-dubois",
+        "aja",
+        "daya-betty",
+        "bosco",
+        "lydia-b-kollins"
+      ],
+      "kind": "smackdown"
+    }
+  }
+]

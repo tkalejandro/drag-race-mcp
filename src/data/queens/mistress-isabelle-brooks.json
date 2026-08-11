@@ -19,6 +19,34 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 9,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E05",
+          "name": "Write and perform verses roasting each other in the Rappin' Roast"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S10-E05",
+          "song": "Hot to Go!"
+        },
+        {
+          "episodeId": "AS-S10-E10",
+          "song": "Who's Zoomin' Who (Acappella Mix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E11",
+          "song": "Guess"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E11"
     }
   ]
 }

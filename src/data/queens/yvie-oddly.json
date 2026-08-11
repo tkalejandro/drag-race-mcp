@@ -19,6 +19,30 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S07",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S07-E06",
+          "name": "Write, record, and perform throwback tracks as Y2K girl groups"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S07-E12",
+          "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S07-E06",
+          "song": "Why'd You Come in Here Lookin' Like That"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S07-E12"
     }
   ]
 }

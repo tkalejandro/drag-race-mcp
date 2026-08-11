@@ -20,6 +20,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S11-E02"
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E01",
+          "name": "Write and perform an original verse to a disco or glam-rock rendition of \"Money, Success, Fame, Glamour\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S08-E01",
+          "song": "Freakum Dress"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S08-E07"
     }
   ]
 }

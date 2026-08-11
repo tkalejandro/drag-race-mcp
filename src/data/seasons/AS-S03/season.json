@@ -1,0 +1,59 @@
+{
+  "id": "AS-S03",
+  "franchise": "AS",
+  "name": "RuPaul's Drag Race All Stars Season 3",
+  "seasonNumber": 3,
+  "year": 2018,
+  "episodeCount": 8,
+  "episodeIds": [
+    "AS-S03-E01",
+    "AS-S03-E02",
+    "AS-S03-E03",
+    "AS-S03-E04",
+    "AS-S03-E05",
+    "AS-S03-E06",
+    "AS-S03-E07",
+    "AS-S03-E08"
+  ],
+  "castIds": [
+    "trixie-mattel",
+    "kennedy-davenport",
+    "bebe-zahara-benet",
+    "shangela",
+    "morgan-mcmichaels",
+    "bendelacreme",
+    "aja",
+    "chi-chi-devayne",
+    "milk",
+    "thorgy-thor"
+  ],
+  "winnerId": "trixie-mattel",
+  "runnerUpIds": [
+    "kennedy-davenport"
+  ],
+  "porkchopId": "morgan-mcmichaels",
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
+}

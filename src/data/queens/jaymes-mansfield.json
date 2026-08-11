@@ -15,6 +15,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S09-E02"
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E11",
+          "name": "Fame Games Variety Extravaganza"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S08-E11",
+          "song": "Rain on Me"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S08-E06"
     }
   ]
 }

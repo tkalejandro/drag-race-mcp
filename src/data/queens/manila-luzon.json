@@ -64,6 +64,42 @@
         }
       ],
       "eliminatedEpisodeId": "AS-S01-E03"
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S04-E03",
+          "name": "Snatch Game of Love"
+        },
+        {
+          "episodeId": "AS-S04-E04",
+          "name": "Improvise in the courtroom show \"Jersey Justice\""
+        },
+        {
+          "episodeId": "AS-S04-E05",
+          "name": "Perform a roast of Lady Bunny, the judges, and fellow queens"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S04-E03",
+          "song": "How Will I Know"
+        },
+        {
+          "episodeId": "AS-S04-E05",
+          "song": "Jump to It"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S04-E04",
+          "song": "The Bitch Is Back"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S04-E08"
     }
   ]
 }

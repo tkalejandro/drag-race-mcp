@@ -31,6 +31,113 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S04-E01",
+          "name": "Perform a talent show in front of the judges and a live audience"
+        },
+        {
+          "episodeId": "AS-S04-E03",
+          "name": "Snatch Game of Love"
+        },
+        {
+          "episodeId": "AS-S04-E06",
+          "name": "Lip-sync LaLaPaRUza smackdown"
+        },
+        {
+          "episodeId": "AS-S04-E07",
+          "name": "In teams, create and host your own nightclub"
+        },
+        {
+          "episodeId": "AS-S04-E09",
+          "name": "Star in a Sex and the City mockumentary \"Sex and the Kitty, Girl 3\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S04-E01",
+          "song": "Emotions"
+        },
+        {
+          "episodeId": "AS-S04-E06",
+          "song": "Peanut Butter / Kitty Girl / Adrenaline / Sissy That Walk"
+        },
+        {
+          "episodeId": "AS-S04-E09",
+          "song": "When I Think of You"
+        },
+        {
+          "episodeId": "AS-S04-E10",
+          "song": "Fighter"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S04-E03",
+          "song": "How Will I Know"
+        },
+        {
+          "episodeId": "AS-S04-E07",
+          "song": "You Spin Me Round (Like a Record)"
+        }
+      ]
+    },
+    {
+      "seasonId": "AS-S07",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S07-E02",
+          "name": "Snatch Game (impersonate two celebrities)"
+        },
+        {
+          "episodeId": "AS-S07-E03",
+          "name": "The Realness of Fortune Ball"
+        },
+        {
+          "episodeId": "AS-S07-E07",
+          "name": "Design, construct, and present RuPaul-inspired Legendary Legend Looks"
+        },
+        {
+          "episodeId": "AS-S07-E10",
+          "name": "Perform a roast at the Kennedy Davenport Center Honors Hall of Shade"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S07-E07",
+          "song": "I Want Love"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S07-E02",
+          "song": "Rumour Has It"
+        },
+        {
+          "episodeId": "AS-S07-E03",
+          "song": "Green Light"
+        },
+        {
+          "episodeId": "AS-S07-E10",
+          "song": "Kings & Queens"
+        },
+        {
+          "episodeId": "AS-S07-E12",
+          "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S07-E12"
     }
+  ],
+  "aliases": [
+    "Trinity the Tuck",
+    "Trinity Taylor"
   ]
 }

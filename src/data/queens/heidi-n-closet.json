@@ -34,6 +34,16 @@
       ],
       "eliminatedEpisodeId": "US-S12-E11",
       "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S08-E05",
+      "quit": true
     }
   ]
 }

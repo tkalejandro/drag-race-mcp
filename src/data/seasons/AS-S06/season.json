@@ -1,0 +1,68 @@
+{
+  "id": "AS-S06",
+  "franchise": "AS",
+  "name": "RuPaul's Drag Race All Stars Season 6",
+  "seasonNumber": 6,
+  "year": 2021,
+  "episodeCount": 12,
+  "episodeIds": [
+    "AS-S06-E01",
+    "AS-S06-E02",
+    "AS-S06-E03",
+    "AS-S06-E04",
+    "AS-S06-E05",
+    "AS-S06-E06",
+    "AS-S06-E07",
+    "AS-S06-E08",
+    "AS-S06-E09",
+    "AS-S06-E10",
+    "AS-S06-E11",
+    "AS-S06-E12"
+  ],
+  "castIds": [
+    "sonique",
+    "eureka",
+    "ginger-minj",
+    "ra-jah-ohara",
+    "trinity-k-bonet",
+    "pandora-boxx",
+    "jan",
+    "akeria-c-davenport",
+    "scarlet-envy",
+    "yara-sofia",
+    "silky-nutmeg-ganache",
+    "jiggly-caliente",
+    "serena-chacha"
+  ],
+  "winnerId": "sonique",
+  "runnerUpIds": [
+    "eureka",
+    "ginger-minj",
+    "ra-jah-ohara"
+  ],
+  "porkchopId": "serena-chacha",
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
+}

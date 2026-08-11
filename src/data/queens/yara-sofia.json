@@ -59,6 +59,29 @@
         }
       ],
       "eliminatedEpisodeId": "AS-S01-E04"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S06-E01",
+          "name": "Perform a talent show in front of the judges"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E01",
+          "song": "Uptown Funk"
+        },
+        {
+          "episodeId": "AS-S06-E10",
+          "song": "Free Your Mind / Girls Just Want to Have Fun / Point of No Return / Song for the Lonely / Barbie Girl / Heartbreaker / Focus / Since U Been Gone"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S06-E04"
     }
   ]
 }

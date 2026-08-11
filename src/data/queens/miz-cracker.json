@@ -20,6 +20,45 @@
         }
       ],
       "eliminatedEpisodeId": "US-S10-E11"
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S05-E04",
+          "name": "Improv in a drag queen spoof of TMZ called SheMZ"
+        },
+        {
+          "episodeId": "AS-S05-E06",
+          "name": "Present a Country Cousin character and a garden-materials Backyard Eleganza look"
+        },
+        {
+          "episodeId": "AS-S05-E07",
+          "name": "Perform a stand-up comedy routine"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S05-E04",
+          "song": "Where Have You Been"
+        },
+        {
+          "episodeId": "AS-S05-E07",
+          "song": "Fancy"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S05-E06",
+          "song": "One Last Time"
+        },
+        {
+          "episodeId": "AS-S05-E08",
+          "song": "Make Me Feel"
+        }
+      ]
     }
   ]
 }

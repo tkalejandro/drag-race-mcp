@@ -34,6 +34,84 @@
       ],
       "eliminatedEpisodeId": "US-S10-E10",
       "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S04-E02",
+          "name": "Write, record, and perform original verses in girl groups"
+        },
+        {
+          "episodeId": "AS-S04-E05",
+          "name": "Perform a roast of Lady Bunny, the judges, and fellow queens"
+        },
+        {
+          "episodeId": "AS-S04-E08",
+          "name": "Makeover your best Judy's"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S04-E05",
+          "song": "Jump to It"
+        },
+        {
+          "episodeId": "AS-S04-E10",
+          "song": "Fighter"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S04-E02",
+          "song": "Into You"
+        },
+        {
+          "episodeId": "AS-S04-E08",
+          "song": "Come Rain or Come Shine"
+        }
+      ]
+    },
+    {
+      "seasonId": "AS-S07",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S07-E01",
+          "name": "Write and perform original verses on RuPaul's \"Legends\""
+        },
+        {
+          "episodeId": "AS-S07-E09",
+          "name": "Choreograph and perform viral social media dance challenge videos"
+        },
+        {
+          "episodeId": "AS-S07-E11",
+          "name": "Perform a variety show number"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S07-E09",
+          "song": "The Night the Lights Went Out in Georgia (Dixie Carter as Julia Sugarbaker)"
+        },
+        {
+          "episodeId": "AS-S07-E12",
+          "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S07-E01",
+          "song": "Old MacDonald"
+        },
+        {
+          "episodeId": "AS-S07-E11",
+          "song": "Supernova"
+        }
+      ]
     }
   ]
 }

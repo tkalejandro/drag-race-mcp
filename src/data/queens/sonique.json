@@ -18,6 +18,37 @@
         }
       ],
       "eliminatedEpisodeId": "US-S02-E04"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S06-E06",
+          "name": "Act in RuMerican Horror Story: Coven Girls"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S06-E09",
+          "name": "All Star Class Superlatives"
+        },
+        {
+          "episodeId": "AS-S06-E11",
+          "name": "Pride quick drag photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S06-E06",
+          "song": "Dirrty"
+        },
+        {
+          "episodeId": "AS-S06-E12",
+          "song": "Stupid Love"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

@@ -55,6 +55,40 @@
         }
       ],
       "eliminatedEpisodeId": "US-S03-E11"
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S03-E02",
+          "name": "Perform a lip-syncing dance number inspired by VH1 Divas"
+        },
+        {
+          "episodeId": "AS-S03-E04",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "AS-S03-E07",
+          "name": "Star in the raunchy girl comedy \"My Best Squirrelfriend's Dragsmaids Wedding Trip\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S03-E02",
+          "song": "Jump (For My Love)"
+        },
+        {
+          "episodeId": "AS-S03-E04",
+          "song": "I Kissed a Girl"
+        },
+        {
+          "episodeId": "AS-S03-E07",
+          "song": "Freaky Money"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

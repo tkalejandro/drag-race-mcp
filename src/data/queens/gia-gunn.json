@@ -15,6 +15,20 @@
         }
       ],
       "eliminatedEpisodeId": "US-S06-E05"
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S04-E06",
+          "song": "Peanut Butter / Kitty Girl / Adrenaline / Sissy That Walk"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S04-E06"
     }
   ]
 }

@@ -26,6 +26,33 @@
       ],
       "eliminatedEpisodeId": "US-S13-E07",
       "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E07",
+          "name": "Improvise in the true-crime spoof \"Forensic Queens: Wha-Ha-Happened to Lil' Poundcake?\""
+        },
+        {
+          "episodeId": "AS-S08-E11",
+          "name": "Fame Games Variety Extravaganza"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S08-E07",
+          "song": "About Damn Time"
+        },
+        {
+          "episodeId": "AS-S08-E11",
+          "song": "Rain on Me"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S08-E08"
     }
   ]
 }

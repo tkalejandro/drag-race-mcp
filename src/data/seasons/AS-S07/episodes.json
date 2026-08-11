@@ -1,0 +1,427 @@
+[
+  {
+    "id": "AS-S07-E01",
+    "seasonId": "AS-S07",
+    "episodeNumber": 1,
+    "title": "Legends",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "jinkx-monsoon"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Write and perform original verses on RuPaul's \"Legends\"",
+      "winnerIds": [
+        "monet-x-change",
+        "shea-coulee"
+      ]
+    },
+    "runwayTheme": "I'm Crowning",
+    "topIds": [
+      "monet-x-change",
+      "shea-coulee"
+    ],
+    "lipSync": {
+      "song": "Old MacDonald",
+      "queenIds": [
+        "monet-x-change",
+        "shea-coulee"
+      ],
+      "winnerIds": [
+        "shea-coulee"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Cameron Diaz"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E02",
+    "seasonId": "AS-S07",
+    "episodeNumber": 2,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game (impersonate two celebrities)",
+      "winnerIds": [
+        "jinkx-monsoon",
+        "trinity-taylor"
+      ]
+    },
+    "runwayTheme": "The Pleather Principle",
+    "topIds": [
+      "jinkx-monsoon",
+      "trinity-taylor"
+    ],
+    "lipSync": {
+      "song": "Rumour Has It",
+      "queenIds": [
+        "jinkx-monsoon",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "jinkx-monsoon"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Daphne Guinness"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E03",
+    "seasonId": "AS-S07",
+    "episodeNumber": 3,
+    "title": "The Realness of Fortune Ball",
+    "miniChallenge": {
+      "name": "Hungman: Fill in a Before-and-After word puzzle",
+      "winnerIds": [
+        "jinkx-monsoon"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "The Realness of Fortune Ball",
+      "winnerIds": [
+        "jaida-essence-hall",
+        "trinity-taylor"
+      ]
+    },
+    "runwayTheme": "Vanna White Realness / Before and After / Realness of Fortune Eleganza",
+    "topIds": [
+      "jaida-essence-hall",
+      "trinity-taylor"
+    ],
+    "lipSync": {
+      "song": "Green Light",
+      "queenIds": [
+        "jaida-essence-hall",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "jaida-essence-hall"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Kirby Howell-Baptiste"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E04",
+    "seasonId": "AS-S07",
+    "episodeNumber": 4,
+    "title": "Fairytale Justice",
+    "maxiChallenge": {
+      "name": "Improvise courtroom scenes in Fairytale Justice",
+      "winnerIds": [
+        "jinkx-monsoon",
+        "the-vivienne"
+      ]
+    },
+    "runwayTheme": "Spikes on the Runway",
+    "topIds": [
+      "jinkx-monsoon",
+      "the-vivienne"
+    ],
+    "lipSync": {
+      "song": "Love Will Save the Day (Jellybean/David Morales Remix)",
+      "queenIds": [
+        "jinkx-monsoon",
+        "the-vivienne"
+      ],
+      "winnerIds": [
+        "the-vivienne"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Jeffrey Bowyer-Chapman"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E05",
+    "seasonId": "AS-S07",
+    "episodeNumber": 5,
+    "title": "Draguation Speeches",
+    "maxiChallenge": {
+      "name": "Write and deliver Draguation Speeches",
+      "winnerIds": [
+        "jinkx-monsoon",
+        "raja"
+      ]
+    },
+    "runwayTheme": "Veiled It",
+    "topIds": [
+      "jinkx-monsoon",
+      "raja"
+    ],
+    "lipSync": {
+      "song": "Better in Color",
+      "queenIds": [
+        "jinkx-monsoon",
+        "raja"
+      ],
+      "winnerIds": [
+        "jinkx-monsoon"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Nikki Glaser"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E06",
+    "seasonId": "AS-S07",
+    "episodeNumber": 6,
+    "title": "Total RuQuest Live",
+    "maxiChallenge": {
+      "name": "Write, record, and perform throwback tracks as Y2K girl groups",
+      "winnerIds": [
+        "the-vivienne",
+        "yvie-oddly"
+      ]
+    },
+    "runwayTheme": "Night of a Thousand Dolly Partons",
+    "topIds": [
+      "the-vivienne",
+      "yvie-oddly"
+    ],
+    "lipSync": {
+      "song": "Why'd You Come in Here Lookin' Like That",
+      "queenIds": [
+        "the-vivienne",
+        "yvie-oddly"
+      ],
+      "winnerIds": [
+        "the-vivienne"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Tove Lo"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E07",
+    "seasonId": "AS-S07",
+    "episodeNumber": 7,
+    "title": "Legendary Legend Looks",
+    "maxiChallenge": {
+      "name": "Design, construct, and present RuPaul-inspired Legendary Legend Looks",
+      "winnerIds": [
+        "jaida-essence-hall",
+        "trinity-taylor"
+      ]
+    },
+    "runwayTheme": "Legendary Legend Looks",
+    "topIds": [
+      "jaida-essence-hall",
+      "trinity-taylor"
+    ],
+    "lipSync": {
+      "song": "I Want Love",
+      "queenIds": [
+        "jaida-essence-hall",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "trinity-taylor"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Betsey Johnson"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E08",
+    "seasonId": "AS-S07",
+    "episodeNumber": 8,
+    "title": "Santa's School for Girls",
+    "maxiChallenge": {
+      "name": "Act in Santa's School For Girls",
+      "winnerIds": [
+        "raja",
+        "the-vivienne"
+      ]
+    },
+    "runwayTheme": "Knitty Knitty Bang Bang",
+    "topIds": [
+      "raja",
+      "the-vivienne"
+    ],
+    "lipSync": {
+      "song": "Super Freak",
+      "queenIds": [
+        "raja",
+        "the-vivienne"
+      ],
+      "winnerIds": [
+        "raja"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Janicza Bravo"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E09",
+    "seasonId": "AS-S07",
+    "episodeNumber": 9,
+    "title": "Dance Like a Drag Queen",
+    "maxiChallenge": {
+      "name": "Choreograph and perform viral social media dance challenge videos",
+      "winnerIds": [
+        "jinkx-monsoon",
+        "monet-x-change"
+      ]
+    },
+    "runwayTheme": "What Lies Beneath",
+    "topIds": [
+      "jinkx-monsoon",
+      "monet-x-change"
+    ],
+    "lipSync": {
+      "song": "The Night the Lights Went Out in Georgia (Dixie Carter as Julia Sugarbaker)",
+      "queenIds": [
+        "jinkx-monsoon",
+        "monet-x-change"
+      ],
+      "winnerIds": [
+        "monet-x-change"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Ben Platt"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E10",
+    "seasonId": "AS-S07",
+    "episodeNumber": 10,
+    "title": "The Kennedy Davenport Center Honors Hall of Shade",
+    "maxiChallenge": {
+      "name": "Perform a roast at the Kennedy Davenport Center Honors Hall of Shade",
+      "winnerIds": [
+        "jinkx-monsoon",
+        "trinity-taylor"
+      ]
+    },
+    "runwayTheme": "All Glowed Up",
+    "topIds": [
+      "jinkx-monsoon",
+      "trinity-taylor"
+    ],
+    "lipSync": {
+      "song": "Kings & Queens",
+      "queenIds": [
+        "jinkx-monsoon",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "jinkx-monsoon"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Ronan Farrow"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E11",
+    "seasonId": "AS-S07",
+    "episodeNumber": 11,
+    "title": "Drag Race Gives Back Variety Extravaganza",
+    "maxiChallenge": {
+      "name": "Perform a variety show number",
+      "winnerIds": [
+        "monet-x-change",
+        "shea-coulee"
+      ]
+    },
+    "topIds": [
+      "monet-x-change",
+      "shea-coulee"
+    ],
+    "lipSync": {
+      "song": "Supernova",
+      "queenIds": [
+        "monet-x-change",
+        "shea-coulee"
+      ],
+      "winnerIds": [
+        "shea-coulee"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Hannah Einbinder"
+      }
+    ]
+  },
+  {
+    "id": "AS-S07-E12",
+    "seasonId": "AS-S07",
+    "episodeNumber": 12,
+    "title": "Lip Sync LaLaPaRuZa Smackdown",
+    "runwayTheme": "Grand Finale Eleganza",
+    "topIds": [
+      "jinkx-monsoon",
+      "monet-x-change",
+      "shea-coulee",
+      "trinity-taylor"
+    ],
+    "lipSync": {
+      "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish",
+      "queenIds": [
+        "the-vivienne",
+        "yvie-oddly",
+        "jaida-essence-hall",
+        "raja",
+        "jinkx-monsoon",
+        "shea-coulee",
+        "monet-x-change",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "yvie-oddly",
+        "raja",
+        "jinkx-monsoon",
+        "monet-x-change"
+      ],
+      "eliminatedIds": [
+        "the-vivienne",
+        "jaida-essence-hall",
+        "shea-coulee",
+        "trinity-taylor",
+        "yvie-oddly"
+      ],
+      "kind": "smackdown"
+    }
+  }
+]

@@ -42,6 +42,64 @@
       ],
       "eliminatedEpisodeId": "US-S06-E11",
       "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S03-E01",
+          "name": "Perform a talent in front of the judges and a live audience"
+        },
+        {
+          "episodeId": "AS-S03-E02",
+          "name": "Perform a lip-syncing dance number inspired by VH1 Divas"
+        },
+        {
+          "episodeId": "AS-S03-E03",
+          "name": "In pairs, improvise in an unscripted dating show inspired by The Bachelor called \"The Bitchelor\""
+        },
+        {
+          "episodeId": "AS-S03-E04",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "AS-S03-E06",
+          "name": "Write, record, and perform original verses in girl groups"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S03-E01",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S03-E01",
+          "song": "Anaconda"
+        },
+        {
+          "episodeId": "AS-S03-E04",
+          "song": "I Kissed a Girl"
+        },
+        {
+          "episodeId": "AS-S03-E06",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S03-E02",
+          "song": "Jump (For My Love)"
+        },
+        {
+          "episodeId": "AS-S03-E03",
+          "song": "Green Light"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S03-E06",
+      "quit": true
     }
   ]
 }

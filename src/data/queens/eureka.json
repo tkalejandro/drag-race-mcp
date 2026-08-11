@@ -50,6 +50,41 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S06-E10",
+          "name": "RuDemption Lip Sync Smackdown"
+        },
+        {
+          "episodeId": "AS-S06-E11",
+          "name": "Write and perform a Charisma, Uniqueness, Nerve and Talent monologue"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S06-E10",
+          "song": "Free Your Mind / Girls Just Want to Have Fun / Point of No Return / Song for the Lonely / Barbie Girl / Heartbreaker / Focus / Since U Been Gone"
+        },
+        {
+          "episodeId": "AS-S06-E11",
+          "song": "Good Golly, Miss Molly"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E12",
+          "song": "Stupid Love"
+        }
+      ],
+      "reentered": true
     }
+  ],
+  "aliases": [
+    "Eureka!"
   ]
 }

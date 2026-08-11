@@ -1,0 +1,59 @@
+{
+  "id": "AS-S04",
+  "franchise": "AS",
+  "name": "RuPaul's Drag Race All Stars Season 4",
+  "seasonNumber": 4,
+  "year": 2018,
+  "episodeCount": 10,
+  "episodeIds": [
+    "AS-S04-E01",
+    "AS-S04-E02",
+    "AS-S04-E03",
+    "AS-S04-E04",
+    "AS-S04-E05",
+    "AS-S04-E06",
+    "AS-S04-E07",
+    "AS-S04-E08",
+    "AS-S04-E09",
+    "AS-S04-E10"
+  ],
+  "castIds": [
+    "monet-x-change",
+    "trinity-taylor",
+    "monique-heart",
+    "naomi-smalls",
+    "latrice-royale",
+    "manila-luzon",
+    "valentina",
+    "gia-gunn",
+    "farrah-moan",
+    "jasmine-masters"
+  ],
+  "winnerId": "monet-x-change",
+  "runnerUpIds": [],
+  "porkchopId": "jasmine-masters",
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
+}

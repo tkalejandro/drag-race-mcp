@@ -20,6 +20,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S13-E11"
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 11,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E04",
+          "name": "Design an outfit using all items inside an 8-ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E04",
+          "song": "Love Sensation"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E06"
     }
   ]
 }

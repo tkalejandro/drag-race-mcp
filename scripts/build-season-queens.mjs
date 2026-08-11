@@ -47,17 +47,21 @@ for (const ep of episodes) {
   // Double sashay (or any elim with empty winners): record losses for eliminated only
   if (winners.size === 0) {
     for (const id of ls.eliminatedIds || []) {
+      if (!byQueen[id]) continue;
       byQueen[id].lipSyncLosses.push({ episodeId: ep.id, song: ls.song });
       byQueen[id].eliminatedEpisodeId = ep.id;
     }
     continue;
   }
   for (const id of ls.queenIds) {
+    // Guest assassins / non-cast lip sync participants: no season appearance.
+    if (!byQueen[id]) continue;
     const entry = { episodeId: ep.id, song: ls.song };
     if (winners.has(id)) byQueen[id].lipSyncWins.push(entry);
     else byQueen[id].lipSyncLosses.push(entry);
   }
   for (const id of ls.eliminatedIds || []) {
+    if (!byQueen[id]) continue;
     byQueen[id].eliminatedEpisodeId = ep.id;
   }
 }

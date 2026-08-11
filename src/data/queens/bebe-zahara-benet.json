@@ -1,21 +1,62 @@
 {
   "id": "bebe-zahara-benet",
   "name": "BeBe Zahara Benet",
-  "aliases": ["Bebe Zahara Benet"],
+  "aliases": [
+    "Bebe Zahara Benet"
+  ],
   "appearances": [
     {
       "seasonId": "US-S01",
       "placement": 1,
       "challengeWins": [
-        { "episodeId": "US-S01-E03", "name": "Channel Oprah Winfrey in television personality roles" },
-        { "episodeId": "US-S01-E06", "name": "The Absolut Drag Ball" }
+        {
+          "episodeId": "US-S01-E03",
+          "name": "Channel Oprah Winfrey in television personality roles"
+        },
+        {
+          "episodeId": "US-S01-E06",
+          "name": "The Absolut Drag Ball"
+        }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "US-S01-E05", "song": "Stronger" },
-        { "episodeId": "US-S01-E08", "song": "Cover Girl (Put the Bass in Your Walk)" }
+        {
+          "episodeId": "US-S01-E05",
+          "song": "Stronger"
+        },
+        {
+          "episodeId": "US-S01-E08",
+          "song": "Cover Girl (Put the Bass in Your Walk)"
+        }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S03-E05",
+          "name": "The Pop Art Ball"
+        },
+        {
+          "episodeId": "AS-S03-E06",
+          "name": "Write, record, and perform original verses in girl groups"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S03-E05",
+          "song": "The Boss"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S03-E06",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        }
+      ]
     }
   ]
 }

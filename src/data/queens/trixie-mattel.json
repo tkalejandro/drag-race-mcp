@@ -29,6 +29,37 @@
       ],
       "eliminatedEpisodeId": "US-S07-E10",
       "reentered": true
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S03-E05",
+          "name": "The Pop Art Ball"
+        },
+        {
+          "episodeId": "AS-S03-E07",
+          "name": "Star in the raunchy girl comedy \"My Best Squirrelfriend's Dragsmaids Wedding Trip\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S03-E08",
+          "song": "Wrecking Ball"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S03-E05",
+          "song": "The Boss"
+        },
+        {
+          "episodeId": "AS-S03-E07",
+          "song": "Freaky Money"
+        }
+      ]
     }
   ]
 }

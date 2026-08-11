@@ -20,6 +20,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S03-E05"
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S05-E01",
+          "name": "Perform a talent show in front of the judges and a live audience"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S05-E01",
+          "song": "Livin' la Vida Loca"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S05-E05"
     }
   ]
 }

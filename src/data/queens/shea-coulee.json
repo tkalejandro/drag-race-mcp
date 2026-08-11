@@ -35,6 +35,68 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S05-E02",
+          "name": "Write, record, and choreograph a performance to \"I'm in Love!\""
+        },
+        {
+          "episodeId": "AS-S05-E05",
+          "name": "Snatch Game of Love"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S05-E02",
+          "song": "Neutron Dance"
+        },
+        {
+          "episodeId": "AS-S05-E05",
+          "song": "Open Your Heart"
+        },
+        {
+          "episodeId": "AS-S05-E08",
+          "song": "Make Me Feel"
+        }
+      ],
+      "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S07",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S07-E01",
+          "name": "Write and perform original verses on RuPaul's \"Legends\""
+        },
+        {
+          "episodeId": "AS-S07-E11",
+          "name": "Perform a variety show number"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S07-E01",
+          "song": "Old MacDonald"
+        },
+        {
+          "episodeId": "AS-S07-E11",
+          "song": "Supernova"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S07-E12",
+          "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S07-E12"
     }
   ]
 }

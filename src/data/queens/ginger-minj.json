@@ -57,6 +57,93 @@
       "lipSyncWins": [],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S02-E03"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S06-E05",
+          "name": "Host a talk show called Pink Table Talk"
+        },
+        {
+          "episodeId": "AS-S06-E08",
+          "name": "Snatch Game of Love"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S06-E01",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "AS-S06-E09",
+          "name": "All Star Class Superlatives"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S06-E05",
+          "song": "Phone"
+        },
+        {
+          "episodeId": "AS-S06-E08",
+          "song": "Sugar Walls"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E12",
+          "song": "Stupid Love"
+        }
+      ]
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E07",
+          "name": "In pairs, create good and wicked witch looks with an enchanting backstory"
+        },
+        {
+          "episodeId": "AS-S10-E08",
+          "name": "Perform original verses in Stagecooch country festival groups \"Key Your Car\" and \"Trailer Hitch\""
+        },
+        {
+          "episodeId": "AS-S10-E09",
+          "name": "Improvise as dogs courting a Golden Retriever on a dating show with Zane Phillips"
+        },
+        {
+          "episodeId": "AS-S10-E10",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "AS-S10-E12",
+          "name": "Lip Sync Smackdown for the Crown"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S10-E07",
+          "song": "Defying Gravity"
+        },
+        {
+          "episodeId": "AS-S10-E08",
+          "song": "See You Again"
+        },
+        {
+          "episodeId": "AS-S10-E12",
+          "song": "Disease / Joyride / Party Lights / Show Me How You Burlesque / Raise Your Glass / Whenever, Wherever / It's Raining Men"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E09",
+          "song": "Mama Used to Say"
+        }
+      ]
     }
   ]
 }

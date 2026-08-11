@@ -7,16 +7,37 @@
       "placement": 5,
       "eliminatedEpisodeId": "US-S01-E05",
       "challengeWins": [
-        { "episodeId": "US-S01-E02", "name": "Destiny's Child girl group battle" },
-        { "episodeId": "US-S01-E04", "name": "Write and film a MAC Viva Glam commercial" }
+        {
+          "episodeId": "US-S01-E02",
+          "name": "Destiny's Child girl group battle"
+        },
+        {
+          "episodeId": "US-S01-E04",
+          "name": "Write and film a MAC Viva Glam commercial"
+        }
       ],
       "miniChallengeWins": [
-        { "episodeId": "US-S01-E02", "name": "Act out emotions and photograph them" }
+        {
+          "episodeId": "US-S01-E02",
+          "name": "Act out emotions and photograph them"
+        }
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "US-S01-E05", "song": "Stronger" }
+        {
+          "episodeId": "US-S01-E05",
+          "song": "Stronger"
+        }
       ]
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S05-E02"
     }
   ]
 }

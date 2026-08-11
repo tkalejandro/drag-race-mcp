@@ -28,6 +28,32 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S04-E06",
+          "name": "Lip-sync LaLaPaRUza smackdown"
+        },
+        {
+          "episodeId": "AS-S04-E08",
+          "name": "Makeover your best Judy's"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S04-E06",
+          "song": "Peanut Butter / Kitty Girl / Adrenaline / Sissy That Walk"
+        },
+        {
+          "episodeId": "AS-S04-E08",
+          "song": "Come Rain or Come Shine"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

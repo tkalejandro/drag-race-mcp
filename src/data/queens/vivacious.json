@@ -20,6 +20,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S06-E03"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E06",
+          "name": "Give drag makeovers to gay dads and coach a \"Too Many Daddies\" lip-sync performance"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E06",
+          "song": "Super Bass"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E06"
     }
   ]
 }

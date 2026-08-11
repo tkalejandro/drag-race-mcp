@@ -26,6 +26,33 @@
       ],
       "eliminatedEpisodeId": "US-S09-E09",
       "missCongeniality": true
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S04-E02",
+          "name": "Write, record, and perform original verses in girl groups"
+        },
+        {
+          "episodeId": "AS-S04-E06",
+          "name": "Lip-sync LaLaPaRUza smackdown"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S04-E02",
+          "song": "Into You"
+        },
+        {
+          "episodeId": "AS-S04-E06",
+          "song": "Peanut Butter / Kitty Girl / Adrenaline / Sissy That Walk"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S04-E07"
     }
   ]
 }

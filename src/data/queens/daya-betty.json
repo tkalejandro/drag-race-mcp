@@ -34,6 +34,38 @@
         }
       ],
       "reentered": true
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E07",
+          "name": "In pairs, create good and wicked witch looks with an enchanting backstory"
+        },
+        {
+          "episodeId": "AS-S10-E09",
+          "name": "Improvise as dogs courting a Golden Retriever on a dating show with Zane Phillips"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S10-E09",
+          "song": "Mama Used to Say"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E07",
+          "song": "Defying Gravity"
+        },
+        {
+          "episodeId": "AS-S10-E12",
+          "song": "Disease / Joyride / Party Lights / Show Me How You Burlesque / Raise Your Glass / Whenever, Wherever / It's Raining Men"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E12"
     }
   ]
 }

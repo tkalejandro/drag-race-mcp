@@ -47,6 +47,62 @@
       ],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S02-E08"
+    },
+    {
+      "seasonId": "AS-S09",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S09-E04",
+          "name": "In pairs, give a firefighter a pop star makeover and perform with them as a girl group"
+        },
+        {
+          "episodeId": "AS-S09-E05",
+          "name": "In pairs, create campy real estate commercials"
+        },
+        {
+          "episodeId": "AS-S09-E08",
+          "name": "Create a look inspired by a RuPaul song"
+        },
+        {
+          "episodeId": "AS-S09-E10",
+          "name": "Lip-Sync LaLaPaRuZa Smackdown"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S09-E01",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "AS-S09-E11",
+          "name": "Give a crew member a drag makeover"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S09-E04",
+          "song": "Black Cat"
+        },
+        {
+          "episodeId": "AS-S09-E05",
+          "song": "Super Freaky Girl"
+        },
+        {
+          "episodeId": "AS-S09-E08",
+          "song": "No One Gets the Prize"
+        },
+        {
+          "episodeId": "AS-S09-E10",
+          "song": "My Lovin' (You're Never Gonna Get It) / When I Grow Up / You Spin Me Round (Like a Record) / Holding Out for a Hero / I'm Every Woman / Groove Is in the Heart / Break Free"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S09-E12",
+          "song": "Rhythm Nation"
+        }
+      ]
     }
   ]
 }

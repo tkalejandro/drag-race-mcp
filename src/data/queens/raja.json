@@ -40,6 +40,40 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S07",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S07-E05",
+          "name": "Write and deliver Draguation Speeches"
+        },
+        {
+          "episodeId": "AS-S07-E08",
+          "name": "Act in Santa's School For Girls"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S07-E08",
+          "song": "Super Freak"
+        },
+        {
+          "episodeId": "AS-S07-E12",
+          "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S07-E05",
+          "song": "Better in Color"
+        }
+      ]
     }
+  ],
+  "aliases": [
+    "Raja Gemini"
   ]
 }

@@ -29,6 +29,33 @@
         }
       ],
       "eliminatedEpisodeId": "US-S06-E09"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S06-E03",
+          "name": "Write and star in a commercial promoting a side hustle"
+        },
+        {
+          "episodeId": "AS-S06-E07",
+          "name": "In groups, write your own verse to \"Show Up Queen\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E03",
+          "song": "Physical"
+        },
+        {
+          "episodeId": "AS-S06-E07",
+          "song": "Dance Again"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S06-E11"
     }
   ]
 }

@@ -1,0 +1,432 @@
+[
+  {
+    "id": "AS-S04-E01",
+    "seasonId": "AS-S04",
+    "episodeNumber": 1,
+    "title": "All Star-Spangled Variety Show",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "latrice-royale"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent show in front of the judges and a live audience",
+      "winnerIds": [
+        "monique-heart",
+        "trinity-taylor"
+      ]
+    },
+    "topIds": [
+      "monique-heart",
+      "trinity-taylor"
+    ],
+    "bottomIds": [
+      "farrah-moan",
+      "jasmine-masters"
+    ],
+    "lipSync": {
+      "song": "Emotions",
+      "queenIds": [
+        "monique-heart",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "trinity-taylor"
+      ],
+      "eliminatedIds": [
+        "jasmine-masters"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Jenifer Lewis"
+      }
+    ]
+  },
+  {
+    "id": "AS-S04-E02",
+    "seasonId": "AS-S04",
+    "episodeNumber": 2,
+    "title": "Super Girl Groups, Henny",
+    "maxiChallenge": {
+      "name": "Write, record, and perform original verses in girl groups",
+      "winnerIds": [
+        "monet-x-change",
+        "valentina"
+      ]
+    },
+    "runwayTheme": "Eleguence After Dark",
+    "topIds": [
+      "monet-x-change",
+      "valentina"
+    ],
+    "bottomIds": [
+      "farrah-moan",
+      "monique-heart"
+    ],
+    "lipSync": {
+      "song": "Into You",
+      "queenIds": [
+        "monet-x-change",
+        "valentina"
+      ],
+      "winnerIds": [
+        "valentina"
+      ],
+      "eliminatedIds": [
+        "farrah-moan"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Kacey Musgraves"
+      },
+      {
+        "name": "Ciara"
+      }
+    ]
+  },
+  {
+    "id": "AS-S04-E03",
+    "seasonId": "AS-S04",
+    "episodeNumber": 3,
+    "title": "Snatch Game of Love",
+    "maxiChallenge": {
+      "name": "Snatch Game of Love",
+      "winnerIds": [
+        "manila-luzon",
+        "trinity-taylor"
+      ]
+    },
+    "runwayTheme": "Boots the House Down",
+    "topIds": [
+      "manila-luzon",
+      "trinity-taylor"
+    ],
+    "bottomIds": [
+      "gia-gunn",
+      "valentina"
+    ],
+    "lipSync": {
+      "song": "How Will I Know",
+      "queenIds": [
+        "manila-luzon",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "manila-luzon"
+      ],
+      "eliminatedIds": [
+        "gia-gunn"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Gus Kenworthy"
+      },
+      {
+        "name": "Keiynan Lonsdale"
+      }
+    ]
+  },
+  {
+    "id": "AS-S04-E04",
+    "seasonId": "AS-S04",
+    "episodeNumber": 4,
+    "title": "Jersey Justice",
+    "maxiChallenge": {
+      "name": "Improvise in the courtroom show \"Jersey Justice\"",
+      "winnerIds": [
+        "manila-luzon",
+        "monique-heart"
+      ]
+    },
+    "runwayTheme": "Swerves and Curves: Padded for the Gods",
+    "topIds": [
+      "manila-luzon",
+      "monique-heart"
+    ],
+    "bottomIds": [
+      "latrice-royale",
+      "monet-x-change"
+    ],
+    "lipSync": {
+      "song": "The Bitch Is Back",
+      "queenIds": [
+        "manila-luzon",
+        "monique-heart"
+      ],
+      "winnerIds": [
+        "monique-heart"
+      ],
+      "eliminatedIds": [
+        "latrice-royale"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Zoë Kravitz"
+      },
+      {
+        "name": "Erica Ash"
+      }
+    ]
+  },
+  {
+    "id": "AS-S04-E05",
+    "seasonId": "AS-S04",
+    "episodeNumber": 5,
+    "title": "Roast in Peace",
+    "maxiChallenge": {
+      "name": "Perform a roast of Lady Bunny, the judges, and fellow queens",
+      "winnerIds": [
+        "manila-luzon",
+        "monet-x-change"
+      ]
+    },
+    "runwayTheme": "Angelic White",
+    "topIds": [
+      "manila-luzon",
+      "monet-x-change"
+    ],
+    "bottomIds": [
+      "monique-heart",
+      "naomi-smalls",
+      "trinity-taylor",
+      "valentina"
+    ],
+    "lipSync": {
+      "song": "Jump to It",
+      "queenIds": [
+        "manila-luzon",
+        "monet-x-change"
+      ],
+      "winnerIds": [
+        "manila-luzon",
+        "monet-x-change"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Cecily Strong"
+      },
+      {
+        "name": "Yvette Nicole Brown"
+      }
+    ]
+  },
+  {
+    "id": "AS-S04-E06",
+    "seasonId": "AS-S04",
+    "episodeNumber": 6,
+    "title": "LaLaPaRUza",
+    "maxiChallenge": {
+      "name": "Lip-sync LaLaPaRUza smackdown",
+      "winnerIds": [
+        "trinity-taylor",
+        "valentina",
+        "naomi-smalls",
+        "monique-heart",
+        "latrice-royale"
+      ]
+    },
+    "runwayTheme": "LaLaPaRUza Eleganza",
+    "lipSync": {
+      "song": "Peanut Butter / Kitty Girl / Adrenaline / Sissy That Walk",
+      "queenIds": [
+        "jasmine-masters",
+        "trinity-taylor",
+        "farrah-moan",
+        "valentina",
+        "gia-gunn",
+        "naomi-smalls",
+        "latrice-royale",
+        "monique-heart"
+      ],
+      "winnerIds": [
+        "trinity-taylor",
+        "valentina",
+        "naomi-smalls",
+        "monique-heart",
+        "latrice-royale"
+      ],
+      "eliminatedIds": [
+        "jasmine-masters",
+        "farrah-moan",
+        "gia-gunn"
+      ],
+      "kind": "smackdown"
+    }
+  },
+  {
+    "id": "AS-S04-E07",
+    "seasonId": "AS-S04",
+    "episodeNumber": 7,
+    "title": "Queens of Clubs",
+    "maxiChallenge": {
+      "name": "In teams, create and host your own nightclub",
+      "winnerIds": [
+        "latrice-royale",
+        "trinity-taylor"
+      ]
+    },
+    "runwayTheme": "Plastique Fantastique",
+    "topIds": [
+      "latrice-royale",
+      "trinity-taylor"
+    ],
+    "bottomIds": [
+      "naomi-smalls",
+      "valentina"
+    ],
+    "lipSync": {
+      "song": "You Spin Me Round (Like a Record)",
+      "queenIds": [
+        "latrice-royale",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "latrice-royale"
+      ],
+      "eliminatedIds": [
+        "valentina"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Rita Ora"
+      },
+      {
+        "name": "Susanne Bartsch"
+      }
+    ]
+  },
+  {
+    "id": "AS-S04-E08",
+    "seasonId": "AS-S04",
+    "episodeNumber": 8,
+    "title": "RuPaul's Best Judy's Race",
+    "maxiChallenge": {
+      "name": "Makeover your best Judy's",
+      "winnerIds": [
+        "monet-x-change",
+        "naomi-smalls"
+      ]
+    },
+    "runwayTheme": "Best Judy's",
+    "topIds": [
+      "monet-x-change",
+      "naomi-smalls"
+    ],
+    "bottomIds": [
+      "latrice-royale",
+      "manila-luzon"
+    ],
+    "lipSync": {
+      "song": "Come Rain or Come Shine",
+      "queenIds": [
+        "monet-x-change",
+        "naomi-smalls"
+      ],
+      "winnerIds": [
+        "naomi-smalls"
+      ],
+      "eliminatedIds": [
+        "manila-luzon"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Frances Bean Cobain"
+      },
+      {
+        "name": "Ellen Pompeo"
+      }
+    ]
+  },
+  {
+    "id": "AS-S04-E09",
+    "seasonId": "AS-S04",
+    "episodeNumber": 9,
+    "title": "Sex and the Kitty Girl",
+    "maxiChallenge": {
+      "name": "Star in a Sex and the City mockumentary \"Sex and the Kitty, Girl 3\"",
+      "winnerIds": [
+        "monique-heart",
+        "trinity-taylor"
+      ]
+    },
+    "runwayTheme": "Cat Couture",
+    "topIds": [
+      "monique-heart",
+      "trinity-taylor"
+    ],
+    "bottomIds": [
+      "latrice-royale",
+      "monet-x-change",
+      "naomi-smalls"
+    ],
+    "lipSync": {
+      "song": "When I Think of You",
+      "queenIds": [
+        "monique-heart",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "trinity-taylor"
+      ],
+      "eliminatedIds": [
+        "latrice-royale"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Jason Wu"
+      },
+      {
+        "name": "Felicity Huffman"
+      }
+    ]
+  },
+  {
+    "id": "AS-S04-E10",
+    "seasonId": "AS-S04",
+    "episodeNumber": 10,
+    "title": "Super Queen Grand Finale",
+    "runwayTheme": "All Star Eleganza",
+    "topIds": [
+      "monet-x-change",
+      "trinity-taylor"
+    ],
+    "bottomIds": [
+      "monique-heart",
+      "naomi-smalls"
+    ],
+    "lipSync": {
+      "song": "Fighter",
+      "queenIds": [
+        "monet-x-change",
+        "trinity-taylor"
+      ],
+      "winnerIds": [
+        "monet-x-change",
+        "trinity-taylor"
+      ],
+      "kind": "for-the-crown"
+    },
+    "guestJudges": [
+      {
+        "name": "Todrick Hall"
+      }
+    ]
+  }
+]

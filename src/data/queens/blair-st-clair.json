@@ -20,6 +20,20 @@
         }
       ],
       "eliminatedEpisodeId": "US-S10-E06"
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 4,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S05-E01",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S05-E07"
     }
   ]
 }

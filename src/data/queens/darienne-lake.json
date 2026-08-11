@@ -38,6 +38,18 @@
         }
       ],
       "eliminatedEpisodeId": "US-S06-E12"
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S08-E04"
     }
+  ],
+  "aliases": [
+    "Miss Darienne Lake"
   ]
 }

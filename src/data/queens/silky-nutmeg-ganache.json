@@ -36,6 +36,43 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E10",
+          "song": "Free Your Mind / Girls Just Want to Have Fun / Point of No Return / Song for the Lonely / Barbie Girl / Heartbreaker / Focus / Since U Been Gone"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S06-E03"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E05",
+          "name": "Create, direct, and shoot a short informational how-to video"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E05",
+          "song": "Hazy Shade of Winter"
+        },
+        {
+          "episodeId": "AS-S11-E12",
+          "song": "Star Love / The Boss / The Main Event/Fight / Knock on Wood / MacArthur Park"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S11-E12"
     }
   ]
 }

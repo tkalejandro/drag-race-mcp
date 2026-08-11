@@ -32,6 +32,50 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S06-E06"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E02",
+          "name": "Design an outfit using materials inspired by themed gay bars"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E02",
+          "song": "Fergalicious"
+        },
+        {
+          "episodeId": "AS-S11-E10",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        },
+        {
+          "episodeId": "AS-S11-E11",
+          "song": "Run the World (Girls)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E12",
+          "song": "Star Love / The Boss / The Main Event/Fight / Knock on Wood / MacArthur Park"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E12"
     }
+  ],
+  "aliases": [
+    "A'keria Chanel Davenport"
   ]
 }

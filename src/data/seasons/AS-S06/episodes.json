@@ -1,0 +1,468 @@
+[
+  {
+    "id": "AS-S06-E01",
+    "seasonId": "AS-S06",
+    "episodeNumber": 1,
+    "title": "All Star Variety Extravaganza",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "ginger-minj"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent show in front of the judges",
+      "winnerIds": [
+        "yara-sofia"
+      ]
+    },
+    "topIds": [
+      "yara-sofia"
+    ],
+    "bottomIds": [
+      "serena-chacha",
+      "trinity-k-bonet"
+    ],
+    "lipSync": {
+      "song": "Uptown Funk",
+      "queenIds": [
+        "yara-sofia",
+        "coco-montrese"
+      ],
+      "winnerIds": [
+        "coco-montrese"
+      ],
+      "eliminatedIds": [
+        "serena-chacha"
+      ],
+      "kind": "for-the-win"
+    }
+  },
+  {
+    "id": "AS-S06-E02",
+    "seasonId": "AS-S06",
+    "episodeNumber": 2,
+    "title": "The Blue Ball",
+    "maxiChallenge": {
+      "name": "The Blue Ball",
+      "winnerIds": [
+        "ra-jah-ohara"
+      ]
+    },
+    "runwayTheme": "Blue Betta Werk / Blue Jean Baby / Blue Ball Bonanza",
+    "topIds": [
+      "ra-jah-ohara"
+    ],
+    "bottomIds": [
+      "jiggly-caliente",
+      "yara-sofia"
+    ],
+    "lipSync": {
+      "song": "Miss You Much",
+      "queenIds": [
+        "ra-jah-ohara",
+        "brooke-lynn-hytes"
+      ],
+      "winnerIds": [
+        "brooke-lynn-hytes",
+        "ra-jah-ohara"
+      ],
+      "eliminatedIds": [
+        "jiggly-caliente"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Big Freedia"
+      }
+    ]
+  },
+  {
+    "id": "AS-S06-E03",
+    "seasonId": "AS-S06",
+    "episodeNumber": 3,
+    "title": "Side Hustles",
+    "maxiChallenge": {
+      "name": "Write and star in a commercial promoting a side hustle",
+      "winnerIds": [
+        "trinity-k-bonet"
+      ]
+    },
+    "runwayTheme": "Rudemption Runway",
+    "topIds": [
+      "trinity-k-bonet"
+    ],
+    "bottomIds": [
+      "akeria-c-davenport",
+      "ginger-minj",
+      "jan",
+      "silky-nutmeg-ganache"
+    ],
+    "lipSync": {
+      "song": "Physical",
+      "queenIds": [
+        "trinity-k-bonet",
+        "laganja-estranja"
+      ],
+      "winnerIds": [
+        "laganja-estranja"
+      ],
+      "eliminatedIds": [
+        "silky-nutmeg-ganache"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Tia Mowry"
+      }
+    ]
+  },
+  {
+    "id": "AS-S06-E04",
+    "seasonId": "AS-S06",
+    "episodeNumber": 4,
+    "title": "Halftime Headliners",
+    "maxiChallenge": {
+      "name": "All Stars 6 Hall of Fame Half-Time Show",
+      "winnerIds": [
+        "jan"
+      ]
+    },
+    "runwayTheme": "The Frill of It All",
+    "topIds": [
+      "jan"
+    ],
+    "bottomIds": [
+      "akeria-c-davenport",
+      "yara-sofia"
+    ],
+    "lipSync": {
+      "song": "Womanizer",
+      "queenIds": [
+        "jan",
+        "jessica-wild"
+      ],
+      "winnerIds": [
+        "jessica-wild"
+      ],
+      "eliminatedIds": [
+        "yara-sofia"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Jamal Sims"
+      }
+    ]
+  },
+  {
+    "id": "AS-S06-E05",
+    "seasonId": "AS-S06",
+    "episodeNumber": 5,
+    "title": "Pink Table Talk",
+    "maxiChallenge": {
+      "name": "Host a talk show called Pink Table Talk",
+      "winnerIds": [
+        "ginger-minj"
+      ]
+    },
+    "runwayTheme": "Clash of the Patterns",
+    "topIds": [
+      "ginger-minj"
+    ],
+    "bottomIds": [
+      "jan",
+      "sonique",
+      "scarlet-envy"
+    ],
+    "lipSync": {
+      "song": "Phone",
+      "queenIds": [
+        "ginger-minj",
+        "mayhem-miller"
+      ],
+      "winnerIds": [
+        "ginger-minj"
+      ],
+      "eliminatedIds": [
+        "scarlet-envy"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Aisha Tyler"
+      }
+    ]
+  },
+  {
+    "id": "AS-S06-E06",
+    "seasonId": "AS-S06",
+    "episodeNumber": 6,
+    "title": "Rumerican Horror Story: Coven Girls",
+    "maxiChallenge": {
+      "name": "Act in RuMerican Horror Story: Coven Girls",
+      "winnerIds": [
+        "sonique"
+      ]
+    },
+    "runwayTheme": "Oh My Goth!",
+    "topIds": [
+      "sonique"
+    ],
+    "bottomIds": [
+      "akeria-c-davenport",
+      "ra-jah-ohara"
+    ],
+    "lipSync": {
+      "song": "Dirrty",
+      "queenIds": [
+        "sonique",
+        "manila-luzon"
+      ],
+      "winnerIds": [
+        "sonique"
+      ],
+      "eliminatedIds": [
+        "akeria-c-davenport"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Emma Roberts"
+      }
+    ]
+  },
+  {
+    "id": "AS-S06-E07",
+    "seasonId": "AS-S06",
+    "episodeNumber": 7,
+    "title": "Show Up Queen",
+    "maxiChallenge": {
+      "name": "In groups, write your own verse to \"Show Up Queen\"",
+      "winnerIds": [
+        "trinity-k-bonet"
+      ]
+    },
+    "runwayTheme": "Hot Tropics",
+    "topIds": [
+      "trinity-k-bonet"
+    ],
+    "bottomIds": [
+      "jan",
+      "pandora-boxx"
+    ],
+    "lipSync": {
+      "song": "Dance Again",
+      "queenIds": [
+        "trinity-k-bonet",
+        "alexis-mateo"
+      ],
+      "winnerIds": [
+        "alexis-mateo"
+      ],
+      "eliminatedIds": [
+        "jan"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Zaldy"
+      }
+    ]
+  },
+  {
+    "id": "AS-S06-E08",
+    "seasonId": "AS-S06",
+    "episodeNumber": 8,
+    "title": "Snatch Game of Love",
+    "maxiChallenge": {
+      "name": "Snatch Game of Love",
+      "winnerIds": [
+        "ginger-minj"
+      ]
+    },
+    "runwayTheme": "Pop Art",
+    "topIds": [
+      "ginger-minj"
+    ],
+    "bottomIds": [
+      "pandora-boxx",
+      "trinity-k-bonet"
+    ],
+    "lipSync": {
+      "song": "Sugar Walls",
+      "queenIds": [
+        "ginger-minj",
+        "heidi-n-closet"
+      ],
+      "winnerIds": [
+        "ginger-minj"
+      ],
+      "eliminatedIds": [
+        "pandora-boxx"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Tina Knowles"
+      }
+    ]
+  },
+  {
+    "id": "AS-S06-E09",
+    "seasonId": "AS-S06",
+    "episodeNumber": 9,
+    "title": "Drag Tots",
+    "miniChallenge": {
+      "name": "All Star Class Superlatives",
+      "winnerIds": [
+        "ginger-minj",
+        "sonique"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Create a magical live-action character for Drag Tots",
+      "winnerIds": [
+        "ra-jah-ohara"
+      ]
+    },
+    "topIds": [
+      "ra-jah-ohara"
+    ],
+    "bottomIds": [
+      "eureka",
+      "ginger-minj",
+      "sonique",
+      "trinity-k-bonet"
+    ],
+    "lipSync": {
+      "song": "Boom Clap",
+      "queenIds": [
+        "ra-jah-ohara",
+        "kameron-michaels"
+      ],
+      "winnerIds": [
+        "kameron-michaels"
+      ],
+      "eliminatedIds": [
+        "eureka"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Charli XCX"
+      }
+    ]
+  },
+  {
+    "id": "AS-S06-E10",
+    "seasonId": "AS-S06",
+    "episodeNumber": 10,
+    "title": "Rudemption Lip-Sync Smackdown",
+    "maxiChallenge": {
+      "name": "RuDemption Lip Sync Smackdown",
+      "winnerIds": [
+        "eureka"
+      ]
+    },
+    "lipSync": {
+      "song": "Free Your Mind / Girls Just Want to Have Fun / Point of No Return / Song for the Lonely / Barbie Girl / Heartbreaker / Focus / Since U Been Gone",
+      "queenIds": [
+        "jiggly-caliente",
+        "serena-chacha",
+        "silky-nutmeg-ganache",
+        "yara-sofia",
+        "scarlet-envy",
+        "jan",
+        "pandora-boxx",
+        "eureka"
+      ],
+      "winnerIds": [
+        "eureka"
+      ],
+      "kind": "smackdown"
+    }
+  },
+  {
+    "id": "AS-S06-E11",
+    "seasonId": "AS-S06",
+    "episodeNumber": 11,
+    "title": "The Charisma, Uniqueness, Nerve and Talent Monologues",
+    "miniChallenge": {
+      "name": "Pride quick drag photoshoot",
+      "winnerIds": [
+        "sonique"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Write and perform a Charisma, Uniqueness, Nerve and Talent monologue",
+      "winnerIds": [
+        "eureka"
+      ]
+    },
+    "runwayTheme": "Oops, I Did It Again — A Fashionable Fashion Fail",
+    "topIds": [
+      "eureka"
+    ],
+    "bottomIds": [
+      "ginger-minj",
+      "sonique",
+      "ra-jah-ohara",
+      "trinity-k-bonet"
+    ],
+    "lipSync": {
+      "song": "Good Golly, Miss Molly",
+      "queenIds": [
+        "eureka",
+        "jaida-essence-hall"
+      ],
+      "winnerIds": [
+        "eureka",
+        "jaida-essence-hall"
+      ],
+      "eliminatedIds": [
+        "trinity-k-bonet"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Justin Simien"
+      }
+    ]
+  },
+  {
+    "id": "AS-S06-E12",
+    "seasonId": "AS-S06",
+    "episodeNumber": 12,
+    "title": "This Is Our Country",
+    "runwayTheme": "All Star Hall of Fame Eleganza Extravaganza",
+    "topIds": [
+      "eureka",
+      "ginger-minj",
+      "sonique",
+      "ra-jah-ohara"
+    ],
+    "lipSync": {
+      "song": "Stupid Love",
+      "queenIds": [
+        "eureka",
+        "ginger-minj",
+        "sonique",
+        "ra-jah-ohara"
+      ],
+      "winnerIds": [
+        "sonique"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

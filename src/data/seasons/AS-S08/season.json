@@ -1,0 +1,68 @@
+{
+  "id": "AS-S08",
+  "franchise": "AS",
+  "name": "RuPaul's Drag Race All Stars Season 8",
+  "seasonNumber": 8,
+  "year": 2023,
+  "episodeCount": 12,
+  "episodeIds": [
+    "AS-S08-E01",
+    "AS-S08-E02",
+    "AS-S08-E03",
+    "AS-S08-E04",
+    "AS-S08-E05",
+    "AS-S08-E06",
+    "AS-S08-E07",
+    "AS-S08-E08",
+    "AS-S08-E09",
+    "AS-S08-E10",
+    "AS-S08-E11",
+    "AS-S08-E12"
+  ],
+  "castIds": [
+    "jimbo",
+    "kandy-muse",
+    "jessica-wild",
+    "alexis-michelle",
+    "lala-ri",
+    "kahanna-montrese",
+    "jaymes-mansfield",
+    "heidi-n-closet",
+    "darienne-lake",
+    "mrs-kasha-davis",
+    "naysha-lopez",
+    "monica-beverly-hillz"
+  ],
+  "winnerId": "jimbo",
+  "runnerUpIds": [
+    "kandy-muse"
+  ],
+  "porkchopId": "monica-beverly-hillz",
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    },
+    {
+      "name": "Ts Madison"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
+}

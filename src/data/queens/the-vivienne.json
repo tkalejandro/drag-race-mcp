@@ -6,16 +6,71 @@
       "seasonId": "UK-S01",
       "placement": 1,
       "challengeWins": [
-        { "episodeId": "UK-S01-E01", "name": "Present two looks: Queen of Your Hometown and Queen Elizabeth II-inspired" },
-        { "episodeId": "UK-S01-E04", "name": "Snatch Game" },
-        { "episodeId": "UK-S01-E06", "name": "Campaign, market and design a bottled water brand" }
+        {
+          "episodeId": "UK-S01-E01",
+          "name": "Present two looks: Queen of Your Hometown and Queen Elizabeth II-inspired"
+        },
+        {
+          "episodeId": "UK-S01-E04",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "UK-S01-E06",
+          "name": "Campaign, market and design a bottled water brand"
+        }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "UK-S01-E05", "song": "Power" },
-        { "episodeId": "UK-S01-E08", "song": "I'm Your Man" }
+        {
+          "episodeId": "UK-S01-E05",
+          "song": "Power"
+        },
+        {
+          "episodeId": "UK-S01-E08",
+          "song": "I'm Your Man"
+        }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S07",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S07-E04",
+          "name": "Improvise courtroom scenes in Fairytale Justice"
+        },
+        {
+          "episodeId": "AS-S07-E06",
+          "name": "Write, record, and perform throwback tracks as Y2K girl groups"
+        },
+        {
+          "episodeId": "AS-S07-E08",
+          "name": "Act in Santa's School For Girls"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S07-E04",
+          "song": "Love Will Save the Day (Jellybean/David Morales Remix)"
+        },
+        {
+          "episodeId": "AS-S07-E06",
+          "song": "Why'd You Come in Here Lookin' Like That"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S07-E08",
+          "song": "Super Freak"
+        },
+        {
+          "episodeId": "AS-S07-E12",
+          "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S07-E12"
     }
   ]
 }

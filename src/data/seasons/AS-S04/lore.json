@@ -1,0 +1,68 @@
+[
+  {
+    "id": "as-s04-dual-crowning",
+    "title": "Monét X Change and Trinity the Tuck dual crowning",
+    "summary": "In the All Stars 4 finale (AS-S04-E10), Monét X Change and Trinity the Tuck (filed as trinity-taylor) lip-synced to Christina Aguilera's \"Fighter\" and were both crowned winners — the first dual crowning in Drag Race history — splitting the Hall of Fame induction and $100,000 prize.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "all-stars",
+      "iconic"
+    ],
+    "queenIds": [
+      "monet-x-change",
+      "trinity-taylor"
+    ],
+    "seasonIds": [
+      "AS-S04"
+    ],
+    "episodeIds": [
+      "AS-S04-E10"
+    ]
+  },
+  {
+    "id": "as-s04-lalaparuza",
+    "title": "All Stars 4 LaLaPaRUza",
+    "summary": "On AS-S04-E06, eliminated queens returned for a LaLaPaRUza smackdown against the remaining cast (Manila Luzon and Monét X Change were immune). Pairings: Jasmine vs Trinity (\"Peanut Butter\"), Farrah vs Valentina (\"Kitty Girl\"), Gia vs Naomi (\"Adrenaline\"), Latrice vs Monique (\"Sissy That Walk\" double shantay). Latrice Royale returned; Jasmine, Farrah, and Gia stayed out.",
+    "tags": [
+      "lip-sync",
+      "twist",
+      "all-stars",
+      "iconic"
+    ],
+    "queenIds": [
+      "latrice-royale",
+      "monique-heart",
+      "trinity-taylor",
+      "valentina",
+      "naomi-smalls"
+    ],
+    "seasonIds": [
+      "AS-S04"
+    ],
+    "episodeIds": [
+      "AS-S04-E06"
+    ]
+  },
+  {
+    "id": "as-s04-roast-no-elim",
+    "title": "Roast in Peace: elimination suspended",
+    "summary": "After Manila Luzon and Monét X Change both won the AS-S04-E05 lip sync to Aretha Franklin's \"Jump to It\", RuPaul suspended elimination for the week — no one went home.",
+    "tags": [
+      "twist",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "manila-luzon",
+      "monet-x-change"
+    ],
+    "seasonIds": [
+      "AS-S04"
+    ],
+    "episodeIds": [
+      "AS-S04-E05"
+    ]
+  }
+]

@@ -36,6 +36,43 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E07",
+          "name": "Design an outfit using high school sportswear materials"
+        },
+        {
+          "episodeId": "AS-S11-E09",
+          "name": "Lip-sync interviews from The RuPaul Show portraying RuPaul and celebrity guests"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S11-E11",
+          "name": "Lip-sync to \"U Wear It Well\" while being hosed by the Pit Crew"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E07",
+          "song": "If You Were a Woman (And I Was a Man)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E09",
+          "song": "Breakin' Dishes"
+        },
+        {
+          "episodeId": "AS-S11-E11",
+          "song": "Run the World (Girls)"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E11"
     }
   ]
 }

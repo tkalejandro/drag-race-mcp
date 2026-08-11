@@ -42,6 +42,38 @@
       "lipSyncWins": [],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S01-E06"
+    },
+    {
+      "seasonId": "AS-S09",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S09-E09",
+          "name": "Rosemarie's Baby Shower: The Rusical"
+        },
+        {
+          "episodeId": "AS-S09-E10",
+          "name": "Lip-Sync LaLaPaRuZa Smackdown"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S09-E11",
+          "name": "Give a crew member a drag makeover"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S09-E09",
+          "song": "Love Come Home (Subgroovers Music Video Edit)"
+        },
+        {
+          "episodeId": "AS-S09-E10",
+          "song": "My Lovin' (You're Never Gonna Get It) / When I Grow Up / You Spin Me Round (Like a Record) / Holding Out for a Hero / I'm Every Woman / Groove Is in the Heart / Break Free"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S09-E12"
     }
   ]
 }

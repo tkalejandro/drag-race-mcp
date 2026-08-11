@@ -1,0 +1,331 @@
+[
+  {
+    "id": "AS-S05-E01",
+    "seasonId": "AS-S05",
+    "episodeNumber": 1,
+    "title": "All Star Variety Extravaganza",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "blair-st-clair",
+        "jujubee"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent show in front of the judges and a live audience",
+      "winnerIds": [
+        "india-ferrah"
+      ]
+    },
+    "topIds": [
+      "india-ferrah"
+    ],
+    "bottomIds": [
+      "derrick-barry",
+      "mayhem-miller"
+    ],
+    "lipSync": {
+      "song": "Livin' la Vida Loca",
+      "queenIds": [
+        "india-ferrah",
+        "yvie-oddly"
+      ],
+      "winnerIds": [
+        "yvie-oddly"
+      ],
+      "eliminatedIds": [
+        "derrick-barry"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Ricky Martin"
+      }
+    ]
+  },
+  {
+    "id": "AS-S05-E02",
+    "seasonId": "AS-S05",
+    "episodeNumber": 2,
+    "title": "I'm in Love!",
+    "maxiChallenge": {
+      "name": "Write, record, and choreograph a performance to \"I'm in Love!\"",
+      "winnerIds": [
+        "shea-coulee"
+      ]
+    },
+    "runwayTheme": "Love the Skin You're In",
+    "topIds": [
+      "shea-coulee"
+    ],
+    "bottomIds": [
+      "india-ferrah",
+      "mariah",
+      "ongina"
+    ],
+    "lipSync": {
+      "song": "Neutron Dance",
+      "queenIds": [
+        "shea-coulee",
+        "alyssa-edwards"
+      ],
+      "winnerIds": [
+        "shea-coulee"
+      ],
+      "eliminatedIds": [
+        "ongina"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Madison Beer"
+      },
+      {
+        "name": "Tessa Thompson"
+      }
+    ]
+  },
+  {
+    "id": "AS-S05-E03",
+    "seasonId": "AS-S05",
+    "episodeNumber": 3,
+    "title": "Get a Room!",
+    "maxiChallenge": {
+      "name": "Design and present a signature hotel suite",
+      "winnerIds": [
+        "jujubee"
+      ]
+    },
+    "runwayTheme": "3 Looks in 1",
+    "topIds": [
+      "jujubee"
+    ],
+    "bottomIds": [
+      "india-ferrah",
+      "mariah",
+      "shea-coulee"
+    ],
+    "lipSync": {
+      "song": "Juice",
+      "queenIds": [
+        "jujubee",
+        "monet-x-change"
+      ],
+      "winnerIds": [
+        "monet-x-change"
+      ],
+      "eliminatedIds": [
+        "mariah"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Nicole Byer"
+      },
+      {
+        "name": "Martyn Lawrence Bullard"
+      }
+    ]
+  },
+  {
+    "id": "AS-S05-E04",
+    "seasonId": "AS-S05",
+    "episodeNumber": 4,
+    "title": "SheMZ",
+    "maxiChallenge": {
+      "name": "Improv in a drag queen spoof of TMZ called SheMZ",
+      "winnerIds": [
+        "miz-cracker"
+      ]
+    },
+    "runwayTheme": "C'mon, Camo Couture!",
+    "topIds": [
+      "miz-cracker"
+    ],
+    "bottomIds": [
+      "india-ferrah",
+      "mayhem-miller"
+    ],
+    "lipSync": {
+      "song": "Where Have You Been",
+      "queenIds": [
+        "miz-cracker",
+        "morgan-mcmichaels"
+      ],
+      "winnerIds": [
+        "miz-cracker",
+        "morgan-mcmichaels"
+      ],
+      "eliminatedIds": [
+        "mayhem-miller"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Sarah Hyland"
+      }
+    ]
+  },
+  {
+    "id": "AS-S05-E05",
+    "seasonId": "AS-S05",
+    "episodeNumber": 5,
+    "title": "Snatch Game of Love",
+    "maxiChallenge": {
+      "name": "Snatch Game of Love",
+      "winnerIds": [
+        "shea-coulee"
+      ]
+    },
+    "runwayTheme": "Prom Queen Fantasy",
+    "topIds": [
+      "shea-coulee"
+    ],
+    "bottomIds": [
+      "alexis-mateo",
+      "blair-st-clair",
+      "india-ferrah",
+      "jujubee",
+      "miz-cracker"
+    ],
+    "lipSync": {
+      "song": "Open Your Heart",
+      "queenIds": [
+        "shea-coulee",
+        "vanessa-vanjie-mateo"
+      ],
+      "winnerIds": [
+        "shea-coulee"
+      ],
+      "eliminatedIds": [
+        "india-ferrah"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Jeffrey Bowyer-Chapman"
+      },
+      {
+        "name": "Tommy Dorfman"
+      }
+    ]
+  },
+  {
+    "id": "AS-S05-E06",
+    "seasonId": "AS-S05",
+    "episodeNumber": 6,
+    "title": "The Charles Family Backyard Ball",
+    "maxiChallenge": {
+      "name": "Present a Country Cousin character and a garden-materials Backyard Eleganza look",
+      "winnerIds": [
+        "miz-cracker"
+      ]
+    },
+    "runwayTheme": "Country Cousin Realness and Backyard Eleganza",
+    "topIds": [
+      "miz-cracker"
+    ],
+    "bottomIds": [
+      "alexis-mateo",
+      "blair-st-clair",
+      "jujubee",
+      "shea-coulee"
+    ],
+    "lipSync": {
+      "song": "One Last Time",
+      "queenIds": [
+        "miz-cracker",
+        "roxxxy-andrews"
+      ],
+      "winnerIds": [
+        "roxxxy-andrews"
+      ],
+      "eliminatedIds": [
+        "alexis-mateo"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Bebe Rexha"
+      }
+    ]
+  },
+  {
+    "id": "AS-S05-E07",
+    "seasonId": "AS-S05",
+    "episodeNumber": 7,
+    "title": "Stand-Up Smackdown",
+    "maxiChallenge": {
+      "name": "Perform a stand-up comedy routine",
+      "winnerIds": [
+        "miz-cracker"
+      ]
+    },
+    "runwayTheme": "Freak Out!",
+    "topIds": [
+      "miz-cracker"
+    ],
+    "bottomIds": [
+      "blair-st-clair",
+      "jujubee",
+      "shea-coulee"
+    ],
+    "lipSync": {
+      "song": "Fancy",
+      "queenIds": [
+        "miz-cracker",
+        "kennedy-davenport"
+      ],
+      "winnerIds": [
+        "miz-cracker"
+      ],
+      "eliminatedIds": [
+        "blair-st-clair"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Jane Krakowski"
+      },
+      {
+        "name": "Sam Richardson"
+      }
+    ]
+  },
+  {
+    "id": "AS-S05-E08",
+    "seasonId": "AS-S05",
+    "episodeNumber": 8,
+    "title": "Clap Back!",
+    "runwayTheme": "All Star Eleganza",
+    "topIds": [
+      "jujubee",
+      "miz-cracker",
+      "shea-coulee"
+    ],
+    "lipSync": {
+      "song": "Make Me Feel",
+      "queenIds": [
+        "jujubee",
+        "miz-cracker",
+        "shea-coulee"
+      ],
+      "winnerIds": [
+        "shea-coulee"
+      ],
+      "kind": "for-the-crown"
+    },
+    "guestJudges": [
+      {
+        "name": "Todrick Hall"
+      }
+    ]
+  }
+]

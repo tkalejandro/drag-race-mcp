@@ -20,6 +20,49 @@
         }
       ],
       "eliminatedEpisodeId": "US-S10-E07"
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S04-E01",
+          "name": "Perform a talent show in front of the judges and a live audience"
+        },
+        {
+          "episodeId": "AS-S04-E04",
+          "name": "Improvise in the courtroom show \"Jersey Justice\""
+        },
+        {
+          "episodeId": "AS-S04-E06",
+          "name": "Lip-sync LaLaPaRUza smackdown"
+        },
+        {
+          "episodeId": "AS-S04-E09",
+          "name": "Star in a Sex and the City mockumentary \"Sex and the Kitty, Girl 3\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S04-E04",
+          "song": "The Bitch Is Back"
+        },
+        {
+          "episodeId": "AS-S04-E06",
+          "song": "Peanut Butter / Kitty Girl / Adrenaline / Sissy That Walk"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S04-E01",
+          "song": "Emotions"
+        },
+        {
+          "episodeId": "AS-S04-E09",
+          "song": "When I Think of You"
+        }
+      ]
     }
   ]
 }

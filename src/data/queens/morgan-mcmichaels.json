@@ -30,6 +30,44 @@
         }
       ],
       "eliminatedEpisodeId": "US-S02-E05"
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S03-E07",
+      "reentered": true
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E01",
+          "name": "Write and perform original verses to \"Break Dancin' 2: Electric Rugaloo\""
+        },
+        {
+          "episodeId": "AS-S11-E03",
+          "name": "In pairs, host a live shopping show on the Home Spooky Network as mythical creatures"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E01",
+          "song": "Such a Wicked Love"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E03",
+          "song": "Zombieboy"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E03"
     }
   ]
 }

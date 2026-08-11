@@ -25,6 +25,15 @@
         }
       ],
       "eliminatedEpisodeId": "US-S10-E05"
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S05-E04"
     }
   ]
 }

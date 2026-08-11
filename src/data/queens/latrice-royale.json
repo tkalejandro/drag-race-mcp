@@ -58,6 +58,39 @@
       ],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S01-E03"
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S04-E06",
+          "name": "Lip-sync LaLaPaRUza smackdown"
+        },
+        {
+          "episodeId": "AS-S04-E07",
+          "name": "In teams, create and host your own nightclub"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S04-E01",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S04-E06",
+          "song": "Peanut Butter / Kitty Girl / Adrenaline / Sissy That Walk"
+        },
+        {
+          "episodeId": "AS-S04-E07",
+          "song": "You Spin Me Round (Like a Record)"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S04-E09",
+      "reentered": true
     }
   ]
 }

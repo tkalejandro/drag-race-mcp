@@ -30,6 +30,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S09-E11"
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E08",
+          "name": "Transform materials into a signature \"I'm a Winner, Baby!\" look"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S08-E08",
+          "song": "These Boots Are Made for Walkin'"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S08-E09"
     }
   ]
 }

@@ -19,6 +19,49 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E04",
+          "name": "In pairs, write, record, and perform original duets"
+        },
+        {
+          "episodeId": "AS-S11-E05",
+          "name": "Create, direct, and shoot a short informational how-to video"
+        },
+        {
+          "episodeId": "AS-S11-E10",
+          "name": "Write and perform storytelling in \"Tell Me Something Good\" Story Hour"
+        },
+        {
+          "episodeId": "AS-S11-E11",
+          "name": "Perform a talent in the Tournament of All Stars Talent Rumble"
+        },
+        {
+          "episodeId": "AS-S11-E12",
+          "name": "Disco Smackdown for the Crown lip-sync tournament"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E04",
+          "song": "No More Tears (Enough Is Enough)"
+        },
+        {
+          "episodeId": "AS-S11-E12",
+          "song": "Star Love / The Boss / The Main Event/Fight / Knock on Wood / MacArthur Park"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E05",
+          "song": "Hazy Shade of Winter"
+        }
+      ]
     }
   ]
 }
