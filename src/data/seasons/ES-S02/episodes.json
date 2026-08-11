@@ -1,0 +1,392 @@
+[
+  {
+    "id": "ES-S02-E01",
+    "seasonId": "ES-S02",
+    "episodeNumber": 1,
+    "title": "The New Presentation",
+    "miniChallenge": {
+      "name": "La maja desnuda photoshoot",
+      "winnerIds": [
+        "estrella-xtravaganza"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Present two looks",
+      "winnerIds": [
+        "onyx"
+      ]
+    },
+    "runwayTheme": "Reina / Símbolo de tu Ciudad",
+    "bottomIds": [
+      "marisa-prisa",
+      "samantha-ballentines"
+    ],
+    "lipSync": {
+      "song": "Todos me miran",
+      "queenIds": [
+        "marisa-prisa",
+        "samantha-ballentines"
+      ],
+      "winnerIds": [
+        "samantha-ballentines"
+      ],
+      "eliminatedIds": [
+        "marisa-prisa"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Gloria Trevi"
+      }
+    ]
+  },
+  {
+    "id": "ES-S02-E02",
+    "seasonId": "ES-S02",
+    "episodeNumber": 2,
+    "title": "Supremme Eleganza Talent Extravaganza",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "sharonne"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Talent show",
+      "winnerIds": [
+        "sharonne"
+      ]
+    },
+    "runwayTheme": "El Día de las Bestias",
+    "bottomIds": [
+      "ariel-rec",
+      "samantha-ballentines"
+    ],
+    "lipSync": {
+      "song": "Yo quiero bailar",
+      "queenIds": [
+        "ariel-rec",
+        "samantha-ballentines"
+      ],
+      "winnerIds": [
+        "samantha-ballentines"
+      ],
+      "eliminatedIds": [
+        "ariel-rec"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "La Zowi"
+      }
+    ]
+  },
+  {
+    "id": "ES-S02-E03",
+    "seasonId": "ES-S02",
+    "episodeNumber": 3,
+    "title": "Putricia's Diary",
+    "miniChallenge": {
+      "name": "Complete sayings",
+      "winnerIds": [
+        "diamante-merybrown",
+        "onyx"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Talk-show improv",
+      "winnerIds": [
+        "venedita-von-dash"
+      ]
+    },
+    "runwayTheme": "Mujeres Almodóvar",
+    "bottomIds": [
+      "jota-carajota",
+      "samantha-ballentines"
+    ],
+    "lipSync": {
+      "song": "Un año de amor",
+      "queenIds": [
+        "jota-carajota",
+        "samantha-ballentines"
+      ],
+      "winnerIds": [
+        "jota-carajota"
+      ],
+      "eliminatedIds": [
+        "samantha-ballentines"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Eduardo Casanova"
+      }
+    ]
+  },
+  {
+    "id": "ES-S02-E04",
+    "seasonId": "ES-S02",
+    "episodeNumber": 4,
+    "title": "The Drag Calling",
+    "maxiChallenge": {
+      "name": "Holy Drag Camp",
+      "winnerIds": [
+        "estrella-xtravaganza"
+      ]
+    },
+    "runwayTheme": "Dos Looks en Uno",
+    "bottomIds": [
+      "jota-carajota",
+      "juriji-der-klee"
+    ],
+    "lipSync": {
+      "song": "Baloncesto",
+      "queenIds": [
+        "jota-carajota",
+        "juriji-der-klee"
+      ],
+      "winnerIds": [
+        "juriji-der-klee"
+      ],
+      "eliminatedIds": [
+        "jota-carajota"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "La Prohibida"
+      }
+    ]
+  },
+  {
+    "id": "ES-S02-E05",
+    "seasonId": "ES-S02",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Recite poetry",
+      "winnerIds": [
+        "onyx"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "sharonne"
+      ]
+    },
+    "runwayTheme": "Muñeca Española",
+    "bottomIds": [
+      "diamante-merybrown",
+      "onyx"
+    ],
+    "lipSync": {
+      "song": "Arrasando",
+      "queenIds": [
+        "diamante-merybrown",
+        "onyx"
+      ],
+      "winnerIds": [
+        "diamante-merybrown"
+      ],
+      "eliminatedIds": [
+        "onyx"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "María León"
+      }
+    ]
+  },
+  {
+    "id": "ES-S02-E06",
+    "seasonId": "ES-S02",
+    "episodeNumber": 6,
+    "title": "The Spanish Ball",
+    "maxiChallenge": {
+      "name": "The Spanish Ball",
+      "winnerIds": [
+        "drag-sethlas"
+      ]
+    },
+    "runwayTheme": "Siglo de Oro / Siglo XX / Siglo XXX",
+    "bottomIds": [
+      "diamante-merybrown",
+      "estrella-xtravaganza"
+    ],
+    "lipSync": {
+      "song": "Se nos rompió el amor",
+      "queenIds": [
+        "diamante-merybrown",
+        "estrella-xtravaganza"
+      ],
+      "winnerIds": [
+        "estrella-xtravaganza"
+      ],
+      "eliminatedIds": [
+        "diamante-merybrown"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Choriza May"
+      }
+    ]
+  },
+  {
+    "id": "ES-S02-E07",
+    "seasonId": "ES-S02",
+    "episodeNumber": 7,
+    "title": "Come to Spain!",
+    "miniChallenge": {
+      "name": "Sumo fight",
+      "winnerIds": [
+        "estrella-xtravaganza"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Create Spain tourism ads in pairs",
+      "winnerIds": [
+        "estrella-xtravaganza",
+        "sharonne"
+      ]
+    },
+    "runwayTheme": "Noche de las Mil Raffaellas",
+    "bottomIds": [
+      "drag-sethlas",
+      "marina"
+    ],
+    "lipSync": {
+      "song": "Qué dolor",
+      "queenIds": [
+        "drag-sethlas",
+        "marina"
+      ],
+      "winnerIds": [
+        "marina"
+      ],
+      "eliminatedIds": [
+        "drag-sethlas"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Ruth Lorenzo"
+      }
+    ]
+  },
+  {
+    "id": "ES-S02-E08",
+    "seasonId": "ES-S02",
+    "episodeNumber": 8,
+    "title": "Comedy Club Roast",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": [
+        "sharonne"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Comedy roast",
+      "winnerIds": [
+        "marina"
+      ]
+    },
+    "runwayTheme": "Heroínas de España",
+    "bottomIds": [
+      "juriji-der-klee",
+      "venedita-von-dash"
+    ],
+    "lipSync": {
+      "song": "Fuego",
+      "queenIds": [
+        "juriji-der-klee",
+        "venedita-von-dash"
+      ],
+      "winnerIds": [
+        "venedita-von-dash"
+      ],
+      "eliminatedIds": [
+        "juriji-der-klee"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Anabel Alonso"
+      }
+    ]
+  },
+  {
+    "id": "ES-S02-E09",
+    "seasonId": "ES-S02",
+    "episodeNumber": 9,
+    "title": "Golden Boys Makeover",
+    "miniChallenge": {
+      "name": "Guess urn contents",
+      "winnerIds": [
+        "estrella-xtravaganza"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Makeover challenge",
+      "winnerIds": [
+        "venedita-von-dash"
+      ]
+    },
+    "runwayTheme": "Por Parejas",
+    "bottomIds": [
+      "estrella-xtravaganza",
+      "marina"
+    ],
+    "lipSync": {
+      "song": "El Anillo",
+      "queenIds": [
+        "estrella-xtravaganza",
+        "marina"
+      ],
+      "winnerIds": [
+        "estrella-xtravaganza",
+        "marina"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Alexis Mateo",
+        "queenId": "alexis-mateo"
+      }
+    ]
+  },
+  {
+    "id": "ES-S02-E10",
+    "seasonId": "ES-S02",
+    "episodeNumber": 10,
+    "title": "The Reunion"
+  },
+  {
+    "id": "ES-S02-E11",
+    "seasonId": "ES-S02",
+    "episodeNumber": 11,
+    "title": "Take Me to Heaven",
+    "runwayTheme": "Mi Mejor Look Drag",
+    "topIds": [
+      "estrella-xtravaganza",
+      "sharonne",
+      "venedita-von-dash"
+    ],
+    "lipSync": {
+      "song": "Ni tú ni nadie",
+      "queenIds": [
+        "estrella-xtravaganza",
+        "sharonne",
+        "venedita-von-dash"
+      ],
+      "winnerIds": [
+        "sharonne"
+      ],
+      "eliminatedIds": [
+        "marina"
+      ]
+    }
+  }
+]

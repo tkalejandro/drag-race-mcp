@@ -1,0 +1,61 @@
+[
+  {
+    "id": "es-s03-pitita-crown",
+    "title": "Pitita wins España Season 3",
+    "summary": "In the Grand Finale (ES-S03-E11), Pitita and Vania Vainilla lip-synced to Rocío Jurado's \"Punto de partida\". Pitita was crowned Spain's next Drag Superstar.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync"
+    ],
+    "queenIds": [
+      "pitita",
+      "vania-vainilla"
+    ],
+    "seasonIds": [
+      "ES-S03"
+    ],
+    "episodeIds": [
+      "ES-S03-E11"
+    ]
+  },
+  {
+    "id": "es-s03-macarena-return",
+    "title": "The Macarena returns for Season 3",
+    "summary": "The Macarena, first eliminated on España Season 1, returned as a surprise 13th contestant on Season 3 and placed 10th after elimination in ES-S03-E05.",
+    "tags": [
+      "return",
+      "twist"
+    ],
+    "queenIds": [
+      "the-macarena"
+    ],
+    "seasonIds": [
+      "ES-S01",
+      "ES-S03"
+    ],
+    "episodeIds": [
+      "ES-S03-E01",
+      "ES-S03-E05"
+    ]
+  },
+  {
+    "id": "es-s03-kelly-return",
+    "title": "Kelly Roller returns via Second Chance",
+    "summary": "After elimination in ES-S03-E04, Kelly Roller returned in ES-S03-E07's Second Chance challenge and ultimately finished as a finalist (tied 3rd/4th).",
+    "tags": [
+      "return",
+      "twist"
+    ],
+    "queenIds": [
+      "kelly-roller"
+    ],
+    "seasonIds": [
+      "ES-S03"
+    ],
+    "episodeIds": [
+      "ES-S03-E04",
+      "ES-S03-E07"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "luquisha-lubamba",
+  "name": "Luquisha Lubamba",
+  "appearances": [
+    {
+      "seasonId": "IT-S01",
+      "placement": 4,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S01-E01",
+          "song": "Occhi di gatto"
+        },
+        {
+          "episodeId": "IT-S01-E05",
+          "song": "Cicale"
+        }
+      ],
+      "lipSyncLosses": [],
+      "missCongeniality": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "silver-sonic",
+  "name": "Silver Sonic",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S02-E01",
+          "song": "Born Naked"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E02",
+          "song": "I Will Survive หมอลำ (I Will Survive Mor Lam)"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S02-E02"
+    }
+  ]
+}

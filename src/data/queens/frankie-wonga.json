@@ -1,0 +1,41 @@
+{
+  "id": "frankie-wonga",
+  "name": "Frankie Wonga",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S03-E01",
+          "name": "Perform a talent in the Talent Show Phenomenon"
+        },
+        {
+          "episodeId": "TH-S03-E07",
+          "name": "Improvise in the game show \"Dubble Trubble\""
+        },
+        {
+          "episodeId": "TH-S03-E09",
+          "name": "Write and record an episode for your own talk show"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S03-E03",
+          "name": "Perform a rap dressed as grandmas"
+        },
+        {
+          "episodeId": "TH-S03-E09",
+          "name": "Twerk on the most lemons while blindfolded"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E10",
+          "song": "ประวัติศาสตร์ (History)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

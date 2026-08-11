@@ -1,0 +1,35 @@
+{
+  "id": "antonina-nutshell",
+  "name": "Antonina Nutshell",
+  "appearances": [
+    {
+      "seasonId": "SE-S01",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "SE-S01-E04",
+          "name": "Reading is Fundamental (with a chance for a previously eliminated queen to return)"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "SE-S01-E04",
+          "song": "Kitty Girl"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "SE-S01-E02",
+          "song": "Jazzbacillen"
+        },
+        {
+          "episodeId": "SE-S01-E06",
+          "song": "Emergency"
+        }
+      ],
+      "eliminatedEpisodeId": "SE-S01-E06",
+      "reentered": true
+    }
+  ]
+}

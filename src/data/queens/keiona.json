@@ -1,0 +1,33 @@
+{
+  "id": "keiona",
+  "name": "Keiona",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S02-E05",
+          "name": "Le Bossu de Notre Drag: The Rusical"
+        },
+        {
+          "episodeId": "FR-S02-E06",
+          "name": "The Time Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S02-E05",
+          "name": "Grab a key from a jar filled with random substances to unlock a lock"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S02-E09",
+          "song": "Titanium"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

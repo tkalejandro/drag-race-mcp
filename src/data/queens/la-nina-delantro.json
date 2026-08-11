@@ -1,0 +1,42 @@
+{
+  "id": "la-nina-delantro",
+  "name": "La Niña Delantro",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S04-E04",
+          "name": "Girl groups \"Mis Amigas y Yo\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S04-E02",
+          "name": "Eye-focused quick drag"
+        },
+        {
+          "episodeId": "ES-S04-E07",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S04-E01",
+          "song": "Las 12"
+        },
+        {
+          "episodeId": "ES-S04-E06",
+          "song": "Mujer loba"
+        },
+        {
+          "episodeId": "ES-S04-E07",
+          "song": "Puedes contar conmigo"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ES-S04-E11"
+    }
+  ]
+}

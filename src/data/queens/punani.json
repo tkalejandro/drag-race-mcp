@@ -1,0 +1,37 @@
+{
+  "id": "punani",
+  "name": "Punani",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S02-E04",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S02-E01",
+          "name": "Garden photoshoot"
+        },
+        {
+          "episodeId": "FR-S02-E06",
+          "name": "Lip-sync live to \"Transfert Trottinette\" by Bilal Hassani"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S02-E05",
+          "song": "Le dernier jour du disco"
+        },
+        {
+          "episodeId": "FR-S02-E08",
+          "song": "Une femme avec une femme"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

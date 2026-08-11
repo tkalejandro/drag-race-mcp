@@ -1,0 +1,25 @@
+{
+  "id": "la-prada",
+  "name": "La Prada",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S03-E01",
+          "song": "Pazzeska"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S03-E07",
+          "song": "Up & Down (Don't Fall in Love with Me)"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S03-E07"
+    }
+  ]
+}

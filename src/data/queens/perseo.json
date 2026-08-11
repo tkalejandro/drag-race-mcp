@@ -1,0 +1,30 @@
+{
+  "id": "perseo",
+  "name": "Perseo",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S03-E02",
+          "name": "Perform a talent show in front of the judges"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S03-E06",
+          "name": "Bingo Loco"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S03-E06",
+          "song": "Hey Mama"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S03-E06"
+    }
+  ]
+}

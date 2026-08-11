@@ -1,0 +1,39 @@
+{
+  "id": "angelita-la-perversa",
+  "name": "Angelita La Perversa",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S04-E03",
+          "name": "Sitcom parody"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S04-E03",
+          "name": "Heel melon-split"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S04-E04",
+          "song": "Antagonista"
+        },
+        {
+          "episodeId": "ES-S04-E05",
+          "song": "El amor"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S04-E07",
+          "song": "Puedes contar conmigo"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S04-E07"
+    }
+  ]
+}

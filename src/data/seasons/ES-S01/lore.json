@@ -1,0 +1,62 @@
+[
+  {
+    "id": "es-s01-carmen-crown",
+    "title": "Carmen Farala wins España Season 1",
+    "summary": "In the Grand Finale (ES-S01-E09), Carmen Farala, Killer Queen, and Sagittaria lip-synced to Rocío Dúrcal's \"La gata bajo la lluvia\". Carmen Farala was crowned Spain's first Drag Superstar and won €30,000.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "iconic"
+    ],
+    "queenIds": [
+      "carmen-farala",
+      "killer-queen",
+      "sagittaria"
+    ],
+    "seasonIds": [
+      "ES-S01"
+    ],
+    "episodeIds": [
+      "ES-S01-E09"
+    ]
+  },
+  {
+    "id": "es-s01-macarena-porkchop",
+    "title": "The Macarena: España's first Porkchop",
+    "summary": "The Macarena was the first contestant eliminated on Drag Race España (ES-S01-E01), lip-syncing to Mónica Naranjo's \"Sobreviviré\" against Dovima Nurmi.",
+    "tags": [
+      "porkchop"
+    ],
+    "queenIds": [
+      "the-macarena",
+      "dovima-nurmi"
+    ],
+    "seasonIds": [
+      "ES-S01"
+    ],
+    "episodeIds": [
+      "ES-S01-E01"
+    ]
+  },
+  {
+    "id": "es-s01-inti-quit",
+    "title": "Inti quits before the lip sync",
+    "summary": "In ES-S01-E03, Inti and Dovima Nurmi were called as the bottom two. Inti quit during Untucked before lip-syncing; Dovima performed \"Mocatriz\" alone with no further elimination.",
+    "tags": [
+      "quit",
+      "drama",
+      "twist"
+    ],
+    "queenIds": [
+      "inti",
+      "dovima-nurmi"
+    ],
+    "seasonIds": [
+      "ES-S01"
+    ],
+    "episodeIds": [
+      "ES-S01-E03"
+    ]
+  }
+]

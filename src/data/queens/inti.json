@@ -1,0 +1,16 @@
+{
+  "id": "inti",
+  "name": "Inti",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ES-S01-E03",
+      "quit": true
+    }
+  ]
+}

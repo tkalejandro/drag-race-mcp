@@ -1,0 +1,41 @@
+{
+  "id": "alvilda",
+  "name": "Alvilda",
+  "appearances": [
+    {
+      "seasonId": "BE-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "BE-S02-E03",
+          "name": "Write, record, and perform verses to \"Attitude\" and \"Be Yourself\""
+        },
+        {
+          "episodeId": "BE-S02-E04",
+          "name": "Write and deliver a one minute proposal for a new drag law"
+        },
+        {
+          "episodeId": "BE-S02-E08",
+          "name": "Write, record and perform own verses to \"L'union fait la force\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BE-S02-E01",
+          "name": "Photoshoot while riding a mechanical unicorn"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S02-E07",
+          "song": "Mr/Mme"
+        },
+        {
+          "episodeId": "BE-S02-E08",
+          "song": "Too Young"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "adora-black",
+  "name": "Adora Black",
+  "appearances": [
+    {
+      "seasonId": "BR-S02",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S02-E02",
+          "name": "Create an outfit using paper"
+        },
+        {
+          "episodeId": "BR-S02-E06",
+          "name": "The Brazilian Cuisine Ball: three looks"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BR-S02-E07",
+          "name": "Salsicha Drag Jump: get in quick drag, tie a sausage to a rope around their waist and try to bite it"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S02-E05",
+          "song": "Tombei"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S02-E07",
+          "song": "Sissy That Walk"
+        }
+      ],
+      "eliminatedEpisodeId": "BR-S02-E07"
+    }
+  ]
+}

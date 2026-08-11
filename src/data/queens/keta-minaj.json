@@ -1,0 +1,33 @@
+{
+  "id": "keta-minaj",
+  "name": "Keta Minaj",
+  "appearances": [
+    {
+      "seasonId": "NL-S02",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S02-E01",
+          "name": "Perform a talent show in front of the judges"
+        },
+        {
+          "episodeId": "NL-S02-E03",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "NL-S02-E06",
+          "name": "Overact in the daytime television show \"Koffie Meid\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S02-E07",
+          "song": "Don't Stop Me Now"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S02-E07"
+    }
+  ]
+}

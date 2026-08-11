@@ -1,0 +1,25 @@
+{
+  "id": "amanda-tears",
+  "name": "Amanda Tears",
+  "appearances": [
+    {
+      "seasonId": "BE-S01",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S01-E01",
+          "song": "Tous les mêmes"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S01-E02",
+          "song": "Je t'aime"
+        }
+      ],
+      "eliminatedEpisodeId": "BE-S01-E02"
+    }
+  ]
+}

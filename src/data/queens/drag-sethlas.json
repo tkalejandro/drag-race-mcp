@@ -1,0 +1,25 @@
+{
+  "id": "drag-sethlas",
+  "name": "Drag Sethlas",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S02-E06",
+          "name": "The Spanish Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E07",
+          "song": "Qué dolor"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S02-E07"
+    }
+  ]
+}

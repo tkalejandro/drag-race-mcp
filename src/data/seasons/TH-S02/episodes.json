@@ -1,0 +1,295 @@
+[
+  {
+    "id": "TH-S02-E01",
+    "seasonId": "TH-S02",
+    "episodeNumber": 1,
+    "title": "Re-Born This Way",
+    "maxiChallenge": {
+      "name": "Re-Born This Way photoshoot",
+      "winnerIds": ["angele-anang", "katy-killer"]
+    },
+    "runwayTheme": "Create a 10-year-old and a 60-year-old drag persona look",
+    "topIds": ["angele-anang", "katy-killer", "srimala"],
+    "bottomIds": ["m-stranger-fox", "silver-sonic"],
+    "lipSync": {
+      "song": "Born Naked",
+      "queenIds": ["m-stranger-fox", "silver-sonic"],
+      "winnerIds": ["silver-sonic"],
+      "eliminatedIds": ["m-stranger-fox"]
+    },
+    "guestJudges": [
+      { "name": "Yai Amat Nimitpark" },
+      { "name": "Pitt Karchai" },
+      { "name": "Tae Piyarat Kaljareuk" }
+    ]
+  },
+  {
+    "id": "TH-S02-E02",
+    "seasonId": "TH-S02",
+    "episodeNumber": 2,
+    "title": "Under the Rainbow",
+    "miniChallenge": {
+      "name": "Match pairs of guys wearing the same color shorts",
+      "winnerIds": ["kandy-zyanide"]
+    },
+    "maxiChallenge": {
+      "name": "Colored powder photoshoot",
+      "winnerIds": ["genie"]
+    },
+    "runwayTheme": "Rainbow After the Rain",
+    "topIds": ["genie"],
+    "bottomIds": ["mocha-diva", "silver-sonic"],
+    "lipSync": {
+      "song": "I Will Survive หมอลำ (I Will Survive Mor Lam)",
+      "queenIds": ["mocha-diva", "silver-sonic"],
+      "winnerIds": ["mocha-diva"],
+      "eliminatedIds": ["silver-sonic"]
+    },
+    "guestJudges": [
+      { "name": "Nut Prakopsantisook" },
+      { "name": "Sonya Couling" }
+    ]
+  },
+  {
+    "id": "TH-S02-E03",
+    "seasonId": "TH-S02",
+    "episodeNumber": 3,
+    "title": "Thai Beauty",
+    "miniChallenge": {
+      "name": "Create a crown from scrap materials",
+      "winnerIds": ["maya-bharo"]
+    },
+    "maxiChallenge": {
+      "name": "Princess photoshoot",
+      "winnerIds": ["maya-bharo"]
+    },
+    "runwayTheme": "Sang Thong: Ugly to Pretty",
+    "topIds": ["maya-bharo"],
+    "bottomIds": ["kana-warrior", "katy-killer"],
+    "lipSync": {
+      "song": "ขอใจเธอแลกเบอร์โทร (Your Heart for My Number)",
+      "queenIds": ["kana-warrior", "katy-killer"],
+      "winnerIds": ["kana-warrior"],
+      "eliminatedIds": ["katy-killer"]
+    },
+    "guestJudges": [
+      { "name": "Sakuntala Thianphairot" },
+      { "name": "Vatanika" }
+    ]
+  },
+  {
+    "id": "TH-S02-E04",
+    "seasonId": "TH-S02",
+    "episodeNumber": 4,
+    "title": "Mother and Daughter",
+    "miniChallenge": {
+      "name": "In pairs, make each other over while blindfolded",
+      "winnerIds": ["miss-gimhuay"]
+    },
+    "maxiChallenge": {
+      "name": "Give drag makeovers to men in committed relationships, bridal theme",
+      "winnerIds": ["angele-anang"]
+    },
+    "topIds": ["angele-anang"],
+    "bottomIds": ["kana-warrior", "kandy-zyanide", "srimala"],
+    "lipSync": {
+      "song": "จดหมายรักจากเมียเช่า (A Love Letter from a Wife)",
+      "queenIds": ["kana-warrior", "kandy-zyanide", "srimala"],
+      "winnerIds": ["kana-warrior", "srimala"],
+      "eliminatedIds": ["kandy-zyanide"]
+    },
+    "guestJudges": [
+      { "name": "Robert Poonpipat" },
+      { "name": "Surivipa Poonpipat" }
+    ]
+  },
+  {
+    "id": "TH-S02-E05",
+    "seasonId": "TH-S02",
+    "episodeNumber": 5,
+    "title": "Hollywood Inspirations",
+    "miniChallenge": {
+      "name": "Improv acting challenge with models from The Face Men Thailand",
+      "winnerIds": ["tormai", "vanda-miss-joaquim"]
+    },
+    "maxiChallenge": {
+      "name": "Team lakorn: \"The Haunting Dolls\"",
+      "winnerIds": ["angele-anang", "bandit", "genie", "mocha-diva", "vanda-miss-joaquim"]
+    },
+    "runwayTheme": "Hollywood in Your Heart",
+    "topIds": ["angele-anang", "bandit", "genie", "mocha-diva", "vanda-miss-joaquim", "miss-gimhuay"],
+    "bottomIds": ["kana-warrior", "maya-bharo"],
+    "lipSync": {
+      "song": "สุดฤทธิ์สุดเดช (Suprit Suddet)",
+      "queenIds": ["kana-warrior", "maya-bharo"],
+      "winnerIds": [],
+      "eliminatedIds": ["kana-warrior", "maya-bharo"]
+    },
+    "guestJudges": [
+      { "name": "Cindy Bishop" },
+      { "name": "Pae Arak" }
+    ]
+  },
+  {
+    "id": "TH-S02-E06",
+    "seasonId": "TH-S02",
+    "episodeNumber": 6,
+    "title": "Power of Speech",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["tormai"]
+    },
+    "maxiChallenge": {
+      "name": "Talk Show with the finalists of Drag Race Thailand Season 1",
+      "winnerIds": ["angele-anang", "mocha-diva"]
+    },
+    "runwayTheme": "Miss Star of the Galaxy Pageant",
+    "topIds": ["angele-anang", "mocha-diva", "vanda-miss-joaquim"],
+    "bottomIds": ["mocha-diva", "srimala"],
+    "lipSync": {
+      "song": "เจ็บนิด...นิด (It Hurts a Little... a Little)",
+      "queenIds": ["mocha-diva", "srimala"],
+      "winnerIds": ["srimala"],
+      "eliminatedIds": ["mocha-diva"]
+    },
+    "guestJudges": [
+      { "name": "Maria Poonlertlarp" },
+      { "name": "John Winyu" },
+      { "name": "Moo Asava" }
+    ]
+  },
+  {
+    "id": "TH-S02-E07",
+    "seasonId": "TH-S02",
+    "episodeNumber": 7,
+    "title": "Food Lover",
+    "miniChallenge": {
+      "name": "Create a portrait out of Thai fruits and vegetables",
+      "winnerIds": ["angele-anang"]
+    },
+    "maxiChallenge": {
+      "name": "Create a runway look inspired by Thai cuisine",
+      "winnerIds": ["angele-anang"]
+    },
+    "topIds": ["angele-anang"],
+    "bottomIds": ["genie", "tormai", "vanda-miss-joaquim"],
+    "lipSync": {
+      "song": "กินจุ๊บจิ๊บ (Eat Kiss Jib)",
+      "queenIds": ["genie", "tormai", "vanda-miss-joaquim"],
+      "winnerIds": ["tormai", "vanda-miss-joaquim"],
+      "eliminatedIds": ["genie"]
+    },
+    "guestJudges": [
+      { "name": "James Rusameekae Fagerlund" },
+      { "name": "Madame Mod" },
+      { "name": "Tae Piyarat Kaljareuk" }
+    ]
+  },
+  {
+    "id": "TH-S02-E08",
+    "seasonId": "TH-S02",
+    "episodeNumber": 8,
+    "title": "Heavenly Snatch",
+    "maxiChallenge": {
+      "name": "Snatch Game of Love",
+      "winnerIds": ["tormai"]
+    },
+    "runwayTheme": "Cover and Reveal",
+    "topIds": ["tormai", "angele-anang"],
+    "bottomIds": ["srimala", "tormai"],
+    "lipSync": {
+      "song": "Lady Marmalade",
+      "queenIds": ["srimala", "tormai"],
+      "winnerIds": ["srimala"],
+      "eliminatedIds": ["tormai"]
+    },
+    "guestJudges": [
+      { "name": "Hungry" },
+      { "name": "Metinee Kingpayom" },
+      { "name": "Khemanit \"Pancake\" Jamikorn" }
+    ]
+  },
+  {
+    "id": "TH-S02-E09",
+    "seasonId": "TH-S02",
+    "episodeNumber": 9,
+    "title": "Thai Musical",
+    "maxiChallenge": {
+      "name": "Perform in a musical tribute to Apaporn Nakornsawan",
+      "winnerIds": ["kandy-zyanide"]
+    },
+    "runwayTheme": "Pumpuang Duangjan Realness",
+    "topIds": ["kandy-zyanide"],
+    "bottomIds": ["angele-anang", "kana-warrior"],
+    "lipSync": {
+      "song": "หางเครื่อง (Dancer)",
+      "queenIds": ["angele-anang", "kana-warrior"],
+      "winnerIds": ["angele-anang", "kana-warrior"]
+    },
+    "guestJudges": [
+      { "name": "Apaporn Nakornsawan" },
+      { "name": "Jennifer Kim" },
+      { "name": "Sombat \"Tue\" Tirasaroj" }
+    ]
+  },
+  {
+    "id": "TH-S02-E10",
+    "seasonId": "TH-S02",
+    "episodeNumber": 10,
+    "title": "Family Superheroes",
+    "maxiChallenge": {
+      "name": "Teach an exercise class to senior citizens",
+      "winnerIds": ["kana-warrior"]
+    },
+    "runwayTheme": "Twin Heroes",
+    "topIds": ["kana-warrior", "kandy-zyanide"],
+    "bottomIds": ["srimala", "vanda-miss-joaquim"],
+    "lipSync": {
+      "song": "This Is Me",
+      "queenIds": ["srimala", "vanda-miss-joaquim"],
+      "winnerIds": ["vanda-miss-joaquim"],
+      "eliminatedIds": ["srimala"]
+    },
+    "guestJudges": [
+      { "name": "New & Jiew" },
+      { "name": "New Atiwat" },
+      { "name": "Petch Paopetch" }
+    ]
+  },
+  {
+    "id": "TH-S02-E11",
+    "seasonId": "TH-S02",
+    "episodeNumber": 11,
+    "title": "White Elephants",
+    "maxiChallenge": {
+      "name": "Write and record lyrics for a song and perform in a music video",
+      "winnerIds": ["kandy-zyanide"]
+    },
+    "runwayTheme": "White Elephant Extravaganza",
+    "topIds": ["kandy-zyanide", "kana-warrior"],
+    "bottomIds": ["angele-anang", "bandit", "vanda-miss-joaquim"],
+    "lipSync": {
+      "song": "Last Dance",
+      "queenIds": ["angele-anang", "bandit", "vanda-miss-joaquim"],
+      "winnerIds": ["angele-anang"],
+      "eliminatedIds": ["bandit", "vanda-miss-joaquim"]
+    },
+    "guestJudges": [
+      { "name": "Gene Kasidit" },
+      { "name": "Jai Sira" }
+    ]
+  },
+  {
+    "id": "TH-S02-E12",
+    "seasonId": "TH-S02",
+    "episodeNumber": 12,
+    "title": "Queens Reunited"
+  },
+  {
+    "id": "TH-S02-E13",
+    "seasonId": "TH-S02",
+    "episodeNumber": 13,
+    "title": "Final Runway",
+    "runwayTheme": "Nang Sita 2040"
+  }
+]

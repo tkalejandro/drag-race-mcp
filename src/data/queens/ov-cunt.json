@@ -1,0 +1,29 @@
+{
+  "id": "ov-cunt",
+  "name": "ØV Cünt",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S02-E08",
+          "name": "Create, market, and film a commercial for your own shampoo"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S02-E07",
+          "song": "A Little Kiss, a Little Hug"
+        },
+        {
+          "episodeId": "PH-S02-E09",
+          "song": "Dati"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S02-E09"
+    }
+  ]
+}

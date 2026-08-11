@@ -1,0 +1,30 @@
+{
+  "id": "bestiah",
+  "name": "Bestiah",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S03-E01",
+          "name": "Talent show"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S03-E08",
+          "name": "Blindfold face paint"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E08",
+          "song": "La niña"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S03-E08"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ignus-ars",
+  "name": "Ignus Ars",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E01",
+          "song": "Me río de ti"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S02-E01"
+    }
+  ]
+}

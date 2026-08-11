@@ -1,0 +1,37 @@
+{
+  "id": "aura-eternal",
+  "name": "Aura Eternal",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S02-E02",
+          "name": "In teams, act in the soap opera \"Il segreto... mica poi tanto!!\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S02-E04",
+          "name": "Horoscope quiz"
+        },
+        {
+          "episodeId": "IT-S02-E06",
+          "name": "Guess the number of foods on a pit crew member's body blindfolded"
+        },
+        {
+          "episodeId": "IT-S02-E07",
+          "name": "Paint a full face of makeup while twirling a hula hoop"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S02-E08",
+          "song": "Festival"
+        }
+      ]
+    }
+  ]
+}

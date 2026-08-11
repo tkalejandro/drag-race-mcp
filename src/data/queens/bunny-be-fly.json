@@ -1,0 +1,20 @@
+{
+  "id": "bunny-be-fly",
+  "name": "Bunny Be Fly",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S01-E02",
+          "song": "รักยังไม่ต้องการ (I Don't Want Love Yet)"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S01-E02"
+    }
+  ]
+}

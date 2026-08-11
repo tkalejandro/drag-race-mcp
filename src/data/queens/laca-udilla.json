@@ -1,0 +1,29 @@
+{
+  "id": "laca-udilla",
+  "name": "Laca Udilla",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S05-E04",
+          "name": "Girl groups"
+        },
+        {
+          "episodeId": "ES-S05-E09",
+          "name": "Makeover challenge"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S05-E04",
+          "name": "Shake balls from a box"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ES-S05-E11"
+    }
+  ]
+}

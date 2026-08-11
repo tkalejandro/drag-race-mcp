@@ -1,0 +1,38 @@
+{
+  "id": "bernie",
+  "name": "Bernie",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S02-E02",
+          "name": "Write, record, and perform verses to \"BOOGSH!\""
+        },
+        {
+          "episodeId": "PH-S02-E07",
+          "name": "Makeover members of the Golden Gays"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S02-E07",
+          "name": "Apply makeup using only one compact mirror and pose for a photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S02-E07",
+          "song": "A Little Kiss, a Little Hug"
+        },
+        {
+          "episodeId": "PH-S02-E08",
+          "song": "The Power"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PH-S02-E10"
+    }
+  ]
+}

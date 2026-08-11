@@ -1,0 +1,34 @@
+{
+  "id": "melina-blley",
+  "name": "Melina Blley",
+  "appearances": [
+    {
+      "seasonId": "BR-S02",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BR-S02-E04",
+          "name": "Get in quick drag and take a photo for a Grindr profile"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S02-E03",
+          "song": "The Beginning"
+        },
+        {
+          "episodeId": "BR-S02-E08",
+          "song": "Bixinho (Lux & Tróia – Remix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S02-E01",
+          "song": "Funk Rave"
+        }
+      ],
+      "eliminatedEpisodeId": "BR-S02-E10"
+    }
+  ]
+}

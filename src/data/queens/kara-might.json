@@ -1,0 +1,20 @@
+{
+  "id": "kara-might",
+  "name": "Kara Might",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E03",
+          "song": "ฟ้ารักพ่อ (DILF)"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S03-E03"
+    }
+  ]
+}

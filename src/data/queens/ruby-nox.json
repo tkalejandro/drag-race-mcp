@@ -1,0 +1,40 @@
+{
+  "id": "ruby-nox",
+  "name": "Ruby Nox",
+  "appearances": [
+    {
+      "seasonId": "BR-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S02-E01",
+          "name": "Perform a choreography to Grag Queen's song \"Boogie Brasil\""
+        },
+        {
+          "episodeId": "BR-S02-E08",
+          "name": "Perform a roast of Bruna Braga"
+        },
+        {
+          "episodeId": "BR-S02-E09",
+          "name": "Makeover five Pit Crew members"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S02-E01",
+          "song": "Funk Rave"
+        },
+        {
+          "episodeId": "BR-S02-E07",
+          "song": "Sissy That Walk"
+        },
+        {
+          "episodeId": "BR-S02-E10",
+          "song": "O Amor e o Poder"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

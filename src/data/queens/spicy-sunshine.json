@@ -1,0 +1,46 @@
+{
+  "id": "spicy-sunshine",
+  "name": "Spicy Sunshine",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S03-E05",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S03-E01",
+          "name": "Thai Tea Photoshoot"
+        },
+        {
+          "episodeId": "TH-S03-E08",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E02",
+          "song": "บุ๋ง"
+        },
+        {
+          "episodeId": "TH-S03-E03",
+          "song": "ฟ้ารักพ่อ (DILF)"
+        },
+        {
+          "episodeId": "TH-S03-E08",
+          "song": "Call Me Mother"
+        },
+        {
+          "episodeId": "TH-S03-E09",
+          "song": "ร (W8)"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "TH-S03-E10"
+    }
+  ]
+}

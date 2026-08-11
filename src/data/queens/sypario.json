@@ -1,0 +1,43 @@
+{
+  "id": "sypario",
+  "name": "Sypario",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S03-E03",
+          "name": "Paola & Chiara: Un Rusical Da Favola Non Autorizzato"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S03-E02",
+          "name": "Musical chairs"
+        },
+        {
+          "episodeId": "IT-S03-E04",
+          "name": "Photobomb famous pictures"
+        },
+        {
+          "episodeId": "IT-S03-E07",
+          "name": "Play \"Un, due, tre, drag!\""
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S03-E06",
+          "song": "Vamos a bailar (Esta vida nueva)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S03-E09",
+          "song": "Mon amour"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S03-E09"
+    }
+  ]
+}

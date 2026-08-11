@@ -1,0 +1,25 @@
+{
+  "id": "miss-vallarta",
+  "name": "Miss Vallarta",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S01-E01",
+          "song": "En la obscuridad"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S01-E02",
+          "song": "Mírala, míralo"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S01-E02"
+    }
+  ]
+}

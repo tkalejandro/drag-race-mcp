@@ -1,0 +1,25 @@
+{
+  "id": "corazon",
+  "name": "Corazon",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S01-E02",
+          "name": "The Hard Greasy Pole Game"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E02",
+          "song": "I'm Feeling Sexy Tonight"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E02"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "le-riche",
+  "name": "Le Riche",
+  "appearances": [
+    {
+      "seasonId": "IT-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S01-E04",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S01-E02",
+          "song": "Comprami"
+        },
+        {
+          "episodeId": "IT-S01-E03",
+          "song": "Fiesta (Spanish Version)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S01-E06",
+          "song": "Non sono una signora"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "th-s02-angele-crown",
+    "title": "Angele Anang wins Drag Race Thailand Season 2",
+    "summary": "At the Final Runway (TH-S02-E13), Angele Anang was crowned the winner of Drag Race Thailand Season 2, with Kana Warrior and Kandy Zyanide finishing as runners-up.",
+    "tags": ["crown", "finale"],
+    "queenIds": ["angele-anang", "kana-warrior", "kandy-zyanide"],
+    "seasonIds": ["TH-S02"],
+    "episodeIds": ["TH-S02-E13"]
+  },
+  {
+    "id": "th-s02-mstranger-porkchop",
+    "title": "M Stranger Fox: Season 2 Porkchop",
+    "summary": "M Stranger Fox was the first contestant eliminated on Drag Race Thailand Season 2 (TH-S02-E01), losing a lip sync to \"Born Naked\" against Silver Sonic.",
+    "tags": ["porkchop"],
+    "queenIds": ["m-stranger-fox", "silver-sonic"],
+    "seasonIds": ["TH-S02"],
+    "episodeIds": ["TH-S02-E01"]
+  },
+  {
+    "id": "th-s02-kana-kandy-return",
+    "title": "Kana Warrior and Kandy Zyanide return to the competition",
+    "summary": "Kana Warrior (eliminated TH-S02-E05) and Kandy Zyanide (eliminated TH-S02-E04) both re-entered the competition after TH-S02-E08 and went on to finish tied as runners-up.",
+    "tags": ["return", "twist"],
+    "queenIds": ["kana-warrior", "kandy-zyanide"],
+    "seasonIds": ["TH-S02"],
+    "episodeIds": ["TH-S02-E04", "TH-S02-E05", "TH-S02-E08", "TH-S02-E13"]
+  },
+  {
+    "id": "th-s02-miss-gimhuay-dq",
+    "title": "Miss Gimhuay disqualified",
+    "summary": "In TH-S02-E06, it was revealed that Miss Gimhuay had brought unauthorized props into the TH-S02-E05 runway challenge, violating competition rules. She was disqualified from the competition.",
+    "tags": ["controversy", "twist"],
+    "queenIds": ["miss-gimhuay"],
+    "seasonIds": ["TH-S02"],
+    "episodeIds": ["TH-S02-E05", "TH-S02-E06"]
+  }
+]

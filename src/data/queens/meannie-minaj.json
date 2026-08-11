@@ -1,0 +1,20 @@
+{
+  "id": "meannie-minaj",
+  "name": "Meannie Minaj",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S01-E01",
+          "song": "Born This Way"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S01-E01"
+    }
+  ]
+}

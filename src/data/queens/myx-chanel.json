@@ -1,0 +1,35 @@
+{
+  "id": "myx-chanel",
+  "name": "Myx Chanel",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S03-E02",
+          "name": "The Sustaina-Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S03-E08",
+          "name": "Attempt to smash a hanging clay pot while blindfolded in one minute"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S03-E03",
+          "song": "Miss Manila"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S03-E08",
+          "song": "Ligaw Tingin"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S03-E08"
+    }
+  ]
+}

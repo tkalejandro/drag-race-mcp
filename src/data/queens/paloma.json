@@ -1,0 +1,37 @@
+{
+  "id": "paloma",
+  "name": "Paloma",
+  "appearances": [
+    {
+      "seasonId": "FR-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S01-E02",
+          "name": "Act in the Dix Pour Cent parody \"Queen Pour Cent\""
+        },
+        {
+          "episodeId": "FR-S01-E06",
+          "name": "Write and produce perfume advertisements"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S01-E06",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S01-E05",
+          "song": "Libertine"
+        },
+        {
+          "episodeId": "FR-S01-E08",
+          "song": "Mourir sur scène"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

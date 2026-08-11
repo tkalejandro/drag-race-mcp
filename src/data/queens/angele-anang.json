@@ -1,0 +1,49 @@
+{
+  "id": "angele-anang",
+  "name": "Angele Anang",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E01",
+          "name": "Re-Born This Way photoshoot"
+        },
+        {
+          "episodeId": "TH-S02-E04",
+          "name": "Give drag makeovers to men in committed relationships, bridal theme"
+        },
+        {
+          "episodeId": "TH-S02-E05",
+          "name": "Team lakorn: \"The Haunting Dolls\""
+        },
+        {
+          "episodeId": "TH-S02-E06",
+          "name": "Talk Show with the finalists of Drag Race Thailand Season 1"
+        },
+        {
+          "episodeId": "TH-S02-E07",
+          "name": "Create a runway look inspired by Thai cuisine"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S02-E07",
+          "name": "Create a portrait out of Thai fruits and vegetables"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S02-E09",
+          "song": "หางเครื่อง (Dancer)"
+        },
+        {
+          "episodeId": "TH-S02-E11",
+          "song": "Last Dance"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

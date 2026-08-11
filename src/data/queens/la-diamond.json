@@ -1,0 +1,41 @@
+{
+  "id": "la-diamond",
+  "name": "La Diamond",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S02-E01",
+          "name": "Create an Italian art inspired look made from unconventional materials"
+        },
+        {
+          "episodeId": "IT-S02-E03",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "IT-S02-E04",
+          "name": "Improvise as fortune tellers reading tarots to the queens from Season 1"
+        },
+        {
+          "episodeId": "IT-S02-E07",
+          "name": "Perform a roast of the judges and an audience of Italian sciure"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S02-E05",
+          "name": "Tuckis Roulant"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S02-E08",
+          "song": "Festival"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

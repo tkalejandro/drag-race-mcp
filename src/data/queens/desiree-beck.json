@@ -1,0 +1,30 @@
+{
+  "id": "desiree-beck",
+  "name": "DesiRée Beck",
+  "appearances": [
+    {
+      "seasonId": "BR-S02",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S02-E05",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S02-E04",
+          "song": "Brasil"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S02-E06",
+          "song": "A Dona Aranha"
+        }
+      ],
+      "eliminatedEpisodeId": "BR-S02-E06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la-kahena",
+  "name": "La Kahena",
+  "appearances": [
+    {
+      "seasonId": "FR-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S01-E01",
+          "song": "Prière païenne"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S01-E01"
+    }
+  ]
+}

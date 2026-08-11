@@ -1,0 +1,31 @@
+{
+  "id": "b-ella",
+  "name": "B Ella",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S01-E06",
+          "name": "In pairs, create parodies of Line Mobile commercials"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S01-E06",
+          "name": "Line Mobile presentation clip"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S01-E07",
+          "song": "Crazy in Love"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S01-E07",
+      "missCongeniality": true
+    }
+  ]
+}

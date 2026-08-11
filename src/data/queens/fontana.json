@@ -1,0 +1,33 @@
+{
+  "id": "fontana",
+  "name": "Fontana",
+  "appearances": [
+    {
+      "seasonId": "SE-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "SE-S01-E06",
+          "name": "Makeover MMA fighter Simon Sköld and his macho gang of guys"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "SE-S01-E02",
+          "name": "Apply drag makeup in the dark"
+        },
+        {
+          "episodeId": "SE-S01-E05",
+          "name": "Sell products from Melodifestivalen"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "SE-S01-E05",
+          "song": "Euphoria"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

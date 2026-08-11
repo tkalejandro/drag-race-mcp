@@ -1,0 +1,29 @@
+{
+  "id": "ferrxn",
+  "name": "Ferrxn",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S05-E02",
+          "name": "Ice-cream backstory pairs"
+        },
+        {
+          "episodeId": "ES-S05-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S05-E07",
+          "song": "KITT y los coches del pasado"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S05-E07"
+    }
+  ]
+}

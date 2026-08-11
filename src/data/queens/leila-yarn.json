@@ -1,0 +1,30 @@
+{
+  "id": "leila-yarn",
+  "name": "Leila Yarn",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S03-E05",
+          "name": "Vogue battle"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S03-E02",
+          "song": "2 Be Loved (Am I Ready)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S03-E08",
+          "song": "Believe"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S03-E08"
+    }
+  ]
+}

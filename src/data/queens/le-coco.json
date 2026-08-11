@@ -1,0 +1,41 @@
+{
+  "id": "le-coco",
+  "name": "Le Cocó",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S04-E07",
+          "name": "Product ads"
+        },
+        {
+          "episodeId": "ES-S04-E08",
+          "name": "Roast / awards show"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S04-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S04-E09",
+          "song": "Las Babys"
+        },
+        {
+          "episodeId": "ES-S04-E11",
+          "song": "Diva"
+        },
+        {
+          "episodeId": "ES-S04-E12",
+          "song": "Va todo al ganador"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

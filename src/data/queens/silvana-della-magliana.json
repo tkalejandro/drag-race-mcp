@@ -1,0 +1,29 @@
+{
+  "id": "silvana-della-magliana",
+  "name": "Silvana Della Magliana",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S03-E02",
+          "name": "In teams, act in a Grease-inspired scene called \"Pink Queens\""
+        },
+        {
+          "episodeId": "IT-S03-E06",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S03-E10",
+          "song": "Siamo donne"
+        }
+      ],
+      "lipSyncLosses": [],
+      "missCongeniality": true
+    }
+  ]
+}

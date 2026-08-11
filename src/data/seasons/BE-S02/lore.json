@@ -1,0 +1,29 @@
+[
+  {
+    "id": "be-s02-alvilda-crown",
+    "title": "Alvilda wins Drag Race Belgique Season 2",
+    "summary": "The Grand Finale (BE-S02-E08) featured a Lip-Sync Smackdown for the Crown among the final four. Alvilda beat Gabanna to \"Physical\", La Veuve beat Loulou Velvet to \"Warrior\", and Alvilda then beat La Veuve to Hyphen Hyphen's \"Too Young\" to be crowned the winner of season 2. La Veuve finished as runner-up.",
+    "tags": ["crown", "finale", "lip-sync", "international"],
+    "queenIds": ["alvilda", "la-veuve", "gabanna", "loulou-velvet"],
+    "seasonIds": ["BE-S02"],
+    "episodeIds": ["BE-S02-E08"]
+  },
+  {
+    "id": "be-s02-sarah-logan-porkchop",
+    "title": "Sarah Logan: Season 2's first Porkchop",
+    "summary": "Sarah Logan was the first contestant eliminated on Drag Race Belgique season 2 (BE-S02-E02), lip-syncing to Hooverphonic's \"Mad About You\" against Chloe Clarke.",
+    "tags": ["porkchop", "international"],
+    "queenIds": ["sarah-logan", "chloe-clarke"],
+    "seasonIds": ["BE-S02"],
+    "episodeIds": ["BE-S02-E02"]
+  },
+  {
+    "id": "be-s02-morphae-quit",
+    "title": "Morphæ quits before the Masquerade lip sync",
+    "summary": "In BE-S02-E04, Morphæ chose to leave the competition before the bottom two were revealed. Rita Baga told Loulou Velvet that she and Morphæ would have been the bottom two, and Loulou performed a solo lip sync to Netta's \"Toy\" with no further elimination.",
+    "tags": ["quit", "twist", "international"],
+    "queenIds": ["morphae", "loulou-velvet"],
+    "seasonIds": ["BE-S02"],
+    "episodeIds": ["BE-S02-E04"]
+  }
+]

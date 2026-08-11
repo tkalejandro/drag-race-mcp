@@ -1,0 +1,29 @@
+[
+  {
+    "id": "it-s01-elecktra-bionic-crown",
+    "title": "Elecktra Bionic wins Drag Race Italia Season 1",
+    "summary": "In the Grand Finale (IT-S01-E06), Elecktra Bionic, Farida Kant, and Le Riche lip-synced to Loredana Bertè's \"Non sono una signora\". Elecktra Bionic was crowned the winner without ever winning a maxi challenge or lip-syncing before the finale, with Farida Kant and Le Riche as runners-up.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["elecktra-bionic", "farida-kant", "le-riche"],
+    "seasonIds": ["IT-S01"],
+    "episodeIds": ["IT-S01-E06"]
+  },
+  {
+    "id": "it-s01-ivana-vamp-porkchop",
+    "title": "Ivana Vamp: Italia's first Porkchop",
+    "summary": "Ivana Vamp was the first contestant eliminated on Drag Race Italia (IT-S01-E02), losing the lip sync to \"Comprami\" against Le Riche.",
+    "tags": ["porkchop"],
+    "queenIds": ["ivana-vamp", "le-riche"],
+    "seasonIds": ["IT-S01"],
+    "episodeIds": ["IT-S01-E02"]
+  },
+  {
+    "id": "it-s01-enorma-jean-disqualified",
+    "title": "Enorma Jean disqualified",
+    "summary": "After swearing at and insulting production backstage, Enorma Jean and Ava Hangar were both put up for a punishment lip sync to RuPaul's \"Champion\" in IT-S01-E04. Ava Hangar won and remained in the competition, while Enorma Jean was disqualified outright.",
+    "tags": ["controversy", "drama"],
+    "queenIds": ["enorma-jean", "ava-hangar"],
+    "seasonIds": ["IT-S01"],
+    "episodeIds": ["IT-S01-E04"]
+  }
+]

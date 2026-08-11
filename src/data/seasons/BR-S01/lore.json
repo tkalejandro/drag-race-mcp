@@ -1,0 +1,20 @@
+[
+  {
+    "id": "br-s01-organzza-crown",
+    "title": "Organzza wins Drag Race Brasil Season 1",
+    "summary": "In the Grand Finale (BR-S01-E12), the final four — Betina Polaroid, Hellena Malditta, Miranda Lebrão, and Organzza — lip-synced to Anitta's \"Envolver\". Organzza was crowned the winner of Drag Race Brasil's first season; Betina Polaroid, Hellena Malditta, and Miranda Lebrão all finished as runners-up.",
+    "tags": ["crown", "finale", "lip-sync", "international"],
+    "queenIds": ["organzza", "betina-polaroid", "hellena-malditta", "miranda-lebrao"],
+    "seasonIds": ["BR-S01"],
+    "episodeIds": ["BR-S01-E12"]
+  },
+  {
+    "id": "br-s01-diva-more-porkchop",
+    "title": "Diva More: Brazil's first Porkchop",
+    "summary": "Diva More was the first contestant eliminated on Drag Race Brasil (BR-S01-E02), losing \"Bandida\" by Pabllo Vittar ft. Pocah to Betina Polaroid after a split premiere with no elimination in episode 1.",
+    "tags": ["porkchop", "international"],
+    "queenIds": ["diva-more", "betina-polaroid"],
+    "seasonIds": ["BR-S01"],
+    "episodeIds": ["BR-S01-E02"]
+  }
+]

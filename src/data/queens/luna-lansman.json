@@ -1,0 +1,35 @@
+{
+  "id": "luna-lansman",
+  "name": "Luna Lansman",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S02-E05",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "MX-S02-E06",
+          "name": "Create an outfit made from sports equipment"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S02-E03",
+          "song": "Ni una Sola Palabra"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E07",
+          "song": "Me Hipnotizas"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S02-E07",
+      "missCongeniality": true
+    }
+  ]
+}

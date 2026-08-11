@@ -1,0 +1,29 @@
+{
+  "id": "loulou-velvet",
+  "name": "Loulou Velvet",
+  "appearances": [
+    {
+      "seasonId": "BE-S02",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "BE-S02-E02",
+          "name": "Create a monochromatic look made from unconventional materials based on the colors of the rainbow"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S02-E06",
+          "song": "Trustfall"
+        },
+        {
+          "episodeId": "BE-S02-E07",
+          "song": "Mr/Mme"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "BE-S02-E08"
+    }
+  ]
+}

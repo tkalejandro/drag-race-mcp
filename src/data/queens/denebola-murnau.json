@@ -1,0 +1,25 @@
+{
+  "id": "denebola-murnau",
+  "name": "Denébola Murnau",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S05-E03",
+          "name": "Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S05-E06",
+          "song": "Yo tengo un novio"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S05-E06"
+    }
+  ]
+}

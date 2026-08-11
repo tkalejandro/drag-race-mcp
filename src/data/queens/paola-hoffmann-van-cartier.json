@@ -1,0 +1,20 @@
+{
+  "id": "paola-hoffmann-van-cartier",
+  "name": "Paola Hoffmann Van Cartier",
+  "appearances": [
+    {
+      "seasonId": "BR-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S02-E03",
+          "song": "The Beginning"
+        }
+      ],
+      "eliminatedEpisodeId": "BR-S02-E03"
+    }
+  ]
+}

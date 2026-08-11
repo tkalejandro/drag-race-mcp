@@ -1,0 +1,29 @@
+{
+  "id": "vanity-vain",
+  "name": "Vanity Vain",
+  "appearances": [
+    {
+      "seasonId": "SE-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "SE-S01-E03",
+          "name": "Create an avant-garde outfit made from recycled materials"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "SE-S01-E02",
+          "song": "Jazzbacillen"
+        },
+        {
+          "episodeId": "SE-S01-E07",
+          "song": "Kisses of Fire"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "SE-S01-E08"
+    }
+  ]
+}

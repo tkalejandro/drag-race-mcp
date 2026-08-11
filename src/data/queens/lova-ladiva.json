@@ -1,0 +1,25 @@
+{
+  "id": "lova-ladiva",
+  "name": "Lova Ladiva",
+  "appearances": [
+    {
+      "seasonId": "FR-S01",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S01-E01",
+          "song": "Prière païenne"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S01-E02",
+          "song": "Toutes les femmes de ta vie"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S01-E02"
+    }
+  ]
+}

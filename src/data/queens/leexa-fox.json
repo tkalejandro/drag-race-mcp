@@ -1,0 +1,28 @@
+{
+  "id": "leexa-fox",
+  "name": "Leexa Fox",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S02-E03",
+          "name": "The Fair Ball: create three looks"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S02-E08",
+          "song": "One, Two, Three, Go!"
+        },
+        {
+          "episodeId": "MX-S02-E12",
+          "song": "Bzrp Music Sessions, Vol. 53"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "janey-jacke",
+  "name": "Janey Jacké",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S01-E01",
+          "name": "Present a look based on your favorite queen"
+        },
+        {
+          "episodeId": "NL-S01-E07",
+          "name": "Máxima, The Rusical"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S01-E05",
+          "name": "Naked photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S01-E06",
+          "song": "9 to 5"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S01-E08",
+          "song": "Born This Way"
+        }
+      ]
+    }
+  ]
+}

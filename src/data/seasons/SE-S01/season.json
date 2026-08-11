@@ -1,0 +1,40 @@
+{
+  "id": "SE-S01",
+  "franchise": "SE",
+  "name": "Drag Race Sverige Season 1",
+  "seasonNumber": 1,
+  "year": 2023,
+  "episodeCount": 8,
+  "episodeIds": [
+    "SE-S01-E01",
+    "SE-S01-E02",
+    "SE-S01-E03",
+    "SE-S01-E04",
+    "SE-S01-E05",
+    "SE-S01-E06",
+    "SE-S01-E07",
+    "SE-S01-E08"
+  ],
+  "castIds": [
+    "admira-thunderpussy",
+    "fontana",
+    "vanity-vain",
+    "elecktra",
+    "antonina-nutshell",
+    "santana-sexmachine",
+    "imaa-queen",
+    "endigo",
+    "almighty-aphroditey"
+  ],
+  "winnerId": "admira-thunderpussy",
+  "runnerUpIds": ["fontana"],
+  "porkchopId": "almighty-aphroditey",
+  "hosts": [{ "name": "Robert Fux" }],
+  "judges": [
+    { "name": "Robert Fux" },
+    { "name": "Kayo" },
+    { "name": "Farao Groth" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "SEK" }
+}

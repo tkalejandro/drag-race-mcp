@@ -1,0 +1,29 @@
+{
+  "id": "vanessa-van-cartier",
+  "name": "Vanessa Van Cartier",
+  "appearances": [
+    {
+      "seasonId": "NL-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S02-E05",
+          "name": "Makeover a family member, partner or friend"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S02-E07",
+          "name": "Impersonate a castmate in the Miss Match pageant"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S02-E08",
+          "song": "This Is My Life"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

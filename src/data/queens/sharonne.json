@@ -1,0 +1,41 @@
+{
+  "id": "sharonne",
+  "name": "Sharonne",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S02-E02",
+          "name": "Talent show"
+        },
+        {
+          "episodeId": "ES-S02-E05",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "ES-S02-E07",
+          "name": "Create Spain tourism ads in pairs"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S02-E02",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "ES-S02-E08",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S02-E11",
+          "song": "Ni tú ni nadie"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "captivating-katkat",
+  "name": "Captivating Katkat",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S02-E04",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "PH-S02-E06",
+          "name": "Overact in \"Pangako Sa'Yo, Mula sa Puso... Magkaribal sa Dulo ng Walang Hanggan ng Kadenang Ginto... The Second Installment!\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S02-E05",
+          "name": "Play a game of musical chairs"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S02-E08",
+          "song": "The Power"
+        },
+        {
+          "episodeId": "PH-S02-E10",
+          "song": "Kapangyarihan"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

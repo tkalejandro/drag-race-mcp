@@ -1,0 +1,25 @@
+{
+  "id": "tiny-deluxe",
+  "name": "Tiny DeLuxe",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S02-E01",
+          "song": "Here We Go"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S02-E03",
+          "song": "Kitty Girl"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S02-E03"
+    }
+  ]
+}

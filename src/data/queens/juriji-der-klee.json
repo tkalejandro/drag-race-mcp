@@ -1,0 +1,25 @@
+{
+  "id": "juriji-der-klee",
+  "name": "Juriji der Klee",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S02-E04",
+          "song": "Baloncesto"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E08",
+          "song": "Fuego"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S02-E08"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "la-sheeva",
+  "name": "La Sheeva",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S03-E04",
+          "name": "Create a look made from different red fabrics and materials"
+        },
+        {
+          "episodeId": "IT-S03-E09",
+          "name": "Makeover social media influencers"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S03-E09",
+          "name": "Quick drag makeup tutorial"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S03-E05",
+          "song": "Born This Way"
+        },
+        {
+          "episodeId": "IT-S03-E08",
+          "song": "Believe"
+        },
+        {
+          "episodeId": "IT-S03-E10",
+          "song": "Siamo donne"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

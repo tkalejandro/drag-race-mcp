@@ -1,0 +1,39 @@
+{
+  "id": "elektra-vandergeld",
+  "name": "Elektra Vandergeld",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S02-E01",
+          "name": "Present two looks on the runway"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "MX-S02-E04",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "MX-S02-E08",
+          "name": "Do your makeup with only one hand while riding a fake bus"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S02-E05",
+          "song": "Reina de Corazones"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E10",
+          "song": "Azúcar amargo"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S02-E10"
+    }
+  ]
+}

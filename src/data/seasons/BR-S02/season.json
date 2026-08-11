@@ -1,0 +1,43 @@
+{
+  "id": "BR-S02",
+  "franchise": "BR",
+  "name": "Drag Race Brasil Season 2",
+  "seasonNumber": 2,
+  "year": 2025,
+  "episodeCount": 10,
+  "episodeIds": [
+    "BR-S02-E01",
+    "BR-S02-E02",
+    "BR-S02-E03",
+    "BR-S02-E04",
+    "BR-S02-E05",
+    "BR-S02-E06",
+    "BR-S02-E07",
+    "BR-S02-E08",
+    "BR-S02-E09",
+    "BR-S02-E10"
+  ],
+  "castIds": [
+    "ruby-nox",
+    "mellody-queen",
+    "melina-blley",
+    "poseidon-drag",
+    "bhelchi",
+    "adora-black",
+    "desiree-beck",
+    "mercedez-vulcao",
+    "paola-hoffmann-van-cartier",
+    "chanel"
+  ],
+  "winnerId": "ruby-nox",
+  "runnerUpIds": ["mellody-queen"],
+  "porkchopId": "chanel",
+  "hosts": [{ "name": "Grag Queen" }],
+  "judges": [
+    { "name": "Grag Queen" },
+    { "name": "Bruna Braga" },
+    { "name": "Dudu Bertholini" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 0, "currency": "BRL" }
+}

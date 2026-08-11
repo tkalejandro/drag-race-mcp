@@ -1,0 +1,33 @@
+{
+  "id": "gawdland",
+  "name": "Gawdland",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S03-E06",
+          "name": "Kraitong: The Rusical"
+        },
+        {
+          "episodeId": "TH-S03-E08",
+          "name": "Makeover queer people from Bangkok Pride"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S03-E05",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "TH-S03-E06",
+          "name": "ASMR Mukbang"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "TH-S03-E10"
+    }
+  ]
+}

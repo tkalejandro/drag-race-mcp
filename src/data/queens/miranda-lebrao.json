@@ -1,0 +1,38 @@
+{
+  "id": "miranda-lebrao",
+  "name": "Miranda Lebrão",
+  "appearances": [
+    {
+      "seasonId": "BR-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S01-E07",
+          "name": "Present two looks on the runway: Black and White"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BR-S01-E06",
+          "name": "Grávida de Taubaté inspired photoshoot"
+        },
+        {
+          "episodeId": "BR-S01-E07",
+          "name": "Impersonate each other with puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S01-E10",
+          "song": "Gueto"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S01-E12",
+          "song": "Envolver"
+        }
+      ]
+    }
+  ]
+}

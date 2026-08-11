@@ -1,0 +1,25 @@
+{
+  "id": "bandit",
+  "name": "Bandit",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E05",
+          "name": "Team lakorn: \"The Haunting Dolls\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E11",
+          "song": "Last Dance"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S02-E11"
+    }
+  ]
+}

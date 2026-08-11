@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fr-s01-paloma-crown",
+    "title": "Paloma wins Drag Race France Season 1",
+    "summary": "In the Grande Finale (FR-S01-E08), Paloma, La Grande Dame, and Soa de Muse lip-synced to Dalida's \"Mourir sur scène\". Paloma was crowned the first Drag Superstar of Drag Race France.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["paloma", "la-grande-dame", "soa-de-muse"],
+    "seasonIds": ["FR-S01"],
+    "episodeIds": ["FR-S01-E08"]
+  },
+  {
+    "id": "fr-s01-la-kahena-porkchop",
+    "title": "La Kahena: France's first Porkchop",
+    "summary": "La Kahena was the first contestant eliminated on Drag Race France (FR-S01-E01), losing the lip sync to \"Prière païenne\" against Lova Ladiva.",
+    "tags": ["porkchop"],
+    "queenIds": ["la-kahena", "lova-ladiva"],
+    "seasonIds": ["FR-S01"],
+    "episodeIds": ["FR-S01-E01"]
+  },
+  {
+    "id": "fr-s01-sororite-smackdown",
+    "title": "The Sororité lip-sync smackdown",
+    "summary": "With no clear challenge winner in FR-S01-E07, Nicky Doll staged a three-round lip-sync smackdown to fill the final three: Soa de Muse beat Lolita Banana to \"Dieu m'a donné la foi\", Paloma beat La Grande Dame to \"Le Banana Split\", and in the sudden-death round La Grande Dame beat Lolita Banana to \"La grenade\", sending Lolita Banana home.",
+    "tags": ["twist", "lip-sync", "drama"],
+    "queenIds": ["soa-de-muse", "lolita-banana", "paloma", "la-grande-dame"],
+    "seasonIds": ["FR-S01"],
+    "episodeIds": ["FR-S01-E07"]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "vinas-deluxe",
+  "name": "Viñas DeLuxe",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S01-E02",
+          "name": "Create a look and arch inspired by the Flores de Mayo celebration and Sagala pageantry"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E07",
+          "song": "Born Naked"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E07"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "krystal-forever",
+  "name": "Krystal Forever",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S05-E02",
+          "song": "Zorra"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S05-E05",
+          "song": "El hombre del piano"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S05-E05"
+    }
+  ]
+}

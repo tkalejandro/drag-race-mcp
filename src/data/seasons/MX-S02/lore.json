@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mx-s02-leexa-crown",
+    "title": "Leexa Fox wins Drag Race México Season 2",
+    "summary": "In the Grand Finale (MX-S02-E12), the final four — Eva Blunt, Horacio Potasio, Jenary Bloom, and Leexa Fox — lip-synced to Shakira's \"Bzrp Music Sessions, Vol. 53\". Leexa Fox was crowned the winner; Eva Blunt, Horacio Potasio, and Jenary Bloom all finished as runners-up.",
+    "tags": ["crown", "finale", "lip-sync", "international"],
+    "queenIds": ["leexa-fox", "eva-blunt", "horacio-potasio", "jenary-bloom"],
+    "seasonIds": ["MX-S02"],
+    "episodeIds": ["MX-S02-E12"]
+  },
+  {
+    "id": "mx-s02-ignus-porkchop",
+    "title": "Ignus Ars: Season 2's first Porkchop",
+    "summary": "Ignus Ars was the first contestant eliminated on Drag Race México season 2 (MX-S02-E01), losing \"Me río de ti\" by Gloria Trevi to Ava Pocket.",
+    "tags": ["porkchop", "international"],
+    "queenIds": ["ignus-ars", "ava-pocket"],
+    "seasonIds": ["MX-S02"],
+    "episodeIds": ["MX-S02-E01"]
+  },
+  {
+    "id": "mx-s02-dual-miss-congeniality",
+    "title": "A tie for Miss Congeniality",
+    "summary": "At the reunion (MX-S02-E11), fellow contestants voted for two Miss Congenialities: Luna Lansman and Nina de la Fuente. Garçonne was separately named Miss Lost Look for the season's best unaired runway look.",
+    "tags": ["reunion", "international"],
+    "queenIds": ["luna-lansman", "nina-de-la-fuente", "garconne"],
+    "seasonIds": ["MX-S02"],
+    "episodeIds": ["MX-S02-E11"]
+  }
+]

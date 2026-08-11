@@ -1,0 +1,23 @@
+{
+  "id": "mami-watta",
+  "name": "Mami Watta",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S02-E07",
+          "name": "Everybody Loves Puppets"
+        },
+        {
+          "episodeId": "FR-S02-E08",
+          "name": "Play in a parody of the game show \"Le maillon faible\""
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": []
+    }
+  ]
+}

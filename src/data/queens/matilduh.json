@@ -1,0 +1,38 @@
+{
+  "id": "matilduh",
+  "name": "Matilduh",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S02-E01",
+          "name": "Photoshoot with a tarantula"
+        },
+        {
+          "episodeId": "PH-S02-E03",
+          "name": "Lolapalooza Newspaper Dance"
+        },
+        {
+          "episodeId": "PH-S02-E04",
+          "name": "Perform a tinikling routine"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S02-E04",
+          "song": "Bongga Ka 'Day"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S02-E05",
+          "song": "Gusto Ko Nang Bumitaw"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S02-E05"
+    }
+  ]
+}

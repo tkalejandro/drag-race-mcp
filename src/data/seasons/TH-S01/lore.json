@@ -1,0 +1,29 @@
+[
+  {
+    "id": "th-s01-natalia-crown",
+    "title": "Natalia Pliacam wins Drag Race Thailand Season 1",
+    "summary": "At the Final Runway (TH-S01-E08), Natalia Pliacam was crowned the winner of the first season of Drag Race Thailand, with Année Maywong and Dearis Doll finishing as runners-up.",
+    "tags": ["crown", "finale"],
+    "queenIds": ["natalia-pliacam", "annee-maywong", "dearis-doll"],
+    "seasonIds": ["TH-S01"],
+    "episodeIds": ["TH-S01-E08"]
+  },
+  {
+    "id": "th-s01-meannie-porkchop",
+    "title": "Meannie Minaj: Thailand's first Porkchop",
+    "summary": "Meannie Minaj was the first contestant eliminated on Drag Race Thailand (TH-S01-E01), losing a lip sync to \"Born This Way\" against Morrigan.",
+    "tags": ["porkchop"],
+    "queenIds": ["meannie-minaj", "morrigan"],
+    "seasonIds": ["TH-S01"],
+    "episodeIds": ["TH-S01-E01"]
+  },
+  {
+    "id": "th-s01-double-elimination",
+    "title": "Amadiva and JAJA double sashay",
+    "summary": "In TH-S01-E06, Amadiva and JAJA landed in the bottom two after the Line Mobile commercial challenge. Following their lip sync to \"เพลงสุดท้าย (Last Song)\", judge Art Arya eliminated both queens rather than saving either.",
+    "tags": ["double-sashay", "twist"],
+    "queenIds": ["amadiva", "jaja"],
+    "seasonIds": ["TH-S01"],
+    "episodeIds": ["TH-S01-E06"]
+  }
+]

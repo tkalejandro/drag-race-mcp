@@ -1,0 +1,26 @@
+{
+  "id": "norma-bell",
+  "name": "Norma Bell",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S03-E01",
+          "name": "Record and perform verses for a cabaret show"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S03-E05",
+          "song": "Marcia Baïla"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S03-E05",
+      "missCongeniality": true
+    }
+  ]
+}

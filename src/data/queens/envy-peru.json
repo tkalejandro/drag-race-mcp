@@ -1,0 +1,45 @@
+{
+  "id": "envy-peru",
+  "name": "Envy Peru",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S01-E02",
+          "name": "Record a group workout video"
+        },
+        {
+          "episodeId": "NL-S01-E04",
+          "name": "In groups, perform a vogue choreographed song"
+        },
+        {
+          "episodeId": "NL-S01-E05",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "NL-S01-E06",
+          "name": "Makeover a family member or friend"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S01-E02",
+          "name": "Design a pair of clogs and model them"
+        },
+        {
+          "episodeId": "NL-S01-E07",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S01-E08",
+          "song": "Born This Way"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

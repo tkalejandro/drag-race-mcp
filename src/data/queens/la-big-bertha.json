@@ -1,0 +1,30 @@
+{
+  "id": "la-big-bertha",
+  "name": "La Big Bertha",
+  "appearances": [
+    {
+      "seasonId": "FR-S01",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S01-E04",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S01-E04",
+          "song": "DJ"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S01-E06",
+          "song": "Corps"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S01-E06"
+    }
+  ]
+}

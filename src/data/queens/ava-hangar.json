@@ -1,0 +1,38 @@
+{
+  "id": "ava-hangar",
+  "name": "Ava Hangar",
+  "appearances": [
+    {
+      "seasonId": "IT-S01",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S01-E02",
+          "name": "Limbo Extravaganza"
+        },
+        {
+          "episodeId": "IT-S01-E05",
+          "name": "Find words with letters written on the pit crew's pants"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S01-E03",
+          "song": "Fiesta (Spanish Version)"
+        },
+        {
+          "episodeId": "IT-S01-E04",
+          "song": "Kobra"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S01-E05",
+          "song": "Cicale"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S01-E05"
+    }
+  ]
+}

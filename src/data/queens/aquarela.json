@@ -1,0 +1,26 @@
+{
+  "id": "aquarela",
+  "name": "Aquarela",
+  "appearances": [
+    {
+      "seasonId": "BR-S01",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S01-E04",
+          "song": "Cheguei"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S01-E05",
+          "song": "Vermelho"
+        }
+      ],
+      "eliminatedEpisodeId": "BR-S01-E05",
+      "missCongeniality": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kitty-space",
+  "name": "Kitty Space",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S02-E01",
+          "song": "3SEX"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S02-E03",
+          "song": "Monday Tuesday... Laissez moi danser"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S02-E03"
+    }
+  ]
+}

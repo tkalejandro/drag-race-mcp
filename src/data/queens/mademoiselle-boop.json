@@ -1,0 +1,43 @@
+{
+  "id": "mademoiselle-boop",
+  "name": "Mademoiselle Boop",
+  "appearances": [
+    {
+      "seasonId": "BE-S01",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "BE-S01-E05",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BE-S01-E04",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "BE-S01-E05",
+          "name": "Lip-sync to RuPaul's \"Bring Back My Girls\" in pairs"
+        },
+        {
+          "episodeId": "BE-S01-E07",
+          "name": "Get into drag in total darkness using only the products provided"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S01-E06",
+          "song": "J'aime la vie"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S01-E07",
+          "song": "Le Banana Split"
+        }
+      ],
+      "eliminatedEpisodeId": "BE-S01-E07"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "minty-fresh",
+  "name": "Minty Fresh",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S01-E01",
+          "name": "Perform a talent show in front of the judges"
+        },
+        {
+          "episodeId": "PH-S01-E07",
+          "name": "The Shop Shop Ladies Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S01-E07",
+          "name": "Nude illusion group photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S01-E06",
+          "song": "Amakabogera"
+        },
+        {
+          "episodeId": "PH-S01-E08",
+          "song": "Dyosa"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E09",
+          "song": "You'll Always Be My Number One"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E09"
+    }
+  ]
+}

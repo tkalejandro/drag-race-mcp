@@ -1,0 +1,43 @@
+{
+  "id": "nane-sphera",
+  "name": "Nane Sphera",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S03-E02",
+          "name": "The Pageant Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S03-E02",
+          "name": "Ree Ree Khaosan"
+        },
+        {
+          "episodeId": "TH-S03-E04",
+          "name": "Glamakorn Photoshoot"
+        },
+        {
+          "episodeId": "TH-S03-E07",
+          "name": "Perform multiple wig reveals"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E07",
+          "song": "Music Lover"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E08",
+          "song": "Call Me Mother"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S03-E08"
+    }
+  ]
+}

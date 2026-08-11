@@ -1,0 +1,36 @@
+{
+  "id": "sara-forever",
+  "name": "Sara Forever",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S02-E01",
+          "name": "Write, record, and perform verses to \"We Are Légendaires\""
+        },
+        {
+          "episodeId": "FR-S02-E03",
+          "name": "Host in the new morning show \"Le Croissant Show\""
+        },
+        {
+          "episodeId": "FR-S02-E07",
+          "name": "Perform in a girl group performance to \"Attention\" against the eliminated queens"
+        },
+        {
+          "episodeId": "FR-S02-E08",
+          "name": "Makeover rugby players"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S02-E09",
+          "song": "Titanium"
+        }
+      ]
+    }
+  ]
+}

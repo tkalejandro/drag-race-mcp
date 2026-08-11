@@ -1,0 +1,49 @@
+{
+  "id": "carmen-farala",
+  "name": "Carmen Farala",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S01-E02",
+          "name": "Write, record, and perform verses to \"Divas\""
+        },
+        {
+          "episodeId": "ES-S01-E06",
+          "name": "Perform a roast of the judges"
+        },
+        {
+          "episodeId": "ES-S01-E07",
+          "name": "Makeover rugby players from Madrid Titanes"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S01-E01",
+          "name": "Photoshoot while riding a mechanical bull"
+        },
+        {
+          "episodeId": "ES-S01-E05",
+          "name": "In pairs, stomp grapes and make the most juice"
+        },
+        {
+          "episodeId": "ES-S01-E06",
+          "name": "Everybody Loves Puppets"
+        },
+        {
+          "episodeId": "ES-S01-E07",
+          "name": "Apply makeup without mirrors"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S01-E09",
+          "song": "La gata bajo la lluvia"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

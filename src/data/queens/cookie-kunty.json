@@ -1,0 +1,39 @@
+{
+  "id": "cookie-kunty",
+  "name": "Cookie Kunty",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S02-E06",
+          "name": "The Time Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S02-E04",
+          "name": "In pairs, act as a couple getting married by exchanging vows and playing a wedding game"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S02-E02",
+          "song": "Tout"
+        },
+        {
+          "episodeId": "FR-S02-E03",
+          "song": "Monday Tuesday... Laissez moi danser"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S02-E07",
+          "song": "Et alors!"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S02-E07"
+    }
+  ]
+}

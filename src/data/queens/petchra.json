@@ -1,0 +1,25 @@
+{
+  "id": "petchra",
+  "name": "Petchra",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S01-E02",
+          "song": "รักยังไม่ต้องการ (I Don't Want Love Yet)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S01-E05",
+          "song": "Toxic"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S01-E05"
+    }
+  ]
+}

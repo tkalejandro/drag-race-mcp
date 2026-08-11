@@ -1,0 +1,38 @@
+{
+  "id": "TH-S01",
+  "franchise": "TH",
+  "name": "Drag Race Thailand Season 1",
+  "seasonNumber": 1,
+  "year": 2018,
+  "episodeCount": 8,
+  "episodeIds": [
+    "TH-S01-E01",
+    "TH-S01-E02",
+    "TH-S01-E03",
+    "TH-S01-E04",
+    "TH-S01-E05",
+    "TH-S01-E06",
+    "TH-S01-E07",
+    "TH-S01-E08"
+  ],
+  "castIds": [
+    "natalia-pliacam",
+    "annee-maywong",
+    "dearis-doll",
+    "b-ella",
+    "amadiva",
+    "jaja",
+    "petchra",
+    "morrigan",
+    "bunny-be-fly",
+    "meannie-minaj"
+  ],
+  "winnerId": "natalia-pliacam",
+  "runnerUpIds": ["annee-maywong", "dearis-doll"],
+  "missCongenialityId": "b-ella",
+  "porkchopId": "meannie-minaj",
+  "hosts": [{ "name": "Art Arya" }],
+  "judges": [{ "name": "Art Arya" }, { "name": "Pangina Heals" }],
+  "isCharity": false,
+  "cashPrice": { "amount": 0, "currency": "THB" }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "peach",
+  "name": "Peach",
+  "appearances": [
+    {
+      "seasonId": "BE-S01",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BE-S01-E06",
+          "name": "Match members of the pit crew based on the portrait taped to their backs"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S01-E05",
+          "song": "The Feeling"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S01-E06",
+          "song": "J'aime la vie"
+        }
+      ],
+      "eliminatedEpisodeId": "BE-S01-E06"
+    }
+  ]
+}

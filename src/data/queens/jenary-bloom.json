@@ -1,0 +1,41 @@
+{
+  "id": "jenary-bloom",
+  "name": "Jenary Bloom",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S02-E04",
+          "name": "Write, record, and perform verses to \"Ya No Quiero\" and \"Lonely\""
+        },
+        {
+          "episodeId": "MX-S02-E07",
+          "name": "Las Tres Marías: El Rusical"
+        },
+        {
+          "episodeId": "MX-S02-E08",
+          "name": "Improvise as television presenters in \"¡Buenas Tardes, México!\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S02-E09",
+          "song": "Techno Cumbia"
+        },
+        {
+          "episodeId": "MX-S02-E10",
+          "song": "Azúcar amargo"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E12",
+          "song": "Bzrp Music Sessions, Vol. 53"
+        }
+      ]
+    }
+  ]
+}

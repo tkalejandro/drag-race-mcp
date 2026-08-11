@@ -1,0 +1,25 @@
+{
+  "id": "arantxa-castilla-la-mancha",
+  "name": "Arantxa Castilla-La Mancha",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S01-E02",
+          "song": "Veneno pa tu piel"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S01-E04",
+          "song": "Pussy"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S01-E04"
+    }
+  ]
+}

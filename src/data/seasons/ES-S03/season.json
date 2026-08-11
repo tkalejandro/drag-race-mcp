@@ -1,0 +1,66 @@
+{
+  "id": "ES-S03",
+  "franchise": "ES",
+  "name": "Drag Race España Season 3",
+  "seasonNumber": 3,
+  "year": 2023,
+  "episodeCount": 11,
+  "episodeIds": [
+    "ES-S03-E01",
+    "ES-S03-E02",
+    "ES-S03-E03",
+    "ES-S03-E04",
+    "ES-S03-E05",
+    "ES-S03-E06",
+    "ES-S03-E07",
+    "ES-S03-E08",
+    "ES-S03-E09",
+    "ES-S03-E10",
+    "ES-S03-E11"
+  ],
+  "castIds": [
+    "pitita",
+    "vania-vainilla",
+    "hornella-gongora",
+    "kelly-roller",
+    "clover-bish",
+    "bestiah",
+    "pakita",
+    "pink-chadora",
+    "visa",
+    "the-macarena",
+    "chanel-anorex",
+    "drag-chuchi",
+    "maria-edilia"
+  ],
+  "winnerId": "pitita",
+  "runnerUpIds": [
+    "vania-vainilla"
+  ],
+  "missCongenialityId": "maria-edilia",
+  "porkchopId": "maria-edilia",
+  "hosts": [
+    {
+      "name": "Supremme de Luxe"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Supremme de Luxe"
+    },
+    {
+      "name": "Ana Locking"
+    },
+    {
+      "name": "Javier Ambrossi"
+    },
+    {
+      "name": "Javier Calvo"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "EUR"
+  }
+}

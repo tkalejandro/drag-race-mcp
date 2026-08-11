@@ -1,0 +1,33 @@
+{
+  "id": "srimala",
+  "name": "Srimala",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S02-E04",
+          "song": "จดหมายรักจากเมียเช่า (A Love Letter from a Wife)"
+        },
+        {
+          "episodeId": "TH-S02-E06",
+          "song": "เจ็บนิด...นิด (It Hurts a Little... a Little)"
+        },
+        {
+          "episodeId": "TH-S02-E08",
+          "song": "Lady Marmalade"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E10",
+          "song": "This Is Me"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S02-E10"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "FR-S01",
+  "franchise": "FR",
+  "name": "Drag Race France Season 1",
+  "seasonNumber": 1,
+  "year": 2022,
+  "episodeCount": 8,
+  "episodeIds": [
+    "FR-S01-E01",
+    "FR-S01-E02",
+    "FR-S01-E03",
+    "FR-S01-E04",
+    "FR-S01-E05",
+    "FR-S01-E06",
+    "FR-S01-E07",
+    "FR-S01-E08"
+  ],
+  "castIds": [
+    "paloma",
+    "la-grande-dame",
+    "soa-de-muse",
+    "lolita-banana",
+    "la-big-bertha",
+    "elips",
+    "kam-hugh",
+    "la-briochee",
+    "lova-ladiva",
+    "la-kahena"
+  ],
+  "winnerId": "paloma",
+  "runnerUpIds": [
+    "la-grande-dame",
+    "soa-de-muse"
+  ],
+  "missCongenialityId": "elips",
+  "porkchopId": "la-kahena",
+  "hosts": [
+    {
+      "name": "Nicky Doll"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Nicky Doll"
+    },
+    {
+      "name": "Daphné Bürki"
+    },
+    {
+      "name": "Kiddy Smile"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "EUR"
+  }
+}

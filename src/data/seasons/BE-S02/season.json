@@ -1,0 +1,41 @@
+{
+  "id": "BE-S02",
+  "franchise": "BE",
+  "name": "Drag Race Belgique Season 2",
+  "seasonNumber": 2,
+  "year": 2024,
+  "episodeCount": 8,
+  "episodeIds": [
+    "BE-S02-E01",
+    "BE-S02-E02",
+    "BE-S02-E03",
+    "BE-S02-E04",
+    "BE-S02-E05",
+    "BE-S02-E06",
+    "BE-S02-E07",
+    "BE-S02-E08"
+  ],
+  "castIds": [
+    "alvilda",
+    "la-veuve",
+    "gabanna",
+    "loulou-velvet",
+    "chloe-clarke",
+    "star",
+    "morphae",
+    "madame-yoko",
+    "sarah-logan"
+  ],
+  "winnerId": "alvilda",
+  "runnerUpIds": ["la-veuve"],
+  "missCongenialityId": "star",
+  "porkchopId": "sarah-logan",
+  "hosts": [{ "name": "Rita Baga" }],
+  "judges": [
+    { "name": "Rita Baga" },
+    { "name": "Lio" },
+    { "name": "Mustii" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 20000, "currency": "EUR" }
+}

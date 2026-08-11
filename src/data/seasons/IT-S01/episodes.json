@@ -1,0 +1,151 @@
+[
+  {
+    "id": "IT-S01-E01",
+    "seasonId": "IT-S01",
+    "episodeNumber": 1,
+    "title": "Ciao Italia",
+    "miniChallenge": {
+      "name": "Photoshoot on a Venetian Gondola",
+      "winnerIds": ["elecktra-bionic"]
+    },
+    "maxiChallenge": {
+      "name": "Create an Italian Style look out of materials inside old suitcases",
+      "winnerIds": ["farida-kant"]
+    },
+    "runwayTheme": "Italian Style",
+    "topIds": ["farida-kant", "ivana-vamp"],
+    "bottomIds": ["divinity", "luquisha-lubamba"],
+    "lipSync": {
+      "song": "Occhi di gatto",
+      "queenIds": ["divinity", "luquisha-lubamba"],
+      "winnerIds": ["divinity", "luquisha-lubamba"]
+    },
+    "guestJudges": [{ "name": "Cristina D'Avena" }]
+  },
+  {
+    "id": "IT-S01-E02",
+    "seasonId": "IT-S01",
+    "episodeNumber": 2,
+    "title": "Divas",
+    "miniChallenge": {
+      "name": "Limbo Extravaganza",
+      "winnerIds": ["ava-hangar"]
+    },
+    "maxiChallenge": {
+      "name": "Create your own infomercial about a specific item",
+      "winnerIds": ["enorma-jean"]
+    },
+    "runwayTheme": "Grandi Dive",
+    "topIds": ["enorma-jean"],
+    "bottomIds": ["ivana-vamp", "le-riche"],
+    "lipSync": {
+      "song": "Comprami",
+      "queenIds": ["ivana-vamp", "le-riche"],
+      "winnerIds": ["le-riche"],
+      "eliminatedIds": ["ivana-vamp"]
+    },
+    "guestJudges": [
+      { "name": "Fabio Mollo" },
+      { "name": "Gianmarco Saurino" }
+    ]
+  },
+  {
+    "id": "IT-S01-E03",
+    "seasonId": "IT-S01",
+    "episodeNumber": 3,
+    "title": "Night of a Thousand Raffaella Carràs",
+    "miniChallenge": {
+      "name": "Complete a puzzle of an iconic Raffaella Carrà look",
+      "winnerIds": ["elecktra-bionic"]
+    },
+    "maxiChallenge": {
+      "name": "Raffaella Carrà: The Rusical",
+      "winnerIds": ["divinity"]
+    },
+    "runwayTheme": "Che Carrà Se?",
+    "topIds": ["divinity", "luquisha-lubamba"],
+    "bottomIds": ["ava-hangar", "le-riche"],
+    "lipSync": {
+      "song": "Fiesta (Spanish Version)",
+      "queenIds": ["ava-hangar", "le-riche"],
+      "winnerIds": ["ava-hangar", "le-riche"]
+    },
+    "guestJudges": [
+      { "name": "Vladimir Luxuria" },
+      { "name": "Nick Cerioni" }
+    ]
+  },
+  {
+    "id": "IT-S01-E04",
+    "seasonId": "IT-S01",
+    "episodeNumber": 4,
+    "title": "Snatch Game & Fab 80's",
+    "miniChallenge": {
+      "name": "Apply drag makeup in the dark",
+      "winnerIds": ["elecktra-bionic"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["le-riche"]
+    },
+    "runwayTheme": "I Favolosi Anni 80",
+    "topIds": ["le-riche", "luquisha-lubamba"],
+    "bottomIds": ["ava-hangar", "divinity"],
+    "lipSync": {
+      "song": "Kobra",
+      "queenIds": ["ava-hangar", "divinity"],
+      "winnerIds": ["ava-hangar"],
+      "eliminatedIds": ["divinity"]
+    },
+    "guestJudges": [
+      { "name": "Donatella Rettore" },
+      { "name": "Giancarlo Commare" }
+    ]
+  },
+  {
+    "id": "IT-S01-E05",
+    "seasonId": "IT-S01",
+    "episodeNumber": 5,
+    "title": "Long Live the Drag Bride",
+    "miniChallenge": {
+      "name": "Find words with letters written on the pit crew's pants",
+      "winnerIds": ["ava-hangar"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover a loved one as your best woman and yourself as the bride",
+      "winnerIds": ["farida-kant"]
+    },
+    "runwayTheme": "Viva La Sposa!",
+    "topIds": ["elecktra-bionic", "farida-kant", "le-riche"],
+    "bottomIds": ["ava-hangar", "luquisha-lubamba"],
+    "lipSync": {
+      "song": "Cicale",
+      "queenIds": ["ava-hangar", "luquisha-lubamba"],
+      "winnerIds": ["luquisha-lubamba"],
+      "eliminatedIds": ["ava-hangar"]
+    },
+    "guestJudges": [
+      { "name": "Coco Rebecca Edogamhe" },
+      { "name": "Enzo Miccio" }
+    ]
+  },
+  {
+    "id": "IT-S01-E06",
+    "seasonId": "IT-S01",
+    "episodeNumber": 6,
+    "title": "Grand Finale",
+    "miniChallenge": {
+      "name": "Reading Is Fundamental",
+      "winnerIds": ["elecktra-bionic"]
+    },
+    "runwayTheme": "Eleganza Extravaganza",
+    "topIds": ["elecktra-bionic", "farida-kant", "le-riche"],
+    "bottomIds": ["luquisha-lubamba"],
+    "lipSync": {
+      "song": "Non sono una signora",
+      "queenIds": ["elecktra-bionic", "farida-kant", "le-riche"],
+      "winnerIds": ["elecktra-bionic"]
+    },
+    "guestJudges": [{ "name": "Ambra Angiolini" }]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "zepee",
+  "name": "Zepee",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S03-E03",
+          "name": "Write, record, and perform verses to \"Sip Sip Sip\""
+        },
+        {
+          "episodeId": "TH-S03-E04",
+          "name": "Act in the soap opera \"บ้าน หลัก โลก เลิศ รูด ลาย ลาย ไทย และ ลุ้น\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E09",
+          "song": "ร (W8)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E10",
+          "song": "ประวัติศาสตร์ (History)"
+        }
+      ]
+    }
+  ]
+}

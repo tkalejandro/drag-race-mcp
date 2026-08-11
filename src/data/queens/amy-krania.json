@@ -1,0 +1,20 @@
+{
+  "id": "amy-krania",
+  "name": "Amy Krania",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S03-E02",
+          "song": "2 Be Loved (Am I Ready)"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S03-E02"
+    }
+  ]
+}

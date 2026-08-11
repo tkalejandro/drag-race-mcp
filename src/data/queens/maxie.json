@@ -1,0 +1,41 @@
+{
+  "id": "maxie",
+  "name": "Maxie",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S03-E03",
+          "name": "Write, record, and perform verses to \"Dapat Pakak!\""
+        },
+        {
+          "episodeId": "PH-S03-E04",
+          "name": "In pairs, create shows for Pao Presents Plus"
+        },
+        {
+          "episodeId": "PH-S03-E07",
+          "name": "Makeover a loved one"
+        },
+        {
+          "episodeId": "PH-S03-E08",
+          "name": "Lip-Sync LaLaPaRuZa Smackdown"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S03-E07",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S03-E10",
+          "song": "Lipad ng Pangarap"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

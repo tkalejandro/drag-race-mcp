@@ -1,0 +1,20 @@
+{
+  "id": "suculenta",
+  "name": "Suculenta",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E06",
+          "song": "Agüita"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S02-E06"
+    }
+  ]
+}

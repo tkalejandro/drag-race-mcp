@@ -1,0 +1,25 @@
+{
+  "id": "imaa-queen",
+  "name": "Imaa Queen",
+  "appearances": [
+    {
+      "seasonId": "SE-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "SE-S01-E01",
+          "name": "Present two looks on the runway"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "SE-S01-E04",
+          "song": "Kitty Girl"
+        }
+      ],
+      "eliminatedEpisodeId": "SE-S01-E04"
+    }
+  ]
+}

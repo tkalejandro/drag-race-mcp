@@ -1,0 +1,34 @@
+{
+  "id": "mocha-diva",
+  "name": "Mocha Diva",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E05",
+          "name": "Team lakorn: \"The Haunting Dolls\""
+        },
+        {
+          "episodeId": "TH-S02-E06",
+          "name": "Talk Show with the finalists of Drag Race Thailand Season 1"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S02-E02",
+          "song": "I Will Survive หมอลำ (I Will Survive Mor Lam)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E06",
+          "song": "เจ็บนิด...นิด (It Hurts a Little... a Little)"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S02-E06"
+    }
+  ]
+}

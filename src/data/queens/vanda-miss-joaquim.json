@@ -1,0 +1,39 @@
+{
+  "id": "vanda-miss-joaquim",
+  "name": "Vanda Miss Joaquim",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E05",
+          "name": "Team lakorn: \"The Haunting Dolls\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S02-E05",
+          "name": "Improv acting challenge with models from The Face Men Thailand"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S02-E07",
+          "song": "กินจุ๊บจิ๊บ (Eat Kiss Jib)"
+        },
+        {
+          "episodeId": "TH-S02-E10",
+          "song": "This Is Me"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E11",
+          "song": "Last Dance"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S02-E11"
+    }
+  ]
+}

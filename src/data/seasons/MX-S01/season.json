@@ -1,0 +1,47 @@
+{
+  "id": "MX-S01",
+  "franchise": "MX",
+  "name": "Drag Race México Season 1",
+  "seasonNumber": 1,
+  "year": 2023,
+  "episodeCount": 12,
+  "episodeIds": [
+    "MX-S01-E01",
+    "MX-S01-E02",
+    "MX-S01-E03",
+    "MX-S01-E04",
+    "MX-S01-E05",
+    "MX-S01-E06",
+    "MX-S01-E07",
+    "MX-S01-E08",
+    "MX-S01-E09",
+    "MX-S01-E10",
+    "MX-S01-E11",
+    "MX-S01-E12"
+  ],
+  "castIds": [
+    "cristian-peralta",
+    "gala-varo",
+    "matraka",
+    "regina-voce",
+    "lady-kero",
+    "margaret-y-ya",
+    "argennis",
+    "serena-morena",
+    "pixie-pixie",
+    "vermelha-noir",
+    "miss-vallarta"
+  ],
+  "winnerId": "cristian-peralta",
+  "runnerUpIds": ["gala-varo", "matraka", "regina-voce"],
+  "missCongenialityId": "lady-kero",
+  "porkchopId": "miss-vallarta",
+  "hosts": [{ "name": "Valentina" }, { "name": "Lolita Banana" }],
+  "judges": [
+    { "name": "Valentina" },
+    { "name": "Lolita Banana" },
+    { "name": "Oscar Madrazo" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 550000, "currency": "MXN" }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eva-le-queen",
+  "name": "Eva Le Queen",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S01-E04",
+          "name": "Ten-Twenty Talon Becky (Chinese Garter Game)"
+        },
+        {
+          "episodeId": "PH-S01-E08",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S01-E07",
+          "song": "Born Naked"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PH-S01-E10"
+    }
+  ]
+}

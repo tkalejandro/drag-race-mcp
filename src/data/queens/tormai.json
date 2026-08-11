@@ -1,0 +1,39 @@
+{
+  "id": "tormai",
+  "name": "Tormai",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E08",
+          "name": "Snatch Game of Love"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S02-E05",
+          "name": "Improv acting challenge with models from The Face Men Thailand"
+        },
+        {
+          "episodeId": "TH-S02-E06",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S02-E07",
+          "song": "กินจุ๊บจิ๊บ (Eat Kiss Jib)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E08",
+          "song": "Lady Marmalade"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S02-E08"
+    }
+  ]
+}

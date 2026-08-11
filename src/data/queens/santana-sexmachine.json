@@ -1,0 +1,20 @@
+{
+  "id": "santana-sexmachine",
+  "name": "Santana Sexmachine",
+  "appearances": [
+    {
+      "seasonId": "SE-S01",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "SE-S01-E05",
+          "song": "Euphoria"
+        }
+      ],
+      "eliminatedEpisodeId": "SE-S01-E05"
+    }
+  ]
+}

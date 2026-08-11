@@ -1,0 +1,25 @@
+{
+  "id": "mocca-bone",
+  "name": "Mocca Bone",
+  "appearances": [
+    {
+      "seasonId": "BE-S01",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S01-E03",
+          "song": "Pump Up the Jam"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S01-E04",
+          "song": "Million Eyes"
+        }
+      ],
+      "eliminatedEpisodeId": "BE-S01-E04"
+    }
+  ]
+}

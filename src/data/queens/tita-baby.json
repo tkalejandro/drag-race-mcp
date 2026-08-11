@@ -1,0 +1,34 @@
+{
+  "id": "tita-baby",
+  "name": "Tita Baby",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S03-E08",
+          "name": "Lip-Sync LaLaPaRuZa Smackdown"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S03-E09",
+          "name": "Answer questions from the previously eliminated queens"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S03-E02",
+          "song": "Nosi Balasi"
+        },
+        {
+          "episodeId": "PH-S03-E09",
+          "song": "Isa Pang Araw"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PH-S03-E10"
+    }
+  ]
+}

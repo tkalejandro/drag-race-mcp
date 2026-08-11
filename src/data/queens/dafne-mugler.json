@@ -1,0 +1,39 @@
+{
+  "id": "dafne-mugler",
+  "name": "Dafne Mugler",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S05-E01",
+          "name": "Talent show"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S05-E06",
+          "name": "Limited makeup challenge"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S05-E01",
+          "song": "Corazón contento"
+        },
+        {
+          "episodeId": "ES-S05-E08",
+          "song": "La Original"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S05-E09",
+          "song": "Quédate conmigo"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S05-E09"
+    }
+  ]
+}

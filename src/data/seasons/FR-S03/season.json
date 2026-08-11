@@ -1,0 +1,57 @@
+{
+  "id": "FR-S03",
+  "franchise": "FR",
+  "name": "Drag Race France Season 3",
+  "seasonNumber": 3,
+  "year": 2024,
+  "episodeCount": 8,
+  "episodeIds": [
+    "FR-S03-E01",
+    "FR-S03-E02",
+    "FR-S03-E03",
+    "FR-S03-E04",
+    "FR-S03-E05",
+    "FR-S03-E06",
+    "FR-S03-E07",
+    "FR-S03-E08"
+  ],
+  "castIds": [
+    "le-filip",
+    "ruby-on-the-nail",
+    "leona-winter",
+    "lula-strega",
+    "misty-phoenix",
+    "perseo",
+    "norma-bell",
+    "edeha-noire",
+    "magnetica",
+    "afrodite-amour"
+  ],
+  "winnerId": "le-filip",
+  "runnerUpIds": [
+    "ruby-on-the-nail"
+  ],
+  "missCongenialityId": "norma-bell",
+  "porkchopId": "afrodite-amour",
+  "hosts": [
+    {
+      "name": "Nicky Doll"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Nicky Doll"
+    },
+    {
+      "name": "Daphné Bürki"
+    },
+    {
+      "name": "Kiddy Smile"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "EUR"
+  }
+}

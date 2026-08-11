@@ -1,0 +1,26 @@
+{
+  "id": "elips",
+  "name": "Elips",
+  "appearances": [
+    {
+      "seasonId": "FR-S01",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S01-E03",
+          "name": "Film a baguette baking tutorial"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S01-E05",
+          "song": "Libertine"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S01-E05",
+      "missCongeniality": true
+    }
+  ]
+}

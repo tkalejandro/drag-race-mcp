@@ -1,0 +1,363 @@
+[
+  {
+    "id": "ES-S05-E01",
+    "seasonId": "ES-S05",
+    "episodeNumber": 1,
+    "title": "My Heart Is Rejoicing",
+    "maxiChallenge": {
+      "name": "Talent show",
+      "winnerIds": [
+        "dafne-mugler"
+      ]
+    },
+    "runwayTheme": "Mis Dos Caras",
+    "topIds": [
+      "dafne-mugler",
+      "satin-greco"
+    ],
+    "lipSync": {
+      "song": "Corazón contento",
+      "queenIds": [
+        "dafne-mugler",
+        "satin-greco"
+      ],
+      "winnerIds": [
+        "dafne-mugler"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Amaia Romero"
+      }
+    ]
+  },
+  {
+    "id": "ES-S05-E02",
+    "seasonId": "ES-S05",
+    "episodeNumber": 2,
+    "title": "The Secret of Boner Bridge",
+    "miniChallenge": {
+      "name": "Ice-cream backstory pairs",
+      "winnerIds": [
+        "ferrxn",
+        "la-escandalo"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Soap opera parody",
+      "winnerIds": [
+        "margarita-kalifata"
+      ]
+    },
+    "runwayTheme": "Javivisión",
+    "bottomIds": [
+      "krystal-forever",
+      "nori"
+    ],
+    "lipSync": {
+      "song": "Zorra",
+      "queenIds": [
+        "krystal-forever",
+        "nori"
+      ],
+      "winnerIds": [
+        "krystal-forever"
+      ],
+      "eliminatedIds": [
+        "nori"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Yolanda Ramos"
+      }
+    ]
+  },
+  {
+    "id": "ES-S05-E03",
+    "seasonId": "ES-S05",
+    "episodeNumber": 3,
+    "title": "Red and Rossy Carpet",
+    "maxiChallenge": {
+      "name": "Ball",
+      "winnerIds": [
+        "denebola-murnau"
+      ]
+    },
+    "runwayTheme": "Alfombra Roja / Rossy",
+    "bottomIds": [
+      "margarita-kalifata",
+      "satin-greco"
+    ],
+    "lipSync": {
+      "song": "Una estrella en mi jardín",
+      "queenIds": [
+        "margarita-kalifata",
+        "satin-greco"
+      ],
+      "winnerIds": [
+        "margarita-kalifata",
+        "satin-greco"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Rossy de Palma"
+      }
+    ]
+  },
+  {
+    "id": "ES-S05-E04",
+    "seasonId": "ES-S05",
+    "episodeNumber": 4,
+    "title": "Manifest, The Festival",
+    "miniChallenge": {
+      "name": "Shake balls from a box",
+      "winnerIds": [
+        "laca-udilla"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Girl groups",
+      "winnerIds": [
+        "laca-udilla"
+      ]
+    },
+    "runwayTheme": "Disfrutonas",
+    "bottomIds": [
+      "eva-harrington",
+      "la-escandalo",
+      "nix"
+    ],
+    "lipSync": {
+      "song": "Duro de pelar (Oh No Special Edition)",
+      "queenIds": [
+        "eva-harrington",
+        "la-escandalo",
+        "nix"
+      ],
+      "winnerIds": [
+        "nix"
+      ],
+      "eliminatedIds": [
+        "eva-harrington",
+        "la-escandalo"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Rebeca"
+      }
+    ]
+  },
+  {
+    "id": "ES-S05-E05",
+    "seasonId": "ES-S05",
+    "episodeNumber": 5,
+    "title": "Snatch and Serve",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "ferrxn"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "satin-greco"
+      ]
+    },
+    "runwayTheme": "Al Tul Tul",
+    "bottomIds": [
+      "alexandra-del-raval",
+      "krystal-forever"
+    ],
+    "lipSync": {
+      "song": "El hombre del piano",
+      "queenIds": [
+        "alexandra-del-raval",
+        "krystal-forever"
+      ],
+      "winnerIds": [
+        "alexandra-del-raval"
+      ],
+      "eliminatedIds": [
+        "krystal-forever"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Brays Efe"
+      }
+    ]
+  },
+  {
+    "id": "ES-S05-E06",
+    "seasonId": "ES-S05",
+    "episodeNumber": 6,
+    "title": "Vais A Volverme Lorca",
+    "miniChallenge": {
+      "name": "Limited makeup challenge",
+      "winnerIds": [
+        "dafne-mugler"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Lorca musical",
+      "winnerIds": [
+        "nix"
+      ]
+    },
+    "runwayTheme": "Bodas de Sangre",
+    "bottomIds": [
+      "alexandra-del-raval",
+      "denebola-murnau"
+    ],
+    "lipSync": {
+      "song": "Yo tengo un novio",
+      "queenIds": [
+        "alexandra-del-raval",
+        "denebola-murnau"
+      ],
+      "winnerIds": [
+        "alexandra-del-raval"
+      ],
+      "eliminatedIds": [
+        "denebola-murnau"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "La Dani"
+      }
+    ]
+  },
+  {
+    "id": "ES-S05-E07",
+    "seasonId": "ES-S05",
+    "episodeNumber": 7,
+    "title": "Dragselling Houses",
+    "maxiChallenge": {
+      "name": "Improvised real-estate challenge",
+      "winnerIds": [
+        "satin-greco"
+      ]
+    },
+    "bottomIds": [
+      "alexandra-del-raval",
+      "ferrxn"
+    ],
+    "lipSync": {
+      "song": "KITT y los coches del pasado",
+      "queenIds": [
+        "alexandra-del-raval",
+        "ferrxn"
+      ],
+      "winnerIds": [
+        "alexandra-del-raval"
+      ],
+      "eliminatedIds": [
+        "ferrxn"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Abril Zamora"
+      }
+    ]
+  },
+  {
+    "id": "ES-S05-E08",
+    "seasonId": "ES-S05",
+    "episodeNumber": 8,
+    "title": "The Notary Yasstaria",
+    "maxiChallenge": {
+      "name": "Notary / comedy challenge",
+      "winnerIds": [
+        "margarita-kalifata"
+      ]
+    },
+    "bottomIds": [
+      "alexandra-del-raval",
+      "dafne-mugler"
+    ],
+    "lipSync": {
+      "song": "La Original",
+      "queenIds": [
+        "alexandra-del-raval",
+        "dafne-mugler"
+      ],
+      "winnerIds": [
+        "dafne-mugler"
+      ],
+      "eliminatedIds": [
+        "alexandra-del-raval"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Martita de Graná"
+      }
+    ]
+  },
+  {
+    "id": "ES-S05-E09",
+    "seasonId": "ES-S05",
+    "episodeNumber": 9,
+    "title": "Makeover: Queen of My Hometown",
+    "maxiChallenge": {
+      "name": "Makeover challenge",
+      "winnerIds": [
+        "laca-udilla"
+      ]
+    },
+    "bottomIds": [
+      "dafne-mugler",
+      "margarita-kalifata"
+    ],
+    "lipSync": {
+      "song": "Quédate conmigo",
+      "queenIds": [
+        "dafne-mugler",
+        "margarita-kalifata"
+      ],
+      "winnerIds": [
+        "margarita-kalifata"
+      ],
+      "eliminatedIds": [
+        "dafne-mugler"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Pastora Soler"
+      }
+    ]
+  },
+  {
+    "id": "ES-S05-E10",
+    "seasonId": "ES-S05",
+    "episodeNumber": 10,
+    "title": "Return of the Queens"
+  },
+  {
+    "id": "ES-S05-E11",
+    "seasonId": "ES-S05",
+    "episodeNumber": 11,
+    "title": "A Heart-Stopping Finale",
+    "lipSync": {
+      "song": "Déjala correr",
+      "queenIds": [
+        "margarita-kalifata",
+        "satin-greco"
+      ],
+      "winnerIds": [
+        "satin-greco"
+      ],
+      "eliminatedIds": [
+        "laca-udilla",
+        "nix"
+      ]
+    }
+  }
+]

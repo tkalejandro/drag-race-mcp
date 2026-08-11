@@ -1,0 +1,30 @@
+{
+  "id": "madame-madness",
+  "name": "Madame Madness",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S01-E03",
+          "name": "Play traditional Dutch games: Koekhappen, Spijkerpoepen and Zaklopen"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S01-E02",
+          "song": "Roar"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S01-E04",
+          "song": "I Wanna Dance With Somebody (Who Loves Me)"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S01-E04"
+    }
+  ]
+}

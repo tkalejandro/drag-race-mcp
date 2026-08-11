@@ -1,0 +1,43 @@
+{
+  "id": "elecktra",
+  "name": "Elecktra",
+  "appearances": [
+    {
+      "seasonId": "SE-S01",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "SE-S01-E02",
+          "name": "Perform in the C-U-N-Talent Show"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "SE-S01-E01",
+          "name": "Midsommar photoshoot"
+        },
+        {
+          "episodeId": "SE-S01-E06",
+          "name": "Seduce your way into a club"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "SE-S01-E03",
+          "song": "Sexual Revolution"
+        },
+        {
+          "episodeId": "SE-S01-E06",
+          "song": "Emergency"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "SE-S01-E07",
+          "song": "Kisses of Fire"
+        }
+      ],
+      "eliminatedEpisodeId": "SE-S01-E07"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "srirasha-hotsauce",
+  "name": "Srirasha Hotsauce",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E01",
+          "song": "ผีเสื้อราตรี (2002 Ratree)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E02",
+          "song": "บุ๋ง"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S03-E02"
+    }
+  ]
+}

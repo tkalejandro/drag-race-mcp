@@ -1,0 +1,25 @@
+{
+  "id": "la-briochee",
+  "name": "La Briochée",
+  "appearances": [
+    {
+      "seasonId": "FR-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S01-E03",
+          "name": "Film a baguette baking tutorial"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S01-E03",
+          "song": "Pookie"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S01-E03"
+    }
+  ]
+}

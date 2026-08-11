@@ -1,0 +1,33 @@
+{
+  "id": "le-filip",
+  "name": "Le Filip",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 1,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S03-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S03-E05",
+          "song": "Marcia Baïla"
+        },
+        {
+          "episodeId": "FR-S03-E08",
+          "song": "I'm Alive"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S03-E04",
+          "song": "Pour que tu m'aimes encore"
+        }
+      ]
+    }
+  ]
+}

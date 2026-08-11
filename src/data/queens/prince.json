@@ -1,0 +1,20 @@
+{
+  "id": "prince",
+  "name": "Prince",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E01",
+          "song": "Tala"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E01"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "betina-polaroid",
+  "name": "Betina Polaroid",
+  "appearances": [
+    {
+      "seasonId": "BR-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S01-E08",
+          "name": "The Brazilian Festivals Ball: Maracatu, Festival de Parintins and Bate-bola"
+        },
+        {
+          "episodeId": "BR-S01-E09",
+          "name": "Perform a roast of the judges and fellow queens"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BR-S01-E04",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "BR-S01-E05",
+          "name": "Get into quick drag and decorate a drag wedding cake in five minutes"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S01-E02",
+          "song": "Bandida"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S01-E12",
+          "song": "Envolver"
+        }
+      ]
+    }
+  ]
+}

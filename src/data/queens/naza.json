@@ -1,0 +1,30 @@
+{
+  "id": "naza",
+  "name": "Naza",
+  "appearances": [
+    {
+      "seasonId": "BR-S01",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S01-E04",
+          "name": "Create a mermaid look made from unconventional materials"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S01-E06",
+          "song": "Shine It On"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S01-E08",
+          "song": "Dois Trabalhos"
+        }
+      ],
+      "eliminatedEpisodeId": "BR-S01-E08"
+    }
+  ]
+}

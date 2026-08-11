@@ -1,0 +1,58 @@
+[
+  {
+    "id": "es-s04-le-coco-crown",
+    "title": "Le Cocó wins España Season 4",
+    "summary": "In the live Final Battle (ES-S04-E12), La Bella Vampi and Le Cocó lip-synced to Nina's \"Va todo al ganador\". Le Cocó was crowned the winner.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync"
+    ],
+    "queenIds": [
+      "le-coco",
+      "la-bella-vampi"
+    ],
+    "seasonIds": [
+      "ES-S04"
+    ],
+    "episodeIds": [
+      "ES-S04-E12"
+    ]
+  },
+  {
+    "id": "es-s04-reina-suerte",
+    "title": "Reina de la Suerte twist",
+    "summary": "Season 4 introduced Reina de la Suerte: the queen holding the Lucky Queen figurine could swap out of an elimination lip sync. La Bella Vampi used it in ES-S04-E07.",
+    "tags": [
+      "twist",
+      "production"
+    ],
+    "queenIds": [
+      "la-bella-vampi"
+    ],
+    "seasonIds": [
+      "ES-S04"
+    ],
+    "episodeIds": [
+      "ES-S04-E07"
+    ]
+  },
+  {
+    "id": "es-s04-shani-porkchop",
+    "title": "Shani LaSanta: Season 4 Porkchop",
+    "summary": "Shani LaSanta was the first contestant eliminated on España Season 4 (ES-S04-E01), lip-syncing to \"Las 12\" against La Niña Delantro.",
+    "tags": [
+      "porkchop"
+    ],
+    "queenIds": [
+      "shani-lasanta",
+      "la-nina-delantro"
+    ],
+    "seasonIds": [
+      "ES-S04"
+    ],
+    "episodeIds": [
+      "ES-S04-E01"
+    ]
+  }
+]

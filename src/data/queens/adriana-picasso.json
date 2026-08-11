@@ -1,0 +1,20 @@
+{
+  "id": "adriana-picasso",
+  "name": "Adriana Picasso",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S03-E01",
+          "song": "Pazzeska"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S03-E01"
+    }
+  ]
+}

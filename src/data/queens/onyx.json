@@ -1,0 +1,37 @@
+{
+  "id": "onyx",
+  "name": "Onyx",
+  "aliases": [
+    "Onyx Unleashed"
+  ],
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S02-E01",
+          "name": "Present two looks"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S02-E03",
+          "name": "Complete sayings"
+        },
+        {
+          "episodeId": "ES-S02-E05",
+          "name": "Recite poetry"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E05",
+          "song": "Arrasando"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S02-E05"
+    }
+  ]
+}

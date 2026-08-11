@@ -1,0 +1,30 @@
+{
+  "id": "vermelha-noir",
+  "name": "Vermelha Noir",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "MX-S01-E03",
+          "name": "In pairs, participate in a taco eating contest"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S01-E01",
+          "song": "En la obscuridad"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S01-E03",
+          "song": "XT4S1S"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S01-E03"
+    }
+  ]
+}

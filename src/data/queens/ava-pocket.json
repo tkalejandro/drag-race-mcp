@@ -1,0 +1,25 @@
+{
+  "id": "ava-pocket",
+  "name": "Ava Pocket",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S02-E01",
+          "song": "Me río de ti"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E05",
+          "song": "Reina de Corazones"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S02-E05"
+    }
+  ]
+}

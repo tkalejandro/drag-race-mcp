@@ -1,0 +1,45 @@
+{
+  "id": "PH-S03",
+  "franchise": "PH",
+  "name": "Drag Race Philippines Season 3",
+  "seasonNumber": 3,
+  "year": 2024,
+  "episodeCount": 10,
+  "episodeIds": [
+    "PH-S03-E01",
+    "PH-S03-E02",
+    "PH-S03-E03",
+    "PH-S03-E04",
+    "PH-S03-E05",
+    "PH-S03-E06",
+    "PH-S03-E07",
+    "PH-S03-E08",
+    "PH-S03-E09",
+    "PH-S03-E10"
+  ],
+  "castIds": [
+    "maxie",
+    "khianna",
+    "angel",
+    "tita-baby",
+    "zymba-ding",
+    "myx-chanel",
+    "popstar-bench",
+    "john-fedellaga",
+    "j-quinn",
+    "yudipota",
+    "versex"
+  ],
+  "winnerId": "maxie",
+  "runnerUpIds": ["khianna"],
+  "missCongenialityId": "versex",
+  "porkchopId": "versex",
+  "hosts": [{ "name": "Paolo Ballesteros" }],
+  "judges": [
+    { "name": "Paolo Ballesteros" },
+    { "name": "KaladKaren" },
+    { "name": "Jiggly Caliente" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 0, "currency": "PHP" }
+}

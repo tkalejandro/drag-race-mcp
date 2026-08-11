@@ -1,0 +1,223 @@
+[
+  {
+    "id": "FR-S02-E01",
+    "seasonId": "FR-S02",
+    "episodeNumber": 1,
+    "title": "A Lé-Gen-Daire Return",
+    "miniChallenge": {
+      "name": "Garden photoshoot",
+      "winnerIds": ["punani"]
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"We Are Légendaires\"",
+      "winnerIds": ["sara-forever"]
+    },
+    "runwayTheme": "SuperDrag",
+    "topIds": ["keiona", "punani", "sara-forever"],
+    "bottomIds": ["kitty-space", "rose-fr"],
+    "lipSync": {
+      "song": "3SEX",
+      "queenIds": ["kitty-space", "rose-fr"],
+      "winnerIds": ["kitty-space"],
+      "eliminatedIds": ["rose-fr"]
+    },
+    "guestJudges": [
+      { "name": "Chris" },
+      { "name": "Nicola Sirkis" }
+    ]
+  },
+  {
+    "id": "FR-S02-E02",
+    "seasonId": "FR-S02",
+    "episodeNumber": 2,
+    "title": "It's Show Night",
+    "miniChallenge": {
+      "name": "Get into panda drag and dance to a remix of \"Pandi-Panda\"",
+      "winnerIds": ["moon"]
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent show in front of the judges",
+      "winnerIds": ["piche"]
+    },
+    "runwayTheme": "2 en 1",
+    "topIds": ["ginger-bitch", "keiona", "piche", "sara-forever"],
+    "bottomIds": ["cookie-kunty", "vespi"],
+    "lipSync": {
+      "song": "Tout",
+      "queenIds": ["cookie-kunty", "vespi"],
+      "winnerIds": ["cookie-kunty"],
+      "eliminatedIds": ["vespi"]
+    },
+    "guestJudges": [{ "name": "Zahia Dehar" }]
+  },
+  {
+    "id": "FR-S02-E03",
+    "seasonId": "FR-S02",
+    "episodeNumber": 3,
+    "title": "Motor, Dragtion!",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["piche"]
+    },
+    "maxiChallenge": {
+      "name": "Host in the new morning show \"Le Croissant Show\"",
+      "winnerIds": ["sara-forever"]
+    },
+    "runwayTheme": "La nuit des 1000 Dalida",
+    "topIds": ["ginger-bitch", "keiona", "sara-forever"],
+    "bottomIds": ["cookie-kunty", "kitty-space"],
+    "lipSync": {
+      "song": "Monday Tuesday... Laissez moi danser",
+      "queenIds": ["cookie-kunty", "kitty-space"],
+      "winnerIds": ["cookie-kunty"],
+      "eliminatedIds": ["kitty-space"]
+    },
+    "guestJudges": [
+      { "name": "Loïc Prigent" },
+      { "name": "Rossy de Palma" }
+    ]
+  },
+  {
+    "id": "FR-S02-E04",
+    "seasonId": "FR-S02",
+    "episodeNumber": 4,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "In pairs, act as a couple getting married by exchanging vows and playing a wedding game",
+      "winnerIds": ["cookie-kunty", "moon"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["punani"]
+    },
+    "runwayTheme": "Sous l'Océan",
+    "topIds": ["keiona", "moon", "punani"],
+    "bottomIds": ["ginger-bitch", "piche"],
+    "lipSync": {
+      "song": "Je vais vite",
+      "queenIds": ["ginger-bitch", "piche"],
+      "winnerIds": ["ginger-bitch"],
+      "eliminatedIds": ["piche"]
+    },
+    "guestJudges": [
+      { "name": "Amanda Lear" },
+      { "name": "Eddy de Pretto" }
+    ]
+  },
+  {
+    "id": "FR-S02-E05",
+    "seasonId": "FR-S02",
+    "episodeNumber": 5,
+    "title": "The Musidrag",
+    "miniChallenge": {
+      "name": "Grab a key from a jar filled with random substances to unlock a lock",
+      "winnerIds": ["keiona"]
+    },
+    "maxiChallenge": {
+      "name": "Le Bossu de Notre Drag: The Rusical",
+      "winnerIds": ["keiona"]
+    },
+    "runwayTheme": "Démesure Couture",
+    "topIds": ["cookie-kunty", "keiona", "moon"],
+    "bottomIds": ["ginger-bitch", "punani"],
+    "lipSync": {
+      "song": "Le dernier jour du disco",
+      "queenIds": ["ginger-bitch", "punani"],
+      "winnerIds": ["punani"],
+      "eliminatedIds": ["ginger-bitch"]
+    },
+    "guestJudges": [
+      { "name": "Barbara Butch" },
+      { "name": "Juliette Armanet" }
+    ]
+  },
+  {
+    "id": "FR-S02-E06",
+    "seasonId": "FR-S02",
+    "episodeNumber": 6,
+    "title": "Time Ball",
+    "miniChallenge": {
+      "name": "Lip-sync live to \"Transfert Trottinette\" by Bilal Hassani",
+      "winnerIds": ["punani"]
+    },
+    "maxiChallenge": {
+      "name": "The Time Ball",
+      "winnerIds": ["cookie-kunty", "keiona"]
+    },
+    "runwayTheme": "Héroïne du passé / Futuriste Chic / Reine du Bal",
+    "topIds": ["cookie-kunty", "keiona", "mami-watta", "punani"],
+    "bottomIds": ["moon", "sara-forever"],
+    "guestJudges": [
+      { "name": "Léna Situations" },
+      { "name": "Christian Louboutin" }
+    ]
+  },
+  {
+    "id": "FR-S02-E07",
+    "seasonId": "FR-S02",
+    "episodeNumber": 7,
+    "title": "Showtime!",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["mami-watta"]
+    },
+    "maxiChallenge": {
+      "name": "Perform in a girl group performance to \"Attention\" against the eliminated queens",
+      "winnerIds": ["sara-forever"]
+    },
+    "runwayTheme": "Brillez pour nous",
+    "topIds": ["keiona", "mami-watta", "punani", "sara-forever"],
+    "bottomIds": ["cookie-kunty"],
+    "lipSync": {
+      "song": "Et alors!",
+      "queenIds": ["cookie-kunty", "piche"],
+      "winnerIds": ["piche"],
+      "eliminatedIds": ["cookie-kunty"]
+    },
+    "guestJudges": [
+      { "name": "Victor Weinsanto" },
+      { "name": "Virginie Despentes" }
+    ]
+  },
+  {
+    "id": "FR-S02-E08",
+    "seasonId": "FR-S02",
+    "episodeNumber": 8,
+    "title": "Queen Twice Over",
+    "miniChallenge": {
+      "name": "Play in a parody of the game show \"Le maillon faible\"",
+      "winnerIds": ["mami-watta"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover rugby players",
+      "winnerIds": ["sara-forever"]
+    },
+    "runwayTheme": "Belle de match",
+    "topIds": ["keiona", "sara-forever"],
+    "bottomIds": ["piche", "punani"],
+    "lipSync": {
+      "song": "Une femme avec une femme",
+      "queenIds": ["piche", "punani"],
+      "winnerIds": ["punani"],
+      "eliminatedIds": ["piche"]
+    },
+    "guestJudges": [
+      { "name": "La Zarra" },
+      { "name": "Nicolas Huchard" }
+    ]
+  },
+  {
+    "id": "FR-S02-E09",
+    "seasonId": "FR-S02",
+    "episodeNumber": 9,
+    "title": "Grand Finale",
+    "runwayTheme": "Dragnifique",
+    "topIds": ["keiona", "sara-forever"],
+    "bottomIds": ["mami-watta", "punani"],
+    "lipSync": {
+      "song": "Titanium",
+      "queenIds": ["keiona", "sara-forever"],
+      "winnerIds": ["keiona"]
+    }
+  }
+]

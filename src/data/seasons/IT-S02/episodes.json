@@ -1,0 +1,199 @@
+[
+  {
+    "id": "IT-S02-E01",
+    "seasonId": "IT-S02",
+    "episodeNumber": 1,
+    "title": "Little Italy",
+    "miniChallenge": {
+      "name": "Car wash photoshoot",
+      "winnerIds": ["nehellenia"]
+    },
+    "maxiChallenge": {
+      "name": "Create an Italian art inspired look made from unconventional materials",
+      "winnerIds": ["la-diamond"]
+    },
+    "runwayTheme": "Arte Italiana",
+    "topIds": ["la-diamond", "obama"],
+    "bottomIds": ["narciso", "panthera-virus"],
+    "lipSync": {
+      "song": "La bambola",
+      "queenIds": ["narciso", "panthera-virus"],
+      "winnerIds": ["panthera-virus"],
+      "eliminatedIds": ["narciso"]
+    },
+    "guestJudges": [{ "name": "Patty Pravo" }]
+  },
+  {
+    "id": "IT-S02-E02",
+    "seasonId": "IT-S02",
+    "episodeNumber": 2,
+    "title": "Colorful Drag, Lucky Drag",
+    "miniChallenge": {
+      "name": "Drag Comanda Color",
+      "winnerIds": ["nehellenia"]
+    },
+    "maxiChallenge": {
+      "name": "In teams, act in the soap opera \"Il segreto... mica poi tanto!!\"",
+      "winnerIds": ["aura-eternal"]
+    },
+    "runwayTheme": "Prato Fiorito",
+    "topIds": ["aura-eternal", "la-petite-noire"],
+    "bottomIds": ["obama", "tanissa-yonce"],
+    "lipSync": {
+      "song": "Bagno a mezzanotte",
+      "queenIds": ["obama", "tanissa-yonce"],
+      "winnerIds": ["obama"],
+      "eliminatedIds": ["tanissa-yonce"]
+    },
+    "guestJudges": [
+      { "name": "Ludovico Tersigni" },
+      { "name": "Nancy Brilli" }
+    ]
+  },
+  {
+    "id": "IT-S02-E03",
+    "seasonId": "IT-S02",
+    "episodeNumber": 3,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["nehellenia"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["la-diamond"]
+    },
+    "runwayTheme": "Colpo di Sce...ma",
+    "topIds": ["la-diamond"],
+    "bottomIds": ["obama", "panthera-virus"],
+    "lipSync": {
+      "song": "Down Down Down",
+      "queenIds": ["obama", "panthera-virus"],
+      "winnerIds": ["panthera-virus"],
+      "eliminatedIds": ["obama"]
+    },
+    "guestJudges": [{ "name": "Sandra Milo" }]
+  },
+  {
+    "id": "IT-S02-E04",
+    "seasonId": "IT-S02",
+    "episodeNumber": 4,
+    "title": "Daughters of the Stars",
+    "miniChallenge": {
+      "name": "Horoscope quiz",
+      "winnerIds": ["aura-eternal"]
+    },
+    "maxiChallenge": {
+      "name": "Improvise as fortune tellers reading tarots to the queens from Season 1",
+      "winnerIds": ["la-diamond"]
+    },
+    "runwayTheme": "Drag Oroscopo",
+    "topIds": ["la-diamond", "nehellenia"],
+    "bottomIds": ["gioffre", "panthera-virus"],
+    "lipSync": {
+      "song": "Jem",
+      "queenIds": ["gioffre", "panthera-virus"],
+      "winnerIds": ["gioffre"],
+      "eliminatedIds": ["panthera-virus"]
+    },
+    "guestJudges": [{ "name": "Alessandra Celentano" }]
+  },
+  {
+    "id": "IT-S02-E05",
+    "seasonId": "IT-S02",
+    "episodeNumber": 5,
+    "title": "Festival Drag",
+    "miniChallenge": {
+      "name": "Tuckis Roulant",
+      "winnerIds": ["la-diamond"]
+    },
+    "maxiChallenge": {
+      "name": "Perform in a rusical dedicated to Lady Gaga",
+      "winnerIds": ["la-petite-noire"]
+    },
+    "runwayTheme": "Dancing Queen",
+    "topIds": ["aura-eternal", "la-petite-noire", "nehellenia"],
+    "lipSync": {
+      "song": "The Rhythm of the Night",
+      "queenIds": ["la-petite-noire", "nehellenia"],
+      "winnerIds": ["la-petite-noire"]
+    },
+    "guestJudges": [
+      { "name": "Nick Cerioni" },
+      { "name": "Vito Coppola" }
+    ]
+  },
+  {
+    "id": "IT-S02-E06",
+    "seasonId": "IT-S02",
+    "episodeNumber": 6,
+    "title": "Sporty Queens",
+    "miniChallenge": {
+      "name": "Guess the number of foods on a pit crew member's body blindfolded",
+      "winnerIds": ["aura-eternal"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover football players from the LGBTI+ inclusive club Lupi Roma",
+      "winnerIds": ["nehellenia"]
+    },
+    "runwayTheme": "Drag nello Sport",
+    "topIds": ["la-petite-noire", "nehellenia"],
+    "bottomIds": ["gioffre", "skandalove"],
+    "lipSync": {
+      "song": "Pem Pem",
+      "queenIds": ["gioffre", "skandalove"],
+      "winnerIds": ["skandalove"],
+      "eliminatedIds": ["gioffre"]
+    },
+    "guestJudges": [{ "name": "Claudia Gerini" }]
+  },
+  {
+    "id": "IT-S02-E07",
+    "seasonId": "IT-S02",
+    "episodeNumber": 7,
+    "title": "A Walk in Time",
+    "miniChallenge": {
+      "name": "Paint a full face of makeup while twirling a hula hoop",
+      "winnerIds": ["aura-eternal"]
+    },
+    "maxiChallenge": {
+      "name": "Perform a roast of the judges and an audience of Italian sciure",
+      "winnerIds": ["la-diamond"]
+    },
+    "runwayTheme": "A Spasso nel Tempo",
+    "topIds": ["aura-eternal", "la-diamond"],
+    "bottomIds": ["la-petite-noire", "skandalove"],
+    "lipSync": {
+      "song": "Far l'amore",
+      "queenIds": ["la-petite-noire", "skandalove"],
+      "winnerIds": ["la-petite-noire"],
+      "eliminatedIds": ["skandalove"]
+    },
+    "guestJudges": [
+      { "name": "Michela Giraud" },
+      { "name": "Supremme de Luxe" }
+    ]
+  },
+  {
+    "id": "IT-S02-E08",
+    "seasonId": "IT-S02",
+    "episodeNumber": 8,
+    "title": "Grand Finale",
+    "miniChallenge": {
+      "name": "Play a game of Drag Race Italia inspired twister",
+      "winnerIds": ["la-petite-noire"]
+    },
+    "runwayTheme": "Eleganza Extravaganza",
+    "topIds": ["aura-eternal", "la-diamond", "nehellenia"],
+    "bottomIds": ["la-petite-noire"],
+    "lipSync": {
+      "song": "Festival",
+      "queenIds": ["aura-eternal", "la-diamond", "nehellenia"],
+      "winnerIds": ["la-diamond"]
+    },
+    "guestJudges": [
+      { "name": "Luca Tommassini" },
+      { "name": "Paola Iezzi" }
+    ]
+  }
+]

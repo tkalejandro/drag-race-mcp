@@ -1,0 +1,29 @@
+{
+  "id": "chloe-vittu",
+  "name": "Chloe Vittu",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S04-E09",
+          "name": "Makeover challenge"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S04-E06",
+          "song": "Mujer loba"
+        },
+        {
+          "episodeId": "ES-S04-E11",
+          "song": "Diva"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ES-S04-E12"
+    }
+  ]
+}

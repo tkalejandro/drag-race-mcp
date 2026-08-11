@@ -1,0 +1,25 @@
+{
+  "id": "hornella-gongora",
+  "name": "Hornella Góngora",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S03-E01",
+          "name": "Farm-animal photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S03-E09",
+          "song": "Vas a volverme loca"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ES-S03-E11"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "arizona-brandy",
+  "name": "Arizona Brandy",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S02-E01",
+          "name": "Write, record, and perform verses to \"BOOGSH!\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S02-E08",
+          "name": "Read the other queens through a rap"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S02-E03",
+          "song": "Kitty Girl"
+        },
+        {
+          "episodeId": "PH-S02-E09",
+          "song": "Dati"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S02-E10",
+          "song": "Kapangyarihan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kam-hugh",
+  "name": "Kam Hugh",
+  "appearances": [
+    {
+      "seasonId": "FR-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S01-E03",
+          "name": "The French Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S01-E04",
+          "song": "DJ"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S01-E04"
+    }
+  ]
+}

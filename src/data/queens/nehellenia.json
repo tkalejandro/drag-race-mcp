@@ -1,0 +1,42 @@
+{
+  "id": "nehellenia",
+  "name": "Nehellenia",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S02-E06",
+          "name": "Makeover football players from the LGBTI+ inclusive club Lupi Roma"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S02-E01",
+          "name": "Car wash photoshoot"
+        },
+        {
+          "episodeId": "IT-S02-E02",
+          "name": "Drag Comanda Color"
+        },
+        {
+          "episodeId": "IT-S02-E03",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S02-E05",
+          "song": "The Rhythm of the Night"
+        },
+        {
+          "episodeId": "IT-S02-E08",
+          "song": "Festival"
+        }
+      ],
+      "missCongeniality": true
+    }
+  ]
+}

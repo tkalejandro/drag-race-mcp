@@ -1,0 +1,34 @@
+{
+  "id": "kandy-zyanide",
+  "name": "Kandy Zyanide",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E09",
+          "name": "Perform in a musical tribute to Apaporn Nakornsawan"
+        },
+        {
+          "episodeId": "TH-S02-E11",
+          "name": "Write and record lyrics for a song and perform in a music video"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S02-E02",
+          "name": "Match pairs of guys wearing the same color shorts"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E04",
+          "song": "จดหมายรักจากเมียเช่า (A Love Letter from a Wife)"
+        }
+      ],
+      "reentered": true
+    }
+  ]
+}

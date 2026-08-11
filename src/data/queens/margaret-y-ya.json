@@ -1,0 +1,29 @@
+{
+  "id": "margaret-y-ya",
+  "name": "Margaret Y Ya",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "MX-S01-E01",
+          "name": "Piñata-inspired photoshoot"
+        },
+        {
+          "episodeId": "MX-S01-E04",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S01-E07",
+          "song": "Quítame ese hombre del corazón"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S01-E07"
+    }
+  ]
+}

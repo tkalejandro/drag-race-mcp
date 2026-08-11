@@ -1,0 +1,33 @@
+{
+  "id": "la-petite-noire",
+  "name": "La Petite Noire",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S02-E05",
+          "name": "Perform in a rusical dedicated to Lady Gaga"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S02-E08",
+          "name": "Play a game of Drag Race Italia inspired twister"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S02-E05",
+          "song": "The Rhythm of the Night"
+        },
+        {
+          "episodeId": "IT-S02-E07",
+          "song": "Far l'amore"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

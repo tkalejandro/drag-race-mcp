@@ -1,0 +1,37 @@
+{
+  "id": "gala-varo",
+  "name": "Gala Varo",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S01-E05",
+          "name": "Write, record, and perform verses to \"Así soy yo\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S01-E06",
+          "song": "Ábranse perras"
+        },
+        {
+          "episodeId": "MX-S01-E09",
+          "song": "De mí enamórate"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S01-E08",
+          "song": "Bizcochito"
+        },
+        {
+          "episodeId": "MX-S01-E12",
+          "song": "Él me mintió"
+        }
+      ]
+    }
+  ]
+}

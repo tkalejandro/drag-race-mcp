@@ -1,0 +1,28 @@
+{
+  "id": "farida-kant",
+  "name": "Farida Kant",
+  "appearances": [
+    {
+      "seasonId": "IT-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S01-E01",
+          "name": "Create an Italian Style look out of materials inside old suitcases"
+        },
+        {
+          "episodeId": "IT-S01-E05",
+          "name": "Makeover a loved one as your best woman and yourself as the bride"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S01-E06",
+          "song": "Non sono una signora"
+        }
+      ]
+    }
+  ]
+}

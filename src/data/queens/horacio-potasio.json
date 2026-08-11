@@ -1,0 +1,42 @@
+{
+  "id": "horacio-potasio",
+  "name": "Horacio Potasio",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S02-E02",
+          "name": "Perform in a dance crew battle"
+        },
+        {
+          "episodeId": "MX-S02-E09",
+          "name": "Perform a roast of Cristian Peralta, Gala Varo, Matraka and Regina Voce"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "MX-S02-E02",
+          "name": "Drag Race trivia"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S02-E07",
+          "song": "Me Hipnotizas"
+        },
+        {
+          "episodeId": "MX-S02-E08",
+          "song": "One, Two, Three, Go!"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E12",
+          "song": "Bzrp Music Sessions, Vol. 53"
+        }
+      ]
+    }
+  ]
+}

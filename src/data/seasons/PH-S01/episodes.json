@@ -1,0 +1,216 @@
+[
+  {
+    "id": "PH-S01-E01",
+    "seasonId": "PH-S01",
+    "episodeNumber": 1,
+    "title": "Mabu-Heeey!",
+    "miniChallenge": {
+      "name": "Dragna superhero inspired photoshoot",
+      "winnerIds": ["marina-summers"]
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent show in front of the judges",
+      "winnerIds": ["minty-fresh"]
+    },
+    "runwayTheme": "Ter-No, She Betta Don't!",
+    "topIds": ["minty-fresh"],
+    "bottomIds": ["lady-morgana", "prince"],
+    "lipSync": {
+      "song": "Tala",
+      "queenIds": ["lady-morgana", "prince"],
+      "winnerIds": ["lady-morgana"],
+      "eliminatedIds": ["prince"]
+    },
+    "guestJudges": [{ "name": "Pops Fernandez" }]
+  },
+  {
+    "id": "PH-S01-E02",
+    "seasonId": "PH-S01",
+    "episodeNumber": 2,
+    "title": "Sagalamazon",
+    "miniChallenge": {
+      "name": "The Hard Greasy Pole Game",
+      "winnerIds": ["corazon"]
+    },
+    "maxiChallenge": {
+      "name": "Create a look and arch inspired by the Flores de Mayo celebration and Sagala pageantry",
+      "winnerIds": ["vinas-deluxe"]
+    },
+    "runwayTheme": "Sagalamazon",
+    "topIds": ["vinas-deluxe"],
+    "bottomIds": ["corazon", "turing"],
+    "lipSync": {
+      "song": "I'm Feeling Sexy Tonight",
+      "queenIds": ["corazon", "turing"],
+      "winnerIds": ["turing"],
+      "eliminatedIds": ["corazon"]
+    },
+    "guestJudges": [{ "name": "Pokwang" }]
+  },
+  {
+    "id": "PH-S01-E03",
+    "seasonId": "PH-S01",
+    "episodeNumber": 3,
+    "title": "Pop Off Ate!",
+    "miniChallenge": {
+      "name": "Drag Race Special Ru-lection",
+      "winnerIds": ["precious-paula-nicole"]
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"Pop Off Ate (Pop Off Sis)\"",
+      "winnerIds": ["turing"]
+    },
+    "runwayTheme": "Shake, Rattle and Rampa",
+    "topIds": ["turing"],
+    "bottomIds": ["gigi-era", "xilhouete"],
+    "lipSync": {
+      "song": "Glamazon",
+      "queenIds": ["gigi-era", "xilhouete"],
+      "winnerIds": ["xilhouete"],
+      "eliminatedIds": ["gigi-era"]
+    },
+    "guestJudges": [{ "name": "Nadine Lustre" }]
+  },
+  {
+    "id": "PH-S01-E04",
+    "seasonId": "PH-S01",
+    "episodeNumber": 4,
+    "title": "OPM Divas: The Rusical",
+    "miniChallenge": {
+      "name": "Ten-Twenty Talon Becky (Chinese Garter Game)",
+      "winnerIds": ["eva-le-queen"]
+    },
+    "maxiChallenge": {
+      "name": "OPM Divas: The Rusical",
+      "winnerIds": ["precious-paula-nicole"]
+    },
+    "runwayTheme": "Perlas Ng Silanganan (Pearl of the Orient Seas)",
+    "topIds": ["precious-paula-nicole"],
+    "bottomIds": ["lady-morgana", "turing"],
+    "lipSync": {
+      "song": "Shine",
+      "queenIds": ["lady-morgana", "turing"],
+      "winnerIds": ["lady-morgana"],
+      "eliminatedIds": ["turing"]
+    },
+    "guestJudges": [{ "name": "Regine Velasquez-Alcasid" }]
+  },
+  {
+    "id": "PH-S01-E05",
+    "seasonId": "PH-S01",
+    "episodeNumber": 5,
+    "title": "Miss Shutacca",
+    "maxiChallenge": {
+      "name": "Compete in the Miss Shutacca Queen Beauty Pageant",
+      "winnerIds": ["marina-summers"]
+    },
+    "runwayTheme": "Pink Pak Boom",
+    "topIds": ["marina-summers"],
+    "bottomIds": ["brigiding", "lady-morgana"],
+    "lipSync": {
+      "song": "Ate Sandali",
+      "queenIds": ["brigiding", "lady-morgana"],
+      "winnerIds": ["brigiding"],
+      "eliminatedIds": ["lady-morgana"]
+    },
+    "guestJudges": [{ "name": "Pia Wurtzbach" }]
+  },
+  {
+    "id": "PH-S01-E06",
+    "seasonId": "PH-S01",
+    "episodeNumber": 6,
+    "title": "Snatch Game KNB?",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["xilhouete"]
+    },
+    "runwayTheme": "Two-in-One Ruvelation",
+    "topIds": ["xilhouete"],
+    "bottomIds": ["brigiding", "minty-fresh"],
+    "lipSync": {
+      "song": "Amakabogera",
+      "queenIds": ["brigiding", "minty-fresh"],
+      "winnerIds": ["brigiding", "minty-fresh"]
+    }
+  },
+  {
+    "id": "PH-S01-E07",
+    "seasonId": "PH-S01",
+    "episodeNumber": 7,
+    "title": "The Shop Shop Ladies Ball",
+    "miniChallenge": {
+      "name": "Nude illusion group photoshoot",
+      "winnerIds": ["minty-fresh"]
+    },
+    "maxiChallenge": {
+      "name": "The Shop Shop Ladies Ball",
+      "winnerIds": ["minty-fresh"]
+    },
+    "runwayTheme": "Shopulence, She Buys Everything! and Divi-Divas",
+    "topIds": ["minty-fresh"],
+    "bottomIds": ["eva-le-queen", "vinas-deluxe"],
+    "lipSync": {
+      "song": "Born Naked",
+      "queenIds": ["eva-le-queen", "vinas-deluxe"],
+      "winnerIds": ["eva-le-queen"],
+      "eliminatedIds": ["vinas-deluxe"]
+    }
+  },
+  {
+    "id": "PH-S01-E08",
+    "seasonId": "PH-S01",
+    "episodeNumber": 8,
+    "title": "Twinning!",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["eva-le-queen"]
+    },
+    "maxiChallenge": {
+      "name": "Makeover a loved one",
+      "winnerIds": ["xilhouete"]
+    },
+    "runwayTheme": "Twinning",
+    "topIds": ["xilhouete"],
+    "bottomIds": ["brigiding", "minty-fresh"],
+    "lipSync": {
+      "song": "Dyosa",
+      "queenIds": ["brigiding", "minty-fresh"],
+      "winnerIds": ["minty-fresh"],
+      "eliminatedIds": ["brigiding"]
+    },
+    "guestJudges": [{ "name": "Patrick Starrr" }]
+  },
+  {
+    "id": "PH-S01-E09",
+    "seasonId": "PH-S01",
+    "episodeNumber": 9,
+    "title": "Charot of Fire",
+    "maxiChallenge": {
+      "name": "Star and perform in a music video for RuPaul's song \"Champion\"",
+      "winnerIds": ["marina-summers"]
+    },
+    "runwayTheme": "LED There Be Light and Come In Your Best Drag",
+    "topIds": ["marina-summers"],
+    "bottomIds": ["minty-fresh", "xilhouete"],
+    "lipSync": {
+      "song": "You'll Always Be My Number One",
+      "queenIds": ["minty-fresh", "xilhouete"],
+      "winnerIds": ["xilhouete"],
+      "eliminatedIds": ["minty-fresh"]
+    },
+    "guestJudges": [{ "name": "Boy Abunda" }]
+  },
+  {
+    "id": "PH-S01-E10",
+    "seasonId": "PH-S01",
+    "episodeNumber": 10,
+    "title": "Grand Finale",
+    "runwayTheme": "Bongga Camp Day (Fabulous Camp Girl) and Indigenous Extravaganza",
+    "topIds": ["eva-le-queen", "marina-summers", "precious-paula-nicole", "xilhouete"],
+    "lipSync": {
+      "song": "Sirena",
+      "queenIds": ["marina-summers", "precious-paula-nicole"],
+      "winnerIds": ["precious-paula-nicole"]
+    }
+  }
+]

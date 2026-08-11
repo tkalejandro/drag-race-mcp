@@ -1,0 +1,20 @@
+{
+  "id": "roem",
+  "name": "Roem",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S01-E01",
+          "song": "Express Yourself"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S01-E01"
+    }
+  ]
+}

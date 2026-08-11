@@ -1,0 +1,192 @@
+[
+  {
+    "id": "FR-S01-E01",
+    "seasonId": "FR-S01",
+    "episodeNumber": 1,
+    "title": "Bonjour, Bonjour, Bonjour!",
+    "miniChallenge": {
+      "name": "Cabaret photoshoot",
+      "winnerIds": ["lolita-banana"]
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent show in front of the judges",
+      "winnerIds": ["soa-de-muse"]
+    },
+    "runwayTheme": "Liberté, égalité, Jean-Paul Gaultier",
+    "topIds": ["elips", "la-big-bertha", "soa-de-muse"],
+    "bottomIds": ["la-kahena", "lova-ladiva"],
+    "lipSync": {
+      "song": "Prière païenne",
+      "queenIds": ["la-kahena", "lova-ladiva"],
+      "winnerIds": ["lova-ladiva"],
+      "eliminatedIds": ["la-kahena"]
+    },
+    "guestJudges": [
+      { "name": "Jean Paul Gaultier" },
+      { "name": "Iris Mittenaere" }
+    ]
+  },
+  {
+    "id": "FR-S01-E02",
+    "seasonId": "FR-S01",
+    "episodeNumber": 2,
+    "title": "Queen Pour Cent",
+    "miniChallenge": {
+      "name": "Rock 'n' roll show quick-drag",
+      "winnerIds": ["la-grande-dame"]
+    },
+    "maxiChallenge": {
+      "name": "Act in the Dix Pour Cent parody \"Queen Pour Cent\"",
+      "winnerIds": ["paloma"]
+    },
+    "runwayTheme": "Dites-le avec des fleurs",
+    "topIds": ["la-grande-dame", "lolita-banana", "paloma"],
+    "bottomIds": ["lova-ladiva", "soa-de-muse"],
+    "lipSync": {
+      "song": "Toutes les femmes de ta vie",
+      "queenIds": ["lova-ladiva", "soa-de-muse"],
+      "winnerIds": ["soa-de-muse"],
+      "eliminatedIds": ["lova-ladiva"]
+    },
+    "guestJudges": [{ "name": "Marianne James" }]
+  },
+  {
+    "id": "FR-S01-E03",
+    "seasonId": "FR-S01",
+    "episodeNumber": 3,
+    "title": "The French Ball",
+    "miniChallenge": {
+      "name": "Film a baguette baking tutorial",
+      "winnerIds": ["la-briochee", "elips"]
+    },
+    "maxiChallenge": {
+      "name": "The French Ball",
+      "winnerIds": ["kam-hugh"]
+    },
+    "runwayTheme": "Ma France à moi / French Clichés / Festival de Cannes",
+    "topIds": ["kam-hugh", "la-grande-dame", "paloma"],
+    "bottomIds": ["la-briochee", "soa-de-muse"],
+    "lipSync": {
+      "song": "Pookie",
+      "queenIds": ["la-briochee", "soa-de-muse"],
+      "winnerIds": ["soa-de-muse"],
+      "eliminatedIds": ["la-briochee"]
+    },
+    "guestJudges": [
+      { "name": "Chantal Thomass" },
+      { "name": "Véronique Philipponnat" }
+    ]
+  },
+  {
+    "id": "FR-S01-E04",
+    "seasonId": "FR-S01",
+    "episodeNumber": 4,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["la-big-bertha"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["la-grande-dame"]
+    },
+    "runwayTheme": "Lendemain de soirée",
+    "topIds": ["la-grande-dame", "paloma", "soa-de-muse"],
+    "bottomIds": ["kam-hugh", "la-big-bertha"],
+    "lipSync": {
+      "song": "DJ",
+      "queenIds": ["kam-hugh", "la-big-bertha"],
+      "winnerIds": ["la-big-bertha"],
+      "eliminatedIds": ["kam-hugh"]
+    },
+    "guestJudges": [{ "name": "Bilal Hassani" }]
+  },
+  {
+    "id": "FR-S01-E05",
+    "seasonId": "FR-S01",
+    "episodeNumber": 5,
+    "title": "Popstars",
+    "miniChallenge": {
+      "name": "In pairs, paint each other's faces while blindfolded",
+      "winnerIds": ["la-grande-dame", "soa-de-muse"]
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"Boom Boom\"",
+      "winnerIds": ["soa-de-muse"]
+    },
+    "runwayTheme": "La nuit des 1000 Mylène",
+    "topIds": ["la-big-bertha", "lolita-banana", "soa-de-muse"],
+    "bottomIds": ["elips", "paloma"],
+    "lipSync": {
+      "song": "Libertine",
+      "queenIds": ["elips", "paloma"],
+      "winnerIds": ["paloma"],
+      "eliminatedIds": ["elips"]
+    },
+    "guestJudges": [
+      { "name": "Shy'm" },
+      { "name": "Yanis Marshall" }
+    ]
+  },
+  {
+    "id": "FR-S01-E06",
+    "seasonId": "FR-S01",
+    "episodeNumber": 6,
+    "title": "Un Parfum de Drag",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["paloma"]
+    },
+    "maxiChallenge": {
+      "name": "Write and produce perfume advertisements",
+      "winnerIds": ["paloma"]
+    },
+    "runwayTheme": "Haute Couture",
+    "topIds": ["paloma", "soa-de-muse"],
+    "bottomIds": ["la-big-bertha", "lolita-banana"],
+    "lipSync": {
+      "song": "Corps",
+      "queenIds": ["la-big-bertha", "lolita-banana"],
+      "winnerIds": ["lolita-banana"],
+      "eliminatedIds": ["la-big-bertha"]
+    },
+    "guestJudges": [
+      { "name": "Alexandre Mattiussi" },
+      { "name": "Yseult" }
+    ]
+  },
+  {
+    "id": "FR-S01-E07",
+    "seasonId": "FR-S01",
+    "episodeNumber": 7,
+    "title": "Sororité",
+    "runwayTheme": "Un air de famille",
+    "lipSync": {
+      "song": "La grenade",
+      "queenIds": ["la-grande-dame", "lolita-banana"],
+      "winnerIds": ["la-grande-dame"],
+      "eliminatedIds": ["lolita-banana"]
+    },
+    "guestJudges": [
+      { "name": "Raya Martigny" },
+      { "name": "Loïc Prigent" }
+    ]
+  },
+  {
+    "id": "FR-S01-E08",
+    "seasonId": "FR-S01",
+    "episodeNumber": 8,
+    "title": "Grande Finale",
+    "runwayTheme": "Dragnifique",
+    "topIds": ["la-grande-dame", "paloma", "soa-de-muse"],
+    "lipSync": {
+      "song": "Mourir sur scène",
+      "queenIds": ["la-grande-dame", "paloma", "soa-de-muse"],
+      "winnerIds": ["paloma"]
+    },
+    "guestJudges": [
+      { "name": "Olivier Rousteing" },
+      { "name": "Nicolas Huchard" }
+    ]
+  }
+]

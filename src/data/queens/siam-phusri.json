@@ -1,0 +1,20 @@
+{
+  "id": "siam-phusri",
+  "name": "Siam Phusri",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E06",
+          "song": "We Are Beautiful"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S03-E06"
+    }
+  ]
+}

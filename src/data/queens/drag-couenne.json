@@ -1,0 +1,32 @@
+{
+  "id": "drag-couenne",
+  "name": "Drag Couenne",
+  "appearances": [
+    {
+      "seasonId": "BE-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "BE-S01-E02",
+          "name": "In teams, create a commercial promoting different Belgian foods"
+        },
+        {
+          "episodeId": "BE-S01-E04",
+          "name": "Act in a parody of Ni juge, ni soumise (\"So Help Me God\")"
+        },
+        {
+          "episodeId": "BE-S01-E07",
+          "name": "Write and deliver an inspiring and humorous speech to become Queen of Belgium"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S01-E08",
+          "song": "Démons"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

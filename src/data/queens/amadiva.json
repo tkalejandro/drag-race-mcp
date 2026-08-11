@@ -1,0 +1,30 @@
+{
+  "id": "amadiva",
+  "name": "Amadiva",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S01-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S01-E04",
+          "song": "Dhoom Dhoom"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S01-E06",
+          "song": "เพลงสุดท้าย (Last Song)"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S01-E06"
+    }
+  ]
+}

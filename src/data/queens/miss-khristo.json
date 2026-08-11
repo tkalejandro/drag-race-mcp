@@ -1,0 +1,30 @@
+{
+  "id": "miss-khristo",
+  "name": "Miss Khristo",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S04-E01",
+          "name": "Time ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S04-E02",
+          "song": "Cuando zarpa el amor"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S04-E05",
+          "song": "El amor"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S04-E05"
+    }
+  ]
+}

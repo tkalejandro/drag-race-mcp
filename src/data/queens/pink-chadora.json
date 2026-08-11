@@ -1,0 +1,29 @@
+{
+  "id": "pink-chadora",
+  "name": "Pink Chadora",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S03-E02",
+          "name": "Choreograph and perform to \"SloMo\""
+        },
+        {
+          "episodeId": "ES-S03-E05",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E07",
+          "song": "No controles"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S03-E07"
+    }
+  ]
+}

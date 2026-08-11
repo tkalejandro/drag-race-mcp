@@ -1,0 +1,20 @@
+{
+  "id": "pixie-pixie",
+  "name": "Pixie Pixie",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S01-E04",
+          "song": "Mío"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S01-E04"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "organzza",
+  "name": "Organzza",
+  "appearances": [
+    {
+      "seasonId": "BR-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S01-E02",
+          "name": "Write, record, perform verses and choreograph a music video to \"Madrugatas\" (Hotties of the Night)"
+        },
+        {
+          "episodeId": "BR-S01-E03",
+          "name": "Act in the sketch \"As Chuteiras de Trovão\" (Trovão's Soccer Shoes)"
+        },
+        {
+          "episodeId": "BR-S01-E10",
+          "name": "Makeover Drag Race superfans"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S01-E09",
+          "song": "Festa"
+        },
+        {
+          "episodeId": "BR-S01-E12",
+          "song": "Envolver"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

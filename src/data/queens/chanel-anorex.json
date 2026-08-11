@@ -1,0 +1,20 @@
+{
+  "id": "chanel-anorex",
+  "name": "Chanel Anorex",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E03",
+          "song": "Genio atrapado"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S03-E03"
+    }
+  ]
+}

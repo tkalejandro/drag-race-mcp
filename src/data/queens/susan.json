@@ -1,0 +1,34 @@
+{
+  "id": "susan",
+  "name": "Susan",
+  "appearances": [
+    {
+      "seasonId": "BE-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "BE-S01-E03",
+          "name": "Create two looks made out of festival materials"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BE-S01-E02",
+          "name": "Give face while the pit crew blows them with a leaf blower"
+        },
+        {
+          "episodeId": "BE-S01-E05",
+          "name": "Lip-sync to RuPaul's \"Bring Back My Girls\" in pairs"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S01-E04",
+          "song": "Million Eyes"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "BE-S01-E08"
+    }
+  ]
+}

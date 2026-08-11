@@ -1,0 +1,29 @@
+[
+  {
+    "id": "it-s03-lina-galore-crown",
+    "title": "Lina Galore wins Drag Race Italia Season 3",
+    "summary": "In the Grand Finale (IT-S03-E12), Lina Galore defeated Melissa Bianchini in the Lip Sync for the Crown to Paola & Chiara's \"Furore\", becoming Drag Race Italia's third Drag Superstar. La Sheeva and Silvana Della Magliana were eliminated from the final four without a lip sync.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["lina-galore", "melissa-bianchini", "la-sheeva", "silvana-della-magliana"],
+    "seasonIds": ["IT-S03"],
+    "episodeIds": ["IT-S03-E12"]
+  },
+  {
+    "id": "it-s03-adriana-picasso-porkchop",
+    "title": "Adriana Picasso: Italia Season 3's first Porkchop",
+    "summary": "Adriana Picasso was the first contestant eliminated on Drag Race Italia season 3 (IT-S03-E01), losing the lip sync to \"Pazzeska\" against La Prada.",
+    "tags": ["porkchop"],
+    "queenIds": ["adriana-picasso", "la-prada"],
+    "seasonIds": ["IT-S03"],
+    "episodeIds": ["IT-S03-E01"]
+  },
+  {
+    "id": "it-s03-siamo-donne-double-shantay",
+    "title": "A double shantay to \"Siamo donne\"",
+    "summary": "In IT-S03-E10, bottom two La Sheeva and Silvana Della Magliana both won their lip sync to Sabrina Salerno and Jo Squillo's \"Siamo donne\", and both were declared safe with no elimination.",
+    "tags": ["double-shantay", "lip-sync"],
+    "queenIds": ["la-sheeva", "silvana-della-magliana"],
+    "seasonIds": ["IT-S03"],
+    "episodeIds": ["IT-S03-E10"]
+  }
+]

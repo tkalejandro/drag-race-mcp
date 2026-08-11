@@ -1,0 +1,20 @@
+{
+  "id": "porca-theclubkid",
+  "name": "Porca Theclubkid",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S04-E02",
+          "song": "Cuando zarpa el amor"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S04-E02"
+    }
+  ]
+}

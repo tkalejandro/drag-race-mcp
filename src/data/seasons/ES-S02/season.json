@@ -1,0 +1,66 @@
+{
+  "id": "ES-S02",
+  "franchise": "ES",
+  "name": "Drag Race España Season 2",
+  "seasonNumber": 2,
+  "year": 2022,
+  "episodeCount": 11,
+  "episodeIds": [
+    "ES-S02-E01",
+    "ES-S02-E02",
+    "ES-S02-E03",
+    "ES-S02-E04",
+    "ES-S02-E05",
+    "ES-S02-E06",
+    "ES-S02-E07",
+    "ES-S02-E08",
+    "ES-S02-E09",
+    "ES-S02-E10",
+    "ES-S02-E11"
+  ],
+  "castIds": [
+    "sharonne",
+    "estrella-xtravaganza",
+    "venedita-von-dash",
+    "marina",
+    "juriji-der-klee",
+    "drag-sethlas",
+    "diamante-merybrown",
+    "onyx",
+    "jota-carajota",
+    "samantha-ballentines",
+    "ariel-rec",
+    "marisa-prisa"
+  ],
+  "winnerId": "sharonne",
+  "runnerUpIds": [
+    "estrella-xtravaganza",
+    "venedita-von-dash"
+  ],
+  "missCongenialityId": "samantha-ballentines",
+  "porkchopId": "marisa-prisa",
+  "hosts": [
+    {
+      "name": "Supremme de Luxe"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Supremme de Luxe"
+    },
+    {
+      "name": "Ana Locking"
+    },
+    {
+      "name": "Javier Ambrossi"
+    },
+    {
+      "name": "Javier Calvo"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "EUR"
+  }
+}

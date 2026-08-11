@@ -1,0 +1,29 @@
+{
+  "id": "poseidon-drag",
+  "name": "Poseidon Drag",
+  "appearances": [
+    {
+      "seasonId": "BR-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S02-E03",
+          "name": "In teams, create a verse and choreography for an original song"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S02-E02",
+          "song": "Ultra Som"
+        },
+        {
+          "episodeId": "BR-S02-E08",
+          "song": "Bixinho (Lux & Tróia – Remix)"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "BR-S02-E10"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "lula-strega",
+  "name": "Lula Strega",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S03-E03",
+          "name": "Showcase two looks for the Ball Games"
+        },
+        {
+          "episodeId": "FR-S03-E07",
+          "name": "Style a wig to create a couture hairstyle"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S03-E03",
+          "name": "Drag Olympics"
+        },
+        {
+          "episodeId": "FR-S03-E07",
+          "name": "Le Talon Faible"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": []
+    }
+  ]
+}

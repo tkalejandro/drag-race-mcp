@@ -1,0 +1,47 @@
+{
+  "id": "TH-S03",
+  "franchise": "TH",
+  "name": "Drag Race Thailand Season 3",
+  "seasonNumber": 3,
+  "year": 2024,
+  "episodeCount": 10,
+  "episodeIds": [
+    "TH-S03-E01",
+    "TH-S03-E02",
+    "TH-S03-E03",
+    "TH-S03-E04",
+    "TH-S03-E05",
+    "TH-S03-E06",
+    "TH-S03-E07",
+    "TH-S03-E08",
+    "TH-S03-E09",
+    "TH-S03-E10"
+  ],
+  "castIds": [
+    "frankie-wonga",
+    "zepee",
+    "gawdland",
+    "spicy-sunshine",
+    "nane-sphera",
+    "gigi-ferocious",
+    "siam-phusri",
+    "benze-diva",
+    "shortgun",
+    "kara-might",
+    "srirasha-hotsauce"
+  ],
+  "winnerId": "frankie-wonga",
+  "runnerUpIds": ["zepee"],
+  "missCongenialityId": "benze-diva",
+  "porkchopId": "srirasha-hotsauce",
+  "hosts": [{ "name": "Pangina Heals" }],
+  "judges": [
+    { "name": "Pangina Heals" },
+    { "name": "Art Arya" },
+    { "name": "Sha Phatharatada Setthachai" },
+    { "name": "Metinee Kingpayom" },
+    { "name": "Niti Chaichitathorn" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 0, "currency": "THB" }
+}

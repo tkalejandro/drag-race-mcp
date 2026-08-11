@@ -1,0 +1,28 @@
+{
+  "id": "leona-winter",
+  "name": "Leona Winter",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S03-E04",
+          "name": "Céline Dion, Le Musidrag (The Rusical)"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S03-E04",
+          "song": "Pour que tu m'aimes encore"
+        },
+        {
+          "episodeId": "FR-S03-E07",
+          "song": "En rouge et noir"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

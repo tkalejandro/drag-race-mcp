@@ -1,0 +1,46 @@
+{
+  "id": "khianna",
+  "name": "Khianna",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S03-E01",
+          "name": "Create a one-minute viral dance video that showcases your personality and/or brand"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S03-E01",
+          "name": "Perform a voguing routine in front of the other queens and previous Drag Race Philippines queens"
+        },
+        {
+          "episodeId": "PH-S03-E03",
+          "name": "Sack race"
+        },
+        {
+          "episodeId": "PH-S03-E05",
+          "name": "90's inspired notebook cover photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S03-E01",
+          "song": "Puede Ba"
+        },
+        {
+          "episodeId": "PH-S03-E07",
+          "song": "Get Your Rebel On"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S03-E10",
+          "song": "Lipad ng Pangarap"
+        }
+      ]
+    }
+  ]
+}

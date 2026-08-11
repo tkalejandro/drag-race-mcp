@@ -1,0 +1,33 @@
+{
+  "id": "angel",
+  "name": "Angel",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S03-E05",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "PH-S03-E08",
+          "name": "Lip-Sync LaLaPaRuZa Smackdown"
+        },
+        {
+          "episodeId": "PH-S03-E09",
+          "name": "Write, record, and perform verses to \"Slay Accla\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S03-E02",
+          "song": "Nosi Balasi"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PH-S03-E10"
+    }
+  ]
+}

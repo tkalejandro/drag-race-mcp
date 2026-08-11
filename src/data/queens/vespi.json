@@ -1,0 +1,20 @@
+{
+  "id": "vespi",
+  "name": "Vespi",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S02-E02",
+          "song": "Tout"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S02-E02"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "BE-S02-E01",
+    "seasonId": "BE-S02",
+    "episodeNumber": 1,
+    "title": "De retour!",
+    "miniChallenge": {
+      "name": "Photoshoot while riding a mechanical unicorn",
+      "winnerIds": ["alvilda"]
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent show in front of the judges",
+      "winnerIds": ["la-veuve"],
+      "earnings": { "amount": 1000, "currency": "EUR" }
+    },
+    "runwayTheme": "Drache Nationale",
+    "topIds": ["alvilda", "la-veuve"],
+    "bottomIds": ["chloe-clarke", "gabanna"],
+    "lipSync": {
+      "song": "Rain on Me",
+      "queenIds": ["chloe-clarke", "gabanna"],
+      "winnerIds": ["chloe-clarke", "gabanna"]
+    },
+    "guestJudges": [{ "name": "Paloma" }, { "name": "Tatiana Silva" }]
+  },
+  {
+    "id": "BE-S02-E02",
+    "seasonId": "BE-S02",
+    "episodeNumber": 2,
+    "title": "Drag-en-Ciel",
+    "miniChallenge": {
+      "name": "Audition for a Jean-Claude Van Damme martial arts film",
+      "winnerIds": ["madame-yoko"]
+    },
+    "maxiChallenge": {
+      "name": "Create a monochromatic look made from unconventional materials based on the colors of the rainbow",
+      "winnerIds": ["loulou-velvet"],
+      "earnings": { "amount": 1000, "currency": "EUR" }
+    },
+    "runwayTheme": "Drag-en-Ciel",
+    "topIds": ["alvilda", "loulou-velvet", "madame-yoko"],
+    "bottomIds": ["chloe-clarke", "sarah-logan"],
+    "lipSync": {
+      "song": "Mad About You",
+      "queenIds": ["chloe-clarke", "sarah-logan"],
+      "winnerIds": ["chloe-clarke"],
+      "eliminatedIds": ["sarah-logan"]
+    },
+    "guestJudges": [{ "name": "Elvis Pompilio" }, { "name": "Marie Guérin" }]
+  },
+  {
+    "id": "BE-S02-E03",
+    "seasonId": "BE-S02",
+    "episodeNumber": 3,
+    "title": "Jawadde Dadde",
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"Attitude\" and \"Be Yourself\"",
+      "winnerIds": ["alvilda"],
+      "earnings": { "amount": 1000, "currency": "EUR" }
+    },
+    "runwayTheme": "Art Nouveau",
+    "topIds": ["alvilda", "chloe-clarke"],
+    "bottomIds": ["la-veuve", "madame-yoko"],
+    "lipSync": {
+      "song": "Bruxelles je t'aime",
+      "queenIds": ["la-veuve", "madame-yoko"],
+      "winnerIds": ["la-veuve"],
+      "eliminatedIds": ["madame-yoko"]
+    },
+    "guestJudges": [{ "name": "Gaëlle Garcia Diaz" }]
+  },
+  {
+    "id": "BE-S02-E04",
+    "seasonId": "BE-S02",
+    "episodeNumber": 4,
+    "title": "Masquerade",
+    "miniChallenge": {
+      "name": "Compete in the Bootylicious Cha Cha Cha Dance-Off",
+      "winnerIds": ["star"]
+    },
+    "maxiChallenge": {
+      "name": "Write and deliver a one minute proposal for a new drag law",
+      "winnerIds": ["alvilda"],
+      "earnings": { "amount": 1000, "currency": "EUR" }
+    },
+    "runwayTheme": "Mille et une Belgique à l'Eurovision",
+    "topIds": ["alvilda", "gabanna"],
+    "bottomIds": ["loulou-velvet", "morphae"],
+    "lipSync": {
+      "song": "Toy",
+      "queenIds": ["loulou-velvet"],
+      "winnerIds": []
+    },
+    "guestJudges": [{ "name": "Gustaph" }]
+  },
+  {
+    "id": "BE-S02-E05",
+    "seasonId": "BE-S02",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": ["la-veuve"]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["chloe-clarke"],
+      "earnings": { "amount": 1000, "currency": "EUR" }
+    },
+    "runwayTheme": "En Rolleurs, Baby!",
+    "topIds": ["alvilda", "chloe-clarke"],
+    "bottomIds": ["gabanna", "star"],
+    "lipSync": {
+      "song": "My Head & My Heart",
+      "queenIds": ["gabanna", "star"],
+      "winnerIds": ["gabanna"],
+      "eliminatedIds": ["star"]
+    },
+    "guestJudges": [{ "name": "Cécile Djunga" }, { "name": "Charles" }]
+  },
+  {
+    "id": "BE-S02-E06",
+    "seasonId": "BE-S02",
+    "episodeNumber": 6,
+    "title": "Le Crime du Drag Express",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["la-veuve"]
+    },
+    "maxiChallenge": {
+      "name": "Act in a parody of Murder on the Orient Express called \"Le Crime du Drag Express\"",
+      "winnerIds": ["la-veuve"],
+      "earnings": { "amount": 1000, "currency": "EUR" }
+    },
+    "runwayTheme": "Tenues Saxy",
+    "topIds": ["alvilda", "la-veuve"],
+    "bottomIds": ["chloe-clarke", "loulou-velvet"],
+    "lipSync": {
+      "song": "Trustfall",
+      "queenIds": ["chloe-clarke", "loulou-velvet"],
+      "winnerIds": ["loulou-velvet"],
+      "eliminatedIds": ["chloe-clarke"]
+    },
+    "guestJudges": [{ "name": "Coralie Barbier" }]
+  },
+  {
+    "id": "BE-S02-E07",
+    "seasonId": "BE-S02",
+    "episodeNumber": 7,
+    "title": "Paquets cadeaux",
+    "maxiChallenge": {
+      "name": "Makeover a loved one",
+      "winnerIds": ["la-veuve"],
+      "earnings": { "amount": 1000, "currency": "EUR" }
+    },
+    "runwayTheme": "Une Histoire de Famille",
+    "topIds": ["la-veuve"],
+    "bottomIds": ["alvilda", "loulou-velvet"],
+    "lipSync": {
+      "song": "Mr/Mme",
+      "queenIds": ["alvilda", "loulou-velvet"],
+      "winnerIds": ["alvilda", "loulou-velvet"]
+    },
+    "guestJudges": [{ "name": "Loïc Nottet" }]
+  },
+  {
+    "id": "BE-S02-E08",
+    "seasonId": "BE-S02",
+    "episodeNumber": 8,
+    "title": "Grand Finale",
+    "maxiChallenge": {
+      "name": "Write, record and perform own verses to \"L'union fait la force\"",
+      "winnerIds": ["alvilda"]
+    },
+    "runwayTheme": "Drag Excellence",
+    "topIds": ["alvilda", "gabanna", "la-veuve", "loulou-velvet"],
+    "lipSync": {
+      "song": "Too Young",
+      "queenIds": ["alvilda", "la-veuve"],
+      "winnerIds": ["alvilda"]
+    },
+    "guestJudges": [{ "name": "Nick Coutsier" }, { "name": "Santa" }]
+  }
+]

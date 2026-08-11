@@ -1,0 +1,28 @@
+{
+  "id": "vivaldi",
+  "name": "Vivaldi",
+  "appearances": [
+    {
+      "seasonId": "NL-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S02-E03",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S02-E06",
+          "song": "Lekker met de meiden"
+        },
+        {
+          "episodeId": "NL-S02-E07",
+          "song": "Don't Stop Me Now"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

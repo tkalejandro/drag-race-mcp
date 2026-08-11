@@ -1,0 +1,53 @@
+{
+  "id": "NL-S01",
+  "franchise": "NL",
+  "name": "Drag Race Holland Season 1",
+  "seasonNumber": 1,
+  "year": 2020,
+  "episodeCount": 8,
+  "episodeIds": [
+    "NL-S01-E01",
+    "NL-S01-E02",
+    "NL-S01-E03",
+    "NL-S01-E04",
+    "NL-S01-E05",
+    "NL-S01-E06",
+    "NL-S01-E07",
+    "NL-S01-E08"
+  ],
+  "castIds": [
+    "envy-peru",
+    "janey-jacke",
+    "mama-queen",
+    "miss-abby-omg",
+    "chelseaboy",
+    "sederginne",
+    "madame-madness",
+    "megan-schoonbrood",
+    "patty-pam-pam",
+    "roem"
+  ],
+  "winnerId": "envy-peru",
+  "runnerUpIds": [
+    "janey-jacke"
+  ],
+  "porkchopId": "roem",
+  "hosts": [
+    {
+      "name": "Fred van Leer"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Fred van Leer"
+    },
+    {
+      "name": "Nikkie Plessen"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "EUR"
+  }
+}

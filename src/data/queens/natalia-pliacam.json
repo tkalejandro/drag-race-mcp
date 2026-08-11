@@ -1,0 +1,37 @@
+{
+  "id": "natalia-pliacam",
+  "name": "Natalia Pliacam",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S01-E02",
+          "name": "Dress up as the bride and groom in a photoshoot"
+        },
+        {
+          "episodeId": "TH-S01-E04",
+          "name": "Present and accept the Drag Race Thailand Debut Season Awards"
+        },
+        {
+          "episodeId": "TH-S01-E05",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S01-E02",
+          "name": "Photoshoot with blacklight"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S01-E04",
+          "song": "Dhoom Dhoom"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

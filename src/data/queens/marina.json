@@ -1,0 +1,29 @@
+{
+  "id": "marina",
+  "name": "Marina",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S02-E08",
+          "name": "Comedy roast"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S02-E07",
+          "song": "Qué dolor"
+        },
+        {
+          "episodeId": "ES-S02-E09",
+          "song": "El Anillo"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ES-S02-E11"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "morgana-cosmica",
+  "name": "Morgana Cosmica",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S03-E04",
+          "song": "Tribale"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S03-E05",
+          "song": "Born This Way"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S03-E05"
+    }
+  ]
+}

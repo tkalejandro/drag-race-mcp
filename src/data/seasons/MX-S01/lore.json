@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mx-s01-cristian-crown",
+    "title": "Cristian Peralta wins Drag Race México Season 1",
+    "summary": "In the Grand Finale (MX-S01-E12), the final four — Cristian Peralta, Gala Varo, Matraka, and Regina Voce — lip-synced to Amanda Miguel's \"Él me mintió\". Cristian Peralta was crowned México's Next Drag Superstar; Gala Varo, Matraka, and Regina Voce all finished as runners-up.",
+    "tags": ["crown", "finale", "lip-sync", "international"],
+    "queenIds": ["cristian-peralta", "gala-varo", "matraka", "regina-voce"],
+    "seasonIds": ["MX-S01"],
+    "episodeIds": ["MX-S01-E12"]
+  },
+  {
+    "id": "mx-s01-miss-vallarta-porkchop",
+    "title": "Miss Vallarta: México's first Porkchop",
+    "summary": "Miss Vallarta survived a double-win lip sync in the premiere (MX-S01-E01), but became the first queen eliminated on Drag Race México in MX-S01-E02, losing \"Mírala, míralo\" by Alejandra Guzmán to Serena Morena.",
+    "tags": ["porkchop", "international"],
+    "queenIds": ["miss-vallarta", "serena-morena"],
+    "seasonIds": ["MX-S01"],
+    "episodeIds": ["MX-S01-E02"]
+  }
+]

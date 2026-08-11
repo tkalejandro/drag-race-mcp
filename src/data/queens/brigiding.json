@@ -1,0 +1,29 @@
+{
+  "id": "brigiding",
+  "name": "Brigiding",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S01-E05",
+          "song": "Ate Sandali"
+        },
+        {
+          "episodeId": "PH-S01-E06",
+          "song": "Amakabogera"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E08",
+          "song": "Dyosa"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E08"
+    }
+  ]
+}

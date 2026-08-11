@@ -1,0 +1,39 @@
+{
+  "id": "argennis",
+  "name": "Argennis",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S01-E02",
+          "name": "Design a Quinceañera look with unconventional materials and party supplies"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "MX-S01-E05",
+          "name": "Drag up a pair of tribal boots and wear them in a Latin dance-off"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S01-E04",
+          "song": "Mío"
+        },
+        {
+          "episodeId": "MX-S01-E05",
+          "song": "Amor prohibido"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S01-E06",
+          "song": "Ábranse perras"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S01-E06"
+    }
+  ]
+}

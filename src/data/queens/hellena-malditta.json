@@ -1,0 +1,38 @@
+{
+  "id": "hellena-malditta",
+  "name": "Hellena Malditta",
+  "appearances": [
+    {
+      "seasonId": "BR-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S01-E04",
+          "name": "Create a mermaid look made from unconventional materials"
+        },
+        {
+          "episodeId": "BR-S01-E06",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BR-S01-E05",
+          "name": "Get into quick drag and decorate a drag wedding cake in five minutes"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S01-E08",
+          "song": "Dois Trabalhos"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S01-E12",
+          "song": "Envolver"
+        }
+      ]
+    }
+  ]
+}

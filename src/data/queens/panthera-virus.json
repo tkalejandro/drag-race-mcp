@@ -1,0 +1,29 @@
+{
+  "id": "panthera-virus",
+  "name": "Panthera Virus",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S02-E01",
+          "song": "La bambola"
+        },
+        {
+          "episodeId": "IT-S02-E03",
+          "song": "Down Down Down"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S02-E04",
+          "song": "Jem"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S02-E04"
+    }
+  ]
+}

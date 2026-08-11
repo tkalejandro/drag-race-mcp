@@ -1,0 +1,20 @@
+{
+  "id": "narciso",
+  "name": "Narciso",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S02-E01",
+          "song": "La bambola"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S02-E01"
+    }
+  ]
+}

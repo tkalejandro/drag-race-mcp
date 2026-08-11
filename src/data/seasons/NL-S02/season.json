@@ -1,0 +1,54 @@
+{
+  "id": "NL-S02",
+  "franchise": "NL",
+  "name": "Drag Race Holland Season 2",
+  "seasonNumber": 2,
+  "year": 2021,
+  "episodeCount": 8,
+  "episodeIds": [
+    "NL-S02-E01",
+    "NL-S02-E02",
+    "NL-S02-E03",
+    "NL-S02-E04",
+    "NL-S02-E05",
+    "NL-S02-E06",
+    "NL-S02-E07",
+    "NL-S02-E08"
+  ],
+  "castIds": [
+    "vanessa-van-cartier",
+    "my-little-puny",
+    "vivaldi",
+    "keta-minaj",
+    "tabitha",
+    "the-countess",
+    "ivy-elyse",
+    "love-masisi",
+    "reggy-b",
+    "juicy-kutoure"
+  ],
+  "winnerId": "vanessa-van-cartier",
+  "runnerUpIds": [
+    "my-little-puny"
+  ],
+  "missCongenialityId": "tabitha",
+  "porkchopId": "juicy-kutoure",
+  "hosts": [
+    {
+      "name": "Fred van Leer"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Fred van Leer"
+    },
+    {
+      "name": "Marieke Samallo"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 15000,
+    "currency": "EUR"
+  }
+}

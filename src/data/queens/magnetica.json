@@ -1,0 +1,25 @@
+{
+  "id": "magnetica",
+  "name": "Magnetica",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S03-E01",
+          "name": "Photoshoot while balancing on a mechanical surfboard"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S03-E02",
+          "song": "Gigi l'amoroso"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S03-E02"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "zymba-ding",
+  "name": "Zymba Ding",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S03-E06",
+          "name": "AaWicked Kita: The Rusical"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S03-E06",
+          "name": "Recreate a line from an Ogie Diaz acting workshop in the most exaggerated manner possible"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S03-E05",
+          "song": "Geronimo"
+        },
+        {
+          "episodeId": "PH-S03-E08",
+          "song": "Ligaw Tingin"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S03-E01",
+          "song": "Puede Ba"
+        },
+        {
+          "episodeId": "PH-S03-E09",
+          "song": "Isa Pang Araw"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S03-E09"
+    }
+  ]
+}

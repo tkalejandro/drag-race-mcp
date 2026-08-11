@@ -1,0 +1,25 @@
+{
+  "id": "ginger-bitch",
+  "name": "Ginger Bitch",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S02-E04",
+          "song": "Je vais vite"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S02-E05",
+          "song": "Le dernier jour du disco"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S02-E05"
+    }
+  ]
+}

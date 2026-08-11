@@ -1,0 +1,30 @@
+{
+  "id": "megui-yeillow",
+  "name": "Megui Yeillow",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S04-E02",
+          "name": "Talent show"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S04-E08",
+          "name": "Dress the Pit Crew"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S04-E08",
+          "song": "Se acabó"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S04-E08"
+    }
+  ]
+}

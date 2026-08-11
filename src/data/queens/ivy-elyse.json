@@ -1,0 +1,34 @@
+{
+  "id": "ivy-elyse",
+  "name": "Ivy-Elyse",
+  "appearances": [
+    {
+      "seasonId": "NL-S02",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S02-E03",
+          "name": "Hakken In Heels"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S02-E02",
+          "song": "Don't Leave Me This Way"
+        },
+        {
+          "episodeId": "NL-S02-E03",
+          "song": "It's All Coming Back to Me Now"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S02-E04",
+          "song": "Free Your Mind"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S02-E04"
+    }
+  ]
+}
