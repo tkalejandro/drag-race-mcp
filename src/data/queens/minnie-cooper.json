@@ -1,0 +1,25 @@
+{
+  "id": "minnie-cooper",
+  "name": "Minnie Cooper",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DU-S02-E01",
+          "name": "Sausage sizzle photoshoot"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S02-E04",
+          "song": "Dance in the Dark"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S02-E04"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "beverly-kills",
+  "name": "Beverly Kills",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S02-E03",
+          "song": "Starstruck"
+        },
+        {
+          "episodeId": "DU-S02-E04",
+          "song": "Dance in the Dark"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S02-E06",
+          "song": "The Beginning"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S02-E06"
+    }
+  ]
+}

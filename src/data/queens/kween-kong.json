@@ -1,0 +1,50 @@
+{
+  "id": "kween-kong",
+  "name": "Kween Kong",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S02-E05",
+          "name": "Write, record, and perform verses to \"Bosom Buddies\"",
+          "earnings": {
+            "amount": 2000,
+            "currency": "AUD"
+          }
+        },
+        {
+          "episodeId": "DU-S02-E07",
+          "name": "Makeover a family of men",
+          "earnings": {
+            "amount": 5000,
+            "currency": "AUD"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DU-S02-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S02-E02",
+          "song": "I Touch Myself"
+        },
+        {
+          "episodeId": "DU-S02-E06",
+          "song": "The Beginning"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S02-E08",
+          "song": "Wow"
+        }
+      ]
+    }
+  ]
+}

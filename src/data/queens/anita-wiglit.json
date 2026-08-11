@@ -1,0 +1,29 @@
+{
+  "id": "anita-wiglit",
+  "name": "Anita Wigl'it",
+  "appearances": [
+    {
+      "seasonId": "DU-S01",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S01-E02",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 5000,
+            "currency": "AUD"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S01-E04",
+          "song": "I Begin to Wonder"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S01-E04"
+    }
+  ]
+}

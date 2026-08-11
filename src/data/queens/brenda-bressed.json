@@ -1,0 +1,25 @@
+{
+  "id": "brenda-bressed",
+  "name": "Brenda Bressed",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S04-E03",
+          "name": "I'm a Celebrity Impersonator – Snatch Me Outta Here!"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S04-E05",
+          "song": "Like a Girl Does"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S04-E05"
+    }
+  ]
+}

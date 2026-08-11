@@ -1,0 +1,43 @@
+{
+  "id": "loreley-rivers",
+  "name": "Loreley Rivers",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "DE-S01-E02",
+          "name": "Create an outfit made from fetish materials"
+        },
+        {
+          "episodeId": "DE-S01-E05",
+          "name": "In pairs, improvise in a courtroom drama"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DE-S01-E05",
+          "name": "In teams, play \"Zack Zack\" (Chop Chop)"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DE-S01-E06",
+          "song": "Flowers"
+        },
+        {
+          "episodeId": "DE-S01-E07",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DE-S01-E08",
+          "song": "Chandelier"
+        }
+      ],
+      "eliminatedEpisodeId": "DE-S01-E08"
+    }
+  ]
+}

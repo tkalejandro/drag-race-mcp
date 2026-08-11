@@ -1,0 +1,38 @@
+{
+  "id": "tessa-testicle",
+  "name": "Tessa Testicle",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DE-S01-E05",
+          "name": "In teams, play \"Zack Zack\" (Chop Chop)"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DE-S01-E01",
+          "song": "Lieben wir"
+        },
+        {
+          "episodeId": "DE-S01-E03",
+          "song": "Holding Out for a Hero"
+        },
+        {
+          "episodeId": "DE-S01-E04",
+          "song": "About Damn Time"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DE-S01-E05",
+          "song": "Atemlos durch die Nacht"
+        }
+      ],
+      "eliminatedEpisodeId": "DE-S01-E05"
+    }
+  ]
+}

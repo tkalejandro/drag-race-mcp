@@ -1,0 +1,63 @@
+[
+  {
+    "id": "du-s03-isis-crown",
+    "title": "Isis Avis Loren wins Down Under Season 3",
+    "summary": "In the Grand Finale (DU-S03-E08), Flor was eliminated after the final challenge, leaving Gabriella Labucci and Isis Avis Loren to lip-sync to Annie Lennox's \"Walking on Broken Glass\". Isis Avis Loren became the first Australian winner of Down Under.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "iconic"
+    ],
+    "queenIds": [
+      "isis-avis-loren",
+      "gabriella-labucci",
+      "flor"
+    ],
+    "seasonIds": [
+      "DU-S03"
+    ],
+    "episodeIds": [
+      "DU-S03-E08"
+    ]
+  },
+  {
+    "id": "du-s03-amyl-porkchop",
+    "title": "Amyl: Season 3 Porkchop",
+    "summary": "Amyl was the first contestant eliminated on Down Under Season 3 (DU-S03-E01), lip-syncing to Men at Work's \"Down Under\" against Ivory Glaze.",
+    "tags": [
+      "porkchop"
+    ],
+    "queenIds": [
+      "amyl",
+      "ivory-glaze"
+    ],
+    "seasonIds": [
+      "DU-S03"
+    ],
+    "episodeIds": [
+      "DU-S03-E01"
+    ]
+  },
+  {
+    "id": "du-s03-ivory-faint",
+    "title": "Ivory Glaze fainting postpones lip sync",
+    "summary": "In DU-S03-E02, Ivory Glaze and Rita Menu were called as the bottom two, but Ivory fainted on the main stage before the lip sync. The elimination was postponed to the start of DU-S03-E03, where they lip-synced to Sophie Ellis-Bextor's \"Murder on the Dancefloor\" and Ivory was eliminated.",
+    "tags": [
+      "drama",
+      "twist",
+      "lip-sync"
+    ],
+    "queenIds": [
+      "ivory-glaze",
+      "rita-menu"
+    ],
+    "seasonIds": [
+      "DU-S03"
+    ],
+    "episodeIds": [
+      "DU-S03-E02",
+      "DU-S03-E03"
+    ]
+  }
+]

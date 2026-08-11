@@ -1,0 +1,20 @@
+{
+  "id": "pomara-fifth",
+  "name": "Pomara Fifth",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S02-E03",
+          "song": "Starstruck"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S02-E03"
+    }
+  ]
+}

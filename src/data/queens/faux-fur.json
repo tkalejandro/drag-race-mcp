@@ -1,0 +1,20 @@
+{
+  "id": "faux-fur",
+  "name": "Faúx Fúr",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S02-E01",
+          "song": "Get Outta My Way"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S02-E01"
+    }
+  ]
+}

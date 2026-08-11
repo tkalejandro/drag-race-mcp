@@ -192,7 +192,7 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | `IT-S01` | — | — | — | — |
 | `IT-S02` | — | — | — | — |
 | `IT-S03` | — | — | — | — |
-| `DE-S01` | — | — | — | — |
+| `DE-S01` | ✅ | ✅ | ✅ | ✅ |
 | `NL-S01` | — | — | — | — |
 | `NL-S02` | — | — | — | — |
 | `BE-S01` | — | — | — | — |
@@ -223,6 +223,10 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | `PH-S04` | — | — | — | — |
 | `PHSR-S01` | — | — | — | — |
 | `GAS-S01` | — | — | — | — |
+| `DU-S01` | ✅ | ✅ | ✅ | ✅ |
+| `DU-S02` | ✅ | ✅ | ✅ | ✅ |
+| `DU-S03` | ✅ | ✅ | ✅ | ✅ |
+| `DU-S04` | ✅ | ✅ | ✅ | ✅ |
 | `DUVTW-S01` | — | — | — | — |
 
 ---

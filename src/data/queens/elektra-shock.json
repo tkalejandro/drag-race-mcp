@@ -1,0 +1,43 @@
+{
+  "id": "elektra-shock",
+  "name": "Elektra Shock",
+  "appearances": [
+    {
+      "seasonId": "DU-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S01-E05",
+          "name": "Create an infomercial for your own Yeast Spread"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DU-S01-E01",
+          "name": "Audition for the Intergalactic Superhero movie \"Thar\""
+        },
+        {
+          "episodeId": "DU-S01-E03",
+          "name": "Slow-motion surf rescue for \"Babewatch\""
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S01-E01",
+          "song": "Tragedy"
+        },
+        {
+          "episodeId": "DU-S01-E03",
+          "song": "Shake Your Groove Thing"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S01-E07",
+          "song": "Untouched"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S01-E07"
+    }
+  ]
+}

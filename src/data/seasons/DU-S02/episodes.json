@@ -1,0 +1,321 @@
+[
+  {
+    "id": "DU-S02-E01",
+    "seasonId": "DU-S02",
+    "episodeNumber": 1,
+    "title": "Grand Opening",
+    "miniChallenge": {
+      "name": "Sausage sizzle photoshoot",
+      "winnerIds": [
+        "minnie-cooper"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit made from locally sourced natural materials",
+      "winnerIds": [
+        "molly-poppinz"
+      ]
+    },
+    "runwayTheme": "Down Under, Naturally",
+    "topIds": [
+      "hannah-conda",
+      "molly-poppinz",
+      "yuri-guaii"
+    ],
+    "bottomIds": [
+      "faux-fur",
+      "spankie-jackzon"
+    ],
+    "lipSync": {
+      "song": "Get Outta My Way",
+      "queenIds": [
+        "faux-fur",
+        "spankie-jackzon"
+      ],
+      "winnerIds": [
+        "spankie-jackzon"
+      ],
+      "eliminatedIds": [
+        "faux-fur"
+      ]
+    }
+  },
+  {
+    "id": "DU-S02-E02",
+    "seasonId": "DU-S02",
+    "episodeNumber": 2,
+    "title": "Cagey Queens",
+    "maxiChallenge": {
+      "name": "In teams, perform in a gritty prison drama called \"Caged Queens\"",
+      "winnerIds": [
+        "spankie-jackzon"
+      ]
+    },
+    "runwayTheme": "Fly Girls: Insects on the Runway",
+    "topIds": [
+      "hannah-conda",
+      "minnie-cooper",
+      "spankie-jackzon"
+    ],
+    "bottomIds": [
+      "aubrey-haive",
+      "kween-kong"
+    ],
+    "lipSync": {
+      "song": "I Touch Myself",
+      "queenIds": [
+        "aubrey-haive",
+        "kween-kong"
+      ],
+      "winnerIds": [
+        "kween-kong"
+      ],
+      "eliminatedIds": [
+        "aubrey-haive"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Lucy Lawless"
+      }
+    ]
+  },
+  {
+    "id": "DU-S02-E03",
+    "seasonId": "DU-S02",
+    "episodeNumber": 3,
+    "title": "Bottomless Brunch",
+    "miniChallenge": {
+      "name": "Tools of the Trade",
+      "winnerIds": [
+        "molly-poppinz"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "AUD"
+      }
+    },
+    "maxiChallenge": {
+      "name": "In pairs, host a Down Under Drag Brunch",
+      "winnerIds": [
+        "spankie-jackzon",
+        "yuri-guaii"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Red For Filth",
+    "topIds": [
+      "kween-kong",
+      "minnie-cooper",
+      "spankie-jackzon",
+      "yuri-guaii"
+    ],
+    "bottomIds": [
+      "beverly-kills",
+      "pomara-fifth"
+    ],
+    "lipSync": {
+      "song": "Starstruck",
+      "queenIds": [
+        "beverly-kills",
+        "pomara-fifth"
+      ],
+      "winnerIds": [
+        "beverly-kills"
+      ],
+      "eliminatedIds": [
+        "pomara-fifth"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Urzila Carlson"
+      }
+    ]
+  },
+  {
+    "id": "DU-S02-E04",
+    "seasonId": "DU-S02",
+    "episodeNumber": 4,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "hannah-conda"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Cirque du So-Gay",
+    "topIds": [
+      "hannah-conda",
+      "spankie-jackzon",
+      "yuri-guaii"
+    ],
+    "bottomIds": [
+      "beverly-kills",
+      "minnie-cooper"
+    ],
+    "lipSync": {
+      "song": "Dance in the Dark",
+      "queenIds": [
+        "beverly-kills",
+        "minnie-cooper"
+      ],
+      "winnerIds": [
+        "beverly-kills"
+      ],
+      "eliminatedIds": [
+        "minnie-cooper"
+      ]
+    }
+  },
+  {
+    "id": "DU-S02-E05",
+    "seasonId": "DU-S02",
+    "episodeNumber": 5,
+    "title": "Bosom Buddies",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "kween-kong"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"Bosom Buddies\"",
+      "winnerIds": [
+        "hannah-conda",
+        "kween-kong",
+        "spankie-jackzon"
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Belts, Buckles and Chains",
+    "topIds": [
+      "hannah-conda",
+      "kween-kong",
+      "spankie-jackzon"
+    ],
+    "bottomIds": [
+      "molly-poppinz",
+      "yuri-guaii"
+    ],
+    "lipSync": {
+      "song": "Chains (S&M Remix)",
+      "queenIds": [
+        "molly-poppinz",
+        "yuri-guaii"
+      ],
+      "winnerIds": [
+        "molly-poppinz"
+      ],
+      "eliminatedIds": [
+        "yuri-guaii"
+      ]
+    }
+  },
+  {
+    "id": "DU-S02-E06",
+    "seasonId": "DU-S02",
+    "episodeNumber": 6,
+    "title": "Hometown Hunnies",
+    "maxiChallenge": {
+      "name": "Create a tourism campaign for their hometowns",
+      "winnerIds": [
+        "hannah-conda"
+      ]
+    },
+    "runwayTheme": "Swimsuit Edition",
+    "topIds": [
+      "hannah-conda",
+      "molly-poppinz",
+      "spankie-jackzon"
+    ],
+    "bottomIds": [
+      "beverly-kills",
+      "kween-kong"
+    ],
+    "lipSync": {
+      "song": "The Beginning",
+      "queenIds": [
+        "beverly-kills",
+        "kween-kong"
+      ],
+      "winnerIds": [
+        "kween-kong"
+      ],
+      "eliminatedIds": [
+        "beverly-kills"
+      ]
+    }
+  },
+  {
+    "id": "DU-S02-E07",
+    "seasonId": "DU-S02",
+    "episodeNumber": 7,
+    "title": "Drag Family Makeover",
+    "maxiChallenge": {
+      "name": "Makeover a family of men",
+      "winnerIds": [
+        "kween-kong"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Opposites Attract",
+    "topIds": [
+      "kween-kong",
+      "spankie-jackzon"
+    ],
+    "bottomIds": [
+      "hannah-conda",
+      "molly-poppinz"
+    ],
+    "lipSync": {
+      "song": "Heartbreak in This City",
+      "queenIds": [
+        "hannah-conda",
+        "molly-poppinz"
+      ],
+      "winnerIds": [
+        "hannah-conda"
+      ],
+      "eliminatedIds": [
+        "molly-poppinz"
+      ]
+    }
+  },
+  {
+    "id": "DU-S02-E08",
+    "seasonId": "DU-S02",
+    "episodeNumber": 8,
+    "title": "Grand Finale",
+    "runwayTheme": "Grand Finale Eleganza Extravaganza",
+    "topIds": [
+      "hannah-conda",
+      "kween-kong",
+      "spankie-jackzon"
+    ],
+    "lipSync": {
+      "song": "Wow",
+      "queenIds": [
+        "hannah-conda",
+        "kween-kong",
+        "spankie-jackzon"
+      ],
+      "winnerIds": [
+        "spankie-jackzon"
+      ]
+    }
+  }
+]

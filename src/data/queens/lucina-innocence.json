@@ -1,0 +1,29 @@
+{
+  "id": "lucina-innocence",
+  "name": "Lucina Innocence",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S04-E01",
+          "song": "Rush"
+        },
+        {
+          "episodeId": "DU-S04-E02",
+          "song": "Freefallin"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S04-E04",
+          "song": "What About Me"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S04-E04"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "freya-armani",
+  "name": "Freya Armani",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 4,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DU-S04-E06",
+          "name": "Attempt to make Michelle Visage slap them"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S04-E04",
+          "song": "What About Me"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "DU-S04-E08"
+    }
+  ]
+}

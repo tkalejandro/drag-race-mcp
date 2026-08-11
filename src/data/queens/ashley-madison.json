@@ -1,0 +1,29 @@
+{
+  "id": "ashley-madison",
+  "name": "Ashley Madison",
+  "appearances": [
+    {
+      "seasonId": "DU-S03",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S03-E04",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 3000,
+            "currency": "AUD"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S03-E05",
+          "song": "Hot n Cold"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S03-E05"
+    }
+  ]
+}

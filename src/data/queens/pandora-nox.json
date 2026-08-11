@@ -1,0 +1,49 @@
+{
+  "id": "pandora-nox",
+  "name": "Pandora Nox",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "DE-S01-E01",
+          "name": "Present your signature drag look on the runway"
+        },
+        {
+          "episodeId": "DE-S01-E07",
+          "name": "The German Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DE-S01-E01",
+          "name": "Bavarian Princess photoshoot",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR"
+          }
+        },
+        {
+          "episodeId": "DE-S01-E05",
+          "name": "In teams, play \"Zack Zack\" (Chop Chop)"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DE-S01-E05",
+          "song": "Atemlos durch die Nacht"
+        },
+        {
+          "episodeId": "DE-S01-E08",
+          "song": "Chandelier"
+        },
+        {
+          "episodeId": "DE-S01-E12",
+          "song": "Rise Like a Phoenix"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -28,6 +28,7 @@ export const FranchiseCode = {
   CA: "CA",
   CVTW: "CVTW",
   CAS: "CAS",
+  DU: "DU",
   DUVTW: "DUVTW",
   TH: "TH",
   PH: "PH",
@@ -77,6 +78,7 @@ export const FRANCHISE_REGION_CODES = {
     FranchiseCode.TH,
     FranchiseCode.PH,
     FranchiseCode.PHSR,
+    FranchiseCode.DU,
     FranchiseCode.DUVTW,
   ],
   specials: [FranchiseCode.GAS],
@@ -98,6 +100,7 @@ export const FRANCHISE_LABEL = {
   CA: "Canada's Drag Race",
   CVTW: "Canada's Drag Race vs The World",
   CAS: "Canada's Drag Race All Stars",
+  DU: "Drag Race Down Under",
   DUVTW: "Drag Race Down Under vs The World",
   TH: "Drag Race Thailand",
   PH: "Drag Race Philippines",
@@ -189,6 +192,11 @@ export const SeasonId = {
   CVTW_S02: "CVTW-S02",
 
   CAS_S01: "CAS-S01",
+
+  DU_S01: "DU-S01",
+  DU_S02: "DU-S02",
+  DU_S03: "DU-S03",
+  DU_S04: "DU-S04",
 
   DUVTW_S01: "DUVTW-S01",
 

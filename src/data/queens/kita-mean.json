@@ -1,0 +1,28 @@
+{
+  "id": "kita-mean",
+  "name": "Kita Mean",
+  "appearances": [
+    {
+      "seasonId": "DU-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S01-E06",
+          "name": "Makeover rugby players"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S01-E07",
+          "song": "Untouched"
+        },
+        {
+          "episodeId": "DU-S01-E08",
+          "song": "Physical"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

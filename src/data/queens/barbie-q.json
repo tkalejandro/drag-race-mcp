@@ -1,0 +1,20 @@
+{
+  "id": "barbie-q",
+  "name": "Barbie Q",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DE-S01-E02",
+          "song": "Break My Heart"
+        }
+      ],
+      "eliminatedEpisodeId": "DE-S01-E02"
+    }
+  ]
+}

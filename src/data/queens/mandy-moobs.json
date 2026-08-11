@@ -1,0 +1,29 @@
+{
+  "id": "mandy-moobs",
+  "name": "Mandy Moobs",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S04-E04",
+          "name": "Create an outfit made out of an assigned fabric"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S04-E07",
+          "song": "Searchin'"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S04-E08",
+          "song": "Came Here for Love"
+        }
+      ]
+    }
+  ]
+}

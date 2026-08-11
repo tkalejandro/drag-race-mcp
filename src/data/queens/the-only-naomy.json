@@ -1,0 +1,20 @@
+{
+  "id": "the-only-naomy",
+  "name": "The Only Naomy",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DE-S01-E03",
+          "song": "Holding Out for a Hero"
+        }
+      ],
+      "eliminatedEpisodeId": "DE-S01-E03"
+    }
+  ]
+}

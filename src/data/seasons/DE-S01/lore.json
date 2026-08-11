@@ -1,0 +1,82 @@
+[
+  {
+    "id": "de-s01-pandora-crown",
+    "title": "Pandora Nox wins Drag Race Germany",
+    "summary": "In the Grand Finale (DE-S01-E12), Pandora Nox, Metamorkid, and Yvonne Nightstand lip-synced to Conchita Wurst's \"Rise Like a Phoenix\". Pandora Nox was crowned Germany's first Drag Superstar; Metamorkid and Yvonne Nightstand finished as runners-up. Pandora Nox was the first AFAB winner in Drag Race franchise history.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "iconic",
+      "international"
+    ],
+    "queenIds": [
+      "pandora-nox",
+      "metamorkid",
+      "yvonne-nightstand"
+    ],
+    "seasonIds": [
+      "DE-S01"
+    ],
+    "episodeIds": [
+      "DE-S01-E12"
+    ]
+  },
+  {
+    "id": "de-s01-barbie-q-porkchop",
+    "title": "Barbie Q: Germany's first Porkchop",
+    "summary": "Barbie Q was the first contestant eliminated on Drag Race Germany (DE-S01-E02), lip-syncing to Dua Lipa's \"Break My Heart\" against Victoria Shakespears after a double shantay spared both in episode 1.",
+    "tags": [
+      "porkchop",
+      "iconic"
+    ],
+    "queenIds": [
+      "barbie-q",
+      "victoria-shakespears"
+    ],
+    "seasonIds": [
+      "DE-S01"
+    ],
+    "episodeIds": [
+      "DE-S01-E02"
+    ]
+  },
+  {
+    "id": "de-s01-double-shantay",
+    "title": "Germany's opening double shantay",
+    "summary": "In DE-S01-E01, Tessa Testicle and Victoria Shakespears lip-synced to Shirin David's \"Lieben wir\". Both won the lip sync and no one went home — the season's first double shantay.",
+    "tags": [
+      "double-shantay",
+      "lip-sync",
+      "iconic"
+    ],
+    "queenIds": [
+      "tessa-testicle",
+      "victoria-shakespears"
+    ],
+    "seasonIds": [
+      "DE-S01"
+    ],
+    "episodeIds": [
+      "DE-S01-E01"
+    ]
+  },
+  {
+    "id": "de-s01-miss-darling",
+    "title": "Victoria Shakespears crowned Miss Darling",
+    "summary": "At the reunion (DE-S01-E11), Victoria Shakespears was voted Miss Darling by her fellow contestants — Germany's equivalent of Miss Congeniality.",
+    "tags": [
+      "reunion",
+      "iconic"
+    ],
+    "queenIds": [
+      "victoria-shakespears"
+    ],
+    "seasonIds": [
+      "DE-S01"
+    ],
+    "episodeIds": [
+      "DE-S01-E11"
+    ]
+  }
+]

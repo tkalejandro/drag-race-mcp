@@ -1,0 +1,50 @@
+{
+  "id": "kelly-heelton",
+  "name": "Kelly Heelton",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "DE-S01-E06",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 4500,
+            "currency": "EUR"
+          }
+        },
+        {
+          "episodeId": "DE-S01-E07",
+          "name": "The German Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DE-S01-E04",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR"
+          }
+        },
+        {
+          "episodeId": "DE-S01-E08",
+          "name": "Convince Dianne Brill to let you into her club",
+          "earnings": {
+            "amount": 500,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DE-S01-E10",
+          "song": "Heart to Break"
+        }
+      ],
+      "eliminatedEpisodeId": "DE-S01-E10"
+    }
+  ]
+}

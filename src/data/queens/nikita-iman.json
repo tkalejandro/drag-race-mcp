@@ -1,0 +1,38 @@
+{
+  "id": "nikita-iman",
+  "name": "Nikita Iman",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S04-E05",
+          "name": "Makeover librarians",
+          "earnings": {
+            "amount": 2500,
+            "currency": "AUD"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S04-E03",
+          "song": "My Delirium"
+        },
+        {
+          "episodeId": "DU-S04-E06",
+          "song": "Talking Body"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S04-E07",
+          "song": "Searchin'"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S04-E07"
+    }
+  ]
+}

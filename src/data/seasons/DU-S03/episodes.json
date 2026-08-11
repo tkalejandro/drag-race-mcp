@@ -1,0 +1,318 @@
+[
+  {
+    "id": "DU-S03-E01",
+    "seasonId": "DU-S03",
+    "episodeNumber": 1,
+    "title": "Mardi Gras Pride",
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to a mashup of RuPaul's \"Super Queen\" and \"Sissy That Walk\"",
+      "winnerIds": [
+        "hollywould-star"
+      ]
+    },
+    "runwayTheme": "Somewhere Under the Rainbow",
+    "topIds": [
+      "flor",
+      "gabriella-labucci",
+      "hollywould-star"
+    ],
+    "bottomIds": [
+      "amyl",
+      "ivory-glaze"
+    ],
+    "lipSync": {
+      "song": "Down Under",
+      "queenIds": [
+        "amyl",
+        "ivory-glaze"
+      ],
+      "winnerIds": [
+        "ivory-glaze"
+      ],
+      "eliminatedIds": [
+        "amyl"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Deva Mahal"
+      }
+    ]
+  },
+  {
+    "id": "DU-S03-E02",
+    "seasonId": "DU-S03",
+    "episodeNumber": 2,
+    "title": "Muriel's Bedding",
+    "miniChallenge": {
+      "name": "Boudoir photoshoot",
+      "winnerIds": [
+        "gabriella-labucci"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit made out of leftover bedding materials",
+      "winnerIds": [
+        "isis-avis-loren"
+      ]
+    },
+    "runwayTheme": "Muriel's Bedding",
+    "topIds": [
+      "bumpa-love",
+      "hollywould-star",
+      "isis-avis-loren"
+    ],
+    "bottomIds": [
+      "ivory-glaze",
+      "rita-menu"
+    ],
+    "guestJudges": [
+      {
+        "name": "Maria Thattil"
+      }
+    ]
+  },
+  {
+    "id": "DU-S03-E03",
+    "seasonId": "DU-S03",
+    "episodeNumber": 3,
+    "title": "Fake Housewives of Down Under",
+    "maxiChallenge": {
+      "name": "In teams, improvise in \"The Fake Housewives of Down Under\"",
+      "winnerIds": [
+        "gabriella-labucci"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Bad Girls Gone Bad",
+    "topIds": [
+      "bumpa-love",
+      "flor",
+      "gabriella-labucci",
+      "isis-avis-loren"
+    ],
+    "bottomIds": [
+      "ivanna-drink",
+      "rita-menu"
+    ],
+    "lipSync": {
+      "song": "Holding Out for a Hero",
+      "queenIds": [
+        "ivanna-drink",
+        "rita-menu"
+      ],
+      "winnerIds": [
+        "rita-menu"
+      ],
+      "eliminatedIds": [
+        "ivanna-drink"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Adam Lambert"
+      }
+    ]
+  },
+  {
+    "id": "DU-S03-E04",
+    "seasonId": "DU-S03",
+    "episodeNumber": 4,
+    "title": "Snatch Game - Down Under Season 3",
+    "miniChallenge": {
+      "name": "Find matching pairs of pit crew's underwear",
+      "winnerIds": [
+        "gabriella-labucci"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "ashley-madison"
+      ],
+      "earnings": {
+        "amount": 3000,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Night of a Thousand Kylie Minogue's",
+    "topIds": [
+      "ashley-madison",
+      "isis-avis-loren"
+    ],
+    "bottomIds": [
+      "flor",
+      "rita-menu"
+    ],
+    "lipSync": {
+      "song": "Secrets",
+      "queenIds": [
+        "flor",
+        "rita-menu"
+      ],
+      "winnerIds": [
+        "flor"
+      ],
+      "eliminatedIds": [
+        "rita-menu"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Keiynan Lonsdale"
+      }
+    ]
+  },
+  {
+    "id": "DU-S03-E05",
+    "seasonId": "DU-S03",
+    "episodeNumber": 5,
+    "title": "BMX Bitches",
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"BMX Bitches\"",
+      "winnerIds": [
+        "hollywould-star"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Fuchsia? I Don't Even Know Her",
+    "topIds": [
+      "hollywould-star"
+    ],
+    "bottomIds": [
+      "ashley-madison",
+      "bumpa-love"
+    ],
+    "lipSync": {
+      "song": "Hot n Cold",
+      "queenIds": [
+        "ashley-madison",
+        "bumpa-love"
+      ],
+      "winnerIds": [
+        "bumpa-love"
+      ],
+      "eliminatedIds": [
+        "ashley-madison"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Rachel Hunter"
+      }
+    ]
+  },
+  {
+    "id": "DU-S03-E06",
+    "seasonId": "DU-S03",
+    "episodeNumber": 6,
+    "title": "Drag Brunch",
+    "maxiChallenge": {
+      "name": "Perform a talent show in front of the judges",
+      "winnerIds": [
+        "isis-avis-loren"
+      ]
+    },
+    "runwayTheme": "Not in My Backyard Barbecue",
+    "topIds": [
+      "flor",
+      "isis-avis-loren"
+    ],
+    "bottomIds": [
+      "bumpa-love",
+      "gabriella-labucci"
+    ],
+    "lipSync": {
+      "song": "Are You Gonna Be My Girl",
+      "queenIds": [
+        "bumpa-love",
+        "gabriella-labucci"
+      ],
+      "winnerIds": [
+        "gabriella-labucci"
+      ],
+      "eliminatedIds": [
+        "bumpa-love"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Amy Taylor"
+      }
+    ]
+  },
+  {
+    "id": "DU-S03-E07",
+    "seasonId": "DU-S03",
+    "episodeNumber": 7,
+    "title": "Terriers in Tiaras",
+    "maxiChallenge": {
+      "name": "Makeover dog owners and their dogs",
+      "winnerIds": [
+        "flor",
+        "isis-avis-loren"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Drag Family Resemblance: Doggy Style",
+    "topIds": [
+      "flor",
+      "isis-avis-loren"
+    ],
+    "bottomIds": [
+      "gabriella-labucci",
+      "hollywould-star"
+    ],
+    "lipSync": {
+      "song": "Not About You",
+      "queenIds": [
+        "gabriella-labucci",
+        "hollywould-star"
+      ],
+      "winnerIds": [
+        "gabriella-labucci"
+      ],
+      "eliminatedIds": [
+        "hollywould-star"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Josh Cavallo"
+      }
+    ]
+  },
+  {
+    "id": "DU-S03-E08",
+    "seasonId": "DU-S03",
+    "episodeNumber": 8,
+    "title": "Grand Finale - Down Under Season 3",
+    "runwayTheme": "Finale Eleganza Extravaganza",
+    "topIds": [
+      "gabriella-labucci",
+      "isis-avis-loren"
+    ],
+    "lipSync": {
+      "song": "Walking on Broken Glass",
+      "queenIds": [
+        "gabriella-labucci",
+        "isis-avis-loren"
+      ],
+      "winnerIds": [
+        "isis-avis-loren"
+      ],
+      "eliminatedIds": [
+        "flor"
+      ]
+    }
+  }
+]

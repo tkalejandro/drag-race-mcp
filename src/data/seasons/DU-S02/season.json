@@ -1,0 +1,57 @@
+{
+  "id": "DU-S02",
+  "franchise": "DU",
+  "name": "RuPaul's Drag Race Down Under Season 2",
+  "seasonNumber": 2,
+  "year": 2022,
+  "episodeCount": 8,
+  "episodeIds": [
+    "DU-S02-E01",
+    "DU-S02-E02",
+    "DU-S02-E03",
+    "DU-S02-E04",
+    "DU-S02-E05",
+    "DU-S02-E06",
+    "DU-S02-E07",
+    "DU-S02-E08"
+  ],
+  "castIds": [
+    "spankie-jackzon",
+    "hannah-conda",
+    "kween-kong",
+    "molly-poppinz",
+    "beverly-kills",
+    "yuri-guaii",
+    "minnie-cooper",
+    "pomara-fifth",
+    "aubrey-haive",
+    "faux-fur"
+  ],
+  "winnerId": "spankie-jackzon",
+  "runnerUpIds": [
+    "hannah-conda",
+    "kween-kong"
+  ],
+  "porkchopId": "faux-fur",
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Rhys Nicholson"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 30000,
+    "currency": "AUD"
+  }
+}

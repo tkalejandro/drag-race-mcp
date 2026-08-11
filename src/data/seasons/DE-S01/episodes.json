@@ -1,0 +1,507 @@
+[
+  {
+    "id": "DE-S01-E01",
+    "seasonId": "DE-S01",
+    "episodeNumber": 1,
+    "title": "Willkommen in Deutschland",
+    "miniChallenge": {
+      "name": "Bavarian Princess photoshoot",
+      "winnerIds": [
+        "pandora-nox"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Present your signature drag look on the runway",
+      "winnerIds": [
+        "pandora-nox"
+      ]
+    },
+    "runwayTheme": "Signature Drag Look",
+    "topIds": [
+      "barbie-q",
+      "lele-cocoon",
+      "pandora-nox"
+    ],
+    "bottomIds": [
+      "tessa-testicle",
+      "victoria-shakespears"
+    ],
+    "lipSync": {
+      "song": "Lieben wir",
+      "queenIds": [
+        "tessa-testicle",
+        "victoria-shakespears"
+      ],
+      "winnerIds": [
+        "tessa-testicle",
+        "victoria-shakespears"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Shirin David"
+      }
+    ]
+  },
+  {
+    "id": "DE-S01-E02",
+    "seasonId": "DE-S01",
+    "episodeNumber": 2,
+    "title": "Fetish",
+    "miniChallenge": {
+      "name": "Get into quick drag and run on a treadmill",
+      "winnerIds": [
+        "yvonne-nightstand"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit made from fetish materials",
+      "winnerIds": [
+        "loreley-rivers"
+      ]
+    },
+    "runwayTheme": "Fetish",
+    "topIds": [
+      "loreley-rivers",
+      "pandora-nox",
+      "tessa-testicle"
+    ],
+    "bottomIds": [
+      "barbie-q",
+      "victoria-shakespears"
+    ],
+    "lipSync": {
+      "song": "Break My Heart",
+      "queenIds": [
+        "barbie-q",
+        "victoria-shakespears"
+      ],
+      "winnerIds": [
+        "victoria-shakespears"
+      ],
+      "eliminatedIds": [
+        "barbie-q"
+      ]
+    }
+  },
+  {
+    "id": "DE-S01-E03",
+    "seasonId": "DE-S01",
+    "episodeNumber": 3,
+    "title": "Dragort: The Rusical",
+    "maxiChallenge": {
+      "name": "Dragort: The Rusical (CSI: Drag - The Crime Rusical)",
+      "winnerIds": [
+        "metamorkid"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR"
+      }
+    },
+    "runwayTheme": "Glitter Party",
+    "topIds": [
+      "kelly-heelton",
+      "metamorkid",
+      "victoria-shakespears"
+    ],
+    "bottomIds": [
+      "tessa-testicle",
+      "the-only-naomy"
+    ],
+    "lipSync": {
+      "song": "Holding Out for a Hero",
+      "queenIds": [
+        "tessa-testicle",
+        "the-only-naomy"
+      ],
+      "winnerIds": [
+        "tessa-testicle"
+      ],
+      "eliminatedIds": [
+        "the-only-naomy"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "KonstantinosTheStylist"
+      }
+    ]
+  },
+  {
+    "id": "DE-S01-E04",
+    "seasonId": "DE-S01",
+    "episodeNumber": 4,
+    "title": "Funny Shops",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "kelly-heelton"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR"
+      }
+    },
+    "maxiChallenge": {
+      "name": "In teams, film a commercial selling an \"impossible product\"",
+      "winnerIds": [
+        "nikita-vegaz"
+      ]
+    },
+    "runwayTheme": "Night of a Thousand Angie's",
+    "topIds": [
+      "nikita-vegaz",
+      "pandora-nox"
+    ],
+    "bottomIds": [
+      "lele-cocoon",
+      "tessa-testicle"
+    ],
+    "lipSync": {
+      "song": "About Damn Time",
+      "queenIds": [
+        "lele-cocoon",
+        "tessa-testicle"
+      ],
+      "winnerIds": [
+        "tessa-testicle"
+      ],
+      "eliminatedIds": [
+        "lele-cocoon"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Denis We"
+      }
+    ]
+  },
+  {
+    "id": "DE-S01-E05",
+    "seasonId": "DE-S01",
+    "episodeNumber": 5,
+    "title": "Barbie Salesh",
+    "miniChallenge": {
+      "name": "In teams, play \"Zack Zack\" (Chop Chop)",
+      "winnerIds": [
+        "metamorkid",
+        "loreley-rivers",
+        "pandora-nox",
+        "tessa-testicle"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "In pairs, improvise in a courtroom drama",
+      "winnerIds": [
+        "loreley-rivers"
+      ]
+    },
+    "runwayTheme": "Rave Parade",
+    "topIds": [
+      "loreley-rivers",
+      "metamorkid",
+      "victoria-shakespears"
+    ],
+    "bottomIds": [
+      "pandora-nox",
+      "tessa-testicle"
+    ],
+    "lipSync": {
+      "song": "Atemlos durch die Nacht",
+      "queenIds": [
+        "pandora-nox",
+        "tessa-testicle"
+      ],
+      "winnerIds": [
+        "pandora-nox"
+      ],
+      "eliminatedIds": [
+        "tessa-testicle"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "KonstantinosTheStylist"
+      }
+    ]
+  },
+  {
+    "id": "DE-S01-E06",
+    "seasonId": "DE-S01",
+    "episodeNumber": 6,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Split-face photoshoot",
+      "winnerIds": [
+        "metamorkid",
+        "nikita-vegaz"
+      ],
+      "earnings": {
+        "amount": 1250,
+        "currency": "EUR"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "kelly-heelton"
+      ],
+      "earnings": {
+        "amount": 4500,
+        "currency": "EUR"
+      }
+    },
+    "runwayTheme": "Dinner is Served",
+    "topIds": [
+      "kelly-heelton",
+      "pandora-nox",
+      "yvonne-nightstand"
+    ],
+    "bottomIds": [
+      "loreley-rivers",
+      "nikita-vegaz",
+      "victoria-shakespears"
+    ],
+    "lipSync": {
+      "song": "Flowers",
+      "queenIds": [
+        "loreley-rivers",
+        "nikita-vegaz",
+        "victoria-shakespears"
+      ],
+      "winnerIds": [
+        "loreley-rivers",
+        "victoria-shakespears"
+      ],
+      "eliminatedIds": [
+        "nikita-vegaz"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Raffaela Zollo"
+      }
+    ]
+  },
+  {
+    "id": "DE-S01-E07",
+    "seasonId": "DE-S01",
+    "episodeNumber": 7,
+    "title": "Poor But Sexy",
+    "miniChallenge": {
+      "name": "Perform as rock star groupies",
+      "winnerIds": [
+        "metamorkid"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR"
+      }
+    },
+    "maxiChallenge": {
+      "name": "The German Ball",
+      "winnerIds": [
+        "kelly-heelton",
+        "pandora-nox"
+      ]
+    },
+    "runwayTheme": "Dreifache Enthüllung / Future Me / Arm Aber Sexy (Poor But Sexy)",
+    "topIds": [
+      "kelly-heelton",
+      "metamorkid",
+      "pandora-nox"
+    ],
+    "bottomIds": [
+      "loreley-rivers",
+      "victoria-shakespears"
+    ],
+    "lipSync": {
+      "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)",
+      "queenIds": [
+        "loreley-rivers",
+        "victoria-shakespears"
+      ],
+      "winnerIds": [
+        "loreley-rivers"
+      ],
+      "eliminatedIds": [
+        "victoria-shakespears"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Estefania Elisa"
+      }
+    ]
+  },
+  {
+    "id": "DE-S01-E08",
+    "seasonId": "DE-S01",
+    "episodeNumber": 8,
+    "title": "Comedy Roast",
+    "miniChallenge": {
+      "name": "Convince Dianne Brill to let you into her club",
+      "winnerIds": [
+        "kelly-heelton",
+        "metamorkid"
+      ],
+      "earnings": {
+        "amount": 500,
+        "currency": "EUR"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Perform a comedy roast in front of the judges",
+      "winnerIds": [
+        "yvonne-nightstand"
+      ]
+    },
+    "runwayTheme": "A Hairy Affair",
+    "topIds": [
+      "metamorkid",
+      "yvonne-nightstand"
+    ],
+    "bottomIds": [
+      "loreley-rivers",
+      "pandora-nox"
+    ],
+    "lipSync": {
+      "song": "Chandelier",
+      "queenIds": [
+        "loreley-rivers",
+        "pandora-nox"
+      ],
+      "winnerIds": [
+        "pandora-nox"
+      ],
+      "eliminatedIds": [
+        "loreley-rivers"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Estefania Elisa"
+      }
+    ]
+  },
+  {
+    "id": "DE-S01-E09",
+    "seasonId": "DE-S01",
+    "episodeNumber": 9,
+    "title": "Web Show",
+    "maxiChallenge": {
+      "name": "In pairs, star in your own web show",
+      "winnerIds": [
+        "metamorkid"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR"
+      }
+    },
+    "runwayTheme": "Opera Queen",
+    "topIds": [
+      "kelly-heelton",
+      "metamorkid",
+      "pandora-nox",
+      "yvonne-nightstand"
+    ],
+    "lipSync": {
+      "song": "Rock Me Amadeus",
+      "queenIds": [
+        "metamorkid",
+        "yvonne-nightstand"
+      ],
+      "winnerIds": [
+        "metamorkid"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Estefania Elisa"
+      }
+    ]
+  },
+  {
+    "id": "DE-S01-E10",
+    "seasonId": "DE-S01",
+    "episodeNumber": 10,
+    "title": "Dirndl Makeover",
+    "maxiChallenge": {
+      "name": "Makeover Drag Race fans",
+      "winnerIds": [
+        "yvonne-nightstand"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR"
+      }
+    },
+    "runwayTheme": "Dragtastic Dirndl Makeover",
+    "topIds": [
+      "pandora-nox",
+      "yvonne-nightstand"
+    ],
+    "bottomIds": [
+      "kelly-heelton",
+      "metamorkid"
+    ],
+    "lipSync": {
+      "song": "Heart to Break",
+      "queenIds": [
+        "kelly-heelton",
+        "metamorkid"
+      ],
+      "winnerIds": [
+        "metamorkid"
+      ],
+      "eliminatedIds": [
+        "kelly-heelton"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Sasha Velour",
+        "queenId": "sasha-velour"
+      }
+    ]
+  },
+  {
+    "id": "DE-S01-E11",
+    "seasonId": "DE-S01",
+    "episodeNumber": 11,
+    "title": "The Reunion"
+  },
+  {
+    "id": "DE-S01-E12",
+    "seasonId": "DE-S01",
+    "episodeNumber": 12,
+    "title": "Grand Finale",
+    "runwayTheme": "Best Drag Look",
+    "topIds": [
+      "metamorkid",
+      "pandora-nox",
+      "yvonne-nightstand"
+    ],
+    "lipSync": {
+      "song": "Rise Like a Phoenix",
+      "queenIds": [
+        "metamorkid",
+        "pandora-nox",
+        "yvonne-nightstand"
+      ],
+      "winnerIds": [
+        "pandora-nox"
+      ]
+    }
+  }
+]

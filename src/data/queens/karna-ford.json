@@ -1,0 +1,25 @@
+{
+  "id": "karna-ford",
+  "name": "Karna Ford",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S04-E01",
+          "song": "Rush"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S04-E03",
+          "song": "My Delirium"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S04-E03"
+    }
+  ]
+}

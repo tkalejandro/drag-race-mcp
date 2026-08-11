@@ -1,0 +1,37 @@
+{
+  "id": "vybe",
+  "name": "Vybe",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S04-E05",
+          "name": "Makeover librarians",
+          "earnings": {
+            "amount": 2500,
+            "currency": "AUD"
+          }
+        },
+        {
+          "episodeId": "DU-S04-E07",
+          "name": "Perform a roast of Rhys Nicholson"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DU-S04-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S04-E08",
+          "song": "Came Here for Love"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rita-menu",
+  "name": "Rita Menu",
+  "appearances": [
+    {
+      "seasonId": "DU-S03",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S03-E03",
+          "song": "Murder on the Dancefloor"
+        },
+        {
+          "episodeId": "DU-S03-E03",
+          "song": "Holding Out for a Hero"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S03-E04",
+          "song": "Secrets"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S03-E04"
+    }
+  ]
+}

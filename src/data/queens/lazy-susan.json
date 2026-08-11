@@ -1,0 +1,36 @@
+{
+  "id": "lazy-susan",
+  "name": "Lazy Susan",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S04-E01",
+          "name": "The Double Down Ball",
+          "earnings": {
+            "amount": 3000,
+            "currency": "AUD"
+          }
+        },
+        {
+          "episodeId": "DU-S04-E02",
+          "name": "Write, record, and perform verses to \"Mr. Right\" and \"Mr. Right Now?\""
+        },
+        {
+          "episodeId": "DU-S04-E06",
+          "name": "Audition for the role of \"Tutu Much\" on the soap \"Platy-Pussies On Fire\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S04-E08",
+          "song": "Came Here for Love"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

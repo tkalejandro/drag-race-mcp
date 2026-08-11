@@ -1,0 +1,336 @@
+[
+  {
+    "id": "DU-S04-E01",
+    "seasonId": "DU-S04",
+    "episodeNumber": 1,
+    "title": "Doubling Down",
+    "maxiChallenge": {
+      "name": "The Double Down Ball",
+      "winnerIds": [
+        "lazy-susan"
+      ],
+      "earnings": {
+        "amount": 3000,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Double Dressin' / Double Dippin'",
+    "topIds": [
+      "lazy-susan",
+      "max-drag-queen",
+      "nikita-iman"
+    ],
+    "bottomIds": [
+      "karna-ford",
+      "lucina-innocence"
+    ],
+    "lipSync": {
+      "song": "Rush",
+      "queenIds": [
+        "karna-ford",
+        "lucina-innocence"
+      ],
+      "winnerIds": [
+        "karna-ford",
+        "lucina-innocence"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Sasha Colby"
+      }
+    ]
+  },
+  {
+    "id": "DU-S04-E02",
+    "seasonId": "DU-S04",
+    "episodeNumber": 2,
+    "title": "Mr. Right or Mr. Right Now?",
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"Mr. Right\" and \"Mr. Right Now?\"",
+      "winnerIds": [
+        "lazy-susan"
+      ]
+    },
+    "runwayTheme": "Sheer Genius",
+    "topIds": [
+      "brenda-bressed",
+      "lazy-susan",
+      "vybe"
+    ],
+    "bottomIds": [
+      "lucina-innocence",
+      "olivia-dreams"
+    ],
+    "lipSync": {
+      "song": "Freefallin",
+      "queenIds": [
+        "lucina-innocence",
+        "olivia-dreams"
+      ],
+      "winnerIds": [
+        "lucina-innocence"
+      ],
+      "eliminatedIds": [
+        "olivia-dreams"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Kween Kong",
+        "queenId": "kween-kong"
+      }
+    ]
+  },
+  {
+    "id": "DU-S04-E03",
+    "seasonId": "DU-S04",
+    "episodeNumber": 3,
+    "title": "Snatch Me",
+    "maxiChallenge": {
+      "name": "I'm a Celebrity Impersonator – Snatch Me Outta Here!",
+      "winnerIds": [
+        "brenda-bressed"
+      ]
+    },
+    "runwayTheme": "Queen of the Dessert",
+    "topIds": [
+      "brenda-bressed",
+      "mandy-moobs",
+      "vybe"
+    ],
+    "bottomIds": [
+      "karna-ford",
+      "max-drag-queen",
+      "nikita-iman"
+    ],
+    "lipSync": {
+      "song": "My Delirium",
+      "queenIds": [
+        "karna-ford",
+        "max-drag-queen",
+        "nikita-iman"
+      ],
+      "winnerIds": [
+        "max-drag-queen",
+        "nikita-iman"
+      ],
+      "eliminatedIds": [
+        "karna-ford"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Ladyhawke"
+      }
+    ]
+  },
+  {
+    "id": "DU-S04-E04",
+    "seasonId": "DU-S04",
+    "episodeNumber": 4,
+    "title": "Fierce Fabulous Fashion",
+    "maxiChallenge": {
+      "name": "Create an outfit made out of an assigned fabric",
+      "winnerIds": [
+        "mandy-moobs"
+      ]
+    },
+    "runwayTheme": "Fierce Fabulous Fashion",
+    "topIds": [
+      "mandy-moobs",
+      "nikita-iman",
+      "vybe"
+    ],
+    "bottomIds": [
+      "freya-armani",
+      "lucina-innocence"
+    ],
+    "lipSync": {
+      "song": "What About Me",
+      "queenIds": [
+        "freya-armani",
+        "lucina-innocence"
+      ],
+      "winnerIds": [
+        "freya-armani"
+      ],
+      "eliminatedIds": [
+        "lucina-innocence"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "G Flip"
+      }
+    ]
+  },
+  {
+    "id": "DU-S04-E05",
+    "seasonId": "DU-S04",
+    "episodeNumber": 5,
+    "title": "Booked and Beautiful",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "vybe"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Makeover librarians",
+      "winnerIds": [
+        "nikita-iman",
+        "vybe"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "AUD"
+      }
+    },
+    "runwayTheme": "Drag Family Storytime",
+    "topIds": [
+      "freya-armani",
+      "nikita-iman",
+      "vybe"
+    ],
+    "bottomIds": [
+      "brenda-bressed",
+      "max-drag-queen"
+    ],
+    "lipSync": {
+      "song": "Like a Girl Does",
+      "queenIds": [
+        "brenda-bressed",
+        "max-drag-queen"
+      ],
+      "winnerIds": [
+        "max-drag-queen"
+      ],
+      "eliminatedIds": [
+        "brenda-bressed"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Peach PRC"
+      }
+    ]
+  },
+  {
+    "id": "DU-S04-E06",
+    "seasonId": "DU-S04",
+    "episodeNumber": 6,
+    "title": "Platy-Pussies On Fire",
+    "miniChallenge": {
+      "name": "Attempt to make Michelle Visage slap them",
+      "winnerIds": [
+        "freya-armani"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Audition for the role of \"Tutu Much\" on the soap \"Platy-Pussies On Fire\"",
+      "winnerIds": [
+        "lazy-susan"
+      ]
+    },
+    "runwayTheme": "Liquid Dreams",
+    "topIds": [
+      "freya-armani",
+      "lazy-susan"
+    ],
+    "bottomIds": [
+      "max-drag-queen",
+      "nikita-iman"
+    ],
+    "lipSync": {
+      "song": "Talking Body",
+      "queenIds": [
+        "max-drag-queen",
+        "nikita-iman"
+      ],
+      "winnerIds": [
+        "nikita-iman"
+      ],
+      "eliminatedIds": [
+        "max-drag-queen"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Matthew Okine"
+      }
+    ]
+  },
+  {
+    "id": "DU-S04-E07",
+    "seasonId": "DU-S04",
+    "episodeNumber": 7,
+    "title": "The Rhys Roast",
+    "maxiChallenge": {
+      "name": "Perform a roast of Rhys Nicholson",
+      "winnerIds": [
+        "vybe"
+      ]
+    },
+    "runwayTheme": "Cape Fierce",
+    "topIds": [
+      "freya-armani",
+      "lazy-susan",
+      "vybe"
+    ],
+    "bottomIds": [
+      "mandy-moobs",
+      "nikita-iman"
+    ],
+    "lipSync": {
+      "song": "Searchin'",
+      "queenIds": [
+        "mandy-moobs",
+        "nikita-iman"
+      ],
+      "winnerIds": [
+        "mandy-moobs"
+      ],
+      "eliminatedIds": [
+        "nikita-iman"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Anita Wigl'it",
+        "queenId": "anita-wiglit"
+      }
+    ]
+  },
+  {
+    "id": "DU-S04-E08",
+    "seasonId": "DU-S04",
+    "episodeNumber": 8,
+    "title": "Grand Finale",
+    "runwayTheme": "Crowning Glory",
+    "topIds": [
+      "lazy-susan",
+      "mandy-moobs",
+      "vybe"
+    ],
+    "lipSync": {
+      "song": "Came Here for Love",
+      "queenIds": [
+        "lazy-susan",
+        "mandy-moobs",
+        "vybe"
+      ],
+      "winnerIds": [
+        "lazy-susan"
+      ],
+      "eliminatedIds": [
+        "freya-armani"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Sophie Monk"
+      }
+    ]
+  }
+]

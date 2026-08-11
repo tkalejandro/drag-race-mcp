@@ -1,0 +1,65 @@
+[
+  {
+    "id": "du-s01-kita-crown",
+    "title": "Kita Mean wins Down Under Season 1",
+    "summary": "In the Grand Finale (DU-S01-E08), Art Simone, Karen from Finance, Kita Mean, and Scarlet Adams lip-synced to Olivia Newton-John's \"Physical\". Kita Mean was crowned Down Under's first Drag Superstar and received A$30,000.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "iconic"
+    ],
+    "queenIds": [
+      "kita-mean",
+      "art-simone",
+      "karen-from-finance",
+      "scarlet-adams"
+    ],
+    "seasonIds": [
+      "DU-S01"
+    ],
+    "episodeIds": [
+      "DU-S01-E08"
+    ]
+  },
+  {
+    "id": "du-s01-jojo-porkchop",
+    "title": "Jojo Zaho: Down Under's first Porkchop",
+    "summary": "Jojo Zaho was the first contestant eliminated on RuPaul's Drag Race Down Under (DU-S01-E01), lip-syncing to the Bee Gees' \"Tragedy\" against Elektra Shock.",
+    "tags": [
+      "porkchop",
+      "iconic"
+    ],
+    "queenIds": [
+      "jojo-zaho",
+      "elektra-shock"
+    ],
+    "seasonIds": [
+      "DU-S01"
+    ],
+    "episodeIds": [
+      "DU-S01-E01"
+    ]
+  },
+  {
+    "id": "du-s01-art-return",
+    "title": "Art Simone returns after elimination",
+    "summary": "Art Simone was eliminated in DU-S01-E02 after lip-syncing to RuPaul's \"I'm That Bitch\" against Coco Jumbo, then returned to the competition in DU-S01-E04 and went on to finish as a runner-up.",
+    "tags": [
+      "return",
+      "twist",
+      "controversy"
+    ],
+    "queenIds": [
+      "art-simone",
+      "coco-jumbo"
+    ],
+    "seasonIds": [
+      "DU-S01"
+    ],
+    "episodeIds": [
+      "DU-S01-E02",
+      "DU-S01-E04"
+    ]
+  }
+]

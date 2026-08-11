@@ -1,0 +1,62 @@
+[
+  {
+    "id": "du-s02-spankie-crown",
+    "title": "Spankie Jackzon wins Down Under Season 2",
+    "summary": "In the Grand Finale (DU-S02-E08), Hannah Conda, Kween Kong, and Spankie Jackzon lip-synced to Kylie Minogue's \"Wow\". Spankie Jackzon was crowned Down Under's next Drag Superstar.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "iconic"
+    ],
+    "queenIds": [
+      "spankie-jackzon",
+      "hannah-conda",
+      "kween-kong"
+    ],
+    "seasonIds": [
+      "DU-S02"
+    ],
+    "episodeIds": [
+      "DU-S02-E08"
+    ]
+  },
+  {
+    "id": "du-s02-faux-porkchop",
+    "title": "Faúx Fúr: Season 2 Porkchop",
+    "summary": "Faúx Fúr was the first contestant eliminated on Down Under Season 2 (DU-S02-E01), lip-syncing to Kylie Minogue's \"Get Outta My Way\" against Spankie Jackzon.",
+    "tags": [
+      "porkchop"
+    ],
+    "queenIds": [
+      "faux-fur",
+      "spankie-jackzon"
+    ],
+    "seasonIds": [
+      "DU-S02"
+    ],
+    "episodeIds": [
+      "DU-S02-E01"
+    ]
+  },
+  {
+    "id": "du-s02-bosom-buddies",
+    "title": "Team BAB'Z sweeps Bosom Buddies",
+    "summary": "In DU-S02-E05, Team BAB'Z (Hannah Conda, Kween Kong, and Spankie Jackzon) all won the \"Bosom Buddies\" girl-group challenge — the season's only three-way maxi win.",
+    "tags": [
+      "iconic",
+      "comedy"
+    ],
+    "queenIds": [
+      "hannah-conda",
+      "kween-kong",
+      "spankie-jackzon"
+    ],
+    "seasonIds": [
+      "DU-S02"
+    ],
+    "episodeIds": [
+      "DU-S02-E05"
+    ]
+  }
+]

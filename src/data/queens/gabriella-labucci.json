@@ -1,0 +1,46 @@
+{
+  "id": "gabriella-labucci",
+  "name": "Gabriella Labucci",
+  "appearances": [
+    {
+      "seasonId": "DU-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S03-E03",
+          "name": "In teams, improvise in \"The Fake Housewives of Down Under\"",
+          "earnings": {
+            "amount": 5000,
+            "currency": "AUD"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DU-S03-E02",
+          "name": "Boudoir photoshoot"
+        },
+        {
+          "episodeId": "DU-S03-E04",
+          "name": "Find matching pairs of pit crew's underwear"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S03-E06",
+          "song": "Are You Gonna Be My Girl"
+        },
+        {
+          "episodeId": "DU-S03-E07",
+          "song": "Not About You"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S03-E08",
+          "song": "Walking on Broken Glass"
+        }
+      ]
+    }
+  ]
+}

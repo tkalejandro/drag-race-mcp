@@ -1,0 +1,20 @@
+{
+  "id": "aubrey-haive",
+  "name": "Aubrey Haive",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S02-E02",
+          "song": "I Touch Myself"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S02-E02"
+    }
+  ]
+}

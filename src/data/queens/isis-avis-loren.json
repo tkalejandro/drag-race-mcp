@@ -1,0 +1,36 @@
+{
+  "id": "isis-avis-loren",
+  "name": "Isis Avis Loren",
+  "appearances": [
+    {
+      "seasonId": "DU-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S03-E02",
+          "name": "Create an outfit made out of leftover bedding materials"
+        },
+        {
+          "episodeId": "DU-S03-E06",
+          "name": "Perform a talent show in front of the judges"
+        },
+        {
+          "episodeId": "DU-S03-E07",
+          "name": "Makeover dog owners and their dogs",
+          "earnings": {
+            "amount": 2500,
+            "currency": "AUD"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S03-E08",
+          "song": "Walking on Broken Glass"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

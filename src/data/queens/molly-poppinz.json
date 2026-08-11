@@ -1,0 +1,39 @@
+{
+  "id": "molly-poppinz",
+  "name": "Molly Poppinz",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S02-E01",
+          "name": "Create an outfit made from locally sourced natural materials"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DU-S02-E03",
+          "name": "Tools of the Trade",
+          "earnings": {
+            "amount": 5000,
+            "currency": "AUD"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S02-E05",
+          "song": "Chains (S&M Remix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S02-E07",
+          "song": "Heartbreak in This City"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S02-E07"
+    }
+  ]
+}
