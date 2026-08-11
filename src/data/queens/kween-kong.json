@@ -45,6 +45,50 @@
           "song": "Wow"
         }
       ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E01",
+          "name": "Global Glamazon Talent Extravaganza (Part 1)"
+        },
+        {
+          "episodeId": "GAS-S01-E05",
+          "name": "In teams, star in sequels of \"Boobie\""
+        },
+        {
+          "episodeId": "GAS-S01-E08",
+          "name": "Perform a roast"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E04",
+          "name": "Guess the total population of your country"
+        },
+        {
+          "episodeId": "GAS-S01-E09",
+          "name": "Who Is She?"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "GAS-S01-E01",
+          "song": "Only Girl (In the World)"
+        },
+        {
+          "episodeId": "GAS-S01-E10",
+          "song": "Don't Leave Me This Way"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E12",
+          "song": "Bad Romance"
+        }
+      ]
     }
   ]
 }

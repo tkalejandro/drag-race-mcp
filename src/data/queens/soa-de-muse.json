@@ -37,6 +37,35 @@
           "song": "Mourir sur scène"
         }
       ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 9,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E11",
+          "name": "Global Lip-Sync LaLaPaRuZa Smackdown"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "GAS-S01-E03",
+          "song": "Bad Idea Right?"
+        },
+        {
+          "episodeId": "GAS-S01-E11",
+          "song": "The Beginning"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E06",
+          "song": "Bang Bang"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E06",
+      "missCongeniality": true
     }
   ]
 }

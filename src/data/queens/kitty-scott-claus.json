@@ -28,6 +28,42 @@
           "song": "You Don't Own Me"
         }
       ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E04",
+          "name": "Write, record, and perform verses to \"Everybody Say Love\""
+        },
+        {
+          "episodeId": "GAS-S01-E07",
+          "name": "Snatch Game of Love"
+        },
+        {
+          "episodeId": "GAS-S01-E08",
+          "name": "Perform a roast"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "GAS-S01-E09",
+          "song": "Believe"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E12",
+          "song": "Bad Romance"
+        }
+      ]
     }
   ]
 }

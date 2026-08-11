@@ -33,6 +33,25 @@
           "song": "Envolver"
         }
       ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E04",
+          "name": "Guess the total population of your country"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E04",
+          "song": "Spice Up Your Life"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E04"
     }
   ]
 }

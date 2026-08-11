@@ -1,0 +1,49 @@
+{
+  "id": "GAS-S01",
+  "franchise": "GAS",
+  "name": "RuPaul's Drag Race Global All Stars Season 1",
+  "seasonNumber": 1,
+  "year": 2024,
+  "episodeCount": 12,
+  "episodeIds": [
+    "GAS-S01-E01",
+    "GAS-S01-E02",
+    "GAS-S01-E03",
+    "GAS-S01-E04",
+    "GAS-S01-E05",
+    "GAS-S01-E06",
+    "GAS-S01-E07",
+    "GAS-S01-E08",
+    "GAS-S01-E09",
+    "GAS-S01-E10",
+    "GAS-S01-E11",
+    "GAS-S01-E12"
+  ],
+  "castIds": [
+    "alyssa-edwards",
+    "kitty-scott-claus",
+    "kween-kong",
+    "nehellenia",
+    "tessa-testicle",
+    "vanity-vain",
+    "pythia",
+    "gala-varo",
+    "soa-de-muse",
+    "eva-le-queen",
+    "miranda-lebrao",
+    "athena-sorgelikis"
+  ],
+  "winnerId": "alyssa-edwards",
+  "runnerUpIds": ["kitty-scott-claus", "kween-kong", "nehellenia"],
+  "missCongenialityId": "soa-de-muse",
+  "lipSyncAssassinId": "soa-de-muse",
+  "porkchopId": "athena-sorgelikis",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Jamal Sims" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 200000, "currency": "USD" }
+}

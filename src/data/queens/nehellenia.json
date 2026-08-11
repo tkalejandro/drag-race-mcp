@@ -37,6 +37,29 @@
         }
       ],
       "missCongeniality": true
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E09",
+          "name": "Makeover one of the eliminated queens"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E02",
+          "name": "Quick Drag Magazine cover photoshoot"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E12",
+          "song": "Bad Romance"
+        }
+      ]
     }
   ]
 }

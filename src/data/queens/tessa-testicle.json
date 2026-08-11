@@ -33,6 +33,30 @@
         }
       ],
       "eliminatedEpisodeId": "DE-S01-E05"
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E06",
+          "name": "Create a cocktail dress using materials from another queen's suitcase"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E06",
+          "name": "Apply makeup during a turbulent plane simulation"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E10",
+          "song": "Don't Leave Me This Way"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E10"
     }
   ]
 }

@@ -32,6 +32,38 @@
           "song": "Él me mintió"
         }
       ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E07",
+          "name": "Make a profile for the dating app \"Archer\""
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "GAS-S01-E05",
+          "song": "Take On Me"
+        },
+        {
+          "episodeId": "GAS-S01-E06",
+          "song": "Bang Bang"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E07",
+          "song": "Mah Nà Mah Nà"
+        },
+        {
+          "episodeId": "GAS-S01-E11",
+          "song": "The Beginning"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E07"
     }
   ]
 }

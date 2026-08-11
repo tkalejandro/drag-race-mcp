@@ -20,6 +20,7 @@ export const SeasonSchema = z.object({
   winnerId: QueenIdSchema.optional(),
   runnerUpIds: z.array(QueenIdSchema),
   missCongenialityId: QueenIdSchema.optional(),
+  lipSyncAssassinId: QueenIdSchema.optional(),
   porkchopId: QueenIdSchema.optional(),
   disqualifiedIds: z.array(QueenIdSchema).optional(),
   hosts: z.array(PersonRefSchema),

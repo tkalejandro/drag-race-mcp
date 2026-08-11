@@ -24,6 +24,24 @@
       ],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "PH-S01-E10"
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E02",
+          "song": "Paranoia"
+        },
+        {
+          "episodeId": "GAS-S01-E05",
+          "song": "Take On Me"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E05"
     }
   ]
 }

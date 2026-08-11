@@ -19,6 +19,7 @@ export {
   EpisodeChallengeSchema,
   EpisodeLipSyncSchema,
   EpisodeSchema,
+  LipSyncKind,
   type EpisodeChallenge,
   type EpisodeLipSync,
   type Episode,

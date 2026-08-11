@@ -1,6 +1,7 @@
 {
   "id": "athena-sorgelikis",
-  "name": "Athena Sorgelikis",
+  "name": "Athena Likis",
+  "aliases": ["Athena Sorgelikis"],
   "appearances": [
     {
       "seasonId": "BE-S01",
@@ -28,6 +29,20 @@
           "song": "Démons"
         }
       ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E03",
+          "song": "Bad Idea Right?"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E03"
     }
   ]
 }

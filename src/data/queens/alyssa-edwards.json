@@ -66,6 +66,32 @@
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S02-E07",
       "reentered": true
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E01",
+          "name": "Global Glamazon Talent Extravaganza (Part 1)"
+        },
+        {
+          "episodeId": "GAS-S01-E10",
+          "name": "Create a tourism ad showcasing your country"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "GAS-S01-E01",
+          "song": "Only Girl (In the World)"
+        },
+        {
+          "episodeId": "GAS-S01-E12",
+          "song": "Bad Romance"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

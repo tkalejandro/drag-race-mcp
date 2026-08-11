@@ -28,6 +28,25 @@
           "song": "It's All Coming Back to Me Now"
         }
       ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E03",
+          "name": "The International Queen of Mystery Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E08",
+          "song": "I Drove All Night"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E08"
     }
   ]
 }

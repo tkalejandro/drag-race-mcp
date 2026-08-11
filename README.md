@@ -222,7 +222,7 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | `PH-S03` | ✅ | ✅ | ✅ | ✅ |
 | `PH-S04` | — | — | — | — |
 | `PHSR-S01` | — | — | — | — |
-| `GAS-S01` | — | — | — | — |
+| `GAS-S01` | ✅ | ✅ | ✅ | ✅ |
 | `DU-S01` | ✅ | ✅ | ✅ | ✅ |
 | `DU-S02` | ✅ | ✅ | ✅ | ✅ |
 | `DU-S03` | ✅ | ✅ | ✅ | ✅ |
