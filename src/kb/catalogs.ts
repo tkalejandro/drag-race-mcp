@@ -41,6 +41,47 @@ export const FranchiseCode = {
 export type FranchiseCode =
   (typeof FranchiseCode)[keyof typeof FranchiseCode];
 
+/**
+ * Coarse regions for agent-facing season discovery (not raw franchise codes).
+ * Maps to one or more FranchiseCode values.
+ */
+export const FranchiseRegion = {
+  US: "us",
+  UK: "uk",
+  CANADA: "canada",
+  EUROPE: "europe",
+  LATAM_BR: "latam_br",
+  ASIA_PACIFIC: "asia_pacific",
+  SPECIALS: "specials",
+} as const;
+
+export type FranchiseRegion =
+  (typeof FranchiseRegion)[keyof typeof FranchiseRegion];
+
+export const FRANCHISE_REGION_CODES = {
+  us: [FranchiseCode.US, FranchiseCode.AS],
+  uk: [FranchiseCode.UK],
+  canada: [FranchiseCode.CA, FranchiseCode.CVTW, FranchiseCode.CAS],
+  europe: [
+    FranchiseCode.DE,
+    FranchiseCode.FR,
+    FranchiseCode.NL,
+    FranchiseCode.BE,
+    FranchiseCode.SE,
+    FranchiseCode.ES,
+    FranchiseCode.ESAS,
+    FranchiseCode.IT,
+  ],
+  latam_br: [FranchiseCode.BR, FranchiseCode.MX, FranchiseCode.MXLR],
+  asia_pacific: [
+    FranchiseCode.TH,
+    FranchiseCode.PH,
+    FranchiseCode.PHSR,
+    FranchiseCode.DUVTW,
+  ],
+  specials: [FranchiseCode.GAS],
+} as const satisfies Record<FranchiseRegion, readonly FranchiseCode[]>;
+
 /** Human-readable franchise names — use when explaining IDs to users. */
 export const FRANCHISE_LABEL = {
   US: "RuPaul's Drag Race (US)",

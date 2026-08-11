@@ -1,10 +1,13 @@
 /**
- * Indexed Drag Race knowledge base — catalogs, schemas, load, and accessors.
+ * Indexed Drag Race knowledge base — catalogs, schemas, load, integrity.
+ * Getters and query helpers live in `src/services/`.
  */
 
 export {
   FranchiseCode,
   FRANCHISE_LABEL,
+  FranchiseRegion,
+  FRANCHISE_REGION_CODES,
   SeasonId,
   ALL_SEASON_IDS,
   Currency,
@@ -22,17 +25,6 @@ export {
 } from "./load.ts";
 
 export { assertKnowledgeBaseIntegrity } from "./integrity.ts";
-
-export {
-  getQueen,
-  getSeason,
-  getEpisode,
-  getLore,
-  listQueenIds,
-  listSeasonIds,
-  listEpisodeIds,
-  listLoreIds,
-} from "./accessors.ts";
 
 export type {
   Queen,

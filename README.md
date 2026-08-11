@@ -12,17 +12,17 @@
 
 ## Features
 
-**Ready / in progress**
+**Ready**
 
 - Typed knowledge model (seasons, queens, episodes, lore)
-- MCP server skeleton + example tool (`welcome_user`)
-- Cursor-friendly local MCP config
+- JSON knowledge base + Zod validation + integrity checks
+- Core MCP read tools (list / search / get for seasons, queens, episodes, lore)
+- Cursor-friendly local MCP config + workflow docs
 
 **Coming next**
 
-- JSON knowledge base + Zod validation
-- Tools: search queens, get season/episode, compare queens, search lore
-- Stats, recommendations, optional RAG later
+- Compare queens, recommendations, richer stats
+- Broader franchise coverage; optional RAG later
 
 ---
 
@@ -240,16 +240,24 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 │   │           ├── season.json
 │   │           ├── episodes.json
 │   │           └── lore.json
-│   ├── kb/                   # Typed knowledge layer
-│   │   ├── catalogs.ts       # SeasonId, Currency, LoreTag, …
-│   │   ├── schemas/          # Zod per entity + z.infer types
-│   │   ├── load.ts           # Read data/ → validated Maps
-│   │   ├── accessors.ts      # getQueen / getSeason / …
-│   │   └── index.ts          # Public re-exports
-│   └── tools/
-│       └── general/
-│           ├── welcome_user.ts
-│           └── index.ts
+│   ├── kb/                   # Data layer: catalogs, Zod, load, integrity
+│   │   ├── catalogs.ts
+│   │   ├── schemas/
+│   │   ├── load.ts
+│   │   ├── integrity.ts
+│   │   └── index.ts
+│   ├── services/             # Utilities tools call (not MCP)
+│   │   ├── accessors/        # accessors.ts → get* / list*Ids
+│   │   ├── seasons/          # list_season_ids.ts
+│   │   ├── queens/           # search_queens.ts, list_queen_ids_for_season.ts
+│   │   ├── lore/             # search_lore.ts
+│   │   └── shared/           # limits.ts
+│   └── tools/                # MCP registerTool wrappers only
+│       ├── general/          # welcome_user.ts
+│       ├── seasons/          # list_season_ids.ts, get_season.ts
+│       ├── queens/           # list_queen_ids.ts, search_queens.ts, get_queen.ts
+│       ├── episodes/         # get_episode.ts
+│       └── lore/             # get_lore.ts, search_lore.ts
 │
 ├── .cursor/
 │   ├── mcp.json              # Local Cursor MCP config ADD WHEN YOU NEED IT.
@@ -345,19 +353,21 @@ That’s the same path used in development: **Cursor discovers the server’s to
 
 ---
 
-## Planned MCP tools
+## MCP tools
 
 | Tool | Description |
 |------|-------------|
-| `welcome_user` | Smoke-test / hello (exists) |
-| `list_season_ids` / `list_queen_ids` | Discover valid IDs |
-| `search_queens` | Search queens by name or alias |
-| `get_queen` | Full queen record |
+| `welcome_user` | Smoke-test / hello |
+| `list_season_ids` | List loaded seasons; optional `region` (`us`, `uk`, `canada`, `europe`, `latam_br`, `asia_pacific`, `specials`) |
 | `get_season` | Season record + linked IDs |
+| `list_queen_ids` | Cast queen ids for one `seasonId` (required) |
+| `search_queens` | Search queens by name/alias (limit default 20, max 50) |
+| `get_queen` | Full queen record |
 | `get_episode` | Episode detail |
-| `compare_queens` | Compare two or more queens |
-| `search_lore` | Search lore by tag, queen, or season |
-| `recommend_season` | Recommend seasons from preferences |
+| `get_lore` | Lore entry by id |
+| `search_lore` | Search lore by query, tags, queen, and/or season |
+
+**Planned (v2+):** `compare_queens`, `recommend_season`, stats aggregations.
 
 ---
 
@@ -367,8 +377,8 @@ That’s the same path used in development: **Cursor discovers the server’s to
 
 - [x] Stable TypeScript interfaces (IDs + hard facts + lore)
 - [x] JSON data + Zod schemas
-- [ ] Core read tools (queen / season / episode / lore)
-- [ ] Local Cursor workflow documented
+- [x] Core read tools (queen / season / episode / lore)
+- [x] Local Cursor workflow documented
 
 ### v2
 
