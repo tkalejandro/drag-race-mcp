@@ -55,10 +55,7 @@ export const registerSearchQueens = (server: McpServer) => {
         results,
         limit: limit ?? DEFAULT_SEARCH_LIMIT,
       };
-      return toolResult(
-        `Found ${results.length} queen(s) matching "${query}".`,
-        output,
-      );
+      return toolResult(output);
     },
   );
 };

@@ -30,16 +30,12 @@ export const registerListSeasonIds = (server: McpServer) => {
     },
     async ({ region }) => {
       const seasonIds = listSeasonIds(region ? { region } : undefined);
-      const scope = region ? `region ${region}` : "all regions";
       const output: Output = {
         ok: true,
         seasonIds,
         ...(region ? { region } : {}),
       };
-      return toolResult(
-        `Listed ${seasonIds.length} season id(s) for ${scope}.`,
-        output,
-      );
+      return toolResult(output);
     },
   );
 };

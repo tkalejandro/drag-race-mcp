@@ -38,13 +38,13 @@ export const registerGetLore = (server: McpServer) => {
           ok: false,
           error: `Lore not found: ${loreId}`,
         };
-        return toolResult(`Lore not found: ${loreId}`, output);
+        return toolResult(output);
       }
       const output: Output = {
         ok: true,
         lore,
       };
-      return toolResult(`Loaded lore "${lore.title}" (${lore.id}).`, output);
+      return toolResult(output);
     },
   );
 };

@@ -41,16 +41,13 @@ export const registerGetEpisode = (server: McpServer) => {
           ok: false,
           error: `Episode not found: ${episodeId}`,
         };
-        return toolResult(`Episode not found: ${episodeId}`, output);
+        return toolResult(output);
       }
       const output: Output = {
         ok: true,
         episode,
       };
-      return toolResult(
-        `Loaded episode ${episode.id} ("${episode.title}").`,
-        output,
-      );
+      return toolResult(output);
     },
   );
 };

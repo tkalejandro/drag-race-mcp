@@ -78,7 +78,7 @@ export const registerSearchLore = (server: McpServer) => {
         results,
         limit: limit ?? DEFAULT_SEARCH_LIMIT,
       };
-      return toolResult(`Found ${results.length} lore result(s).`, output);
+      return toolResult(output);
     },
   );
 };

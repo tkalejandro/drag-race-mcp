@@ -39,13 +39,13 @@ export const registerGetQueen = (server: McpServer) => {
           ok: false,
           error: `Queen not found: ${queenId}`,
         };
-        return toolResult(`Queen not found: ${queenId}`, output);
+        return toolResult(output);
       }
       const output: Output = {
         ok: true,
         queen,
       };
-      return toolResult(`Loaded queen ${queen.name} (${queen.id}).`, output);
+      return toolResult(output);
     },
   );
 };

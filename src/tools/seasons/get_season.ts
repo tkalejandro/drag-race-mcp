@@ -39,13 +39,13 @@ export const registerGetSeason = (server: McpServer) => {
           ok: false,
           error: `Season not found: ${seasonId}`,
         };
-        return toolResult(`Season not found: ${seasonId}`, output);
+        return toolResult(output);
       }
       const output: Output = {
         ok: true,
         season,
       };
-      return toolResult(`Loaded season ${season.id} (${season.name}).`, output);
+      return toolResult(output);
     },
   );
 };

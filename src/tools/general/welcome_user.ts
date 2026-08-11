@@ -40,7 +40,7 @@ export const registerWelcomeUser = (server: McpServer) => {
       const output: Output = {
         message: `Welcome to the Drag Race MCP Server, ${name}!`,
       };
-      return toolResult(`Welcomed ${name}.`, output);
+      return toolResult(output);
     },
   );
 };

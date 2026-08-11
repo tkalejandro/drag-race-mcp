@@ -41,17 +41,14 @@ export const registerListQueenIds = (server: McpServer) => {
           ok: false,
           error: `Season not found: ${seasonId}`,
         };
-        return toolResult(`Season not found: ${seasonId}`, output);
+        return toolResult(output);
       }
       const output: Output = {
         ok: true,
         seasonId,
         queenIds,
       };
-      return toolResult(
-        `Listed ${queenIds.length} queen ids for ${seasonId}.`,
-        output,
-      );
+      return toolResult(output);
     },
   );
 };
