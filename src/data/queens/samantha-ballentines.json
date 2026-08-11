@@ -25,6 +25,38 @@
       ],
       "eliminatedEpisodeId": "ES-S02-E03",
       "missCongeniality": true
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E04",
+          "name": "Write, record, and perform verses as two girl groups for Superstar"
+        },
+        {
+          "episodeId": "ESAS-S01-E05",
+          "name": "Perform a roast of the judges panel and fellow contestants"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ESAS-S01-E04",
+          "song": "Mafiosa"
+        },
+        {
+          "episodeId": "ESAS-S01-E05",
+          "song": "La zarzamora"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ESAS-S01-E07",
+          "song": "Eloise"
+        }
+      ],
+      "missCongeniality": true
     }
   ]
 }

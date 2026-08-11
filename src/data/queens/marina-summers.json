@@ -28,6 +28,45 @@
           "song": "Sirena"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E01",
+          "name": "Perform in The Queen's Variety Show"
+        },
+        {
+          "episodeId": "UKVTW-S02-E05",
+          "name": "Seven!: Confessions of a Drag Queen — The Rusical"
+        },
+        {
+          "episodeId": "UKVTW-S02-E06",
+          "name": "Dance in pairs in half-and-half drag"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "name": "Choose The Fairest, The Shadiest, The Mightiest, and The Neediest"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S02-E01",
+          "song": "Dreamer"
+        },
+        {
+          "episodeId": "UKVTW-S02-E05",
+          "song": "Fucking Wizardry"
+        },
+        {
+          "episodeId": "UKVTW-S02-E06",
+          "song": "Release Me"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

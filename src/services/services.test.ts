@@ -26,14 +26,15 @@ describe("listSeasonIds", () => {
 
   it("filters by region", () => {
     const uk = listSeasonIds({ region: "uk" });
-    assert.ok(uk.every((id) => id.startsWith("UK-")));
+    assert.ok(uk.every((id) => id.startsWith("UK-") || id.startsWith("UKVTW-")));
     assert.ok(uk.includes("UK-S01"));
     assert.ok(uk.includes("UK-S07"));
+    assert.ok(uk.includes("UKVTW-S01"));
 
     const us = listSeasonIds({ region: "us" });
     assert.ok(us.includes("US-S01"));
     assert.ok(us.includes("AS-S01"));
-    assert.ok(!us.some((id) => id.startsWith("UK-")));
+    assert.ok(!us.some((id) => id.startsWith("UK-") || id.startsWith("UKVTW-")));
   });
 });
 

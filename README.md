@@ -159,6 +159,9 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | `UK-S05` | ✅ | ✅ | ✅ | ✅ |
 | `UK-S06` | ✅ | ✅ | ✅ | ✅ |
 | `UK-S07` | ✅ | ✅ | ✅ | ✅ |
+| `UKVTW-S01` | ✅ | ✅ | ✅ | ✅ |
+| `UKVTW-S02` | ✅ | ✅ | ✅ | ✅ |
+| `UKVTW-S03` | ✅ | ✅ | ✅ | ✅ |
 
 ### Canada
 
@@ -170,8 +173,8 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | `CA-S04` | ✅ | ✅ | ✅ | ✅ |
 | `CA-S05` | ✅ | ✅ | ✅ | ✅ |
 | `CA-S06` | ✅ | ✅ | ✅ | ✅ |
-| `CVTW-S01` | — | — | — | — |
-| `CVTW-S02` | — | — | — | — |
+| `CVTW-S01` | ✅ | ✅ | ✅ | ✅ |
+| `CVTW-S02` | ✅ | ✅ | ✅ | ✅ |
 | `CAS-S01` | — | — | — | — |
 
 ### Europe
@@ -183,7 +186,7 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | `ES-S03` | ✅ | ✅ | ✅ | ✅ |
 | `ES-S04` | ✅ | ✅ | ✅ | ✅ |
 | `ES-S05` | ✅ | ✅ | ✅ | ✅ |
-| `ESAS-S01` | — | — | — | — |
+| `ESAS-S01` | ✅ | ✅ | ✅ | ✅ |
 | `ESAS-S02` | — | — | — | — |
 | `FR-S01` | ✅ | ✅ | ✅ | ✅ |
 | `FR-S02` | ✅ | ✅ | ✅ | ✅ |
@@ -221,7 +224,7 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | `PH-S02` | ✅ | ✅ | ✅ | ✅ |
 | `PH-S03` | ✅ | ✅ | ✅ | ✅ |
 | `PH-S04` | — | — | — | — |
-| `PHSR-S01` | — | — | — | — |
+| `PHSR-S01` | ✅ | ✅ | ✅ | ✅ |
 | `GAS-S01` | ✅ | ✅ | ✅ | ✅ |
 | `DU-S01` | ✅ | ✅ | ✅ | ✅ |
 | `DU-S02` | ✅ | ✅ | ✅ | ✅ |

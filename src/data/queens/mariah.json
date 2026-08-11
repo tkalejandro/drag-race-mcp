@@ -2,7 +2,8 @@
   "id": "mariah",
   "name": "Mariah",
   "aliases": [
-    "Mariah Paris Balenciaga"
+    "Mariah Paris Balenciaga",
+    "Mariah Balenciaga"
   ],
   "appearances": [
     {
@@ -32,6 +33,28 @@
       "lipSyncWins": [],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S05-E03"
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S03-E05",
+          "name": "Star in two silent films"
+        },
+        {
+          "episodeId": "UKVTW-S03-E07",
+          "name": "Makeover Team GB Olympians into members of your drag family"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S03-E06",
+          "song": "Rasputin"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

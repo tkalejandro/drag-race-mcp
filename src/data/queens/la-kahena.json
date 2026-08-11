@@ -15,6 +15,20 @@
         }
       ],
       "eliminatedEpisodeId": "FR-S01-E01"
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S02-E01",
+          "song": "Meaningless"
+        }
+      ],
+      "eliminatedEpisodeId": "CVTW-S02-E01"
     }
   ]
 }

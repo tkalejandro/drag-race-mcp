@@ -6,15 +6,45 @@
       "seasonId": "UK-S01",
       "placement": 3,
       "challengeWins": [
-        { "episodeId": "UK-S01-E02", "name": "Downton Draggy acting challenge" },
-        { "episodeId": "UK-S01-E04", "name": "Snatch Game" },
-        { "episodeId": "UK-S01-E05", "name": "Write, record, and perform verses to Break Up (Bye Bye)" }
+        {
+          "episodeId": "UK-S01-E02",
+          "name": "Downton Draggy acting challenge"
+        },
+        {
+          "episodeId": "UK-S01-E04",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "UK-S01-E05",
+          "name": "Write, record, and perform verses to Break Up (Bye Bye)"
+        }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "UK-S01-E07", "song": "Tears Dry on Their Own" }
+        {
+          "episodeId": "UK-S01-E07",
+          "song": "Tears Dry on Their Own"
+        }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E04",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S01-E04",
+          "song": "Let It Go"
+        }
+      ]
     }
   ]
 }

@@ -29,6 +29,58 @@
           "song": "Touch Me (All Night Long)"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E03",
+          "name": "In teams of three, write and film a promotional video for Drag Race World"
+        },
+        {
+          "episodeId": "UKVTW-S02-E04",
+          "name": "Snatch Game: Family Edition"
+        },
+        {
+          "episodeId": "UKVTW-S02-E05",
+          "name": "Seven!: Confessions of a Drag Queen — The Rusical"
+        },
+        {
+          "episodeId": "UKVTW-S02-E07",
+          "name": "Write and deliver a wedding roast"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S02-E04",
+          "song": "Crying at the Discoteque"
+        },
+        {
+          "episodeId": "UKVTW-S02-E08",
+          "song": "Your Disco Needs You"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S02-E03",
+          "song": "Future Starts Now"
+        },
+        {
+          "episodeId": "UKVTW-S02-E05",
+          "song": "Fucking Wizardry"
+        },
+        {
+          "episodeId": "UKVTW-S02-E07",
+          "song": "Euphoria"
+        }
+      ]
     }
   ]
 }

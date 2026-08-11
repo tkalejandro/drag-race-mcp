@@ -1,0 +1,43 @@
+{
+  "id": "UKVTW-S03",
+  "franchise": "UKVTW",
+  "name": "RuPaul's Drag Race UK vs the World Series 3",
+  "seasonNumber": 3,
+  "year": 2026,
+  "episodeCount": 8,
+  "episodeIds": [
+    "UKVTW-S03-E01",
+    "UKVTW-S03-E02",
+    "UKVTW-S03-E03",
+    "UKVTW-S03-E04",
+    "UKVTW-S03-E05",
+    "UKVTW-S03-E06",
+    "UKVTW-S03-E07",
+    "UKVTW-S03-E08"
+  ],
+  "castIds": [
+    "gawdland",
+    "kate-butch",
+    "fontana",
+    "mariah",
+    "the-only-naomy",
+    "zahirah-zapanta",
+    "serena-morena",
+    "sminty-drop",
+    "minty-fresh",
+    "melinda-verga"
+  ],
+  "winnerId": "gawdland",
+  "runnerUpIds": ["kate-butch"],
+  "missCongenialityId": "serena-morena",
+  "porkchopId": "melinda-verga",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Alan Carr" },
+    { "name": "Graham Norton" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 50000, "currency": "GBP" }
+}

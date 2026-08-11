@@ -20,6 +20,21 @@
         }
       ],
       "eliminatedEpisodeId": "ES-S01-E04"
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "name": "Choose The Fairest, The Shadiest, The Mightiest, and The Neediest"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "UKVTW-S02-E02",
+      "missCongeniality": true
     }
   ]
 }

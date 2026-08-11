@@ -72,6 +72,33 @@
           "song": "Hallucinate"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E01",
+          "name": "Perform in a talent show"
+        },
+        {
+          "episodeId": "UKVTW-S01-E02",
+          "name": "The RuPaul Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S01-E01",
+          "song": "Say You'll Be There"
+        },
+        {
+          "episodeId": "UKVTW-S01-E02",
+          "song": "Supermodel (You Better Work) (El Lay Toya Jam)"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S01-E03"
     }
   ]
 }

@@ -68,6 +68,34 @@
           "song": "Stupid Love"
         }
       ]
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S01-E02",
+          "name": "Impersonate celebrities in the Snatch Summit"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CVTW-S01-E04",
+          "name": "Record Cameo-style personalized messages"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S01-E06",
+          "song": "River Deep – Mountain High"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S01-E02",
+          "song": "Sk8er Boi"
+        }
+      ]
     }
   ]
 }

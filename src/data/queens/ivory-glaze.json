@@ -20,6 +20,15 @@
         }
       ],
       "eliminatedEpisodeId": "DU-S03-E03"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PHSR-S01-E03"
     }
   ]
 }

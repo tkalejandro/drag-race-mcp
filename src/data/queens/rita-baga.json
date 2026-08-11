@@ -26,12 +26,49 @@
         }
       ],
       "lipSyncWins": [
-        { "episodeId": "CA-S01-E08", "song": "You Oughta Know" },
-        { "episodeId": "CA-S01-E09", "song": "Closer" }
+        {
+          "episodeId": "CA-S01-E08",
+          "song": "You Oughta Know"
+        },
+        {
+          "episodeId": "CA-S01-E09",
+          "song": "Closer"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E10", "song": "You're a Superstar" }
+        {
+          "episodeId": "CA-S01-E10",
+          "song": "You're a Superstar"
+        }
       ]
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S01-E01",
+          "name": "In groups of three, write and perform an original song for Bonjour, Hi"
+        },
+        {
+          "episodeId": "CVTW-S01-E05",
+          "name": "Act in the spoof Spy Queens"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S01-E05",
+          "song": "Freak"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S01-E01",
+          "song": "Brand New Bitch"
+        }
+      ],
+      "eliminatedEpisodeId": "CVTW-S01-E06"
     }
   ]
 }

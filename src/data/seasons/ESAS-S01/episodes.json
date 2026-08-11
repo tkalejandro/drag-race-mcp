@@ -1,0 +1,135 @@
+[
+  {
+    "id": "ESAS-S01-E01",
+    "seasonId": "ESAS-S01",
+    "episodeNumber": 1,
+    "title": "Supremme Eleganza Olé Stars Extravaganza",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": ["pupi-poisson"]
+    },
+    "maxiChallenge": {
+      "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show",
+      "winnerIds": ["drag-sethlas", "hornella-gongora"]
+    },
+    "topIds": ["drag-sethlas", "hornella-gongora"],
+    "bottomIds": ["onyx", "pink-chadora"],
+    "lipSync": {
+      "song": "Me gustas mucho",
+      "queenIds": ["drag-sethlas", "hornella-gongora"],
+      "winnerIds": ["drag-sethlas"],
+      "eliminatedIds": ["pink-chadora"],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [{ "name": "Bárbara Rey" }]
+  },
+  {
+    "id": "ESAS-S01-E02",
+    "seasonId": "ESAS-S01",
+    "episodeNumber": 2,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": ["drag-sethlas", "pupi-poisson"]
+    },
+    "runwayTheme": "Redención (Redemption)",
+    "topIds": ["drag-sethlas", "pupi-poisson"],
+    "bottomIds": ["onyx", "sagittaria"],
+    "lipSync": {
+      "song": "Nochentera",
+      "queenIds": ["drag-sethlas", "pupi-poisson"],
+      "winnerIds": ["pupi-poisson"],
+      "eliminatedIds": ["onyx"],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [{ "name": "Silvia Abril" }]
+  },
+  {
+    "id": "ESAS-S01-E03",
+    "seasonId": "ESAS-S01",
+    "episodeNumber": 3,
+    "title": "The Ball: Heaven, Hell, and Capital Sins",
+    "maxiChallenge": {
+      "name": "Walk the Deadly Sins Ball",
+      "winnerIds": ["drag-sethlas", "juriji-der-klee"]
+    },
+    "runwayTheme": "Cielo (Heaven) / Infierno (Hell) / Pecados Capitales (Deadly Sins)",
+    "topIds": ["drag-sethlas", "juriji-der-klee"],
+    "bottomIds": ["pakita", "pupi-poisson"],
+    "lipSync": {
+      "song": "Estoy llorando por ti",
+      "queenIds": ["drag-sethlas", "juriji-der-klee"],
+      "winnerIds": ["drag-sethlas"],
+      "eliminatedIds": ["pakita"],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [{ "name": "Laura Sánchez" }]
+  },
+  {
+    "id": "ESAS-S01-E04",
+    "seasonId": "ESAS-S01",
+    "episodeNumber": 4,
+    "title": "Girl Bands Battle",
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses as two girl groups for Superstar",
+      "winnerIds": ["juriji-der-klee", "samantha-ballentines"]
+    },
+    "runwayTheme": "Strass: Divina de la Muerte (Strass: Divine of Death)",
+    "topIds": ["juriji-der-klee", "samantha-ballentines"],
+    "bottomIds": ["hornella-gongora", "sagittaria"],
+    "lipSync": {
+      "song": "Mafiosa",
+      "queenIds": ["juriji-der-klee", "samantha-ballentines"],
+      "winnerIds": ["samantha-ballentines"],
+      "eliminatedIds": ["sagittaria"],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [{ "name": "Nathy Peluso" }]
+  },
+  {
+    "id": "ESAS-S01-E05",
+    "seasonId": "ESAS-S01",
+    "episodeNumber": 5,
+    "title": "The Hairdresser's Salon",
+    "maxiChallenge": {
+      "name": "Perform a roast of the judges panel and fellow contestants",
+      "winnerIds": ["drag-sethlas", "samantha-ballentines"]
+    },
+    "runwayTheme": "Martirizadas (Martir-ised)",
+    "topIds": ["drag-sethlas", "samantha-ballentines"],
+    "bottomIds": ["hornella-gongora", "juriji-der-klee", "pupi-poisson"],
+    "lipSync": {
+      "song": "La zarzamora",
+      "queenIds": ["drag-sethlas", "samantha-ballentines"],
+      "winnerIds": ["samantha-ballentines"],
+      "eliminatedIds": ["pupi-poisson"],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [{ "name": "Inés Hernand" }]
+  },
+  {
+    "id": "ESAS-S01-E06",
+    "seasonId": "ESAS-S01",
+    "episodeNumber": 6,
+    "title": "The Reunion"
+  },
+  {
+    "id": "ESAS-S01-E07",
+    "seasonId": "ESAS-S01",
+    "episodeNumber": 7,
+    "title": "Grand Finale",
+    "runwayTheme": "Olé Stars Eleganza",
+    "topIds": [
+      "drag-sethlas",
+      "hornella-gongora",
+      "juriji-der-klee",
+      "samantha-ballentines"
+    ],
+    "lipSync": {
+      "song": "Eloise",
+      "queenIds": ["drag-sethlas", "samantha-ballentines"],
+      "winnerIds": ["drag-sethlas"],
+      "kind": "for-the-crown"
+    }
+  }
+]

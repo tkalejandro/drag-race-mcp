@@ -33,6 +33,33 @@
           "song": "Mourir sur scène"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E01",
+          "name": "Perform in The Queen's Variety Show"
+        },
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "name": "The Happy Ending Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "song": "Everytime We Touch"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S02-E01",
+          "song": "Dreamer"
+        }
+      ]
     }
   ]
 }

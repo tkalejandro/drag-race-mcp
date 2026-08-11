@@ -1,0 +1,41 @@
+{
+  "id": "CVTW-S01",
+  "franchise": "CVTW",
+  "name": "Canada's Drag Race vs The World Season 1",
+  "seasonNumber": 1,
+  "year": 2022,
+  "episodeCount": 6,
+  "episodeIds": [
+    "CVTW-S01-E01",
+    "CVTW-S01-E02",
+    "CVTW-S01-E03",
+    "CVTW-S01-E04",
+    "CVTW-S01-E05",
+    "CVTW-S01-E06"
+  ],
+  "castIds": [
+    "ra-jah-ohara",
+    "silky-nutmeg-ganache",
+    "rita-baga",
+    "victoria-scone",
+    "vanity-milan",
+    "icesis-couture",
+    "anita-wiglit",
+    "stephanie-prince",
+    "kendall-gender"
+  ],
+  "winnerId": "ra-jah-ohara",
+  "runnerUpIds": ["silky-nutmeg-ganache"],
+  "missCongenialityId": "anita-wiglit",
+  "porkchopId": "kendall-gender",
+  "hosts": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }
+  ],
+  "judges": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
+    { "name": "Brad Goreski" },
+    { "name": "Traci Melchor" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "CAD" }
+}

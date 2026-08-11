@@ -1,0 +1,75 @@
+[
+  {
+    "id": "ukvtw-s02-tia-crown",
+    "title": "Tia Kofi crowned Queen of the Mothertucking World",
+    "summary": "In the Grand Finale (UKVTW-S02-E08), Hannah Conda beat Marina Summers to Anastacia's \"I'm Outta Love\", Tia Kofi beat La Grande Dame to Booty Luv's \"Boogie 2nite\", and Tia beat Hannah to Kylie Minogue's \"Your Disco Needs You\". Tia, previously seventh on UK Series 2, won £50,000 GBP and the title Queen of the Mothertucking World.",
+    "tags": ["crown", "finale", "lip-sync", "vs-the-world", "international", "crossover"],
+    "queenIds": [
+      "tia-kofi",
+      "hannah-conda",
+      "la-grande-dame",
+      "marina-summers"
+    ],
+    "seasonIds": ["UKVTW-S02", "UK-S02"],
+    "episodeIds": ["UKVTW-S02-E08"]
+  },
+  {
+    "id": "ukvtw-s02-cash-prize",
+    "title": "£50,000 cash prize arrives for Series 2",
+    "summary": "Unlike Series 1 (crown, sceptre, and a Hollywood recording trip but no cash), UK vs the World Series 2 confirmed a £50,000 GBP cash prize alongside the Queen of the Mothertucking World title — the first cash purse in the franchise.",
+    "tags": ["production", "vs-the-world", "crown"],
+    "queenIds": ["tia-kofi", "blu-hydrangea"],
+    "seasonIds": ["UKVTW-S02", "UKVTW-S01"],
+    "episodeIds": ["UKVTW-S02-E08"]
+  },
+  {
+    "id": "ukvtw-s02-mayhem-porkchop",
+    "title": "Mayhem Miller: Series 2 porkchop",
+    "summary": "Mayhem Miller, previously of US Season 10 and All Stars 5, was the first queen eliminated on UKVTW-S02-E01. After La Grande Dame and Marina Summers won The Queen's Variety Show, Marina won the Lip Sync for the World to Livin' Joy's \"Dreamer\" and sent Mayhem home.",
+    "tags": ["porkchop", "lip-sync", "vs-the-world", "crossover"],
+    "queenIds": ["mayhem-miller", "marina-summers", "la-grande-dame"],
+    "seasonIds": ["UKVTW-S02", "US-S10", "AS-S05"],
+    "episodeIds": ["UKVTW-S02-E01"]
+  },
+  {
+    "id": "ukvtw-s02-arantxa-miss-c",
+    "title": "Arantxa Castilla-La Mancha voted Miss Congeniality",
+    "summary": "España Season 1 alumna Arantxa Castilla-La Mancha was voted Miss Congeniality by her fellow contestants at the Series 2 finale after being eliminated in The Happy Ending Ball (UKVTW-S02-E02), when La Grande Dame won the Lip Sync for the World to Cascada's \"Everytime We Touch\".",
+    "tags": ["fan-favorite", "finale", "international", "crossover"],
+    "queenIds": ["arantxa-castilla-la-mancha", "la-grande-dame"],
+    "seasonIds": ["UKVTW-S02", "ES-S01"],
+    "episodeIds": ["UKVTW-S02-E02", "UKVTW-S02-E08"]
+  },
+  {
+    "id": "ukvtw-s02-marina-lip-syncs",
+    "title": "Marina Summers' Lip Sync for the World run",
+    "summary": "Philippines Season 1 runner-up Marina Summers won three Lip Syncs for the World on Series 2 — \"Dreamer\" (E01), \"Fucking Wizardry\" (E05), and \"Release Me\" (E06) — before falling to Hannah Conda in the finale smackdown opening round.",
+    "tags": ["lip-sync", "vs-the-world", "international", "crossover"],
+    "queenIds": ["marina-summers", "hannah-conda"],
+    "seasonIds": ["UKVTW-S02", "PH-S01"],
+    "episodeIds": [
+      "UKVTW-S02-E01",
+      "UKVTW-S02-E05",
+      "UKVTW-S02-E06",
+      "UKVTW-S02-E08"
+    ]
+  },
+  {
+    "id": "ukvtw-s02-hannah-du-return",
+    "title": "Hannah Conda returns from Down Under",
+    "summary": "Down Under Season 2 runner-up Hannah Conda reached another international finale on UKVTW-S02, winning the Haters Wedding Roast Lip Sync for the World to Loreen's \"Euphoria\" (E07) before finishing as runner-up to Tia Kofi.",
+    "tags": ["crossover", "vs-the-world", "international", "finale"],
+    "queenIds": ["hannah-conda", "tia-kofi"],
+    "seasonIds": ["UKVTW-S02", "DU-S02"],
+    "episodeIds": ["UKVTW-S02-E07", "UKVTW-S02-E08"]
+  },
+  {
+    "id": "ukvtw-s02-blu-passes-sceptre",
+    "title": "Blu Hydrangea returns to pass the sceptre",
+    "summary": "Series 1 winner Blu Hydrangea returned as a special guest at the UKVTW-S02 Grand Finale to pass the crown and sceptre to Tia Kofi after Tia's Lip Sync Smackdown win over Hannah Conda.",
+    "tags": ["crown", "finale", "vs-the-world", "return"],
+    "queenIds": ["blu-hydrangea", "tia-kofi", "hannah-conda"],
+    "seasonIds": ["UKVTW-S02", "UKVTW-S01"],
+    "episodeIds": ["UKVTW-S02-E08"]
+  }
+]

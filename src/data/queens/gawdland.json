@@ -28,6 +28,37 @@
       "lipSyncWins": [],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "TH-S03-E10"
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S03-E01",
+          "name": "Perform an original song at the RuRuvision Song Contest"
+        },
+        {
+          "episodeId": "UKVTW-S03-E02",
+          "name": "Present RuDemption and The RuMix looks, reworking another queen's outfit"
+        },
+        {
+          "episodeId": "UKVTW-S03-E03",
+          "name": "Miss Snatch Game Pageant"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S03-E08",
+          "song": "What Do I Have to Do"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S03-E01",
+          "song": "Tattoo"
+        }
+      ]
     }
   ]
 }

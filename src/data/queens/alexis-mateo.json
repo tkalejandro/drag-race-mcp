@@ -78,6 +78,34 @@
       "lipSyncWins": [],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S05-E06"
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S02-E03",
+          "name": "The Glamorous Drag Queen Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CVTW-S02-E03",
+          "name": "Participate in a motion capture film audition"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S02-E05",
+          "song": "How Far I'll Go (Alessia Cara Version)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S02-E06",
+          "song": "Love Can Move Mountains"
+        }
+      ]
     }
   ]
 }

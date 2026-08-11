@@ -8,10 +8,25 @@
       "challengeWins": [],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "UK-S04-E02", "song": "About You Now" },
-        { "episodeId": "UK-S04-E08", "song": "Some Kinda Rush" }
+        {
+          "episodeId": "UK-S04-E02",
+          "song": "About You Now"
+        },
+        {
+          "episodeId": "UK-S04-E08",
+          "song": "Some Kinda Rush"
+        }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "UKVTW-S02-E03"
     }
   ]
 }

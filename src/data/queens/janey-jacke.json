@@ -33,6 +33,34 @@
           "song": "Born This Way"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E02",
+          "name": "The RuPaul Ball"
+        },
+        {
+          "episodeId": "UKVTW-S01-E03",
+          "name": "West End Wendys — The Rusical"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S01-E02",
+          "song": "Supermodel (You Better Work) (El Lay Toya Jam)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S01-E03",
+          "song": "We Like to Party! (The Vengabus)"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S01-E05"
     }
   ]
 }

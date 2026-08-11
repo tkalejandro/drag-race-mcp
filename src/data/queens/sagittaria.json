@@ -28,6 +28,15 @@
           "song": "La gata bajo la lluvia"
         }
       ]
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ESAS-S01-E04"
     }
   ]
 }

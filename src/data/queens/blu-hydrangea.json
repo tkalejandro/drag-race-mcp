@@ -7,15 +7,46 @@
       "placement": 5,
       "eliminatedEpisodeId": "UK-S01-E06",
       "challengeWins": [
-        { "episodeId": "UK-S01-E05", "name": "Write, record, and perform verses to Break Up (Bye Bye)" }
+        {
+          "episodeId": "UK-S01-E05",
+          "name": "Write, record, and perform verses to Break Up (Bye Bye)"
+        }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "UK-S01-E02", "song": "Venus" }
+        {
+          "episodeId": "UK-S01-E02",
+          "song": "Venus"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "UK-S01-E06", "song": "Call My Name (Wideboys Remix)" }
+        {
+          "episodeId": "UK-S01-E06",
+          "song": "Call My Name (Wideboys Remix)"
+        }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E04",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S01-E04",
+          "song": "Let It Go"
+        },
+        {
+          "episodeId": "UKVTW-S01-E06",
+          "song": "Supernova"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

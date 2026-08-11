@@ -17,6 +17,7 @@ export const FranchiseCode = {
   US: "US",
   AS: "AS",
   UK: "UK",
+  UKVTW: "UKVTW",
   DE: "DE",
   FR: "FR",
   NL: "NL",
@@ -61,7 +62,7 @@ export type FranchiseRegion =
 
 export const FRANCHISE_REGION_CODES = {
   us: [FranchiseCode.US, FranchiseCode.AS],
-  uk: [FranchiseCode.UK],
+  uk: [FranchiseCode.UK, FranchiseCode.UKVTW],
   canada: [FranchiseCode.CA, FranchiseCode.CVTW, FranchiseCode.CAS],
   europe: [
     FranchiseCode.DE,
@@ -89,6 +90,7 @@ export const FRANCHISE_LABEL = {
   US: "RuPaul's Drag Race (US)",
   AS: "RuPaul's Drag Race All Stars",
   UK: "RuPaul's Drag Race UK",
+  UKVTW: "RuPaul's Drag Race UK vs the World",
   DE: "Drag Race Germany",
   FR: "Drag Race France",
   NL: "Drag Race Holland",
@@ -154,6 +156,10 @@ export const SeasonId = {
   UK_S05: "UK-S05",
   UK_S06: "UK-S06",
   UK_S07: "UK-S07",
+
+  UKVTW_S01: "UKVTW-S01",
+  UKVTW_S02: "UKVTW-S02",
+  UKVTW_S03: "UKVTW-S03",
 
   DE_S01: "DE-S01",
 

@@ -40,6 +40,54 @@
           "song": "Wow"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E04",
+          "name": "Snatch Game: Family Edition"
+        },
+        {
+          "episodeId": "UKVTW-S02-E06",
+          "name": "Dance in pairs in half-and-half drag"
+        },
+        {
+          "episodeId": "UKVTW-S02-E07",
+          "name": "Write and deliver a wedding roast"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "name": "Choose The Fairest, The Shadiest, The Mightiest, and The Neediest"
+        },
+        {
+          "episodeId": "UKVTW-S02-E07",
+          "name": "Hen party dance-off"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S02-E07",
+          "song": "Euphoria"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S02-E04",
+          "song": "Crying at the Discoteque"
+        },
+        {
+          "episodeId": "UKVTW-S02-E06",
+          "song": "Release Me"
+        },
+        {
+          "episodeId": "UKVTW-S02-E08",
+          "song": "Your Disco Needs You"
+        }
+      ]
     }
   ]
 }

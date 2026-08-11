@@ -34,6 +34,30 @@
       ],
       "eliminatedEpisodeId": "ES-S01-E07",
       "missCongeniality": true
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E02",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ESAS-S01-E02",
+          "song": "Nochentera"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ESAS-S01-E05"
     }
   ]
 }

@@ -33,6 +33,18 @@
       ],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "PH-S02-E10"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PHSR-S01-E05"
     }
+  ],
+  "aliases": [
+    "Bernie Barrantes"
   ]
 }

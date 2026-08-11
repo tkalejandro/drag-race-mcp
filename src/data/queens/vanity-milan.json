@@ -33,6 +33,25 @@
           "song": "Hallucinate"
         }
       ]
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S01-E01",
+          "name": "In groups of three, write and perform an original song for Bonjour, Hi"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S01-E01",
+          "song": "Brand New Bitch"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "CVTW-S01-E05"
     }
   ]
 }

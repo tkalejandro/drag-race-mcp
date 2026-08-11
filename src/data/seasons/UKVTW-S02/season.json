@@ -1,0 +1,44 @@
+{
+  "id": "UKVTW-S02",
+  "franchise": "UKVTW",
+  "name": "RuPaul's Drag Race UK vs the World Series 2",
+  "seasonNumber": 2,
+  "year": 2024,
+  "episodeCount": 8,
+  "episodeIds": [
+    "UKVTW-S02-E01",
+    "UKVTW-S02-E02",
+    "UKVTW-S02-E03",
+    "UKVTW-S02-E04",
+    "UKVTW-S02-E05",
+    "UKVTW-S02-E06",
+    "UKVTW-S02-E07",
+    "UKVTW-S02-E08"
+  ],
+  "castIds": [
+    "tia-kofi",
+    "hannah-conda",
+    "la-grande-dame",
+    "marina-summers",
+    "scarlet-envy",
+    "choriza-may",
+    "gothy-kendoll",
+    "keta-minaj",
+    "jonbers-blonde",
+    "arantxa-castilla-la-mancha",
+    "mayhem-miller"
+  ],
+  "winnerId": "tia-kofi",
+  "runnerUpIds": ["hannah-conda"],
+  "missCongenialityId": "arantxa-castilla-la-mancha",
+  "porkchopId": "mayhem-miller",
+  "hosts": [{ "name": "RuPaul" }],
+  "judges": [
+    { "name": "RuPaul" },
+    { "name": "Michelle Visage" },
+    { "name": "Alan Carr" },
+    { "name": "Graham Norton" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 50000, "currency": "GBP" }
+}

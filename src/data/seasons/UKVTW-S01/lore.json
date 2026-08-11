@@ -1,0 +1,81 @@
+[
+  {
+    "id": "ukvtw-s01-blu-crown",
+    "title": "Blu Hydrangea crowned first Queen of the Mothertucking World",
+    "summary": "In the Grand Finale (UKVTW-S01-E06), the final four competed in a Lip Sync Smackdown for the Crown. Mo Heart beat Baga Chipz to Jessie J's \"Domino\", Blu Hydrangea beat Jujubee to Duran Duran's \"The Reflex\", and Blu beat Mo Heart to Kylie Minogue's \"Supernova\". Blu, previously fifth on UK Series 1, won the crown and sceptre as the first Queen of the Mothertucking World (no cash prize that series).",
+    "tags": ["crown", "finale", "lip-sync", "vs-the-world", "international", "crossover"],
+    "queenIds": [
+      "blu-hydrangea",
+      "monique-heart",
+      "baga-chipz",
+      "jujubee"
+    ],
+    "seasonIds": ["UKVTW-S01", "UK-S01"],
+    "episodeIds": ["UKVTW-S01-E06"]
+  },
+  {
+    "id": "ukvtw-s01-lemon-porkchop",
+    "title": "Lemon: UK vs the World series 1 porkchop",
+    "summary": "Lemon, a Canada's Drag Race Season 1 alumna, was the first queen eliminated on UK vs the World Series 1 (UKVTW-S01-E01). After Jimbo and Pangina Heals won the talent show, Pangina won the Lip Sync for the World to the Spice Girls' \"Say You'll Be There\" and sent Lemon home.",
+    "tags": ["porkchop", "lip-sync", "vs-the-world", "crossover"],
+    "queenIds": ["lemon", "pangina-heals", "jimbo"],
+    "seasonIds": ["UKVTW-S01", "CA-S01"],
+    "episodeIds": ["UKVTW-S01-E01"]
+  },
+  {
+    "id": "ukvtw-s01-lip-sync-for-the-world",
+    "title": "Lip Sync for the World format debuts",
+    "summary": "UK vs the World Series 1 introduced a Top 2 Lip Sync for the World: both challenge winners lipsynced, and the winner chose which bottom queen to eliminate. Weekly Lip Sync for the World winners were Pangina Heals (E01, E03), Janey Jacké (E02), Blu Hydrangea (E04), and Jujubee (E05).",
+    "tags": ["twist", "lip-sync", "production", "vs-the-world"],
+    "queenIds": [
+      "pangina-heals",
+      "janey-jacke",
+      "blu-hydrangea",
+      "jujubee"
+    ],
+    "seasonIds": ["UKVTW-S01"],
+    "episodeIds": [
+      "UKVTW-S01-E01",
+      "UKVTW-S01-E02",
+      "UKVTW-S01-E03",
+      "UKVTW-S01-E04",
+      "UKVTW-S01-E05"
+    ]
+  },
+  {
+    "id": "ukvtw-s01-pangina-debut",
+    "title": "Pangina Heals competes after hosting Thailand",
+    "summary": "Pangina Heals, co-host of Drag Race Thailand, competed as a contestant for the first time on UKVTW-S01. She won two Lip Syncs for the World (talent show and West End Wendys) before Blu Hydrangea eliminated her after Snatch Game (UKVTW-S01-E04).",
+    "tags": ["crossover", "vs-the-world", "international", "iconic"],
+    "queenIds": ["pangina-heals", "blu-hydrangea"],
+    "seasonIds": ["UKVTW-S01", "TH-S01", "TH-S02"],
+    "episodeIds": ["UKVTW-S01-E01", "UKVTW-S01-E03", "UKVTW-S01-E04"]
+  },
+  {
+    "id": "ukvtw-s01-uk-s01-reunion",
+    "title": "UK Series 1 reunion: Blu, Baga, and Cheryl",
+    "summary": "Three UK Series 1 alumnae — Blu Hydrangea, Baga Chipz, and Cheryl Hole — returned together on UK vs the World Series 1. Blu won the season, Baga reached the finale smackdown, and Cheryl was eliminated in The RuPaul Ball (UKVTW-S01-E02) when Janey Jacké won the Lip Sync for the World.",
+    "tags": ["crossover", "vs-the-world", "return", "sisterhood"],
+    "queenIds": ["blu-hydrangea", "baga-chipz", "cheryl-hole", "janey-jacke"],
+    "seasonIds": ["UKVTW-S01", "UK-S01"],
+    "episodeIds": ["UKVTW-S01-E02", "UKVTW-S01-E06"]
+  },
+  {
+    "id": "ukvtw-s01-mo-heart-name",
+    "title": "Monique Heart competes as Mo Heart",
+    "summary": "US Season 10 and All Stars 4 alumna Monique Heart competed on UKVTW-S01 under the name Mo Heart, which she announced during the season. She reached the finale Lip Sync for the Crown against Blu Hydrangea and finished as runner-up.",
+    "tags": ["crossover", "vs-the-world", "international", "finale"],
+    "queenIds": ["monique-heart", "blu-hydrangea"],
+    "seasonIds": ["UKVTW-S01", "US-S10", "AS-S04"],
+    "episodeIds": ["UKVTW-S01-E06"]
+  },
+  {
+    "id": "ukvtw-s01-janey-holland",
+    "title": "Janey Jacké brings Holland to the werkroom",
+    "summary": "Holland Season 1 runner-up Janey Jacké won The RuPaul Ball Lip Sync for the World (UKVTW-S01-E02) and was Top 2 again on West End Wendys before Jujubee eliminated her in the London girl-group semifinals (UKVTW-S01-E05).",
+    "tags": ["crossover", "vs-the-world", "international", "lip-sync"],
+    "queenIds": ["janey-jacke", "jujubee"],
+    "seasonIds": ["UKVTW-S01", "NL-S01"],
+    "episodeIds": ["UKVTW-S01-E02", "UKVTW-S01-E05"]
+  }
+]

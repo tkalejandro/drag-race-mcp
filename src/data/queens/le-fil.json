@@ -15,8 +15,25 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S04-E06", "song": "Stop" }
+        {
+          "episodeId": "UK-S04-E06",
+          "song": "Stop"
+        }
       ]
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S02-E02",
+          "song": "Let Me Think About It"
+        }
+      ],
+      "eliminatedEpisodeId": "CVTW-S02-E02"
     }
   ]
 }

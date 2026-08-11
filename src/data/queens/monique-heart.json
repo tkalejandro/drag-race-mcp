@@ -63,6 +63,31 @@
           "song": "When I Think of You"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E05",
+          "name": "Write, record and perform verses to RuPaul's song London"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S01-E05",
+          "song": "Toy"
+        },
+        {
+          "episodeId": "UKVTW-S01-E06",
+          "song": "Supernova"
+        }
+      ]
     }
+  ],
+  "aliases": [
+    "Mo Heart"
   ]
 }

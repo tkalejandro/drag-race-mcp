@@ -20,6 +20,32 @@
         }
       ],
       "eliminatedEpisodeId": "ES-S02-E08"
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E03",
+          "name": "Walk the Deadly Sins Ball"
+        },
+        {
+          "episodeId": "ESAS-S01-E04",
+          "name": "Write, record, and perform verses as two girl groups for Superstar"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ESAS-S01-E03",
+          "song": "Estoy llorando por ti"
+        },
+        {
+          "episodeId": "ESAS-S01-E04",
+          "song": "Mafiosa"
+        }
+      ]
     }
   ]
 }

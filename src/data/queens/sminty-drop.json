@@ -8,12 +8,32 @@
       "eliminatedEpisodeId": "UK-S04-E04",
       "challengeWins": [],
       "miniChallengeWins": [
-        { "episodeId": "UK-S04-E03", "name": "Naff-ta Awards" }
+        {
+          "episodeId": "UK-S04-E03",
+          "name": "Naff-ta Awards"
+        }
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S04-E04", "song": "Respectable" }
+        {
+          "episodeId": "UK-S04-E04",
+          "song": "Respectable"
+        }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S03-E04",
+          "song": "I Heard a Rumour"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S03-E04"
     }
   ]
 }

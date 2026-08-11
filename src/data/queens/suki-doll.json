@@ -21,6 +21,29 @@
       ],
       "eliminatedEpisodeId": "CA-S02-E04",
       "missCongeniality": true
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "PHSR-S01-E05",
+          "name": "In pairs, makeover Overseas Filipino Workers"
+        },
+        {
+          "episodeId": "PHSR-S01-E08",
+          "name": "Design and present a booth for DragCon Slaysia"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PHSR-S01-E05",
+          "song": "Room"
+        }
+      ],
+      "missCongeniality": true
     }
   ]
 }

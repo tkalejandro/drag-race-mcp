@@ -20,6 +20,49 @@
         }
       ],
       "eliminatedEpisodeId": "PH-S01-E07"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "PHSR-S01-E02",
+          "name": "Write, record, and perform verses to Asian Eyyy!"
+        },
+        {
+          "episodeId": "PHSR-S01-E03",
+          "name": "Create an outfit made out of fossilized cacao leaves"
+        },
+        {
+          "episodeId": "PHSR-S01-E06",
+          "name": "Impersonate celebrities in the Snatch Election for Drag President of the Slaysian Nation"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PHSR-S01-E02",
+          "song": "XL"
+        },
+        {
+          "episodeId": "PHSR-S01-E03",
+          "song": "Winna Winna"
+        },
+        {
+          "episodeId": "PHSR-S01-E08",
+          "song": "Race Car"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PHSR-S01-E06",
+          "song": "Out of My Head"
+        },
+        {
+          "episodeId": "PHSR-S01-E10",
+          "song": "Born to Do Drag"
+        }
+      ]
     }
   ]
 }

@@ -44,6 +44,25 @@
         }
       ],
       "eliminatedEpisodeId": "AS-S06-E05"
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E03",
+          "name": "In teams of three, write and film a promotional video for Drag Race World"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S02-E03",
+          "song": "Future Starts Now"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "UKVTW-S02-E07"
     }
   ]
 }

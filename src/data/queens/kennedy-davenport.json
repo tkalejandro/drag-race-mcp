@@ -97,6 +97,24 @@
         }
       ],
       "eliminatedEpisodeId": "AS-S11-E10"
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S02-E02",
+          "name": "Improvise in the reality TV spoof The Hole"
+        },
+        {
+          "episodeId": "CVTW-S02-E04",
+          "name": "Reading Battles stand-up"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "CVTW-S02-E06"
     }
   ]
 }

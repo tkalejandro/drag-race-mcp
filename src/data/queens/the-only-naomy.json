@@ -15,6 +15,30 @@
         }
       ],
       "eliminatedEpisodeId": "DE-S01-E03"
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UKVTW-S03-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S03-E02",
+          "song": "I Begin to Wonder"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S03-E07",
+          "song": "Left Outside Alone"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S03-E07"
     }
   ]
 }

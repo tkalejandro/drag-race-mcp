@@ -82,6 +82,29 @@
           "song": "Make Me Feel"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E05",
+          "name": "Write, record and perform verses to RuPaul's song London"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E03",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S01-E05",
+          "song": "Toy"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

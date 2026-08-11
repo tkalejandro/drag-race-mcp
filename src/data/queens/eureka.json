@@ -82,6 +82,26 @@
         }
       ],
       "reentered": true
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S02-E01",
+          "song": "Meaningless"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S02-E04",
+          "song": "Hush Hush; Hush Hush"
+        }
+      ],
+      "eliminatedEpisodeId": "CVTW-S02-E04",
+      "missCongeniality": true
     }
   ],
   "aliases": [

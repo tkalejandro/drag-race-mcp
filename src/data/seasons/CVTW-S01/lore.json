@@ -1,0 +1,91 @@
+[
+  {
+    "id": "cvtw-s01-ra-jah-crown",
+    "title": "Ra'Jah O'Hara crowned Queen of the Motherpucking World",
+    "summary": "In the Grand Finale (CVTW-S01-E06), the final four competed in a Lip Sync Smackdown for the Crown. Ra'Jah O'Hara beat Victoria Scone to \"Do It\", Silky Nutmeg Ganache beat Rita Baga to \"Broken Bones\", and Ra'Jah beat Silky to Celine Dion's \"River Deep – Mountain High\". Ra'Jah won $100,000 CAD and the title Queen of the Motherpucking World after previously competing on US Season 11 and All Stars 6.",
+    "tags": ["crown", "finale", "lip-sync", "vs-the-world", "international", "crossover"],
+    "queenIds": [
+      "ra-jah-ohara",
+      "silky-nutmeg-ganache",
+      "rita-baga",
+      "victoria-scone"
+    ],
+    "seasonIds": ["CVTW-S01", "US-S11", "AS-S06"],
+    "episodeIds": ["CVTW-S01-E06"]
+  },
+  {
+    "id": "cvtw-s01-kendall-porkchop",
+    "title": "Kendall Gender: Canada vs the World porkchop",
+    "summary": "Kendall Gender, a runner-up on Canada's Drag Race Season 2, was the first queen eliminated on Canada vs the World Season 1 (CVTW-S01-E01). After Rita Baga and Vanity Milan won the Bonjour, Hi girl-group challenge, Vanity won the Lip Sync for the World to Anjulie's \"Brand New Bitch\" and sent Kendall home.",
+    "tags": ["porkchop", "lip-sync", "vs-the-world", "crossover"],
+    "queenIds": ["kendall-gender", "vanity-milan", "rita-baga"],
+    "seasonIds": ["CVTW-S01", "CA-S02"],
+    "episodeIds": ["CVTW-S01-E01"]
+  },
+  {
+    "id": "cvtw-s01-lip-sync-for-the-world",
+    "title": "Lip Sync for the World format",
+    "summary": "Canada vs the World Season 1 used a Top 2 Lip Sync for the World: both challenge winners lipsynced, and the winner chose which bottom queen to eliminate. Weekly winners included Vanity Milan (E01), Icesis Couture (E02), Silky Nutmeg Ganache (E03), Victoria Scone (E04, no elimination), and Rita Baga (E05).",
+    "tags": ["twist", "lip-sync", "production", "vs-the-world"],
+    "queenIds": [
+      "vanity-milan",
+      "icesis-couture",
+      "silky-nutmeg-ganache",
+      "victoria-scone",
+      "rita-baga"
+    ],
+    "seasonIds": ["CVTW-S01"],
+    "episodeIds": [
+      "CVTW-S01-E01",
+      "CVTW-S01-E02",
+      "CVTW-S01-E03",
+      "CVTW-S01-E04",
+      "CVTW-S01-E05"
+    ]
+  },
+  {
+    "id": "cvtw-s01-icesis-quit",
+    "title": "Icesis Couture leaves Comedy Queens",
+    "summary": "Before the Comedy Queens maxi challenge in CVTW-S01-E04, Canada's Drag Race Season 2 winner Icesis Couture quit the competition citing mental health, leaving six queens. Victoria Scone still won that week's Lip Sync for the World to Toronto's \"Your Daddy Don't Know\", but production announced no elimination.",
+    "tags": ["quit", "heartbreak", "double-shantay", "vs-the-world", "crossover"],
+    "queenIds": ["icesis-couture", "victoria-scone"],
+    "seasonIds": ["CVTW-S01", "CA-S02"],
+    "episodeIds": ["CVTW-S01-E04"]
+  },
+  {
+    "id": "cvtw-s01-anita-miss-c",
+    "title": "Anita Wigl'it voted Miss Congeniality",
+    "summary": "Anita Wigl'it, previously of Down Under Season 1, was voted Miss Congeniality on the official Canada's Drag Race Instagram after the season aired. She had been eliminated in CVTW-S01-E03 when Silky Nutmeg Ganache won the Weather Ball Lip Sync for the World to Deborah Cox's \"Nobody's Supposed to Be Here (Hex Hector Dance Mix)\".",
+    "tags": ["fan-favorite", "finale", "international", "crossover"],
+    "queenIds": ["anita-wiglit", "silky-nutmeg-ganache"],
+    "seasonIds": ["CVTW-S01", "DU-S01"],
+    "episodeIds": ["CVTW-S01-E03", "CVTW-S01-E06"]
+  },
+  {
+    "id": "cvtw-s01-us11-reunion",
+    "title": "Ra'Jah and Silky reunite from US Season 11",
+    "summary": "Ra'Jah O'Hara and Silky Nutmeg Ganache both returned from RuPaul's Drag Race Season 11 (and later All Stars 6) to compete on Canada vs the World Season 1. They met again in the finale Lip Sync Smackdown for the Crown, where Ra'Jah won the season and Silky finished as runner-up.",
+    "tags": ["crossover", "vs-the-world", "all-stars", "sisterhood", "international"],
+    "queenIds": ["ra-jah-ohara", "silky-nutmeg-ganache"],
+    "seasonIds": ["CVTW-S01", "US-S11", "AS-S06"],
+    "episodeIds": ["CVTW-S01-E06"]
+  },
+  {
+    "id": "cvtw-s01-uk-s03-returnees",
+    "title": "Victoria Scone and Vanity Milan return from UK Series 3",
+    "summary": "UK Series 3 alumnae Victoria Scone (who had withdrawn mid-season after a knee injury) and Vanity Milan both competed on Canada vs the World Season 1. Victoria reached the finale smackdown; Vanity was eliminated in Spy Queens (CVTW-S01-E05) after Rita Baga won the Lip Sync for the World to \"Freak\".",
+    "tags": ["crossover", "vs-the-world", "international", "return"],
+    "queenIds": ["victoria-scone", "vanity-milan", "rita-baga"],
+    "seasonIds": ["CVTW-S01", "UK-S03"],
+    "episodeIds": ["CVTW-S01-E05", "CVTW-S01-E06"]
+  },
+  {
+    "id": "cvtw-s01-trudeau-visit",
+    "title": "Justin Trudeau visits Snatch Summit",
+    "summary": "During CVTW-S01-E02, Canadian Prime Minister Justin Trudeau made a special workroom visit — widely noted as a first for a sitting world leader on Drag Race — before the Snatch Summit celebrity impersonation challenge and Celestial Bodies runway.",
+    "tags": ["iconic", "production", "judges", "vs-the-world"],
+    "queenIds": [],
+    "seasonIds": ["CVTW-S01"],
+    "episodeIds": ["CVTW-S01-E02"]
+  }
+]

@@ -20,6 +20,24 @@
       ],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "ES-S03-E11"
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "song": "Me gustas mucho"
+        }
+      ]
     }
   ]
 }

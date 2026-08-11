@@ -28,6 +28,25 @@
         }
       ],
       "eliminatedEpisodeId": "NL-S02-E07"
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "name": "The Happy Ending Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "song": "Everytime We Touch"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S02-E04"
     }
   ]
 }

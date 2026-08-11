@@ -24,6 +24,21 @@
         }
       ],
       "eliminatedEpisodeId": "DU-S01-E04"
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CVTW-S01-E02",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "CVTW-S01-E03",
+      "missCongeniality": true
     }
   ]
 }

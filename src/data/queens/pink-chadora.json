@@ -24,6 +24,15 @@
         }
       ],
       "eliminatedEpisodeId": "ES-S03-E07"
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ESAS-S01-E01"
     }
   ]
 }

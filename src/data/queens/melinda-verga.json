@@ -29,6 +29,20 @@
           "song": "I Didn't Just Come Here to Dance"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S03-E02",
+          "song": "I Begin to Wonder"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S03-E02"
     }
   ]
 }

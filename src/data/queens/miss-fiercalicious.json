@@ -23,6 +23,30 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CVTW-S02-E04",
+          "name": "Lip sync to Just What They Want while being blasted by a high-powered fan"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S02-E04",
+          "song": "Hush Hush; Hush Hush"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S02-E05",
+          "song": "How Far I'll Go (Alessia Cara Version)"
+        }
+      ],
+      "eliminatedEpisodeId": "CVTW-S02-E05"
     }
   ]
 }

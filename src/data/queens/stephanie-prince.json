@@ -15,6 +15,15 @@
         }
       ],
       "eliminatedEpisodeId": "CA-S02-E03"
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "CVTW-S01-E02"
     }
   ]
 }

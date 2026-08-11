@@ -1,0 +1,45 @@
+{
+  "id": "PHSR-S01",
+  "franchise": "PHSR",
+  "name": "Drag Race Philippines: Slaysian Royale Season 1",
+  "seasonNumber": 1,
+  "year": 2025,
+  "episodeCount": 10,
+  "episodeIds": [
+    "PHSR-S01-E01",
+    "PHSR-S01-E02",
+    "PHSR-S01-E03",
+    "PHSR-S01-E04",
+    "PHSR-S01-E05",
+    "PHSR-S01-E06",
+    "PHSR-S01-E07",
+    "PHSR-S01-E08",
+    "PHSR-S01-E09",
+    "PHSR-S01-E10"
+  ],
+  "castIds": [
+    "brigiding",
+    "vinas-deluxe",
+    "arizona-brandy",
+    "suki-doll",
+    "khianna",
+    "yuhua-hamasaki",
+    "siam-phusri",
+    "bernie",
+    "kitty-space",
+    "ivory-glaze",
+    "sum-ting-wong",
+    "madame-yoko"
+  ],
+  "winnerId": "brigiding",
+  "runnerUpIds": ["vinas-deluxe"],
+  "missCongenialityId": "suki-doll",
+  "porkchopId": "madame-yoko",
+  "hosts": [{ "name": "Paolo Ballesteros" }],
+  "judges": [
+    { "name": "Paolo Ballesteros" },
+    { "name": "KaladKaren" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 2000000, "currency": "PHP" }
+}

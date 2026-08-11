@@ -25,6 +25,15 @@
           "song": "Shout"
         }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "UKVTW-S02-E06"
     }
   ]
 }

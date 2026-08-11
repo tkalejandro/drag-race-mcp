@@ -1,0 +1,41 @@
+{
+  "id": "CVTW-S02",
+  "franchise": "CVTW",
+  "name": "Canada's Drag Race vs The World Season 2",
+  "seasonNumber": 2,
+  "year": 2024,
+  "episodeCount": 6,
+  "episodeIds": [
+    "CVTW-S02-E01",
+    "CVTW-S02-E02",
+    "CVTW-S02-E03",
+    "CVTW-S02-E04",
+    "CVTW-S02-E05",
+    "CVTW-S02-E06"
+  ],
+  "castIds": [
+    "lemon",
+    "alexis-mateo",
+    "cheryl-hole",
+    "kennedy-davenport",
+    "miss-fiercalicious",
+    "eureka",
+    "tynomi-banks",
+    "le-fil",
+    "la-kahena"
+  ],
+  "winnerId": "lemon",
+  "runnerUpIds": ["alexis-mateo"],
+  "missCongenialityId": "eureka",
+  "porkchopId": "la-kahena",
+  "hosts": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }
+  ],
+  "judges": [
+    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
+    { "name": "Brad Goreski" },
+    { "name": "Traci Melchor" }
+  ],
+  "isCharity": false,
+  "cashPrice": { "amount": 100000, "currency": "CAD" }
+}

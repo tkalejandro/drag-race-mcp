@@ -29,6 +29,15 @@
           "song": "It's All Coming Back to Me Now"
         }
       ]
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "CVTW-S01-E01"
     }
   ]
 }

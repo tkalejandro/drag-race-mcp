@@ -41,6 +41,51 @@
           "song": "Lipad ng Pangarap"
         }
       ]
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "PHSR-S01-E01",
+          "name": "Present two looks for The Miss Shutacca: Slaysian Edition"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PHSR-S01-E01",
+          "name": "Perform in hairography dance-battles"
+        },
+        {
+          "episodeId": "PHSR-S01-E02",
+          "name": "Play a traditional game of Kadang-Kadang"
+        },
+        {
+          "episodeId": "PHSR-S01-E05",
+          "name": "Spider Gay gladiator battle dressed as spider monkeys"
+        },
+        {
+          "episodeId": "PHSR-S01-E08",
+          "name": "Photobombing photoshoot featuring provincial tourist spots in the Philippines"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PHSR-S01-E01",
+          "song": "Debut"
+        },
+        {
+          "episodeId": "PHSR-S01-E07",
+          "song": "Misbehave"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PHSR-S01-E08",
+          "song": "Race Car"
+        }
+      ],
+      "eliminatedEpisodeId": "PHSR-S01-E08"
     }
   ]
 }

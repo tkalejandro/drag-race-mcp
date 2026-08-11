@@ -1,7 +1,9 @@
 {
   "id": "cheryl-hole",
   "name": "Cheryl Hole",
-  "aliases": ["Cheryl"],
+  "aliases": [
+    "Cheryl"
+  ],
   "appearances": [
     {
       "seasonId": "UK-S01",
@@ -9,14 +11,46 @@
       "eliminatedEpisodeId": "UK-S01-E07",
       "challengeWins": [],
       "miniChallengeWins": [
-        { "episodeId": "UK-S01-E03", "name": "Maypole dance moves" }
+        {
+          "episodeId": "UK-S01-E03",
+          "name": "Maypole dance moves"
+        }
       ],
       "lipSyncWins": [
-        { "episodeId": "UK-S01-E06", "song": "Call My Name (Wideboys Remix)" }
+        {
+          "episodeId": "UK-S01-E06",
+          "song": "Call My Name (Wideboys Remix)"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "UK-S01-E07", "song": "Tears Dry on Their Own" }
+        {
+          "episodeId": "UK-S01-E07",
+          "song": "Tears Dry on Their Own"
+        }
       ]
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S02-E03",
+          "song": "What the Hell"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "CVTW-S02-E06"
+    },
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "UKVTW-S01-E02"
     }
   ]
 }

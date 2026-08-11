@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ukvtw-s03-gawdland-crown",
+    "title": "Gawdland crowned first Asian Queen of the Mothertucking World",
+    "summary": "In the Grand Finale (UKVTW-S03-E08), Gawdland beat Mariah Balenciaga to Alexandra Burke's \"Broken Heels\", Kate Butch beat Fontana to Black Box's \"Ride on Time\", and Gawdland beat Kate to Kylie Minogue's \"What Do I Have to Do\". Gawdland, previously third on Drag Race Thailand Season 3 (TH-S03), won £50,000 GBP and became the first Asian and first Thai Queen of the Mothertucking World.",
+    "tags": ["crown", "finale", "lip-sync", "vs-the-world", "international", "crossover"],
+    "queenIds": ["gawdland", "kate-butch", "fontana", "mariah"],
+    "seasonIds": ["UKVTW-S03", "TH-S03"],
+    "episodeIds": ["UKVTW-S03-E08"]
+  },
+  {
+    "id": "ukvtw-s03-thai-asian-first",
+    "title": "First Thai and Asian vs the World champion",
+    "summary": "Gawdland's UKVTW-S03 win linked Drag Race Thailand Season 3 to the UK vs the World crown: after placing third on TH-S03, she became the first Asian and first Thai queen crowned Queen of the Mothertucking World by RuPaul, taking the £50,000 prize home to Thailand.",
+    "tags": ["crown", "international", "crossover", "vs-the-world", "iconic"],
+    "queenIds": ["gawdland"],
+    "seasonIds": ["UKVTW-S03", "TH-S03"],
+    "episodeIds": ["UKVTW-S03-E08"]
+  },
+  {
+    "id": "ukvtw-s03-chippy-tea",
+    "title": "Chippy Tea save twist",
+    "summary": "From UKVTW-S03-E02 through E05, each maxi-challenge winner received the Chippy Tea and could save one of three bottom queens from the Lip Sync for Your Life. Saves went to Minty Fresh (Gawdland, E02), Serena Morena (Gawdland, E03), Mariah Balenciaga (Kate Butch, E04), and Zahirah Zapanta (Mariah, E05) before the twist ended.",
+    "tags": ["twist", "production", "vs-the-world"],
+    "queenIds": [
+      "gawdland",
+      "kate-butch",
+      "mariah",
+      "minty-fresh",
+      "serena-morena",
+      "zahirah-zapanta"
+    ],
+    "seasonIds": ["UKVTW-S03"],
+    "episodeIds": [
+      "UKVTW-S03-E02",
+      "UKVTW-S03-E03",
+      "UKVTW-S03-E04",
+      "UKVTW-S03-E05"
+    ]
+  },
+  {
+    "id": "ukvtw-s03-melinda-porkchop",
+    "title": "Melinda Verga: Series 3 porkchop",
+    "summary": "Canada Season 4 alumna Melinda Verga was the first queen eliminated on UKVTW-S03-E02. After Gawdland won Runway Ru-Mix and used the Chippy Tea to save Minty Fresh, Melinda lost the Lip Sync for Your Life to The Only Naomy on Dannii Minogue's \"I Begin to Wonder\".",
+    "tags": ["porkchop", "lip-sync", "vs-the-world", "crossover"],
+    "queenIds": ["melinda-verga", "the-only-naomy", "gawdland", "minty-fresh"],
+    "seasonIds": ["UKVTW-S03", "CA-S04"],
+    "episodeIds": ["UKVTW-S03-E02"]
+  },
+  {
+    "id": "ukvtw-s03-serena-miss-c",
+    "title": "Serena Morena voted Miss Congeniality",
+    "summary": "México Season 1 alumna Serena Morena was voted Miss Congeniality by her fellow contestants at the Series 3 finale after being eliminated in the silent-movie challenge (UKVTW-S03-E05), when Fontana won the Lip Sync for Your Life to Crazy Frog's \"Axel F\".",
+    "tags": ["fan-favorite", "finale", "international", "crossover"],
+    "queenIds": ["serena-morena", "fontana"],
+    "seasonIds": ["UKVTW-S03", "MX-S01"],
+    "episodeIds": ["UKVTW-S03-E05", "UKVTW-S03-E08"]
+  },
+  {
+    "id": "ukvtw-s03-gawdland-early-wins",
+    "title": "Gawdland's early maxi streak",
+    "summary": "After Top 2 on RuRuvision (UKVTW-S03-E01), Gawdland won Runway Ru-Mix and the Miss Snatch Game Pageant (E02–E03), earning two Chippy Tea saves before coasting safely to the finale and the crown.",
+    "tags": ["iconic", "vs-the-world", "international", "crossover"],
+    "queenIds": ["gawdland"],
+    "seasonIds": ["UKVTW-S03", "TH-S03"],
+    "episodeIds": ["UKVTW-S03-E01", "UKVTW-S03-E02", "UKVTW-S03-E03"]
+  },
+  {
+    "id": "ukvtw-s03-tia-passes-sceptre",
+    "title": "Tia Kofi returns to pass the sceptre",
+    "summary": "Series 2 winner Tia Kofi returned as a special guest at the UKVTW-S03 finale to pass the crown and sceptre to Gawdland after Gawdland's Lip Sync Smackdown win over Kate Butch.",
+    "tags": ["crown", "finale", "vs-the-world", "return"],
+    "queenIds": ["tia-kofi", "gawdland", "kate-butch"],
+    "seasonIds": ["UKVTW-S03", "UKVTW-S02"],
+    "episodeIds": ["UKVTW-S03-E08"]
+  },
+  {
+    "id": "ukvtw-s03-format-shift",
+    "title": "Series 3 shifts to Lip Sync for Your Life",
+    "summary": "Unlike Series 1–2 Top 2 Lip Sync for the World, UKVTW-S03 mostly used a single challenge winner plus bottom Lip Sync for Your Life (after a no-elimination Top 2 lip sync on RuRuvision). The Chippy Tea briefly let winners save a bottom queen from that lip sync.",
+    "tags": ["twist", "lip-sync", "production", "vs-the-world"],
+    "queenIds": [],
+    "seasonIds": ["UKVTW-S03", "UKVTW-S01", "UKVTW-S02"],
+    "episodeIds": ["UKVTW-S03-E01", "UKVTW-S03-E02"]
+  }
+]

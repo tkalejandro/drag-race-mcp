@@ -11,6 +11,42 @@
       "lipSyncWins": [],
       "lipSyncLosses": [],
       "quit": true
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S01-E03",
+          "name": "The Weather Ball"
+        },
+        {
+          "episodeId": "CVTW-S01-E04",
+          "name": "Write and perform a comedy routine"
+        },
+        {
+          "episodeId": "CVTW-S01-E05",
+          "name": "Act in the spoof Spy Queens"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S01-E04",
+          "song": "Your Daddy Don't Know"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S01-E03",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        },
+        {
+          "episodeId": "CVTW-S01-E05",
+          "song": "Freak"
+        }
+      ],
+      "eliminatedEpisodeId": "CVTW-S01-E06"
     }
   ]
 }

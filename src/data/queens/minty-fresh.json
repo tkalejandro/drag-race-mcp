@@ -38,6 +38,20 @@
         }
       ],
       "eliminatedEpisodeId": "PH-S01-E09"
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S03-E03",
+          "song": "Angel of My Dreams"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S03-E03"
     }
   ]
 }

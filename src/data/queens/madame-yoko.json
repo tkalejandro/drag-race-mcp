@@ -20,6 +20,15 @@
         }
       ],
       "eliminatedEpisodeId": "BE-S02-E03"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PHSR-S01-E01"
     }
   ]
 }

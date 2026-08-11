@@ -20,6 +20,53 @@
         }
       ],
       "eliminatedEpisodeId": "ES-S02-E07"
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show"
+        },
+        {
+          "episodeId": "ESAS-S01-E02",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "ESAS-S01-E03",
+          "name": "Walk the Deadly Sins Ball"
+        },
+        {
+          "episodeId": "ESAS-S01-E05",
+          "name": "Perform a roast of the judges panel and fellow contestants"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "song": "Me gustas mucho"
+        },
+        {
+          "episodeId": "ESAS-S01-E03",
+          "song": "Estoy llorando por ti"
+        },
+        {
+          "episodeId": "ESAS-S01-E07",
+          "song": "Eloise"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ESAS-S01-E02",
+          "song": "Nochentera"
+        },
+        {
+          "episodeId": "ESAS-S01-E05",
+          "song": "La zarzamora"
+        }
+      ]
     }
   ]
 }

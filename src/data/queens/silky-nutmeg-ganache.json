@@ -73,6 +73,37 @@
       ],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S11-E12"
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S01-E03",
+          "name": "The Weather Ball"
+        },
+        {
+          "episodeId": "CVTW-S01-E04",
+          "name": "Write and perform a comedy routine"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S01-E03",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S01-E04",
+          "song": "Your Daddy Don't Know"
+        },
+        {
+          "episodeId": "CVTW-S01-E06",
+          "song": "River Deep – Mountain High"
+        }
+      ]
     }
   ]
 }

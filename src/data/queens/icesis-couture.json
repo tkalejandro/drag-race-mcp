@@ -40,6 +40,26 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S01-E02",
+          "name": "Impersonate celebrities in the Snatch Summit"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S01-E02",
+          "song": "Sk8er Boi"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "CVTW-S01-E04",
+      "quit": true
     }
   ]
 }
