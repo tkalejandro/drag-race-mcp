@@ -39,17 +39,38 @@
     "mirage",
     "hershii-liqcour-jete"
   ],
-  "winnerId": "nymphia-wind",
-  "runnerUpIds": ["sapphira-cristal"],
+  "winnerIds": [
+    "nymphia-wind"
+  ],
+  "runnerUpIds": [
+    "sapphira-cristal"
+  ],
   "missCongenialityId": "sapphira-cristal",
-  "porkchopId": "hershii-liqcour-jete",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "hershii-liqcour-jete"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 200000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 200000,
+    "currency": "USD"
+  }
 }

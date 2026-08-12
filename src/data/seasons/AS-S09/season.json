@@ -29,7 +29,9 @@
     "plastique-tiara",
     "shannel"
   ],
-  "winnerId": "angeria-paris-vanmicheals",
+  "winnerIds": [
+    "angeria-paris-vanmicheals"
+  ],
   "runnerUpIds": [
     "roxxxy-andrews",
     "vanessa-vanjie-mateo"

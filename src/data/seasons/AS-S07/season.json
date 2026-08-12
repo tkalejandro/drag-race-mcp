@@ -29,11 +29,15 @@
     "jaida-essence-hall",
     "the-vivienne"
   ],
-  "winnerId": "jinkx-monsoon",
+  "winnerIds": [
+    "jinkx-monsoon"
+  ],
   "runnerUpIds": [
     "monet-x-change"
   ],
-  "porkchopId": "the-vivienne",
+  "porkchopIds": [
+    "the-vivienne"
+  ],
   "hosts": [
     {
       "name": "RuPaul"

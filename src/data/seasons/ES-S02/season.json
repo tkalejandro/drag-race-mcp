@@ -32,13 +32,17 @@
     "ariel-rec",
     "marisa-prisa"
   ],
-  "winnerId": "sharonne",
+  "winnerIds": [
+    "sharonne"
+  ],
   "runnerUpIds": [
     "estrella-xtravaganza",
     "venedita-von-dash"
   ],
   "missCongenialityId": "samantha-ballentines",
-  "porkchopId": "marisa-prisa",
+  "porkchopIds": [
+    "marisa-prisa"
+  ],
   "hosts": [
     {
       "name": "Supremme de Luxe"

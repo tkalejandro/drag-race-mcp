@@ -38,17 +38,38 @@
     "kahanna-montrese",
     "soju"
   ],
-  "winnerId": "yvie-oddly",
-  "runnerUpIds": ["brooke-lynn-hytes"],
+  "winnerIds": [
+    "yvie-oddly"
+  ],
+  "runnerUpIds": [
+    "brooke-lynn-hytes"
+  ],
   "missCongenialityId": "nina-west",
-  "porkchopId": "soju",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "soju"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
 }

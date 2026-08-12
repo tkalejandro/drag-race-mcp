@@ -27,12 +27,16 @@
     "ongina",
     "derrick-barry"
   ],
-  "winnerId": "shea-coulee",
+  "winnerIds": [
+    "shea-coulee"
+  ],
   "runnerUpIds": [
     "jujubee",
     "miz-cracker"
   ],
-  "porkchopId": "derrick-barry",
+  "porkchopIds": [
+    "derrick-barry"
+  ],
   "hosts": [
     {
       "name": "RuPaul"

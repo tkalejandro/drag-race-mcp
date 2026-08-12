@@ -38,17 +38,38 @@
     "phoenix",
     "venus-d-lite"
   ],
-  "winnerId": "raja",
-  "runnerUpIds": ["manila-luzon"],
+  "winnerIds": [
+    "raja"
+  ],
+  "runnerUpIds": [
+    "manila-luzon"
+  ],
   "missCongenialityId": "yara-sofia",
-  "porkchopId": "venus-d-lite",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "venus-d-lite"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Santino Rice" },
-    { "name": "Billy B" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Santino Rice"
+    },
+    {
+      "name": "Billy B"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 75000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 75000,
+    "currency": "USD"
+  }
 }

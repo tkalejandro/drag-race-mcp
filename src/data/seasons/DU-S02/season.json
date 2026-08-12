@@ -27,12 +27,16 @@
     "aubrey-haive",
     "faux-fur"
   ],
-  "winnerId": "spankie-jackzon",
+  "winnerIds": [
+    "spankie-jackzon"
+  ],
   "runnerUpIds": [
     "hannah-conda",
     "kween-kong"
   ],
-  "porkchopId": "faux-fur",
+  "porkchopIds": [
+    "faux-fur"
+  ],
   "hosts": [
     {
       "name": "RuPaul"

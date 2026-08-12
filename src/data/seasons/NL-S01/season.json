@@ -27,11 +27,15 @@
     "patty-pam-pam",
     "roem"
   ],
-  "winnerId": "envy-peru",
+  "winnerIds": [
+    "envy-peru"
+  ],
   "runnerUpIds": [
     "janey-jacke"
   ],
-  "porkchopId": "roem",
+  "porkchopIds": [
+    "roem"
+  ],
   "hosts": [
     {
       "name": "Fred van Leer"

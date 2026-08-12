@@ -27,12 +27,16 @@
     "reggy-b",
     "juicy-kutoure"
   ],
-  "winnerId": "vanessa-van-cartier",
+  "winnerIds": [
+    "vanessa-van-cartier"
+  ],
   "runnerUpIds": [
     "my-little-puny"
   ],
   "missCongenialityId": "tabitha",
-  "porkchopId": "juicy-kutoure",
+  "porkchopIds": [
+    "juicy-kutoure"
+  ],
   "hosts": [
     {
       "name": "Fred van Leer"

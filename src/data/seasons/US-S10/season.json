@@ -37,17 +37,39 @@
     "kalorie-karbdashian-williams",
     "vanessa-vanjie-mateo"
   ],
-  "winnerId": "aquaria",
-  "runnerUpIds": ["eureka", "kameron-michaels"],
+  "winnerIds": [
+    "aquaria"
+  ],
+  "runnerUpIds": [
+    "eureka",
+    "kameron-michaels"
+  ],
   "missCongenialityId": "monet-x-change",
-  "porkchopId": "vanessa-vanjie-mateo",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "vanessa-vanjie-mateo"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
 }

@@ -27,13 +27,17 @@
     "tanissa-yonce",
     "narciso"
   ],
-  "winnerId": "la-diamond",
+  "winnerIds": [
+    "la-diamond"
+  ],
   "runnerUpIds": [
     "aura-eternal",
     "nehellenia"
   ],
   "missCongenialityId": "nehellenia",
-  "porkchopId": "narciso",
+  "porkchopIds": [
+    "narciso"
+  ],
   "hosts": [
     {
       "name": "Priscilla"

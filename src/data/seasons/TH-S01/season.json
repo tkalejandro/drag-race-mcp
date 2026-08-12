@@ -27,12 +27,33 @@
     "bunny-be-fly",
     "meannie-minaj"
   ],
-  "winnerId": "natalia-pliacam",
-  "runnerUpIds": ["annee-maywong", "dearis-doll"],
+  "winnerIds": [
+    "natalia-pliacam"
+  ],
+  "runnerUpIds": [
+    "annee-maywong",
+    "dearis-doll"
+  ],
   "missCongenialityId": "b-ella",
-  "porkchopId": "meannie-minaj",
-  "hosts": [{ "name": "Art Arya" }],
-  "judges": [{ "name": "Art Arya" }, { "name": "Pangina Heals" }],
+  "porkchopIds": [
+    "meannie-minaj"
+  ],
+  "hosts": [
+    {
+      "name": "Art Arya"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Art Arya"
+    },
+    {
+      "name": "Pangina Heals"
+    }
+  ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "THB" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "THB"
+  }
 }

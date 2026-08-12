@@ -34,16 +34,40 @@
     "nina-de-la-fuente",
     "ignus-ars"
   ],
-  "winnerId": "leexa-fox",
-  "runnerUpIds": ["eva-blunt", "horacio-potasio", "jenary-bloom"],
+  "winnerIds": [
+    "leexa-fox"
+  ],
+  "runnerUpIds": [
+    "eva-blunt",
+    "horacio-potasio",
+    "jenary-bloom"
+  ],
   "missCongenialityId": "luna-lansman",
-  "porkchopId": "ignus-ars",
-  "hosts": [{ "name": "Lolita Banana" }, { "name": "Taiga Brava" }],
+  "porkchopIds": [
+    "ignus-ars"
+  ],
+  "hosts": [
+    {
+      "name": "Lolita Banana"
+    },
+    {
+      "name": "Taiga Brava"
+    }
+  ],
   "judges": [
-    { "name": "Lolita Banana" },
-    { "name": "Taiga Brava" },
-    { "name": "Oscar Madrazo" }
+    {
+      "name": "Lolita Banana"
+    },
+    {
+      "name": "Taiga Brava"
+    },
+    {
+      "name": "Oscar Madrazo"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "MXN" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "MXN"
+  }
 }

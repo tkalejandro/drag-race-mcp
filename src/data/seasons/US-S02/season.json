@@ -33,16 +33,35 @@
     "nicole-paige-brooks",
     "shangela"
   ],
-  "winnerId": "tyra-sanchez",
-  "runnerUpIds": ["raven"],
+  "winnerIds": [
+    "tyra-sanchez"
+  ],
+  "runnerUpIds": [
+    "raven"
+  ],
   "missCongenialityId": "pandora-boxx",
-  "porkchopId": "shangela",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "shangela"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Santino Rice" },
-    { "name": "Merle Ginsberg" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Santino Rice"
+    },
+    {
+      "name": "Merle Ginsberg"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 25000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 25000,
+    "currency": "USD"
+  }
 }

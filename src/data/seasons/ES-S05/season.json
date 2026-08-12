@@ -32,12 +32,16 @@
     "eva-harrington",
     "nori"
   ],
-  "winnerId": "satin-greco",
+  "winnerIds": [
+    "satin-greco"
+  ],
   "runnerUpIds": [
     "margarita-kalifata"
   ],
   "missCongenialityId": "nori",
-  "porkchopId": "nori",
+  "porkchopIds": [
+    "nori"
+  ],
   "hosts": [
     {
       "name": "Supremme de Luxe"

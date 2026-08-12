@@ -39,17 +39,38 @@
     "alyssa-hunter",
     "june-jambalaya"
   ],
-  "winnerId": "willow-pill",
-  "runnerUpIds": ["lady-camden"],
+  "winnerIds": [
+    "willow-pill"
+  ],
+  "runnerUpIds": [
+    "lady-camden"
+  ],
   "missCongenialityId": "kornbread-the-snack-jete",
-  "porkchopId": "orion-story",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "orion-story"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 150000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 150000,
+    "currency": "USD"
+  }
 }

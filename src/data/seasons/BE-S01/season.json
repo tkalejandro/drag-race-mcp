@@ -27,16 +27,35 @@
     "amanda-tears",
     "brittany-von-bottoks"
   ],
-  "winnerId": "drag-couenne",
-  "runnerUpIds": ["athena-sorgelikis"],
+  "winnerIds": [
+    "drag-couenne"
+  ],
+  "runnerUpIds": [
+    "athena-sorgelikis"
+  ],
   "missCongenialityId": "valenciaga",
-  "porkchopId": "brittany-von-bottoks",
-  "hosts": [{ "name": "Rita Baga" }],
+  "porkchopIds": [
+    "brittany-von-bottoks"
+  ],
+  "hosts": [
+    {
+      "name": "Rita Baga"
+    }
+  ],
   "judges": [
-    { "name": "Rita Baga" },
-    { "name": "Lufy" },
-    { "name": "Mustii" }
+    {
+      "name": "Rita Baga"
+    },
+    {
+      "name": "Lufy"
+    },
+    {
+      "name": "Mustii"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 20000, "currency": "EUR" }
+  "cashPrice": {
+    "amount": 20000,
+    "currency": "EUR"
+  }
 }

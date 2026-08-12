@@ -31,15 +31,32 @@
     "sum-ting-wong",
     "madame-yoko"
   ],
-  "winnerId": "brigiding",
-  "runnerUpIds": ["vinas-deluxe"],
+  "winnerIds": [
+    "brigiding"
+  ],
+  "runnerUpIds": [
+    "vinas-deluxe"
+  ],
   "missCongenialityId": "suki-doll",
-  "porkchopId": "madame-yoko",
-  "hosts": [{ "name": "Paolo Ballesteros" }],
+  "porkchopIds": [
+    "madame-yoko"
+  ],
+  "hosts": [
+    {
+      "name": "Paolo Ballesteros"
+    }
+  ],
   "judges": [
-    { "name": "Paolo Ballesteros" },
-    { "name": "KaladKaren" }
+    {
+      "name": "Paolo Ballesteros"
+    },
+    {
+      "name": "KaladKaren"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 2000000, "currency": "PHP" }
+  "cashPrice": {
+    "amount": 2000000,
+    "currency": "PHP"
+  }
 }

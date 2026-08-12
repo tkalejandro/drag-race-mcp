@@ -39,7 +39,9 @@
     "phoenix",
     "tina-burner"
   ],
-  "winnerId": "ginger-minj",
+  "winnerIds": [
+    "ginger-minj"
+  ],
   "runnerUpIds": [
     "jorgeous"
   ],

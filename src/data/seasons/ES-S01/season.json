@@ -28,13 +28,17 @@
     "drag-vulcano",
     "the-macarena"
   ],
-  "winnerId": "carmen-farala",
+  "winnerIds": [
+    "carmen-farala"
+  ],
   "runnerUpIds": [
     "killer-queen",
     "sagittaria"
   ],
   "missCongenialityId": "pupi-poisson",
-  "porkchopId": "the-macarena",
+  "porkchopIds": [
+    "the-macarena"
+  ],
   "hosts": [
     {
       "name": "Supremme de Luxe"

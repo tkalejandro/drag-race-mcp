@@ -30,16 +30,37 @@
     "miss-moco",
     "halal-bae"
   ],
-  "winnerId": "gisele-lullaby",
-  "runnerUpIds": ["jada-shada-hudson"],
+  "winnerIds": [
+    "gisele-lullaby"
+  ],
+  "runnerUpIds": [
+    "jada-shada-hudson"
+  ],
   "missCongenialityId": "vivian-vanderpuss",
-  "porkchopId": "halal-bae",
-  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "porkchopIds": [
+    "halal-bae"
+  ],
+  "hosts": [
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    }
+  ],
   "judges": [
-    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
-    { "name": "Brad Goreski" },
-    { "name": "Traci Melchor" }
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    },
+    {
+      "name": "Brad Goreski"
+    },
+    {
+      "name": "Traci Melchor"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "CAD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "CAD"
+  }
 }

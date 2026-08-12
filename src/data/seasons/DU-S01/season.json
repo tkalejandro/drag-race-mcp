@@ -27,13 +27,17 @@
     "coco-jumbo",
     "jojo-zaho"
   ],
-  "winnerId": "kita-mean",
+  "winnerIds": [
+    "kita-mean"
+  ],
   "runnerUpIds": [
     "art-simone",
     "karen-from-finance",
     "scarlet-adams"
   ],
-  "porkchopId": "jojo-zaho",
+  "porkchopIds": [
+    "jojo-zaho"
+  ],
   "hosts": [
     {
       "name": "RuPaul"

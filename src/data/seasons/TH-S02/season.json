@@ -36,13 +36,36 @@
     "silver-sonic",
     "m-stranger-fox"
   ],
-  "winnerId": "angele-anang",
-  "runnerUpIds": ["kana-warrior", "kandy-zyanide"],
+  "winnerIds": [
+    "angele-anang"
+  ],
+  "runnerUpIds": [
+    "kana-warrior",
+    "kandy-zyanide"
+  ],
   "missCongenialityId": "maya-bharo",
-  "porkchopId": "m-stranger-fox",
-  "disqualifiedIds": ["miss-gimhuay"],
-  "hosts": [{ "name": "Art Arya" }],
-  "judges": [{ "name": "Art Arya" }, { "name": "Pangina Heals" }],
+  "porkchopIds": [
+    "m-stranger-fox"
+  ],
+  "disqualifiedIds": [
+    "miss-gimhuay"
+  ],
+  "hosts": [
+    {
+      "name": "Art Arya"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Art Arya"
+    },
+    {
+      "name": "Pangina Heals"
+    }
+  ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "THB" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "THB"
+  }
 }

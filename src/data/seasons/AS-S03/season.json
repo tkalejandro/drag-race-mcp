@@ -27,11 +27,15 @@
     "milk",
     "thorgy-thor"
   ],
-  "winnerId": "trixie-mattel",
+  "winnerIds": [
+    "trixie-mattel"
+  ],
   "runnerUpIds": [
     "kennedy-davenport"
   ],
-  "porkchopId": "morgan-mcmichaels",
+  "porkchopIds": [
+    "morgan-mcmichaels"
+  ],
   "hosts": [
     {
       "name": "RuPaul"

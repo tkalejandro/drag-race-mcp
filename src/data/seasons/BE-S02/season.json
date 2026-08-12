@@ -26,16 +26,35 @@
     "madame-yoko",
     "sarah-logan"
   ],
-  "winnerId": "alvilda",
-  "runnerUpIds": ["la-veuve"],
+  "winnerIds": [
+    "alvilda"
+  ],
+  "runnerUpIds": [
+    "la-veuve"
+  ],
   "missCongenialityId": "star",
-  "porkchopId": "sarah-logan",
-  "hosts": [{ "name": "Rita Baga" }],
+  "porkchopIds": [
+    "sarah-logan"
+  ],
+  "hosts": [
+    {
+      "name": "Rita Baga"
+    }
+  ],
   "judges": [
-    { "name": "Rita Baga" },
-    { "name": "Lio" },
-    { "name": "Mustii" }
+    {
+      "name": "Rita Baga"
+    },
+    {
+      "name": "Lio"
+    },
+    {
+      "name": "Mustii"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 20000, "currency": "EUR" }
+  "cashPrice": {
+    "amount": 20000,
+    "currency": "EUR"
+  }
 }

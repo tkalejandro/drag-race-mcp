@@ -27,13 +27,17 @@
     "lova-ladiva",
     "la-kahena"
   ],
-  "winnerId": "paloma",
+  "winnerIds": [
+    "paloma"
+  ],
   "runnerUpIds": [
     "la-grande-dame",
     "soa-de-muse"
   ],
   "missCongenialityId": "elips",
-  "porkchopId": "la-kahena",
+  "porkchopIds": [
+    "la-kahena"
+  ],
   "hosts": [
     {
       "name": "Nicky Doll"

@@ -38,17 +38,38 @@
     "joey-jay",
     "kahmora-hall"
   ],
-  "winnerId": "symone",
-  "runnerUpIds": ["kandy-muse"],
+  "winnerIds": [
+    "symone"
+  ],
+  "runnerUpIds": [
+    "kandy-muse"
+  ],
   "missCongenialityId": "lala-ri",
-  "porkchopId": "kahmora-hall",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "kahmora-hall"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
 }

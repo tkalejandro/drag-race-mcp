@@ -41,7 +41,7 @@ Link by IDs only — never nest full queen/season objects.
 2. Write JSON from the source — not from memory.
 3. If an optional field is unclear, **omit it**. Do not guess prize amounts, song titles, mini winners, or guest judges.
 4. Episodes own weekly outcomes. Queen `challengeWins` / `miniChallengeWins` / `lipSyncWins` / `lipSyncLosses` must mirror those `episodeId`s (`lipSyncLosses` = in `lipSync.queenIds` but not in `winnerIds`).
-5. `season.json` cast/winner/runner-up/Miss C/porkchop/episodeIds must match queen + episode files.
+5. `season.json` cast/`winnerIds`/runner-up/Miss C/`porkchopIds`/episodeIds must match queen + episode files. Dual crowns use multiple `winnerIds` (e.g. AS-S04). `porkchopIds` is usually length 1; AS-S01 lists both team first-outs (`mimi-imfurst`, `pandora-boxx`).
 6. Returning queens: append to the same `queens/{id}.json` `appearances[]` — do not duplicate files.
 
 ## Lore

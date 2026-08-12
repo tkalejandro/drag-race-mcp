@@ -435,7 +435,7 @@ Examples:
 
 - `feat: add Season and SeasonId types`
 - `feat: add US-S06 season + cast data`
-- `fix: correct porkchopId for US-S01`
+- `fix: correct porkchopIds for US-S01`
 - `docs: update data coverage checklist`
 
 **PR body** — short summary of *why*, plus a tiny test plan (e.g. `tsc`, which coverage cells flipped, MCP tool smoke test).

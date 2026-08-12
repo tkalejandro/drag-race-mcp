@@ -34,13 +34,17 @@
     "jiggly-caliente",
     "serena-chacha"
   ],
-  "winnerId": "sonique",
+  "winnerIds": [
+    "sonique"
+  ],
   "runnerUpIds": [
     "eureka",
     "ginger-minj",
     "ra-jah-ohara"
   ],
-  "porkchopId": "serena-chacha",
+  "porkchopIds": [
+    "serena-chacha"
+  ],
   "hosts": [
     {
       "name": "RuPaul"

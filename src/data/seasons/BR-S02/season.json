@@ -29,15 +29,34 @@
     "paola-hoffmann-van-cartier",
     "chanel"
   ],
-  "winnerId": "ruby-nox",
-  "runnerUpIds": ["mellody-queen"],
-  "porkchopId": "chanel",
-  "hosts": [{ "name": "Grag Queen" }],
+  "winnerIds": [
+    "ruby-nox"
+  ],
+  "runnerUpIds": [
+    "mellody-queen"
+  ],
+  "porkchopIds": [
+    "chanel"
+  ],
+  "hosts": [
+    {
+      "name": "Grag Queen"
+    }
+  ],
   "judges": [
-    { "name": "Grag Queen" },
-    { "name": "Bruna Braga" },
-    { "name": "Dudu Bertholini" }
+    {
+      "name": "Grag Queen"
+    },
+    {
+      "name": "Bruna Braga"
+    },
+    {
+      "name": "Dudu Bertholini"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "BRL" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "BRL"
+  }
 }

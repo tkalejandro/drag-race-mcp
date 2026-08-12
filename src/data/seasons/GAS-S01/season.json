@@ -33,17 +33,38 @@
     "miranda-lebrao",
     "athena-sorgelikis"
   ],
-  "winnerId": "alyssa-edwards",
-  "runnerUpIds": ["kitty-scott-claus", "kween-kong", "nehellenia"],
+  "winnerIds": [
+    "alyssa-edwards"
+  ],
+  "runnerUpIds": [
+    "kitty-scott-claus",
+    "kween-kong",
+    "nehellenia"
+  ],
   "missCongenialityId": "soa-de-muse",
   "lipSyncAssassinId": "soa-de-muse",
-  "porkchopId": "athena-sorgelikis",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "athena-sorgelikis"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Jamal Sims" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Jamal Sims"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 200000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 200000,
+    "currency": "USD"
+  }
 }

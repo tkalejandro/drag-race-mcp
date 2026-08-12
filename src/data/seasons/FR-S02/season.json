@@ -29,12 +29,16 @@
     "vespi",
     "rose-fr"
   ],
-  "winnerId": "keiona",
+  "winnerIds": [
+    "keiona"
+  ],
   "runnerUpIds": [
     "sara-forever"
   ],
   "missCongenialityId": "moon",
-  "porkchopId": "rose-fr",
+  "porkchopIds": [
+    "rose-fr"
+  ],
   "hosts": [
     {
       "name": "Nicky Doll"

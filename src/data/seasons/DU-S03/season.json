@@ -27,11 +27,15 @@
     "ivory-glaze",
     "amyl"
   ],
-  "winnerId": "isis-avis-loren",
+  "winnerIds": [
+    "isis-avis-loren"
+  ],
   "runnerUpIds": [
     "gabriella-labucci"
   ],
-  "porkchopId": "amyl",
+  "porkchopIds": [
+    "amyl"
+  ],
   "hosts": [
     {
       "name": "RuPaul"

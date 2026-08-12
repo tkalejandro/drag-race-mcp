@@ -32,13 +32,17 @@
     "the-only-naomy",
     "barbie-q"
   ],
-  "winnerId": "pandora-nox",
+  "winnerIds": [
+    "pandora-nox"
+  ],
   "runnerUpIds": [
     "metamorkid",
     "yvonne-nightstand"
   ],
   "missCongenialityId": "victoria-shakespears",
-  "porkchopId": "barbie-q",
+  "porkchopIds": [
+    "barbie-q"
+  ],
   "hosts": [
     {
       "name": "Barbie Breakout"

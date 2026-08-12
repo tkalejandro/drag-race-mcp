@@ -26,15 +26,34 @@
     "endigo",
     "almighty-aphroditey"
   ],
-  "winnerId": "admira-thunderpussy",
-  "runnerUpIds": ["fontana"],
-  "porkchopId": "almighty-aphroditey",
-  "hosts": [{ "name": "Robert Fux" }],
+  "winnerIds": [
+    "admira-thunderpussy"
+  ],
+  "runnerUpIds": [
+    "fontana"
+  ],
+  "porkchopIds": [
+    "almighty-aphroditey"
+  ],
+  "hosts": [
+    {
+      "name": "Robert Fux"
+    }
+  ],
   "judges": [
-    { "name": "Robert Fux" },
-    { "name": "Kayo" },
-    { "name": "Farao Groth" }
+    {
+      "name": "Robert Fux"
+    },
+    {
+      "name": "Kayo"
+    },
+    {
+      "name": "Farao Groth"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "SEK" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "SEK"
+  }
 }

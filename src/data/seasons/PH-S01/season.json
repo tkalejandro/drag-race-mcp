@@ -31,16 +31,35 @@
     "corazon",
     "prince"
   ],
-  "winnerId": "precious-paula-nicole",
-  "runnerUpIds": ["marina-summers"],
+  "winnerIds": [
+    "precious-paula-nicole"
+  ],
+  "runnerUpIds": [
+    "marina-summers"
+  ],
   "missCongenialityId": "lady-morgana",
-  "porkchopId": "prince",
-  "hosts": [{ "name": "Paolo Ballesteros" }],
+  "porkchopIds": [
+    "prince"
+  ],
+  "hosts": [
+    {
+      "name": "Paolo Ballesteros"
+    }
+  ],
   "judges": [
-    { "name": "Paolo Ballesteros" },
-    { "name": "Jiggly Caliente" },
-    { "name": "KaladKaren" }
+    {
+      "name": "Paolo Ballesteros"
+    },
+    {
+      "name": "Jiggly Caliente"
+    },
+    {
+      "name": "KaladKaren"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 1000000, "currency": "PHP" }
+  "cashPrice": {
+    "amount": 1000000,
+    "currency": "PHP"
+  }
 }

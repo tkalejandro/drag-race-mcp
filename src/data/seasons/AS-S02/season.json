@@ -28,16 +28,38 @@
     "adore-delano",
     "coco-montrese"
   ],
-  "winnerId": "alaska",
-  "runnerUpIds": ["detox", "katya"],
-  "porkchopId": "coco-montrese",
-  "hosts": [{ "name": "RuPaul" }],
+  "winnerIds": [
+    "alaska"
+  ],
+  "runnerUpIds": [
+    "detox",
+    "katya"
+  ],
+  "porkchopIds": [
+    "coco-montrese"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Todrick Hall" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Todrick Hall"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
 }

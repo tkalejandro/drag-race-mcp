@@ -32,16 +32,40 @@
     "vermelha-noir",
     "miss-vallarta"
   ],
-  "winnerId": "cristian-peralta",
-  "runnerUpIds": ["gala-varo", "matraka", "regina-voce"],
+  "winnerIds": [
+    "cristian-peralta"
+  ],
+  "runnerUpIds": [
+    "gala-varo",
+    "matraka",
+    "regina-voce"
+  ],
   "missCongenialityId": "lady-kero",
-  "porkchopId": "miss-vallarta",
-  "hosts": [{ "name": "Valentina" }, { "name": "Lolita Banana" }],
+  "porkchopIds": [
+    "miss-vallarta"
+  ],
+  "hosts": [
+    {
+      "name": "Valentina"
+    },
+    {
+      "name": "Lolita Banana"
+    }
+  ],
   "judges": [
-    { "name": "Valentina" },
-    { "name": "Lolita Banana" },
-    { "name": "Oscar Madrazo" }
+    {
+      "name": "Valentina"
+    },
+    {
+      "name": "Lolita Banana"
+    },
+    {
+      "name": "Oscar Madrazo"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 550000, "currency": "MXN" }
+  "cashPrice": {
+    "amount": 550000,
+    "currency": "MXN"
+  }
 }

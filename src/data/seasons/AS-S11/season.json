@@ -39,7 +39,9 @@
     "shuga-cain",
     "vivacious"
   ],
-  "winnerId": "crystal-methyd",
+  "winnerIds": [
+    "crystal-methyd"
+  ],
   "runnerUpIds": [
     "joey-jay"
   ],

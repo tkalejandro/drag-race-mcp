@@ -34,12 +34,16 @@
     "amy-krania",
     "adriana-picasso"
   ],
-  "winnerId": "lina-galore",
+  "winnerIds": [
+    "lina-galore"
+  ],
   "runnerUpIds": [
     "melissa-bianchini"
   ],
   "missCongenialityId": "silvana-della-magliana",
-  "porkchopId": "adriana-picasso",
+  "porkchopIds": [
+    "adriana-picasso"
+  ],
   "hosts": [
     {
       "name": "Priscilla"

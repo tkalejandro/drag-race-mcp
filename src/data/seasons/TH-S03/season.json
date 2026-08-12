@@ -30,18 +30,41 @@
     "kara-might",
     "srirasha-hotsauce"
   ],
-  "winnerId": "frankie-wonga",
-  "runnerUpIds": ["zepee"],
+  "winnerIds": [
+    "frankie-wonga"
+  ],
+  "runnerUpIds": [
+    "zepee"
+  ],
   "missCongenialityId": "benze-diva",
-  "porkchopId": "srirasha-hotsauce",
-  "hosts": [{ "name": "Pangina Heals" }],
+  "porkchopIds": [
+    "srirasha-hotsauce"
+  ],
+  "hosts": [
+    {
+      "name": "Pangina Heals"
+    }
+  ],
   "judges": [
-    { "name": "Pangina Heals" },
-    { "name": "Art Arya" },
-    { "name": "Sha Phatharatada Setthachai" },
-    { "name": "Metinee Kingpayom" },
-    { "name": "Niti Chaichitathorn" }
+    {
+      "name": "Pangina Heals"
+    },
+    {
+      "name": "Art Arya"
+    },
+    {
+      "name": "Sha Phatharatada Setthachai"
+    },
+    {
+      "name": "Metinee Kingpayom"
+    },
+    {
+      "name": "Niti Chaichitathorn"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "THB" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "THB"
+  }
 }

@@ -23,13 +23,17 @@
     "enorma-jean",
     "ivana-vamp"
   ],
-  "winnerId": "elecktra-bionic",
+  "winnerIds": [
+    "elecktra-bionic"
+  ],
   "runnerUpIds": [
     "farida-kant",
     "le-riche"
   ],
   "missCongenialityId": "luquisha-lubamba",
-  "porkchopId": "ivana-vamp",
+  "porkchopIds": [
+    "ivana-vamp"
+  ],
   "disqualifiedIds": [
     "enorma-jean"
   ],

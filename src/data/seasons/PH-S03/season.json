@@ -30,16 +30,35 @@
     "yudipota",
     "versex"
   ],
-  "winnerId": "maxie",
-  "runnerUpIds": ["khianna"],
+  "winnerIds": [
+    "maxie"
+  ],
+  "runnerUpIds": [
+    "khianna"
+  ],
   "missCongenialityId": "versex",
-  "porkchopId": "versex",
-  "hosts": [{ "name": "Paolo Ballesteros" }],
+  "porkchopIds": [
+    "versex"
+  ],
+  "hosts": [
+    {
+      "name": "Paolo Ballesteros"
+    }
+  ],
   "judges": [
-    { "name": "Paolo Ballesteros" },
-    { "name": "KaladKaren" },
-    { "name": "Jiggly Caliente" }
+    {
+      "name": "Paolo Ballesteros"
+    },
+    {
+      "name": "KaladKaren"
+    },
+    {
+      "name": "Jiggly Caliente"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "PHP" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "PHP"
+  }
 }

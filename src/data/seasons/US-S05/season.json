@@ -37,16 +37,36 @@
     "serena-chacha",
     "penny-tration"
   ],
-  "winnerId": "jinkx-monsoon",
-  "runnerUpIds": ["alaska", "roxxxy-andrews"],
+  "winnerIds": [
+    "jinkx-monsoon"
+  ],
+  "runnerUpIds": [
+    "alaska",
+    "roxxxy-andrews"
+  ],
   "missCongenialityId": "ivy-winters",
-  "porkchopId": "penny-tration",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "penny-tration"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Santino Rice" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Santino Rice"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
 }

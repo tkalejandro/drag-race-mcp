@@ -33,11 +33,15 @@
     "naysha-lopez",
     "monica-beverly-hillz"
   ],
-  "winnerId": "jimbo",
+  "winnerIds": [
+    "jimbo"
+  ],
   "runnerUpIds": [
     "kandy-muse"
   ],
-  "porkchopId": "monica-beverly-hillz",
+  "porkchopIds": [
+    "monica-beverly-hillz"
+  ],
   "hosts": [
     {
       "name": "RuPaul"

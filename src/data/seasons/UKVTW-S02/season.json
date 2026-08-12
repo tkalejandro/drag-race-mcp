@@ -28,17 +28,38 @@
     "arantxa-castilla-la-mancha",
     "mayhem-miller"
   ],
-  "winnerId": "tia-kofi",
-  "runnerUpIds": ["hannah-conda"],
+  "winnerIds": [
+    "tia-kofi"
+  ],
+  "runnerUpIds": [
+    "hannah-conda"
+  ],
   "missCongenialityId": "arantxa-castilla-la-mancha",
-  "porkchopId": "mayhem-miller",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "mayhem-miller"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Alan Carr" },
-    { "name": "Graham Norton" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Alan Carr"
+    },
+    {
+      "name": "Graham Norton"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 50000, "currency": "GBP" }
+  "cashPrice": {
+    "amount": 50000,
+    "currency": "GBP"
+  }
 }

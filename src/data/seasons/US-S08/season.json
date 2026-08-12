@@ -31,17 +31,39 @@
     "dax-exclamationpoint",
     "laila-mcqueen"
   ],
-  "winnerId": "bob-the-drag-queen",
-  "runnerUpIds": ["kim-chi", "naomi-smalls"],
+  "winnerIds": [
+    "bob-the-drag-queen"
+  ],
+  "runnerUpIds": [
+    "kim-chi",
+    "naomi-smalls"
+  ],
   "missCongenialityId": "cynthia-lee-fontaine",
-  "porkchopId": "naysha-lopez",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "naysha-lopez"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD"
+  }
 }

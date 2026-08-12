@@ -87,10 +87,16 @@ for (const seasonId of allDirs) {
  * Crowning LS only:
  * 1) Title looks like a finale/crowning (not Final Three/Four), or
  * 2) Lip sync is on one of the last two episodes of the season, crowns
- *    season.winnerId, and has no eliminatedIds (live finales without a
- *    recorded crown LS are intentionally left untagged).
+ *    any season.winnerIds entry, and has no eliminatedIds (live finales
+ *    without a recorded crown LS are intentionally left untagged).
  */
-function pickCrowning(episodes, winnerId) {
+function lipSyncCrownsWinner(lipSync, winnerIds) {
+  if (!winnerIds.length) return false;
+  const lsWinners = lipSync.winnerIds || [];
+  return winnerIds.some((id) => lsWinners.includes(id));
+}
+
+function pickCrowning(episodes, winnerIds) {
   const withLipSync = episodes.filter((e) => e.lipSync && !hasKind(e.lipSync));
   if (withLipSync.length === 0) return null;
 
@@ -101,9 +107,9 @@ function pickCrowning(episodes, winnerId) {
 
   if (byTitle.length === 1) return byTitle[0];
   if (byTitle.length > 1) {
-    if (winnerId) {
+    if (winnerIds.length) {
       const crowners = byTitle.filter((e) =>
-        (e.lipSync.winnerIds || []).includes(winnerId),
+        lipSyncCrownsWinner(e.lipSync, winnerIds),
       );
       if (crowners.length) return crowners[crowners.length - 1];
     }
@@ -111,12 +117,12 @@ function pickCrowning(episodes, winnerId) {
   }
 
   // Positional fallback: only near the end of the season.
-  if (!winnerId) return null;
+  if (!winnerIds.length) return null;
   const maxEp = Math.max(...episodes.map((e) => e.episodeNumber));
   const nearEnd = withLipSync.filter(
     (e) =>
       e.episodeNumber >= maxEp - 1 &&
-      (e.lipSync.winnerIds || []).includes(winnerId) &&
+      lipSyncCrownsWinner(e.lipSync, winnerIds) &&
       !(e.lipSync.eliminatedIds || []).length &&
       (e.lipSync.queenIds || []).length >= 2,
   );
@@ -134,7 +140,7 @@ for (const seasonId of allDirs) {
   const episodes = JSON.parse(fs.readFileSync(episodesPath, "utf8"));
   if (!episodes.length) continue;
 
-  const crowning = pickCrowning(episodes, season.winnerId);
+  const crowning = pickCrowning(episodes, season.winnerIds || []);
   if (!crowning) continue;
 
   crowning.lipSync.kind = "for-the-crown";

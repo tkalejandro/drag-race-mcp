@@ -31,16 +31,35 @@
     "astrid-mercury",
     "nicole-pardaux"
   ],
-  "winnerId": "captivating-katkat",
-  "runnerUpIds": ["arizona-brandy"],
+  "winnerIds": [
+    "captivating-katkat"
+  ],
+  "runnerUpIds": [
+    "arizona-brandy"
+  ],
   "missCongenialityId": "hana-beshie",
-  "porkchopId": "nicole-pardaux",
-  "hosts": [{ "name": "Paolo Ballesteros" }],
+  "porkchopIds": [
+    "nicole-pardaux"
+  ],
+  "hosts": [
+    {
+      "name": "Paolo Ballesteros"
+    }
+  ],
   "judges": [
-    { "name": "Paolo Ballesteros" },
-    { "name": "KaladKaren" },
-    { "name": "Jiggly Caliente" }
+    {
+      "name": "Paolo Ballesteros"
+    },
+    {
+      "name": "KaladKaren"
+    },
+    {
+      "name": "Jiggly Caliente"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "PHP" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "PHP"
+  }
 }

@@ -25,17 +25,38 @@
     "onyx",
     "pink-chadora"
   ],
-  "winnerId": "drag-sethlas",
-  "runnerUpIds": ["samantha-ballentines"],
+  "winnerIds": [
+    "drag-sethlas"
+  ],
+  "runnerUpIds": [
+    "samantha-ballentines"
+  ],
   "missCongenialityId": "samantha-ballentines",
-  "porkchopId": "pink-chadora",
-  "hosts": [{ "name": "Supremme de Luxe" }],
+  "porkchopIds": [
+    "pink-chadora"
+  ],
+  "hosts": [
+    {
+      "name": "Supremme de Luxe"
+    }
+  ],
   "judges": [
-    { "name": "Supremme de Luxe" },
-    { "name": "Ana Locking" },
-    { "name": "Javier Ambrossi" },
-    { "name": "Javier Calvo" }
+    {
+      "name": "Supremme de Luxe"
+    },
+    {
+      "name": "Ana Locking"
+    },
+    {
+      "name": "Javier Ambrossi"
+    },
+    {
+      "name": "Javier Calvo"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 30000, "currency": "EUR" }
+  "cashPrice": {
+    "amount": 30000,
+    "currency": "EUR"
+  }
 }

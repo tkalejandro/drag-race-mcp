@@ -33,16 +33,37 @@
     "tristan-soledade",
     "diva-more"
   ],
-  "winnerId": "organzza",
-  "runnerUpIds": ["betina-polaroid", "hellena-malditta", "miranda-lebrao"],
+  "winnerIds": [
+    "organzza"
+  ],
+  "runnerUpIds": [
+    "betina-polaroid",
+    "hellena-malditta",
+    "miranda-lebrao"
+  ],
   "missCongenialityId": "aquarela",
-  "porkchopId": "diva-more",
-  "hosts": [{ "name": "Grag Queen" }],
+  "porkchopIds": [
+    "diva-more"
+  ],
+  "hosts": [
+    {
+      "name": "Grag Queen"
+    }
+  ],
   "judges": [
-    { "name": "Grag Queen" },
-    { "name": "Bruna Braga" },
-    { "name": "Dudu Bertholini" }
+    {
+      "name": "Grag Queen"
+    },
+    {
+      "name": "Bruna Braga"
+    },
+    {
+      "name": "Dudu Bertholini"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "BRL" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "BRL"
+  }
 }

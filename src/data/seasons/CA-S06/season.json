@@ -30,18 +30,43 @@
     "star-doll",
     "paolo-perfeccion"
   ],
-  "winnerId": "van-goth",
-  "runnerUpIds": ["eboni-la-belle"],
+  "winnerIds": [
+    "van-goth"
+  ],
+  "runnerUpIds": [
+    "eboni-la-belle"
+  ],
   "missCongenialityId": "hazel",
-  "porkchopId": "paolo-perfeccion",
-  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "porkchopIds": [
+    "paolo-perfeccion"
+  ],
+  "hosts": [
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    }
+  ],
   "judges": [
-    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
-    { "name": "Traci Melchor" },
-    { "name": "Carson Kressley" },
-    { "name": "Hollywood Jade" },
-    { "name": "Sarain Fox" }
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    },
+    {
+      "name": "Traci Melchor"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Hollywood Jade"
+    },
+    {
+      "name": "Sarain Fox"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "CAD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "CAD"
+  }
 }

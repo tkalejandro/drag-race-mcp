@@ -27,12 +27,16 @@
     "magnetica",
     "afrodite-amour"
   ],
-  "winnerId": "le-filip",
+  "winnerIds": [
+    "le-filip"
+  ],
   "runnerUpIds": [
     "ruby-on-the-nail"
   ],
   "missCongenialityId": "norma-bell",
-  "porkchopId": "afrodite-amour",
+  "porkchopIds": [
+    "afrodite-amour"
+  ],
   "hosts": [
     {
       "name": "Nicky Doll"

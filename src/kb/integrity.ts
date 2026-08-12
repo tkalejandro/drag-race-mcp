@@ -35,10 +35,10 @@ export const assertKnowledgeBaseIntegrity = (kb: KnowledgeBase): void => {
       castQueenIds.add(castId);
     }
     for (const id of [
-      season.winnerId,
+      ...(season.winnerIds ?? []),
       season.missCongenialityId,
       season.lipSyncAssassinId,
-      season.porkchopId,
+      ...(season.porkchopIds ?? []),
       ...season.runnerUpIds,
       ...(season.disqualifiedIds ?? []),
     ]) {

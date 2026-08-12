@@ -33,12 +33,16 @@
     "drag-chuchi",
     "maria-edilia"
   ],
-  "winnerId": "pitita",
+  "winnerIds": [
+    "pitita"
+  ],
   "runnerUpIds": [
     "vania-vainilla"
   ],
   "missCongenialityId": "maria-edilia",
-  "porkchopId": "maria-edilia",
+  "porkchopIds": [
+    "maria-edilia"
+  ],
   "hosts": [
     {
       "name": "Supremme de Luxe"

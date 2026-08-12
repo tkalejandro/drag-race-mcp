@@ -29,9 +29,14 @@
     "farrah-moan",
     "jasmine-masters"
   ],
-  "winnerId": "monet-x-change",
+  "winnerIds": [
+    "monet-x-change",
+    "trinity-taylor"
+  ],
   "runnerUpIds": [],
-  "porkchopId": "jasmine-masters",
+  "porkchopIds": [
+    "jasmine-masters"
+  ],
   "hosts": [
     {
       "name": "RuPaul"

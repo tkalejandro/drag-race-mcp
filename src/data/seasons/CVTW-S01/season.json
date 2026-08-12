@@ -24,18 +24,37 @@
     "stephanie-prince",
     "kendall-gender"
   ],
-  "winnerId": "ra-jah-ohara",
-  "runnerUpIds": ["silky-nutmeg-ganache"],
+  "winnerIds": [
+    "ra-jah-ohara"
+  ],
+  "runnerUpIds": [
+    "silky-nutmeg-ganache"
+  ],
   "missCongenialityId": "anita-wiglit",
-  "porkchopId": "kendall-gender",
+  "porkchopIds": [
+    "kendall-gender"
+  ],
   "hosts": [
-    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    }
   ],
   "judges": [
-    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
-    { "name": "Brad Goreski" },
-    { "name": "Traci Melchor" }
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    },
+    {
+      "name": "Brad Goreski"
+    },
+    {
+      "name": "Traci Melchor"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "CAD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "CAD"
+  }
 }

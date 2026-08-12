@@ -33,12 +33,16 @@
     "porca-theclubkid",
     "shani-lasanta"
   ],
-  "winnerId": "le-coco",
+  "winnerIds": [
+    "le-coco"
+  ],
   "runnerUpIds": [
     "la-bella-vampi"
   ],
   "missCongenialityId": "dita-dubois",
-  "porkchopId": "shani-lasanta",
+  "porkchopIds": [
+    "shani-lasanta"
+  ],
   "hosts": [
     {
       "name": "Supremme de Luxe"

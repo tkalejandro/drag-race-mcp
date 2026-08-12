@@ -31,17 +31,41 @@
     "oceane-aqua-black",
     "beth"
   ],
-  "winnerId": "icesis-couture",
-  "runnerUpIds": ["kendall-gender", "pythia"],
+  "winnerIds": [
+    "icesis-couture"
+  ],
+  "runnerUpIds": [
+    "kendall-gender",
+    "pythia"
+  ],
   "missCongenialityId": "suki-doll",
-  "porkchopId": "beth",
-  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "porkchopIds": [
+    "beth"
+  ],
+  "hosts": [
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    }
+  ],
   "judges": [
-    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
-    { "name": "Brad Goreski" },
-    { "name": "Amanda Brugel" },
-    { "name": "Traci Melchor" }
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    },
+    {
+      "name": "Brad Goreski"
+    },
+    {
+      "name": "Amanda Brugel"
+    },
+    {
+      "name": "Traci Melchor"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "CAD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "CAD"
+  }
 }

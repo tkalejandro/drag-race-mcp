@@ -27,17 +27,38 @@
     "minty-fresh",
     "melinda-verga"
   ],
-  "winnerId": "gawdland",
-  "runnerUpIds": ["kate-butch"],
+  "winnerIds": [
+    "gawdland"
+  ],
+  "runnerUpIds": [
+    "kate-butch"
+  ],
   "missCongenialityId": "serena-morena",
-  "porkchopId": "melinda-verga",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "melinda-verga"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Alan Carr" },
-    { "name": "Graham Norton" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Alan Carr"
+    },
+    {
+      "name": "Graham Norton"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 50000, "currency": "GBP" }
+  "cashPrice": {
+    "amount": 50000,
+    "currency": "GBP"
+  }
 }

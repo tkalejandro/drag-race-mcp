@@ -24,16 +24,37 @@
     "cheryl-hole",
     "lemon"
   ],
-  "winnerId": "blu-hydrangea",
-  "runnerUpIds": ["monique-heart"],
-  "porkchopId": "lemon",
-  "hosts": [{ "name": "RuPaul" }],
+  "winnerIds": [
+    "blu-hydrangea"
+  ],
+  "runnerUpIds": [
+    "monique-heart"
+  ],
+  "porkchopIds": [
+    "lemon"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Alan Carr" },
-    { "name": "Graham Norton" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Alan Carr"
+    },
+    {
+      "name": "Graham Norton"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "GBP" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "GBP"
+  }
 }

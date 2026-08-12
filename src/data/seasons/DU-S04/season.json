@@ -27,12 +27,16 @@
     "karna-ford",
     "olivia-dreams"
   ],
-  "winnerId": "lazy-susan",
+  "winnerIds": [
+    "lazy-susan"
+  ],
   "runnerUpIds": [
     "mandy-moobs",
     "vybe"
   ],
-  "porkchopId": "olivia-dreams",
+  "porkchopIds": [
+    "olivia-dreams"
+  ],
   "hosts": [
     {
       "name": "Michelle Visage"
