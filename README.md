@@ -1,4 +1,4 @@
-# Drag Race MCP (WIP) 👑
+# Drag Race MCP 👑
 
 > An unofficial, community-driven MCP (Model Context Protocol) server for Drag Race knowledge.
 
@@ -7,6 +7,105 @@
 > **Disclaimer**
 >
 > This is an **unofficial fan project** and is **not affiliated with, endorsed by, or sponsored by** RuPaul, World of Wonder, or the Drag Race franchise.
+
+---
+
+## Use as an MCP client
+
+This package is a **stdio** MCP server. Your client spawns it as a child process and talks JSON-RPC over stdin/stdout — do not start the server yourself.
+
+**Launch command** (pick one):
+
+| How | Command / args |
+|-----|----------------|
+| Published package | `npx` → `@tkalejandro/drag-race-mcp` |
+| Local clone (built) | `node` → `dist/index.js` (run `pnpm build` first) |
+| Local clone (dev) | `pnpm` → `exec` `tsx` `src/index.ts` (from the repo root) |
+
+Hosts like Cursor can wire the same command in MCP config (see [Test locally with Cursor](#test-locally-with-cursor)). Below are minimal **programmatic** clients.
+
+### TypeScript
+
+```bash
+npm install @modelcontextprotocol/client
+```
+
+```ts
+import { Client } from "@modelcontextprotocol/client";
+import { StdioClientTransport } from "@modelcontextprotocol/client/stdio";
+
+const client = new Client({ name: "drag-race-client", version: "1.0.0" });
+
+const transport = new StdioClientTransport({
+  command: "npx",
+  args: ["-y", "@tkalejandro/drag-race-mcp"],
+  // Local clone instead:
+  // command: "node",
+  // args: ["dist/index.js"],
+  // cwd: "/path/to/drag-race-mcp",
+});
+
+await client.connect(transport);
+
+const { tools } = await client.listTools();
+console.log(tools.map((t) => t.name));
+
+const result = await client.callTool({
+  name: "search_queens",
+  arguments: { query: "jinkx", limit: 5 },
+});
+
+for (const block of result.content) {
+  if (block.type === "text") console.log(block.text);
+}
+
+await client.close();
+```
+
+### Python
+
+```bash
+pip install mcp
+# or: uv add mcp
+```
+
+```python
+import asyncio
+
+from mcp import ClientSession, StdioServerParameters
+from mcp.client.stdio import stdio_client
+
+
+async def main() -> None:
+    server = StdioServerParameters(
+        command="npx",
+        args=["-y", "@tkalejandro/drag-race-mcp"],
+        # Local clone instead:
+        # command="node",
+        # args=["dist/index.js"],
+        # cwd="/path/to/drag-race-mcp",
+    )
+
+    async with stdio_client(server) as (read, write):
+        async with ClientSession(read, write) as session:
+            await session.initialize()
+
+            tools = await session.list_tools()
+            print([t.name for t in tools.tools])
+
+            result = await session.call_tool(
+                "search_queens",
+                arguments={"query": "jinkx", "limit": 5},
+            )
+            for block in result.content:
+                if block.type == "text":
+                    print(block.text)
+
+
+asyncio.run(main())
+```
+
+Tool names and arguments match the table in [MCP tools](#mcp-tools) (e.g. `get_queen`, `get_season`, `get_queen_earnings`).
 
 ---
 

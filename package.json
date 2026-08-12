@@ -1,13 +1,14 @@
 {
-  "name": "drag-race-mcp",
+  "name": "@tkalejandro/drag-race-mcp",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "MCP Server for Drag Race",
   "main": "index.js",
   "scripts": {
     "test": "tsx --test \"src/**/*.test.ts\"",
     "prepare": "husky",
-    "build": "tsc -p tsconfig.build.json && chmod 755 dist/index.js"
+    "build": "tsc -p tsconfig.build.json && chmod 755 dist/index.js",
+    "prepublishOnly": "pnpm build"
   },
   "files": [
     "dist"
@@ -15,9 +16,21 @@
   "bin": {
     "drag-race-mcp": "./dist/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "mcp",
+    "drag race",
+    "mcp server",
+    "mcp agent",
+    "mcp agent server",
+    "mcp agent server for drag race",
+    "rupaul's drag race",
+    "rupaul"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@modelcontextprotocol/server": "^2.0.0",
     "zod": "^4.4.3"
