@@ -1,4 +1,4 @@
-# Drag Race MCP (WIP) 👑
+# Drag Race MCP 👑
 
 > An unofficial, community-driven MCP (Model Context Protocol) server for Drag Race knowledge.
 
