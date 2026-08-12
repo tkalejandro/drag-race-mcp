@@ -10,7 +10,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "CA-S03-E01",
-          "name": "Serve a streetwear chic look in a rooftop fashion show"
+          "name": "Serve a streetwear chic look in a rooftop fashion show",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,500 courtesy of the Rupaul's Drag Race Werq the World Tour",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

@@ -35,6 +35,7 @@ export const EpisodeLipSyncSchema = z.object({
       LipSyncKind.SMACKDOWN,
     ])
     .optional(),
+  earnings: MoneySchema.optional(),
 });
 
 export const EpisodeSchema = z.object({

@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "FR-S02-E06",
-          "name": "The Time Ball"
+          "name": "The Time Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "pair of embroidered boots from Christian Louboutin",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

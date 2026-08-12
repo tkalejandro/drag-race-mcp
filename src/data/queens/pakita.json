@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "ES-S03-E05",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€1,000 worth of products from FOREO",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

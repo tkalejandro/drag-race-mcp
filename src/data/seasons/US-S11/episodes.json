@@ -8,13 +8,25 @@
       "name": "Photoshoot with past Drag Race queens",
       "winnerIds": [
         "silky-nutmeg-ganache"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from Arda Wigs",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create an outfit using materials belonging to former RuPaul's Drag Race queens",
       "winnerIds": [
         "brooke-lynn-hytes"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "seven night stay in Paris, France courtesy of misterb&b",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "akeria-c-davenport",
@@ -55,14 +67,26 @@
       "winnerIds": [
         "brooke-lynn-hytes",
         "silky-nutmeg-ganache"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 gift card from Fierce Queen",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform in drag film adaptations of Black Panther and Get Out",
       "winnerIds": [
         "scarlet-envy",
         "yvie-oddly"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from The Crème Shop",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "What's Your Sign?",
     "topIds": [
@@ -107,13 +131,25 @@
       "winnerIds": [
         "nina-west",
         "ra-jah-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,500 gift card from J.J. Malibu",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, star in a she-vangelical talk show worshiping a diva",
       "winnerIds": [
         "nina-west"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,500 gift card from ISLYNYC",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Fringe",
     "topIds": [
@@ -166,13 +202,25 @@
       "name": "Why You Maddow, Tho?",
       "winnerIds": [
         "scarlet-envy"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 gift card from The Divas Jewels",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Trump: The Rusical",
       "winnerIds": [
         "silky-nutmeg-ganache"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "getaway to The Grand Resort and Spa in Fort Lauderdale",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Orange Alert",
     "topIds": [
@@ -215,13 +263,25 @@
       "name": "Create a living doll",
       "winnerIds": [
         "ra-jah-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 gift card from Coolhaus Ice Cream",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "The Monster Ball",
       "winnerIds": [
         "brooke-lynn-hytes"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 gift card from Travelgay.com",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Trampy Trick or Treater, Witch Please!, and MILF Eleganza",
     "topIds": [
@@ -265,13 +325,25 @@
       "winnerIds": [
         "akeria-c-davenport",
         "plastique-tiara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,500 gift card from MuLondon",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform in a free-style floor performance which includes Fanography, Voguing and Shablam",
       "winnerIds": [
         "akeria-c-davenport"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from daftboy and $2,500 gift card from Elea's Closet",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "All That Glitters is Gold",
     "topIds": [
@@ -316,13 +388,25 @@
       "winnerIds": [
         "nina-west",
         "shuga-cain"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip courtesy of Hask",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create an outfit made out of organic materials",
       "winnerIds": [
         "plastique-tiara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "five night trip to Toronto courtesy of Tourism Toronto",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Farm to Runway",
     "topIds": [
@@ -365,13 +449,25 @@
       "name": "Pitch your own Self-Help Book",
       "winnerIds": [
         "silky-nutmeg-ganache"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 credit from Postmates",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game at Sea",
       "winnerIds": [
         "silky-nutmeg-ganache"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$5,000 gift certificate from VACAYA",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sequins on the Runway",
     "topIds": [
@@ -412,13 +508,25 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "brooke-lynn-hytes"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card to l.a.Eyeworks",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In pairs, perform in an improvised comedy police sketch for Los Angeles Drag Patrol (L.A.D.P.)",
       "winnerIds": [
         "akeria-c-davenport"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "2 VIP tickets to Cirque du Soleil: Zumanity in Las Vegas, including flights and hotel accommodations",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Face-Kini Fantasy",
     "topIds": [
@@ -464,13 +572,25 @@
       "name": "Balls to the Wall",
       "winnerIds": [
         "vanessa-vanjie-mateo"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from Dirt Squirrel",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, perform a magic show in front of the judges and a live audience",
       "winnerIds": [
         "nina-west"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 gift card from Marek & Richard and $3,000 gift card from OutOfOffice.com",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Caftan Realness",
     "topIds": [
@@ -512,13 +632,25 @@
       "name": "Attempt to make the other queens slap them",
       "winnerIds": [
         "brooke-lynn-hytes"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Nails and lashes from KISS USA, and a wig and styling package from Luxelab",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Makeover the eliminated queens",
       "winnerIds": [
         "brooke-lynn-hytes"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "trip for two to Aruba with complimentary airfare and a five-night stay at the Marriott Resort and Stellaris Casino for Brooke Lynn, and a $2,000 gift card from Klein Epstein & Parker for Plastique Tiara",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Drag Family Values",
     "topIds": [

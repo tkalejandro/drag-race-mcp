@@ -14,7 +14,13 @@
       "name": "Write, record, and perform verses to \"We Are Légendaires\"",
       "winnerIds": [
         "sara-forever"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€2,500 worth of products from Horace",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "SuperDrag",
     "topIds": [
@@ -63,7 +69,13 @@
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "piche"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "trip to Malta",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "2 en 1",
     "topIds": [
@@ -110,7 +122,13 @@
       "name": "Host in the new morning show \"Le Croissant Show\"",
       "winnerIds": [
         "sara-forever"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Jewelry from YPARIS",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "La nuit des 1000 Dalida",
     "topIds": [
@@ -160,7 +178,13 @@
       "name": "Snatch Game",
       "winnerIds": [
         "punani"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "luxury outfit from Patou worth €2,500",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sous l'Océan",
     "topIds": [
@@ -209,7 +233,13 @@
       "name": "Le Bossu de Notre Drag: The Rusical",
       "winnerIds": [
         "keiona"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "tailored outfit by Victor Weisanto provided by Nona Source",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Démesure Couture",
     "topIds": [
@@ -259,7 +289,13 @@
       "winnerIds": [
         "cookie-kunty",
         "keiona"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "pair of embroidered boots from Christian Louboutin",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Héroïne du passé / Futuriste Chic / Reine du Bal",
     "topIds": [
@@ -296,7 +332,13 @@
       "name": "Perform in a girl group performance to \"Attention\" against the eliminated queens",
       "winnerIds": [
         "sara-forever"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€2,000 worth of products from MAC Cosmetics",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Brillez pour nous",
     "topIds": [
@@ -345,7 +387,13 @@
       "name": "Makeover rugby players",
       "winnerIds": [
         "sara-forever"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€2,000 mall gift card",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Belle de match",
     "topIds": [

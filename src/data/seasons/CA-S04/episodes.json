@@ -8,7 +8,13 @@
       "name": "Present three looks: First Impressions, Shimmering Showgirls and Me Myself and I",
       "winnerIds": [
         "venus"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Fabricland",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Me Myself and I",
     "topIds": [
@@ -40,7 +46,13 @@
       "name": "In teams, advertise a drag look product as a host on the shopping channel parody QV-She",
       "winnerIds": [
         "kitten-kaboodle"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of So Fierce Music",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Gemstones",
     "topIds": [
@@ -80,13 +92,25 @@
       "name": "Get into quick drag and interview as an actress for a parody film",
       "winnerIds": [
         "melinda-verga"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of Tan on the Run",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses for the OH-SHE-GAGGIN music festival",
       "winnerIds": [
         "aurora-matrix"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip and a year supply of cookies courtesy of Craig's Cookies",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sunglasses at Night",
     "topIds": [
@@ -126,13 +150,24 @@
       "name": "Metallic photoshoot",
       "winnerIds": [
         "nearah-nuff"
-      ]
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "CAD",
+        "context": "$2,000 cash tip and a supply of GOT2B products"
+      }
     },
     "maxiChallenge": {
       "name": "Create a look using Brad Goreski's hand-me-downs",
       "winnerIds": [
         "kiki-coe"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Swish Embassy",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Out of the Closet",
     "topIds": [
@@ -170,13 +205,25 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "denim"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of the Men's Room",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "melinda-verga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 shopping spree at Shoefreaks",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Steampunk",
     "topIds": [
@@ -216,7 +263,13 @@
       "name": "Participate in a lip-sync slay off extravaganza",
       "winnerIds": [
         "nearah-nuff"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "trip to Puerto Vallarta, Mexico",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "aurora-matrix",
@@ -257,13 +310,25 @@
       "name": "Get into quick drag and host a parody late night call-in show called Just A Tip",
       "winnerIds": [
         "venus"
-      ]
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "CAD",
+        "context": "$2,000 cash tip and $500 worth of products courtesy of Trojan",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "From Drags to Riches: The Rusical",
       "winnerIds": [
         "aurora-matrix"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "trip to Curaçao",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Always a Bridesmaid",
     "topIds": [
@@ -303,13 +368,25 @@
       "name": "Model in a photoshoot wearing makeup applied by your loved one",
       "winnerIds": [
         "melinda-verga"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of O'Grady's pub",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Give a drag makeover to a loved one",
       "winnerIds": [
         "denim"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip and a $5,000 donation to PFLAG Canada courtesy of Neutrogena",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "A Star Is Born",
     "topIds": [

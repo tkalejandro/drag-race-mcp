@@ -8,7 +8,13 @@
       "name": "Write, record, and perform verses to Go Off Queen",
       "winnerIds": [
         "the-virgo-queen"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Gilead Sciences Canada",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "You Oughta Know... Me",
     "topIds": [
@@ -40,7 +46,13 @@
       "name": "In teams, film a PSA teaching aliens about life on Earth",
       "winnerIds": [
         "perla"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Safer Six",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Time and Place",
     "topIds": [
@@ -83,7 +95,13 @@
       "name": "In teams, participate in a lip-sync slay off extravaganza",
       "winnerIds": [
         "the-virgo-queen"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip and a $5,000 donation to LGBT Youthline courtesy of Neutrogena",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "the-virgo-queen"
@@ -120,13 +138,25 @@
       "name": "Boudoir photoshoot",
       "winnerIds": [
         "sanjina-dabish-queen"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of Knix",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Present two looks on the runway: Slow Mo Couture and Fast Fashion",
       "winnerIds": [
         "minhi-wang"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "trip for two to the Montréal Village",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Slow Mo Couture / Fast Fashion",
     "topIds": [
@@ -166,13 +196,25 @@
       "name": "Get into quick drag and audition to be a '90s showcase supermodel",
       "winnerIds": [
         "uma-gahd"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of Shoefreaks",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Duh and Not",
       "winnerIds": [
         "makayla-couture"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Gilead Sciences Canada",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Grunge and Glamour",
     "topIds": [
@@ -212,13 +254,25 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "helena-poison"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of The Men's Room",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "xana"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Cedars Campground",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Alien Superstar",
     "topIds": [
@@ -259,7 +313,13 @@
       "name": "Design an outfit to be modeled by Brooke Lynn Hytes",
       "winnerIds": [
         "minhi-wang"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "luxury trip for two to Punta Cana courtesy of Air Canada Vacations",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Wardrobe Malfunction",
     "topIds": [
@@ -298,13 +358,25 @@
       "name": "Reporting in front of a green screen",
       "winnerIds": [
         "the-virgo-queen"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of Swish Embassy",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Recap talk show hosted by Brad Goreski",
       "winnerIds": [
         "helena-poison"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of House of Jimbo",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Statuesque",
     "topIds": [

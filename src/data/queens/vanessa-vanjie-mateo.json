@@ -23,7 +23,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E10",
-          "name": "Balls to the Wall"
+          "name": "Balls to the Wall",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from Dirt Squirrel",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

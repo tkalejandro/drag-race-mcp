@@ -8,21 +8,42 @@
       "challengeWins": [
         {
           "episodeId": "US-S14-E07",
-          "name": "Act in an 80s soap opera called The Daytona Wind"
+          "name": "Act in an 80s soap opera called The Daytona Wind",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S14-E12",
-          "name": "Moulin Ru: The Rusical"
+          "name": "Moulin Ru: The Rusical",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip and a trip to New York with tickets to Moulin Rouge"
+          }
         },
         {
           "episodeId": "US-S14-E14",
-          "name": "Write, record, and perform verses to RuPaul's Catwalk"
+          "name": "Write, record, and perform verses to RuPaul's Catwalk",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S14-E13",
-          "name": "In teams, paint a mural of Dolly Parton or RuPaul"
+          "name": "In teams, paint a mural of Dolly Parton or RuPaul",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 worth of Anastasia Beverly Hills cosmetics",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

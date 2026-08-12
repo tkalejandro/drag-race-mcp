@@ -8,15 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S06-E02",
-          "name": "Create an outfit inspired by party supplies"
+          "name": "Create an outfit inspired by party supplies",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 shopping spree from Fabric Planet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S06-E08",
-          "name": "Stand-up comedy act in front of the judges and a live audience"
+          "name": "Stand-up comedy act in front of the judges and a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "one-of-a-kind gown designed by Marco Marco",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S06-E10",
-          "name": "Makeover grooms into brides for a drag wedding"
+          "name": "Makeover grooms into brides for a drag wedding",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "trip for two to Hawaii",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

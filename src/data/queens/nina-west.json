@@ -8,21 +8,45 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E03",
-          "name": "In teams, star in a she-vangelical talk show worshiping a diva"
+          "name": "In teams, star in a she-vangelical talk show worshiping a diva",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$3,500 gift card from ISLYNYC",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E10",
-          "name": "In teams, perform a magic show in front of the judges and a live audience"
+          "name": "In teams, perform a magic show in front of the judges and a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$3,000 gift card from Marek & Richard and $3,000 gift card from OutOfOffice.com",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E03",
-          "name": "Seduce your way into a Seduction concert"
+          "name": "Seduce your way into a Seduction concert",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 gift card from J.J. Malibu",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E07",
-          "name": "Participate in a potato sack race serving boob-ography"
+          "name": "Participate in a potato sack race serving boob-ography",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip courtesy of Hask",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],
@@ -51,11 +75,21 @@
       "miniChallengeWins": [
         {
           "episodeId": "AS-S09-E07",
-          "name": "Fruity Patootie"
+          "name": "Fruity Patootie",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "Immunity from being cut off (later substituted for a $2,500 charity donation)"
+          }
         },
         {
           "episodeId": "AS-S09-E08",
-          "name": "Photobomb a vacation locale"
+          "name": "Photobomb a vacation locale",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 charity donation"
+          }
         },
         {
           "episodeId": "AS-S09-E11",

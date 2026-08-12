@@ -8,13 +8,24 @@
       "challengeWins": [
         {
           "episodeId": "US-S14-E08",
-          "name": "Write, record, and perform verses as 60s-inspired girl groups"
+          "name": "Write, record, and perform verses as 60s-inspired girl groups",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S14-E13",
-          "name": "In teams, paint a mural of Dolly Parton or RuPaul"
+          "name": "In teams, paint a mural of Dolly Parton or RuPaul",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 worth of Anastasia Beverly Hills cosmetics",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -52,7 +63,12 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S10-E09",
-          "song": "Mama Used to Say"
+          "song": "Mama Used to Say",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

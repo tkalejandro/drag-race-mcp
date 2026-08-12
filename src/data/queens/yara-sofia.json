@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S03-E11",
-          "name": "The Hair Ball"
+          "name": "The Hair Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "An Alaskan cruise for 2 from Al and Chuck Travel",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -66,7 +72,13 @@
       "challengeWins": [
         {
           "episodeId": "AS-S06-E01",
-          "name": "Perform a talent show in front of the judges"
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Seven-nights stay at a luxury villa in Italy, courtesy of MyGayGetaway",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

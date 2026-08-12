@@ -8,21 +8,45 @@
       "challengeWins": [
         {
           "episodeId": "CA-S02-E01",
-          "name": "Create a look made from coat check items"
+          "name": "Create a look made from coat check items",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "home entertainment package valued at $5,000 from The Source",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S02-E06",
-          "name": "The Sinner's Ball"
+          "name": "The Sinner's Ball",
+          "earnings": {
+            "amount": 5000,
+            "currency": "CAD",
+            "context": "$5,000 cash tip courtesy of Palm Holdings",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S02-E04",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2000,
+            "currency": "CAD",
+            "context": "$2,000 cash tip courtesy of Tan on the Run",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S02-E06",
-          "name": "Get into quick drag and paint an evocative twerk of art resembling their inner saboteur"
+          "name": "Get into quick drag and paint an evocative twerk of art resembling their inner saboteur",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,000 gift card courtesy of Indochino",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

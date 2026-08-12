@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S04-E07",
-          "name": "Create a magazine cover on an assigned topic"
+          "name": "Create a magazine cover on an assigned topic",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "cruise to the Bahamas courtesy of Al & Chuck Travel",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S04-E10",
-          "name": "Makeover a DILF into a pregnant drag diva"
+          "name": "Makeover a DILF into a pregnant drag diva",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "trip for two to Las Vegas courtesy of Al & Chuck Travel",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -47,7 +59,13 @@
       "challengeWins": [
         {
           "episodeId": "AS-S02-E04",
-          "name": "In pairs, act in a parody movie sequel from one of RuPaul's favorite movies"
+          "name": "In pairs, act in a parody movie sequel from one of RuPaul's favorite movies",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 shopping spree to Fabric Planet",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

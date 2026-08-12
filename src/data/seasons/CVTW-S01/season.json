@@ -55,6 +55,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 100000,
-    "currency": "CAD"
+    "currency": "CAD",
+    "context": "CA$100,000 season grand prize"
   }
 }

@@ -8,15 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S07-E02",
-          "name": "In teams, perform a mash-up of spoken word and song for a Glamazonian Airways pre-flight safety video"
+          "name": "In teams, perform a mash-up of spoken word and song for a Glamazonian Airways pre-flight safety video",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "five-night luxury hotel accommodations courtesy of My Gay Getaway",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S07-E07",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Feather accessories from Mother Plucker",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S07-E09",
-          "name": "Star in musical versions of iconic John Waters films"
+          "name": "Star in musical versions of iconic John Waters films",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "hair collection by Weavin' Steven",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -64,21 +82,42 @@
       "challengeWins": [
         {
           "episodeId": "AS-S06-E05",
-          "name": "Host a talk show called Pink Table Talk"
+          "name": "Host a talk show called Pink Table Talk",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
         },
         {
           "episodeId": "AS-S06-E08",
-          "name": "Snatch Game of Love"
+          "name": "Snatch Game of Love",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000, courtesy of Barefoot Wine"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "AS-S06-E01",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from ISLYNYC",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S06-E09",
-          "name": "All Star Class Superlatives"
+          "name": "All Star Class Superlatives",
+          "earnings": {
+            "amount": 1000,
+            "currency": "USD",
+            "context": "$1,000 tip, courtesy of the United States Department of Education"
+          }
         }
       ],
       "lipSyncWins": [
@@ -116,7 +155,12 @@
         },
         {
           "episodeId": "AS-S10-E10",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 cash prize"
+          }
         },
         {
           "episodeId": "AS-S10-E12",
@@ -127,11 +171,21 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S10-E07",
-          "song": "Defying Gravity"
+          "song": "Defying Gravity",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S10-E08",
-          "song": "See You Again"
+          "song": "See You Again",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S10-E12",

@@ -8,7 +8,12 @@
       "name": "Write and perform an original verse to a disco or glam-rock rendition of \"Money, Success, Fame, Glamour\"",
       "winnerIds": [
         "kahanna-montrese"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "Famous Forever: Your Timeless Signature Drag",
     "topIds": [
@@ -47,7 +52,12 @@
       "name": "Perform in a sketch comedy of RDR Live",
       "winnerIds": [
         "jimbo"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "Net Gala",
     "topIds": [
@@ -86,7 +96,12 @@
       "name": "The Supermarket Ball",
       "winnerIds": [
         "jessica-wild"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "Legen-dairy Queens / Fruity Patootie / Supermarket Supermodel Eleganza",
     "topIds": [
@@ -108,7 +123,12 @@
       "eliminatedIds": [
         "mrs-kasha-davis"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -125,7 +145,12 @@
       "name": "Star in a scripted TV series trailer",
       "winnerIds": [
         "jimbo"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "Ass The World Turns",
     "topIds": [
@@ -165,7 +190,12 @@
       "name": "Snatch Game of Love",
       "winnerIds": [
         "jimbo"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "RuVeal Yourself",
     "topIds": [
@@ -204,7 +234,12 @@
       "name": "JOAN: The Unauthorized Rusical!",
       "winnerIds": [
         "kandy-muse"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "Night of 1,000 Grace Joneses",
     "topIds": [
@@ -226,7 +261,12 @@
       "eliminatedIds": [
         "jaymes-mansfield"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -243,7 +283,12 @@
       "name": "Improvise in the true-crime spoof \"Forensic Queens: Wha-Ha-Happened to Lil' Poundcake?\"",
       "winnerIds": [
         "lala-ri"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "Miss Fill-in-the-Blank",
     "topIds": [
@@ -265,7 +310,12 @@
       "eliminatedIds": [
         "kahanna-montrese"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -282,7 +332,12 @@
       "name": "Transform materials into a signature \"I'm a Winner, Baby!\" look",
       "winnerIds": [
         "alexis-michelle"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "I'm A Winner Baby",
     "topIds": [
@@ -304,7 +359,12 @@
       "eliminatedIds": [
         "lala-ri"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -321,7 +381,12 @@
       "name": "A roast of Carson Kressley",
       "winnerIds": [
         "jimbo"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "Snow Bunny",
     "topIds": [
@@ -344,7 +409,12 @@
       "eliminatedIds": [
         "alexis-michelle"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -361,13 +431,23 @@
       "name": "Design and model a look based on a Jean Paul Gaultier perfume bottle",
       "winnerIds": [
         "jessica-wild"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500"
+      }
     },
     "maxiChallenge": {
       "name": "Give lesbians drag makeovers",
       "winnerIds": [
         "kandy-muse"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "Drag Family Resemblance",
     "topIds": [
@@ -406,7 +486,12 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "mrs-kasha-davis"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500"
+      }
     },
     "maxiChallenge": {
       "name": "Fame Games Variety Extravaganza",
@@ -429,7 +514,12 @@
         "jaymes-mansfield",
         "lala-ri"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {

@@ -8,15 +8,30 @@
       "challengeWins": [
         {
           "episodeId": "US-S12-E02",
-          "name": "Write, record, and perform verses to You Don't Know Me"
+          "name": "Write, record, and perform verses to You Don't Know Me",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S12-E09",
-          "name": "Participate in a presidential debate called Choices 2020"
+          "name": "Participate in a presidential debate called Choices 2020",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S12-E10",
-          "name": "Makeover Drag Race superfans"
+          "name": "Makeover Drag Race superfans",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip for Jaida Essence Hall, and a $5,000 gift card to Shop Betsey Johnson for Jazz Essence Hall"
+          }
         }
       ],
       "miniChallengeWins": [],

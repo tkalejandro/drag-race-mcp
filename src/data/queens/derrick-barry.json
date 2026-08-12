@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S08-E07",
-          "name": "Paired presidential smear campaign ads"
+          "name": "Paired presidential smear campaign ads",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom made gown from MountBatten Concepts",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

@@ -57,6 +57,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 2000000,
-    "currency": "PHP"
+    "currency": "PHP",
+    "context": "₱2,000,000 season grand prize"
   }
 }

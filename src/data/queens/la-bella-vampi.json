@@ -11,7 +11,12 @@
       "challengeWins": [
         {
           "episodeId": "ES-S04-E06",
-          "name": "Eternas musical"
+          "name": "Eternas musical",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a necklace and earrings from Aster LAB"
+          }
         }
       ],
       "miniChallengeWins": [],

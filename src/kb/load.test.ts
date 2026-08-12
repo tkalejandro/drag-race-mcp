@@ -51,7 +51,11 @@ const minimalSeason = (id: string, castIds: string[], episodeIds: string[]) => (
   hosts: [{ name: "RuPaul" }],
   judges: [{ name: "RuPaul" }],
   isCharity: false,
-  cashPrice: { amount: 0, currency: "USD" },
+  cashPrice: {
+    amount: 0,
+    currency: "USD",
+    context: "No cash prize",
+  },
 });
 
 const minimalEpisode = (id: string, seasonId: string, episodeNumber: number) => ({

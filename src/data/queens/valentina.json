@@ -8,13 +8,25 @@
       "challengeWins": [
         {
           "episodeId": "US-S09-E02",
-          "name": "Compete in a cheerleading battle"
+          "name": "Compete in a cheerleading battle",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "wig wardrobe by RockStar Wigs.",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S09-E08",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "4-night stay at Saguaro in Palm Springs",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],
@@ -33,7 +45,13 @@
       "challengeWins": [
         {
           "episodeId": "AS-S04-E02",
-          "name": "Write, record, and perform original verses in girl groups"
+          "name": "Write, record, and perform original verses in girl groups",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from Arda Wigs and a $1,000 gift card from CoolHaus Ice Cream",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E06",

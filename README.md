@@ -262,7 +262,7 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 │   └── tools/                # MCP registerTool wrappers only
 │       ├── general/          # welcome_user.ts
 │       ├── seasons/          # list_season_ids.ts, get_season.ts
-│       ├── queens/           # list_queen_ids.ts, search_queens.ts, get_queen.ts
+│       ├── queens/           # list_queen_ids.ts, search_queens.ts, get_queen.ts, get_queen_earnings.ts
 │       ├── episodes/         # get_episode.ts
 │       └── lore/             # get_lore.ts, search_lore.ts
 │
@@ -370,6 +370,7 @@ That’s the same path used in development: **Cursor discovers the server’s to
 | `list_queen_ids` | Cast queen ids for one `seasonId` (required) |
 | `search_queens` | Search queens by name/alias (limit default 20, max 50) |
 | `get_queen` | Full queen record |
+| `get_queen_earnings` | Career prize breakdown (cash, charity, non-cash) |
 | `get_episode` | Episode detail |
 | `get_lore` | Lore entry by id |
 | `search_lore` | Search lore by query, tags, queen, and/or season |

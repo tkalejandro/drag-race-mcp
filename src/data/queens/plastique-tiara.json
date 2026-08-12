@@ -8,13 +8,25 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E07",
-          "name": "Create an outfit made out of organic materials"
+          "name": "Create an outfit made out of organic materials",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "five night trip to Toronto courtesy of Tourism Toronto",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E06",
-          "name": "Galisthenics with Love Connie"
+          "name": "Galisthenics with Love Connie",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 gift card from MuLondon",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

@@ -8,13 +8,25 @@
       "name": "Stand out on the runway among a sea of legendary queens from past seasons",
       "winnerIds": [
         "monet-x-change"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to FierceQueen.com",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create an outfit made from items found at a 99 cent store",
       "winnerIds": [
         "mayhem-miller"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "luxury Hawaiian getaway to Hale Mohalu Guesthouse and Retreat",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "blair-st-clair",
@@ -61,7 +73,13 @@
       "name": "PharmaRusical",
       "winnerIds": [
         "the-vixen"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Jewelry from Fierce Drag Jewels and a $2,000 gift card to Nailed by Cristy",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Very Best Drag",
     "topIds": [
@@ -110,7 +128,13 @@
       "name": "In teams, film ads for new dating apps",
       "winnerIds": [
         "asia-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to Casper Sleep and a $3,000 gift card to Catherine D'Lish",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Feathers",
     "topIds": [
@@ -153,13 +177,25 @@
       "name": "Photobomb iconic celebrity pictures",
       "winnerIds": [
         "aquaria"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 credit to Postmates",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "The Last Ball on Earth",
       "winnerIds": [
         "aquaria"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to D Bleu Dazzled and wigs courtesy of RockStar Wigs",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Alaskan Winter Realness, Miami Summer Realness, and Martian Eleganza Extravaganza",
     "topIds": [
@@ -208,7 +244,13 @@
       "name": "In pairs, improvise in the new day-time talk show \"Bossy Rossy\"",
       "winnerIds": [
         "eureka"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "2 VIP tickets to Cirque du Soleil: Zumanity in Las Vegas, including flights and accommodation",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Denim and Diamonds",
     "topIds": [
@@ -251,13 +293,25 @@
       "name": "Identify objects by only sitting on them",
       "winnerIds": [
         "asia-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 hair care package from Art Lab Salon",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, create and produce RuPaul's DragCon panels in front of a live audience",
       "winnerIds": [
         "eureka"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Four-night stay and spa treatments for 2 at Saguaro in Palm Springs",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Hats Incredible",
     "topIds": [
@@ -300,13 +354,25 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "eureka"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to l.a.Eyeworks",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "aquaria"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "6-night stay at Grove Hotel on Fire Island",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Mermaid Fantasy",
     "topIds": [
@@ -349,13 +415,25 @@
       "name": "Attempt to make RuPaul slap them",
       "winnerIds": [
         "asia-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to Sparkles Rhinestones",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Cher: The Unauthorized Rusical",
       "winnerIds": [
         "kameron-michaels"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "luxury VIP getaway to Sofitel Hotel in Los Angeles",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Glitterific",
     "topIds": [
@@ -403,7 +481,13 @@
       "name": "Act in the new hit series \"Breastworld\"",
       "winnerIds": [
         "asia-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "4-night stay at Frog Meadow Farm in Vermont",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Silver Foxy",
     "topIds": [
@@ -444,13 +528,25 @@
       "name": "Participate in a manly photoshoot advertising a new body spray called \"Trade\"",
       "winnerIds": [
         "eureka"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to MuLondon",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Makeover social media superstars",
       "winnerIds": [
         "miz-cracker"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to Jane Doe Latex for the queen and a $2,000 gift card to Klein, Epstein, and Parker for their partner",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Drag Family Values",
     "topIds": [
@@ -493,13 +589,25 @@
       "name": "Decorate a pancake in edible drag",
       "winnerIds": [
         "asia-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to The Spa on Rodeo",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Present two characters on the runway: Best Self and Evil Twin",
       "winnerIds": [
         "aquaria"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "trip for 2 to The Grand Resort and Spa in Fort Lauderdale and two luggage sets from Radden Luggage",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Best Self and Evil Twin",
     "topIds": [

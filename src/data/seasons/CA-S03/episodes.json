@@ -8,13 +8,25 @@
       "name": "Serve a streetwear chic look in a rooftop fashion show",
       "winnerIds": [
         "bombae"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 courtesy of the Rupaul's Drag Race Werq the World Tour",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create a new catwalk couture look using the mini-challenge streetwear look",
       "winnerIds": [
         "lady-boom-boom"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 courtesy of Palm Holdings",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sidewalk to Catwalk",
     "topIds": [
@@ -54,13 +66,25 @@
       "name": "Design a hockey equipment quick-drag look and audition for a drag queen hockey team",
       "winnerIds": [
         "chelazon-leroux"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 courtesy of the drag queen hip pad company Planet Pepper + the power to form the groups for the Main Challenge",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Host and present segments of the Who-Knows awards show",
       "winnerIds": [
         "kimmy-couture"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 and a weekend getaway for two to Prince Edward County, courtesy of Welcome to the Dans",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Goddesses of the Ancient World",
     "topIds": [
@@ -100,13 +124,25 @@
       "name": "Create a quick-drag masculine character and make Brooke laugh on a blind date",
       "winnerIds": [
         "vivian-vanderpuss"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 gift card courtesy of ShoeFreaks + the power to assign the songs for the Main Challenge",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In pairs, choreograph and perform lip-sync numbers to RuPaul duets",
       "winnerIds": [
         "jada-shada-hudson"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 gift card courtesy of Fabricland",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sleeves",
     "topIds": [
@@ -150,13 +186,25 @@
       "name": "Improvise a Tuck Talk sponsored by Trojan",
       "winnerIds": [
         "jada-shada-hudson"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 worth of pleasure products from Trojan",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create a distinctive runway look from the same material as the other queens",
       "winnerIds": [
         "gisele-lullaby"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 courtesy of Snag Tights",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Bitch Stole My Look",
     "topIds": [
@@ -199,13 +247,25 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "lady-boom-boom"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 cash courtesy of the Men's Room",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "gisele-lullaby"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 courtesy of Palm Holdings",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Periodic Table of Elements",
     "topIds": [
@@ -245,13 +305,25 @@
       "name": "Drag Family Portrait Session",
       "winnerIds": [
         "jada-shada-hudson"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 cash courtesy of Dirt Squirrel Apparel",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Film a commercial and do a photoshoot to promote an eyeshadow palette",
       "winnerIds": [
         "miss-fiercalicious"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 courtesy of Neutrogena",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Paint",
     "topIds": [
@@ -291,13 +363,25 @@
       "name": "Audition for a parody sci-fi film",
       "winnerIds": [
         "kimmy-couture"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 cash courtesy of Made",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Squirrels Trip: The Rusical",
       "winnerIds": [
         "vivian-vanderpuss"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 courtesy of Made",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Dystopian Drag",
     "topIds": [
@@ -337,7 +421,13 @@
       "name": "The Masquerade Ball",
       "winnerIds": [
         "miss-fiercalicious"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 courtesy of Snag Tights",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Masc for Mascara / Incog-She-To / Masquerade Eleganza",
     "topIds": [

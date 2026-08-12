@@ -18,7 +18,13 @@
         },
         {
           "episodeId": "ES-S01-E04",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "pack of underwear and swimsuits courtesy of Addicted.",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ES-S01-E05",

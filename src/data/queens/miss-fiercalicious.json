@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "CA-S03-E06",
-          "name": "Film a commercial and do a photoshoot to promote an eyeshadow palette"
+          "name": "Film a commercial and do a photoshoot to promote an eyeshadow palette",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 courtesy of Neutrogena",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S03-E08",
-          "name": "The Masquerade Ball"
+          "name": "The Masquerade Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 courtesy of Snag Tights",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

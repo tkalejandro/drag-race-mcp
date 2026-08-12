@@ -23,7 +23,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "ES-S03-E02",
-          "name": "Eurovision quiz"
+          "name": "Eurovision quiz",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip from Addicted"
+          }
         }
       ],
       "lipSyncWins": [],

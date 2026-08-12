@@ -20,7 +20,13 @@
       "name": "Create an outfit made from Christmas-themed items",
       "winnerIds": [
         "raja"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to Sequin Queen",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "raja",
@@ -73,7 +79,13 @@
       "winnerIds": [
         "alexis-mateo",
         "shangela"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "set of hand-sculpted silicone breast plates by Boobs for Queens",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sci-Fi",
     "topIds": [
@@ -122,7 +134,13 @@
       "name": "Produce a fitness workout video",
       "winnerIds": [
         "alexis-mateo"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card to Gilt Groupe",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "My Favorite Body Part",
     "topIds": [
@@ -172,7 +190,13 @@
       "name": "Produce a morning news show called QNN News",
       "winnerIds": [
         "manila-luzon"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to Wig USA",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Fabulous Drag",
     "topIds": [
@@ -220,7 +244,13 @@
       "name": "Snatch Game",
       "winnerIds": [
         "stacy-layne-matthews"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "cruise for 2 to the Bahamas courtesy of Al and Chuck Travel",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Best Drag",
     "topIds": [
@@ -269,7 +299,13 @@
       "name": "Create an outfit inspired by a bakery cake",
       "winnerIds": [
         "raja"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "shopping spree at L.A. Eyeworks",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "raja",
@@ -318,7 +354,13 @@
       "name": "Stand-up comedy routine",
       "winnerIds": [
         "shangela"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "An original, custom designed gown from Miami Elite Designs",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "shangela",
@@ -367,7 +409,13 @@
       "name": "Film a patriotic message for US military personnel overseas",
       "winnerIds": [
         "alexis-mateo"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "three-piece luxury luggage set from Antler Luggage",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Patriotic Drag",
     "topIds": [
@@ -413,7 +461,13 @@
       "name": "Perform RuPaul's Superstar in different music genres",
       "winnerIds": [
         "raja"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "An original, custom gown by Marco Marco",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "raja",
@@ -464,7 +518,13 @@
       "name": "The Hair Ball",
       "winnerIds": [
         "yara-sofia"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "An Alaskan cruise for 2 from Al and Chuck Travel",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "A Classic Look from Another Era, A Modern Red Carpet Look, and A Fantasy Hair Outfit",
     "topIds": [
@@ -513,7 +573,13 @@
       "name": "Makeover heterosexual male athletes",
       "winnerIds": [
         "manila-luzon"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "cruise for 2 to the Bahamas courtesy of Al and Chuck Travel",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "manila-luzon",
@@ -564,7 +630,13 @@
       "name": "The Money Ball",
       "winnerIds": [
         "manila-luzon"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "collection of fine jewelry from Kathy Ireland Jewelry",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Swimsuit Body Beautiful, Cocktail Attire After 5, and Evening Gown Eleganza",
     "topIds": [

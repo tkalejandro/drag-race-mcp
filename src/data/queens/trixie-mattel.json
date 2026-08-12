@@ -36,11 +36,23 @@
       "challengeWins": [
         {
           "episodeId": "AS-S03-E05",
-          "name": "The Pop Art Ball"
+          "name": "The Pop Art Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Two-night escape for 2 at the W Hotel in Fort Lauderdale",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S03-E07",
-          "name": "Star in the raunchy girl comedy \"My Best Squirrelfriend's Dragsmaids Wedding Trip\""
+          "name": "Star in the raunchy girl comedy \"My Best Squirrelfriend's Dragsmaids Wedding Trip\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 gift card to Elea's Closet and a luggage set from Radden Luggage",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

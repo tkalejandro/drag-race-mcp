@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S15-E07",
-          "name": "Act in a soap opera called The Daytona Wind 2"
+          "name": "Act in a soap opera called The Daytona Wind 2",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -33,7 +38,12 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S10-E05",
-          "song": "Hot to Go!"
+          "song": "Hot to Go!",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S10-E10",

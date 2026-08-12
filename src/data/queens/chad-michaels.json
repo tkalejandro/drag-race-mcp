@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S04-E02",
-          "name": "Create a wrestling storyline with backstage clip and ring match"
+          "name": "Create a wrestling storyline with backstage clip and ring match",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "selection of wigs from Risqué Wigs",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S04-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom gown by Marco Marco",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

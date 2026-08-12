@@ -8,15 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S02-E03",
-          "name": "Disco Shortening feuding-families commercial"
+          "name": "Disco Shortening feuding-families commercial",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "collection of designer bags from M. Clifford Designs",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S02-E05",
-          "name": "Bride and groom wedding photoshoot"
+          "name": "Bride and groom wedding photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "five night vacation at the Hyatt in Palm Springs",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S02-E09",
-          "name": "The Diva Awards"
+          "name": "The Diva Awards",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "feature photo spread on Paper Magazine",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

@@ -16,17 +16,35 @@
         },
         {
           "episodeId": "ES-S02-E07",
-          "name": "Create Spain tourism ads in pairs"
+          "name": "Create Spain tourism ads in pairs",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "year supply of penis-shaped treats from Dick Waffle",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "ES-S02-E02",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "set of Addicted products",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ES-S02-E08",
-          "name": "Everybody Loves Puppets"
+          "name": "Everybody Loves Puppets",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Two Tickets to a Malú concert as part of her Mil Batallas Tour",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

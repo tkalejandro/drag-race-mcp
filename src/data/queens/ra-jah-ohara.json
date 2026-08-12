@@ -9,11 +9,23 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E03",
-          "name": "Seduce your way into a Seduction concert"
+          "name": "Seduce your way into a Seduction concert",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 gift card from J.J. Malibu",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E05",
-          "name": "Create a living doll"
+          "name": "Create a living doll",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 gift card from Coolhaus Ice Cream",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -44,11 +56,21 @@
       "challengeWins": [
         {
           "episodeId": "AS-S06-E02",
-          "name": "The Blue Ball"
+          "name": "The Blue Ball",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000, courtesy of Planet Pepper and $5,000 worth of Orbucks from Orbitz"
+          }
         },
         {
           "episodeId": "AS-S06-E09",
-          "name": "Create a magical live-action character for Drag Tots"
+          "name": "Create a magical live-action character for Drag Tots",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
         }
       ],
       "miniChallengeWins": [],

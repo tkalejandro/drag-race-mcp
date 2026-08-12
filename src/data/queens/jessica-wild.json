@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S02-E06",
-          "name": "Live rock performance of Lady Boy"
+          "name": "Live rock performance of Lady Boy",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 shopping spree",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -27,19 +33,34 @@
       "challengeWins": [
         {
           "episodeId": "AS-S08-E03",
-          "name": "The Supermarket Ball"
+          "name": "The Supermarket Ball",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "AS-S08-E10",
-          "name": "Design and model a look based on a Jean Paul Gaultier perfume bottle"
+          "name": "Design and model a look based on a Jean Paul Gaultier perfume bottle",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500"
+          }
         }
       ],
       "lipSyncWins": [
         {
           "episodeId": "AS-S08-E03",
-          "song": "Coconuts"
+          "song": "Coconuts",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [],

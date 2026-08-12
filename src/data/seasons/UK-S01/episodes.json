@@ -225,7 +225,13 @@
       "name": "Boxers, Briefs or Commando",
       "winnerIds": [
         "divina-de-campo"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "GBP",
+        "context": "video call and insider advice from RuPaul's Drag Race Royalty Katya",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Campaign, market and design a bottled water brand",

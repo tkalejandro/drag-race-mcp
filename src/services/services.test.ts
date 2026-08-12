@@ -7,6 +7,7 @@ import { afterEach, describe, it } from "node:test";
 import { resetKb } from "../kb/load.ts";
 import {
   DEFAULT_SEARCH_LIMIT,
+  getQueenEarnings,
   listSeasonIds,
   searchLore,
   searchQueens,
@@ -72,5 +73,31 @@ describe("searchLore", () => {
     const hits = searchLore({ seasonId: "US-S01", limit: 50 });
     assert.ok(hits.length > 0);
     assert.ok(hits.every((lore) => lore.seasonIds?.includes("US-S01")));
+  });
+});
+
+describe("getQueenEarnings", () => {
+  it("sums documented cash tips for a queen with earnings", () => {
+    const earnings = getQueenEarnings("sami-landri");
+    assert.ok(earnings);
+    assert.ok(
+      earnings.cashTotal.some((t) => t.currency === "CAD" && t.amount >= 7500),
+    );
+    assert.ok(earnings.breakdown.length >= 2);
+  });
+
+  it("includes season purse for a crowned winner", () => {
+    const earnings = getQueenEarnings("jaida-essence-hall");
+    assert.ok(earnings);
+    assert.ok(
+      earnings.breakdown.some((b) => b.kind === "seasonPurse"),
+    );
+    assert.ok(
+      earnings.cashTotal.some((t) => t.currency === "USD" && t.amount >= 100000),
+    );
+  });
+
+  it("returns undefined for unknown queen", () => {
+    assert.equal(getQueenEarnings("not-a-real-queen"), undefined);
   });
 });

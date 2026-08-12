@@ -8,17 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S13-E05",
-          "name": "The Bag Ball"
+          "name": "The Bag Ball",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S13-E09",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S13-E07",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 giftcard from ISLYNYC",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -45,7 +61,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "AS-S09-E05",
-          "name": "Teletubbies Soul Train Dance-off"
+          "name": "Teletubbies Soul Train Dance-off",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 charity donation"
+          }
         },
         {
           "episodeId": "AS-S09-E11",

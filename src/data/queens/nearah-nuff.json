@@ -8,13 +8,24 @@
       "challengeWins": [
         {
           "episodeId": "CA-S04-E06",
-          "name": "Participate in a lip-sync slay off extravaganza"
+          "name": "Participate in a lip-sync slay off extravaganza",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "trip to Puerto Vallarta, Mexico",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S04-E04",
-          "name": "Metallic photoshoot"
+          "name": "Metallic photoshoot",
+          "earnings": {
+            "amount": 2000,
+            "currency": "CAD",
+            "context": "$2,000 cash tip and a supply of GOT2B products"
+          }
         }
       ],
       "lipSyncWins": [

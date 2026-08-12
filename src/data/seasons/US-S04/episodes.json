@@ -14,7 +14,13 @@
       "name": "Create a post-apocalyptic couture outfit from drag queen zombie loot",
       "winnerIds": [
         "sharon-needles"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom designed gown from Sequin Queen",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "sharon-needles",
@@ -65,7 +71,13 @@
       "winnerIds": [
         "chad-michaels",
         "madame-laqueer"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "selection of wigs from Risqué Wigs",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Girly Girl Couture",
     "topIds": [
@@ -115,7 +127,13 @@
       "name": "Produce and act in TV infomercials for RuPaul's Glamazon and Champion albums",
       "winnerIds": [
         "sharon-needles"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom jewelry set from Fierce Drag Jewels",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Platinum and Gold",
     "topIds": [
@@ -165,7 +183,13 @@
       "name": "Star in two different sitcom episodes",
       "winnerIds": [
         "latrice-royale"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "cruise courtesy of Al & Chuck Travel",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Television Premiere",
     "topIds": [
@@ -212,7 +236,13 @@
       "name": "Snatch Game",
       "winnerIds": [
         "chad-michaels"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom gown by Marco Marco",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Best Drag",
     "topIds": [
@@ -261,7 +291,13 @@
       "name": "Create and wear a pride parade float based on a pride flag color",
       "winnerIds": [
         "willam"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "cruise courtesy of Al & Chuck Travel",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "willam",
@@ -309,7 +345,13 @@
       "name": "Create a magazine cover on an assigned topic",
       "winnerIds": [
         "phi-phi-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "cruise to the Bahamas courtesy of Al & Chuck Travel",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "phi-phi-ohara",
@@ -351,7 +393,13 @@
       "winnerIds": [
         "latrice-royale",
         "willam"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom corset, skirt, and brassiere from Versatile Corsets",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "latrice-royale",
@@ -399,7 +447,13 @@
       "name": "Participate in a Presidential debate as the 2012 Wig Party candidate",
       "winnerIds": [
         "sharon-needles"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$5,000 gift certificate from Interior Illusions Home",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Inaugural Drag",
     "topIds": [
@@ -447,7 +501,13 @@
       "name": "Makeover a DILF into a pregnant drag diva",
       "winnerIds": [
         "phi-phi-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "trip for two to Las Vegas courtesy of Al & Chuck Travel",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "phi-phi-ohara",
@@ -494,7 +554,13 @@
       "name": "The Bitch Ball",
       "winnerIds": [
         "sharon-needles"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Crystal flower body jewelry made by Marianna Harutunian",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Daytime Dog Park, Pooch in a Purse, and Canine Couture",
     "topIds": [

@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S12-E11",
-          "name": "Create and perform in your own one-queen show"
+          "name": "Create and perform in your own one-queen show",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -34,11 +39,21 @@
         },
         {
           "episodeId": "AS-S11-E10",
-          "name": "Write and perform storytelling in \"Tell Me Something Good\" Story Hour"
+          "name": "Write and perform storytelling in \"Tell Me Something Good\" Story Hour",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 cash prize"
+          }
         },
         {
           "episodeId": "AS-S11-E11",
-          "name": "Perform a talent in the Tournament of All Stars Talent Rumble"
+          "name": "Perform a talent in the Tournament of All Stars Talent Rumble",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 cash prize"
+          }
         },
         {
           "episodeId": "AS-S11-E12",

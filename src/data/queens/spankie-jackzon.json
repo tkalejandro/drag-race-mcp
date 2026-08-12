@@ -15,7 +15,8 @@
           "name": "In pairs, host a Down Under Drag Brunch",
           "earnings": {
             "amount": 5000,
-            "currency": "AUD"
+            "currency": "AUD",
+            "context": "A$5,000 cash tip"
           }
         },
         {
@@ -23,7 +24,8 @@
           "name": "Write, record, and perform verses to \"Bosom Buddies\"",
           "earnings": {
             "amount": 2000,
-            "currency": "AUD"
+            "currency": "AUD",
+            "context": "A$2,000 cash tip"
           }
         }
       ],

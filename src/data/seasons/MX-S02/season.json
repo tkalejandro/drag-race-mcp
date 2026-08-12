@@ -68,6 +68,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 0,
-    "currency": "MXN"
+    "currency": "MXN",
+    "context": "No cash prize"
   }
 }

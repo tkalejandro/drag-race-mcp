@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "FR-S02-E05",
-          "name": "Le Bossu de Notre Drag: The Rusical"
+          "name": "Le Bossu de Notre Drag: The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "tailored outfit by Victor Weisanto provided by Nona Source",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "FR-S02-E06",
-          "name": "The Time Ball"
+          "name": "The Time Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "pair of embroidered boots from Christian Louboutin",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

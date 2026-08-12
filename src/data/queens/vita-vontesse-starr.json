@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S18-E04",
-          "name": "Design red carpet mashup looks in pairs"
+          "name": "Design red carpet mashup looks in pairs",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         }
       ],
       "miniChallengeWins": [],

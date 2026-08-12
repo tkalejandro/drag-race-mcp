@@ -19,7 +19,8 @@
           "name": "Makeover dog owners and their dogs",
           "earnings": {
             "amount": 2500,
-            "currency": "AUD"
+            "currency": "AUD",
+            "context": "A$2,500 cash tip"
           }
         }
       ],

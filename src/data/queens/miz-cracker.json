@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S10-E10",
-          "name": "Makeover social media superstars"
+          "name": "Makeover social media superstars",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to Jane Doe Latex for the queen and a $2,000 gift card to Klein, Epstein, and Parker for their partner",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -27,26 +33,54 @@
       "challengeWins": [
         {
           "episodeId": "AS-S05-E04",
-          "name": "Improv in a drag queen spoof of TMZ called SheMZ"
+          "name": "Improv in a drag queen spoof of TMZ called SheMZ",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "4-night stay in Montreal, Canada including hotel and airfare, courtesy of Tourisme/Montreal",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S05-E06",
-          "name": "Present a Country Cousin character and a garden-materials Backyard Eleganza look"
+          "name": "Present a Country Cousin character and a garden-materials Backyard Eleganza look",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Five-night stay for two in London, United Kingdom including hotel and airfare, courtesy of The Lalit London",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S05-E07",
-          "name": "Perform a stand-up comedy routine"
+          "name": "Perform a stand-up comedy routine",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Eight-night safari trip in South Africa, courtesy of South African Tourism",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
         {
           "episodeId": "AS-S05-E04",
-          "song": "Where Have You Been"
+          "song": "Where Have You Been",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S05-E07",
-          "song": "Fancy"
+          "song": "Fancy",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

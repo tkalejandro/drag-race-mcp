@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S14-E06",
-          "name": "Create an outfit from junk Michelle Visage bought online"
+          "name": "Create an outfit from junk Michelle Visage bought online",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -50,7 +55,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "AS-S09-E06",
-          "name": "Straw Poll"
+          "name": "Straw Poll",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 charity donation and a badge"
+          }
         },
         {
           "episodeId": "AS-S09-E11",
@@ -92,11 +102,21 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S10-E05",
-          "song": "Hot to Go!"
+          "song": "Hot to Go!",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S10-E06",
-          "song": "Texas Hold 'Em"
+          "song": "Texas Hold 'Em",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S10-E12",

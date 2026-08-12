@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "ES-S03-E08",
-          "name": "Blindfold face paint"
+          "name": "Blindfold face paint",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€500 worth of products from Krash Kosmetics",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S10-E01",
-          "name": "Stand out on the runway among a sea of legendary queens from past seasons"
+          "name": "Stand out on the runway among a sea of legendary queens from past seasons",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to FierceQueen.com",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S10-E03",
@@ -41,15 +47,33 @@
       "challengeWins": [
         {
           "episodeId": "AS-S04-E02",
-          "name": "Write, record, and perform original verses in girl groups"
+          "name": "Write, record, and perform original verses in girl groups",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from Arda Wigs and a $1,000 gift card from CoolHaus Ice Cream",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E05",
-          "name": "Perform a roast of Lady Bunny, the judges, and fellow queens"
+          "name": "Perform a roast of Lady Bunny, the judges, and fellow queens",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$3,000 gift card from MuLondon and a wig wardrobe from RockStar Wigs",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E08",
-          "name": "Makeover your best Judy's"
+          "name": "Makeover your best Judy's",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "trip for two to Iceland with complimentary first class airfare from WOW air and a four night stay at Design Hotel from Pink Iceland for the queens, and a $1,000 gift card from Klein Epstein & Parker for the Judy's.",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

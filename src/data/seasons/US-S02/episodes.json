@@ -14,7 +14,13 @@
       "name": "Create an outfit from curtains and home furnishings",
       "winnerIds": [
         "morgan-mcmichaels"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "photo spread for Interior Illusions featured in Lux Magazine",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "morgan-mcmichaels",
@@ -63,7 +69,13 @@
       "name": "Burlesque performance and gift-certificate sales",
       "winnerIds": [
         "sahara-davenport"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,500 gift certificate to Sequin Queen",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "High Class Drag",
     "topIds": [
@@ -115,7 +127,13 @@
       "name": "Disco Shortening feuding-families commercial",
       "winnerIds": [
         "tyra-sanchez"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "collection of designer bags from M. Clifford Designs",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Country Realness",
     "topIds": [
@@ -164,7 +182,13 @@
       "name": "Snatch Game",
       "winnerIds": [
         "tatianna"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 shopping spree from Billion Dollar Babes",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Personal Style",
     "topIds": [
@@ -212,7 +236,13 @@
       "name": "Bride and groom wedding photoshoot",
       "winnerIds": [
         "tyra-sanchez"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "five night vacation at the Hyatt in Palm Springs",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "tyra-sanchez",
@@ -261,7 +291,13 @@
       "name": "Live rock performance of Lady Boy",
       "winnerIds": [
         "jessica-wild"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 shopping spree",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "jessica-wild",
@@ -309,7 +345,13 @@
       "name": "Create and promote an autobiography concept",
       "winnerIds": [
         "raven"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "shopping spree at L.A. Eyeworks",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "raven",
@@ -357,7 +399,13 @@
       "name": "Makeover older gay men",
       "winnerIds": [
         "raven"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "4-day 3-night stay and massage at East Canyon Hotel in Palm Springs",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "raven",
@@ -408,7 +456,13 @@
       "name": "The Diva Awards",
       "winnerIds": [
         "tyra-sanchez"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "feature photo spread on Paper Magazine",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Teen Diva, Diva D.C. Press, and Diva Hollywood Extravaganza",
     "topIds": [

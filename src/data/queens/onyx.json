@@ -17,11 +17,23 @@
       "miniChallengeWins": [
         {
           "episodeId": "ES-S02-E03",
-          "name": "Complete sayings"
+          "name": "Complete sayings",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "collection of Foreo products valued at €800",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ES-S02-E05",
-          "name": "Recite poetry"
+          "name": "Recite poetry",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "selection of LELO sex toys valued at €1000",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

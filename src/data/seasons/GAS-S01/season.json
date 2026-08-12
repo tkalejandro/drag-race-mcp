@@ -65,6 +65,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 200000,
-    "currency": "USD"
+    "currency": "USD",
+    "context": "$200,000 season grand prize"
   }
 }

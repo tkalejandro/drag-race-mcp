@@ -9,13 +9,25 @@
       "challengeWins": [
         {
           "episodeId": "CA-S01-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "Cruise",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S01-E04",
-          "name": "Play a memory game with the pit crew's underwear colors"
+          "name": "Play a memory game with the pit crew's underwear colors",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "VIP stay at the Hilton Toronto",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],
@@ -32,26 +44,51 @@
       "challengeWins": [
         {
           "episodeId": "AS-S08-E02",
-          "name": "Perform in a sketch comedy of RDR Live"
+          "name": "Perform in a sketch comedy of RDR Live",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
         },
         {
           "episodeId": "AS-S08-E04",
-          "name": "Star in a scripted TV series trailer"
+          "name": "Star in a scripted TV series trailer",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
         },
         {
           "episodeId": "AS-S08-E05",
-          "name": "Snatch Game of Love"
+          "name": "Snatch Game of Love",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
         },
         {
           "episodeId": "AS-S08-E09",
-          "name": "A roast of Carson Kressley"
+          "name": "A roast of Carson Kressley",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
         }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
         {
           "episodeId": "AS-S08-E09",
-          "song": "Freak-A-Zoid"
+          "song": "Freak-A-Zoid",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S08-E12",

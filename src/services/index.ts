@@ -30,7 +30,9 @@ export { listSeasonIds } from "./seasons/index.ts";
 export {
   listQueenIdsForSeason,
   searchQueens,
+  getQueenEarnings,
   type QueenSearchHit,
+  type QueenEarnings,
 } from "./queens/index.ts";
 
 export { searchLore, type LoreSearchOptions } from "./lore/index.ts";

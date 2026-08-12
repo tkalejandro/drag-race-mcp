@@ -53,6 +53,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 15000,
-    "currency": "EUR"
+    "currency": "EUR",
+    "context": "€15,000 season grand prize"
   }
 }

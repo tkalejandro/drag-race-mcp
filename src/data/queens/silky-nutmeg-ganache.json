@@ -8,25 +8,55 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E04",
-          "name": "Trump: The Rusical"
+          "name": "Trump: The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "getaway to The Grand Resort and Spa in Fort Lauderdale",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E08",
-          "name": "Snatch Game at Sea"
+          "name": "Snatch Game at Sea",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$5,000 gift certificate from VACAYA",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E01",
-          "name": "Photoshoot with past Drag Race queens"
+          "name": "Photoshoot with past Drag Race queens",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from Arda Wigs",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E02",
-          "name": "Photobomb iconic celebrity pictures"
+          "name": "Photobomb iconic celebrity pictures",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 gift card from Fierce Queen",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E08",
-          "name": "Pitch your own Self-Help Book"
+          "name": "Pitch your own Self-Help Book",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 credit from Postmates",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

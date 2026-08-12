@@ -12,7 +12,13 @@
         },
         {
           "episodeId": "ES-S02-E09",
-          "name": "Makeover challenge"
+          "name": "Makeover challenge",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Two-night stay, meals included at Hotel Ritual",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

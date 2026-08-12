@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "ES-S02-E03",
-          "name": "Complete sayings"
+          "name": "Complete sayings",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "collection of Foreo products valued at €800",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

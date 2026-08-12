@@ -8,19 +8,43 @@
       "challengeWins": [
         {
           "episodeId": "US-S09-E04",
-          "name": "In teams, produce a live morning talk show"
+          "name": "In teams, produce a live morning talk show",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1000 and a year-supply of hamburgers courtesy of Hamburger Mary's",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S09-E05",
-          "name": "Kardashian: The Musical"
+          "name": "Kardashian: The Musical",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Caribbean Cruise by AllOutVacations",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S09-E09",
-          "name": "In pairs, create, write, and star in their own TV pilots"
+          "name": "In pairs, create, write, and star in their own TV pilots",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1000 gift certificate from The Spa On Rodeo and a supply of Aquage Professional Haircare products",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S09-E11",
-          "name": "The Gayest Ball Ever"
+          "name": "The Gayest Ball Ever",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "2 VIP tickets to Cirque du Soleil Zumanity in Las Vegas, including flights and accommodation",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -42,22 +66,44 @@
       "challengeWins": [
         {
           "episodeId": "AS-S05-E02",
-          "name": "Write, record, and choreograph a performance to \"I'm in Love!\""
+          "name": "Write, record, and choreograph a performance to \"I'm in Love!\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "6-night all-inclusive trip for two to Puerto Vallarta at the Almar Resort",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S05-E05",
-          "name": "Snatch Game of Love"
+          "name": "Snatch Game of Love",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "7-night stay in Paris, including hotel and airfare, courtesy of misterb&b",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
         {
           "episodeId": "AS-S05-E02",
-          "song": "Neutron Dance"
+          "song": "Neutron Dance",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S05-E05",
-          "song": "Open Your Heart"
+          "song": "Open Your Heart",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S05-E08",

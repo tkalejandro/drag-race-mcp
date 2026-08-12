@@ -8,13 +8,24 @@
       "challengeWins": [
         {
           "episodeId": "ES-S04-E02",
-          "name": "Talent show"
+          "name": "Talent show",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a necklace and earrings from Aster LAB"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "ES-S04-E08",
-          "name": "Dress the Pit Crew"
+          "name": "Dress the Pit Crew",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "selection of products from Addicted",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

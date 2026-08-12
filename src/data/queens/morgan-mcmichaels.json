@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S02-E01",
-          "name": "Create an outfit from curtains and home furnishings"
+          "name": "Create an outfit from curtains and home furnishings",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "photo spread for Interior Illusions featured in Lux Magazine",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

@@ -14,7 +14,12 @@
       "name": "Write, record, and perform verses to Condragulations",
       "winnerIds": [
         "symone"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Lamé You Stay",
     "topIds": [
@@ -49,7 +54,12 @@
       "name": "Write, record, and perform verses to Phenomenon",
       "winnerIds": [
         "denali"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "We're Here, We're Sheer, Get Used to It",
     "topIds": [
@@ -83,7 +93,12 @@
       "name": "Overact in cheesy RuPaulmark holiday movies",
       "winnerIds": [
         "symone"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Trains for Days",
     "topIds": [
@@ -123,13 +138,24 @@
       "name": "Baby Got Back: Who Is the Most Misbehaved Baby?",
       "winnerIds": [
         "lala-ri"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from FierceQueen.com",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "The Bag Ball",
       "winnerIds": [
         "gottmik"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Mixed Bag, Money Bags, and Bag Ball Eleganza",
     "topIds": [
@@ -170,13 +196,24 @@
       "winnerIds": [
         "elliott-with-2-ts",
         "tamisha-iman"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from Spoonflower",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform in a disco-themed dance documentary",
       "winnerIds": [
         "olivia-lux"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Little Black Dress",
     "topIds": [
@@ -216,13 +253,24 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "gottmik"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 giftcard from ISLYNYC",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Improvise in the Bossy Rossy After Dark talk show",
       "winnerIds": [
         "olivia-lux"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Bead It",
     "topIds": [
@@ -262,7 +310,12 @@
       "name": "Social Media: The Unverified Rusical",
       "winnerIds": [
         "rose"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Yellow, Gorgeous!",
     "topIds": [
@@ -300,13 +353,23 @@
       "name": "Audition for The PantyHoes",
       "winnerIds": [
         "tina-burner"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 tip, courtesy of Snag Tights"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "gottmik"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Fascinating Fascinators",
     "topIds": [
@@ -347,7 +410,12 @@
       "winnerIds": [
         "symone",
         "utica-queen"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Drag Doppelgangers",
     "topIds": [
@@ -388,14 +456,25 @@
       "name": "Are You Smarter Than The Pit Crew?",
       "winnerIds": [
         "kandy-muse"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from JJ Malibu",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create and advertise a soft drink brand with a catchy jingle",
       "winnerIds": [
         "rose",
         "symone"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Beast Couture",
     "topIds": [
@@ -431,13 +510,24 @@
       "winnerIds": [
         "kandy-muse",
         "rose"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 worth of Anastasia Beverly Hills cosmetics",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Roast of former Miss Congeniality winners",
       "winnerIds": [
         "kandy-muse"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "topIds": [
       "gottmik",
@@ -476,7 +566,12 @@
       "name": "Star in Henny, I Shrunk the Drag Queens!",
       "winnerIds": [
         "rose"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Haute Pockets",
     "topIds": [

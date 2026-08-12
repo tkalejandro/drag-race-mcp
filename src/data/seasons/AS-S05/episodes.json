@@ -9,13 +9,25 @@
       "winnerIds": [
         "blair-st-clair",
         "jujubee"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to Marek+Richard",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges and a live audience",
       "winnerIds": [
         "india-ferrah"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "5-day trip to Reykjavik, Iceland. Hotel and airfare included courtesy of Pink Iceland",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "india-ferrah"
@@ -53,7 +65,13 @@
       "name": "Write, record, and choreograph a performance to \"I'm in Love!\"",
       "winnerIds": [
         "shea-coulee"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "6-night all-inclusive trip for two to Puerto Vallarta at the Almar Resort",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Love the Skin You're In",
     "topIds": [
@@ -76,7 +94,12 @@
       "eliminatedIds": [
         "ongina"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -96,7 +119,13 @@
       "name": "Design and present a signature hotel suite",
       "winnerIds": [
         "jujubee"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "7-night stay for two in the Penthouse Suite at The Grand Resort and Spa in Fort Lauderdale, Florida",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "3 Looks in 1",
     "topIds": [
@@ -139,7 +168,13 @@
       "name": "Improv in a drag queen spoof of TMZ called SheMZ",
       "winnerIds": [
         "miz-cracker"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "4-night stay in Montreal, Canada including hotel and airfare, courtesy of Tourisme/Montreal",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "C'mon, Camo Couture!",
     "topIds": [
@@ -162,7 +197,12 @@
       "eliminatedIds": [
         "mayhem-miller"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -179,7 +219,13 @@
       "name": "Snatch Game of Love",
       "winnerIds": [
         "shea-coulee"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "7-night stay in Paris, including hotel and airfare, courtesy of misterb&b",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Prom Queen Fantasy",
     "topIds": [
@@ -204,7 +250,12 @@
       "eliminatedIds": [
         "india-ferrah"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -224,7 +275,13 @@
       "name": "Present a Country Cousin character and a garden-materials Backyard Eleganza look",
       "winnerIds": [
         "miz-cracker"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Five-night stay for two in London, United Kingdom including hotel and airfare, courtesy of The Lalit London",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Country Cousin Realness and Backyard Eleganza",
     "topIds": [
@@ -265,7 +322,13 @@
       "name": "Perform a stand-up comedy routine",
       "winnerIds": [
         "miz-cracker"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Eight-night safari trip in South Africa, courtesy of South African Tourism",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Freak Out!",
     "topIds": [
@@ -288,7 +351,12 @@
       "eliminatedIds": [
         "blair-st-clair"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {

@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "ES-S03-E07",
-          "name": "Stand-up with eliminated queens"
+          "name": "Stand-up with eliminated queens",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip"
+          }
         },
         {
           "episodeId": "ES-S03-E09",
-          "name": "Makeover cleaners"
+          "name": "Makeover cleaners",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

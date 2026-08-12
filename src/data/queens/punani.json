@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "FR-S02-E04",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "luxury outfit from Patou worth €2,500",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

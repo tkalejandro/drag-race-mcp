@@ -8,17 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S14-E02",
-          "name": "Perform a talent show in front of the judges"
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S14-E04",
-          "name": "In teams, produce attention-grabbing superteases for Season 14"
+          "name": "In teams, produce attention-grabbing superteases for Season 14",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S14-E02",
-          "name": "Photoshoot in a bowl of tic-tacs"
+          "name": "Photoshoot in a bowl of tic-tacs",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip courtesy of J.J. Malibu",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

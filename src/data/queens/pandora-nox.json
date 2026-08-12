@@ -21,7 +21,8 @@
           "name": "Bavarian Princess photoshoot",
           "earnings": {
             "amount": 1000,
-            "currency": "EUR"
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
           }
         },
         {

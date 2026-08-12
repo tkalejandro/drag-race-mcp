@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "US-S16-E04",
-          "name": "Act in the sketch comedy Everything Every-Cher All at Once"
+          "name": "Act in the sketch comedy Everything Every-Cher All at Once",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S16-E07",
-          "name": "The Sound of Rusic"
+          "name": "The Sound of Rusic",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

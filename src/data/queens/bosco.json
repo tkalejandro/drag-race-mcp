@@ -8,29 +8,61 @@
       "challengeWins": [
         {
           "episodeId": "US-S14-E05",
-          "name": "In teams, write a commercial for Save A Queen, a charity for first-eliminated queens"
+          "name": "In teams, write a commercial for Save A Queen, a charity for first-eliminated queens",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S14-E09",
-          "name": "In teams, create a RuPaul's DragCon panel discussion about men"
+          "name": "In teams, create a RuPaul's DragCon panel discussion about men",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S14-E13",
-          "name": "Perform a roast of Ross Mathews"
+          "name": "Perform a roast of Ross Mathews",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S14-E08",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip courtesy of Sweet Tarts",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S14-E10",
-          "name": "Create an outfit made from bubble wrap"
+          "name": "Create an outfit made from bubble wrap",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         },
         {
           "episodeId": "US-S14-E13",
-          "name": "In teams, paint a mural of Dolly Parton or RuPaul"
+          "name": "In teams, paint a mural of Dolly Parton or RuPaul",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 worth of Anastasia Beverly Hills cosmetics",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -60,19 +92,34 @@
         },
         {
           "episodeId": "AS-S10-E11",
-          "name": "Perform a talent in the Tournament of All Stars Talent Invitational"
+          "name": "Perform a talent in the Tournament of All Stars Talent Invitational",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 cash prize"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "AS-S10-E11",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash prize"
+          }
         }
       ],
       "lipSyncWins": [
         {
           "episodeId": "AS-S10-E02",
-          "song": "Murder on the Dancefloor"
+          "song": "Murder on the Dancefloor",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S10-E12",

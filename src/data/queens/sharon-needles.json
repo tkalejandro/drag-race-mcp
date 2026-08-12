@@ -8,19 +8,43 @@
       "challengeWins": [
         {
           "episodeId": "US-S04-E01",
-          "name": "Create a post-apocalyptic couture outfit from drag queen zombie loot"
+          "name": "Create a post-apocalyptic couture outfit from drag queen zombie loot",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom designed gown from Sequin Queen",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S04-E03",
-          "name": "Produce and act in TV infomercials for RuPaul's Glamazon and Champion albums"
+          "name": "Produce and act in TV infomercials for RuPaul's Glamazon and Champion albums",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom jewelry set from Fierce Drag Jewels",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S04-E09",
-          "name": "Participate in a Presidential debate as the 2012 Wig Party candidate"
+          "name": "Participate in a Presidential debate as the 2012 Wig Party candidate",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$5,000 gift certificate from Interior Illusions Home",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S04-E11",
-          "name": "The Bitch Ball"
+          "name": "The Bitch Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Crystal flower body jewelry made by Marianna Harutunian",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

@@ -8,13 +8,24 @@
       "challengeWins": [
         {
           "episodeId": "ES-S04-E04",
-          "name": "Girl groups \"Mis Amigas y Yo\""
+          "name": "Girl groups \"Mis Amigas y Yo\"",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a two-night hotel stay in Torremolinos"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "ES-S04-E02",
-          "name": "Eye-focused quick drag"
+          "name": "Eye-focused quick drag",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€1,000 worth case makeup kit from NYX Cosmetics",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ES-S04-E07",

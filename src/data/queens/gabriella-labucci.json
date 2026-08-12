@@ -11,7 +11,8 @@
           "name": "In teams, improvise in \"The Fake Housewives of Down Under\"",
           "earnings": {
             "amount": 5000,
-            "currency": "AUD"
+            "currency": "AUD",
+            "context": "A$5,000 cash tip"
           }
         }
       ],

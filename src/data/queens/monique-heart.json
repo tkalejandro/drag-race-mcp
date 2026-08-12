@@ -27,11 +27,23 @@
       "challengeWins": [
         {
           "episodeId": "AS-S04-E01",
-          "name": "Perform a talent show in front of the judges and a live audience"
+          "name": "Perform a talent show in front of the judges and a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "7 Night Stay for Two at the Sand Castle on the Beach Hotel in St. Croix, U.S. Virgin Islands",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E04",
-          "name": "Improvise in the courtroom show \"Jersey Justice\""
+          "name": "Improvise in the courtroom show \"Jersey Justice\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from FierceQueen.com and $2,000 gift card from Elea's Closet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E06",
@@ -39,7 +51,13 @@
         },
         {
           "episodeId": "AS-S04-E09",
-          "name": "Star in a Sex and the City mockumentary \"Sex and the Kitty, Girl 3\""
+          "name": "Star in a Sex and the City mockumentary \"Sex and the Kitty, Girl 3\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$3,000 gift card from The Diva's Jewels and a three night stay for two at The Standard East Village in New York",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

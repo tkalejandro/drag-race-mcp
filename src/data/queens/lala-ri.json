@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S13-E05",
-          "name": "Baby Got Back: Who Is the Most Misbehaved Baby?"
+          "name": "Baby Got Back: Who Is the Most Misbehaved Baby?",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from FierceQueen.com",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -33,7 +39,12 @@
       "challengeWins": [
         {
           "episodeId": "AS-S08-E07",
-          "name": "Improvise in the true-crime spoof \"Forensic Queens: Wha-Ha-Happened to Lil' Poundcake?\""
+          "name": "Improvise in the true-crime spoof \"Forensic Queens: Wha-Ha-Happened to Lil' Poundcake?\"",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
         },
         {
           "episodeId": "AS-S08-E11",
@@ -44,11 +55,21 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S08-E07",
-          "song": "About Damn Time"
+          "song": "About Damn Time",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S08-E11",
-          "song": "Rain on Me"
+          "song": "Rain on Me",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [],

@@ -8,7 +8,12 @@
       "name": "Write, record, and perform verses to I'm That Bitch",
       "winnerIds": [
         "widow-von-du"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Sparkles",
     "topIds": [
@@ -42,7 +47,12 @@
       "name": "Write, record, and perform verses to You Don't Know Me",
       "winnerIds": [
         "jaida-essence-hall"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Tulle",
     "topIds": [
@@ -79,7 +89,13 @@
       "name": "In teams, improvise in the talent competition World's Worst",
       "winnerIds": [
         "sherry-pie"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip (VH1 and World of Wonder donated $5,000 to The Trevor Project as a result of Sherry Pie's disqualification from the competition.)",
+        "isCharity": true
+      }
     },
     "runwayTheme": "Buttons and Bows",
     "topIds": [
@@ -119,13 +135,23 @@
       "name": "The Beehive Jive dance competition",
       "winnerIds": [
         "gigi-goode"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "The Ball Ball",
       "winnerIds": [
         "gigi-goode"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Lady Baller, Basketball Wife Realness, and Balls to the Wall Eleganza",
     "topIds": [
@@ -165,7 +191,13 @@
       "name": "Overact in a parody of Grey's Anatomy called Gay's Anatomy",
       "winnerIds": [
         "sherry-pie"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip (VH1 and World of Wonder donated $5,000 to The Trevor Project as a result of Sherry Pie's disqualification from the competition.)",
+        "isCharity": true
+      }
     },
     "runwayTheme": "Planet of the Capes",
     "topIds": [
@@ -208,7 +240,12 @@
       "name": "Snatch Game",
       "winnerIds": [
         "gigi-goode"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Frozen Eleganza",
     "topIds": [
@@ -251,7 +288,12 @@
       "name": "Madonna: The Unauthorized Rusical",
       "winnerIds": [
         "gigi-goode"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Night of a Thousand Michelle Visages",
     "topIds": [
@@ -295,13 +337,23 @@
       "winnerIds": [
         "gigi-goode",
         "jackie-cox"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "USD",
+        "context": "$1,000 cash tip and a 1 year subscription to FabFitFun"
+      }
     },
     "maxiChallenge": {
       "name": "Create and market products for the new drag queen lifestyle brand Droop",
       "winnerIds": [
         "heidi-n-closet"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Black Wedding",
     "topIds": [
@@ -342,13 +394,24 @@
       "name": "Audition for Kitty Girl 2020 sponsored by PrettyLitter",
       "winnerIds": [
         "jackie-cox"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from Fierce Drag Jewels",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Participate in a presidential debate called Choices 2020",
       "winnerIds": [
         "jaida-essence-hall"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Stars and Stripes Forever",
     "topIds": [
@@ -391,7 +454,12 @@
       "name": "Makeover Drag Race superfans",
       "winnerIds": [
         "jaida-essence-hall"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip for Jaida Essence Hall, and a $5,000 gift card to Shop Betsey Johnson for Jazz Essence Hall"
+      }
     },
     "runwayTheme": "Drag Family Resemblance",
     "topIds": [
@@ -435,7 +503,12 @@
       "name": "Create and perform in your own one-queen show",
       "winnerIds": [
         "crystal-methyd"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "The Color Purple",
     "topIds": [
@@ -474,13 +547,24 @@
       "name": "Create an over-the-top, one-of-a-kind showgirl headdress",
       "winnerIds": [
         "gigi-goode"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "trip for two to Las Vegas, including airfare, accommodation, and tickets to see RuPaul's Drag Race Live",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a medley of songs from RuPaul's Drag Race Live!",
       "winnerIds": [
         "gigi-goode"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Eleganza Extravaganza",
     "topIds": [

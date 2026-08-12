@@ -61,6 +61,8 @@
   "isCharity": true,
   "cashPrice": {
     "amount": 200000,
-    "currency": "USD"
+    "currency": "USD",
+    "isCharity": true,
+    "context": "$200,000 charity prize"
   }
 }

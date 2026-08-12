@@ -8,16 +8,30 @@
       "challengeWins": [
         {
           "episodeId": "US-S18-E03",
-          "name": "Act in RDR Live! sketch comedy"
+          "name": "Act in RDR Live! sketch comedy",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S18-E05",
-          "name": "Perform a talent show for Rate-A-Queen (group 1)"
+          "name": "Perform a talent show for Rate-A-Queen (group 1)",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$5,000 cash prize ($2,500 for each)"
+          }
         },
         {
           "episodeId": "US-S18-E15",
           "name": "Compete in an All RuPaul-A-Paruza Smackdown tournament for eliminated queens",
-          "earnings": { "amount": 50000, "currency": "USD" }
+          "earnings": {
+            "amount": 50000,
+            "currency": "USD",
+            "context": "$50,000 cash prize"
+          }
         }
       ],
       "miniChallengeWins": [],

@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S05-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom jewel package from Fierce Drag Jewels",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S05-E09",
-          "name": "Star in a faux Latin telenovela"
+          "name": "Star in a faux Latin telenovela",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "pair of fur coats from Fabulous-Furs",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -57,7 +69,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "AS-S07-E01",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "A$2,500 cash tip"
+          }
         },
         {
           "episodeId": "AS-S07-E03",

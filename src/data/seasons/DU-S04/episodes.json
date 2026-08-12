@@ -11,7 +11,8 @@
       ],
       "earnings": {
         "amount": 3000,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$3,000 cash tip"
       }
     },
     "runwayTheme": "Double Dressin' / Double Dippin'",
@@ -184,7 +185,8 @@
       ],
       "earnings": {
         "amount": 2500,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$2,500 cash tip"
       }
     },
     "runwayTheme": "Drag Family Storytime",

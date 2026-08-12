@@ -27,7 +27,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "BRL"
+        "currency": "BRL",
+        "context": "R$5,000 cash tip"
       }
     },
     "runwayTheme": "Minhas Raízes (My Roots)",
@@ -74,7 +75,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "BRL"
+        "currency": "BRL",
+        "context": "R$5,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -124,7 +126,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "BRL"
+        "currency": "BRL",
+        "context": "R$5,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -176,7 +179,8 @@
       ],
       "earnings": {
         "amount": 2500,
-        "currency": "BRL"
+        "currency": "BRL",
+        "context": "R$2,500 cash tip"
       }
     },
     "maxiChallenge": {
@@ -226,7 +230,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "BRL"
+        "currency": "BRL",
+        "context": "R$5,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -322,7 +327,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "BRL"
+        "currency": "BRL",
+        "context": "R$5,000 cash tip"
       }
     },
     "maxiChallenge": {

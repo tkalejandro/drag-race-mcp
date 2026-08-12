@@ -8,17 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S14-E03",
-          "name": "Compete in dual balls: The Hide and Chic Ball and The Red, White and Blue Ball"
+          "name": "Compete in dual balls: The Hide and Chic Ball and The Red, White and Blue Ball",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S14-E09",
-          "name": "Photobomb famous male celebrities"
+          "name": "Photobomb famous male celebrities",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         },
         {
           "episodeId": "US-S14-E13",
-          "name": "In teams, paint a mural of Dolly Parton or RuPaul"
+          "name": "In teams, paint a mural of Dolly Parton or RuPaul",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 worth of Anastasia Beverly Hills cosmetics",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

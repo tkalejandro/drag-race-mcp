@@ -8,33 +8,69 @@
       "challengeWins": [
         {
           "episodeId": "US-S12-E04",
-          "name": "The Ball Ball"
+          "name": "The Ball Ball",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S12-E06",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S12-E07",
-          "name": "Madonna: The Unauthorized Rusical"
+          "name": "Madonna: The Unauthorized Rusical",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S12-E12",
-          "name": "Perform a medley of songs from RuPaul's Drag Race Live!"
+          "name": "Perform a medley of songs from RuPaul's Drag Race Live!",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S12-E04",
-          "name": "The Beehive Jive dance competition"
+          "name": "The Beehive Jive dance competition",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         },
         {
           "episodeId": "US-S12-E08",
-          "name": "In pairs, create a box of FabFitFun products for another duo, then gift it to them with shade"
+          "name": "In pairs, create a box of FabFitFun products for another duo, then gift it to them with shade",
+          "earnings": {
+            "amount": 1000,
+            "currency": "USD",
+            "context": "$1,000 cash tip and a 1 year subscription to FabFitFun"
+          }
         },
         {
           "episodeId": "US-S12-E12",
-          "name": "Create an over-the-top, one-of-a-kind showgirl headdress"
+          "name": "Create an over-the-top, one-of-a-kind showgirl headdress",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "trip for two to Las Vegas, including airfare, accommodation, and tickets to see RuPaul's Drag Race Live",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

@@ -84,7 +84,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$5,000 cash tip"
       }
     },
     "runwayTheme": "Bad Girls Gone Bad",
@@ -135,7 +136,8 @@
       ],
       "earnings": {
         "amount": 3000,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$3,000 cash tip"
       }
     },
     "runwayTheme": "Night of a Thousand Kylie Minogue's",
@@ -178,7 +180,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$5,000 cash tip"
       }
     },
     "runwayTheme": "Fuchsia? I Don't Even Know Her",
@@ -260,7 +263,8 @@
       ],
       "earnings": {
         "amount": 2500,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$2,500 cash tip"
       }
     },
     "runwayTheme": "Drag Family Resemblance: Doggy Style",

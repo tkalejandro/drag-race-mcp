@@ -8,13 +8,24 @@
       "name": "Photoshoot on a spinning wheel",
       "winnerIds": [
         "kerri-colby"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip courtesy of J.J. Malibu",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "kornbread-the-snack-jete"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Signature Show-Stopping Drag",
     "topIds": [
@@ -54,13 +65,24 @@
       "name": "Photoshoot in a bowl of tic-tacs",
       "winnerIds": [
         "angeria-paris-vanmicheals"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip courtesy of J.J. Malibu",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "angeria-paris-vanmicheals"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Sickening Signature Drag",
     "topIds": [
@@ -100,7 +122,12 @@
       "name": "Compete in dual balls: The Hide and Chic Ball and The Red, White and Blue Ball",
       "winnerIds": [
         "willow-pill"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Hide and Chic Ball / Red, White and Blue Ball",
     "topIds": [
@@ -135,7 +162,12 @@
       "name": "In teams, produce attention-grabbing superteases for Season 14",
       "winnerIds": [
         "angeria-paris-vanmicheals"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Night of a Thousand Jennifer Lopez's",
     "topIds": [
@@ -175,7 +207,12 @@
       "name": "In teams, write a commercial for Save A Queen, a charity for first-eliminated queens",
       "winnerIds": [
         "bosco"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Spring Has Sprung",
     "topIds": [
@@ -215,7 +252,12 @@
       "name": "Create an outfit from junk Michelle Visage bought online",
       "winnerIds": [
         "jorgeous"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Glamazon Primetime",
     "topIds": [
@@ -255,7 +297,12 @@
       "name": "Act in an 80s soap opera called The Daytona Wind",
       "winnerIds": [
         "lady-camden"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Chaps on the Runway",
     "topIds": [
@@ -291,13 +338,24 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "bosco"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip courtesy of Sweet Tarts",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses as 60s-inspired girl groups",
       "winnerIds": [
         "daya-betty"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Heart On",
     "topIds": [
@@ -337,13 +395,23 @@
       "name": "Photobomb famous male celebrities",
       "winnerIds": [
         "willow-pill"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "In teams, create a RuPaul's DragCon panel discussion about men",
       "winnerIds": [
         "bosco"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Shoulder Pads",
     "topIds": [
@@ -381,13 +449,23 @@
       "name": "Create an outfit made from bubble wrap",
       "winnerIds": [
         "bosco"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "deja-skye"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Holy Couture",
     "topIds": [
@@ -436,7 +514,12 @@
       "name": "Moulin Ru: The Rusical",
       "winnerIds": [
         "lady-camden"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip and a trip to New York with tickets to Moulin Rouge"
+      }
     },
     "runwayTheme": "Mirror, Mirror",
     "topIds": [
@@ -476,13 +559,24 @@
         "daya-betty",
         "lady-camden",
         "willow-pill"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,500 worth of Anastasia Beverly Hills cosmetics",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a roast of Ross Mathews",
       "winnerIds": [
         "bosco"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Tutu Much",
     "topIds": [
@@ -526,7 +620,12 @@
       "name": "Write, record, and perform verses to RuPaul's Catwalk",
       "winnerIds": [
         "lady-camden"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "You're A Winner Baby",
     "topIds": [

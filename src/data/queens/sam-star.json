@@ -8,21 +8,41 @@
       "challengeWins": [
         {
           "episodeId": "US-S17-E03",
-          "name": "Design a Monopoly monochrome look"
+          "name": "Design a Monopoly monochrome look",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S17-E08",
-          "name": "The Wicked Wiz of Oz: The Rusical!"
+          "name": "The Wicked Wiz of Oz: The Rusical!",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S17-E13",
-          "name": "Make over parents into drag family members"
+          "name": "Make over parents into drag family members",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize (plus $2,500 cash prize for her drag member)"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S17-E06",
-          "name": "ABH lipstick mouth relay"
+          "name": "ABH lipstick mouth relay",
+          "earnings": {
+            "amount": 500,
+            "currency": "USD",
+            "context": "$500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [
@@ -53,7 +73,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "AS-S11-E11",
-          "name": "Lip-sync to \"U Wear It Well\" while being hosed by the Pit Crew"
+          "name": "Lip-sync to \"U Wear It Well\" while being hosed by the Pit Crew",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash prize"
+          }
         }
       ],
       "lipSyncWins": [

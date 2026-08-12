@@ -8,13 +8,23 @@
       "name": "Porch doorbell photoshoot",
       "winnerIds": [
         "sapphira-cristal"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show for MTV Spring Break",
       "winnerIds": [
         "sapphira-cristal"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip and immunity from a future challenge"
+      }
     },
     "runwayTheme": "RuVeal Yourself",
     "topIds": [
@@ -46,13 +56,23 @@
       "name": "SheMV Hollywood photoshoot",
       "winnerIds": [
         "nymphia-wind"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform at the Queen Choice Awards talent show",
       "winnerIds": [
         "plane-jane"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip and immunity from a future challenge"
+      }
     },
     "runwayTheme": "Made You Look",
     "topIds": [
@@ -84,7 +104,12 @@
       "name": "The Mother of All Balls",
       "winnerIds": [
         "nymphia-wind"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Mother Goose / Significant Mother / Call Me Mother/Father Eleganza",
     "topIds": [
@@ -124,7 +149,12 @@
       "name": "Act in the sketch comedy Everything Every-Cher All at Once",
       "winnerIds": [
         "plasma"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Everything Every-Cher All at Once",
     "topIds": [
@@ -164,7 +194,12 @@
       "name": "Memoir cover photoshoot",
       "winnerIds": [
         "sapphira-cristal"
-      ]
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "USD",
+        "context": "An autographed copy of RuPaul's memoir The House of Hidden Meanings and a $2,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform RuPaul girl-group verses",
@@ -173,7 +208,12 @@
         "megami",
         "mhiya-iman-lepaige",
         "nymphia-wind"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip, split between the winners"
+      }
     },
     "runwayTheme": "Faster Pussycat, Wig, Wig",
     "topIds": [
@@ -214,13 +254,24 @@
       "name": "Flamenco dance",
       "winnerIds": [
         "xunami-muse"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "trip to Spain, all expenses paid",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Design a doll for Welcome to the Dollhouse",
       "winnerIds": [
         "q"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Welcome to the Dollhouse",
     "topIds": [
@@ -260,7 +311,12 @@
       "name": "The Sound of Rusic",
       "winnerIds": [
         "plasma"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "I Can Buy Myself Flowers",
     "topIds": [
@@ -300,13 +356,23 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "xunami-muse"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "plane-jane"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Dancing Queen",
     "topIds": [
@@ -346,13 +412,23 @@
       "name": "Spit-take challenge",
       "winnerIds": [
         "nymphia-wind"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Create a neo-goth look from unconventional materials",
       "winnerIds": [
         "q"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "See You Next Wednesday",
     "topIds": [
@@ -393,7 +469,12 @@
       "name": "Write, record, and perform verses to Power",
       "winnerIds": [
         "sapphira-cristal"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "True Colors",
     "topIds": [
@@ -425,13 +506,23 @@
       "name": "Spill the Tea superlatives",
       "winnerIds": [
         "sapphira-cristal"
-      ]
+      ],
+      "earnings": {
+        "amount": 3400,
+        "currency": "USD",
+        "context": "$3,400 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Present drag awareness seminars",
       "winnerIds": [
         "sapphira-cristal"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Flashback: DragCon 1980",
     "topIds": [
@@ -472,14 +563,25 @@
       "name": "Face makeup T-shirt imprint",
       "winnerIds": [
         "plane-jane"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$5,000 worth of makeup products",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Design paired bathrooms",
       "winnerIds": [
         "plane-jane",
         "sapphira-cristal"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip, split between the winners"
+      }
     },
     "runwayTheme": "Chain Reaction",
     "topIds": [
@@ -518,7 +620,12 @@
       "name": "Make over Live! pit crew members",
       "winnerIds": [
         "plane-jane"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip each for Plane Jane and her makeover partner"
+      }
     },
     "runwayTheme": "Drag Family Resemblance",
     "topIds": [
@@ -558,13 +665,24 @@
       "name": "Underwater Kitty Girl lip sync",
       "winnerIds": [
         "sapphira-cristal"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "trip for two to The Alamar Resort and Mantamar Beach Club in Puerto Vallarta, Mexico",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create a memoir concept",
       "winnerIds": [
         "nymphia-wind"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Fandango",
     "topIds": [

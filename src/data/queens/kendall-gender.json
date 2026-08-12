@@ -8,13 +8,25 @@
       "challengeWins": [
         {
           "episodeId": "CA-S02-E07",
-          "name": "Perform a roast of Brooke Lynn Hytes"
+          "name": "Perform a roast of Brooke Lynn Hytes",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 gift certificate and a $5,000 cash tip courtesy of Vitaly",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S02-E07",
-          "name": "Sound off on the highs and lows of this season's fashion on Brad Goreski's Fashion Puh-Leeze"
+          "name": "Sound off on the highs and lows of this season's fashion on Brad Goreski's Fashion Puh-Leeze",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip courtesy of The Men's Room",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

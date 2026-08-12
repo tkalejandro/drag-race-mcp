@@ -8,7 +8,12 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "roxxxy-andrews"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 charity donation"
+      }
     },
     "maxiChallenge": {
       "name": "Write and perform original verses on RuPaul's \"Drag Queens Save the World\"",
@@ -151,7 +156,12 @@
       "name": "Teletubbies Soul Train Dance-off",
       "winnerIds": [
         "gottmik"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 charity donation"
+      }
     },
     "maxiChallenge": {
       "name": "In pairs, create campy real estate commercials",
@@ -191,7 +201,12 @@
       "name": "Straw Poll",
       "winnerIds": [
         "jorgeous"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 charity donation and a badge"
+      }
     },
     "maxiChallenge": {
       "name": "Deliver a drag political convention roast",
@@ -231,7 +246,12 @@
       "name": "Fruity Patootie",
       "winnerIds": [
         "nina-west"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "Immunity from being cut off (later substituted for a $2,500 charity donation)"
+      }
     },
     "maxiChallenge": {
       "name": "Act in a campy two-person scene opposite RuPaul",
@@ -271,7 +291,12 @@
       "name": "Photobomb a vacation locale",
       "winnerIds": [
         "nina-west"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 charity donation"
+      }
     },
     "maxiChallenge": {
       "name": "Create a look inspired by a RuPaul song",

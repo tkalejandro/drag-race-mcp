@@ -8,17 +8,35 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E06",
-          "name": "Perform in a free-style floor performance which includes Fanography, Voguing and Shablam"
+          "name": "Perform in a free-style floor performance which includes Fanography, Voguing and Shablam",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from daftboy and $2,500 gift card from Elea's Closet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E09",
-          "name": "In pairs, perform in an improvised comedy police sketch for Los Angeles Drag Patrol (L.A.D.P.)"
+          "name": "In pairs, perform in an improvised comedy police sketch for Los Angeles Drag Patrol (L.A.D.P.)",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "2 VIP tickets to Cirque du Soleil: Zumanity in Las Vegas, including flights and hotel accommodations",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E06",
-          "name": "Galisthenics with Love Connie"
+          "name": "Galisthenics with Love Connie",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 gift card from MuLondon",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

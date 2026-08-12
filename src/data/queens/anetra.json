@@ -8,25 +8,50 @@
       "challengeWins": [
         {
           "episodeId": "US-S15-E02",
-          "name": "Perform a talent show in front of the judges"
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S15-E12",
-          "name": "Wigloose: The Rusical!"
+          "name": "Wigloose: The Rusical!",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S15-E13",
-          "name": "Make over teachers into drag family members"
+          "name": "Make over teachers into drag family members",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip each for Anetra and her makeover partner"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S15-E09",
-          "name": "Photobomb iconic Drag Race moments"
+          "name": "Photobomb iconic Drag Race moments",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         },
         {
           "episodeId": "US-S15-E11",
-          "name": "Harlem Vogue Ball"
+          "name": "Harlem Vogue Ball",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

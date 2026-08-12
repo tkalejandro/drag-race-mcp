@@ -8,7 +8,13 @@
       "name": "Create an outfit from thrift-store items",
       "winnerIds": [
         "nina-flowers"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "stay at Paris Hotel in Las Vegas",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Drag on a Dime",
     "topIds": [
@@ -57,7 +63,13 @@
       "name": "Destiny's Child girl group battle",
       "winnerIds": [
         "ongina"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "basket of chocolates courtesy of Karma and Vojeur Chocolate",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "ongina",
@@ -100,7 +112,13 @@
       "name": "Channel Oprah Winfrey in television personality roles",
       "winnerIds": [
         "bebe-zahara-benet"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Sonos stereo sound system",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Dress to Impress",
     "topIds": [
@@ -149,7 +167,13 @@
       "name": "Write and film a MAC Viva Glam commercial",
       "winnerIds": [
         "ongina"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Mac-Viva Glam ambassadorship",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "ongina",
@@ -197,7 +221,13 @@
       "name": "Make over a female fighter into a drag daughter",
       "winnerIds": [
         "rebecca-glasscock"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Gift baskets from Curlisto worth $1,000",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "rebecca-glasscock",
@@ -244,7 +274,13 @@
       "name": "The Absolut Drag Ball",
       "winnerIds": [
         "bebe-zahara-benet"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom dress from Miami Elite Design",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Swimsuit, Executive Realness, and Evening Wear",
     "topIds": [

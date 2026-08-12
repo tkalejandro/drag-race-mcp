@@ -19,7 +19,8 @@
           "name": "Perform a talent show in front of the judges",
           "earnings": {
             "amount": 5000,
-            "currency": "AUD"
+            "currency": "AUD",
+            "context": "A$5,000 cash tip"
           }
         }
       ],

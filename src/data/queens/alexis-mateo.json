@@ -8,15 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S03-E03",
-          "name": "Star in Drag Queens in Outer Space sci-fi spoof trailers"
+          "name": "Star in Drag Queens in Outer Space sci-fi spoof trailers",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "set of hand-sculpted silicone breast plates by Boobs for Queens",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S03-E04",
-          "name": "Produce a fitness workout video"
+          "name": "Produce a fitness workout video",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card to Gilt Groupe",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S03-E09",
-          "name": "Film a patriotic message for US military personnel overseas"
+          "name": "Film a patriotic message for US military personnel overseas",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "three-piece luxury luggage set from Antler Luggage",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

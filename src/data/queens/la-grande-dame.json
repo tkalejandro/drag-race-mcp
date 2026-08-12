@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "FR-S01-E04",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "gift valued at €2,000 courtesy of La Maison Patou",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

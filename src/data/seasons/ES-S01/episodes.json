@@ -140,7 +140,13 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "pupi-poisson"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "pack of underwear and swimsuits courtesy of Addicted.",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
@@ -232,7 +238,13 @@
       "name": "Everybody Loves Puppets",
       "winnerIds": [
         "carmen-farala"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "gift card to use in Ribes & Casals shops",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a roast of the judges",
@@ -283,7 +295,13 @@
       "name": "Makeover rugby players from Madrid Titanes",
       "winnerIds": [
         "carmen-farala"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Two-night stay, dinner and spa treatments for 2 at W Barcelona, for both the contestant and their makeover partner",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Furia de Titanas",
     "topIds": [

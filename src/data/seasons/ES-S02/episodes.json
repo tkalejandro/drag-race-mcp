@@ -8,7 +8,13 @@
       "name": "La maja desnuda photoshoot",
       "winnerIds": [
         "estrella-xtravaganza"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "collection of Krash Kosmetics products valued at €500",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Present two looks",
@@ -49,7 +55,13 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "sharonne"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "set of Addicted products",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Talent show",
@@ -91,7 +103,13 @@
       "winnerIds": [
         "diamante-merybrown",
         "onyx"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "collection of Foreo products valued at €800",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Talk-show improv",
@@ -167,7 +185,13 @@
       "name": "Recite poetry",
       "winnerIds": [
         "onyx"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "selection of LELO sex toys valued at €1000",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
@@ -243,14 +267,26 @@
       "name": "Sumo fight",
       "winnerIds": [
         "estrella-xtravaganza"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "free month on all mobility services from Free Now",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create Spain tourism ads in pairs",
       "winnerIds": [
         "estrella-xtravaganza",
         "sharonne"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "year supply of penis-shaped treats from Dick Waffle",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Noche de las Mil Raffaellas",
     "bottomIds": [
@@ -285,13 +321,25 @@
       "name": "Everybody Loves Puppets",
       "winnerIds": [
         "sharonne"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Two Tickets to a Malú concert as part of her Mil Batallas Tour",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Comedy roast",
       "winnerIds": [
         "marina"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "selection of jewels worth €1,000 from Aster Lab.",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Heroínas de España",
     "bottomIds": [
@@ -326,13 +374,25 @@
       "name": "Guess urn contents",
       "winnerIds": [
         "estrella-xtravaganza"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "photoshoot for Shangay Magazine",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Makeover challenge",
       "winnerIds": [
         "venedita-von-dash"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Two-night stay, meals included at Hotel Ritual",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Por Parejas",
     "bottomIds": [

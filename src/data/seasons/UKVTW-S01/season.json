@@ -55,6 +55,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 0,
-    "currency": "GBP"
+    "currency": "GBP",
+    "context": "No cash prize"
   }
 }

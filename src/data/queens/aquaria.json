@@ -8,21 +8,45 @@
       "challengeWins": [
         {
           "episodeId": "US-S10-E04",
-          "name": "The Last Ball on Earth"
+          "name": "The Last Ball on Earth",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to D Bleu Dazzled and wigs courtesy of RockStar Wigs",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S10-E07",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "6-night stay at Grove Hotel on Fire Island",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S10-E11",
-          "name": "Present two characters on the runway: Best Self and Evil Twin"
+          "name": "Present two characters on the runway: Best Self and Evil Twin",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "trip for 2 to The Grand Resort and Spa in Fort Lauderdale and two luggage sets from Radden Luggage",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S10-E04",
-          "name": "Photobomb iconic celebrity pictures"
+          "name": "Photobomb iconic celebrity pictures",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 credit to Postmates",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S10-E09",

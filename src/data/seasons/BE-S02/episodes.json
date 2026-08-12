@@ -17,7 +17,8 @@
       ],
       "earnings": {
         "amount": 1000,
-        "currency": "EUR"
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
       }
     },
     "runwayTheme": "Drache Nationale",
@@ -67,7 +68,8 @@
       ],
       "earnings": {
         "amount": 1000,
-        "currency": "EUR"
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
       }
     },
     "runwayTheme": "Drag-en-Ciel",
@@ -114,7 +116,8 @@
       ],
       "earnings": {
         "amount": 1000,
-        "currency": "EUR"
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
       }
     },
     "runwayTheme": "Art Nouveau",
@@ -163,7 +166,8 @@
       ],
       "earnings": {
         "amount": 1000,
-        "currency": "EUR"
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
       }
     },
     "runwayTheme": "Mille et une Belgique à l'Eurovision",
@@ -206,7 +210,8 @@
       ],
       "earnings": {
         "amount": 1000,
-        "currency": "EUR"
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
       }
     },
     "runwayTheme": "En Rolleurs, Baby!",
@@ -258,7 +263,8 @@
       ],
       "earnings": {
         "amount": 1000,
-        "currency": "EUR"
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
       }
     },
     "runwayTheme": "Tenues Saxy",
@@ -301,7 +307,8 @@
       ],
       "earnings": {
         "amount": 1000,
-        "currency": "EUR"
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
       }
     },
     "runwayTheme": "Une Histoire de Famille",

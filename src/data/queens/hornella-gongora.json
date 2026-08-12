@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "ES-S03-E01",
-          "name": "Farm-animal photoshoot"
+          "name": "Farm-animal photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "photoshoot for Shangay Magazine",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

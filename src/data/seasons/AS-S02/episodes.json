@@ -8,14 +8,26 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "alaska"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 shopping spree to L.A. Eyeworks",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges and a live audience",
       "winnerIds": [
         "roxxxy-andrews",
         "tatianna"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "collection of jewelry from Fierce Drag Jewels",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "roxxxy-andrews",
@@ -40,7 +52,12 @@
       "eliminatedIds": [
         "coco-montrese"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -58,7 +75,13 @@
       "winnerIds": [
         "alaska",
         "katya"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Two VIP tickets to Cirque du Soleil cabaret \"Zumanity\", including airfare and accommodations.",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Latex Eleganza",
     "topIds": [
@@ -83,7 +106,12 @@
       "eliminatedIds": [
         "tatianna"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -101,7 +129,13 @@
       "winnerIds": [
         "alyssa-edwards",
         "detox"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "three-night getaway to Palm Springs, California",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Future of Drag",
     "topIds": [
@@ -124,7 +158,12 @@
       "eliminatedIds": [
         "ginger-minj"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -142,7 +181,13 @@
       "winnerIds": [
         "alaska",
         "phi-phi-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 shopping spree to Fabric Planet",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Two Looks in One",
     "topIds": [
@@ -166,7 +211,12 @@
       "eliminatedIds": [
         "alyssa-edwards"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -186,7 +236,13 @@
         "alyssa-edwards",
         "detox",
         "tatianna"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Couture Gown from SNL Designs",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "alyssa-edwards",
@@ -209,7 +265,12 @@
       "eliminatedIds": [
         "phi-phi-ohara"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -226,14 +287,25 @@
       "name": "Play a game of beastly golf",
       "winnerIds": [
         "alaska"
-      ]
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "USD",
+        "context": "$2,000 prize package from Klein Epstein and Parker"
+      }
     },
     "maxiChallenge": {
       "name": "Create drag-influenced products",
       "winnerIds": [
         "alaska",
         "katya"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom wig wardrobe from Weaven Steven, and have their merchandise sold at RuPaul's Drag Con",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Pants",
     "topIds": [
@@ -256,7 +328,12 @@
       "eliminatedIds": [
         "tatianna"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -274,7 +351,12 @@
       "winnerIds": [
         "detox",
         "katya"
-      ]
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "USD",
+        "context": "$2,000 gift certificate from Marc Jacobs"
+      }
     },
     "topIds": [
       "detox",
@@ -297,7 +379,12 @@
       "eliminatedIds": [
         "alyssa-edwards"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {

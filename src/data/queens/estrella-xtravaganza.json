@@ -12,21 +12,45 @@
         },
         {
           "episodeId": "ES-S02-E07",
-          "name": "Create Spain tourism ads in pairs"
+          "name": "Create Spain tourism ads in pairs",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "year supply of penis-shaped treats from Dick Waffle",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "ES-S02-E01",
-          "name": "La maja desnuda photoshoot"
+          "name": "La maja desnuda photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "collection of Krash Kosmetics products valued at €500",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ES-S02-E07",
-          "name": "Sumo fight"
+          "name": "Sumo fight",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "free month on all mobility services from Free Now",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ES-S02-E09",
-          "name": "Guess urn contents"
+          "name": "Guess urn contents",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "photoshoot for Shangay Magazine",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

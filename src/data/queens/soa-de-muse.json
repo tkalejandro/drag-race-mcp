@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "FR-S01-E01",
-          "name": "Perform a talent show in front of the judges"
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "weekend in London",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "FR-S01-E05",
-          "name": "Write, record, and perform verses to \"Boom Boom\""
+          "name": "Write, record, and perform verses to \"Boom Boom\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "trip to Berlin",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

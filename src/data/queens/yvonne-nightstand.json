@@ -15,7 +15,8 @@
           "name": "Makeover Drag Race fans",
           "earnings": {
             "amount": 1000,
-            "currency": "EUR"
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
           }
         }
       ],
@@ -25,7 +26,8 @@
           "name": "Get into quick drag and run on a treadmill",
           "earnings": {
             "amount": 1000,
-            "currency": "EUR"
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
           }
         }
       ],

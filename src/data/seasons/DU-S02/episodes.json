@@ -92,7 +92,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$5,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -103,7 +104,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$5,000 cash tip"
       }
     },
     "runwayTheme": "Red For Filth",
@@ -148,7 +150,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$5,000 cash tip"
       }
     },
     "runwayTheme": "Cirque du So-Gay",
@@ -195,7 +198,8 @@
       ],
       "earnings": {
         "amount": 2000,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$2,000 cash tip"
       }
     },
     "runwayTheme": "Belts, Buckles and Chains",
@@ -269,7 +273,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "AUD"
+        "currency": "AUD",
+        "context": "A$5,000 cash tip"
       }
     },
     "runwayTheme": "Opposites Attract",

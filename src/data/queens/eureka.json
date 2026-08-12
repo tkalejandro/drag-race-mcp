@@ -18,21 +18,45 @@
       "challengeWins": [
         {
           "episodeId": "US-S10-E05",
-          "name": "In pairs, improvise in the new day-time talk show \"Bossy Rossy\""
+          "name": "In pairs, improvise in the new day-time talk show \"Bossy Rossy\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "2 VIP tickets to Cirque du Soleil: Zumanity in Las Vegas, including flights and accommodation",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S10-E06",
-          "name": "In teams, create and produce RuPaul's DragCon panels in front of a live audience"
+          "name": "In teams, create and produce RuPaul's DragCon panels in front of a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Four-night stay and spa treatments for 2 at Saguaro in Palm Springs",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S10-E07",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to l.a.Eyeworks",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S10-E10",
-          "name": "Participate in a manly photoshoot advertising a new body spray called \"Trade\""
+          "name": "Participate in a manly photoshoot advertising a new body spray called \"Trade\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to MuLondon",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -61,7 +85,12 @@
         },
         {
           "episodeId": "AS-S06-E11",
-          "name": "Write and perform a Charisma, Uniqueness, Nerve and Talent monologue"
+          "name": "Write and perform a Charisma, Uniqueness, Nerve and Talent monologue",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000, courtesy of Levi's"
+          }
         }
       ],
       "miniChallengeWins": [],

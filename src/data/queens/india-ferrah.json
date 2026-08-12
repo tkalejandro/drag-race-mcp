@@ -27,7 +27,13 @@
       "challengeWins": [
         {
           "episodeId": "AS-S05-E01",
-          "name": "Perform a talent show in front of the judges and a live audience"
+          "name": "Perform a talent show in front of the judges and a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "5-day trip to Reykjavik, Iceland. Hotel and airfare included courtesy of Pink Iceland",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

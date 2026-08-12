@@ -14,7 +14,13 @@
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "soa-de-muse"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "weekend in London",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Liberté, égalité, Jean-Paul Gaultier",
     "topIds": [
@@ -63,7 +69,13 @@
       "name": "Act in the Dix Pour Cent parody \"Queen Pour Cent\"",
       "winnerIds": [
         "paloma"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "weekend getaway and thalassotherapy treatment in Cabourg",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Dites-le avec des fleurs",
     "topIds": [
@@ -110,7 +122,13 @@
       "name": "The French Ball",
       "winnerIds": [
         "kam-hugh"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€2,000 shopping spree",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Ma France à moi / French Clichés / Festival de Cannes",
     "topIds": [
@@ -159,7 +177,13 @@
       "name": "Snatch Game",
       "winnerIds": [
         "la-grande-dame"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "gift valued at €2,000 courtesy of La Maison Patou",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Lendemain de soirée",
     "topIds": [
@@ -206,7 +230,13 @@
       "name": "Write, record, and perform verses to \"Boom Boom\"",
       "winnerIds": [
         "soa-de-muse"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "trip to Berlin",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "La nuit des 1000 Mylène",
     "topIds": [
@@ -255,7 +285,13 @@
       "name": "Write and produce perfume advertisements",
       "winnerIds": [
         "paloma"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "year's supply of Jean-Paul Gaultier perfume and the opportunity to appear in the upcoming Gaultier Pride digital campaign",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Haute Couture",
     "topIds": [

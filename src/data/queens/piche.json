@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "FR-S02-E02",
-          "name": "Perform a talent show in front of the judges"
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "trip to Malta",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

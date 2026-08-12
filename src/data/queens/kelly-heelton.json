@@ -11,7 +11,8 @@
           "name": "Snatch Game",
           "earnings": {
             "amount": 4500,
-            "currency": "EUR"
+            "currency": "EUR",
+            "context": "€4,500 cash tip"
           }
         },
         {
@@ -25,7 +26,8 @@
           "name": "Reading is Fundamental",
           "earnings": {
             "amount": 1000,
-            "currency": "EUR"
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
           }
         },
         {
@@ -33,7 +35,8 @@
           "name": "Convince Dianne Brill to let you into her club",
           "earnings": {
             "amount": 500,
-            "currency": "EUR"
+            "currency": "EUR",
+            "context": "€500 cash tip"
           }
         }
       ],

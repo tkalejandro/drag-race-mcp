@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E02",
-          "name": "Perform in drag film adaptations of Black Panther and Get Out"
+          "name": "Perform in drag film adaptations of Black Panther and Get Out",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from The Crème Shop",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

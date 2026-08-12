@@ -66,6 +66,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 0,
-    "currency": "THB"
+    "currency": "THB",
+    "context": "No cash prize"
   }
 }

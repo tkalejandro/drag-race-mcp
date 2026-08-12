@@ -8,15 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S03-E05",
-          "name": "Produce a morning news show called QNN News"
+          "name": "Produce a morning news show called QNN News",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to Wig USA",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S03-E12",
-          "name": "Makeover heterosexual male athletes"
+          "name": "Makeover heterosexual male athletes",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "cruise for 2 to the Bahamas courtesy of Al and Chuck Travel",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S03-E13",
-          "name": "The Money Ball"
+          "name": "The Money Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "collection of fine jewelry from Kathy Ireland Jewelry",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -71,15 +89,33 @@
       "challengeWins": [
         {
           "episodeId": "AS-S04-E03",
-          "name": "Snatch Game of Love"
+          "name": "Snatch Game of Love",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "set of suitcases from Away plus airfare and a 5 night stay at The Grand Resort and Spa in Fort Lauderdale",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E04",
-          "name": "Improvise in the courtroom show \"Jersey Justice\""
+          "name": "Improvise in the courtroom show \"Jersey Justice\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from FierceQueen.com and $2,000 gift card from Elea's Closet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E05",
-          "name": "Perform a roast of Lady Bunny, the judges, and fellow queens"
+          "name": "Perform a roast of Lady Bunny, the judges, and fellow queens",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$3,000 gift card from MuLondon and a wig wardrobe from RockStar Wigs",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

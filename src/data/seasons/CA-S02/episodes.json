@@ -8,13 +8,24 @@
       "name": "Photoshoot while jumping off a platform",
       "winnerIds": [
         "suki-doll"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "shoe collection from House of Hayla and a $2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Create a look made from coat check items",
       "winnerIds": [
         "icesis-couture"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "home entertainment package valued at $5,000 from The Source",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "icesis-couture",
@@ -53,13 +64,24 @@
       "name": "Queen of My Neighborhood Pageant",
       "winnerIds": [
         "oceane-aqua-black"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "CAD",
+        "context": "$1,000 gift card to DoorDash and a $5,000 cash tip to donate to a charity of their choice"
+      }
     },
     "maxiChallenge": {
       "name": "Perform in Under the Big Top, Live",
       "winnerIds": [
         "pythia"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 gift certificate from Peoples Jewellers",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Circus Bezerkus",
     "topIds": [
@@ -99,7 +121,13 @@
       "name": "Overact in the slasher film parody Screech",
       "winnerIds": [
         "adriana"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 gift certificate courtesy of Fabricland",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Good Girl Gone Bad",
     "topIds": [
@@ -139,13 +167,25 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "icesis-couture"
-      ]
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "CAD",
+        "context": "$2,000 cash tip courtesy of Tan on the Run",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "synthia-kiss"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Made / Nous",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Made in Canada",
     "topIds": [
@@ -186,13 +226,24 @@
       "winnerIds": [
         "gia-metric",
         "synthia-kiss"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "CAD",
+        "context": "$1,000 cash tip and $500 worth of products from Trojan"
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Bye Flop",
       "winnerIds": [
         "gia-metric"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of JJ Malibu",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Monochromatica: Drag Pop Princess",
     "topIds": [
@@ -233,13 +284,25 @@
       "name": "Get into quick drag and paint an evocative twerk of art resembling their inner saboteur",
       "winnerIds": [
         "icesis-couture"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,000 gift card courtesy of Indochino",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "The Sinner's Ball",
       "winnerIds": [
         "icesis-couture"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Palm Holdings",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sex, Drugs and Rock 'n' Roll / Ugly as Sin / Seven Deadly Sins",
     "topIds": [
@@ -280,13 +343,25 @@
       "name": "Sound off on the highs and lows of this season's fashion on Brad Goreski's Fashion Puh-Leeze",
       "winnerIds": [
         "kendall-gender"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of The Men's Room",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a roast of Brooke Lynn Hytes",
       "winnerIds": [
         "kendall-gender"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 gift certificate and a $5,000 cash tip courtesy of Vitaly",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Dungeons and Drag Queens",
     "topIds": [
@@ -325,7 +400,13 @@
       "name": "Makeover LGBTQ+ teenagers",
       "winnerIds": [
         "pythia"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 beauty gift card and $5,000 donated to It Gets Better Canada courtesy of Shoppers Drug Mart",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Cool Mom and Prom Queen",
     "topIds": [

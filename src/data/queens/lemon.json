@@ -9,25 +9,55 @@
       "challengeWins": [
         {
           "episodeId": "CA-S01-E02",
-          "name": "In teams, overact in parodies of Heritage Minutes"
+          "name": "In teams, overact in parodies of Heritage Minutes",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 worth of Anastasia Beverly Hills cosmetics",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S01-E07",
-          "name": "Compete in The Miss Loose Jaw Pageant"
+          "name": "Compete in The Miss Loose Jaw Pageant",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "trip for two to Iceland from Pink Iceland",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S01-E03",
-          "name": "Get into quick drag and perform an audition for the morning show Canada Gay M while reading from a teleprompter in English, French, and Draglish"
+          "name": "Get into quick drag and perform an audition for the morning show Canada Gay M while reading from a teleprompter in English, French, and Draglish",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,000 worth of drag jewels from Amped Accessories",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S01-E05",
-          "name": "Reading Is Fundamental"
+          "name": "Reading Is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$1,000 gift card to LAGconcepts",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S01-E06",
-          "name": "Get into quick drag and play psychic hotline operators"
+          "name": "Get into quick drag and play psychic hotline operators",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$1,000 worth of Bailey Nelson eyewear",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

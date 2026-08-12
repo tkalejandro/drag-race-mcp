@@ -8,14 +8,26 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "latrice-royale"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 gift card to l.a.Eyeworks",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges and a live audience",
       "winnerIds": [
         "monique-heart",
         "trinity-taylor"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "7 Night Stay for Two at the Sand Castle on the Beach Hotel in St. Croix, U.S. Virgin Islands",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "monique-heart",
@@ -55,7 +67,13 @@
       "winnerIds": [
         "monet-x-change",
         "valentina"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from Arda Wigs and a $1,000 gift card from CoolHaus Ice Cream",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Eleguence After Dark",
     "topIds": [
@@ -99,7 +117,13 @@
       "winnerIds": [
         "manila-luzon",
         "trinity-taylor"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "set of suitcases from Away plus airfare and a 5 night stay at The Grand Resort and Spa in Fort Lauderdale",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Boots the House Down",
     "topIds": [
@@ -143,7 +167,13 @@
       "winnerIds": [
         "manila-luzon",
         "monique-heart"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from FierceQueen.com and $2,000 gift card from Elea's Closet",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Swerves and Curves: Padded for the Gods",
     "topIds": [
@@ -187,7 +217,13 @@
       "winnerIds": [
         "manila-luzon",
         "monet-x-change"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 gift card from MuLondon and a wig wardrobe from RockStar Wigs",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Angelic White",
     "topIds": [
@@ -274,7 +310,13 @@
       "winnerIds": [
         "latrice-royale",
         "trinity-taylor"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card to The Crème Shop and a $3,000 gift card to J.J. MALIBU",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Plastique Fantastique",
     "topIds": [
@@ -318,7 +360,13 @@
       "winnerIds": [
         "monet-x-change",
         "naomi-smalls"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "trip for two to Iceland with complimentary first class airfare from WOW air and a four night stay at Design Hotel from Pink Iceland for the queens, and a $1,000 gift card from Klein Epstein & Parker for the Judy's.",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Best Judy's",
     "topIds": [
@@ -362,7 +410,13 @@
       "winnerIds": [
         "monique-heart",
         "trinity-taylor"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 gift card from The Diva's Jewels and a three night stay for two at The Standard East Village in New York",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Cat Couture",
     "topIds": [

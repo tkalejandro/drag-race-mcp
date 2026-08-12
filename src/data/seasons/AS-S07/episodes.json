@@ -8,7 +8,12 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "jinkx-monsoon"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "A$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Write and perform original verses on RuPaul's \"Legends\"",

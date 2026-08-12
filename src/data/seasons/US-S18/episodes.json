@@ -8,13 +8,23 @@
       "name": "Scream queen photoshoot with masked dancers",
       "winnerIds": [
         "kenya-pleaser"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Design a look from leftover past-season materials",
       "winnerIds": [
         "nini-coco"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Reclaim, Renew, Rejoice",
     "topIds": [
@@ -51,7 +61,12 @@
       "name": "Write, record, and perform 70s/80s girl-group verses",
       "winnerIds": [
         "jane-dont"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Your Neck, Your Back, Your Pussy, and Your Crack",
     "topIds": [
@@ -90,7 +105,12 @@
       "name": "Act in RDR Live! sketch comedy",
       "winnerIds": [
         "juicy-love-dion"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Animal Attraction",
     "topIds": [
@@ -130,7 +150,12 @@
       "name": "Design red carpet mashup looks in pairs",
       "winnerIds": [
         "vita-vontesse-starr"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "topIds": [
       "vita-vontesse-starr"
@@ -168,7 +193,12 @@
       "winnerIds": [
         "juicy-love-dion",
         "mia-starr"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$5,000 cash prize ($2,500 for each)"
+      }
     },
     "runwayTheme": "Not Today Satin",
     "topIds": [
@@ -204,7 +234,12 @@
       "name": "Perform a talent show for Rate-A-Queen (group 2)",
       "winnerIds": [
         "athena-dion"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Shake, Shake, Shake",
     "topIds": [
@@ -243,7 +278,12 @@
       "name": "Create paired political campaign ads",
       "winnerIds": [
         "myki-meeks"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "I Can See Right Through Ha",
     "topIds": [
@@ -283,7 +323,12 @@
       "name": "Snatch Game of Love Island",
       "winnerIds": [
         "nini-coco"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "80s Ladies",
     "topIds": [
@@ -324,13 +369,23 @@
       "winnerIds": [
         "discord-addams",
         "kenya-pleaser"
-      ]
+      ],
+      "earnings": {
+        "amount": 1250,
+        "currency": "USD",
+        "context": "$2,500 cash prize ($1,250 for each)"
+      }
     },
     "maxiChallenge": {
       "name": "Fannie: The Hard Knock Ball Rusical",
       "winnerIds": [
         "jane-dont"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Beige Against The Machine",
     "topIds": [
@@ -370,13 +425,23 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "myki-meeks"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash prize"
+      }
     },
     "maxiChallenge": {
       "name": "Design a look from eliminated queens' suitcases",
       "winnerIds": [
         "jane-dont"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Party",
     "topIds": [
@@ -408,13 +473,23 @@
       "name": "Scent Bird ads",
       "winnerIds": [
         "myki-meeks"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash prize"
+      }
     },
     "maxiChallenge": {
       "name": "Roast and toast Alyssa Edwards",
       "winnerIds": [
         "darlene-mitchell"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Swept Away",
     "topIds": [
@@ -454,13 +529,23 @@
       "name": "Cowgirl bouncy-horse race",
       "winnerIds": [
         "discord-addams"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash prize"
+      }
     },
     "maxiChallenge": {
       "name": "Make over rodeo riders into drag family members",
       "winnerIds": [
         "myki-meeks"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize and $2,500 cash prize for her makeover partner"
+      }
     },
     "runwayTheme": "Drag Family Resemblance",
     "topIds": [
@@ -500,7 +585,12 @@
       "name": "Improv with RuPaul",
       "winnerIds": [
         "myki-meeks"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "From Wholesome to Folsom",
     "topIds": [
@@ -541,7 +631,12 @@
       "winnerIds": [
         "darlene-mitchell",
         "myki-meeks"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize split between the two winners"
+      }
     },
     "runwayTheme": "Drag Excellence",
     "topIds": [
@@ -583,7 +678,8 @@
       ],
       "earnings": {
         "amount": 50000,
-        "currency": "USD"
+        "currency": "USD",
+        "context": "$50,000 cash prize"
       }
     },
     "lipSync": {

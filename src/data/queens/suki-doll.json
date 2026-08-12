@@ -9,7 +9,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "CA-S02-E01",
-          "name": "Photoshoot while jumping off a platform"
+          "name": "Photoshoot while jumping off a platform",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "shoe collection from House of Hayla and a $2,500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [],

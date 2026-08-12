@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S02-E02",
-          "name": "Burlesque performance and gift-certificate sales"
+          "name": "Burlesque performance and gift-certificate sales",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 gift certificate to Sequin Queen",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

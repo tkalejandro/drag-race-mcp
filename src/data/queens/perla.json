@@ -9,7 +9,13 @@
       "challengeWins": [
         {
           "episodeId": "CA-S05-E02",
-          "name": "In teams, film a PSA teaching aliens about life on Earth"
+          "name": "In teams, film a PSA teaching aliens about life on Earth",
+          "earnings": {
+            "amount": 5000,
+            "currency": "CAD",
+            "context": "$5,000 cash tip courtesy of Safer Six",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

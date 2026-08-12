@@ -8,13 +8,24 @@
       "name": "Farm-animal photoshoot",
       "winnerIds": [
         "hornella-gongora"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "photoshoot for Shangay Magazine",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Talent show",
       "winnerIds": [
         "bestiah"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
     },
     "runwayTheme": "Spain is Different",
     "bottomIds": [
@@ -49,13 +60,23 @@
       "name": "Eurovision quiz",
       "winnerIds": [
         "the-macarena"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip from Addicted"
+      }
     },
     "maxiChallenge": {
       "name": "Choreograph and perform to \"SloMo\"",
       "winnerIds": [
         "pink-chadora"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and 2 nights at the Barcelona Axel Hotel"
+      }
     },
     "runwayTheme": "España en Eurovisión",
     "bottomIds": [
@@ -90,7 +111,12 @@
       "name": "The Great Ball of Regions",
       "winnerIds": [
         "pitita"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a necklace and earrings from Aster LAB"
+      }
     },
     "runwayTheme": "Colores / Sabores / Regiones",
     "bottomIds": [
@@ -125,7 +151,12 @@
       "name": "Horror sequel acting challenge",
       "winnerIds": [
         "pitita"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a trip to Axel Hoteles San Sebastián"
+      }
     },
     "runwayTheme": "Mi Peor Yo",
     "bottomIds": [
@@ -160,13 +191,24 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "pakita"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€1,000 worth of products from FOREO",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "pink-chadora"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
     },
     "runwayTheme": "Arriba la pluma",
     "bottomIds": [
@@ -201,7 +243,12 @@
       "name": "Oz musical",
       "winnerIds": [
         "pitita"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and jewelry from Aster Lab"
+      }
     },
     "runwayTheme": "Tres Looks en Uno",
     "bottomIds": [
@@ -236,7 +283,12 @@
       "name": "Stand-up with eliminated queens",
       "winnerIds": [
         "vania-vainilla"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
     },
     "runwayTheme": "Peluca Palooza",
     "bottomIds": [
@@ -275,13 +327,24 @@
       "winnerIds": [
         "bestiah",
         "clover-bish"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€500 worth of products from Krash Kosmetics",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Game-show improv",
       "winnerIds": [
         "pitita"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
     },
     "runwayTheme": "Una ilusión",
     "bottomIds": [
@@ -316,13 +379,24 @@
       "name": "Pancake slap",
       "winnerIds": [
         "pitita"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "sample of products courtesy of ES Collection Cosmetics",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Makeover cleaners",
       "winnerIds": [
         "vania-vainilla"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
     },
     "runwayTheme": "Barricientas",
     "bottomIds": [

@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "US-S15-E05",
-          "name": "Design home-decor looks in fashion houses"
+          "name": "Design home-decor looks in fashion houses",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S15-E11",
-          "name": "Perform paired stand-up comedy routines"
+          "name": "Perform paired stand-up comedy routines",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip each"
+          }
         }
       ],
       "miniChallengeWins": [],

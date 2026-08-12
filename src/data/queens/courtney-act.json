@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S06-E04",
-          "name": "Shade: The Rusical"
+          "name": "Shade: The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "2 VIP packages to the Broadway musical Kinky Boots",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S06-E09",
-          "name": "Guest host The RuPaul Show and interview Chaz Bono and Georgia Holt"
+          "name": "Guest host The RuPaul Show and interview Chaz Bono and Georgia Holt",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "wig wardrobe from Outfiters Wig and a one-year haircare supply from Aquage",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

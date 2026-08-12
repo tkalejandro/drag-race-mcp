@@ -8,14 +8,26 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "bendelacreme"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 shopping spree to L.A. Eyeworks",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent in front of the judges and a live audience",
       "winnerIds": [
         "aja",
         "bendelacreme"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Five-night stay at The Grand Resort and Spa in Fort Lauderdale, air fare included",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "aja",
@@ -37,7 +49,12 @@
       "eliminatedIds": [
         "morgan-mcmichaels"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -55,7 +72,13 @@
       "winnerIds": [
         "bendelacreme",
         "shangela"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1000 gift card from Sparkles Rhinestones and a $1000 gift card from Fierce Queen Heels",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "RuDemption Runway",
     "topIds": [
@@ -78,7 +101,12 @@
       "eliminatedIds": [
         "thorgy-thor"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -99,7 +127,13 @@
       "winnerIds": [
         "bendelacreme",
         "kennedy-davenport"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "jewelry pack from Fierce Drag Jewels and a $1000 gift card to Nailed by Cristy",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Wigs on Wigs on Wigs",
     "topIds": [
@@ -123,7 +157,12 @@
       "eliminatedIds": [
         "milk"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -144,7 +183,13 @@
       "winnerIds": [
         "bendelacreme",
         "shangela"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "wig wardrobe courtesy of Rockstar Wigs and a $1000 gift card from Coolhaus Ice Cream",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Flower Power",
     "topIds": [
@@ -169,7 +214,12 @@
       "eliminatedIds": [
         "chi-chi-devayne"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -189,14 +239,25 @@
       "name": "Pop art-style portrait photoshoot",
       "winnerIds": [
         "aja"
-      ]
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "USD",
+        "context": "year's supply of hamburgers from Hamburger Mary's and $2,000"
+      }
     },
     "maxiChallenge": {
       "name": "The Pop Art Ball",
       "winnerIds": [
         "bebe-zahara-benet",
         "trixie-mattel"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Two-night escape for 2 at the W Hotel in Fort Lauderdale",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Andy Warhol: Soup Can Realness and Studio 54",
     "topIds": [
@@ -219,7 +280,12 @@
       "eliminatedIds": [
         "aja"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -240,7 +306,13 @@
       "winnerIds": [
         "bebe-zahara-benet",
         "bendelacreme"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 gift card to The Spa on Rodeo and a $1,000 gift card to MuLondon",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "bebe-zahara-benet",
@@ -263,7 +335,12 @@
       "eliminatedIds": [
         "bendelacreme"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -284,7 +361,13 @@
       "winnerIds": [
         "shangela",
         "trixie-mattel"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 gift card to Elea's Closet and a luggage set from Radden Luggage",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Red for Filth",
     "topIds": [
@@ -308,7 +391,12 @@
       "eliminatedIds": [
         "morgan-mcmichaels"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {

@@ -8,15 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S06-E06",
-          "name": "Write, record, and perform verses to Oh No She Betta Don't"
+          "name": "Write, record, and perform verses to Oh No She Betta Don't",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "collection of custom-made jewelry",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S06-E07",
-          "name": "In pairs, film an infomercial for RuPaul's Glamazon Cosmetics"
+          "name": "In pairs, film an infomercial for RuPaul's Glamazon Cosmetics",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "collection of skincare products from Lather",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S06-E11",
-          "name": "The Glitter Ball"
+          "name": "The Glitter Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "costume from Kicka Custom Design",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "CA-S05-E04",
-          "name": "Present two looks on the runway: Slow Mo Couture and Fast Fashion"
+          "name": "Present two looks on the runway: Slow Mo Couture and Fast Fashion",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "trip for two to the Montréal Village",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S05-E07",
-          "name": "Design an outfit to be modeled by Brooke Lynn Hytes"
+          "name": "Design an outfit to be modeled by Brooke Lynn Hytes",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "luxury trip for two to Punta Cana courtesy of Air Canada Vacations",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

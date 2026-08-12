@@ -8,13 +8,23 @@
       "name": "Ru Light, Green Light photoshoot",
       "winnerIds": [
         "lana-jarae"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show for Drag Queens Got Talent (group 1)",
       "winnerIds": [
         "suzie-toot"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Masc For Masked Singer",
     "topIds": [
@@ -46,7 +56,12 @@
       "name": "Perform a talent show for Drag Queens Got Talent (group 2)",
       "winnerIds": [
         "lexi-love"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Is It Cake?",
     "topIds": [
@@ -82,7 +97,12 @@
       "name": "Design a Monopoly monochrome look",
       "winnerIds": [
         "sam-star"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Monopulence!",
     "topIds": [
@@ -122,7 +142,12 @@
       "name": "Create commercials for past Drag Race musical tracks",
       "winnerIds": [
         "onya-nurve"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Quilted For Your Pleasure",
     "topIds": [
@@ -162,7 +187,12 @@
       "name": "Act in RDR Live! sketch comedy",
       "winnerIds": [
         "suzie-toot"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Tickled Pink",
     "topIds": [
@@ -204,13 +234,23 @@
         "onya-nurve",
         "sam-star",
         "suzie-toot"
-      ]
+      ],
+      "earnings": {
+        "amount": 500,
+        "currency": "USD",
+        "context": "$500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Let's Get Sea Sickening Ball",
       "winnerIds": [
         "arrietty"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Bathing Beauties / Sea Creature Couture / Sea Sickening Eleganza",
     "topIds": [
@@ -250,7 +290,12 @@
       "name": "Snatch Game",
       "winnerIds": [
         "onya-nurve"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Nailed It!",
     "topIds": [
@@ -291,7 +336,12 @@
       "name": "The Wicked Wiz of Oz: The Rusical!",
       "winnerIds": [
         "sam-star"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Parasols, Shady Ladies",
     "topIds": [
@@ -332,13 +382,23 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "suzie-toot"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Design looks inspired by a Betsey Johnson collection",
       "winnerIds": [
         "jewels-sparkles"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "topIds": [
       "arrietty",
@@ -377,7 +437,12 @@
       "name": "Perform a roast of Kandy Muse, Mistress Isabelle Brooks, and Plane Jane",
       "winnerIds": [
         "lydia-b-kollins"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Who Wears Short Shorts?",
     "topIds": [
@@ -417,7 +482,12 @@
       "name": "Act in a Ross Mathews vs. The Ducks parody",
       "winnerIds": [
         "onya-nurve"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Black & White Ball",
     "topIds": [
@@ -458,14 +528,24 @@
       "name": "Duo Drag Race bios",
       "winnerIds": [
         "jewels-sparkles"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "USD",
+        "context": "$1000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform paired C.U.N.T. monologues",
       "winnerIds": [
         "lexi-love",
         "onya-nurve"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash prize each"
+      }
     },
     "runwayTheme": "Ugliest Dress Ever",
     "topIds": [
@@ -504,13 +584,23 @@
       "name": "Spill the T / superlatives",
       "winnerIds": [
         "onya-nurve"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Make over parents into drag family members",
       "winnerIds": [
         "sam-star"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize (plus $2,500 cash prize for her drag member)"
+      }
     },
     "runwayTheme": "Drag Family Resemblance",
     "topIds": [
@@ -547,7 +637,12 @@
       "name": "Audition for Drag Race Live!",
       "winnerIds": [
         "jewels-sparkles"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Opulent Outerwear",
     "topIds": [

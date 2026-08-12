@@ -8,13 +8,25 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "ginger-minj"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from ISLYNYC",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "yara-sofia"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Seven-nights stay at a luxury villa in Italy, courtesy of MyGayGetaway",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "yara-sofia"
@@ -47,7 +59,12 @@
       "name": "The Blue Ball",
       "winnerIds": [
         "ra-jah-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000, courtesy of Planet Pepper and $5,000 worth of Orbucks from Orbitz"
+      }
     },
     "runwayTheme": "Blue Betta Werk / Blue Jean Baby / Blue Ball Bonanza",
     "topIds": [
@@ -87,7 +104,12 @@
       "name": "Write and star in a commercial promoting a side hustle",
       "winnerIds": [
         "trinity-k-bonet"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 and $5,000 worth of Orbucks from Orbitz"
+      }
     },
     "runwayTheme": "Rudemption Runway",
     "topIds": [
@@ -128,7 +150,12 @@
       "name": "All Stars 6 Hall of Fame Half-Time Show",
       "winnerIds": [
         "jan"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000, courtesy of Mane Club and $5,000 worth of Orbucks from Orbitz"
+      }
     },
     "runwayTheme": "The Frill of It All",
     "topIds": [
@@ -167,7 +194,12 @@
       "name": "Host a talk show called Pink Table Talk",
       "winnerIds": [
         "ginger-minj"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "runwayTheme": "Clash of the Patterns",
     "topIds": [
@@ -207,7 +239,13 @@
       "name": "Act in RuMerican Horror Story: Coven Girls",
       "winnerIds": [
         "sonique"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Seven-nights vacation in southern Italy",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Oh My Goth!",
     "topIds": [
@@ -246,7 +284,12 @@
       "name": "In groups, write your own verse to \"Show Up Queen\"",
       "winnerIds": [
         "trinity-k-bonet"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000, courtesy of Snag Tights"
+      }
     },
     "runwayTheme": "Hot Tropics",
     "topIds": [
@@ -285,7 +328,12 @@
       "name": "Snatch Game of Love",
       "winnerIds": [
         "ginger-minj"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000, courtesy of Barefoot Wine"
+      }
     },
     "runwayTheme": "Pop Art",
     "topIds": [
@@ -325,13 +373,23 @@
       "winnerIds": [
         "ginger-minj",
         "sonique"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "USD",
+        "context": "$1,000 tip, courtesy of the United States Department of Education"
+      }
     },
     "maxiChallenge": {
       "name": "Create a magical live-action character for Drag Tots",
       "winnerIds": [
         "ra-jah-ohara"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
     },
     "topIds": [
       "ra-jah-ohara"
@@ -400,13 +458,24 @@
       "name": "Pride quick drag photoshoot",
       "winnerIds": [
         "sonique"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Levi's 2021 Pride collection",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Write and perform a Charisma, Uniqueness, Nerve and Talent monologue",
       "winnerIds": [
         "eureka"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000, courtesy of Levi's"
+      }
     },
     "runwayTheme": "Oops, I Did It Again — A Fashionable Fashion Fail",
     "topIds": [

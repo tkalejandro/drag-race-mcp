@@ -8,15 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S08-E03",
-          "name": "Empire-inspired acting challenge"
+          "name": "Empire-inspired acting challenge",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$3,500 of Innovative Eyewear from Bradley Kenneth",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S08-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "set of Lux De Ville hand bags",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S08-E07",
-          "name": "Paired presidential smear campaign ads"
+          "name": "Paired presidential smear campaign ads",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom made gown from MountBatten Concepts",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

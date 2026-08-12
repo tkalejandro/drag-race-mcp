@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "ES-S04-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a skincare set from FOREO"
+          }
         }
       ],
       "miniChallengeWins": [

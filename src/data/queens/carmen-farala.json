@@ -16,7 +16,13 @@
         },
         {
           "episodeId": "ES-S01-E07",
-          "name": "Makeover rugby players from Madrid Titanes"
+          "name": "Makeover rugby players from Madrid Titanes",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Two-night stay, dinner and spa treatments for 2 at W Barcelona, for both the contestant and their makeover partner",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -30,7 +36,13 @@
         },
         {
           "episodeId": "ES-S01-E06",
-          "name": "Everybody Loves Puppets"
+          "name": "Everybody Loves Puppets",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "gift card to use in Ribes & Casals shops",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ES-S01-E07",

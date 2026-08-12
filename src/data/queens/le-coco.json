@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "ES-S04-E07",
-          "name": "Product ads"
+          "name": "Product ads",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a sex toys set from LELO"
+          }
         },
         {
           "episodeId": "ES-S04-E08",
-          "name": "Roast / awards show"
+          "name": "Roast / awards show",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a two-night hotel stay in Torremolinos"
+          }
         }
       ],
       "miniChallengeWins": [

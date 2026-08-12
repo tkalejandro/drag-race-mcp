@@ -10,7 +10,11 @@
         {
           "episodeId": "CA-S06-E03",
           "name": "Choose to compete on Snatch Game or create an outfit made for a Red Carpet",
-          "earnings": { "amount": 2500, "currency": "CAD" }
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "CA$2,500 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

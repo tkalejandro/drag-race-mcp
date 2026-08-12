@@ -9,13 +9,25 @@
       "challengeWins": [
         {
           "episodeId": "CA-S03-E07",
-          "name": "Squirrels Trip: The Rusical"
+          "name": "Squirrels Trip: The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,500 courtesy of Made",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S03-E03",
-          "name": "Create a quick-drag masculine character and make Brooke laugh on a blind date"
+          "name": "Create a quick-drag masculine character and make Brooke laugh on a blind date",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,500 gift card courtesy of ShoeFreaks + the power to assign the songs for the Main Challenge",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

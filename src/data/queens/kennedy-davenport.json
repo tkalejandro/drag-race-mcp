@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S07-E04",
-          "name": "In teams, create a music video parody to one of RuPaul's songs"
+          "name": "In teams, create a music video parody to one of RuPaul's songs",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "3 year supply of essential family products from The Honest Company",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S07-E07",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Feather accessories from Mother Plucker",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -49,14 +61,25 @@
       "challengeWins": [
         {
           "episodeId": "AS-S03-E03",
-          "name": "In pairs, improvise in an unscripted dating show inspired by The Bachelor called \"The Bitchelor\""
+          "name": "In pairs, improvise in an unscripted dating show inspired by The Bachelor called \"The Bitchelor\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "jewelry pack from Fierce Drag Jewels and a $1000 gift card to Nailed by Cristy",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
         {
           "episodeId": "AS-S03-E03",
-          "song": "Green Light"
+          "song": "Green Light",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

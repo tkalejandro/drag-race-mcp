@@ -8,15 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S09-E03",
-          "name": "Create an original fairytale princess with a sassy sidekick"
+          "name": "Create an original fairytale princess with a sassy sidekick",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$5000 gift card for Casper Sleep.",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S09-E07",
-          "name": "Act in a 90210 parody spin-off titled 9021-HO"
+          "name": "Act in a 90210 parody spin-off titled 9021-HO",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2000 gift card from Fabric Planet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S09-E10",
-          "name": "Makeover members of the RuPaul's Drag Race crew"
+          "name": "Makeover members of the RuPaul's Drag Race crew",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Two custom gowns made by David Meister, and a $2,000 gift certificate to Klein Epstein Parker for her drag sister",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -38,11 +56,23 @@
       "challengeWins": [
         {
           "episodeId": "AS-S04-E01",
-          "name": "Perform a talent show in front of the judges and a live audience"
+          "name": "Perform a talent show in front of the judges and a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "7 Night Stay for Two at the Sand Castle on the Beach Hotel in St. Croix, U.S. Virgin Islands",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E03",
-          "name": "Snatch Game of Love"
+          "name": "Snatch Game of Love",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "set of suitcases from Away plus airfare and a 5 night stay at The Grand Resort and Spa in Fort Lauderdale",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E06",
@@ -50,11 +80,23 @@
         },
         {
           "episodeId": "AS-S04-E07",
-          "name": "In teams, create and host your own nightclub"
+          "name": "In teams, create and host your own nightclub",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card to The Crème Shop and a $3,000 gift card to J.J. MALIBU",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S04-E09",
-          "name": "Star in a Sex and the City mockumentary \"Sex and the Kitty, Girl 3\""
+          "name": "Star in a Sex and the City mockumentary \"Sex and the Kitty, Girl 3\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$3,000 gift card from The Diva's Jewels and a three night stay for two at The Standard East Village in New York",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

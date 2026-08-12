@@ -25,17 +25,34 @@
       "challengeWins": [
         {
           "episodeId": "AS-S06-E06",
-          "name": "Act in RuMerican Horror Story: Coven Girls"
+          "name": "Act in RuMerican Horror Story: Coven Girls",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Seven-nights vacation in southern Italy",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "AS-S06-E09",
-          "name": "All Star Class Superlatives"
+          "name": "All Star Class Superlatives",
+          "earnings": {
+            "amount": 1000,
+            "currency": "USD",
+            "context": "$1,000 tip, courtesy of the United States Department of Education"
+          }
         },
         {
           "episodeId": "AS-S06-E11",
-          "name": "Pride quick drag photoshoot"
+          "name": "Pride quick drag photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Levi's 2021 Pride collection",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

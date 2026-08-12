@@ -8,29 +8,65 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E01",
-          "name": "Create an outfit using materials belonging to former RuPaul's Drag Race queens"
+          "name": "Create an outfit using materials belonging to former RuPaul's Drag Race queens",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "seven night stay in Paris, France courtesy of misterb&b",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E05",
-          "name": "The Monster Ball"
+          "name": "The Monster Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$3,000 gift card from Travelgay.com",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E11",
-          "name": "Makeover the eliminated queens"
+          "name": "Makeover the eliminated queens",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "trip for two to Aruba with complimentary airfare and a five-night stay at the Marriott Resort and Stellaris Casino for Brooke Lynn, and a $2,000 gift card from Klein Epstein & Parker for Plastique Tiara",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E02",
-          "name": "Photobomb iconic celebrity pictures"
+          "name": "Photobomb iconic celebrity pictures",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 gift card from Fierce Queen",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E09",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card to l.a.Eyeworks",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E11",
-          "name": "Attempt to make the other queens slap them"
+          "name": "Attempt to make the other queens slap them",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Nails and lashes from KISS USA, and a wig and styling package from Luxelab",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

@@ -139,7 +139,8 @@
       ],
       "earnings": {
         "amount": 5000,
-        "currency": "BRL"
+        "currency": "BRL",
+        "context": "R$5,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -223,7 +224,8 @@
       ],
       "earnings": {
         "amount": 10000,
-        "currency": "BRL"
+        "currency": "BRL",
+        "context": "R$10,000 cash tip"
       }
     },
     "runwayTheme": "Drags à la Carte / Candy Queens / Flying Horse Realness",
@@ -335,7 +337,8 @@
       ],
       "earnings": {
         "amount": 6000,
-        "currency": "BRL"
+        "currency": "BRL",
+        "context": "R$6,000 cash tip"
       }
     },
     "maxiChallenge": {

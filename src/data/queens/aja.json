@@ -27,13 +27,24 @@
       "challengeWins": [
         {
           "episodeId": "AS-S03-E01",
-          "name": "Perform a talent in front of the judges and a live audience"
+          "name": "Perform a talent in front of the judges and a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Five-night stay at The Grand Resort and Spa in Fort Lauderdale, air fare included",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "AS-S03-E05",
-          "name": "Pop art-style portrait photoshoot"
+          "name": "Pop art-style portrait photoshoot",
+          "earnings": {
+            "amount": 2000,
+            "currency": "USD",
+            "context": "year's supply of hamburgers from Hamburger Mary's and $2,000"
+          }
         }
       ],
       "lipSyncWins": [],
@@ -58,7 +69,12 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S10-E01",
-          "song": "Think U the Shit (Fart)"
+          "song": "Think U the Shit (Fart)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

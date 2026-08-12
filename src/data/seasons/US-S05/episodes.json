@@ -6,23 +6,52 @@
     "title": "RuPaullywood or Bust",
     "miniChallenge": {
       "name": "Underwater photoshoot",
-      "winnerIds": ["detox"]
+      "winnerIds": [
+        "detox"
+      ]
     },
     "maxiChallenge": {
       "name": "Create a Hollywood realness and glamour outfit from dumpster items",
-      "winnerIds": ["roxxxy-andrews"]
+      "winnerIds": [
+        "roxxxy-andrews"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom gown by Marco Marco",
+        "isSponsor": true
+      }
     },
-    "topIds": ["roxxxy-andrews", "alaska", "ivy-winters", "lineysha-sparx"],
-    "bottomIds": ["penny-tration", "serena-chacha"],
+    "topIds": [
+      "roxxxy-andrews",
+      "alaska",
+      "ivy-winters",
+      "lineysha-sparx"
+    ],
+    "bottomIds": [
+      "penny-tration",
+      "serena-chacha"
+    ],
     "lipSync": {
       "song": "Party in the U.S.A.",
-      "queenIds": ["penny-tration", "serena-chacha"],
-      "winnerIds": ["serena-chacha"],
-      "eliminatedIds": ["penny-tration"]
+      "queenIds": [
+        "penny-tration",
+        "serena-chacha"
+      ],
+      "winnerIds": [
+        "serena-chacha"
+      ],
+      "eliminatedIds": [
+        "penny-tration"
+      ]
     },
     "guestJudges": [
-      { "name": "Camille Grammer" },
-      { "name": "Mike Ruiz" }
+      {
+        "name": "Camille Grammer"
+      },
+      {
+        "name": "Mike Ruiz"
+      }
     ]
   },
   {
@@ -32,24 +61,52 @@
     "title": "Lip Synch Extravaganza Eleganza",
     "miniChallenge": {
       "name": "Lip-sync to a RuPaul song with only your mouth visible",
-      "winnerIds": ["detox", "ivy-winters", "serena-chacha"]
+      "winnerIds": [
+        "detox",
+        "ivy-winters",
+        "serena-chacha"
+      ]
     },
     "maxiChallenge": {
       "name": "In teams, lip-sync and re-enact famous Untucked scenes",
-      "winnerIds": ["lineysha-sparx"]
+      "winnerIds": [
+        "lineysha-sparx"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom latex garment from Syren Latex",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Best Drag",
-    "topIds": ["lineysha-sparx"],
-    "bottomIds": ["monica-beverly-hillz", "serena-chacha"],
+    "topIds": [
+      "lineysha-sparx"
+    ],
+    "bottomIds": [
+      "monica-beverly-hillz",
+      "serena-chacha"
+    ],
     "lipSync": {
       "song": "Only Girl (In the World)",
-      "queenIds": ["monica-beverly-hillz", "serena-chacha"],
-      "winnerIds": ["monica-beverly-hillz"],
-      "eliminatedIds": ["serena-chacha"]
+      "queenIds": [
+        "monica-beverly-hillz",
+        "serena-chacha"
+      ],
+      "winnerIds": [
+        "monica-beverly-hillz"
+      ],
+      "eliminatedIds": [
+        "serena-chacha"
+      ]
     },
     "guestJudges": [
-      { "name": "Kristen Johnston" },
-      { "name": "Juliette Lewis" }
+      {
+        "name": "Kristen Johnston"
+      },
+      {
+        "name": "Juliette Lewis"
+      }
     ]
   },
   {
@@ -59,24 +116,53 @@
     "title": "Draggle Rock",
     "miniChallenge": {
       "name": "Create a mannequin doll in pairs for America's Junior Drag Superstar",
-      "winnerIds": ["alaska", "lineysha-sparx"]
+      "winnerIds": [
+        "alaska",
+        "lineysha-sparx"
+      ]
     },
     "maxiChallenge": {
       "name": "Star in two different children's TV shows",
-      "winnerIds": ["detox"]
+      "winnerIds": [
+        "detox"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "wig wardrobe from New Attitude Wigs",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Pretty in Pink",
-    "topIds": ["detox", "jinkx-monsoon", "roxxxy-andrews"],
-    "bottomIds": ["coco-montrese", "monica-beverly-hillz"],
+    "topIds": [
+      "detox",
+      "jinkx-monsoon",
+      "roxxxy-andrews"
+    ],
+    "bottomIds": [
+      "coco-montrese",
+      "monica-beverly-hillz"
+    ],
     "lipSync": {
       "song": "When I Grow Up",
-      "queenIds": ["coco-montrese", "monica-beverly-hillz"],
-      "winnerIds": ["coco-montrese"],
-      "eliminatedIds": ["monica-beverly-hillz"]
+      "queenIds": [
+        "coco-montrese",
+        "monica-beverly-hillz"
+      ],
+      "winnerIds": [
+        "coco-montrese"
+      ],
+      "eliminatedIds": [
+        "monica-beverly-hillz"
+      ]
     },
     "guestJudges": [
-      { "name": "Coco Austin" },
-      { "name": "Paulina Porizkova" }
+      {
+        "name": "Coco Austin"
+      },
+      {
+        "name": "Paulina Porizkova"
+      }
     ]
   },
   {
@@ -86,24 +172,52 @@
     "title": "Black Swan: Why It Gotta Be Black?",
     "miniChallenge": {
       "name": "Soul Train dance-off",
-      "winnerIds": ["coco-montrese", "jinkx-monsoon"]
+      "winnerIds": [
+        "coco-montrese",
+        "jinkx-monsoon"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform ballet acts about RuPaul's life (No RuPaulogies)",
-      "winnerIds": ["alyssa-edwards"]
+      "winnerIds": [
+        "alyssa-edwards"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom feather headpiece from Mother Plucker",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Divalicious",
-    "topIds": ["alyssa-edwards", "ivy-winters", "jinkx-monsoon"],
-    "bottomIds": ["honey-mahogany", "vivienne-pinay"],
+    "topIds": [
+      "alyssa-edwards",
+      "ivy-winters",
+      "jinkx-monsoon"
+    ],
+    "bottomIds": [
+      "honey-mahogany",
+      "vivienne-pinay"
+    ],
     "lipSync": {
       "song": "Oops!... I Did It Again",
-      "queenIds": ["honey-mahogany", "vivienne-pinay"],
+      "queenIds": [
+        "honey-mahogany",
+        "vivienne-pinay"
+      ],
       "winnerIds": [],
-      "eliminatedIds": ["honey-mahogany", "vivienne-pinay"]
+      "eliminatedIds": [
+        "honey-mahogany",
+        "vivienne-pinay"
+      ]
     },
     "guestJudges": [
-      { "name": "Chaz Bono" },
-      { "name": "Travis Wall" }
+      {
+        "name": "Chaz Bono"
+      },
+      {
+        "name": "Travis Wall"
+      }
     ]
   },
   {
@@ -113,24 +227,54 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Style a cuddler into a red carpet look for an Us Weekly fashion face-off",
-      "winnerIds": ["alyssa-edwards", "detox", "roxxxy-andrews"]
+      "winnerIds": [
+        "alyssa-edwards",
+        "detox",
+        "roxxxy-andrews"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["jinkx-monsoon"]
+      "winnerIds": [
+        "jinkx-monsoon"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom jewel package from Fierce Drag Jewels",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Deadliest Snatch Glamour",
-    "topIds": ["jinkx-monsoon", "alaska", "roxxxy-andrews"],
-    "bottomIds": ["detox", "lineysha-sparx"],
+    "topIds": [
+      "jinkx-monsoon",
+      "alaska",
+      "roxxxy-andrews"
+    ],
+    "bottomIds": [
+      "detox",
+      "lineysha-sparx"
+    ],
     "lipSync": {
       "song": "Take Me Home",
-      "queenIds": ["detox", "lineysha-sparx"],
-      "winnerIds": ["detox"],
-      "eliminatedIds": ["lineysha-sparx"]
+      "queenIds": [
+        "detox",
+        "lineysha-sparx"
+      ],
+      "winnerIds": [
+        "detox"
+      ],
+      "eliminatedIds": [
+        "lineysha-sparx"
+      ]
     },
     "guestJudges": [
-      { "name": "Julie Brown" },
-      { "name": "Downtown Julie Brown" }
+      {
+        "name": "Julie Brown"
+      },
+      {
+        "name": "Downtown Julie Brown"
+      }
     ]
   },
   {
@@ -140,25 +284,55 @@
     "title": "Can I Get an Amen?",
     "miniChallenge": {
       "name": "Apply drag makeup in the dark",
-      "winnerIds": ["detox"]
+      "winnerIds": [
+        "detox"
+      ]
     },
     "maxiChallenge": {
       "name": "Record Can I Get An Amen? charity anthem",
-      "winnerIds": ["ivy-winters"]
+      "winnerIds": [
+        "ivy-winters"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Flight 001 luggage package",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "My Favorite Body Part",
-    "topIds": ["ivy-winters", "jinkx-monsoon", "roxxxy-andrews"],
-    "bottomIds": ["coco-montrese", "jade-jolie"],
+    "topIds": [
+      "ivy-winters",
+      "jinkx-monsoon",
+      "roxxxy-andrews"
+    ],
+    "bottomIds": [
+      "coco-montrese",
+      "jade-jolie"
+    ],
     "lipSync": {
       "song": "I'm So Excited",
-      "queenIds": ["coco-montrese", "jade-jolie"],
-      "winnerIds": ["coco-montrese"],
-      "eliminatedIds": ["jade-jolie"]
+      "queenIds": [
+        "coco-montrese",
+        "jade-jolie"
+      ],
+      "winnerIds": [
+        "coco-montrese"
+      ],
+      "eliminatedIds": [
+        "jade-jolie"
+      ]
     },
     "guestJudges": [
-      { "name": "La Toya Jackson" },
-      { "name": "Anita Pointer" },
-      { "name": "Ruth Pointer" }
+      {
+        "name": "La Toya Jackson"
+      },
+      {
+        "name": "Anita Pointer"
+      },
+      {
+        "name": "Ruth Pointer"
+      }
     ]
   },
   {
@@ -168,22 +342,49 @@
     "title": "RuPaul Roast",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["alaska"]
+      "winnerIds": [
+        "alaska"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform a roast of RuPaul, the judges, and the fellow queens",
-      "winnerIds": ["coco-montrese"]
+      "winnerIds": [
+        "coco-montrese"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom gown from Sequin Queen",
+        "isSponsor": true
+      }
     },
-    "topIds": ["coco-montrese", "alaska", "jinkx-monsoon"],
-    "bottomIds": ["alyssa-edwards", "roxxxy-andrews"],
+    "topIds": [
+      "coco-montrese",
+      "alaska",
+      "jinkx-monsoon"
+    ],
+    "bottomIds": [
+      "alyssa-edwards",
+      "roxxxy-andrews"
+    ],
     "lipSync": {
       "song": "Whip My Hair",
-      "queenIds": ["alyssa-edwards", "roxxxy-andrews"],
-      "winnerIds": ["alyssa-edwards", "roxxxy-andrews"]
+      "queenIds": [
+        "alyssa-edwards",
+        "roxxxy-andrews"
+      ],
+      "winnerIds": [
+        "alyssa-edwards",
+        "roxxxy-andrews"
+      ]
     },
     "guestJudges": [
-      { "name": "Leslie Jordan" },
-      { "name": "Jeffrey Moran" }
+      {
+        "name": "Leslie Jordan"
+      },
+      {
+        "name": "Jeffrey Moran"
+      }
     ]
   },
   {
@@ -193,23 +394,51 @@
     "title": "Scent of a Drag Queen",
     "miniChallenge": {
       "name": "Match the pit crew wearing the same pairs of underwear",
-      "winnerIds": ["ivy-winters"]
+      "winnerIds": [
+        "ivy-winters"
+      ]
     },
     "maxiChallenge": {
       "name": "Create, market, and film a commercial for a signature fragrance",
-      "winnerIds": ["alaska"]
+      "winnerIds": [
+        "alaska"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "selection of handmade corsets from Corset Connection",
+        "isSponsor": true
+      }
     },
-    "topIds": ["alaska", "detox", "jinkx-monsoon"],
-    "bottomIds": ["alyssa-edwards", "ivy-winters"],
+    "topIds": [
+      "alaska",
+      "detox",
+      "jinkx-monsoon"
+    ],
+    "bottomIds": [
+      "alyssa-edwards",
+      "ivy-winters"
+    ],
     "lipSync": {
       "song": "Ain't Nothin' Goin' On but the Rent",
-      "queenIds": ["alyssa-edwards", "ivy-winters"],
-      "winnerIds": ["alyssa-edwards"],
-      "eliminatedIds": ["ivy-winters"]
+      "queenIds": [
+        "alyssa-edwards",
+        "ivy-winters"
+      ],
+      "winnerIds": [
+        "alyssa-edwards"
+      ],
+      "eliminatedIds": [
+        "ivy-winters"
+      ]
     },
     "guestJudges": [
-      { "name": "Aubrey O'Day" },
-      { "name": "Joan Van Ark" }
+      {
+        "name": "Aubrey O'Day"
+      },
+      {
+        "name": "Joan Van Ark"
+      }
     ]
   },
   {
@@ -219,24 +448,53 @@
     "title": "Drama Queens",
     "miniChallenge": {
       "name": "Create a fake sob story and produce real tears for RuPaul",
-      "winnerIds": ["alyssa-edwards", "detox"]
+      "winnerIds": [
+        "alyssa-edwards",
+        "detox"
+      ]
     },
     "maxiChallenge": {
       "name": "Star in a faux Latin telenovela",
-      "winnerIds": ["jinkx-monsoon"]
+      "winnerIds": [
+        "jinkx-monsoon"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "pair of fur coats from Fabulous-Furs",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Spanish Telenovela Realness",
-    "topIds": ["jinkx-monsoon", "alaska", "roxxxy-andrews"],
-    "bottomIds": ["alyssa-edwards", "coco-montrese"],
+    "topIds": [
+      "jinkx-monsoon",
+      "alaska",
+      "roxxxy-andrews"
+    ],
+    "bottomIds": [
+      "alyssa-edwards",
+      "coco-montrese"
+    ],
     "lipSync": {
       "song": "Cold Hearted",
-      "queenIds": ["alyssa-edwards", "coco-montrese"],
-      "winnerIds": ["coco-montrese"],
-      "eliminatedIds": ["alyssa-edwards"]
+      "queenIds": [
+        "alyssa-edwards",
+        "coco-montrese"
+      ],
+      "winnerIds": [
+        "coco-montrese"
+      ],
+      "eliminatedIds": [
+        "alyssa-edwards"
+      ]
     },
     "guestJudges": [
-      { "name": "María Conchita Alonso" },
-      { "name": "Jamie-Lynn Sigler" }
+      {
+        "name": "María Conchita Alonso"
+      },
+      {
+        "name": "Jamie-Lynn Sigler"
+      }
     ]
   },
   {
@@ -246,23 +504,50 @@
     "title": "Super Troopers",
     "miniChallenge": {
       "name": "Last as long as possible in drag booty camp with a fitness trainer",
-      "winnerIds": ["alaska"]
+      "winnerIds": [
+        "alaska"
+      ]
     },
     "maxiChallenge": {
       "name": "Makeover gay veterans",
-      "winnerIds": ["roxxxy-andrews"]
+      "winnerIds": [
+        "roxxxy-andrews"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "shopping spree at American Apparel",
+        "isSponsor": true
+      }
     },
-    "topIds": ["roxxxy-andrews", "jinkx-monsoon"],
-    "bottomIds": ["coco-montrese", "detox"],
+    "topIds": [
+      "roxxxy-andrews",
+      "jinkx-monsoon"
+    ],
+    "bottomIds": [
+      "coco-montrese",
+      "detox"
+    ],
     "lipSync": {
       "song": "(It Takes) Two to Make It Right",
-      "queenIds": ["coco-montrese", "detox"],
-      "winnerIds": ["detox"],
-      "eliminatedIds": ["coco-montrese"]
+      "queenIds": [
+        "coco-montrese",
+        "detox"
+      ],
+      "winnerIds": [
+        "detox"
+      ],
+      "eliminatedIds": [
+        "coco-montrese"
+      ]
     },
     "guestJudges": [
-      { "name": "Clinton Kelly" },
-      { "name": "George Kotsiopoulos" }
+      {
+        "name": "Clinton Kelly"
+      },
+      {
+        "name": "George Kotsiopoulos"
+      }
     ]
   },
   {
@@ -272,24 +557,51 @@
     "title": "Sugar Ball",
     "miniChallenge": {
       "name": "Everybody Loves Puppets",
-      "winnerIds": ["alaska"]
+      "winnerIds": [
+        "alaska"
+      ]
     },
     "maxiChallenge": {
       "name": "The Sugar Ball",
-      "winnerIds": ["alaska"]
+      "winnerIds": [
+        "alaska"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "private portrait session with Austin Young",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Super Duper Sweet 16, Sugar Mama, and Candy Couture",
-    "topIds": ["alaska", "roxxxy-andrews"],
-    "bottomIds": ["detox", "jinkx-monsoon"],
+    "topIds": [
+      "alaska",
+      "roxxxy-andrews"
+    ],
+    "bottomIds": [
+      "detox",
+      "jinkx-monsoon"
+    ],
     "lipSync": {
       "song": "Malambo No. 1",
-      "queenIds": ["detox", "jinkx-monsoon"],
-      "winnerIds": ["jinkx-monsoon"],
-      "eliminatedIds": ["detox"]
+      "queenIds": [
+        "detox",
+        "jinkx-monsoon"
+      ],
+      "winnerIds": [
+        "jinkx-monsoon"
+      ],
+      "eliminatedIds": [
+        "detox"
+      ]
     },
     "guestJudges": [
-      { "name": "Marg Helgenberger" },
-      { "name": "Bob Mackie" }
+      {
+        "name": "Marg Helgenberger"
+      },
+      {
+        "name": "Bob Mackie"
+      }
     ]
   },
   {
@@ -298,10 +610,18 @@
     "episodeNumber": 12,
     "title": "The Final Three, Hunty",
     "runwayTheme": "Best Drag",
-    "topIds": ["jinkx-monsoon", "alaska", "roxxxy-andrews"],
+    "topIds": [
+      "jinkx-monsoon",
+      "alaska",
+      "roxxxy-andrews"
+    ],
     "lipSync": {
       "song": "The Beginning",
-      "queenIds": ["alaska", "jinkx-monsoon", "roxxxy-andrews"],
+      "queenIds": [
+        "alaska",
+        "jinkx-monsoon",
+        "roxxxy-andrews"
+      ],
       "winnerIds": []
     }
   },

@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S08-E04",
-          "name": "Write, record, and perform 1980s New Wave girl-band verses"
+          "name": "Write, record, and perform 1980s New Wave girl-band verses",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "wig wardrobe from Weaven Steven",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

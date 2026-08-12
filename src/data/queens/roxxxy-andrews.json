@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S05-E01",
-          "name": "Create a Hollywood realness and glamour outfit from dumpster items"
+          "name": "Create a Hollywood realness and glamour outfit from dumpster items",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom gown by Marco Marco",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S05-E10",
-          "name": "Makeover gay veterans"
+          "name": "Makeover gay veterans",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "shopping spree at American Apparel",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -35,14 +47,25 @@
       "challengeWins": [
         {
           "episodeId": "AS-S02-E01",
-          "name": "Perform a talent show in front of the judges and a live audience"
+          "name": "Perform a talent show in front of the judges and a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "collection of jewelry from Fierce Drag Jewels",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
         {
           "episodeId": "AS-S02-E01",
-          "song": "Shake It Off"
+          "song": "Shake It Off",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [],
@@ -72,7 +95,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "AS-S09-E01",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 charity donation"
+          }
         },
         {
           "episodeId": "AS-S09-E11",

@@ -28,7 +28,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "AS-S08-E11",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500"
+          }
         }
       ],
       "lipSyncWins": [],

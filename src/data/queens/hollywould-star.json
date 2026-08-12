@@ -15,7 +15,8 @@
           "name": "Write, record, and perform verses to \"BMX Bitches\"",
           "earnings": {
             "amount": 5000,
-            "currency": "AUD"
+            "currency": "AUD",
+            "context": "A$5,000 cash tip"
           }
         }
       ],

@@ -8,7 +8,12 @@
       "name": "Time ball",
       "winnerIds": [
         "miss-khristo"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a two-night hotel stay in Valencia"
+      }
     },
     "runwayTheme": "Pasado / Futuro / Segunda Primera Vez",
     "bottomIds": [
@@ -43,13 +48,24 @@
       "name": "Eye-focused quick drag",
       "winnerIds": [
         "la-nina-delantro"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€1,000 worth case makeup kit from NYX Cosmetics",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Talent show",
       "winnerIds": [
         "megui-yeillow"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a necklace and earrings from Aster LAB"
+      }
     },
     "runwayTheme": "Barrococó",
     "bottomIds": [
@@ -90,7 +106,12 @@
       "name": "Sitcom parody",
       "winnerIds": [
         "angelita-la-perversa"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a two-night hotel stay and spa treatment in Torremolinos"
+      }
     },
     "runwayTheme": "Historias No Para Dormir",
     "bottomIds": [
@@ -131,7 +152,12 @@
       "name": "Girl groups \"Mis Amigas y Yo\"",
       "winnerIds": [
         "la-nina-delantro"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a two-night hotel stay in Torremolinos"
+      }
     },
     "runwayTheme": "Noche de las 1000 Ana Locking",
     "bottomIds": [
@@ -172,7 +198,12 @@
       "name": "Snatch Game",
       "winnerIds": [
         "mariana-stars"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a skincare set from FOREO"
+      }
     },
     "runwayTheme": "Rural Fashion Week",
     "bottomIds": [
@@ -207,7 +238,12 @@
       "name": "Eternas musical",
       "winnerIds": [
         "la-bella-vampi"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a necklace and earrings from Aster LAB"
+      }
     },
     "runwayTheme": "Soy Una Feria",
     "bottomIds": [
@@ -246,7 +282,12 @@
       "name": "Product ads",
       "winnerIds": [
         "le-coco"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a sex toys set from LELO"
+      }
     },
     "runwayTheme": "Los Cuatro Elementos",
     "bottomIds": [
@@ -281,13 +322,24 @@
       "name": "Dress the Pit Crew",
       "winnerIds": [
         "megui-yeillow"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "selection of products from Addicted",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Roast / awards show",
       "winnerIds": [
         "le-coco"
-      ]
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a two-night hotel stay in Torremolinos"
+      }
     },
     "runwayTheme": "Tocada y no Hundida",
     "bottomIds": [

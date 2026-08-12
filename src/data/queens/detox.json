@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S05-E03",
-          "name": "Star in two different children's TV shows"
+          "name": "Star in two different children's TV shows",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "wig wardrobe from New Attitude Wigs",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -57,22 +63,44 @@
       "challengeWins": [
         {
           "episodeId": "AS-S02-E03",
-          "name": "Perform a lip-syncing dance number dedicated to legendary historical women"
+          "name": "Perform a lip-syncing dance number dedicated to legendary historical women",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "three-night getaway to Palm Springs, California",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S02-E05",
-          "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen"
+          "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Couture Gown from SNL Designs",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S02-E07",
-          "name": "Makeover a family member"
+          "name": "Makeover a family member",
+          "earnings": {
+            "amount": 2000,
+            "currency": "USD",
+            "context": "$2,000 gift certificate from Marc Jacobs"
+          }
         }
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
         {
           "episodeId": "AS-S02-E07",
-          "song": "Step It Up"
+          "song": "Step It Up",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

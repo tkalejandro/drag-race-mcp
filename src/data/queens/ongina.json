@@ -9,11 +9,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S01-E02",
-          "name": "Destiny's Child girl group battle"
+          "name": "Destiny's Child girl group battle",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "basket of chocolates courtesy of Karma and Vojeur Chocolate",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S01-E04",
-          "name": "Write and film a MAC Viva Glam commercial"
+          "name": "Write and film a MAC Viva Glam commercial",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Mac-Viva Glam ambassadorship",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

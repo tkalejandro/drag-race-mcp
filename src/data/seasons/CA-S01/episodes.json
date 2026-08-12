@@ -8,13 +8,25 @@
       "name": "Photoshoot atop a replica of the Rocky Mountains",
       "winnerIds": [
         "kyne"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 of latex couture from Polymorphe",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create a couture outfit from a box of items themed around various aspects of Canada",
       "winnerIds": [
         "rita-baga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 shopping spree from Roots Canada",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "rita-baga",
@@ -54,13 +66,25 @@
       "winnerIds": [
         "anastarzia-anaquway",
         "boa"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 gift certificate from Wigs And Grace",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, overact in parodies of Heritage Minutes",
       "winnerIds": [
         "lemon"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 worth of Anastasia Beverly Hills cosmetics",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Not My First Time",
     "topIds": [
@@ -102,13 +126,25 @@
       "winnerIds": [
         "lemon",
         "priyanka"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,000 worth of drag jewels from Amped Accessories",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Not Sorry Aboot It",
       "winnerIds": [
         "priyanka"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "luxury stay at the Hilton Lac-Leamy",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Que-Becky With the Good Hair",
     "topIds": [
@@ -148,13 +184,25 @@
       "name": "Play a memory game with the pit crew's underwear colors",
       "winnerIds": [
         "jimbo"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "VIP stay at the Hilton Toronto",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, create a cohesive fashion line made out of garbage",
       "winnerIds": [
         "rita-baga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "shopping spree at Fabric Land",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "rita-baga"
@@ -191,13 +239,25 @@
       "name": "Reading Is Fundamental",
       "winnerIds": [
         "lemon"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 gift card to LAGconcepts",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "jimbo"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "Cruise",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Night of a Thousand Céline Dion's",
     "topIds": [
@@ -237,13 +297,25 @@
       "name": "Get into quick drag and play psychic hotline operators",
       "winnerIds": [
         "lemon"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 worth of Bailey Nelson eyewear",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, write and produce commercials for fictional drag queen law firms",
       "winnerIds": [
         "rita-baga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$10,000 custom-designed wardrobe from Northbound Leather",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Canadian 'Tuck'-shedo",
     "topIds": [
@@ -283,7 +355,13 @@
       "name": "Compete in The Miss Loose Jaw Pageant",
       "winnerIds": [
         "lemon"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "trip for two to Iceland from Pink Iceland",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Pageant Perfection",
     "topIds": [
@@ -322,13 +400,25 @@
       "name": "Everybody Loves Puppets",
       "winnerIds": [
         "scarlett-bobo"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "trip for two to Cuba and assign the makeover pairs",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Makeover LGBT refugees who have recently moved to Canada through Rainbow Railroad",
       "winnerIds": [
         "priyanka"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$10,000 donation in the winner's name to Rainbow Railroad",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "A Family Affair",
     "topIds": [
@@ -367,13 +457,25 @@
       "name": "Sing O Canada as a local chanteuse",
       "winnerIds": [
         "rita-baga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 gift certificate courtesy of Dirt Squirrel",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "The Snow Ball: Executive Holiday Party Realness, Icy Walk of Shame and Ice Queen Eleganza",
       "winnerIds": [
         "scarlett-bobo"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "7 day trip for two to Vienna, courtesy of Air Canada Vacations",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Executive Holiday Party Realness, Icy Walk of Shame and Ice Queen Eleganza",
     "topIds": [

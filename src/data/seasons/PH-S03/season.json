@@ -59,6 +59,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 0,
-    "currency": "PHP"
+    "currency": "PHP",
+    "context": "No cash prize"
   }
 }

@@ -66,6 +66,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 550000,
-    "currency": "MXN"
+    "currency": "MXN",
+    "context": "MX$550,000 season grand prize"
   }
 }

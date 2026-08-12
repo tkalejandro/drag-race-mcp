@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S06-E07",
-          "name": "In pairs, film an infomercial for RuPaul's Glamazon Cosmetics"
+          "name": "In pairs, film an infomercial for RuPaul's Glamazon Cosmetics",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "collection of skincare products from Lather",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

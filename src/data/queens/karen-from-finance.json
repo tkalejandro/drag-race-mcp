@@ -11,7 +11,8 @@
           "name": "Get to Know You Ball",
           "earnings": {
             "amount": 3000,
-            "currency": "AUD"
+            "currency": "AUD",
+            "context": "A$3,000 cash tip"
           }
         }
       ],

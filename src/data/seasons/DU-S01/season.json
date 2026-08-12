@@ -57,6 +57,7 @@
   "isCharity": false,
   "cashPrice": {
     "amount": 30000,
-    "currency": "AUD"
+    "currency": "AUD",
+    "context": "A$30,000 season grand prize"
   }
 }

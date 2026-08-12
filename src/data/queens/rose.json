@@ -1,7 +1,9 @@
 {
   "id": "rose",
   "name": "Rosé",
-  "aliases": ["Rose"],
+  "aliases": [
+    "Rose"
+  ],
   "appearances": [
     {
       "seasonId": "US-S13",
@@ -9,21 +11,42 @@
       "challengeWins": [
         {
           "episodeId": "US-S13-E08",
-          "name": "Social Media: The Unverified Rusical"
+          "name": "Social Media: The Unverified Rusical",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S13-E11",
-          "name": "Create and advertise a soft drink brand with a catchy jingle"
+          "name": "Create and advertise a soft drink brand with a catchy jingle",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S13-E13",
-          "name": "Star in Henny, I Shrunk the Drag Queens!"
+          "name": "Star in Henny, I Shrunk the Drag Queens!",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S13-E12",
-          "name": "Comedy makeup tutorials in pairs"
+          "name": "Comedy makeup tutorials in pairs",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 worth of Anastasia Beverly Hills cosmetics",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

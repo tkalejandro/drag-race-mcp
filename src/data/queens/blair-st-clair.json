@@ -28,7 +28,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "AS-S05-E01",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to Marek+Richard",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

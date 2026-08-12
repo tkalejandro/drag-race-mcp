@@ -8,13 +8,24 @@
       "challengeWins": [
         {
           "episodeId": "CA-S02-E04",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 5000,
+            "currency": "CAD",
+            "context": "$5,000 cash tip courtesy of Made / Nous",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S02-E05",
-          "name": "In pairs, give a lesson on safe sex"
+          "name": "In pairs, give a lesson on safe sex",
+          "earnings": {
+            "amount": 1000,
+            "currency": "CAD",
+            "context": "$1,000 cash tip and $500 worth of products from Trojan"
+          }
         }
       ],
       "lipSyncWins": [
