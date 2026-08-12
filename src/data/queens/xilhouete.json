@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "PH-S01-E06",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         },
         {
           "episodeId": "PH-S01-E08",
-          "name": "Makeover a loved one"
+          "name": "Makeover a loved one",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

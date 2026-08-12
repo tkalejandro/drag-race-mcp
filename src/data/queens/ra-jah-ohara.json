@@ -77,7 +77,12 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S06-E02",
-          "song": "Miss You Much"
+          "song": "Miss You Much",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

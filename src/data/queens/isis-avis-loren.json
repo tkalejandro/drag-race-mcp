@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "DU-S03-E02",
-          "name": "Create an outfit made out of leftover bedding materials"
+          "name": "Create an outfit made out of leftover bedding materials",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$2,000 gift card courtesy of Shoe Me",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "DU-S03-E06",
-          "name": "Perform a talent show in front of the judges"
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$2,500 Voucher courtesy of Wigged Out",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "DU-S03-E07",
@@ -20,7 +32,8 @@
           "earnings": {
             "amount": 2500,
             "currency": "AUD",
-            "context": "A$2,500 cash tip"
+            "context": "$2,500 cash tip courtesy of Anastasia Beverly Hills",
+            "isSponsor": true
           }
         }
       ],

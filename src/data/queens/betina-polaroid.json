@@ -18,11 +18,21 @@
       "miniChallengeWins": [
         {
           "episodeId": "BR-S01-E04",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 5000,
+            "currency": "BRL",
+            "context": "R$5,000 cash tip"
+          }
         },
         {
           "episodeId": "BR-S01-E05",
-          "name": "Get into quick drag and decorate a drag wedding cake in five minutes"
+          "name": "Get into quick drag and decorate a drag wedding cake in five minutes",
+          "earnings": {
+            "amount": 2500,
+            "currency": "BRL",
+            "context": "R$2,500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

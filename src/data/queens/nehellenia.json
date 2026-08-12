@@ -8,21 +8,43 @@
       "challengeWins": [
         {
           "episodeId": "IT-S02-E06",
-          "name": "Makeover football players from the LGBTI+ inclusive club Lupi Roma"
+          "name": "Makeover football players from the LGBTI+ inclusive club Lupi Roma",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "professional mannequin from La Rosa",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "IT-S02-E01",
-          "name": "Car wash photoshoot"
+          "name": "Car wash photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and a pair of earrings from PerLei"
+          }
         },
         {
           "episodeId": "IT-S02-E02",
-          "name": "Drag Comanda Color"
+          "name": "Drag Comanda Color",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and a necklace from PerLei"
+          }
         },
         {
           "episodeId": "IT-S02-E03",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and a travel gift card from Eden Viaggi worth €500",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

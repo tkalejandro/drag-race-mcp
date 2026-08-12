@@ -8,13 +8,24 @@
       "challengeWins": [
         {
           "episodeId": "IT-S02-E05",
-          "name": "Perform in a rusical dedicated to Lady Gaga"
+          "name": "Perform in a rusical dedicated to Lady Gaga",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "travel gift card from Eden Viaggi worth €1000",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "IT-S02-E08",
-          "name": "Play a game of Drag Race Italia inspired twister"
+          "name": "Play a game of Drag Race Italia inspired twister",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and an electric scooter from ME"
+          }
         }
       ],
       "lipSyncWins": [

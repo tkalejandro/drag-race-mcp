@@ -76,11 +76,21 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S09-E02",
-          "song": "Jump in the Line (Shake, Senora)"
+          "song": "Jump in the Line (Shake, Senora)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S09-E03",
-          "song": "Banana"
+          "song": "Banana",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

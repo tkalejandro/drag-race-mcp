@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "PH-S03-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash prize"
+          }
         },
         {
           "episodeId": "PH-S03-E08",
@@ -16,7 +21,12 @@
         },
         {
           "episodeId": "PH-S03-E09",
-          "name": "Write, record, and perform verses to \"Slay Accla\""
+          "name": "Write, record, and perform verses to \"Slay Accla\"",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

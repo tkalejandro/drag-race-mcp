@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "DU-S03-E01",
-          "name": "Write, record, and perform verses to a mashup of RuPaul's \"Super Queen\" and \"Sissy That Walk\""
+          "name": "Write, record, and perform verses to a mashup of RuPaul's \"Super Queen\" and \"Sissy That Walk\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "custom prosthetics valued at $3,500"
+          }
         },
         {
           "episodeId": "DU-S03-E05",
@@ -16,7 +21,7 @@
           "earnings": {
             "amount": 5000,
             "currency": "AUD",
-            "context": "A$5,000 cash tip"
+            "context": "$5,000 cash tip"
           }
         }
       ],

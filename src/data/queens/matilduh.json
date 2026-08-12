@@ -9,15 +9,30 @@
       "miniChallengeWins": [
         {
           "episodeId": "PH-S02-E01",
-          "name": "Photoshoot with a tarantula"
+          "name": "Photoshoot with a tarantula",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         },
         {
           "episodeId": "PH-S02-E03",
-          "name": "Lolapalooza Newspaper Dance"
+          "name": "Lolapalooza Newspaper Dance",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         },
         {
           "episodeId": "PH-S02-E04",
-          "name": "Perform a tinikling routine"
+          "name": "Perform a tinikling routine",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

@@ -380,8 +380,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "custom website by Square Space",
-        "isSponsor": true
+        "context": "custom website by Square Space"
       }
     },
     "topIds": [
@@ -434,8 +433,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "hair collection by Weavin' Steven",
-        "isSponsor": true
+        "context": "hair collection by Weavin' Steven"
       }
     },
     "runwayTheme": "Ugliest Dress",
@@ -544,8 +542,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "Hello Kitty Extravaganza Package",
-        "isSponsor": true
+        "context": "Hello Kitty Extravaganza Package"
       }
     },
     "runwayTheme": "Hello Kitty BFF and Hello Kitty Eleganza",

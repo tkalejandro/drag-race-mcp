@@ -8,17 +8,32 @@
       "challengeWins": [
         {
           "episodeId": "PH-S01-E01",
-          "name": "Perform a talent show in front of the judges"
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         },
         {
           "episodeId": "PH-S01-E07",
-          "name": "The Shop Shop Ladies Ball"
+          "name": "The Shop Shop Ladies Ball",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "PH-S01-E07",
-          "name": "Nude illusion group photoshoot"
+          "name": "Nude illusion group photoshoot",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

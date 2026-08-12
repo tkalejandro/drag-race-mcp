@@ -22,8 +22,7 @@
           "earnings": {
             "amount": 0,
             "currency": "USD",
-            "context": "one-of-a-kind gown designed by Marco Marco",
-            "isSponsor": true
+            "context": "one-of-a-kind gown designed by Marco Marco"
           }
         },
         {

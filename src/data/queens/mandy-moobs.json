@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "DU-S04-E04",
-          "name": "Create an outfit made out of an assigned fabric"
+          "name": "Create an outfit made out of an assigned fabric",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$2,000 gift voucher to Shoe Me",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

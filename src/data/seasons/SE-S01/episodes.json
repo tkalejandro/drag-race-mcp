@@ -6,22 +6,49 @@
     "title": "Start Your Engines!",
     "miniChallenge": {
       "name": "Midsommar photoshoot",
-      "winnerIds": ["elecktra"]
+      "winnerIds": [
+        "elecktra"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "SEK",
+        "context": "Immunity from elimination"
+      }
     },
     "maxiChallenge": {
       "name": "Present two looks on the runway",
-      "winnerIds": ["imaa-queen"]
+      "winnerIds": [
+        "imaa-queen"
+      ]
     },
     "runwayTheme": "Hembygdsdrottning (Hometown Queen) / En Natt På Slottet (A Night at the Castle)",
-    "topIds": ["admira-thunderpussy", "imaa-queen", "santana-sexmachine"],
-    "bottomIds": ["almighty-aphroditey", "endigo"],
+    "topIds": [
+      "admira-thunderpussy",
+      "imaa-queen",
+      "santana-sexmachine"
+    ],
+    "bottomIds": [
+      "almighty-aphroditey",
+      "endigo"
+    ],
     "lipSync": {
       "song": "Puss & Kram",
-      "queenIds": ["almighty-aphroditey", "endigo"],
-      "winnerIds": ["endigo"],
-      "eliminatedIds": ["almighty-aphroditey"]
+      "queenIds": [
+        "almighty-aphroditey",
+        "endigo"
+      ],
+      "winnerIds": [
+        "endigo"
+      ],
+      "eliminatedIds": [
+        "almighty-aphroditey"
+      ]
     },
-    "guestJudges": [{ "name": "Daniela Rathana" }]
+    "guestJudges": [
+      {
+        "name": "Daniela Rathana"
+      }
+    ]
   },
   {
     "id": "SE-S01-E02",
@@ -30,22 +57,47 @@
     "title": "MARATHON Talent Hunt",
     "miniChallenge": {
       "name": "Apply drag makeup in the dark",
-      "winnerIds": ["fontana"]
+      "winnerIds": [
+        "fontana"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform in the C-U-N-Talent Show",
-      "winnerIds": ["elecktra"]
+      "winnerIds": [
+        "elecktra"
+      ]
     },
     "runwayTheme": "Långstrump Extravaganza",
-    "topIds": ["elecktra", "imaa-queen", "santana-sexmachine"],
-    "bottomIds": ["antonina-nutshell", "vanity-vain"],
+    "topIds": [
+      "elecktra",
+      "imaa-queen",
+      "santana-sexmachine"
+    ],
+    "bottomIds": [
+      "antonina-nutshell",
+      "vanity-vain"
+    ],
     "lipSync": {
       "song": "Jazzbacillen",
-      "queenIds": ["antonina-nutshell", "vanity-vain"],
-      "winnerIds": ["vanity-vain"],
-      "eliminatedIds": ["antonina-nutshell"]
+      "queenIds": [
+        "antonina-nutshell",
+        "vanity-vain"
+      ],
+      "winnerIds": [
+        "vanity-vain"
+      ],
+      "eliminatedIds": [
+        "antonina-nutshell"
+      ]
     },
-    "guestJudges": [{ "name": "Siw Malmkvist" }, { "name": "Tone Sekelius" }]
+    "guestJudges": [
+      {
+        "name": "Siw Malmkvist"
+      },
+      {
+        "name": "Tone Sekelius"
+      }
+    ]
   },
   {
     "id": "SE-S01-E03",
@@ -54,22 +106,47 @@
     "title": "Drag-a'-mera!",
     "miniChallenge": {
       "name": "Swedish drag quiz",
-      "winnerIds": ["endigo"]
+      "winnerIds": [
+        "endigo"
+      ]
     },
     "maxiChallenge": {
       "name": "Create an avant-garde outfit made from recycled materials",
-      "winnerIds": ["vanity-vain"]
+      "winnerIds": [
+        "vanity-vain"
+      ]
     },
     "runwayTheme": "Greta's Tip Top Couture",
-    "topIds": ["fontana", "imaa-queen", "vanity-vain"],
-    "bottomIds": ["elecktra", "endigo"],
+    "topIds": [
+      "fontana",
+      "imaa-queen",
+      "vanity-vain"
+    ],
+    "bottomIds": [
+      "elecktra",
+      "endigo"
+    ],
     "lipSync": {
       "song": "Sexual Revolution",
-      "queenIds": ["elecktra", "endigo"],
-      "winnerIds": ["elecktra"],
-      "eliminatedIds": ["endigo"]
+      "queenIds": [
+        "elecktra",
+        "endigo"
+      ],
+      "winnerIds": [
+        "elecktra"
+      ],
+      "eliminatedIds": [
+        "endigo"
+      ]
     },
-    "guestJudges": [{ "name": "Christer Lindarw" }, { "name": "Fredrik Robertsson" }]
+    "guestJudges": [
+      {
+        "name": "Christer Lindarw"
+      },
+      {
+        "name": "Fredrik Robertsson"
+      }
+    ]
   },
   {
     "id": "SE-S01-E04",
@@ -78,22 +155,46 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental (with a chance for a previously eliminated queen to return)",
-      "winnerIds": ["antonina-nutshell"]
+      "winnerIds": [
+        "antonina-nutshell"
+      ]
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["admira-thunderpussy"]
+      "winnerIds": [
+        "admira-thunderpussy"
+      ]
     },
     "runwayTheme": "Mitt liv som guldflicka (My Life as a Golden Girl)",
-    "topIds": ["admira-thunderpussy", "elecktra"],
-    "bottomIds": ["antonina-nutshell", "imaa-queen"],
+    "topIds": [
+      "admira-thunderpussy",
+      "elecktra"
+    ],
+    "bottomIds": [
+      "antonina-nutshell",
+      "imaa-queen"
+    ],
     "lipSync": {
       "song": "Kitty Girl",
-      "queenIds": ["antonina-nutshell", "imaa-queen"],
-      "winnerIds": ["antonina-nutshell"],
-      "eliminatedIds": ["imaa-queen"]
+      "queenIds": [
+        "antonina-nutshell",
+        "imaa-queen"
+      ],
+      "winnerIds": [
+        "antonina-nutshell"
+      ],
+      "eliminatedIds": [
+        "imaa-queen"
+      ]
     },
-    "guestJudges": [{ "name": "Arantxa Alvarez" }, { "name": "Omar Rudberg" }]
+    "guestJudges": [
+      {
+        "name": "Arantxa Alvarez"
+      },
+      {
+        "name": "Omar Rudberg"
+      }
+    ]
   },
   {
     "id": "SE-S01-E05",
@@ -102,22 +203,43 @@
     "title": "The Dragodi Festival",
     "miniChallenge": {
       "name": "Sell products from Melodifestivalen",
-      "winnerIds": ["fontana"]
+      "winnerIds": [
+        "fontana"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses for The Drag Queen Song Contest",
-      "winnerIds": ["admira-thunderpussy"]
+      "winnerIds": [
+        "admira-thunderpussy"
+      ]
     },
     "runwayTheme": "Omvandling (Transformation)",
-    "topIds": ["admira-thunderpussy", "vanity-vain"],
-    "bottomIds": ["fontana", "santana-sexmachine"],
+    "topIds": [
+      "admira-thunderpussy",
+      "vanity-vain"
+    ],
+    "bottomIds": [
+      "fontana",
+      "santana-sexmachine"
+    ],
     "lipSync": {
       "song": "Euphoria",
-      "queenIds": ["fontana", "santana-sexmachine"],
-      "winnerIds": ["fontana"],
-      "eliminatedIds": ["santana-sexmachine"]
+      "queenIds": [
+        "fontana",
+        "santana-sexmachine"
+      ],
+      "winnerIds": [
+        "fontana"
+      ],
+      "eliminatedIds": [
+        "santana-sexmachine"
+      ]
     },
-    "guestJudges": [{ "name": "Loreen" }]
+    "guestJudges": [
+      {
+        "name": "Loreen"
+      }
+    ]
   },
   {
     "id": "SE-S01-E06",
@@ -126,22 +248,43 @@
     "title": "Dream Sisters",
     "miniChallenge": {
       "name": "Seduce your way into a club",
-      "winnerIds": ["elecktra"]
+      "winnerIds": [
+        "elecktra"
+      ]
     },
     "maxiChallenge": {
       "name": "Makeover MMA fighter Simon Sköld and his macho gang of guys",
-      "winnerIds": ["fontana"]
+      "winnerIds": [
+        "fontana"
+      ]
     },
     "runwayTheme": "Dröm systrar (Dream Sisters)",
-    "topIds": ["fontana", "vanity-vain"],
-    "bottomIds": ["antonina-nutshell", "elecktra"],
+    "topIds": [
+      "fontana",
+      "vanity-vain"
+    ],
+    "bottomIds": [
+      "antonina-nutshell",
+      "elecktra"
+    ],
     "lipSync": {
       "song": "Emergency",
-      "queenIds": ["antonina-nutshell", "elecktra"],
-      "winnerIds": ["elecktra"],
-      "eliminatedIds": ["antonina-nutshell"]
+      "queenIds": [
+        "antonina-nutshell",
+        "elecktra"
+      ],
+      "winnerIds": [
+        "elecktra"
+      ],
+      "eliminatedIds": [
+        "antonina-nutshell"
+      ]
     },
-    "guestJudges": [{ "name": "Caroline Hjelt" }]
+    "guestJudges": [
+      {
+        "name": "Caroline Hjelt"
+      }
+    ]
   },
   {
     "id": "SE-S01-E07",
@@ -150,18 +293,36 @@
     "title": "Diva Assoluta",
     "maxiChallenge": {
       "name": "Act in a crime drama",
-      "winnerIds": ["admira-thunderpussy"]
+      "winnerIds": [
+        "admira-thunderpussy"
+      ]
     },
     "runwayTheme": "Drama drottning (Drama Queen)",
-    "topIds": ["admira-thunderpussy"],
-    "bottomIds": ["elecktra", "vanity-vain"],
+    "topIds": [
+      "admira-thunderpussy"
+    ],
+    "bottomIds": [
+      "elecktra",
+      "vanity-vain"
+    ],
     "lipSync": {
       "song": "Kisses of Fire",
-      "queenIds": ["elecktra", "vanity-vain"],
-      "winnerIds": ["vanity-vain"],
-      "eliminatedIds": ["elecktra"]
+      "queenIds": [
+        "elecktra",
+        "vanity-vain"
+      ],
+      "winnerIds": [
+        "vanity-vain"
+      ],
+      "eliminatedIds": [
+        "elecktra"
+      ]
     },
-    "guestJudges": [{ "name": "Shima Niavarani" }]
+    "guestJudges": [
+      {
+        "name": "Shima Niavarani"
+      }
+    ]
   },
   {
     "id": "SE-S01-E08",
@@ -170,13 +331,18 @@
     "title": "Grande Finale",
     "miniChallenge": {
       "name": "Give a Nobel Prize acceptance speech",
-      "winnerIds": ["admira-thunderpussy"]
+      "winnerIds": [
+        "admira-thunderpussy"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record and perform verses to Robert Fux and Kayo's song \"Every Queen\"",
       "winnerIds": []
     },
     "runwayTheme": "Drottning Delicious (Queen Delicious)",
-    "topIds": ["admira-thunderpussy", "fontana"]
+    "topIds": [
+      "admira-thunderpussy",
+      "fontana"
+    ]
   }
 ]

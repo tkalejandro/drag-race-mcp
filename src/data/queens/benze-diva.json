@@ -9,7 +9,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "TH-S03-E03",
-          "name": "Perform a rap dressed as grandmas"
+          "name": "Perform a rap dressed as grandmas",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

@@ -9,11 +9,23 @@
       "miniChallengeWins": [
         {
           "episodeId": "IT-S01-E02",
-          "name": "Limbo Extravaganza"
+          "name": "Limbo Extravaganza",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "jewelry piece by Aster Lab",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "IT-S01-E05",
-          "name": "Find words with letters written on the pit crew's pants"
+          "name": "Find words with letters written on the pit crew's pants",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "jewelry piece by Aster Lab",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

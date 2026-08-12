@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "DU-S01-E05",
-          "name": "Create an infomercial for your own Yeast Spread"
+          "name": "Create an infomercial for your own Yeast Spread",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "4 night stay at a Sofitel property of choice in Australia or New Zealand courtesy of Sofitel Viaduct Auckland Harbour",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

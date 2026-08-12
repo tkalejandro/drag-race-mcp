@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "DU-S01-E06",
-          "name": "Makeover rugby players"
+          "name": "Makeover rugby players",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$2,500 prize package courtesy of House of Priscilla and a $1,500 gift card courtesy of DailyJocks for their partner",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

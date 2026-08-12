@@ -8,13 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "TH-S01-E06",
-          "name": "In pairs, create parodies of Line Mobile commercials"
+          "name": "In pairs, create parodies of Line Mobile commercials",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Free for use of \"Line Mobile by DTAC\" for 3-years with unlimited package for winners, and free 1 year for other competitors and presenters."
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "TH-S01-E06",
-          "name": "Line Mobile presentation clip"
+          "name": "Line Mobile presentation clip",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Free for use of \"Line Mobile by DTAC\" for 2-years with unlimited package, and privileges for select the partners of main challenge."
+          }
         }
       ],
       "lipSyncWins": [],

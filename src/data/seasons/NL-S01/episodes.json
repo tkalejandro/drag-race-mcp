@@ -14,7 +14,13 @@
       "name": "Present a look based on your favorite queen",
       "winnerIds": [
         "janey-jacke"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "prize package from Make-up Studio, worth €1,000",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "chelseaboy",
@@ -63,7 +69,13 @@
       "name": "Record a group workout video",
       "winnerIds": [
         "envy-peru"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "prize package of hair products and styling tools by John Beerens, worth €1,000",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Give Face, Face, Face",
     "topIds": [
@@ -110,7 +122,13 @@
       "name": "Act in a drag version of Gooische Vrouwen",
       "winnerIds": [
         "mama-queen"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "prize package worth €1,000, for make up products by Schminkspecialist",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Miss Holland",
     "topIds": [
@@ -157,7 +175,13 @@
       "name": "In groups, perform a vogue choreographed song",
       "winnerIds": [
         "envy-peru"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "voucher worth €1,000, courtesy of Mister B",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Shine Bright Like A Diamond",
     "topIds": [
@@ -200,13 +224,24 @@
       "name": "Naked photoshoot",
       "winnerIds": [
         "janey-jacke"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "photoshoot by Rob Jacobs"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "envy-peru"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "voucher worth €1,000, for SofaCompany",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Half Man, Half Queen",
     "topIds": [
@@ -249,13 +284,24 @@
       "name": "Save the Date improv",
       "winnerIds": [
         "mama-queen"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "weekend away in Rotterdam"
+      }
     },
     "maxiChallenge": {
       "name": "Makeover a family member or friend",
       "winnerIds": [
         "envy-peru"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "voucher for tooth whitening therapy for two",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "We Are Family",
     "topIds": [
@@ -303,7 +349,13 @@
       "name": "Máxima, The Rusical",
       "winnerIds": [
         "janey-jacke"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "voucher worth €1,000, courtesy of Nikkie",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Red (Beachwear), White (Cocktail Dress), and Blue (Evening Gown)",
     "topIds": [

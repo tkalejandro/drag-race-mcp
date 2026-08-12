@@ -18,8 +18,7 @@
       "earnings": {
         "amount": 3000,
         "currency": "USD",
-        "context": "$3,000 cash tip from selfieonastick.com",
-        "isSponsor": true
+        "context": "$3,000 cash tip from selfieonastick.com"
       }
     },
     "topIds": [
@@ -70,8 +69,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "4 night getaway to a bed and breakfast in New England",
-        "isSponsor": true
+        "context": "4 night getaway to a bed and breakfast in New England"
       }
     },
     "runwayTheme": "Movie Premiere Realness",
@@ -226,8 +224,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "set of Lux De Ville hand bags",
-        "isSponsor": true
+        "context": "set of Lux De Ville hand bags"
       }
     },
     "runwayTheme": "Night of a Thousand Madonnas",

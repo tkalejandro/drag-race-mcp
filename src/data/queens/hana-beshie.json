@@ -9,7 +9,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "PH-S02-E06",
-          "name": "Everybody Loves Puppets"
+          "name": "Everybody Loves Puppets",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

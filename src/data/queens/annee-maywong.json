@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "TH-S01-E01",
-          "name": "Design a three-in-one runway look incorporating materials that tell the story of your life"
+          "name": "Design a three-in-one runway look incorporating materials that tell the story of your life",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "50,000฿ gift voucher from Apex Medical Center",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "TH-S01-E03",
-          "name": "Create a couture evening gown out of window curtains"
+          "name": "Create a couture evening gown out of window curtains",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "20,000฿ gift voucher from KarmaKamet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "TH-S01-E07",
@@ -22,7 +34,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "TH-S01-E07",
-          "name": "Twin photoshoot"
+          "name": "Twin photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Assign pairs for first main challenge"
+          }
         }
       ],
       "lipSyncWins": [

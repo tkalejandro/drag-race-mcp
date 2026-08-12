@@ -8,7 +8,13 @@
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "keta-minaj"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Badge and a Sonos speaker system, worth €1,000",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Nightlife Extravaganza",
     "topIds": [
@@ -58,7 +64,13 @@
       "name": "Create a couture outfit made from camping materials",
       "winnerIds": [
         "the-countess"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Badge and a Bernina's sewing machine, worth €1,000",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Glamping Couture",
     "topIds": [
@@ -108,7 +120,12 @@
       "winnerIds": [
         "keta-minaj",
         "vivaldi"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Badge and a €1,000 tip, courtesy of House of Bratz"
+      }
     },
     "runwayTheme": "Monster Ball",
     "topIds": [
@@ -157,7 +174,12 @@
       "name": "Cinderulla: The Rusical",
       "winnerIds": [
         "my-little-puny"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Badge €1000,- cheque courtesy of Loods 5."
+      }
     },
     "runwayTheme": "Statements on the Runway",
     "topIds": [
@@ -200,7 +222,12 @@
       "name": "Makeover a family member, partner or friend",
       "winnerIds": [
         "vanessa-van-cartier"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Badge and a €1000,- cheque courtesy of The Make-Up Studio."
+      }
     },
     "runwayTheme": "Roots",
     "topIds": [
@@ -252,7 +279,12 @@
       "name": "Overact in the daytime television show \"Koffie Meid\"",
       "winnerIds": [
         "keta-minaj"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Badge and a €1000,- cheque courtesy of Mr B."
+      }
     },
     "runwayTheme": "Opposites Attract",
     "topIds": [
@@ -300,7 +332,12 @@
       "name": "Act in the murder mystery \"De Moord op de Hak\"",
       "winnerIds": [
         "my-little-puny"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Badge and a handmade jewelry set courtesy of Aster Lab"
+      }
     },
     "runwayTheme": "Double Dutch",
     "topIds": [

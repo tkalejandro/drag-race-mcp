@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "NL-S02-E03",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Badge and a €1,000 tip, courtesy of House of Bratz"
+          }
         }
       ],
       "miniChallengeWins": [],

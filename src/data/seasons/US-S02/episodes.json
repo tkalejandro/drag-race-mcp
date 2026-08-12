@@ -18,8 +18,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "photo spread for Interior Illusions featured in Lux Magazine",
-        "isSponsor": true
+        "context": "photo spread for Interior Illusions featured in Lux Magazine"
       }
     },
     "topIds": [
@@ -240,8 +239,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "five night vacation at the Hyatt in Palm Springs",
-        "isSponsor": true
+        "context": "five night vacation at the Hyatt in Palm Springs"
       }
     },
     "topIds": [
@@ -460,8 +458,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "feature photo spread on Paper Magazine",
-        "isSponsor": true
+        "context": "feature photo spread on Paper Magazine"
       }
     },
     "runwayTheme": "Teen Diva, Diva D.C. Press, and Diva Hollywood Extravaganza",

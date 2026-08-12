@@ -8,7 +8,12 @@
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "melissa-bianchini"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "Drag Excellence",
     "topIds": [
@@ -48,13 +53,23 @@
       "name": "Musical chairs",
       "winnerIds": [
         "sypario"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge"
+      }
     },
     "maxiChallenge": {
       "name": "In teams, act in a Grease-inspired scene called \"Pink Queens\"",
       "winnerIds": [
         "silvana-della-magliana"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "Cinema Iconic",
     "topIds": [
@@ -92,7 +107,12 @@
       "name": "Paola & Chiara: Un Rusical Da Favola Non Autorizzato",
       "winnerIds": [
         "sypario"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "Viva el amor!",
     "topIds": [
@@ -132,13 +152,23 @@
       "name": "Photobomb famous pictures",
       "winnerIds": [
         "sypario"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge"
+      }
     },
     "maxiChallenge": {
       "name": "Create a look made from different red fabrics and materials",
       "winnerIds": [
         "la-sheeva"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "Red Passion Week",
     "topIds": [
@@ -181,13 +211,23 @@
       "name": "Vogue battle",
       "winnerIds": [
         "leila-yarn"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge"
+      }
     },
     "maxiChallenge": {
       "name": "In teams, present a drag masterclass about different subjects of drag",
       "winnerIds": [
         "lina-galore"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "Back to School",
     "topIds": [
@@ -225,13 +265,23 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "sissy-lea"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "silvana-della-magliana"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "Twist",
     "topIds": [
@@ -270,13 +320,23 @@
       "name": "Play \"Un, due, tre, drag!\"",
       "winnerIds": [
         "sypario"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge"
+      }
     },
     "maxiChallenge": {
       "name": "Perform a choreographed dance routine in different styles",
       "winnerIds": [
         "melissa-bianchini"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "Shine Bright Like a Diamond",
     "topIds": [
@@ -317,13 +377,23 @@
       "name": "Sell yourself on a dating app for widows",
       "winnerIds": [
         "lina-galore"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge"
+      }
     },
     "maxiChallenge": {
       "name": "Perform a roast of Chiara Francini in front of the judges and a live audience",
       "winnerIds": [
         "lina-galore"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "La morte ti fa Drag",
     "topIds": [
@@ -363,13 +433,23 @@
       "name": "Quick drag makeup tutorial",
       "winnerIds": [
         "la-sheeva"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge"
+      }
     },
     "maxiChallenge": {
       "name": "Makeover social media influencers",
       "winnerIds": [
         "la-sheeva"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "Drag Topic",
     "topIds": [
@@ -408,13 +488,23 @@
       "name": "Deliver a news report",
       "winnerIds": [
         "lina-galore"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge"
+      }
     },
     "maxiChallenge": {
       "name": "In pairs, sing live for the Drag Remo Festival",
       "winnerIds": [
         "lina-galore"
-      ]
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "EUR",
+        "context": "€1,000 cash tip"
+      }
     },
     "runwayTheme": "Drag Remo Style",
     "topIds": [

@@ -9,7 +9,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "PH-S01-E02",
-          "name": "The Hard Greasy Pole Game"
+          "name": "The Hard Greasy Pole Game",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [],

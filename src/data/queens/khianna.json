@@ -8,21 +8,41 @@
       "challengeWins": [
         {
           "episodeId": "PH-S03-E01",
-          "name": "Create a one-minute viral dance video that showcases your personality and/or brand"
+          "name": "Create a one-minute viral dance video that showcases your personality and/or brand",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "PH-S03-E01",
-          "name": "Perform a voguing routine in front of the other queens and previous Drag Race Philippines queens"
+          "name": "Perform a voguing routine in front of the other queens and previous Drag Race Philippines queens",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         },
         {
           "episodeId": "PH-S03-E03",
-          "name": "Sack race"
+          "name": "Sack race",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash prize"
+          }
         },
         {
           "episodeId": "PH-S03-E05",
-          "name": "90's inspired notebook cover photoshoot"
+          "name": "90's inspired notebook cover photoshoot",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [
@@ -54,11 +74,22 @@
       "miniChallengeWins": [
         {
           "episodeId": "PHSR-S01-E01",
-          "name": "Perform in hairography dance-battles"
+          "name": "Perform in hairography dance-battles",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "cash tip of ₱20,000 courtesy of Cream Silk",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "PHSR-S01-E02",
-          "name": "Play a traditional game of Kadang-Kadang"
+          "name": "Play a traditional game of Kadang-Kadang",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "cash tip of ₱20,000"
+          }
         },
         {
           "episodeId": "PHSR-S01-E05",
@@ -72,7 +103,12 @@
       "lipSyncWins": [
         {
           "episodeId": "PHSR-S01-E01",
-          "song": "Debut"
+          "song": "Debut",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "cash tip of ₱80,000"
+          }
         },
         {
           "episodeId": "PHSR-S01-E07",

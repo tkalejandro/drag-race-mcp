@@ -8,7 +8,13 @@
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "athena-sorgelikis"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Two tickets to see Stromae in Brussels",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Belgicolor: Noir, Jaune, Rouge",
     "topIds": [
@@ -56,7 +62,13 @@
       "name": "In teams, create a commercial promoting different Belgian foods",
       "winnerIds": [
         "drag-couenne"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "trip for two to Thermae Boetfort",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Belgian Comics",
     "topIds": [
@@ -104,7 +116,12 @@
       "name": "Create two looks made out of festival materials",
       "winnerIds": [
         "susan"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Four passes of five days for the Dour festival"
+      }
     },
     "runwayTheme": "Les reines de la scène / Festival Realness",
     "topIds": [
@@ -152,7 +169,13 @@
       "name": "Act in a parody of Ni juge, ni soumise (\"So Help Me God\")",
       "winnerIds": [
         "drag-couenne"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "VIP stay for six people, two days, at a Pairi Daiza Native House",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Surréalisme",
     "topIds": [
@@ -198,7 +221,13 @@
       "name": "Snatch Game",
       "winnerIds": [
         "mademoiselle-boop"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "skydiving trip from Sky Dive Spa",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Mille et une Audrey Hepburn",
     "topIds": [
@@ -243,7 +272,13 @@
       "name": "Makeover Belgian TV personalities",
       "winnerIds": [
         "athena-sorgelikis"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Two tickets the Eurovision Song Contest",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Portraits de Famille",
     "topIds": [
@@ -291,7 +326,13 @@
       "name": "Write and deliver an inspiring and humorous speech to become Queen of Belgium",
       "winnerIds": [
         "drag-couenne"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "cruise experience from The Cruise",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Glamour à Knokke-le-Zoute",
     "topIds": [

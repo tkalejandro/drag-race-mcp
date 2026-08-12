@@ -8,21 +8,42 @@
       "challengeWins": [
         {
           "episodeId": "IT-S02-E02",
-          "name": "In teams, act in the soap opera \"Il segreto... mica poi tanto!!\""
+          "name": "In teams, act in the soap opera \"Il segreto... mica poi tanto!!\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "necklace from PerLei",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "IT-S02-E04",
-          "name": "Horoscope quiz"
+          "name": "Horoscope quiz",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and a selection of products from Biofficina Toscana"
+          }
         },
         {
           "episodeId": "IT-S02-E06",
-          "name": "Guess the number of foods on a pit crew member's body blindfolded"
+          "name": "Guess the number of foods on a pit crew member's body blindfolded",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and an audio equipment from Brionvega"
+          }
         },
         {
           "episodeId": "IT-S02-E07",
-          "name": "Paint a full face of makeup while twirling a hula hoop"
+          "name": "Paint a full face of makeup while twirling a hula hoop",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and a selection of make-up products from MAC Cosmetics"
+          }
         }
       ],
       "lipSyncWins": [],

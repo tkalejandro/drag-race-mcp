@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "PH-S02-E05",
-          "name": "Sirena: The Rusical"
+          "name": "Sirena: The Rusical",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

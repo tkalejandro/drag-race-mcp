@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "BE-S02-E02",
-          "name": "Create a monochromatic look made from unconventional materials based on the colors of the rainbow"
+          "name": "Create a monochromatic look made from unconventional materials based on the colors of the rainbow",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip and a jewelry set from Aster LAB"
+          }
         }
       ],
       "miniChallengeWins": [],

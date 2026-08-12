@@ -155,7 +155,13 @@
       "name": "Give drag makeovers to men in committed relationships, bridal theme",
       "winnerIds": [
         "angele-anang"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Two nights and two days at Avani Resort Pattaya, Plus a 30,000฿ voucher",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "angele-anang"
@@ -261,7 +267,13 @@
       "winnerIds": [
         "angele-anang",
         "mocha-diva"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "year supply of premium mink lashes by ChiChi, worth 30,000฿",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Miss Star of the Galaxy Pageant",
     "topIds": [
@@ -313,7 +325,13 @@
       "name": "Create a runway look inspired by Thai cuisine",
       "winnerIds": [
         "angele-anang"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Two vouchers for a two night/three day stay at Aksorn Rayong The Vitality Collection with a volcano detox treatment from Aksorn Wellness worth ฿55,000",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "angele-anang"
@@ -446,7 +464,13 @@
       "name": "Teach an exercise class to senior citizens",
       "winnerIds": [
         "kana-warrior"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "30,000฿ gift voucher from Positif, premium Japanese beauty products",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Twin Heroes",
     "topIds": [
@@ -491,7 +515,13 @@
       "name": "Write and record lyrics for a song and perform in a music video",
       "winnerIds": [
         "kandy-zyanide"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Two night stay at Lebua Hotel and Resort in the luxury suite and a 50,000฿ voucher for meals at Tower Club Lounge",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "White Elephant Extravaganza",
     "topIds": [

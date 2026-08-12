@@ -8,17 +8,32 @@
       "challengeWins": [
         {
           "episodeId": "PH-S02-E02",
-          "name": "Write, record, and perform verses to \"BOOGSH!\""
+          "name": "Write, record, and perform verses to \"BOOGSH!\"",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         },
         {
           "episodeId": "PH-S02-E07",
-          "name": "Makeover members of the Golden Gays"
+          "name": "Makeover members of the Golden Gays",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "PH-S02-E07",
-          "name": "Apply makeup using only one compact mirror and pose for a photoshoot"
+          "name": "Apply makeup using only one compact mirror and pose for a photoshoot",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

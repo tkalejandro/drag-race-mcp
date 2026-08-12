@@ -36,7 +36,12 @@
       "winnerIds": [
         "shea-coulee"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -70,7 +75,12 @@
       "winnerIds": [
         "jinkx-monsoon"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -110,7 +120,12 @@
       "winnerIds": [
         "jaida-essence-hall"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -144,7 +159,12 @@
       "winnerIds": [
         "the-vivienne"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -178,7 +198,12 @@
       "winnerIds": [
         "jinkx-monsoon"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -212,7 +237,12 @@
       "winnerIds": [
         "the-vivienne"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -246,7 +276,12 @@
       "winnerIds": [
         "trinity-taylor"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -280,7 +315,12 @@
       "winnerIds": [
         "raja"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -314,7 +354,12 @@
       "winnerIds": [
         "monet-x-change"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -348,7 +393,12 @@
       "winnerIds": [
         "jinkx-monsoon"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -381,7 +431,12 @@
       "winnerIds": [
         "shea-coulee"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {

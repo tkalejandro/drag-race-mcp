@@ -31,7 +31,12 @@
       "winnerIds": [
         "morgan-mcmichaels"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -71,7 +76,12 @@
       "winnerIds": [
         "akeria-c-davenport"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     }
   },
   {
@@ -106,7 +116,12 @@
       "winnerIds": [
         "dawn"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     }
   },
   {
@@ -141,7 +156,12 @@
       "winnerIds": [
         "crystal-methyd"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     }
   },
   {
@@ -176,7 +196,12 @@
       "winnerIds": [
         "silky-nutmeg-ganache"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     }
   },
   {
@@ -211,7 +236,12 @@
       "winnerIds": [
         "salina-estitties"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     }
   },
   {
@@ -246,7 +276,12 @@
       "winnerIds": [
         "sam-star"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     }
   },
   {
@@ -281,7 +316,12 @@
       "winnerIds": [
         "kennedy-davenport"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     }
   },
   {
@@ -316,7 +356,12 @@
       "winnerIds": [
         "kennedy-davenport"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     }
   },
   {

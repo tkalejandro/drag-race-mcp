@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "NL-S02-E02",
-          "name": "Create a couture outfit made from camping materials"
+          "name": "Create a couture outfit made from camping materials",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Badge and a Bernina's sewing machine, worth €1,000",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

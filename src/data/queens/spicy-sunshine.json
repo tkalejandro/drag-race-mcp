@@ -8,17 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "TH-S03-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿50,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "TH-S03-E01",
-          "name": "Thai Tea Photoshoot"
+          "name": "Thai Tea Photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip courtesy of Karun",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "TH-S03-E08",
-          "name": "Everybody Loves Puppets"
+          "name": "Everybody Loves Puppets",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

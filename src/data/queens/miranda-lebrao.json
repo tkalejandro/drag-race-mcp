@@ -14,11 +14,21 @@
       "miniChallengeWins": [
         {
           "episodeId": "BR-S01-E06",
-          "name": "Grávida de Taubaté inspired photoshoot"
+          "name": "Grávida de Taubaté inspired photoshoot",
+          "earnings": {
+            "amount": 5000,
+            "currency": "BRL",
+            "context": "R$5,000 cash tip"
+          }
         },
         {
           "episodeId": "BR-S01-E07",
-          "name": "Impersonate each other with puppets"
+          "name": "Impersonate each other with puppets",
+          "earnings": {
+            "amount": 5000,
+            "currency": "BRL",
+            "context": "R$5,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

@@ -9,7 +9,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "PH-S03-E02",
-          "name": "Tumbang Preso (Prisoner Lockdown)"
+          "name": "Tumbang Preso (Prisoner Lockdown)",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [],

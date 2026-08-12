@@ -8,13 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "MX-S01-E02",
-          "name": "Design a Quinceañera look with unconventional materials and party supplies"
+          "name": "Design a Quinceañera look with unconventional materials and party supplies",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "MX-S01-E05",
-          "name": "Drag up a pair of tribal boots and wear them in a Latin dance-off"
+          "name": "Drag up a pair of tribal boots and wear them in a Latin dance-off",
+          "earnings": {
+            "amount": 9000,
+            "currency": "MXN",
+            "context": "MX$ 9,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

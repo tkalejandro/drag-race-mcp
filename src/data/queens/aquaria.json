@@ -44,8 +44,7 @@
           "earnings": {
             "amount": 0,
             "currency": "USD",
-            "context": "$1,000 credit to Postmates",
-            "isSponsor": true
+            "context": "$1,000 credit to Postmates"
           }
         },
         {

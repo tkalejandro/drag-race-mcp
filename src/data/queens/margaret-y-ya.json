@@ -9,11 +9,21 @@
       "miniChallengeWins": [
         {
           "episodeId": "MX-S01-E01",
-          "name": "Piñata-inspired photoshoot"
+          "name": "Piñata-inspired photoshoot",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
         },
         {
           "episodeId": "MX-S01-E04",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [],

@@ -22,8 +22,7 @@
           "earnings": {
             "amount": 0,
             "currency": "USD",
-            "context": "private portrait session with Austin Young",
-            "isSponsor": true
+            "context": "private portrait session with Austin Young"
           }
         }
       ],

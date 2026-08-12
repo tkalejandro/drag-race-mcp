@@ -12,7 +12,13 @@
         },
         {
           "episodeId": "TH-S02-E06",
-          "name": "Talk Show with the finalists of Drag Race Thailand Season 1"
+          "name": "Talk Show with the finalists of Drag Race Thailand Season 1",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "year supply of premium mink lashes by ChiChi, worth 30,000฿",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

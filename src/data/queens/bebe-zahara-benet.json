@@ -15,8 +15,7 @@
           "earnings": {
             "amount": 0,
             "currency": "USD",
-            "context": "Sonos stereo sound system",
-            "isSponsor": true
+            "context": "Sonos stereo sound system"
           }
         },
         {

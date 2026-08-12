@@ -12,8 +12,7 @@
       "earnings": {
         "amount": 0,
         "currency": "GBP",
-        "context": "Immunity for next week's challenge",
-        "isSponsor": true
+        "context": "Immunity for next week's challenge"
       }
     },
     "runwayTheme": "Queen of Your Hometown",

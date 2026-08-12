@@ -64,7 +64,12 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S07-E03",
-          "song": "Green Light"
+          "song": "Green Light",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

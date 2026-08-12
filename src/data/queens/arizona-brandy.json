@@ -8,13 +8,24 @@
       "challengeWins": [
         {
           "episodeId": "PH-S02-E01",
-          "name": "Write, record, and perform verses to \"BOOGSH!\""
+          "name": "Write, record, and perform verses to \"BOOGSH!\"",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "PH-S02-E08",
-          "name": "Read the other queens through a rap"
+          "name": "Read the other queens through a rap",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip courtesy of Havaianas",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

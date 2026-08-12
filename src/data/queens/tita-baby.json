@@ -14,7 +14,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "PH-S03-E09",
-          "name": "Answer questions from the previously eliminated queens"
+          "name": "Answer questions from the previously eliminated queens",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

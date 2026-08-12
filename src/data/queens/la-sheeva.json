@@ -8,17 +8,32 @@
       "challengeWins": [
         {
           "episodeId": "IT-S03-E04",
-          "name": "Create a look made from different red fabrics and materials"
+          "name": "Create a look made from different red fabrics and materials",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
         },
         {
           "episodeId": "IT-S03-E09",
-          "name": "Makeover social media influencers"
+          "name": "Makeover social media influencers",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "IT-S03-E09",
-          "name": "Quick drag makeup tutorial"
+          "name": "Quick drag makeup tutorial",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
         }
       ],
       "lipSyncWins": [

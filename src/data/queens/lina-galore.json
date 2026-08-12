@@ -8,25 +8,50 @@
       "challengeWins": [
         {
           "episodeId": "IT-S03-E05",
-          "name": "In teams, present a drag masterclass about different subjects of drag"
+          "name": "In teams, present a drag masterclass about different subjects of drag",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
         },
         {
           "episodeId": "IT-S03-E08",
-          "name": "Perform a roast of Chiara Francini in front of the judges and a live audience"
+          "name": "Perform a roast of Chiara Francini in front of the judges and a live audience",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
         },
         {
           "episodeId": "IT-S03-E10",
-          "name": "In pairs, sing live for the Drag Remo Festival"
+          "name": "In pairs, sing live for the Drag Remo Festival",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "IT-S03-E08",
-          "name": "Sell yourself on a dating app for widows"
+          "name": "Sell yourself on a dating app for widows",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
         },
         {
           "episodeId": "IT-S03-E10",
-          "name": "Deliver a news report"
+          "name": "Deliver a news report",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
         }
       ],
       "lipSyncWins": [

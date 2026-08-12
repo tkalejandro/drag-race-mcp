@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "FR-S03-E01",
-          "name": "Record and perform verses for a cabaret show"
+          "name": "Record and perform verses for a cabaret show",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€2,500 voucher from Maison Ernest plus €1,000 and a year's subscription from Deezer",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

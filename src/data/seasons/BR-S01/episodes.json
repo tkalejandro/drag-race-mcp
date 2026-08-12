@@ -278,7 +278,12 @@
       "name": "Impersonate each other with puppets",
       "winnerIds": [
         "miranda-lebrao"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "BRL",
+        "context": "R$5,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Present two looks on the runway: Black and White",
@@ -375,7 +380,12 @@
       "name": "Do a makeup look of an assigned animal without mirrors",
       "winnerIds": [
         "shannon-skarllet"
-      ]
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "BRL",
+        "context": "R$5,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform a roast of the judges and fellow queens",

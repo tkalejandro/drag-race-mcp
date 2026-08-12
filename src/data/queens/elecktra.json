@@ -14,7 +14,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "SE-S01-E01",
-          "name": "Midsommar photoshoot"
+          "name": "Midsommar photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "SEK",
+            "context": "Immunity from elimination"
+          }
         },
         {
           "episodeId": "SE-S01-E06",

@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "TH-S03-E03",
-          "name": "Write, record, and perform verses to \"Sip Sip Sip\""
+          "name": "Write, record, and perform verses to \"Sip Sip Sip\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿50,000 cash tip"
+          }
         },
         {
           "episodeId": "TH-S03-E04",
-          "name": "Act in the soap opera \"บ้าน หลัก โลก เลิศ รูด ลาย ลาย ไทย และ ลุ้น\""
+          "name": "Act in the soap opera \"บ้าน หลัก โลก เลิศ รูด ลาย ลาย ไทย และ ลุ้น\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿50,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

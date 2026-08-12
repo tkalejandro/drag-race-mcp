@@ -27,19 +27,42 @@
       "challengeWins": [
         {
           "episodeId": "ESAS-S01-E01",
-          "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show"
+          "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "two-night stay in Torremolinos",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ESAS-S01-E02",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "facial skin care set valued at €1,500"
+          }
         },
         {
           "episodeId": "ESAS-S01-E03",
-          "name": "Walk the Deadly Sins Ball"
+          "name": "Walk the Deadly Sins Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "jewelry set from Aster Lab",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ESAS-S01-E05",
-          "name": "Perform a roast of the judges panel and fellow contestants"
+          "name": "Perform a roast of the judges panel and fellow contestants",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "surprise European trip from Waynabox",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

@@ -53,7 +53,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "PHSR-S01-E03",
-          "name": "Play a game of Kep Kep, Boob-ay"
+          "name": "Play a game of Kep Kep, Boob-ay",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "cash tip of ₱20,000"
+          }
         }
       ],
       "lipSyncWins": [

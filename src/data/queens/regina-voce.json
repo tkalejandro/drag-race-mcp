@@ -14,15 +14,30 @@
       "miniChallengeWins": [
         {
           "episodeId": "MX-S01-E03",
-          "name": "In pairs, participate in a taco eating contest"
+          "name": "In pairs, participate in a taco eating contest",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
         },
         {
           "episodeId": "MX-S01-E06",
-          "name": "Apply quick drag makeup without mirrors"
+          "name": "Apply quick drag makeup without mirrors",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
         },
         {
           "episodeId": "MX-S01-E09",
-          "name": "Impersonate each other with puppets"
+          "name": "Impersonate each other with puppets",
+          "earnings": {
+            "amount": 9000,
+            "currency": "MXN",
+            "context": "MX$ 9,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

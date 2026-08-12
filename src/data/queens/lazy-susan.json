@@ -12,16 +12,29 @@
           "earnings": {
             "amount": 3000,
             "currency": "AUD",
-            "context": "A$3,000 cash tip"
+            "context": "$3,000 cash tip courtesy of TEAMM8",
+            "isSponsor": true
           }
         },
         {
           "episodeId": "DU-S04-E02",
-          "name": "Write, record, and perform verses to \"Mr. Right\" and \"Mr. Right Now?\""
+          "name": "Write, record, and perform verses to \"Mr. Right\" and \"Mr. Right Now?\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "65 inch TV courtesy of Samsung",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "DU-S04-E06",
-          "name": "Audition for the role of \"Tutu Much\" on the soap \"Platy-Pussies On Fire\""
+          "name": "Audition for the role of \"Tutu Much\" on the soap \"Platy-Pussies On Fire\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$2,500 gift card courtesy of Glitter au Gogo",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

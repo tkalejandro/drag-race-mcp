@@ -8,21 +8,41 @@
       "challengeWins": [
         {
           "episodeId": "IT-S03-E03",
-          "name": "Paola & Chiara: Un Rusical Da Favola Non Autorizzato"
+          "name": "Paola & Chiara: Un Rusical Da Favola Non Autorizzato",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "IT-S03-E02",
-          "name": "Musical chairs"
+          "name": "Musical chairs",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
         },
         {
           "episodeId": "IT-S03-E04",
-          "name": "Photobomb famous pictures"
+          "name": "Photobomb famous pictures",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
         },
         {
           "episodeId": "IT-S03-E07",
-          "name": "Play \"Un, due, tre, drag!\""
+          "name": "Play \"Un, due, tre, drag!\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
         }
       ],
       "lipSyncWins": [

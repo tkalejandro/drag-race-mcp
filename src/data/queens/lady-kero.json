@@ -9,7 +9,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "MX-S01-E08",
-          "name": "Photoshoot posing as wrestlers in a ring"
+          "name": "Photoshoot posing as wrestlers in a ring",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

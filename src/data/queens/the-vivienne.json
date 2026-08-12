@@ -53,11 +53,21 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S07-E04",
-          "song": "Love Will Save the Day (Jellybean/David Morales Remix)"
+          "song": "Love Will Save the Day (Jellybean/David Morales Remix)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S07-E06",
-          "song": "Why'd You Come in Here Lookin' Like That"
+          "song": "Why'd You Come in Here Lookin' Like That",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

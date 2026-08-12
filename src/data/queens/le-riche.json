@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "IT-S01-E04",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "selection of products from Mac Cosmetics worth €750",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

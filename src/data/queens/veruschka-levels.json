@@ -8,13 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "PH-S02-E03",
-          "name": "Create a look with the same party supplies as your drag sister"
+          "name": "Create a look with the same party supplies as your drag sister",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "PH-S02-E02",
-          "name": "Photoshoot with a snake"
+          "name": "Photoshoot with a snake",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [],

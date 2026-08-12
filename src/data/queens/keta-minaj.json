@@ -8,15 +8,31 @@
       "challengeWins": [
         {
           "episodeId": "NL-S02-E01",
-          "name": "Perform a talent show in front of the judges"
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Badge and a Sonos speaker system, worth €1,000",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "NL-S02-E03",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Badge and a €1,000 tip, courtesy of House of Bratz"
+          }
         },
         {
           "episodeId": "NL-S02-E06",
-          "name": "Overact in the daytime television show \"Koffie Meid\""
+          "name": "Overact in the daytime television show \"Koffie Meid\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Badge and a €1000,- cheque courtesy of Mr B."
+          }
         }
       ],
       "miniChallengeWins": [],

@@ -12,7 +12,7 @@
       "earnings": {
         "amount": 18000,
         "currency": "MXN",
-        "context": "MX$18,000 cash tip"
+        "context": "MX$ 18,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -61,7 +61,7 @@
       "earnings": {
         "amount": 18000,
         "currency": "MXN",
-        "context": "MX$18,000 cash tip"
+        "context": "MX$ 18,000 cash tip"
       }
     },
     "runwayTheme": "Quinceañera Drag",
@@ -107,7 +107,7 @@
       "earnings": {
         "amount": 18000,
         "currency": "MXN",
-        "context": "MX$18,000 cash tip"
+        "context": "MX$ 18,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -154,7 +154,12 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "margaret-y-ya"
-      ]
+      ],
+      "earnings": {
+        "amount": 18000,
+        "currency": "MXN",
+        "context": "MX$ 18,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Dragapulco Shore: El Rusical",
@@ -205,7 +210,7 @@
       "earnings": {
         "amount": 9000,
         "currency": "MXN",
-        "context": "MX$9,000 cash tip"
+        "context": "MX$ 9,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -257,7 +262,7 @@
       "earnings": {
         "amount": 18000,
         "currency": "MXN",
-        "context": "MX$18,000 cash tip"
+        "context": "MX$ 18,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -308,7 +313,7 @@
       "earnings": {
         "amount": 18000,
         "currency": "MXN",
-        "context": "MX$18,000 cash tip"
+        "context": "MX$ 18,000 cash tip"
       }
     },
     "runwayTheme": "Chica Joven / Señora de la Casa / Maldita Villana",
@@ -353,7 +358,7 @@
       "earnings": {
         "amount": 18000,
         "currency": "MXN",
-        "context": "MX$18,000 cash tip"
+        "context": "MX$ 18,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -364,7 +369,7 @@
       "earnings": {
         "amount": 25000,
         "currency": "MXN",
-        "context": "MX$25,000 cash tip"
+        "context": "MX$ 25,000 cash tip"
       }
     },
     "runwayTheme": "Denim Eleganza Extravaganza",
@@ -396,7 +401,12 @@
       "winnerIds": [
         "matraka",
         "regina-voce"
-      ]
+      ],
+      "earnings": {
+        "amount": 9000,
+        "currency": "MXN",
+        "context": "MX$ 9,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform a stand-up comedy routine",
@@ -445,7 +455,7 @@
       "earnings": {
         "amount": 18000,
         "currency": "MXN",
-        "context": "MX$18,000 cash tip"
+        "context": "MX$ 18,000 cash tip"
       }
     },
     "runwayTheme": "Miss Drag Latinoamérica",

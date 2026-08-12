@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "NL-S01-E03",
-          "name": "Act in a drag version of Gooische Vrouwen"
+          "name": "Act in a drag version of Gooische Vrouwen",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "prize package worth €1,000, for make up products by Schminkspecialist",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -18,7 +24,12 @@
         },
         {
           "episodeId": "NL-S01-E06",
-          "name": "Save the Date improv"
+          "name": "Save the Date improv",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "weekend away in Rotterdam"
+          }
         }
       ],
       "lipSyncWins": [

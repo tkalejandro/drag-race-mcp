@@ -12,7 +12,13 @@
         },
         {
           "episodeId": "TH-S02-E11",
-          "name": "Write and record lyrics for a song and perform in a music video"
+          "name": "Write and record lyrics for a song and perform in a music video",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Two night stay at Lebua Hotel and Resort in the luxury suite and a 50,000฿ voucher for meals at Tower Club Lounge",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

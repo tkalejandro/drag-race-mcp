@@ -12,7 +12,8 @@
           "earnings": {
             "amount": 5000,
             "currency": "AUD",
-            "context": "A$5,000 cash tip"
+            "context": "$5,000 cash tip courtesy of The Star, Sydney",
+            "isSponsor": true
           }
         },
         {
@@ -21,12 +22,18 @@
           "earnings": {
             "amount": 2000,
             "currency": "AUD",
-            "context": "A$2,000 cash tip"
+            "context": "$2,000 cash tip and a year supply of tights"
           }
         },
         {
           "episodeId": "DU-S02-E06",
-          "name": "Create a tourism campaign for their hometowns"
+          "name": "Create a tourism campaign for their hometowns",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$2,000 gift card courtesy of Shoe Me",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

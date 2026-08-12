@@ -75,15 +75,30 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S09-E01",
-          "song": "Million Dollar Bill (Freemasons Radio Mix)"
+          "song": "Million Dollar Bill (Freemasons Radio Mix)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S09-E06",
-          "song": "Be My Lover"
+          "song": "Be My Lover",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S09-E07",
-          "song": "Lovergirl"
+          "song": "Lovergirl",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S09-E10",

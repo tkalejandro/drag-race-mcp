@@ -6,18 +6,38 @@
     "title": "Drag Pop",
     "maxiChallenge": {
       "name": "In groups of three, write, record, and perform verses for original Drag Pop songs",
-      "winnerIds": ["lemon"]
+      "winnerIds": [
+        "lemon"
+      ]
     },
     "runwayTheme": "Wonders of the World",
-    "topIds": ["cheryl-hole", "kennedy-davenport", "lemon"],
-    "bottomIds": ["eureka", "la-kahena"],
+    "topIds": [
+      "cheryl-hole",
+      "kennedy-davenport",
+      "lemon"
+    ],
+    "bottomIds": [
+      "eureka",
+      "la-kahena"
+    ],
     "lipSync": {
       "song": "Meaningless",
-      "queenIds": ["eureka", "la-kahena"],
-      "winnerIds": ["eureka"],
-      "eliminatedIds": ["la-kahena"]
+      "queenIds": [
+        "eureka",
+        "la-kahena"
+      ],
+      "winnerIds": [
+        "eureka"
+      ],
+      "eliminatedIds": [
+        "la-kahena"
+      ]
     },
-    "guestJudges": [{ "name": "Charlotte Cardin" }]
+    "guestJudges": [
+      {
+        "name": "Charlotte Cardin"
+      }
+    ]
   },
   {
     "id": "CVTW-S02-E02",
@@ -26,18 +46,38 @@
     "title": "The Hole",
     "maxiChallenge": {
       "name": "Improvise in the reality TV spoof The Hole",
-      "winnerIds": ["kennedy-davenport"]
+      "winnerIds": [
+        "kennedy-davenport"
+      ]
     },
     "runwayTheme": "Mother Nature",
-    "topIds": ["cheryl-hole", "kennedy-davenport", "lemon"],
-    "bottomIds": ["le-fil", "tynomi-banks"],
+    "topIds": [
+      "cheryl-hole",
+      "kennedy-davenport",
+      "lemon"
+    ],
+    "bottomIds": [
+      "le-fil",
+      "tynomi-banks"
+    ],
     "lipSync": {
       "song": "Let Me Think About It",
-      "queenIds": ["le-fil", "tynomi-banks"],
-      "winnerIds": ["tynomi-banks"],
-      "eliminatedIds": ["le-fil"]
+      "queenIds": [
+        "le-fil",
+        "tynomi-banks"
+      ],
+      "winnerIds": [
+        "tynomi-banks"
+      ],
+      "eliminatedIds": [
+        "le-fil"
+      ]
     },
-    "guestJudges": [{ "name": "Lisa Rinna" }]
+    "guestJudges": [
+      {
+        "name": "Lisa Rinna"
+      }
+    ]
   },
   {
     "id": "CVTW-S02-E03",
@@ -46,22 +86,44 @@
     "title": "Glamorous Drag Queen Ball Challenge",
     "miniChallenge": {
       "name": "Participate in a motion capture film audition",
-      "winnerIds": ["alexis-mateo"]
+      "winnerIds": [
+        "alexis-mateo"
+      ]
     },
     "maxiChallenge": {
       "name": "The Glamorous Drag Queen Ball",
-      "winnerIds": ["alexis-mateo"]
+      "winnerIds": [
+        "alexis-mateo"
+      ]
     },
     "runwayTheme": "AI Generated Queen / The Robots Have Taken Over / Supermodel of the New World",
-    "topIds": ["alexis-mateo", "lemon", "miss-fiercalicious"],
-    "bottomIds": ["cheryl-hole", "tynomi-banks"],
+    "topIds": [
+      "alexis-mateo",
+      "lemon",
+      "miss-fiercalicious"
+    ],
+    "bottomIds": [
+      "cheryl-hole",
+      "tynomi-banks"
+    ],
     "lipSync": {
       "song": "What the Hell",
-      "queenIds": ["cheryl-hole", "tynomi-banks"],
-      "winnerIds": ["cheryl-hole"],
-      "eliminatedIds": ["tynomi-banks"]
+      "queenIds": [
+        "cheryl-hole",
+        "tynomi-banks"
+      ],
+      "winnerIds": [
+        "cheryl-hole"
+      ],
+      "eliminatedIds": [
+        "tynomi-banks"
+      ]
     },
-    "guestJudges": [{ "name": "Kirk Pickersgill" }]
+    "guestJudges": [
+      {
+        "name": "Kirk Pickersgill"
+      }
+    ]
   },
   {
     "id": "CVTW-S02-E04",
@@ -70,23 +132,45 @@
     "title": "Reading Battles",
     "miniChallenge": {
       "name": "Lip sync to Just What They Want while being blasted by a high-powered fan",
-      "winnerIds": ["miss-fiercalicious"]
+      "winnerIds": [
+        "miss-fiercalicious"
+      ]
     },
     "maxiChallenge": {
       "name": "Reading Battles stand-up",
-      "winnerIds": ["kennedy-davenport"]
+      "winnerIds": [
+        "kennedy-davenport"
+      ]
     },
-    "topIds": ["cheryl-hole", "kennedy-davenport", "lemon"],
-    "bottomIds": ["eureka", "miss-fiercalicious"],
+    "topIds": [
+      "cheryl-hole",
+      "kennedy-davenport",
+      "lemon"
+    ],
+    "bottomIds": [
+      "eureka",
+      "miss-fiercalicious"
+    ],
     "lipSync": {
       "song": "Hush Hush; Hush Hush",
-      "queenIds": ["eureka", "miss-fiercalicious"],
-      "winnerIds": ["miss-fiercalicious"],
-      "eliminatedIds": ["eureka"]
+      "queenIds": [
+        "eureka",
+        "miss-fiercalicious"
+      ],
+      "winnerIds": [
+        "miss-fiercalicious"
+      ],
+      "eliminatedIds": [
+        "eureka"
+      ]
     },
     "guestJudges": [
-      { "name": "Samantha Bee" },
-      { "name": "Sarain Fox" }
+      {
+        "name": "Samantha Bee"
+      },
+      {
+        "name": "Sarain Fox"
+      }
     ]
   },
   {
@@ -96,20 +180,39 @@
     "title": "Snatch Game: The Rusical",
     "maxiChallenge": {
       "name": "Impersonate a celebrity and perform in Snatch Game: The Rusical",
-      "winnerIds": ["lemon"]
+      "winnerIds": [
+        "lemon"
+      ]
     },
     "runwayTheme": "Summer of '69",
-    "topIds": ["cheryl-hole", "lemon"],
-    "bottomIds": ["alexis-mateo", "miss-fiercalicious"],
+    "topIds": [
+      "cheryl-hole",
+      "lemon"
+    ],
+    "bottomIds": [
+      "alexis-mateo",
+      "miss-fiercalicious"
+    ],
     "lipSync": {
       "song": "How Far I'll Go (Alessia Cara Version)",
-      "queenIds": ["alexis-mateo", "miss-fiercalicious"],
-      "winnerIds": ["alexis-mateo"],
-      "eliminatedIds": ["miss-fiercalicious"]
+      "queenIds": [
+        "alexis-mateo",
+        "miss-fiercalicious"
+      ],
+      "winnerIds": [
+        "alexis-mateo"
+      ],
+      "eliminatedIds": [
+        "miss-fiercalicious"
+      ]
     },
     "guestJudges": [
-      { "name": "Alessia Cara" },
-      { "name": "Sarain Fox" }
+      {
+        "name": "Alessia Cara"
+      },
+      {
+        "name": "Sarain Fox"
+      }
     ]
   },
   {
@@ -126,13 +229,23 @@
     ],
     "lipSync": {
       "song": "Love Can Move Mountains",
-      "queenIds": ["alexis-mateo", "lemon"],
-      "winnerIds": ["lemon"],
+      "queenIds": [
+        "alexis-mateo",
+        "lemon"
+      ],
+      "winnerIds": [
+        "lemon"
+      ],
       "kind": "for-the-crown"
     },
     "guestJudges": [
-      { "name": "Sarain Fox" },
-      { "name": "Ra'Jah O'Hara", "queenId": "ra-jah-ohara" }
+      {
+        "name": "Sarain Fox"
+      },
+      {
+        "name": "Ra'Jah O'Hara",
+        "queenId": "ra-jah-ohara"
+      }
     ]
   }
 ]

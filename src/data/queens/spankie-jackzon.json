@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "DU-S02-E02",
-          "name": "In teams, perform in a gritty prison drama called \"Caged Queens\""
+          "name": "In teams, perform in a gritty prison drama called \"Caged Queens\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "4 night stay at a Sofitel property of choice in Australia or New Zealand from Sofitel Viaduct Auckland Harbour",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "DU-S02-E03",
@@ -16,7 +22,8 @@
           "earnings": {
             "amount": 5000,
             "currency": "AUD",
-            "context": "A$5,000 cash tip"
+            "context": "$5,000 cash tip, courtesy of The Star, Sydney",
+            "isSponsor": true
           }
         },
         {
@@ -25,7 +32,7 @@
           "earnings": {
             "amount": 2000,
             "currency": "AUD",
-            "context": "A$2,000 cash tip"
+            "context": "$2,000 cash tip and a year supply of tights"
           }
         }
       ],

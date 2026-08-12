@@ -18,8 +18,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "custom jewel package by Fierce Drag Jewels",
-        "isSponsor": true
+        "context": "custom jewel package by Fierce Drag Jewels"
       }
     },
     "topIds": [
@@ -178,8 +177,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "2 VIP packages to the Broadway musical Kinky Boots",
-        "isSponsor": true
+        "context": "2 VIP packages to the Broadway musical Kinky Boots"
       }
     },
     "runwayTheme": "Tony Award Realness",
@@ -391,8 +389,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "one-of-a-kind gown designed by Marco Marco",
-        "isSponsor": true
+        "context": "one-of-a-kind gown designed by Marco Marco"
       }
     },
     "topIds": [

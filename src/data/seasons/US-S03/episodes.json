@@ -83,8 +83,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "set of hand-sculpted silicone breast plates by Boobs for Queens",
-        "isSponsor": true
+        "context": "set of hand-sculpted silicone breast plates by Boobs for Queens"
       }
     },
     "runwayTheme": "Sci-Fi",
@@ -465,8 +464,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "An original, custom gown by Marco Marco",
-        "isSponsor": true
+        "context": "An original, custom gown by Marco Marco"
       }
     },
     "topIds": [

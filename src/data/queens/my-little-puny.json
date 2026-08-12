@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "NL-S02-E04",
-          "name": "Cinderulla: The Rusical"
+          "name": "Cinderulla: The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Badge €1000,- cheque courtesy of Loods 5."
+          }
         },
         {
           "episodeId": "NL-S02-E07",
-          "name": "Act in the murder mystery \"De Moord op de Hak\""
+          "name": "Act in the murder mystery \"De Moord op de Hak\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Badge and a handmade jewelry set courtesy of Aster Lab"
+          }
         }
       ],
       "miniChallengeWins": [

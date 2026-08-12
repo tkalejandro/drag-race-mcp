@@ -6,22 +6,50 @@
     "title": "Supremme Eleganza Olé Stars Extravaganza",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["pupi-poisson"]
+      "winnerIds": [
+        "pupi-poisson"
+      ]
     },
     "maxiChallenge": {
       "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show",
-      "winnerIds": ["drag-sethlas", "hornella-gongora"]
+      "winnerIds": [
+        "drag-sethlas",
+        "hornella-gongora"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "two-night stay in Torremolinos",
+        "isSponsor": true
+      }
     },
-    "topIds": ["drag-sethlas", "hornella-gongora"],
-    "bottomIds": ["onyx", "pink-chadora"],
+    "topIds": [
+      "drag-sethlas",
+      "hornella-gongora"
+    ],
+    "bottomIds": [
+      "onyx",
+      "pink-chadora"
+    ],
     "lipSync": {
       "song": "Me gustas mucho",
-      "queenIds": ["drag-sethlas", "hornella-gongora"],
-      "winnerIds": ["drag-sethlas"],
-      "eliminatedIds": ["pink-chadora"],
+      "queenIds": [
+        "drag-sethlas",
+        "hornella-gongora"
+      ],
+      "winnerIds": [
+        "drag-sethlas"
+      ],
+      "eliminatedIds": [
+        "pink-chadora"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Bárbara Rey" }]
+    "guestJudges": [
+      {
+        "name": "Bárbara Rey"
+      }
+    ]
   },
   {
     "id": "ESAS-S01-E02",
@@ -30,19 +58,44 @@
     "title": "Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["drag-sethlas", "pupi-poisson"]
+      "winnerIds": [
+        "drag-sethlas",
+        "pupi-poisson"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "facial skin care set valued at €1,500"
+      }
     },
     "runwayTheme": "Redención (Redemption)",
-    "topIds": ["drag-sethlas", "pupi-poisson"],
-    "bottomIds": ["onyx", "sagittaria"],
+    "topIds": [
+      "drag-sethlas",
+      "pupi-poisson"
+    ],
+    "bottomIds": [
+      "onyx",
+      "sagittaria"
+    ],
     "lipSync": {
       "song": "Nochentera",
-      "queenIds": ["drag-sethlas", "pupi-poisson"],
-      "winnerIds": ["pupi-poisson"],
-      "eliminatedIds": ["onyx"],
+      "queenIds": [
+        "drag-sethlas",
+        "pupi-poisson"
+      ],
+      "winnerIds": [
+        "pupi-poisson"
+      ],
+      "eliminatedIds": [
+        "onyx"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Silvia Abril" }]
+    "guestJudges": [
+      {
+        "name": "Silvia Abril"
+      }
+    ]
   },
   {
     "id": "ESAS-S01-E03",
@@ -51,19 +104,45 @@
     "title": "The Ball: Heaven, Hell, and Capital Sins",
     "maxiChallenge": {
       "name": "Walk the Deadly Sins Ball",
-      "winnerIds": ["drag-sethlas", "juriji-der-klee"]
+      "winnerIds": [
+        "drag-sethlas",
+        "juriji-der-klee"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "jewelry set from Aster Lab",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Cielo (Heaven) / Infierno (Hell) / Pecados Capitales (Deadly Sins)",
-    "topIds": ["drag-sethlas", "juriji-der-klee"],
-    "bottomIds": ["pakita", "pupi-poisson"],
+    "topIds": [
+      "drag-sethlas",
+      "juriji-der-klee"
+    ],
+    "bottomIds": [
+      "pakita",
+      "pupi-poisson"
+    ],
     "lipSync": {
       "song": "Estoy llorando por ti",
-      "queenIds": ["drag-sethlas", "juriji-der-klee"],
-      "winnerIds": ["drag-sethlas"],
-      "eliminatedIds": ["pakita"],
+      "queenIds": [
+        "drag-sethlas",
+        "juriji-der-klee"
+      ],
+      "winnerIds": [
+        "drag-sethlas"
+      ],
+      "eliminatedIds": [
+        "pakita"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Laura Sánchez" }]
+    "guestJudges": [
+      {
+        "name": "Laura Sánchez"
+      }
+    ]
   },
   {
     "id": "ESAS-S01-E04",
@@ -72,19 +151,45 @@
     "title": "Girl Bands Battle",
     "maxiChallenge": {
       "name": "Write, record, and perform verses as two girl groups for Superstar",
-      "winnerIds": ["juriji-der-klee", "samantha-ballentines"]
+      "winnerIds": [
+        "juriji-der-klee",
+        "samantha-ballentines"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "set of Krash Kosmetics makeup products valued at €500",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Strass: Divina de la Muerte (Strass: Divine of Death)",
-    "topIds": ["juriji-der-klee", "samantha-ballentines"],
-    "bottomIds": ["hornella-gongora", "sagittaria"],
+    "topIds": [
+      "juriji-der-klee",
+      "samantha-ballentines"
+    ],
+    "bottomIds": [
+      "hornella-gongora",
+      "sagittaria"
+    ],
     "lipSync": {
       "song": "Mafiosa",
-      "queenIds": ["juriji-der-klee", "samantha-ballentines"],
-      "winnerIds": ["samantha-ballentines"],
-      "eliminatedIds": ["sagittaria"],
+      "queenIds": [
+        "juriji-der-klee",
+        "samantha-ballentines"
+      ],
+      "winnerIds": [
+        "samantha-ballentines"
+      ],
+      "eliminatedIds": [
+        "sagittaria"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Nathy Peluso" }]
+    "guestJudges": [
+      {
+        "name": "Nathy Peluso"
+      }
+    ]
   },
   {
     "id": "ESAS-S01-E05",
@@ -93,19 +198,46 @@
     "title": "The Hairdresser's Salon",
     "maxiChallenge": {
       "name": "Perform a roast of the judges panel and fellow contestants",
-      "winnerIds": ["drag-sethlas", "samantha-ballentines"]
+      "winnerIds": [
+        "drag-sethlas",
+        "samantha-ballentines"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "surprise European trip from Waynabox",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Martirizadas (Martir-ised)",
-    "topIds": ["drag-sethlas", "samantha-ballentines"],
-    "bottomIds": ["hornella-gongora", "juriji-der-klee", "pupi-poisson"],
+    "topIds": [
+      "drag-sethlas",
+      "samantha-ballentines"
+    ],
+    "bottomIds": [
+      "hornella-gongora",
+      "juriji-der-klee",
+      "pupi-poisson"
+    ],
     "lipSync": {
       "song": "La zarzamora",
-      "queenIds": ["drag-sethlas", "samantha-ballentines"],
-      "winnerIds": ["samantha-ballentines"],
-      "eliminatedIds": ["pupi-poisson"],
+      "queenIds": [
+        "drag-sethlas",
+        "samantha-ballentines"
+      ],
+      "winnerIds": [
+        "samantha-ballentines"
+      ],
+      "eliminatedIds": [
+        "pupi-poisson"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Inés Hernand" }]
+    "guestJudges": [
+      {
+        "name": "Inés Hernand"
+      }
+    ]
   },
   {
     "id": "ESAS-S01-E06",
@@ -127,8 +259,13 @@
     ],
     "lipSync": {
       "song": "Eloise",
-      "queenIds": ["drag-sethlas", "samantha-ballentines"],
-      "winnerIds": ["drag-sethlas"],
+      "queenIds": [
+        "drag-sethlas",
+        "samantha-ballentines"
+      ],
+      "winnerIds": [
+        "drag-sethlas"
+      ],
       "kind": "for-the-crown"
     }
   }

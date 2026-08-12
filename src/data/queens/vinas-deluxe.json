@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "PH-S01-E02",
-          "name": "Create a look and arch inspired by the Flores de Mayo celebration and Sagala pageantry"
+          "name": "Create a look and arch inspired by the Flores de Mayo celebration and Sagala pageantry",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip and a custom couture gown from the House of Laurel"
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -42,11 +47,23 @@
       "lipSyncWins": [
         {
           "episodeId": "PHSR-S01-E02",
-          "song": "XL"
+          "song": "XL",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "cash tip of ₱80,000 courtesy of Cream Silk",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "PHSR-S01-E03",
-          "song": "Winna Winna"
+          "song": "Winna Winna",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "cash tip of ₱80,000 and a year's supply of products courtesy of Auro Chocolate",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "PHSR-S01-E08",

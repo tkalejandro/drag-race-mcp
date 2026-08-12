@@ -8,19 +8,43 @@
       "challengeWins": [
         {
           "episodeId": "NL-S01-E02",
-          "name": "Record a group workout video"
+          "name": "Record a group workout video",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "prize package of hair products and styling tools by John Beerens, worth €1,000",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "NL-S01-E04",
-          "name": "In groups, perform a vogue choreographed song"
+          "name": "In groups, perform a vogue choreographed song",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "voucher worth €1,000, courtesy of Mister B",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "NL-S01-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "voucher worth €1,000, for SofaCompany",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "NL-S01-E06",
-          "name": "Makeover a family member or friend"
+          "name": "Makeover a family member or friend",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "voucher for tooth whitening therapy for two",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

@@ -8,13 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "PH-S03-E02",
-          "name": "The Sustaina-Ball"
+          "name": "The Sustaina-Ball",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "PH-S03-E08",
-          "name": "Attempt to smash a hanging clay pot while blindfolded in one minute"
+          "name": "Attempt to smash a hanging clay pot while blindfolded in one minute",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

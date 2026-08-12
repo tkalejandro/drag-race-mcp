@@ -12,8 +12,7 @@
           "earnings": {
             "amount": 3000,
             "currency": "USD",
-            "context": "$3,000 cash tip from selfieonastick.com",
-            "isSponsor": true
+            "context": "$3,000 cash tip from selfieonastick.com"
           }
         },
         {

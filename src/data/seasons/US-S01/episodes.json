@@ -116,8 +116,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "Sonos stereo sound system",
-        "isSponsor": true
+        "context": "Sonos stereo sound system"
       }
     },
     "runwayTheme": "Dress to Impress",
@@ -171,8 +170,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "Mac-Viva Glam ambassadorship",
-        "isSponsor": true
+        "context": "Mac-Viva Glam ambassadorship"
       }
     },
     "topIds": [

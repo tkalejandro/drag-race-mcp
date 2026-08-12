@@ -8,15 +8,30 @@
       "challengeWins": [
         {
           "episodeId": "PH-S03-E03",
-          "name": "Write, record, and perform verses to \"Dapat Pakak!\""
+          "name": "Write, record, and perform verses to \"Dapat Pakak!\"",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash prize"
+          }
         },
         {
           "episodeId": "PH-S03-E04",
-          "name": "In pairs, create shows for Pao Presents Plus"
+          "name": "In pairs, create shows for Pao Presents Plus",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash prize"
+          }
         },
         {
           "episodeId": "PH-S03-E07",
-          "name": "Makeover a loved one"
+          "name": "Makeover a loved one",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         },
         {
           "episodeId": "PH-S03-E08",
@@ -26,7 +41,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "PH-S03-E07",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

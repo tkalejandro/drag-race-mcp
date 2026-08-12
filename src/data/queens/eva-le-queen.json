@@ -9,11 +9,21 @@
       "miniChallengeWins": [
         {
           "episodeId": "PH-S01-E04",
-          "name": "Ten-Twenty Talon Becky (Chinese Garter Game)"
+          "name": "Ten-Twenty Talon Becky (Chinese Garter Game)",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         },
         {
           "episodeId": "PH-S01-E08",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

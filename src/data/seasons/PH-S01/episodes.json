@@ -8,13 +8,23 @@
       "name": "Dragna superhero inspired photoshoot",
       "winnerIds": [
         "marina-summers"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "minty-fresh"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Ter-No, She Betta Don't!",
     "topIds": [
@@ -52,13 +62,23 @@
       "name": "The Hard Greasy Pole Game",
       "winnerIds": [
         "corazon"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Create a look and arch inspired by the Flores de Mayo celebration and Sagala pageantry",
       "winnerIds": [
         "vinas-deluxe"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip and a custom couture gown from the House of Laurel"
+      }
     },
     "runwayTheme": "Sagalamazon",
     "topIds": [
@@ -96,13 +116,23 @@
       "name": "Drag Race Special Ru-lection",
       "winnerIds": [
         "precious-paula-nicole"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to \"Pop Off Ate (Pop Off Sis)\"",
       "winnerIds": [
         "turing"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Shake, Rattle and Rampa",
     "topIds": [
@@ -140,13 +170,23 @@
       "name": "Ten-Twenty Talon Becky (Chinese Garter Game)",
       "winnerIds": [
         "eva-le-queen"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "OPM Divas: The Rusical",
       "winnerIds": [
         "precious-paula-nicole"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Perlas Ng Silanganan (Pearl of the Orient Seas)",
     "topIds": [
@@ -184,7 +224,12 @@
       "name": "Compete in the Miss Shutacca Queen Beauty Pageant",
       "winnerIds": [
         "marina-summers"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Pink Pak Boom",
     "topIds": [
@@ -222,7 +267,12 @@
       "name": "Snatch Game",
       "winnerIds": [
         "xilhouete"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Two-in-One Ruvelation",
     "topIds": [
@@ -253,13 +303,23 @@
       "name": "Nude illusion group photoshoot",
       "winnerIds": [
         "minty-fresh"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "The Shop Shop Ladies Ball",
       "winnerIds": [
         "minty-fresh"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Shopulence, She Buys Everything! and Divi-Divas",
     "topIds": [
@@ -292,13 +352,23 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "eva-le-queen"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Makeover a loved one",
       "winnerIds": [
         "xilhouete"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Twinning",
     "topIds": [
@@ -336,7 +406,12 @@
       "name": "Star and perform in a music video for RuPaul's song \"Champion\"",
       "winnerIds": [
         "marina-summers"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "PHP",
+        "context": "₱80,000"
+      }
     },
     "runwayTheme": "LED There Be Light and Come In Your Best Drag",
     "topIds": [

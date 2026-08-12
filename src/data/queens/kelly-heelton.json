@@ -12,7 +12,8 @@
           "earnings": {
             "amount": 4500,
             "currency": "EUR",
-            "context": "€4,500 cash tip"
+            "context": "€4,500 cash tip courtesy of VACAYA",
+            "isSponsor": true
           }
         },
         {

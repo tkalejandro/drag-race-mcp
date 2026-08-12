@@ -47,7 +47,12 @@
       "challengeWins": [
         {
           "episodeId": "ESAS-S01-E02",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "facial skin care set valued at €1,500"
+          }
         }
       ],
       "miniChallengeWins": [

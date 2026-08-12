@@ -252,7 +252,8 @@
       "earnings": {
         "amount": 1250,
         "currency": "EUR",
-        "context": "€1,250 cash tip"
+        "context": "€1,250 cash tip courtesy of Bruno Banani",
+        "isSponsor": true
       }
     },
     "maxiChallenge": {
@@ -263,7 +264,8 @@
       "earnings": {
         "amount": 4500,
         "currency": "EUR",
-        "context": "€4,500 cash tip"
+        "context": "€4,500 cash tip courtesy of VACAYA",
+        "isSponsor": true
       }
     },
     "runwayTheme": "Dinner is Served",

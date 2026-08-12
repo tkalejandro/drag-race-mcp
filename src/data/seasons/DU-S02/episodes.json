@@ -14,7 +14,13 @@
       "name": "Create an outfit made from locally sourced natural materials",
       "winnerIds": [
         "molly-poppinz"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "custom prosthetic makeover courtesy of BodyFX",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Down Under, Naturally",
     "topIds": [
@@ -49,7 +55,13 @@
       "name": "In teams, perform in a gritty prison drama called \"Caged Queens\"",
       "winnerIds": [
         "spankie-jackzon"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "4 night stay at a Sofitel property of choice in Australia or New Zealand from Sofitel Viaduct Auckland Harbour",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Fly Girls: Insects on the Runway",
     "topIds": [
@@ -93,7 +105,7 @@
       "earnings": {
         "amount": 5000,
         "currency": "AUD",
-        "context": "A$5,000 cash tip"
+        "context": "$5,000 cash tip"
       }
     },
     "maxiChallenge": {
@@ -105,7 +117,8 @@
       "earnings": {
         "amount": 5000,
         "currency": "AUD",
-        "context": "A$5,000 cash tip"
+        "context": "$5,000 cash tip, courtesy of The Star, Sydney",
+        "isSponsor": true
       }
     },
     "runwayTheme": "Red For Filth",
@@ -151,7 +164,8 @@
       "earnings": {
         "amount": 5000,
         "currency": "AUD",
-        "context": "A$5,000 cash tip"
+        "context": "$5,000 cash tip courtesy of The Star, Sydney",
+        "isSponsor": true
       }
     },
     "runwayTheme": "Cirque du So-Gay",
@@ -199,7 +213,7 @@
       "earnings": {
         "amount": 2000,
         "currency": "AUD",
-        "context": "A$2,000 cash tip"
+        "context": "$2,000 cash tip and a year supply of tights"
       }
     },
     "runwayTheme": "Belts, Buckles and Chains",
@@ -235,7 +249,13 @@
       "name": "Create a tourism campaign for their hometowns",
       "winnerIds": [
         "hannah-conda"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,000 gift card courtesy of Shoe Me",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Swimsuit Edition",
     "topIds": [
@@ -274,7 +294,8 @@
       "earnings": {
         "amount": 5000,
         "currency": "AUD",
-        "context": "A$5,000 cash tip"
+        "context": "$5,000 cash tip courtesy of Anastasia Beverly Hills",
+        "isSponsor": true
       }
     },
     "runwayTheme": "Opposites Attract",

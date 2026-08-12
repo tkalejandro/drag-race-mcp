@@ -8,7 +8,12 @@
       "name": "Write, record, and perform verses to a mashup of RuPaul's \"Super Queen\" and \"Sissy That Walk\"",
       "winnerIds": [
         "hollywould-star"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "custom prosthetics valued at $3,500"
+      }
     },
     "runwayTheme": "Somewhere Under the Rainbow",
     "topIds": [
@@ -48,13 +53,25 @@
       "name": "Boudoir photoshoot",
       "winnerIds": [
         "gabriella-labucci"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "custom jewelry set and a $1,000 gift card courtesy of Amped Accessories",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create an outfit made out of leftover bedding materials",
       "winnerIds": [
         "isis-avis-loren"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,000 gift card courtesy of Shoe Me",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Muriel's Bedding",
     "topIds": [
@@ -127,7 +144,12 @@
       "name": "Find matching pairs of pit crew's underwear",
       "winnerIds": [
         "gabriella-labucci"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "Singer C430 sewing machine"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
@@ -137,7 +159,8 @@
       "earnings": {
         "amount": 3000,
         "currency": "AUD",
-        "context": "A$3,000 cash tip"
+        "context": "$3,000 cash tip courtesy of Team Mate",
+        "isSponsor": true
       }
     },
     "runwayTheme": "Night of a Thousand Kylie Minogue's",
@@ -181,7 +204,7 @@
       "earnings": {
         "amount": 5000,
         "currency": "AUD",
-        "context": "A$5,000 cash tip"
+        "context": "$5,000 cash tip"
       }
     },
     "runwayTheme": "Fuchsia? I Don't Even Know Her",
@@ -220,7 +243,13 @@
       "name": "Perform a talent show in front of the judges",
       "winnerIds": [
         "isis-avis-loren"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,500 Voucher courtesy of Wigged Out",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Not in My Backyard Barbecue",
     "topIds": [
@@ -264,7 +293,8 @@
       "earnings": {
         "amount": 2500,
         "currency": "AUD",
-        "context": "A$2,500 cash tip"
+        "context": "$2,500 cash tip courtesy of Anastasia Beverly Hills",
+        "isSponsor": true
       }
     },
     "runwayTheme": "Drag Family Resemblance: Doggy Style",

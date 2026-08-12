@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "BE-S01-E03",
-          "name": "Create two looks made out of festival materials"
+          "name": "Create two looks made out of festival materials",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Four passes of five days for the Dour festival"
+          }
         }
       ],
       "miniChallengeWins": [

@@ -8,21 +8,44 @@
       "challengeWins": [
         {
           "episodeId": "TH-S01-E02",
-          "name": "Dress up as the bride and groom in a photoshoot"
+          "name": "Dress up as the bride and groom in a photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Custom pair of men's and women's shoes from Tango worth 30,000฿",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "TH-S01-E04",
-          "name": "Present and accept the Drag Race Thailand Debut Season Awards"
+          "name": "Present and accept the Drag Race Thailand Debut Season Awards",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "One-year supply of Biore products",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "TH-S01-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "3 day stay at the AVANI Garden Room in Pattaya, worth 20,000฿",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "TH-S01-E02",
-          "name": "Photoshoot with blacklight"
+          "name": "Photoshoot with blacklight",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "30 minutes for the maxi-challenge instead of 15"
+          }
         }
       ],
       "lipSyncWins": [

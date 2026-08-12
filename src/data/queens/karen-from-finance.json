@@ -12,7 +12,8 @@
           "earnings": {
             "amount": 3000,
             "currency": "AUD",
-            "context": "A$3,000 cash tip"
+            "context": "$3,000 cash tip courtesy of Mary's Poppin' in Adelaide",
+            "isSponsor": true
           }
         }
       ],

@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "IT-S03-E01",
-          "name": "Perform a talent show in front of the judges"
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
         },
         {
           "episodeId": "IT-S03-E07",
-          "name": "Perform a choreographed dance routine in different styles"
+          "name": "Perform a choreographed dance routine in different styles",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

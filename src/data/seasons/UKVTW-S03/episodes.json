@@ -6,17 +6,32 @@
     "title": "RuRuvision Song Contest",
     "maxiChallenge": {
       "name": "Perform an original song at the RuRuvision Song Contest",
-      "winnerIds": ["fontana", "gawdland"]
+      "winnerIds": [
+        "fontana",
+        "gawdland"
+      ]
     },
     "runwayTheme": "For Queen and Country",
-    "topIds": ["fontana", "gawdland"],
+    "topIds": [
+      "fontana",
+      "gawdland"
+    ],
     "lipSync": {
       "song": "Tattoo",
-      "queenIds": ["fontana", "gawdland"],
-      "winnerIds": ["fontana"],
+      "queenIds": [
+        "fontana",
+        "gawdland"
+      ],
+      "winnerIds": [
+        "fontana"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Loreen" }]
+    "guestJudges": [
+      {
+        "name": "Loreen"
+      }
+    ]
   },
   {
     "id": "UKVTW-S03-E02",
@@ -25,19 +40,37 @@
     "title": "Runway Ru-Mix",
     "maxiChallenge": {
       "name": "Present RuDemption and The RuMix looks, reworking another queen's outfit",
-      "winnerIds": ["gawdland"]
+      "winnerIds": [
+        "gawdland"
+      ]
     },
     "runwayTheme": "RuDemption / The RuMix",
-    "topIds": ["gawdland"],
-    "bottomIds": ["melinda-verga", "the-only-naomy"],
+    "topIds": [
+      "gawdland"
+    ],
+    "bottomIds": [
+      "melinda-verga",
+      "the-only-naomy"
+    ],
     "lipSync": {
       "song": "I Begin to Wonder",
-      "queenIds": ["melinda-verga", "the-only-naomy"],
-      "winnerIds": ["the-only-naomy"],
-      "eliminatedIds": ["melinda-verga"],
+      "queenIds": [
+        "melinda-verga",
+        "the-only-naomy"
+      ],
+      "winnerIds": [
+        "the-only-naomy"
+      ],
+      "eliminatedIds": [
+        "melinda-verga"
+      ],
       "kind": "for-your-life"
     },
-    "guestJudges": [{ "name": "Kristen McMenamy" }]
+    "guestJudges": [
+      {
+        "name": "Kristen McMenamy"
+      }
+    ]
   },
   {
     "id": "UKVTW-S03-E03",
@@ -46,19 +79,37 @@
     "title": "The Miss Snatch Game Pageant",
     "maxiChallenge": {
       "name": "Miss Snatch Game Pageant",
-      "winnerIds": ["gawdland"]
+      "winnerIds": [
+        "gawdland"
+      ]
     },
     "runwayTheme": "Let Them Eat Capes",
-    "topIds": ["gawdland"],
-    "bottomIds": ["fontana", "minty-fresh"],
+    "topIds": [
+      "gawdland"
+    ],
+    "bottomIds": [
+      "fontana",
+      "minty-fresh"
+    ],
     "lipSync": {
       "song": "Angel of My Dreams",
-      "queenIds": ["fontana", "minty-fresh"],
-      "winnerIds": ["fontana"],
-      "eliminatedIds": ["minty-fresh"],
+      "queenIds": [
+        "fontana",
+        "minty-fresh"
+      ],
+      "winnerIds": [
+        "fontana"
+      ],
+      "eliminatedIds": [
+        "minty-fresh"
+      ],
       "kind": "for-your-life"
     },
-    "guestJudges": [{ "name": "Jade Thirlwall" }]
+    "guestJudges": [
+      {
+        "name": "Jade Thirlwall"
+      }
+    ]
   },
   {
     "id": "UKVTW-S03-E04",
@@ -67,21 +118,39 @@
     "title": "Girl Groups from Outer Space",
     "maxiChallenge": {
       "name": "Write, record and perform verses to I'm in Love with an Alien",
-      "winnerIds": ["kate-butch"]
+      "winnerIds": [
+        "kate-butch"
+      ]
     },
     "runwayTheme": "You're A Star Baby",
-    "topIds": ["kate-butch"],
-    "bottomIds": ["serena-morena", "sminty-drop"],
+    "topIds": [
+      "kate-butch"
+    ],
+    "bottomIds": [
+      "serena-morena",
+      "sminty-drop"
+    ],
     "lipSync": {
       "song": "I Heard a Rumour",
-      "queenIds": ["serena-morena", "sminty-drop"],
-      "winnerIds": ["serena-morena"],
-      "eliminatedIds": ["sminty-drop"],
+      "queenIds": [
+        "serena-morena",
+        "sminty-drop"
+      ],
+      "winnerIds": [
+        "serena-morena"
+      ],
+      "eliminatedIds": [
+        "sminty-drop"
+      ],
       "kind": "for-your-life"
     },
     "guestJudges": [
-      { "name": "Sara Dallin" },
-      { "name": "Keren Woodward" }
+      {
+        "name": "Sara Dallin"
+      },
+      {
+        "name": "Keren Woodward"
+      }
     ]
   },
   {
@@ -91,23 +160,43 @@
     "title": "Silent Movie Acting Challenge",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["the-only-naomy"]
+      "winnerIds": [
+        "the-only-naomy"
+      ]
     },
     "maxiChallenge": {
       "name": "Star in two silent films",
-      "winnerIds": ["mariah"]
+      "winnerIds": [
+        "mariah"
+      ]
     },
     "runwayTheme": "She-vil Movie Villains",
-    "topIds": ["mariah"],
-    "bottomIds": ["fontana", "serena-morena"],
+    "topIds": [
+      "mariah"
+    ],
+    "bottomIds": [
+      "fontana",
+      "serena-morena"
+    ],
     "lipSync": {
       "song": "Axel F",
-      "queenIds": ["fontana", "serena-morena"],
-      "winnerIds": ["fontana"],
-      "eliminatedIds": ["serena-morena"],
+      "queenIds": [
+        "fontana",
+        "serena-morena"
+      ],
+      "winnerIds": [
+        "fontana"
+      ],
+      "eliminatedIds": [
+        "serena-morena"
+      ],
       "kind": "for-your-life"
     },
-    "guestJudges": [{ "name": "Will Poulter" }]
+    "guestJudges": [
+      {
+        "name": "Will Poulter"
+      }
+    ]
   },
   {
     "id": "UKVTW-S03-E06",
@@ -116,19 +205,37 @@
     "title": "RuPaul's Fringe Festival",
     "maxiChallenge": {
       "name": "In pairs, perform stand-up at RuPaul's Fringe Festival",
-      "winnerIds": ["kate-butch"]
+      "winnerIds": [
+        "kate-butch"
+      ]
     },
     "runwayTheme": "Ruveal",
-    "topIds": ["kate-butch"],
-    "bottomIds": ["mariah", "zahirah-zapanta"],
+    "topIds": [
+      "kate-butch"
+    ],
+    "bottomIds": [
+      "mariah",
+      "zahirah-zapanta"
+    ],
     "lipSync": {
       "song": "Rasputin",
-      "queenIds": ["mariah", "zahirah-zapanta"],
-      "winnerIds": ["mariah"],
-      "eliminatedIds": ["zahirah-zapanta"],
+      "queenIds": [
+        "mariah",
+        "zahirah-zapanta"
+      ],
+      "winnerIds": [
+        "mariah"
+      ],
+      "eliminatedIds": [
+        "zahirah-zapanta"
+      ],
       "kind": "for-your-life"
     },
-    "guestJudges": [{ "name": "Lucy Punch" }]
+    "guestJudges": [
+      {
+        "name": "Lucy Punch"
+      }
+    ]
   },
   {
     "id": "UKVTW-S03-E07",
@@ -137,19 +244,37 @@
     "title": "Olympian Makeovers",
     "maxiChallenge": {
       "name": "Makeover Team GB Olympians into members of your drag family",
-      "winnerIds": ["mariah"]
+      "winnerIds": [
+        "mariah"
+      ]
     },
     "runwayTheme": "Drag Family Resemblance",
-    "topIds": ["mariah"],
-    "bottomIds": ["kate-butch", "the-only-naomy"],
+    "topIds": [
+      "mariah"
+    ],
+    "bottomIds": [
+      "kate-butch",
+      "the-only-naomy"
+    ],
     "lipSync": {
       "song": "Left Outside Alone",
-      "queenIds": ["kate-butch", "the-only-naomy"],
-      "winnerIds": ["kate-butch"],
-      "eliminatedIds": ["the-only-naomy"],
+      "queenIds": [
+        "kate-butch",
+        "the-only-naomy"
+      ],
+      "winnerIds": [
+        "kate-butch"
+      ],
+      "eliminatedIds": [
+        "the-only-naomy"
+      ],
       "kind": "for-your-life"
     },
-    "guestJudges": [{ "name": "Anastacia" }]
+    "guestJudges": [
+      {
+        "name": "Anastacia"
+      }
+    ]
   },
   {
     "id": "UKVTW-S03-E08",
@@ -157,11 +282,21 @@
     "episodeNumber": 8,
     "title": "Reunion & Lip Sync Smack Down For The Crown",
     "runwayTheme": "Finale Eleganza Extravaganza",
-    "topIds": ["fontana", "gawdland", "kate-butch", "mariah"],
+    "topIds": [
+      "fontana",
+      "gawdland",
+      "kate-butch",
+      "mariah"
+    ],
     "lipSync": {
       "song": "What Do I Have to Do",
-      "queenIds": ["gawdland", "kate-butch"],
-      "winnerIds": ["gawdland"],
+      "queenIds": [
+        "gawdland",
+        "kate-butch"
+      ],
+      "winnerIds": [
+        "gawdland"
+      ],
       "kind": "for-the-crown"
     }
   }

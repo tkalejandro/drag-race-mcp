@@ -24,7 +24,12 @@
         },
         {
           "episodeId": "MX-S01-E10",
-          "name": "Makeover a Drag Race fan from Chile, Colombia, Mexico or Venezuela"
+          "name": "Makeover a Drag Race fan from Chile, Colombia, Mexico or Venezuela",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

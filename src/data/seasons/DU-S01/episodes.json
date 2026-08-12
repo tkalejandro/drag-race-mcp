@@ -18,7 +18,8 @@
       "earnings": {
         "amount": 3000,
         "currency": "AUD",
-        "context": "A$3,000 cash tip"
+        "context": "$3,000 cash tip courtesy of Mary's Poppin' in Adelaide",
+        "isSponsor": true
       }
     },
     "runwayTheme": "Born Naked / No Place Like Home",
@@ -58,7 +59,8 @@
       "earnings": {
         "amount": 5000,
         "currency": "AUD",
-        "context": "A$5,000 cash tip"
+        "context": "$5,000 cash tip courtesy of Barefoot Wine Australia",
+        "isSponsor": true
       }
     },
     "runwayTheme": "Sea-Sickening",
@@ -99,7 +101,13 @@
       "name": "Write, record, and perform verses to \"Queens Down Under\"",
       "winnerIds": [
         "scarlet-adams"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$4,500 custom prosthetic piece from BodyFX",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Bogan Prom Realness",
     "topIds": [
@@ -134,7 +142,13 @@
       "name": "Create an outfit made from items found in the local op shop",
       "winnerIds": [
         "scarlet-adams"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,500 gift card from Elea's Closet",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "art-simone",
@@ -173,13 +187,25 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "art-simone"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "Sewing machine courtesy of Singer",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create an infomercial for your own Yeast Spread",
       "winnerIds": [
         "elektra-shock"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "4 night stay at a Sofitel property of choice in Australia or New Zealand courtesy of Sofitel Viaduct Auckland Harbour",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Finest Sheila in the Bush",
     "topIds": [
@@ -218,13 +244,25 @@
       "name": "Interact with local wildlife",
       "winnerIds": [
         "maxi-shield"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,000 gift card from Amped accessories",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Makeover rugby players",
       "winnerIds": [
         "kita-mean"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,500 prize package courtesy of House of Priscilla and a $1,500 gift card courtesy of DailyJocks for their partner",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Drag Family Resemblance",
     "topIds": [
@@ -262,7 +300,8 @@
       "earnings": {
         "amount": 5000,
         "currency": "AUD",
-        "context": "A$5,000 cash tip"
+        "context": "range of individualized merch and a $5,000 cash tip courtesy of Merch Mother",
+        "isSponsor": true
       }
     },
     "runwayTheme": "How's Your Head Piece?",

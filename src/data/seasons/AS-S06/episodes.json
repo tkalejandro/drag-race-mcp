@@ -87,7 +87,12 @@
       "eliminatedIds": [
         "jiggly-caliente"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -222,7 +227,12 @@
       "eliminatedIds": [
         "scarlet-envy"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -243,8 +253,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "Seven-nights vacation in southern Italy",
-        "isSponsor": true
+        "context": "Seven-nights vacation in southern Italy"
       }
     },
     "runwayTheme": "Oh My Goth!",
@@ -267,7 +276,12 @@
       "eliminatedIds": [
         "akeria-c-davenport"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -355,7 +369,12 @@
       "eliminatedIds": [
         "pandora-boxx"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {
@@ -462,8 +481,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "Levi's 2021 Pride collection",
-        "isSponsor": true
+        "context": "Levi's 2021 Pride collection"
       }
     },
     "maxiChallenge": {
@@ -500,7 +518,12 @@
       "eliminatedIds": [
         "trinity-k-bonet"
       ],
-      "kind": "for-the-win"
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
     "guestJudges": [
       {

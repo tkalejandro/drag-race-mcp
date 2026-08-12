@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "BR-S01-E02",
-          "name": "Write, record, perform verses and choreograph a music video to \"Madrugatas\" (Hotties of the Night)"
+          "name": "Write, record, perform verses and choreograph a music video to \"Madrugatas\" (Hotties of the Night)",
+          "earnings": {
+            "amount": 5000,
+            "currency": "BRL",
+            "context": "R$5,000 cash tip"
+          }
         },
         {
           "episodeId": "BR-S01-E03",

@@ -8,15 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "BE-S01-E02",
-          "name": "In teams, create a commercial promoting different Belgian foods"
+          "name": "In teams, create a commercial promoting different Belgian foods",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "trip for two to Thermae Boetfort",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "BE-S01-E04",
-          "name": "Act in a parody of Ni juge, ni soumise (\"So Help Me God\")"
+          "name": "Act in a parody of Ni juge, ni soumise (\"So Help Me God\")",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "VIP stay for six people, two days, at a Pairi Daiza Native House",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "BE-S01-E07",
-          "name": "Write and deliver an inspiring and humorous speech to become Queen of Belgium"
+          "name": "Write and deliver an inspiring and humorous speech to become Queen of Belgium",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "cruise experience from The Cruise",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

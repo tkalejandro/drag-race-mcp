@@ -14,7 +14,13 @@
       "name": "Design a three-in-one runway look incorporating materials that tell the story of your life",
       "winnerIds": [
         "annee-maywong"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "50,000฿ gift voucher from Apex Medical Center",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "annee-maywong"
@@ -57,13 +63,24 @@
       "name": "Photoshoot with blacklight",
       "winnerIds": [
         "natalia-pliacam"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "30 minutes for the maxi-challenge instead of 15"
+      }
     },
     "maxiChallenge": {
       "name": "Dress up as the bride and groom in a photoshoot",
       "winnerIds": [
         "natalia-pliacam"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Custom pair of men's and women's shoes from Tango worth 30,000฿",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Power of Love",
     "topIds": [
@@ -111,7 +128,13 @@
       "name": "Create a couture evening gown out of window curtains",
       "winnerIds": [
         "annee-maywong"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "20,000฿ gift voucher from KarmaKamet",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "annee-maywong"
@@ -160,7 +183,13 @@
       "name": "Present and accept the Drag Race Thailand Debut Season Awards",
       "winnerIds": [
         "natalia-pliacam"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "One-year supply of Biore products",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Beloved Thai Movies",
     "topIds": [
@@ -210,7 +239,13 @@
       "name": "Snatch Game",
       "winnerIds": [
         "natalia-pliacam"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "3 day stay at the AVANI Garden Room in Pattaya, worth 20,000฿",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Thai Silk Extravaganza",
     "topIds": [
@@ -254,14 +289,24 @@
       "name": "Line Mobile presentation clip",
       "winnerIds": [
         "b-ella"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Free for use of \"Line Mobile by DTAC\" for 2-years with unlimited package, and privileges for select the partners of main challenge."
+      }
     },
     "maxiChallenge": {
       "name": "In pairs, create parodies of Line Mobile commercials",
       "winnerIds": [
         "b-ella",
         "dearis-doll"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Free for use of \"Line Mobile by DTAC\" for 3-years with unlimited package for winners, and free 1 year for other competitors and presenters."
+      }
     },
     "runwayTheme": "Chompoo Araya",
     "topIds": [
@@ -306,7 +351,12 @@
       "winnerIds": [
         "annee-maywong",
         "dearis-doll"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Assign pairs for first main challenge"
+      }
     },
     "maxiChallenge": {
       "name": "Design a conjoined-twins outfit and act out a scene inspired by Plerng Phra Nang",

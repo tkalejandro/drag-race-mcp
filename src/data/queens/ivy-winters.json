@@ -12,8 +12,7 @@
           "earnings": {
             "amount": 0,
             "currency": "USD",
-            "context": "Flight 001 luggage package",
-            "isSponsor": true
+            "context": "Flight 001 luggage package"
           }
         }
       ],

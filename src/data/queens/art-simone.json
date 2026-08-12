@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "DU-S01-E05",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "Sewing machine courtesy of Singer",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

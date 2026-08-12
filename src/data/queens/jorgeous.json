@@ -70,7 +70,12 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S09-E09",
-          "song": "Love Come Home (Subgroovers Music Video Edit)"
+          "song": "Love Come Home (Subgroovers Music Video Edit)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         }
       ],
       "lipSyncLosses": [

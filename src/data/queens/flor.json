@@ -12,7 +12,8 @@
           "earnings": {
             "amount": 2500,
             "currency": "AUD",
-            "context": "A$2,500 cash tip"
+            "context": "$2,500 cash tip courtesy of Anastasia Beverly Hills",
+            "isSponsor": true
           }
         }
       ],

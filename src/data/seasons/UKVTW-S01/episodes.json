@@ -6,19 +6,39 @@
     "title": "Global Glamazons",
     "maxiChallenge": {
       "name": "Perform in a talent show",
-      "winnerIds": ["jimbo", "pangina-heals"]
+      "winnerIds": [
+        "jimbo",
+        "pangina-heals"
+      ]
     },
     "runwayTheme": "I'm a Winner, Baby",
-    "topIds": ["jimbo", "pangina-heals"],
-    "bottomIds": ["janey-jacke", "lemon"],
+    "topIds": [
+      "jimbo",
+      "pangina-heals"
+    ],
+    "bottomIds": [
+      "janey-jacke",
+      "lemon"
+    ],
     "lipSync": {
       "song": "Say You'll Be There",
-      "queenIds": ["jimbo", "pangina-heals"],
-      "winnerIds": ["pangina-heals"],
-      "eliminatedIds": ["lemon"],
+      "queenIds": [
+        "jimbo",
+        "pangina-heals"
+      ],
+      "winnerIds": [
+        "pangina-heals"
+      ],
+      "eliminatedIds": [
+        "lemon"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Melanie C" }]
+    "guestJudges": [
+      {
+        "name": "Melanie C"
+      }
+    ]
   },
   {
     "id": "UKVTW-S01-E02",
@@ -27,19 +47,39 @@
     "title": "The RuPaul Ball",
     "maxiChallenge": {
       "name": "The RuPaul Ball",
-      "winnerIds": ["janey-jacke", "jimbo"]
+      "winnerIds": [
+        "janey-jacke",
+        "jimbo"
+      ]
     },
     "runwayTheme": "Kitty Girl / Butch Queen / U Wear It Well",
-    "topIds": ["janey-jacke", "jimbo"],
-    "bottomIds": ["cheryl-hole", "jujubee"],
+    "topIds": [
+      "janey-jacke",
+      "jimbo"
+    ],
+    "bottomIds": [
+      "cheryl-hole",
+      "jujubee"
+    ],
     "lipSync": {
       "song": "Supermodel (You Better Work) (El Lay Toya Jam)",
-      "queenIds": ["janey-jacke", "jimbo"],
-      "winnerIds": ["janey-jacke"],
-      "eliminatedIds": ["cheryl-hole"],
+      "queenIds": [
+        "janey-jacke",
+        "jimbo"
+      ],
+      "winnerIds": [
+        "janey-jacke"
+      ],
+      "eliminatedIds": [
+        "cheryl-hole"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Daisy May Cooper" }]
+    "guestJudges": [
+      {
+        "name": "Daisy May Cooper"
+      }
+    ]
   },
   {
     "id": "UKVTW-S01-E03",
@@ -48,23 +88,45 @@
     "title": "West End Wendys",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["jujubee"]
+      "winnerIds": [
+        "jujubee"
+      ]
     },
     "maxiChallenge": {
       "name": "West End Wendys — The Rusical",
-      "winnerIds": ["janey-jacke", "pangina-heals"]
+      "winnerIds": [
+        "janey-jacke",
+        "pangina-heals"
+      ]
     },
     "runwayTheme": "Dot Dot Dot",
-    "topIds": ["janey-jacke", "pangina-heals"],
-    "bottomIds": ["jimbo", "jujubee"],
+    "topIds": [
+      "janey-jacke",
+      "pangina-heals"
+    ],
+    "bottomIds": [
+      "jimbo",
+      "jujubee"
+    ],
     "lipSync": {
       "song": "We Like to Party! (The Vengabus)",
-      "queenIds": ["janey-jacke", "pangina-heals"],
-      "winnerIds": ["pangina-heals"],
-      "eliminatedIds": ["jimbo"],
+      "queenIds": [
+        "janey-jacke",
+        "pangina-heals"
+      ],
+      "winnerIds": [
+        "pangina-heals"
+      ],
+      "eliminatedIds": [
+        "jimbo"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Jonathan Bailey" }]
+    "guestJudges": [
+      {
+        "name": "Jonathan Bailey"
+      }
+    ]
   },
   {
     "id": "UKVTW-S01-E04",
@@ -73,21 +135,43 @@
     "title": "Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["baga-chipz", "blu-hydrangea"]
+      "winnerIds": [
+        "baga-chipz",
+        "blu-hydrangea"
+      ]
     },
     "runwayTheme": "Luck Be A Lady",
-    "topIds": ["baga-chipz", "blu-hydrangea"],
-    "bottomIds": ["janey-jacke", "jujubee", "monique-heart", "pangina-heals"],
+    "topIds": [
+      "baga-chipz",
+      "blu-hydrangea"
+    ],
+    "bottomIds": [
+      "janey-jacke",
+      "jujubee",
+      "monique-heart",
+      "pangina-heals"
+    ],
     "lipSync": {
       "song": "Let It Go",
-      "queenIds": ["baga-chipz", "blu-hydrangea"],
-      "winnerIds": ["blu-hydrangea"],
-      "eliminatedIds": ["pangina-heals"],
+      "queenIds": [
+        "baga-chipz",
+        "blu-hydrangea"
+      ],
+      "winnerIds": [
+        "blu-hydrangea"
+      ],
+      "eliminatedIds": [
+        "pangina-heals"
+      ],
       "kind": "for-the-win"
     },
     "guestJudges": [
-      { "name": "Clara Amfo" },
-      { "name": "Michelle Keegan" }
+      {
+        "name": "Clara Amfo"
+      },
+      {
+        "name": "Michelle Keegan"
+      }
     ]
   },
   {
@@ -97,19 +181,40 @@
     "title": "Living My Life in London",
     "maxiChallenge": {
       "name": "Write, record and perform verses to RuPaul's song London",
-      "winnerIds": ["jujubee", "monique-heart"]
+      "winnerIds": [
+        "jujubee",
+        "monique-heart"
+      ]
     },
     "runwayTheme": "Werk of Art",
-    "topIds": ["jujubee", "monique-heart"],
-    "bottomIds": ["baga-chipz", "blu-hydrangea", "janey-jacke"],
+    "topIds": [
+      "jujubee",
+      "monique-heart"
+    ],
+    "bottomIds": [
+      "baga-chipz",
+      "blu-hydrangea",
+      "janey-jacke"
+    ],
     "lipSync": {
       "song": "Toy",
-      "queenIds": ["jujubee", "monique-heart"],
-      "winnerIds": ["jujubee"],
-      "eliminatedIds": ["janey-jacke"],
+      "queenIds": [
+        "jujubee",
+        "monique-heart"
+      ],
+      "winnerIds": [
+        "jujubee"
+      ],
+      "eliminatedIds": [
+        "janey-jacke"
+      ],
       "kind": "for-the-win"
     },
-    "guestJudges": [{ "name": "Jade Thirlwall" }]
+    "guestJudges": [
+      {
+        "name": "Jade Thirlwall"
+      }
+    ]
   },
   {
     "id": "UKVTW-S01-E06",
@@ -125,8 +230,13 @@
     ],
     "lipSync": {
       "song": "Supernova",
-      "queenIds": ["blu-hydrangea", "monique-heart"],
-      "winnerIds": ["blu-hydrangea"],
+      "queenIds": [
+        "blu-hydrangea",
+        "monique-heart"
+      ],
+      "winnerIds": [
+        "blu-hydrangea"
+      ],
       "kind": "for-the-crown"
     }
   }

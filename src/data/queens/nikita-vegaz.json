@@ -18,7 +18,8 @@
           "earnings": {
             "amount": 1250,
             "currency": "EUR",
-            "context": "€1,250 cash tip"
+            "context": "€1,250 cash tip courtesy of Bruno Banani",
+            "isSponsor": true
           }
         }
       ],

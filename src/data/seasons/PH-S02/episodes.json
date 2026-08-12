@@ -8,13 +8,23 @@
       "name": "Photoshoot with a tarantula",
       "winnerIds": [
         "matilduh"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to \"BOOGSH!\"",
       "winnerIds": [
         "arizona-brandy"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Feather You Like It or Not",
     "topIds": [
@@ -55,13 +65,23 @@
       "name": "Photoshoot with a snake",
       "winnerIds": [
         "veruschka-levels"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to \"BOOGSH!\"",
       "winnerIds": [
         "bernie"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Fringe with Benefits",
     "topIds": [
@@ -102,13 +122,23 @@
       "name": "Lolapalooza Newspaper Dance",
       "winnerIds": [
         "matilduh"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Create a look with the same party supplies as your drag sister",
       "winnerIds": [
         "veruschka-levels"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Who Wore It Bettah?",
     "topIds": [
@@ -146,13 +176,23 @@
       "name": "Perform a tinikling routine",
       "winnerIds": [
         "matilduh"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "captivating-katkat"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Uuh-La-Lam Realness",
     "topIds": [
@@ -193,13 +233,23 @@
       "name": "Play a game of musical chairs",
       "winnerIds": [
         "captivating-katkat"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Sirena: The Rusical",
       "winnerIds": [
         "deedee-marie-holliday"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "The Shoooes!",
     "topIds": [
@@ -237,13 +287,23 @@
       "name": "Everybody Loves Puppets",
       "winnerIds": [
         "hana-beshie"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Overact in \"Pangako Sa'Yo, Mula sa Puso... Magkaribal sa Dulo ng Walang Hanggan ng Kadenang Ginto... The Second Installment!\"",
       "winnerIds": [
         "captivating-katkat"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Can I Get an Alien?",
     "topIds": [
@@ -281,13 +341,23 @@
       "name": "Apply makeup using only one compact mirror and pose for a photoshoot",
       "winnerIds": [
         "bernie"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Makeover members of the Golden Gays",
       "winnerIds": [
         "bernie"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Twinning: The Shequel",
     "topIds": [
@@ -319,13 +389,24 @@
       "name": "Read the other queens through a rap",
       "winnerIds": [
         "arizona-brandy"
-      ]
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip courtesy of Havaianas",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create, market, and film a commercial for your own shampoo",
       "winnerIds": [
         "ov-cunt"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Rainbow Runway Realness",
     "topIds": [
@@ -361,7 +442,12 @@
       "name": "Star and perform in a music video for RuPaul's song \"Main Event\"",
       "winnerIds": [
         "m1ss-jade-so"
-      ]
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
     },
     "runwayTheme": "Doble-Kara Extravaganza",
     "topIds": [

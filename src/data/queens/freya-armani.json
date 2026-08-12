@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "DU-S04-E06",
-          "name": "Attempt to make Michelle Visage slap them"
+          "name": "Attempt to make Michelle Visage slap them",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "two night stay and dinner experience from Hilton Auckland",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

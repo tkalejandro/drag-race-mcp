@@ -12,7 +12,8 @@
       "earnings": {
         "amount": 3000,
         "currency": "AUD",
-        "context": "A$3,000 cash tip"
+        "context": "$3,000 cash tip courtesy of TEAMM8",
+        "isSponsor": true
       }
     },
     "runwayTheme": "Double Dressin' / Double Dippin'",
@@ -51,7 +52,13 @@
       "name": "Write, record, and perform verses to \"Mr. Right\" and \"Mr. Right Now?\"",
       "winnerIds": [
         "lazy-susan"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "65 inch TV courtesy of Samsung",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sheer Genius",
     "topIds": [
@@ -92,7 +99,13 @@
       "name": "I'm a Celebrity Impersonator – Snatch Me Outta Here!",
       "winnerIds": [
         "brenda-bressed"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "Necklace set from Amped Accessories",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Queen of the Dessert",
     "topIds": [
@@ -135,7 +148,13 @@
       "name": "Create an outfit made out of an assigned fabric",
       "winnerIds": [
         "mandy-moobs"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,000 gift voucher to Shoe Me",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Fierce Fabulous Fashion",
     "topIds": [
@@ -175,7 +194,12 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "vybe"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "Singer C430 sewing machine"
+      }
     },
     "maxiChallenge": {
       "name": "Makeover librarians",
@@ -186,7 +210,7 @@
       "earnings": {
         "amount": 2500,
         "currency": "AUD",
-        "context": "A$2,500 cash tip"
+        "context": "$2,500 cash tip from Anastasia Beverly Hills"
       }
     },
     "runwayTheme": "Drag Family Storytime",
@@ -227,13 +251,25 @@
       "name": "Attempt to make Michelle Visage slap them",
       "winnerIds": [
         "freya-armani"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "two night stay and dinner experience from Hilton Auckland",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Audition for the role of \"Tutu Much\" on the soap \"Platy-Pussies On Fire\"",
       "winnerIds": [
         "lazy-susan"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,500 gift card courtesy of Glitter au Gogo",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Liquid Dreams",
     "topIds": [
@@ -272,7 +308,13 @@
       "name": "Perform a roast of Rhys Nicholson",
       "winnerIds": [
         "vybe"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$3,500 worth of custom prosthetics courtesy of Body FX",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Cape Fierce",
     "topIds": [

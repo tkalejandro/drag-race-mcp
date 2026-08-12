@@ -18,8 +18,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "custom gown by Marco Marco",
-        "isSponsor": true
+        "context": "custom gown by Marco Marco"
       }
     },
     "topIds": [
@@ -296,8 +295,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "Flight 001 luggage package",
-        "isSponsor": true
+        "context": "Flight 001 luggage package"
       }
     },
     "runwayTheme": "My Favorite Body Part",
@@ -569,8 +567,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "private portrait session with Austin Young",
-        "isSponsor": true
+        "context": "private portrait session with Austin Young"
       }
     },
     "runwayTheme": "Super Duper Sweet 16, Sugar Mama, and Candy Couture",

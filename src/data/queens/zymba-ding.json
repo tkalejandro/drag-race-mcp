@@ -8,13 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "PH-S03-E06",
-          "name": "AaWicked Kita: The Rusical"
+          "name": "AaWicked Kita: The Rusical",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash prize"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "PH-S03-E06",
-          "name": "Recreate a line from an Ogie Diaz acting workshop in the most exaggerated manner possible"
+          "name": "Recreate a line from an Ogie Diaz acting workshop in the most exaggerated manner possible",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

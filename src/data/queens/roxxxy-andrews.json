@@ -12,8 +12,7 @@
           "earnings": {
             "amount": 0,
             "currency": "USD",
-            "context": "custom gown by Marco Marco",
-            "isSponsor": true
+            "context": "custom gown by Marco Marco"
           }
         },
         {
@@ -110,15 +109,30 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S09-E04",
-          "song": "Black Cat"
+          "song": "Black Cat",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S09-E05",
-          "song": "Super Freaky Girl"
+          "song": "Super Freaky Girl",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S09-E08",
-          "song": "No One Gets the Prize"
+          "song": "No One Gets the Prize",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S09-E10",

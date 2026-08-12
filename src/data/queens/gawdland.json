@@ -8,21 +8,42 @@
       "challengeWins": [
         {
           "episodeId": "TH-S03-E06",
-          "name": "Kraitong: The Rusical"
+          "name": "Kraitong: The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿50,000 cash tip"
+          }
         },
         {
           "episodeId": "TH-S03-E08",
-          "name": "Makeover queer people from Bangkok Pride"
+          "name": "Makeover queer people from Bangkok Pride",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Gift Vouchers from SLC worth ฿130,000",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "TH-S03-E05",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
         },
         {
           "episodeId": "TH-S03-E06",
-          "name": "ASMR Mukbang"
+          "name": "ASMR Mukbang",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
         }
       ],
       "lipSyncWins": [],

@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "FR-S03-E03",
-          "name": "Showcase two looks for the Ball Games"
+          "name": "Showcase two looks for the Ball Games",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "customized bag from Nona Source plus €1,000 and a year's subscription from Deezer",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "FR-S03-E07",
-          "name": "Style a wig to create a couture hairstyle"
+          "name": "Style a wig to create a couture hairstyle",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "smartphone and €1,000 of photos from Lalalab plus €1,000 and a year's subscription from Deezer",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

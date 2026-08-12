@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "PH-S02-E08",
-          "name": "Create, market, and film a commercial for your own shampoo"
+          "name": "Create, market, and film a commercial for your own shampoo",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

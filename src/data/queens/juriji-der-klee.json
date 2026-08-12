@@ -27,11 +27,23 @@
       "challengeWins": [
         {
           "episodeId": "ESAS-S01-E03",
-          "name": "Walk the Deadly Sins Ball"
+          "name": "Walk the Deadly Sins Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "jewelry set from Aster Lab",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "ESAS-S01-E04",
-          "name": "Write, record, and perform verses as two girl groups for Superstar"
+          "name": "Write, record, and perform verses as two girl groups for Superstar",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "set of Krash Kosmetics makeup products valued at €500",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

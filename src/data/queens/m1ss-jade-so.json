@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "PH-S02-E09",
-          "name": "Star and perform in a music video for RuPaul's song \"Main Event\""
+          "name": "Star and perform in a music video for RuPaul's song \"Main Event\"",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

@@ -12,7 +12,13 @@
         },
         {
           "episodeId": "IT-S01-E05",
-          "name": "Makeover a loved one as your best woman and yourself as the bride"
+          "name": "Makeover a loved one as your best woman and yourself as the bride",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "jewelry piece by Aster Lab",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

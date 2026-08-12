@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "BR-S02-E04",
-          "name": "Get in quick drag and take a photo for a Grindr profile"
+          "name": "Get in quick drag and take a photo for a Grindr profile",
+          "earnings": {
+            "amount": 5000,
+            "currency": "BRL",
+            "context": "R$5,000 cash tip courtesy of Grindr",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

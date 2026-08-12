@@ -8,17 +8,34 @@
       "challengeWins": [
         {
           "episodeId": "NL-S01-E01",
-          "name": "Present a look based on your favorite queen"
+          "name": "Present a look based on your favorite queen",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "prize package from Make-up Studio, worth €1,000",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "NL-S01-E07",
-          "name": "Máxima, The Rusical"
+          "name": "Máxima, The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "voucher worth €1,000, courtesy of Nikkie",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "NL-S01-E05",
-          "name": "Naked photoshoot"
+          "name": "Naked photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "photoshoot by Rob Jacobs"
+          }
         }
       ],
       "lipSyncWins": [

@@ -12,18 +12,29 @@
           "earnings": {
             "amount": 2500,
             "currency": "AUD",
-            "context": "A$2,500 cash tip"
+            "context": "$2,500 cash tip from Anastasia Beverly Hills"
           }
         },
         {
           "episodeId": "DU-S04-E07",
-          "name": "Perform a roast of Rhys Nicholson"
+          "name": "Perform a roast of Rhys Nicholson",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$3,500 worth of custom prosthetics courtesy of Body FX",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "DU-S04-E05",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "Singer C430 sewing machine"
+          }
         }
       ],
       "lipSyncWins": [],

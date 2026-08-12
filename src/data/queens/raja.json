@@ -32,8 +32,7 @@
           "earnings": {
             "amount": 0,
             "currency": "USD",
-            "context": "An original, custom gown by Marco Marco",
-            "isSponsor": true
+            "context": "An original, custom gown by Marco Marco"
           }
         }
       ],
@@ -76,7 +75,12 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S07-E08",
-          "song": "Super Freak"
+          "song": "Super Freak",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S07-E12",

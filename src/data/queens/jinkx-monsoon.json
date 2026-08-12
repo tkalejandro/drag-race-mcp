@@ -84,15 +84,30 @@
       "lipSyncWins": [
         {
           "episodeId": "AS-S07-E02",
-          "song": "Rumour Has It"
+          "song": "Rumour Has It",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S07-E05",
-          "song": "Better in Color"
+          "song": "Better in Color",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S07-E10",
-          "song": "Kings & Queens"
+          "song": "Kings & Queens",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S07-E12",

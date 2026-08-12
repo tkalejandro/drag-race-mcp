@@ -8,13 +8,24 @@
       "name": "Car wash photoshoot",
       "winnerIds": [
         "nehellenia"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge and a pair of earrings from PerLei"
+      }
     },
     "maxiChallenge": {
       "name": "Create an Italian art inspired look made from unconventional materials",
       "winnerIds": [
         "la-diamond"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "sewing machine from Bernette",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Arte Italiana",
     "topIds": [
@@ -53,13 +64,24 @@
       "name": "Drag Comanda Color",
       "winnerIds": [
         "nehellenia"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge and a necklace from PerLei"
+      }
     },
     "maxiChallenge": {
       "name": "In teams, act in the soap opera \"Il segreto... mica poi tanto!!\"",
       "winnerIds": [
         "aura-eternal"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "necklace from PerLei",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Prato Fiorito",
     "topIds": [
@@ -101,13 +123,25 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "nehellenia"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge and a travel gift card from Eden Viaggi worth €500",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "la-diamond"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "travel gift card from Eden Viaggi worth €1000",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Colpo di Sce...ma",
     "topIds": [
@@ -145,13 +179,24 @@
       "name": "Horoscope quiz",
       "winnerIds": [
         "aura-eternal"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge and a selection of products from Biofficina Toscana"
+      }
     },
     "maxiChallenge": {
       "name": "Improvise as fortune tellers reading tarots to the queens from Season 1",
       "winnerIds": [
         "la-diamond"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "selection of products from Biofficina Toscana",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Drag Oroscopo",
     "topIds": [
@@ -190,13 +235,24 @@
       "name": "Tuckis Roulant",
       "winnerIds": [
         "la-diamond"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge and a kick scooter from Ninebot"
+      }
     },
     "maxiChallenge": {
       "name": "Perform in a rusical dedicated to Lady Gaga",
       "winnerIds": [
         "la-petite-noire"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "travel gift card from Eden Viaggi worth €1000",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Dancing Queen",
     "topIds": [
@@ -232,13 +288,24 @@
       "name": "Guess the number of foods on a pit crew member's body blindfolded",
       "winnerIds": [
         "aura-eternal"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge and an audio equipment from Brionvega"
+      }
     },
     "maxiChallenge": {
       "name": "Makeover football players from the LGBTI+ inclusive club Lupi Roma",
       "winnerIds": [
         "nehellenia"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "professional mannequin from La Rosa",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Drag nello Sport",
     "topIds": [
@@ -277,13 +344,24 @@
       "name": "Paint a full face of makeup while twirling a hula hoop",
       "winnerIds": [
         "aura-eternal"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge and a selection of make-up products from MAC Cosmetics"
+      }
     },
     "maxiChallenge": {
       "name": "Perform a roast of the judges and an audience of Italian sciure",
       "winnerIds": [
         "la-diamond"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "travel gift card from Eden Viaggi worth €1000",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "A Spasso nel Tempo",
     "topIds": [
@@ -325,7 +403,12 @@
       "name": "Play a game of Drag Race Italia inspired twister",
       "winnerIds": [
         "la-petite-noire"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "badge and an electric scooter from ME"
+      }
     },
     "runwayTheme": "Eleganza Extravaganza",
     "topIds": [

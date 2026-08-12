@@ -12,8 +12,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "weeklong getaway to The Grand Resort and Spa at Fort Lauderdale Beach.",
-        "isSponsor": true
+        "context": "weeklong getaway to The Grand Resort and Spa at Fort Lauderdale Beach."
       }
     },
     "topIds": [
@@ -40,8 +39,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "wig wardrobe by RockStar Wigs.",
-        "isSponsor": true
+        "context": "wig wardrobe by RockStar Wigs."
       }
     },
     "runwayTheme": "White Party Realness",
@@ -196,8 +194,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "Caribbean Cruise by AllOutVacations",
-        "isSponsor": true
+        "context": "Caribbean Cruise by AllOutVacations"
       }
     },
     "runwayTheme": "Faux Fur Fabulous",
@@ -353,8 +350,7 @@
       "earnings": {
         "amount": 0,
         "currency": "USD",
-        "context": "5-year membership with SquareSpace",
-        "isSponsor": true
+        "context": "5-year membership with SquareSpace"
       }
     },
     "topIds": [

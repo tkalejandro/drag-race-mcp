@@ -18,8 +18,7 @@
       "earnings": {
         "amount": 0,
         "currency": "EUR",
-        "context": "weekend in London",
-        "isSponsor": true
+        "context": "weekend in London"
       }
     },
     "runwayTheme": "Liberté, égalité, Jean-Paul Gaultier",
@@ -73,8 +72,7 @@
       "earnings": {
         "amount": 0,
         "currency": "EUR",
-        "context": "weekend getaway and thalassotherapy treatment in Cabourg",
-        "isSponsor": true
+        "context": "weekend getaway and thalassotherapy treatment in Cabourg"
       }
     },
     "runwayTheme": "Dites-le avec des fleurs",
@@ -289,8 +287,7 @@
       "earnings": {
         "amount": 0,
         "currency": "EUR",
-        "context": "year's supply of Jean-Paul Gaultier perfume and the opportunity to appear in the upcoming Gaultier Pride digital campaign",
-        "isSponsor": true
+        "context": "year's supply of Jean-Paul Gaultier perfume and the opportunity to appear in the upcoming Gaultier Pride digital campaign"
       }
     },
     "runwayTheme": "Haute Couture",

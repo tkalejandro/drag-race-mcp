@@ -22,8 +22,7 @@
           "earnings": {
             "amount": 0,
             "currency": "USD",
-            "context": "five night vacation at the Hyatt in Palm Springs",
-            "isSponsor": true
+            "context": "five night vacation at the Hyatt in Palm Springs"
           }
         },
         {
@@ -32,8 +31,7 @@
           "earnings": {
             "amount": 0,
             "currency": "USD",
-            "context": "feature photo spread on Paper Magazine",
-            "isSponsor": true
+            "context": "feature photo spread on Paper Magazine"
           }
         }
       ],

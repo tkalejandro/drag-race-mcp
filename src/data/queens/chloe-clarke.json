@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "BE-S02-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

@@ -9,7 +9,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "IT-S03-E05",
-          "name": "Vogue battle"
+          "name": "Vogue battle",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
         }
       ],
       "lipSyncWins": [

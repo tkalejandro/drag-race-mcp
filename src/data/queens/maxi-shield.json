@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "DU-S01-E06",
-          "name": "Interact with local wildlife"
+          "name": "Interact with local wildlife",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$2,000 gift card from Amped accessories",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

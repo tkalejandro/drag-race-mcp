@@ -13,8 +13,7 @@
           "earnings": {
             "amount": 0,
             "currency": "EUR",
-            "context": "photoshoot for Shangay Magazine",
-            "isSponsor": true
+            "context": "photoshoot for Shangay Magazine"
           }
         }
       ],
@@ -33,7 +32,13 @@
       "challengeWins": [
         {
           "episodeId": "ESAS-S01-E01",
-          "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show"
+          "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "two-night stay in Torremolinos",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

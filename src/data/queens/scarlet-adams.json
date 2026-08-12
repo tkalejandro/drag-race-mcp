@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "DU-S01-E03",
-          "name": "Write, record, and perform verses to \"Queens Down Under\""
+          "name": "Write, record, and perform verses to \"Queens Down Under\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$4,500 custom prosthetic piece from BodyFX",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "DU-S01-E04",
-          "name": "Create an outfit made from items found in the local op shop"
+          "name": "Create an outfit made from items found in the local op shop",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$2,500 gift card from Elea's Closet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "DU-S01-E07",
@@ -20,7 +32,8 @@
           "earnings": {
             "amount": 5000,
             "currency": "AUD",
-            "context": "A$5,000 cash tip"
+            "context": "range of individualized merch and a $5,000 cash tip courtesy of Merch Mother",
+            "isSponsor": true
           }
         }
       ],

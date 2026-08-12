@@ -8,13 +8,24 @@
       "name": "Thai Tea Photoshoot",
       "winnerIds": [
         "spicy-sunshine"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿12,000 cash tip courtesy of Karun",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent in the Talent Show Phenomenon",
       "winnerIds": [
         "frankie-wonga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿50,000 cash tip"
+      }
     },
     "runwayTheme": "World Wide Wet",
     "topIds": [
@@ -50,13 +61,23 @@
       "name": "Ree Ree Khaosan",
       "winnerIds": [
         "nane-sphera"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿12,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "The Pageant Ball",
       "winnerIds": [
         "nane-sphera"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿50,000 cash tip"
+      }
     },
     "runwayTheme": "Swimsuit Outta-Space, Thai-Turistic and ET-Vening Gown in the Universe",
     "topIds": [
@@ -95,13 +116,23 @@
       "winnerIds": [
         "benze-diva",
         "frankie-wonga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿12,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to \"Sip Sip Sip\"",
       "winnerIds": [
         "zepee"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿50,000 cash tip"
+      }
     },
     "runwayTheme": "I Don't Need a Sugar Daddy, I AM a Sugar Daddy!",
     "topIds": [
@@ -142,13 +173,23 @@
       "name": "Glamakorn Photoshoot",
       "winnerIds": [
         "nane-sphera"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿12,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Act in the soap opera \"บ้าน หลัก โลก เลิศ รูด ลาย ลาย ไทย และ ลุ้น\"",
       "winnerIds": [
         "zepee"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿50,000 cash tip"
+      }
     },
     "runwayTheme": "Hat the Way I Like It",
     "topIds": [
@@ -186,13 +227,23 @@
       "name": "Reading is Fundamental",
       "winnerIds": [
         "gawdland"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿12,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
       "winnerIds": [
         "spicy-sunshine"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿50,000 cash tip"
+      }
     },
     "runwayTheme": "Clown is Sexy and I Know It",
     "topIds": [
@@ -230,13 +281,23 @@
       "name": "ASMR Mukbang",
       "winnerIds": [
         "gawdland"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿12,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Kraitong: The Rusical",
       "winnerIds": [
         "gawdland"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿50,000 cash tip"
+      }
     },
     "runwayTheme": "Love is Blind",
     "topIds": [
@@ -277,13 +338,23 @@
       "name": "Perform multiple wig reveals",
       "winnerIds": [
         "nane-sphera"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿12,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Improvise in the game show \"Dubble Trubble\"",
       "winnerIds": [
         "frankie-wonga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿50,000 cash tip"
+      }
     },
     "runwayTheme": "The Iconic",
     "topIds": [
@@ -321,13 +392,24 @@
       "name": "Everybody Loves Puppets",
       "winnerIds": [
         "spicy-sunshine"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿12,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Makeover queer people from Bangkok Pride",
       "winnerIds": [
         "gawdland"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Gift Vouchers from SLC worth ฿130,000",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Mother-Daughter, Feather Together",
     "topIds": [
@@ -368,13 +450,24 @@
       "name": "Twerk on the most lemons while blindfolded",
       "winnerIds": [
         "frankie-wonga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿12,000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Write and record an episode for your own talk show",
       "winnerIds": [
         "frankie-wonga"
-      ]
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "฿50,000 cash tip courtesy of Anastasia Beverly Hills Cosmetics",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Hair",
     "topIds": [
