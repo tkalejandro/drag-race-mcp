@@ -1,0 +1,355 @@
+[
+  {
+    "id": "DU-S01-E01",
+    "seasonId": "DU-S01",
+    "episodeNumber": 1,
+    "title": "G'day, G'day, G'day",
+    "miniChallenge": {
+      "name": "Audition for the Intergalactic Superhero movie \"Thar\"",
+      "winnerIds": [
+        "elektra-shock"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Get to Know You Ball",
+      "winnerIds": [
+        "karen-from-finance"
+      ],
+      "earnings": {
+        "amount": 3000,
+        "currency": "AUD",
+        "context": "$3,000 cash tip courtesy of Mary's Poppin' in Adelaide",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Born Naked / No Place Like Home",
+    "topIds": [
+      "art-simone",
+      "karen-from-finance",
+      "scarlet-adams"
+    ],
+    "bottomIds": [
+      "elektra-shock",
+      "jojo-zaho"
+    ],
+    "lipSync": {
+      "song": "Tragedy",
+      "queenIds": [
+        "elektra-shock",
+        "jojo-zaho"
+      ],
+      "winnerIds": [
+        "elektra-shock"
+      ],
+      "eliminatedIds": [
+        "jojo-zaho"
+      ]
+    }
+  },
+  {
+    "id": "DU-S01-E02",
+    "seasonId": "DU-S01",
+    "episodeNumber": 2,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "anita-wiglit"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "AUD",
+        "context": "$5,000 cash tip courtesy of Barefoot Wine Australia",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Sea-Sickening",
+    "topIds": [
+      "anita-wiglit"
+    ],
+    "bottomIds": [
+      "art-simone",
+      "coco-jumbo"
+    ],
+    "lipSync": {
+      "song": "I'm That Bitch",
+      "queenIds": [
+        "art-simone",
+        "coco-jumbo"
+      ],
+      "winnerIds": [
+        "coco-jumbo"
+      ],
+      "eliminatedIds": [
+        "art-simone"
+      ]
+    }
+  },
+  {
+    "id": "DU-S01-E03",
+    "seasonId": "DU-S01",
+    "episodeNumber": 3,
+    "title": "Queens Down Under",
+    "miniChallenge": {
+      "name": "Slow-motion surf rescue for \"Babewatch\"",
+      "winnerIds": [
+        "elektra-shock",
+        "scarlet-adams"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"Queens Down Under\"",
+      "winnerIds": [
+        "scarlet-adams"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$4,500 custom prosthetic piece from BodyFX",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Bogan Prom Realness",
+    "topIds": [
+      "anita-wiglit",
+      "kita-mean",
+      "scarlet-adams"
+    ],
+    "bottomIds": [
+      "coco-jumbo",
+      "elektra-shock"
+    ],
+    "lipSync": {
+      "song": "Shake Your Groove Thing",
+      "queenIds": [
+        "coco-jumbo",
+        "elektra-shock"
+      ],
+      "winnerIds": [
+        "elektra-shock"
+      ],
+      "eliminatedIds": [
+        "coco-jumbo"
+      ]
+    }
+  },
+  {
+    "id": "DU-S01-E04",
+    "seasonId": "DU-S01",
+    "episodeNumber": 4,
+    "title": "Rucycled",
+    "maxiChallenge": {
+      "name": "Create an outfit made from items found in the local op shop",
+      "winnerIds": [
+        "scarlet-adams"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,500 gift card from Elea's Closet",
+        "isSponsor": true
+      }
+    },
+    "topIds": [
+      "art-simone",
+      "maxi-shield",
+      "scarlet-adams"
+    ],
+    "bottomIds": [
+      "anita-wiglit",
+      "karen-from-finance"
+    ],
+    "lipSync": {
+      "song": "I Begin to Wonder",
+      "queenIds": [
+        "anita-wiglit",
+        "karen-from-finance"
+      ],
+      "winnerIds": [
+        "karen-from-finance"
+      ],
+      "eliminatedIds": [
+        "anita-wiglit"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Elz Carrad"
+      }
+    ]
+  },
+  {
+    "id": "DU-S01-E05",
+    "seasonId": "DU-S01",
+    "episodeNumber": 5,
+    "title": "Marketing Hats",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "art-simone"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "Sewing machine courtesy of Singer",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Create an infomercial for your own Yeast Spread",
+      "winnerIds": [
+        "elektra-shock"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "4 night stay at a Sofitel property of choice in Australia or New Zealand courtesy of Sofitel Viaduct Auckland Harbour",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Finest Sheila in the Bush",
+    "topIds": [
+      "elektra-shock",
+      "kita-mean"
+    ],
+    "bottomIds": [
+      "etcetera-etcetera",
+      "maxi-shield"
+    ],
+    "lipSync": {
+      "song": "Absolutely Everybody",
+      "queenIds": [
+        "etcetera-etcetera",
+        "maxi-shield"
+      ],
+      "winnerIds": [
+        "maxi-shield"
+      ],
+      "eliminatedIds": [
+        "etcetera-etcetera"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Rena Owen"
+      }
+    ]
+  },
+  {
+    "id": "DU-S01-E06",
+    "seasonId": "DU-S01",
+    "episodeNumber": 6,
+    "title": "Family Resemblance",
+    "miniChallenge": {
+      "name": "Interact with local wildlife",
+      "winnerIds": [
+        "maxi-shield"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,000 gift card from Amped accessories",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Makeover rugby players",
+      "winnerIds": [
+        "kita-mean"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "AUD",
+        "context": "$2,500 prize package courtesy of House of Priscilla and a $1,500 gift card courtesy of DailyJocks for their partner",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Drag Family Resemblance",
+    "topIds": [
+      "karen-from-finance",
+      "kita-mean"
+    ],
+    "bottomIds": [
+      "maxi-shield",
+      "scarlet-adams"
+    ],
+    "lipSync": {
+      "song": "Better the Devil You Know",
+      "queenIds": [
+        "maxi-shield",
+        "scarlet-adams"
+      ],
+      "winnerIds": [
+        "scarlet-adams"
+      ],
+      "eliminatedIds": [
+        "maxi-shield"
+      ]
+    }
+  },
+  {
+    "id": "DU-S01-E07",
+    "seasonId": "DU-S01",
+    "episodeNumber": 7,
+    "title": "Talent Show Extravaganza",
+    "maxiChallenge": {
+      "name": "Perform a talent show in front of the judges",
+      "winnerIds": [
+        "scarlet-adams"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "AUD",
+        "context": "range of individualized merch and a $5,000 cash tip courtesy of Merch Mother",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "How's Your Head Piece?",
+    "topIds": [
+      "scarlet-adams"
+    ],
+    "bottomIds": [
+      "elektra-shock",
+      "kita-mean"
+    ],
+    "lipSync": {
+      "song": "Untouched",
+      "queenIds": [
+        "elektra-shock",
+        "kita-mean"
+      ],
+      "winnerIds": [
+        "kita-mean"
+      ],
+      "eliminatedIds": [
+        "elektra-shock"
+      ]
+    }
+  },
+  {
+    "id": "DU-S01-E08",
+    "seasonId": "DU-S01",
+    "episodeNumber": 8,
+    "title": "Down Under Grand Finale",
+    "runwayTheme": "Best Drag",
+    "topIds": [
+      "art-simone",
+      "karen-from-finance",
+      "kita-mean",
+      "scarlet-adams"
+    ],
+    "lipSync": {
+      "song": "Physical",
+      "queenIds": [
+        "art-simone",
+        "karen-from-finance",
+        "kita-mean",
+        "scarlet-adams"
+      ],
+      "winnerIds": [
+        "kita-mean"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

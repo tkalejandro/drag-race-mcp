@@ -1,0 +1,57 @@
+{
+  "id": "unique",
+  "name": "Unique",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S02-E08",
+          "name": "Improvise as television presenters in \"¡Buenas Tardes, México!\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "MX-S02-E03",
+          "name": "Photoshoot posing as alien hunters in space",
+          "earnings": {
+            "amount": 9000,
+            "currency": "MXN",
+            "context": "MX$ 9,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "MX-S02-E08",
+          "name": "Do your makeup with only one hand while riding a fake bus",
+          "earnings": {
+            "amount": 9000,
+            "currency": "MXN",
+            "context": "MX$ 9,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S02-E02",
+          "song": "Mujer Latina"
+        },
+        {
+          "episodeId": "MX-S02-E04",
+          "song": "La Calle de las Sirenas"
+        },
+        {
+          "episodeId": "MX-S02-E06",
+          "song": "Agüita"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E09",
+          "song": "Techno Cumbia"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S02-E09"
+    }
+  ]
+}

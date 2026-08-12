@@ -1,0 +1,29 @@
+[
+  {
+    "id": "nl-s01-envy-peru-crown",
+    "title": "Envy Peru wins Drag Race Holland Season 1",
+    "summary": "In the Grand Finale (NL-S01-E08), Envy Peru defeated Janey Jacké in the Lip Sync for the Crown to Lady Gaga's \"Born This Way\", becoming the first Dutch Drag Superstar. Ma'Ma Queen and Miss Abby OMG were eliminated from the final four without a lip sync.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["envy-peru", "janey-jacke", "mama-queen", "miss-abby-omg"],
+    "seasonIds": ["NL-S01"],
+    "episodeIds": ["NL-S01-E08"]
+  },
+  {
+    "id": "nl-s01-roem-porkchop",
+    "title": "Roem: Holland's first Porkchop",
+    "summary": "Roem was the first contestant eliminated on Drag Race Holland (NL-S01-E01), losing the lip sync to \"Express Yourself\" against Megan Schoonbrood.",
+    "tags": ["porkchop"],
+    "queenIds": ["roem", "megan-schoonbrood"],
+    "seasonIds": ["NL-S01"],
+    "episodeIds": ["NL-S01-E01"]
+  },
+  {
+    "id": "nl-s01-maxima-double-shantay",
+    "title": "A double shantay in the Máxima Rusical",
+    "summary": "In NL-S01-E07, bottom two Ma'Ma Queen and Miss Abby OMG both won their lip sync to \"Stronger\" by Kelly Clarkson, and both were declared safe with no elimination.",
+    "tags": ["double-shantay", "lip-sync"],
+    "queenIds": ["mama-queen", "miss-abby-omg"],
+    "seasonIds": ["NL-S01"],
+    "episodeIds": ["NL-S01-E07"]
+  }
+]

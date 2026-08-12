@@ -1,0 +1,59 @@
+{
+  "id": "sharonne",
+  "name": "Sharonne",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S02-E02",
+          "name": "Talent show"
+        },
+        {
+          "episodeId": "ES-S02-E05",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "ES-S02-E07",
+          "name": "Create Spain tourism ads in pairs",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "year supply of penis-shaped treats from Dick Waffle",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S02-E02",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "set of Addicted products",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "ES-S02-E08",
+          "name": "Everybody Loves Puppets",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Two Tickets to a Malú concert as part of her Mil Batallas Tour",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S02-E11",
+          "song": "Ni tú ni nadie"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

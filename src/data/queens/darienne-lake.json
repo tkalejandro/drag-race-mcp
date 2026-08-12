@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S06-E03",
-          "name": "Star in horror film trailers for Drag Race Me to Hell"
+          "name": "Star in horror film trailers for Drag Race Me to Hell",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "5-night stay at Island House Key West Resort",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -38,6 +44,18 @@
         }
       ],
       "eliminatedEpisodeId": "US-S06-E12"
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S08-E04"
     }
+  ],
+  "aliases": [
+    "Miss Darienne Lake"
   ]
 }

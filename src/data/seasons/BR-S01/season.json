@@ -1,0 +1,70 @@
+{
+  "id": "BR-S01",
+  "franchise": "BR",
+  "name": "Drag Race Brasil Season 1",
+  "seasonNumber": 1,
+  "year": 2023,
+  "episodeCount": 12,
+  "episodeIds": [
+    "BR-S01-E01",
+    "BR-S01-E02",
+    "BR-S01-E03",
+    "BR-S01-E04",
+    "BR-S01-E05",
+    "BR-S01-E06",
+    "BR-S01-E07",
+    "BR-S01-E08",
+    "BR-S01-E09",
+    "BR-S01-E10",
+    "BR-S01-E11",
+    "BR-S01-E12"
+  ],
+  "castIds": [
+    "organzza",
+    "betina-polaroid",
+    "hellena-malditta",
+    "miranda-lebrao",
+    "shannon-skarllet",
+    "naza",
+    "dallas-de-vil",
+    "rubi-ocean",
+    "aquarela",
+    "melusine-sparkle",
+    "tristan-soledade",
+    "diva-more"
+  ],
+  "winnerIds": [
+    "organzza"
+  ],
+  "runnerUpIds": [
+    "betina-polaroid",
+    "hellena-malditta",
+    "miranda-lebrao"
+  ],
+  "missCongenialityId": "aquarela",
+  "porkchopIds": [
+    "diva-more"
+  ],
+  "hosts": [
+    {
+      "name": "Grag Queen"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Grag Queen"
+    },
+    {
+      "name": "Bruna Braga"
+    },
+    {
+      "name": "Dudu Bertholini"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "BRL",
+    "context": "No cash prize"
+  }
+}

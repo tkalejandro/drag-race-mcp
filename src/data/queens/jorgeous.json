@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S14-E06",
-          "name": "Create an outfit from junk Michelle Visage bought online"
+          "name": "Create an outfit from junk Michelle Visage bought online",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -33,6 +38,97 @@
         }
       ],
       "eliminatedEpisodeId": "US-S14-E13"
+    },
+    {
+      "seasonId": "AS-S09",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S09-E01",
+          "name": "Write and perform original verses on RuPaul's \"Drag Queens Save the World\""
+        },
+        {
+          "episodeId": "AS-S09-E09",
+          "name": "Rosemarie's Baby Shower: The Rusical"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S09-E06",
+          "name": "Straw Poll",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 charity donation and a badge"
+          }
+        },
+        {
+          "episodeId": "AS-S09-E11",
+          "name": "Give a crew member a drag makeover"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S09-E09",
+          "song": "Love Come Home (Subgroovers Music Video Edit)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S09-E01",
+          "song": "Million Dollar Bill (Freemasons Radio Mix)"
+        },
+        {
+          "episodeId": "AS-S09-E10",
+          "song": "My Lovin' (You're Never Gonna Get It) / When I Grow Up / You Spin Me Round (Like a Record) / Holding Out for a Hero / I'm Every Woman / Groove Is in the Heart / Break Free"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S09-E12"
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E05",
+          "name": "Write and perform verses roasting each other in the Rappin' Roast"
+        },
+        {
+          "episodeId": "AS-S10-E06",
+          "name": "Perform in Starrbooty: The ReBooty, a rusical follow-up to RuPaul Is: Starbooty!"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S10-E05",
+          "song": "Hot to Go!",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S10-E06",
+          "song": "Texas Hold 'Em",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S10-E12",
+          "song": "Disease / Joyride / Party Lights / Show Me How You Burlesque / Raise Your Glass / Whenever, Wherever / It's Raining Men"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

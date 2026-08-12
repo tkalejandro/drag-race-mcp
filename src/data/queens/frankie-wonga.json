@@ -1,0 +1,67 @@
+{
+  "id": "frankie-wonga",
+  "name": "Frankie Wonga",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S03-E01",
+          "name": "Perform a talent in the Talent Show Phenomenon",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿50,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "TH-S03-E07",
+          "name": "Improvise in the game show \"Dubble Trubble\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿50,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "TH-S03-E09",
+          "name": "Write and record an episode for your own talk show",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿50,000 cash tip courtesy of Anastasia Beverly Hills Cosmetics",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S03-E03",
+          "name": "Perform a rap dressed as grandmas",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "TH-S03-E09",
+          "name": "Twerk on the most lemons while blindfolded",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E10",
+          "song": "ประวัติศาสตร์ (History)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

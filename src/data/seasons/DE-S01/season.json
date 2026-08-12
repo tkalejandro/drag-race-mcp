@@ -1,0 +1,71 @@
+{
+  "id": "DE-S01",
+  "franchise": "DE",
+  "name": "Drag Race Germany Season 1",
+  "seasonNumber": 1,
+  "year": 2023,
+  "episodeCount": 12,
+  "episodeIds": [
+    "DE-S01-E01",
+    "DE-S01-E02",
+    "DE-S01-E03",
+    "DE-S01-E04",
+    "DE-S01-E05",
+    "DE-S01-E06",
+    "DE-S01-E07",
+    "DE-S01-E08",
+    "DE-S01-E09",
+    "DE-S01-E10",
+    "DE-S01-E11",
+    "DE-S01-E12"
+  ],
+  "castIds": [
+    "pandora-nox",
+    "metamorkid",
+    "yvonne-nightstand",
+    "kelly-heelton",
+    "loreley-rivers",
+    "victoria-shakespears",
+    "nikita-vegaz",
+    "tessa-testicle",
+    "lele-cocoon",
+    "the-only-naomy",
+    "barbie-q"
+  ],
+  "winnerIds": [
+    "pandora-nox"
+  ],
+  "runnerUpIds": [
+    "metamorkid",
+    "yvonne-nightstand"
+  ],
+  "missCongenialityId": "victoria-shakespears",
+  "porkchopIds": [
+    "barbie-q"
+  ],
+  "hosts": [
+    {
+      "name": "Barbie Breakout"
+    },
+    {
+      "name": "Gianni Jovanovic"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Barbie Breakout"
+    },
+    {
+      "name": "Gianni Jovanovic"
+    },
+    {
+      "name": "Dianne Brill"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "EUR",
+    "context": "€100,000 season grand prize"
+  }
+}

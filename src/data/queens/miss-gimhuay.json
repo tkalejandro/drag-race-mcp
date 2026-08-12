@@ -1,0 +1,21 @@
+{
+  "id": "miss-gimhuay",
+  "name": "Miss Gimhuay",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S02-E04",
+          "name": "In pairs, make each other over while blindfolded"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "TH-S02-E06",
+      "disqualified": true
+    }
+  ]
+}

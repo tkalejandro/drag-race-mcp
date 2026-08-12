@@ -1,0 +1,69 @@
+{
+  "id": "envy-peru",
+  "name": "Envy Peru",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S01-E02",
+          "name": "Record a group workout video",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "prize package of hair products and styling tools by John Beerens, worth €1,000",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "NL-S01-E04",
+          "name": "In groups, perform a vogue choreographed song",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "voucher worth €1,000, courtesy of Mister B",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "NL-S01-E05",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "voucher worth €1,000, for SofaCompany",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "NL-S01-E06",
+          "name": "Makeover a family member or friend",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "voucher for tooth whitening therapy for two",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S01-E02",
+          "name": "Design a pair of clogs and model them"
+        },
+        {
+          "episodeId": "NL-S01-E07",
+          "name": "Everybody Loves Puppets"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S01-E08",
+          "song": "Born This Way"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

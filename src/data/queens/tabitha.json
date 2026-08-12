@@ -1,0 +1,26 @@
+{
+  "id": "tabitha",
+  "name": "Tabitha",
+  "appearances": [
+    {
+      "seasonId": "NL-S02",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S02-E05",
+          "song": "Call Me Mother"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S02-E06",
+          "song": "Lekker met de meiden"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S02-E06",
+      "missCongeniality": true
+    }
+  ]
+}

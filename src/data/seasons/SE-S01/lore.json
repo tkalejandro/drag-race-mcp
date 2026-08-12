@@ -1,0 +1,29 @@
+[
+  {
+    "id": "se-s01-admira-crown",
+    "title": "Admira Thunderpussy wins Drag Race Sverige Season 1",
+    "summary": "In the Grande Finale (SE-S01-E08), the judges crowned Admira Thunderpussy the winner of Drag Race Sverige's first season directly after the final challenge, with no lip sync for the crown. Fontana finished as runner-up and Vanity Vain placed third.",
+    "tags": ["crown", "finale", "international"],
+    "queenIds": ["admira-thunderpussy", "fontana", "vanity-vain"],
+    "seasonIds": ["SE-S01"],
+    "episodeIds": ["SE-S01-E08"]
+  },
+  {
+    "id": "se-s01-almighty-porkchop",
+    "title": "Almighty Aphroditey: Sweden's first Porkchop",
+    "summary": "Almighty Aphroditey was the first contestant eliminated on Drag Race Sverige (SE-S01-E01), losing a lip sync to Daniela Rathana's \"Puss & Kram\" against Endigo.",
+    "tags": ["porkchop", "international"],
+    "queenIds": ["almighty-aphroditey", "endigo"],
+    "seasonIds": ["SE-S01"],
+    "episodeIds": ["SE-S01-E01"]
+  },
+  {
+    "id": "se-s01-antonina-reentry",
+    "title": "Antonina Nutshell's Reading twist return",
+    "summary": "Antonina Nutshell was eliminated in SE-S01-E02, but in SE-S01-E04 Robert Fux brought back the previously eliminated queens to compete in a Reading is Fundamental mini-challenge for a chance to re-enter. Antonina won the mini-challenge, returned to the competition, and then won that episode's lip sync against Imaa Queen before being eliminated for good in SE-S01-E06.",
+    "tags": ["return", "twist", "reading", "international"],
+    "queenIds": ["antonina-nutshell", "imaa-queen", "elecktra"],
+    "seasonIds": ["SE-S01"],
+    "episodeIds": ["SE-S01-E02", "SE-S01-E04", "SE-S01-E06"]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "endigo",
+  "name": "Endigo",
+  "appearances": [
+    {
+      "seasonId": "SE-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "SE-S01-E03",
+          "name": "Swedish drag quiz"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "SE-S01-E01",
+          "song": "Puss & Kram"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "SE-S01-E03",
+          "song": "Sexual Revolution"
+        }
+      ],
+      "eliminatedEpisodeId": "SE-S01-E03"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chelseaboy",
+  "name": "ChelseaBoy",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S01-E02",
+          "name": "Design a pair of clogs and model them"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S01-E06",
+          "song": "9 to 5"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S01-E06"
+    }
+  ]
+}

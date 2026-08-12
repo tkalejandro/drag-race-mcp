@@ -1,0 +1,20 @@
+{
+  "id": "m-stranger-fox",
+  "name": "M Stranger Fox",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 14,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E01",
+          "song": "Born Naked"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S02-E01"
+    }
+  ]
+}

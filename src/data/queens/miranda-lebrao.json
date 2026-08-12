@@ -1,0 +1,67 @@
+{
+  "id": "miranda-lebrao",
+  "name": "Miranda Lebrão",
+  "appearances": [
+    {
+      "seasonId": "BR-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S01-E07",
+          "name": "Present two looks on the runway: Black and White"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BR-S01-E06",
+          "name": "Grávida de Taubaté inspired photoshoot",
+          "earnings": {
+            "amount": 5000,
+            "currency": "BRL",
+            "context": "R$5,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "BR-S01-E07",
+          "name": "Impersonate each other with puppets",
+          "earnings": {
+            "amount": 5000,
+            "currency": "BRL",
+            "context": "R$5,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S01-E10",
+          "song": "Gueto"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S01-E12",
+          "song": "Envolver"
+        }
+      ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E04",
+          "name": "Guess the total population of your country"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E04",
+          "song": "Spice Up Your Life"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E04"
+    }
+  ]
+}

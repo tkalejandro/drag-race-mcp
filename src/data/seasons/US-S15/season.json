@@ -41,17 +41,39 @@
     "princess-poppy",
     "irene-dubois"
   ],
-  "winnerId": "sasha-colby",
-  "runnerUpIds": ["anetra"],
+  "winnerIds": [
+    "sasha-colby"
+  ],
+  "runnerUpIds": [
+    "anetra"
+  ],
   "missCongenialityId": "malaysia-babydoll-foxx",
-  "porkchopId": "irene-dubois",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "irene-dubois"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 200000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 200000,
+    "currency": "USD",
+    "context": "$200,000 season grand prize"
+  }
 }

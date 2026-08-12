@@ -1,0 +1,83 @@
+{
+  "id": "janey-jacke",
+  "name": "Janey Jacké",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S01-E01",
+          "name": "Present a look based on your favorite queen",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "prize package from Make-up Studio, worth €1,000",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "NL-S01-E07",
+          "name": "Máxima, The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "voucher worth €1,000, courtesy of Nikkie",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S01-E05",
+          "name": "Naked photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "photoshoot by Rob Jacobs"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S01-E06",
+          "song": "9 to 5"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S01-E08",
+          "song": "Born This Way"
+        }
+      ]
+    },
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E02",
+          "name": "The RuPaul Ball"
+        },
+        {
+          "episodeId": "UKVTW-S01-E03",
+          "name": "West End Wendys — The Rusical"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S01-E02",
+          "song": "Supermodel (You Better Work) (El Lay Toya Jam)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S01-E03",
+          "song": "We Like to Party! (The Vengabus)"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S01-E05"
+    }
+  ]
+}

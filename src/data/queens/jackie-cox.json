@@ -9,11 +9,22 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S12-E08",
-          "name": "In pairs, create a box of FabFitFun products for another duo, then gift it to them with shade"
+          "name": "In pairs, create a box of FabFitFun products for another duo, then gift it to them with shade",
+          "earnings": {
+            "amount": 1000,
+            "currency": "USD",
+            "context": "$1,000 cash tip and a 1 year subscription to FabFitFun"
+          }
         },
         {
           "episodeId": "US-S12-E09",
-          "name": "Audition for Kitty Girl 2020 sponsored by PrettyLitter"
+          "name": "Audition for Kitty Girl 2020 sponsored by PrettyLitter",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from Fierce Drag Jewels",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S12-E11",

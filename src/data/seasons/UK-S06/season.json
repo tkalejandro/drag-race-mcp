@@ -31,17 +31,39 @@
     "dita-garbo",
     "saki-yew"
   ],
-  "winnerId": "kyran-thrax",
-  "runnerUpIds": ["la-voix"],
+  "winnerIds": [
+    "kyran-thrax"
+  ],
+  "runnerUpIds": [
+    "la-voix"
+  ],
   "missCongenialityId": "charra-tea",
-  "porkchopId": "dita-garbo",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "dita-garbo"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Alan Carr" },
-    { "name": "Graham Norton" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Alan Carr"
+    },
+    {
+      "name": "Graham Norton"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 25000, "currency": "GBP" }
+  "cashPrice": {
+    "amount": 25000,
+    "currency": "GBP",
+    "context": "£25,000 season grand prize"
+  }
 }

@@ -1,0 +1,20 @@
+{
+  "id": "tanissa-yonce",
+  "name": "Tanissa Yoncè",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S02-E02",
+          "song": "Bagno a mezzanotte"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S02-E02"
+    }
+  ]
+}

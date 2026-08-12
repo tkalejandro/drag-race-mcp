@@ -1,0 +1,20 @@
+{
+  "id": "shani-lasanta",
+  "name": "Shani LaSanta",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S04-E01",
+          "song": "Las 12"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S04-E01"
+    }
+  ]
+}

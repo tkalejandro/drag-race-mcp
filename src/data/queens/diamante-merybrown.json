@@ -1,0 +1,36 @@
+{
+  "id": "diamante-merybrown",
+  "name": "Diamante Merybrown",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S02-E03",
+          "name": "Complete sayings",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "collection of Foreo products valued at €800",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S02-E05",
+          "song": "Arrasando"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E06",
+          "song": "Se nos rompió el amor"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S02-E06"
+    }
+  ]
+}

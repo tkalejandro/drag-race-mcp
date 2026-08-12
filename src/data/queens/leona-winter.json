@@ -1,0 +1,34 @@
+{
+  "id": "leona-winter",
+  "name": "Leona Winter",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S03-E04",
+          "name": "Céline Dion, Le Musidrag (The Rusical)",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€2,500 voucher from Maison Ernest plus €1,000 and a year's subscription from Deezer",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S03-E04",
+          "song": "Pour que tu m'aimes encore"
+        },
+        {
+          "episodeId": "FR-S03-E07",
+          "song": "En rouge et noir"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

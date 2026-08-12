@@ -1,0 +1,37 @@
+{
+  "id": "satin-greco",
+  "name": "Satín Greco",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S05-E05",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "ES-S05-E07",
+          "name": "Improvised real-estate challenge"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S05-E03",
+          "song": "Una estrella en mi jardín"
+        },
+        {
+          "episodeId": "ES-S05-E11",
+          "song": "Déjala correr"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S05-E01",
+          "song": "Corazón contento"
+        }
+      ]
+    }
+  ]
+}

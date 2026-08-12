@@ -1,0 +1,63 @@
+{
+  "id": "nane-sphera",
+  "name": "Nane Sphera",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S03-E02",
+          "name": "The Pageant Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿50,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S03-E02",
+          "name": "Ree Ree Khaosan",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "TH-S03-E04",
+          "name": "Glamakorn Photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "TH-S03-E07",
+          "name": "Perform multiple wig reveals",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E07",
+          "song": "Music Lover"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E08",
+          "song": "Call Me Mother"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S03-E08"
+    }
+  ]
+}

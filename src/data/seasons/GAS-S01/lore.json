@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gas-s01-alyssa-crown",
+    "title": "Alyssa Edwards wins Global All Stars",
+    "summary": "In the Grand Finale (GAS-S01-E12), Alyssa Edwards, Kitty Scott-Claus, Kween Kong, and Nehellenia lip-synced to Lady Gaga's \"Bad Romance\". Alyssa Edwards was crowned Queen of the Mothertucking World, won $200,000, and earned a spot in the International Pavilion of the Drag Race Hall of Fame.",
+    "tags": ["crown", "finale", "lip-sync", "iconic", "international", "all-stars"],
+    "queenIds": [
+      "alyssa-edwards",
+      "kitty-scott-claus",
+      "kween-kong",
+      "nehellenia"
+    ],
+    "seasonIds": ["GAS-S01"],
+    "episodeIds": ["GAS-S01-E12"]
+  },
+  {
+    "id": "gas-s01-athena-porkchop",
+    "title": "Athena Likis: Global All Stars Porkchop",
+    "summary": "Athena Likis (competed on Belgique as Athena Sorgelikis) was the first contestant eliminated on Global All Stars (GAS-S01-E03), lip-syncing to Olivia Rodrigo's \"Bad Idea Right?\" against Soa de Muse after the International Queen of Mystery Ball.",
+    "tags": ["porkchop", "international"],
+    "queenIds": ["athena-sorgelikis", "soa-de-muse"],
+    "seasonIds": ["GAS-S01", "BE-S01"],
+    "episodeIds": ["GAS-S01-E03"]
+  },
+  {
+    "id": "gas-s01-global-lip-sync-assassin",
+    "title": "Soa de Muse crowned Global Lip Sync Assassin",
+    "summary": "In GAS-S01-E11, the eliminated queens competed in the Global Lip-Sync LaLaPaRuZa Smackdown. After multiple rounds, Soa de Muse defeated Gala Varo in the final lip sync to RuPaul's \"The Beginning\", winning $50,000 and the title of Global Lip Sync Assassin. Full bracket: Eva over Vanity, Soa over Tessa, Athena over Pythia, Gala over Miranda; then Gala over Eva and Soa over Athena; then Soa over Gala.",
+    "tags": ["lip-sync", "iconic", "all-stars", "twist"],
+    "queenIds": ["soa-de-muse", "gala-varo"],
+    "seasonIds": ["GAS-S01"],
+    "episodeIds": ["GAS-S01-E11"]
+  },
+  {
+    "id": "gas-s01-miss-global-peacemaker",
+    "title": "Soa de Muse voted Miss Global Peacemaker",
+    "summary": "At the Grand Finale (GAS-S01-E12), Soa de Muse was voted Miss Global Peacemaker by her fellow contestants — Global All Stars' Miss Congeniality equivalent.",
+    "tags": ["finale", "iconic"],
+    "queenIds": ["soa-de-muse"],
+    "seasonIds": ["GAS-S01"],
+    "episodeIds": ["GAS-S01-E12"]
+  },
+  {
+    "id": "gas-s01-one-per-country",
+    "title": "One queen per country format",
+    "summary": "Global All Stars Season 1 cast 12 queens representing 12 different Drag Race franchises/countries — distinct from vs The World seasons that often cast multiple queens from the same franchise. The season opened with a split-premiere talent extravaganza (GAS-S01-E01 and GAS-S01-E02).",
+    "tags": ["production", "international", "twist", "all-stars"],
+    "queenIds": [],
+    "seasonIds": ["GAS-S01"],
+    "episodeIds": ["GAS-S01-E01", "GAS-S01-E02"]
+  }
+]

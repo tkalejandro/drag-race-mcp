@@ -41,6 +41,20 @@
       ],
       "eliminatedEpisodeId": "US-S09-E06",
       "reentered": true
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E10",
+          "song": "Who's Zoomin' Who (Acappella Mix)"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E10"
     }
   ]
 }

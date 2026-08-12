@@ -8,13 +8,25 @@
       "challengeWins": [
         {
           "episodeId": "US-S09-E06",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2000 package from Sparkles Rhinestones",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S09-E05",
-          "name": "Shoot a sexy selfie with the pit crew"
+          "name": "Shoot a sexy selfie with the pit crew",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1000 gift card from fiercequeen.com",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -30,6 +42,35 @@
         }
       ],
       "eliminatedEpisodeId": "US-S09-E11"
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E08",
+          "name": "Transform materials into a signature \"I'm a Winner, Baby!\" look",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S08-E08",
+          "song": "These Boots Are Made for Walkin'",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S08-E09"
     }
   ]
 }

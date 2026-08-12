@@ -8,19 +8,39 @@
       "challengeWins": [
         {
           "episodeId": "US-S15-E03",
-          "name": "Film a queer afterlife infomercial"
+          "name": "Film a queer afterlife infomercial",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S15-E09",
-          "name": "The Crystal Ball"
+          "name": "The Crystal Ball",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S15-E10",
-          "name": "Interview celebrities for 50/50's Most Gagworthy Stars"
+          "name": "Interview celebrities for 50/50's Most Gagworthy Stars",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S15-E14",
-          "name": "Write, record, and perform verses to Blame It on the Edit"
+          "name": "Write, record, and perform verses to Blame It on the Edit",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

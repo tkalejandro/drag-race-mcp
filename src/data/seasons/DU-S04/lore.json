@@ -1,0 +1,66 @@
+[
+  {
+    "id": "du-s04-lazy-susan-crown",
+    "title": "Lazy Susan wins Down Under Season 4",
+    "summary": "In the Grand Finale (DU-S04-E08), Freya Armani was eliminated after the final challenge, leaving Lazy Susan, Mandy Moobs, and Vybe to lip-sync to Sigala and Ella Eyre's \"Came Here for Love\". Lazy Susan was crowned the winner.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "iconic"
+    ],
+    "queenIds": [
+      "lazy-susan",
+      "mandy-moobs",
+      "vybe",
+      "freya-armani"
+    ],
+    "seasonIds": [
+      "DU-S04"
+    ],
+    "episodeIds": [
+      "DU-S04-E08"
+    ]
+  },
+  {
+    "id": "du-s04-olivia-porkchop",
+    "title": "Olivia Dreams: Season 4 Porkchop",
+    "summary": "Olivia Dreams was the first contestant eliminated on Down Under Season 4 (DU-S04-E02), after a double shantay spared Karna Ford and Lucina Innocence in episode 1. She lip-synced to Zoë Badwi's \"Freefallin\" against Lucina Innocence.",
+    "tags": [
+      "porkchop",
+      "double-shantay"
+    ],
+    "queenIds": [
+      "olivia-dreams",
+      "lucina-innocence"
+    ],
+    "seasonIds": [
+      "DU-S04"
+    ],
+    "episodeIds": [
+      "DU-S04-E01",
+      "DU-S04-E02"
+    ]
+  },
+  {
+    "id": "du-s04-michelle-host",
+    "title": "Michelle Visage takes over as host",
+    "summary": "Season 4 was the first Down Under season without RuPaul as host. Michelle Visage hosted, Rhys Nicholson remained a permanent judge, and prior winners Kita Mean, Spankie Jackzon, and Isis Avis Loren rotated as judges. The series was renamed Drag Race Down Under.",
+    "tags": [
+      "production",
+      "judges",
+      "twist"
+    ],
+    "queenIds": [
+      "kita-mean",
+      "spankie-jackzon",
+      "isis-avis-loren"
+    ],
+    "seasonIds": [
+      "DU-S04"
+    ],
+    "episodeIds": [
+      "DU-S04-E01"
+    ]
+  }
+]

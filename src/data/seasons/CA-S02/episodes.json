@@ -6,21 +6,54 @@
     "title": "Lost and Fierce",
     "miniChallenge": {
       "name": "Photoshoot while jumping off a platform",
-      "winnerIds": ["suki-doll"]
+      "winnerIds": [
+        "suki-doll"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "shoe collection from House of Hayla and a $2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Create a look made from coat check items",
-      "winnerIds": ["icesis-couture"]
+      "winnerIds": [
+        "icesis-couture"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "home entertainment package valued at $5,000 from The Source",
+        "isSponsor": true
+      }
     },
-    "topIds": ["icesis-couture", "stephanie-prince", "suki-doll"],
-    "bottomIds": ["beth", "gia-metric"],
+    "topIds": [
+      "icesis-couture",
+      "stephanie-prince",
+      "suki-doll"
+    ],
+    "bottomIds": [
+      "beth",
+      "gia-metric"
+    ],
     "lipSync": {
       "song": "Maneater",
-      "queenIds": ["beth", "gia-metric"],
-      "winnerIds": ["gia-metric"],
-      "eliminatedIds": ["beth"]
+      "queenIds": [
+        "beth",
+        "gia-metric"
+      ],
+      "winnerIds": [
+        "gia-metric"
+      ],
+      "eliminatedIds": [
+        "beth"
+      ]
     },
-    "guestJudges": [{ "name": "Caitlin Cronenberg" }]
+    "guestJudges": [
+      {
+        "name": "Caitlin Cronenberg"
+      }
+    ]
   },
   {
     "id": "CA-S02-E02",
@@ -29,22 +62,55 @@
     "title": "Under the Big Top",
     "miniChallenge": {
       "name": "Queen of My Neighborhood Pageant",
-      "winnerIds": ["oceane-aqua-black"]
+      "winnerIds": [
+        "oceane-aqua-black"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "CAD",
+        "context": "$1,000 gift card to DoorDash and a $5,000 cash tip to donate to a charity of their choice"
+      }
     },
     "maxiChallenge": {
       "name": "Perform in Under the Big Top, Live",
-      "winnerIds": ["pythia"]
+      "winnerIds": [
+        "pythia"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 gift certificate from Peoples Jewellers",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Circus Bezerkus",
-    "topIds": ["gia-metric", "kendall-gender", "pythia"],
-    "bottomIds": ["icesis-couture", "oceane-aqua-black"],
+    "topIds": [
+      "gia-metric",
+      "kendall-gender",
+      "pythia"
+    ],
+    "bottomIds": [
+      "icesis-couture",
+      "oceane-aqua-black"
+    ],
     "lipSync": {
       "song": "Stupid Shit",
-      "queenIds": ["icesis-couture", "oceane-aqua-black"],
-      "winnerIds": ["icesis-couture"],
-      "eliminatedIds": ["oceane-aqua-black"]
+      "queenIds": [
+        "icesis-couture",
+        "oceane-aqua-black"
+      ],
+      "winnerIds": [
+        "icesis-couture"
+      ],
+      "eliminatedIds": [
+        "oceane-aqua-black"
+      ]
     },
-    "guestJudges": [{ "name": "Hollywood Jade" }]
+    "guestJudges": [
+      {
+        "name": "Hollywood Jade"
+      }
+    ]
   },
   {
     "id": "CA-S02-E03",
@@ -53,18 +119,44 @@
     "title": "Screech",
     "maxiChallenge": {
       "name": "Overact in the slasher film parody Screech",
-      "winnerIds": ["adriana"]
+      "winnerIds": [
+        "adriana"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 gift certificate courtesy of Fabricland",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Good Girl Gone Bad",
-    "topIds": ["adriana", "eve-6000", "gia-metric"],
-    "bottomIds": ["stephanie-prince", "synthia-kiss"],
+    "topIds": [
+      "adriana",
+      "eve-6000",
+      "gia-metric"
+    ],
+    "bottomIds": [
+      "stephanie-prince",
+      "synthia-kiss"
+    ],
     "lipSync": {
       "song": "Ghost",
-      "queenIds": ["stephanie-prince", "synthia-kiss"],
-      "winnerIds": ["synthia-kiss"],
-      "eliminatedIds": ["stephanie-prince"]
+      "queenIds": [
+        "stephanie-prince",
+        "synthia-kiss"
+      ],
+      "winnerIds": [
+        "synthia-kiss"
+      ],
+      "eliminatedIds": [
+        "stephanie-prince"
+      ]
     },
-    "guestJudges": [{ "name": "Fefe Dobson" }]
+    "guestJudges": [
+      {
+        "name": "Fefe Dobson"
+      }
+    ]
   },
   {
     "id": "CA-S02-E04",
@@ -73,22 +165,56 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["icesis-couture"]
+      "winnerIds": [
+        "icesis-couture"
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "CAD",
+        "context": "$2,000 cash tip courtesy of Tan on the Run",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["synthia-kiss"]
+      "winnerIds": [
+        "synthia-kiss"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Made / Nous",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Made in Canada",
-    "topIds": ["kimora-amour", "pythia", "synthia-kiss"],
-    "bottomIds": ["eve-6000", "suki-doll"],
+    "topIds": [
+      "kimora-amour",
+      "pythia",
+      "synthia-kiss"
+    ],
+    "bottomIds": [
+      "eve-6000",
+      "suki-doll"
+    ],
     "lipSync": {
       "song": "Happiness",
-      "queenIds": ["eve-6000", "suki-doll"],
-      "winnerIds": ["eve-6000"],
-      "eliminatedIds": ["suki-doll"]
+      "queenIds": [
+        "eve-6000",
+        "suki-doll"
+      ],
+      "winnerIds": [
+        "eve-6000"
+      ],
+      "eliminatedIds": [
+        "suki-doll"
+      ]
     },
-    "guestJudges": [{ "name": "Connor Jessup" }]
+    "guestJudges": [
+      {
+        "name": "Connor Jessup"
+      }
+    ]
   },
   {
     "id": "CA-S02-E05",
@@ -97,22 +223,57 @@
     "title": "Bye Flop",
     "miniChallenge": {
       "name": "In pairs, give a lesson on safe sex",
-      "winnerIds": ["gia-metric", "synthia-kiss"]
+      "winnerIds": [
+        "gia-metric",
+        "synthia-kiss"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "CAD",
+        "context": "$1,000 cash tip and $500 worth of products from Trojan"
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Bye Flop",
-      "winnerIds": ["gia-metric"]
+      "winnerIds": [
+        "gia-metric"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of JJ Malibu",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Monochromatica: Drag Pop Princess",
-    "topIds": ["adriana", "gia-metric", "icesis-couture", "pythia"],
-    "bottomIds": ["eve-6000", "synthia-kiss"],
+    "topIds": [
+      "adriana",
+      "gia-metric",
+      "icesis-couture",
+      "pythia"
+    ],
+    "bottomIds": [
+      "eve-6000",
+      "synthia-kiss"
+    ],
     "lipSync": {
       "song": "I Love Myself Today",
-      "queenIds": ["eve-6000", "synthia-kiss"],
-      "winnerIds": ["synthia-kiss"],
-      "eliminatedIds": ["eve-6000"]
+      "queenIds": [
+        "eve-6000",
+        "synthia-kiss"
+      ],
+      "winnerIds": [
+        "synthia-kiss"
+      ],
+      "eliminatedIds": [
+        "eve-6000"
+      ]
     },
-    "guestJudges": [{ "name": "Bif Naked" }]
+    "guestJudges": [
+      {
+        "name": "Bif Naked"
+      }
+    ]
   },
   {
     "id": "CA-S02-E06",
@@ -121,22 +282,57 @@
     "title": "The Sinner's Ball",
     "miniChallenge": {
       "name": "Get into quick drag and paint an evocative twerk of art resembling their inner saboteur",
-      "winnerIds": ["icesis-couture"]
+      "winnerIds": [
+        "icesis-couture"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,000 gift card courtesy of Indochino",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "The Sinner's Ball",
-      "winnerIds": ["icesis-couture"]
+      "winnerIds": [
+        "icesis-couture"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "CAD",
+        "context": "$5,000 cash tip courtesy of Palm Holdings",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sex, Drugs and Rock 'n' Roll / Ugly as Sin / Seven Deadly Sins",
-    "topIds": ["gia-metric", "icesis-couture", "kimora-amour", "pythia"],
-    "bottomIds": ["kendall-gender", "synthia-kiss"],
+    "topIds": [
+      "gia-metric",
+      "icesis-couture",
+      "kimora-amour",
+      "pythia"
+    ],
+    "bottomIds": [
+      "kendall-gender",
+      "synthia-kiss"
+    ],
     "lipSync": {
       "song": "Heaven",
-      "queenIds": ["kendall-gender", "synthia-kiss"],
-      "winnerIds": ["kendall-gender"],
-      "eliminatedIds": ["synthia-kiss"]
+      "queenIds": [
+        "kendall-gender",
+        "synthia-kiss"
+      ],
+      "winnerIds": [
+        "kendall-gender"
+      ],
+      "eliminatedIds": [
+        "synthia-kiss"
+      ]
     },
-    "guestJudges": [{ "name": "Gigi Gorgeous" }]
+    "guestJudges": [
+      {
+        "name": "Gigi Gorgeous"
+      }
+    ]
   },
   {
     "id": "CA-S02-E07",
@@ -145,22 +341,55 @@
     "title": "The Roast of Brooke Lynn Hytes",
     "miniChallenge": {
       "name": "Sound off on the highs and lows of this season's fashion on Brad Goreski's Fashion Puh-Leeze",
-      "winnerIds": ["kendall-gender"]
+      "winnerIds": [
+        "kendall-gender"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of The Men's Room",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a roast of Brooke Lynn Hytes",
-      "winnerIds": ["kendall-gender"]
+      "winnerIds": [
+        "kendall-gender"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 gift certificate and a $5,000 cash tip courtesy of Vitaly",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Dungeons and Drag Queens",
-    "topIds": ["icesis-couture", "kendall-gender"],
-    "bottomIds": ["gia-metric", "kimora-amour"],
+    "topIds": [
+      "icesis-couture",
+      "kendall-gender"
+    ],
+    "bottomIds": [
+      "gia-metric",
+      "kimora-amour"
+    ],
     "lipSync": {
       "song": "Get Down",
-      "queenIds": ["gia-metric", "kimora-amour"],
-      "winnerIds": ["gia-metric"],
-      "eliminatedIds": ["kimora-amour"]
+      "queenIds": [
+        "gia-metric",
+        "kimora-amour"
+      ],
+      "winnerIds": [
+        "gia-metric"
+      ],
+      "eliminatedIds": [
+        "kimora-amour"
+      ]
     },
-    "guestJudges": [{ "name": "Emma Hunter" }]
+    "guestJudges": [
+      {
+        "name": "Emma Hunter"
+      }
+    ]
   },
   {
     "id": "CA-S02-E08",
@@ -169,31 +398,69 @@
     "title": "Prom",
     "maxiChallenge": {
       "name": "Makeover LGBTQ+ teenagers",
-      "winnerIds": ["pythia"]
+      "winnerIds": [
+        "pythia"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,500 beauty gift card and $5,000 donated to It Gets Better Canada courtesy of Shoppers Drug Mart",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Cool Mom and Prom Queen",
-    "topIds": ["gia-metric", "pythia"],
-    "bottomIds": ["adriana", "icesis-couture"],
+    "topIds": [
+      "gia-metric",
+      "pythia"
+    ],
+    "bottomIds": [
+      "adriana",
+      "icesis-couture"
+    ],
     "lipSync": {
       "song": "Everybody Say Love",
-      "queenIds": ["adriana", "icesis-couture"],
-      "winnerIds": ["icesis-couture"],
-      "eliminatedIds": ["adriana"]
+      "queenIds": [
+        "adriana",
+        "icesis-couture"
+      ],
+      "winnerIds": [
+        "icesis-couture"
+      ],
+      "eliminatedIds": [
+        "adriana"
+      ]
     },
-    "guestJudges": [{ "name": "Mitsou" }]
+    "guestJudges": [
+      {
+        "name": "Mitsou"
+      }
+    ]
   },
   {
     "id": "CA-S02-E09",
     "seasonId": "CA-S02",
     "episodeNumber": 9,
     "title": "The Reunion",
-    "topIds": ["icesis-couture", "kendall-gender", "pythia"],
-    "bottomIds": ["gia-metric"],
+    "topIds": [
+      "icesis-couture",
+      "kendall-gender",
+      "pythia"
+    ],
+    "bottomIds": [
+      "gia-metric"
+    ],
     "lipSync": {
       "song": "Call Me Mother",
-      "queenIds": ["gia-metric", "pythia"],
-      "winnerIds": ["pythia"],
-      "eliminatedIds": ["gia-metric"]
+      "queenIds": [
+        "gia-metric",
+        "pythia"
+      ],
+      "winnerIds": [
+        "pythia"
+      ],
+      "eliminatedIds": [
+        "gia-metric"
+      ]
     }
   },
   {
@@ -206,11 +473,22 @@
       "winnerIds": []
     },
     "runwayTheme": "Coronation Eleganza",
-    "topIds": ["icesis-couture", "kendall-gender", "pythia"],
+    "topIds": [
+      "icesis-couture",
+      "kendall-gender",
+      "pythia"
+    ],
     "lipSync": {
       "song": "It's All Coming Back to Me Now",
-      "queenIds": ["icesis-couture", "kendall-gender", "pythia"],
-      "winnerIds": ["icesis-couture"]
+      "queenIds": [
+        "icesis-couture",
+        "kendall-gender",
+        "pythia"
+      ],
+      "winnerIds": [
+        "icesis-couture"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

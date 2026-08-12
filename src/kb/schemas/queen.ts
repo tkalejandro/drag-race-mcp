@@ -15,6 +15,7 @@ export const ChallengeWinSchema = z.object({
 export const LipSyncResultSchema = z.object({
   episodeId: EpisodeIdSchema,
   song: z.string().optional(),
+  earnings: MoneySchema.optional(),
 });
 
 export const QueenAppearanceSchema = z.object({

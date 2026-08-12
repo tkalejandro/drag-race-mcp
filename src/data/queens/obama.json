@@ -1,0 +1,25 @@
+{
+  "id": "obama",
+  "name": "Obama",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S02-E02",
+          "song": "Bagno a mezzanotte"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S02-E03",
+          "song": "Down Down Down"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S02-E03"
+    }
+  ]
+}

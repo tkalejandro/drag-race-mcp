@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S04-E04",
-          "name": "Star in two different sitcom episodes"
+          "name": "Star in two different sitcom episodes",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "cruise courtesy of Al & Chuck Travel",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S04-E08",
-          "name": "In pairs, live-sing a duet to So Much Better Than You"
+          "name": "In pairs, live-sing a duet to So Much Better Than You",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom corset, skirt, and brassiere from Versatile Corsets",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -58,6 +70,51 @@
       ],
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S01-E03"
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S04-E06",
+          "name": "Lip-sync LaLaPaRUza smackdown"
+        },
+        {
+          "episodeId": "AS-S04-E07",
+          "name": "In teams, create and host your own nightclub",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card to The Crème Shop and a $3,000 gift card to J.J. MALIBU",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S04-E01",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to l.a.Eyeworks",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S04-E06",
+          "song": "Peanut Butter / Kitty Girl / Adrenaline / Sissy That Walk"
+        },
+        {
+          "episodeId": "AS-S04-E07",
+          "song": "You Spin Me Round (Like a Record)"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S04-E09",
+      "reentered": true
     }
   ]
 }

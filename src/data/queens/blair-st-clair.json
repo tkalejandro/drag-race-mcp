@@ -20,6 +20,26 @@
         }
       ],
       "eliminatedEpisodeId": "US-S10-E06"
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 4,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S05-E01",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to Marek+Richard",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S05-E07"
     }
   ]
 }

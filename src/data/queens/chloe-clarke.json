@@ -1,0 +1,39 @@
+{
+  "id": "chloe-clarke",
+  "name": "Chloe Clarke",
+  "appearances": [
+    {
+      "seasonId": "BE-S02",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "BE-S02-E05",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S02-E01",
+          "song": "Rain on Me"
+        },
+        {
+          "episodeId": "BE-S02-E02",
+          "song": "Mad About You"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S02-E06",
+          "song": "Trustfall"
+        }
+      ],
+      "eliminatedEpisodeId": "BE-S02-E06"
+    }
+  ]
+}

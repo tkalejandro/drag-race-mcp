@@ -1,0 +1,31 @@
+{
+  "id": "yuri-guaii",
+  "name": "Yuri Guaii",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S02-E03",
+          "name": "In pairs, host a Down Under Drag Brunch",
+          "earnings": {
+            "amount": 5000,
+            "currency": "AUD",
+            "context": "$5,000 cash tip, courtesy of The Star, Sydney",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S02-E05",
+          "song": "Chains (S&M Remix)"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S02-E05"
+    }
+  ]
+}

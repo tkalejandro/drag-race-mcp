@@ -1,0 +1,74 @@
+{
+  "id": "lina-galore",
+  "name": "Lina Galore",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S03-E05",
+          "name": "In teams, present a drag masterclass about different subjects of drag",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "IT-S03-E08",
+          "name": "Perform a roast of Chiara Francini in front of the judges and a live audience",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "IT-S03-E10",
+          "name": "In pairs, sing live for the Drag Remo Festival",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S03-E08",
+          "name": "Sell yourself on a dating app for widows",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
+        },
+        {
+          "episodeId": "IT-S03-E10",
+          "name": "Deliver a news report",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S03-E07",
+          "song": "Up & Down (Don't Fall in Love with Me)"
+        },
+        {
+          "episodeId": "IT-S03-E09",
+          "song": "Mon amour"
+        },
+        {
+          "episodeId": "IT-S03-E12",
+          "song": "Furore"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

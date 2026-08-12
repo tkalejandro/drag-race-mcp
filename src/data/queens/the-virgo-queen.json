@@ -8,17 +8,35 @@
       "challengeWins": [
         {
           "episodeId": "CA-S05-E01",
-          "name": "Write, record, and perform verses to Go Off Queen"
+          "name": "Write, record, and perform verses to Go Off Queen",
+          "earnings": {
+            "amount": 5000,
+            "currency": "CAD",
+            "context": "$5,000 cash tip courtesy of Gilead Sciences Canada",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S05-E03",
-          "name": "In teams, participate in a lip-sync slay off extravaganza"
+          "name": "In teams, participate in a lip-sync slay off extravaganza",
+          "earnings": {
+            "amount": 5000,
+            "currency": "CAD",
+            "context": "$5,000 cash tip and a $5,000 donation to LGBT Youthline courtesy of Neutrogena",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S05-E08",
-          "name": "Reporting in front of a green screen"
+          "name": "Reporting in front of a green screen",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip courtesy of Swish Embassy",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

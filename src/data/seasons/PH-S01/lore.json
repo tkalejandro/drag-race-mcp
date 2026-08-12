@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ph-s01-precious-crown",
+    "title": "Precious Paula Nicole wins Drag Race Philippines Season 1",
+    "summary": "The Grand Finale (PH-S01-E10) featured a three-round Lip-Sync Smackdown for the Crown among the final four. Precious Paula Nicole beat Eva Le Queen to \"Sissy That Walk\", Marina Summers beat Xilhouete to \"Call Me Mother\", and Marina Summers and Precious Paula Nicole then lip-synced to \"Sirena\". Precious Paula Nicole was crowned the Philippines' first Drag Superstar and won ₱1,000,000; Marina Summers finished as runner-up.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["precious-paula-nicole", "marina-summers", "eva-le-queen", "xilhouete"],
+    "seasonIds": ["PH-S01"],
+    "episodeIds": ["PH-S01-E10"]
+  },
+  {
+    "id": "ph-s01-prince-porkchop",
+    "title": "Prince: Philippines' first Porkchop",
+    "summary": "Prince was the first contestant eliminated on Drag Race Philippines (PH-S01-E01), losing a lip sync to \"Tala\" against Lady Morgana.",
+    "tags": ["porkchop"],
+    "queenIds": ["prince", "lady-morgana"],
+    "seasonIds": ["PH-S01"],
+    "episodeIds": ["PH-S01-E01"]
+  },
+  {
+    "id": "ph-s01-double-premiere",
+    "title": "A double-episode premiere",
+    "summary": "Drag Race Philippines Season 1 launched with a double premiere: PH-S01-E01 (\"Mabu-Heeey!\") and PH-S01-E02 (\"Sagalamazon\") both released on August 17, 2022.",
+    "tags": ["production"],
+    "seasonIds": ["PH-S01"],
+    "episodeIds": ["PH-S01-E01", "PH-S01-E02"]
+  }
+]

@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S03-E06",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "cruise for 2 to the Bahamas courtesy of Al and Chuck Travel",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

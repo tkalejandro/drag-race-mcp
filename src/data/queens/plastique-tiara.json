@@ -8,13 +8,25 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E07",
-          "name": "Create an outfit made out of organic materials"
+          "name": "Create an outfit made out of organic materials",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "five night trip to Toronto courtesy of Tourism Toronto",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E06",
-          "name": "Galisthenics with Love Connie"
+          "name": "Galisthenics with Love Connie",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 gift card from MuLondon",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -30,6 +42,58 @@
         }
       ],
       "eliminatedEpisodeId": "US-S11-E09"
+    },
+    {
+      "seasonId": "AS-S09",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S09-E02",
+          "name": "The Paint Ball"
+        },
+        {
+          "episodeId": "AS-S09-E05",
+          "name": "In pairs, create campy real estate commercials"
+        },
+        {
+          "episodeId": "AS-S09-E06",
+          "name": "Deliver a drag political convention roast"
+        },
+        {
+          "episodeId": "AS-S09-E08",
+          "name": "Create a look inspired by a RuPaul song"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S09-E11",
+          "name": "Give a crew member a drag makeover"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S09-E02",
+          "song": "Jump in the Line (Shake, Senora)"
+        },
+        {
+          "episodeId": "AS-S09-E05",
+          "song": "Super Freaky Girl"
+        },
+        {
+          "episodeId": "AS-S09-E06",
+          "song": "Be My Lover"
+        },
+        {
+          "episodeId": "AS-S09-E08",
+          "song": "No One Gets the Prize"
+        },
+        {
+          "episodeId": "AS-S09-E10",
+          "song": "My Lovin' (You're Never Gonna Get It) / When I Grow Up / You Spin Me Round (Like a Record) / Holding Out for a Hero / I'm Every Woman / Groove Is in the Heart / Break Free"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S09-E12"
     }
   ]
 }

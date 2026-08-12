@@ -8,13 +8,24 @@
       "challengeWins": [
         {
           "episodeId": "US-S14-E08",
-          "name": "Write, record, and perform verses as 60s-inspired girl groups"
+          "name": "Write, record, and perform verses as 60s-inspired girl groups",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S14-E13",
-          "name": "In teams, paint a mural of Dolly Parton or RuPaul"
+          "name": "In teams, paint a mural of Dolly Parton or RuPaul",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 worth of Anastasia Beverly Hills cosmetics",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -34,6 +45,43 @@
         }
       ],
       "reentered": true
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E07",
+          "name": "In pairs, create good and wicked witch looks with an enchanting backstory"
+        },
+        {
+          "episodeId": "AS-S10-E09",
+          "name": "Improvise as dogs courting a Golden Retriever on a dating show with Zane Phillips"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S10-E09",
+          "song": "Mama Used to Say",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E07",
+          "song": "Defying Gravity"
+        },
+        {
+          "episodeId": "AS-S10-E12",
+          "song": "Disease / Joyride / Party Lights / Show Me How You Burlesque / Raise Your Glass / Whenever, Wherever / It's Raining Men"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E12"
     }
   ]
 }

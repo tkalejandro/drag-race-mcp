@@ -1,0 +1,85 @@
+{
+  "id": "vinas-deluxe",
+  "name": "Viñas DeLuxe",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S01-E02",
+          "name": "Create a look and arch inspired by the Flores de Mayo celebration and Sagala pageantry",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip and a custom couture gown from the House of Laurel"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E07",
+          "song": "Born Naked"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E07"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "PHSR-S01-E02",
+          "name": "Write, record, and perform verses to Asian Eyyy!"
+        },
+        {
+          "episodeId": "PHSR-S01-E03",
+          "name": "Create an outfit made out of fossilized cacao leaves"
+        },
+        {
+          "episodeId": "PHSR-S01-E06",
+          "name": "Impersonate celebrities in the Snatch Election for Drag President of the Slaysian Nation"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PHSR-S01-E02",
+          "song": "XL",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "cash tip of ₱80,000 courtesy of Cream Silk",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "PHSR-S01-E03",
+          "song": "Winna Winna",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "cash tip of ₱80,000 and a year's supply of products courtesy of Auro Chocolate",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "PHSR-S01-E08",
+          "song": "Race Car"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PHSR-S01-E06",
+          "song": "Out of My Head"
+        },
+        {
+          "episodeId": "PHSR-S01-E10",
+          "song": "Born to Do Drag"
+        }
+      ]
+    }
+  ]
+}

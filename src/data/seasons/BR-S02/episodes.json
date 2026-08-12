@@ -1,0 +1,407 @@
+[
+  {
+    "id": "BR-S02-E01",
+    "seasonId": "BR-S02",
+    "episodeNumber": 1,
+    "title": "The Birds of Paradise Take Flight",
+    "miniChallenge": {
+      "name": "Quiz das Sabichonas: correctly respond to a quiz about the Drag Race franchise",
+      "winnerIds": [
+        "mellody-queen"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Perform a choreography to Grag Queen's song \"Boogie Brasil\"",
+      "winnerIds": [
+        "ruby-nox"
+      ]
+    },
+    "runwayTheme": "Tempero Brasileiro (Brazilian Spice)",
+    "topIds": [
+      "melina-blley",
+      "ruby-nox"
+    ],
+    "lipSync": {
+      "song": "Funk Rave",
+      "queenIds": [
+        "melina-blley",
+        "ruby-nox"
+      ],
+      "winnerIds": [
+        "ruby-nox"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Blogueirinha"
+      }
+    ]
+  },
+  {
+    "id": "BR-S02-E02",
+    "seasonId": "BR-S02",
+    "episodeNumber": 2,
+    "title": "Paper Cuts",
+    "miniChallenge": {
+      "name": "Customize an undergarment, get in quick drag and do a hair-whipping performance",
+      "winnerIds": [
+        "mellody-queen"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit using paper",
+      "winnerIds": [
+        "adora-black"
+      ]
+    },
+    "runwayTheme": "Rainhas de Papel (Paper Queens)",
+    "topIds": [
+      "adora-black"
+    ],
+    "bottomIds": [
+      "chanel",
+      "poseidon-drag"
+    ],
+    "lipSync": {
+      "song": "Ultra Som",
+      "queenIds": [
+        "chanel",
+        "poseidon-drag"
+      ],
+      "winnerIds": [
+        "poseidon-drag"
+      ],
+      "eliminatedIds": [
+        "chanel"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Fontana"
+      }
+    ]
+  },
+  {
+    "id": "BR-S02-E03",
+    "seasonId": "BR-S02",
+    "episodeNumber": 3,
+    "title": "Brazilian Girl Group Battle Royale",
+    "miniChallenge": {
+      "name": "Reading Challenge",
+      "winnerIds": [
+        "mellody-queen"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "In teams, create a verse and choreography for an original song",
+      "winnerIds": [
+        "mellody-queen",
+        "poseidon-drag"
+      ]
+    },
+    "runwayTheme": "A Noite das Vozes Icônicas (The Night of Iconic Voices)",
+    "topIds": [
+      "mellody-queen",
+      "poseidon-drag"
+    ],
+    "bottomIds": [
+      "melina-blley",
+      "paola-hoffmann-van-cartier"
+    ],
+    "lipSync": {
+      "song": "The Beginning",
+      "queenIds": [
+        "melina-blley",
+        "paola-hoffmann-van-cartier"
+      ],
+      "winnerIds": [
+        "melina-blley"
+      ],
+      "eliminatedIds": [
+        "paola-hoffmann-van-cartier"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Bielo Pereira"
+      }
+    ]
+  },
+  {
+    "id": "BR-S02-E04",
+    "seasonId": "BR-S02",
+    "episodeNumber": 4,
+    "title": "News Just In...",
+    "miniChallenge": {
+      "name": "Get in quick drag and take a photo for a Grindr profile",
+      "winnerIds": [
+        "melina-blley"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "BRL",
+        "context": "R$5,000 cash tip courtesy of Grindr",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "In teams, host a show for \"Grag News\"",
+      "winnerIds": [
+        "bhelchi"
+      ]
+    },
+    "runwayTheme": "Lendas Brasileiras (Brazilian Legends)",
+    "topIds": [
+      "bhelchi"
+    ],
+    "bottomIds": [
+      "desiree-beck",
+      "mellody-queen"
+    ],
+    "lipSync": {
+      "song": "Brasil",
+      "queenIds": [
+        "desiree-beck",
+        "mellody-queen"
+      ],
+      "winnerIds": [
+        "desiree-beck",
+        "mellody-queen"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Bielo Pereira"
+      }
+    ]
+  },
+  {
+    "id": "BR-S02-E05",
+    "seasonId": "BR-S02",
+    "episodeNumber": 5,
+    "title": "Snatched...For the Gods",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "desiree-beck"
+      ]
+    },
+    "runwayTheme": "Bichanas de Pelúcia (Plushie Pussies)",
+    "topIds": [
+      "desiree-beck"
+    ],
+    "bottomIds": [
+      "adora-black",
+      "mercedez-vulcao"
+    ],
+    "lipSync": {
+      "song": "Tombei",
+      "queenIds": [
+        "adora-black",
+        "mercedez-vulcao"
+      ],
+      "winnerIds": [
+        "adora-black"
+      ],
+      "eliminatedIds": [
+        "mercedez-vulcao"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Kelly Heelton"
+      }
+    ]
+  },
+  {
+    "id": "BR-S02-E06",
+    "seasonId": "BR-S02",
+    "episodeNumber": 6,
+    "title": "Three Courses, One Crown",
+    "maxiChallenge": {
+      "name": "The Brazilian Cuisine Ball: three looks",
+      "winnerIds": [
+        "adora-black"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "BRL",
+        "context": "R$10,000 cash tip courtesy of Flying Horse",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Drags à la Carte / Candy Queens / Flying Horse Realness",
+    "topIds": [
+      "adora-black"
+    ],
+    "bottomIds": [
+      "desiree-beck",
+      "mellody-queen"
+    ],
+    "lipSync": {
+      "song": "A Dona Aranha",
+      "queenIds": [
+        "desiree-beck",
+        "mellody-queen"
+      ],
+      "winnerIds": [
+        "mellody-queen"
+      ],
+      "eliminatedIds": [
+        "desiree-beck"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Victoria Shakespears"
+      }
+    ]
+  },
+  {
+    "id": "BR-S02-E07",
+    "seasonId": "BR-S02",
+    "episodeNumber": 7,
+    "title": "Lalaparuza Brasil - Rinha de Picumãs",
+    "miniChallenge": {
+      "name": "Salsicha Drag Jump: get in quick drag, tie a sausage to a rope around their waist and try to bite it",
+      "winnerIds": [
+        "adora-black"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Face off against each other in the Rinha de Lipsync LaLaPaRuZa",
+      "winnerIds": []
+    },
+    "lipSync": {
+      "song": "Sissy That Walk",
+      "queenIds": [
+        "adora-black",
+        "ruby-nox"
+      ],
+      "winnerIds": [
+        "ruby-nox"
+      ],
+      "eliminatedIds": [
+        "adora-black"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Cláudia Raia"
+      }
+    ]
+  },
+  {
+    "id": "BR-S02-E08",
+    "seasonId": "BR-S02",
+    "episodeNumber": 8,
+    "title": "Read Bruna to Filth!",
+    "maxiChallenge": {
+      "name": "Perform a roast of Bruna Braga",
+      "winnerIds": [
+        "ruby-nox"
+      ]
+    },
+    "runwayTheme": "Coração de Vidro (Glass Heart)",
+    "topIds": [
+      "ruby-nox"
+    ],
+    "bottomIds": [
+      "melina-blley",
+      "poseidon-drag"
+    ],
+    "lipSync": {
+      "song": "Bixinho (Lux & Tróia – Remix)",
+      "queenIds": [
+        "melina-blley",
+        "poseidon-drag"
+      ],
+      "winnerIds": [
+        "melina-blley",
+        "poseidon-drag"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Keiona"
+      }
+    ]
+  },
+  {
+    "id": "BR-S02-E09",
+    "seasonId": "BR-S02",
+    "episodeNumber": 9,
+    "title": "Pin-Up Pairs",
+    "miniChallenge": {
+      "name": "Xilindrag Brasil: get in quick drag and act as a prisoner",
+      "winnerIds": [
+        "mellody-queen"
+      ],
+      "earnings": {
+        "amount": 6000,
+        "currency": "BRL",
+        "context": "R$6,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Makeover five Pit Crew members",
+      "winnerIds": [
+        "ruby-nox"
+      ]
+    },
+    "runwayTheme": "Pin-ups Makeover",
+    "topIds": [
+      "ruby-nox"
+    ],
+    "bottomIds": [
+      "bhelchi",
+      "mellody-queen"
+    ],
+    "lipSync": {
+      "song": "Jeito Sexy",
+      "queenIds": [
+        "bhelchi",
+        "mellody-queen"
+      ],
+      "winnerIds": [
+        "mellody-queen"
+      ],
+      "eliminatedIds": [
+        "bhelchi"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Melissa Bianchini"
+      }
+    ]
+  },
+  {
+    "id": "BR-S02-E10",
+    "seasonId": "BR-S02",
+    "episodeNumber": 10,
+    "title": "Crowning Glory",
+    "maxiChallenge": {
+      "name": "Write a verse and perform a choreography to the original song \"Rainha Sempre\"",
+      "winnerIds": []
+    },
+    "runwayTheme": "Grand Finale Eleganza Extravaganza",
+    "topIds": [
+      "melina-blley",
+      "mellody-queen",
+      "poseidon-drag",
+      "ruby-nox"
+    ],
+    "lipSync": {
+      "song": "O Amor e o Poder",
+      "queenIds": [
+        "mellody-queen",
+        "ruby-nox"
+      ],
+      "winnerIds": [
+        "ruby-nox"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

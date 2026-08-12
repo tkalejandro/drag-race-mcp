@@ -1,0 +1,71 @@
+{
+  "id": "DU-S04",
+  "franchise": "DU",
+  "name": "Drag Race Down Under Season 4",
+  "seasonNumber": 4,
+  "year": 2024,
+  "episodeCount": 8,
+  "episodeIds": [
+    "DU-S04-E01",
+    "DU-S04-E02",
+    "DU-S04-E03",
+    "DU-S04-E04",
+    "DU-S04-E05",
+    "DU-S04-E06",
+    "DU-S04-E07",
+    "DU-S04-E08"
+  ],
+  "castIds": [
+    "lazy-susan",
+    "mandy-moobs",
+    "vybe",
+    "freya-armani",
+    "nikita-iman",
+    "max-drag-queen",
+    "brenda-bressed",
+    "lucina-innocence",
+    "karna-ford",
+    "olivia-dreams"
+  ],
+  "winnerIds": [
+    "lazy-susan"
+  ],
+  "runnerUpIds": [
+    "mandy-moobs",
+    "vybe"
+  ],
+  "porkchopIds": [
+    "olivia-dreams"
+  ],
+  "hosts": [
+    {
+      "name": "Michelle Visage"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Rhys Nicholson"
+    },
+    {
+      "name": "Isis Avis Loren",
+      "queenId": "isis-avis-loren"
+    },
+    {
+      "name": "Kita Mean",
+      "queenId": "kita-mean"
+    },
+    {
+      "name": "Spankie Jackzon",
+      "queenId": "spankie-jackzon"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 30000,
+    "currency": "AUD",
+    "context": "A$30,000 season grand prize"
+  }
+}

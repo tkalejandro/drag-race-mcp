@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "UK-S06-E01",
-          "name": "Perform a talent show in the Tickety Boo Cabaret Club"
+          "name": "Perform a talent show in the Tickety Boo Cabaret Club",
+          "earnings": {
+            "amount": 0,
+            "currency": "GBP",
+            "context": "Immunity for next week's challenge"
+          }
         },
         {
           "episodeId": "UK-S06-E03",
@@ -26,8 +31,14 @@
         }
       ],
       "lipSyncWins": [
-        { "episodeId": "UK-S06-E01", "song": "Ooh La La" },
-        { "episodeId": "UK-S06-E10", "song": "Don't Stop Me Now" }
+        {
+          "episodeId": "UK-S06-E01",
+          "song": "Ooh La La"
+        },
+        {
+          "episodeId": "UK-S06-E10",
+          "song": "Don't Stop Me Now"
+        }
       ],
       "lipSyncLosses": []
     }

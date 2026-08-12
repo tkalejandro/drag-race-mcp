@@ -1,0 +1,95 @@
+{
+  "id": "drag-sethlas",
+  "name": "Drag Sethlas",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S02-E06",
+          "name": "The Spanish Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E07",
+          "song": "Qué dolor"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S02-E07"
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "two-night stay in Torremolinos",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "ESAS-S01-E02",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "facial skin care set valued at €1,500"
+          }
+        },
+        {
+          "episodeId": "ESAS-S01-E03",
+          "name": "Walk the Deadly Sins Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "jewelry set from Aster Lab",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "ESAS-S01-E05",
+          "name": "Perform a roast of the judges panel and fellow contestants",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "surprise European trip from Waynabox",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "song": "Me gustas mucho"
+        },
+        {
+          "episodeId": "ESAS-S01-E03",
+          "song": "Estoy llorando por ti"
+        },
+        {
+          "episodeId": "ESAS-S01-E07",
+          "song": "Eloise"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ESAS-S01-E02",
+          "song": "Nochentera"
+        },
+        {
+          "episodeId": "ESAS-S01-E05",
+          "song": "La zarzamora"
+        }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,51 @@
         }
       ],
       "eliminatedEpisodeId": "US-S16-E12"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E01",
+          "name": "Write and perform original verses to \"Break Dancin' 2: Electric Rugaloo\""
+        },
+        {
+          "episodeId": "AS-S11-E02",
+          "name": "Design an outfit using materials inspired by themed gay bars"
+        },
+        {
+          "episodeId": "AS-S11-E03",
+          "name": "In pairs, host a live shopping show on the Home Spooky Network as mythical creatures"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E03",
+          "song": "Zombieboy",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E01",
+          "song": "Such a Wicked Love"
+        },
+        {
+          "episodeId": "AS-S11-E02",
+          "song": "Fergalicious"
+        },
+        {
+          "episodeId": "AS-S11-E12",
+          "song": "Star Love / The Boss / The Main Event/Fight / Knock on Wood / MacArthur Park"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E12"
     }
   ]
 }

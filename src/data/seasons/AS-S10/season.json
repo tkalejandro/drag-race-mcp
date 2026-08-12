@@ -1,0 +1,79 @@
+{
+  "id": "AS-S10",
+  "franchise": "AS",
+  "name": "RuPaul's Drag Race All Stars Season 10",
+  "seasonNumber": 10,
+  "year": 2025,
+  "episodeCount": 12,
+  "episodeIds": [
+    "AS-S10-E01",
+    "AS-S10-E02",
+    "AS-S10-E03",
+    "AS-S10-E04",
+    "AS-S10-E05",
+    "AS-S10-E06",
+    "AS-S10-E07",
+    "AS-S10-E08",
+    "AS-S10-E09",
+    "AS-S10-E10",
+    "AS-S10-E11",
+    "AS-S10-E12"
+  ],
+  "castIds": [
+    "ginger-minj",
+    "jorgeous",
+    "bosco",
+    "lydia-b-kollins",
+    "aja",
+    "daya-betty",
+    "irene-dubois",
+    "kerri-colby",
+    "mistress-isabelle-brooks",
+    "cynthia-lee-fontaine",
+    "acid-betty",
+    "alyssa-hunter",
+    "deja-skye",
+    "denali",
+    "nicole-paige-brooks",
+    "olivia-lux",
+    "phoenix",
+    "tina-burner"
+  ],
+  "winnerIds": [
+    "ginger-minj"
+  ],
+  "runnerUpIds": [
+    "jorgeous"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    },
+    {
+      "name": "Ts Madison"
+    },
+    {
+      "name": "Law Roach"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 200000,
+    "currency": "USD",
+    "context": "$200,000 season grand prize"
+  }
+}

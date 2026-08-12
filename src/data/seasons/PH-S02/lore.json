@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ph-s02-katkat-crown",
+    "title": "Captivating Katkat wins Drag Race Philippines Season 2",
+    "summary": "The Grand Finale (PH-S02-E10) featured a three-round Lip-Sync Smackdown for the Crown among the final four. Captivating Katkat beat Bernie to \"Just What They Want\", Arizona Brandy beat M1ss Jade So to \"Who Is She?\", and Arizona Brandy and Captivating Katkat then lip-synced to \"Kapangyarihan\". Captivating Katkat was crowned the winner; Arizona Brandy finished as runner-up.",
+    "tags": ["crown", "finale", "lip-sync", "iconic"],
+    "queenIds": ["captivating-katkat", "arizona-brandy", "bernie", "m1ss-jade-so"],
+    "seasonIds": ["PH-S02"],
+    "episodeIds": ["PH-S02-E10"]
+  },
+  {
+    "id": "ph-s02-nicole-porkchop",
+    "title": "Nicole Pardaux: Season 2 Porkchop",
+    "summary": "Nicole Pardaux was the first contestant eliminated on Drag Race Philippines Season 2 (PH-S02-E01), losing a lip sync to \"Here We Go\" against Tiny DeLuxe.",
+    "tags": ["porkchop"],
+    "queenIds": ["nicole-pardaux", "tiny-deluxe"],
+    "seasonIds": ["PH-S02"],
+    "episodeIds": ["PH-S02-E01"]
+  },
+  {
+    "id": "ph-s02-split-premiere",
+    "title": "A split premiere",
+    "summary": "Drag Race Philippines Season 2 launched with a split premiere: six queens debuted in PH-S02-E01 (\"Grand Opening Part 1\") and the remaining six in PH-S02-E02 (\"Grand Opening Part 2\").",
+    "tags": ["production"],
+    "seasonIds": ["PH-S02"],
+    "episodeIds": ["PH-S02-E01", "PH-S02-E02"]
+  }
+]

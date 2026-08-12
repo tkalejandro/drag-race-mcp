@@ -1,0 +1,44 @@
+{
+  "id": "mariana-stars",
+  "name": "Mariana Stars",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S04-E05",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a skincare set from FOREO"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S04-E04",
+          "name": "Aerobics"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S04-E03",
+          "song": "Loca"
+        },
+        {
+          "episodeId": "ES-S04-E08",
+          "song": "Se acabó"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S04-E09",
+          "song": "Las Babys"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S04-E09"
+    }
+  ]
+}

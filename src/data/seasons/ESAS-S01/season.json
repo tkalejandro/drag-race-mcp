@@ -1,0 +1,63 @@
+{
+  "id": "ESAS-S01",
+  "franchise": "ESAS",
+  "name": "Drag Race España All Stars Season 1",
+  "seasonNumber": 1,
+  "year": 2024,
+  "episodeCount": 7,
+  "episodeIds": [
+    "ESAS-S01-E01",
+    "ESAS-S01-E02",
+    "ESAS-S01-E03",
+    "ESAS-S01-E04",
+    "ESAS-S01-E05",
+    "ESAS-S01-E06",
+    "ESAS-S01-E07"
+  ],
+  "castIds": [
+    "drag-sethlas",
+    "samantha-ballentines",
+    "hornella-gongora",
+    "juriji-der-klee",
+    "pupi-poisson",
+    "sagittaria",
+    "pakita",
+    "onyx",
+    "pink-chadora"
+  ],
+  "winnerIds": [
+    "drag-sethlas"
+  ],
+  "runnerUpIds": [
+    "samantha-ballentines"
+  ],
+  "missCongenialityId": "samantha-ballentines",
+  "porkchopIds": [
+    "pink-chadora"
+  ],
+  "hosts": [
+    {
+      "name": "Supremme de Luxe"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Supremme de Luxe"
+    },
+    {
+      "name": "Ana Locking"
+    },
+    {
+      "name": "Javier Ambrossi"
+    },
+    {
+      "name": "Javier Calvo"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 30000,
+    "currency": "EUR",
+    "context": "€30,000 season grand prize"
+  }
+}

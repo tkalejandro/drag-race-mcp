@@ -1,0 +1,29 @@
+{
+  "id": "max-drag-queen",
+  "name": "Max Drag Queen",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S04-E03",
+          "song": "My Delirium"
+        },
+        {
+          "episodeId": "DU-S04-E05",
+          "song": "Like a Girl Does"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S04-E06",
+          "song": "Talking Body"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S04-E06"
+    }
+  ]
+}

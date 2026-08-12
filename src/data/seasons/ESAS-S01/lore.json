@@ -1,0 +1,56 @@
+[
+  {
+    "id": "esas-s01-sethlas-crowned",
+    "title": "Drag Sethlas inaugurates the España Hall of Fame",
+    "summary": "In the Grand Finale (ESAS-S01-E07), after Samantha Ballentines beat Juriji der Klee to La Oreja de Van Gogh's \"Pop\" and Drag Sethlas beat Hornella Góngora to Rosa López's \"Yo no soy esa\", Sethlas beat Samantha to Tino Casal's \"Eloise\". Sethlas, previously sixth on España Season 2 (ES-S02), won €30,000 and became the first queen inducted into the Drag Race España Hall of Fame.",
+    "tags": ["finale", "crown", "all-stars"],
+    "queenIds": ["drag-sethlas", "samantha-ballentines", "hornella-gongora", "juriji-der-klee"],
+    "seasonIds": ["ESAS-S01", "ES-S02"],
+    "episodeIds": ["ESAS-S01-E07"]
+  },
+  {
+    "id": "esas-s01-pink-chadora-porkchop",
+    "title": "Pink Chadora is the first España All Stars sashay",
+    "summary": "España Season 3 alumna Pink Chadora was the first queen eliminated on ESAS-S01-E01. After Drag Sethlas and Hornella Góngora won the talent show, Sethlas won the Lip Sync for Your Legacy to Rocío Dúrcal's \"Me gustas mucho\" and sent Pink home.",
+    "tags": ["porkchop", "lip-sync", "return"],
+    "queenIds": ["pink-chadora", "drag-sethlas", "hornella-gongora"],
+    "seasonIds": ["ESAS-S01", "ES-S03"],
+    "episodeIds": ["ESAS-S01-E01"]
+  },
+  {
+    "id": "esas-s01-samantha-miss-c",
+    "title": "Samantha Ballentines wins Miss Congeniality and runner-up",
+    "summary": "España Season 2 alumna Samantha Ballentines was voted Miss Congeniality at the reunion (ESAS-S01-E06) and finished as runner-up after winning two Lip Syncs for Your Legacy (\"Mafiosa\" and \"La zarzamora\") and reaching the final crown lip sync against Drag Sethlas.",
+    "tags": ["reunion", "finale", "lip-sync", "fan-favorite"],
+    "queenIds": ["samantha-ballentines", "drag-sethlas"],
+    "seasonIds": ["ESAS-S01", "ES-S02"],
+    "episodeIds": ["ESAS-S01-E04", "ESAS-S01-E05", "ESAS-S01-E06", "ESAS-S01-E07"]
+  },
+  {
+    "id": "esas-s01-legacy-format",
+    "title": "España All Stars uses Lip Sync for Your Legacy",
+    "summary": "Drag Race España All Stars Season 1 adapted the All Stars 2–4 format: each week two maxi-challenge winners Lip Synced for Your Legacy, and the winner chose which bottom queen to eliminate. In the finale, the top four competed in a Lip Sync Smackdown for the Crown.",
+    "tags": ["all-stars", "lip-sync", "production"],
+    "queenIds": ["drag-sethlas"],
+    "seasonIds": ["ESAS-S01"],
+    "episodeIds": ["ESAS-S01-E01", "ESAS-S01-E07"]
+  },
+  {
+    "id": "esas-s01-hornella-saved",
+    "title": "Eliminated queens save Hornella from the roast bottom",
+    "summary": "On the roast episode (ESAS-S01-E05), Hornella Góngora, Juriji der Klee, and Pupi Poisson landed in the bottom three. The previously eliminated queens voted to save Hornella before Samantha Ballentines won the Lip Sync for Your Legacy to Lola Flores's \"La zarzamora\" and eliminated Pupi Poisson.",
+    "tags": ["twist", "lip-sync", "sisterhood"],
+    "queenIds": ["hornella-gongora", "juriji-der-klee", "pupi-poisson", "samantha-ballentines"],
+    "seasonIds": ["ESAS-S01"],
+    "episodeIds": ["ESAS-S01-E05"]
+  },
+  {
+    "id": "esas-s01-returning-winners-guests",
+    "title": "Carmen Farala, Sharonne, and Pitita visit the reunion",
+    "summary": "At the ESAS-S01 reunion, Drag Race España winners Carmen Farala (ES-S01), Sharonne (ES-S02), and Pitita (ES-S03) appeared as special guests while the cast revisited the season and voted Samantha Ballentines Miss Congeniality and Onyx Unleashed Miss Lost Look.",
+    "tags": ["reunion", "crossover", "crown"],
+    "queenIds": ["carmen-farala", "sharonne", "pitita", "samantha-ballentines", "onyx"],
+    "seasonIds": ["ESAS-S01", "ES-S01", "ES-S02", "ES-S03"],
+    "episodeIds": ["ESAS-S01-E06"]
+  }
+]

@@ -6,23 +6,50 @@
     "title": "RuPaul's Big Opening",
     "miniChallenge": {
       "name": "Photoshoot while jumping off a platform",
-      "winnerIds": ["laganja-estranja"]
+      "winnerIds": [
+        "laganja-estranja"
+      ]
     },
     "maxiChallenge": {
       "name": "Create an outfit inspired by a TV show",
-      "winnerIds": ["bendelacreme"]
+      "winnerIds": [
+        "bendelacreme"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom jewel package by Fierce Drag Jewels"
+      }
     },
-    "topIds": ["bendelacreme", "april-carrion", "gia-gunn"],
-    "bottomIds": ["kelly-mantle", "vivacious"],
+    "topIds": [
+      "bendelacreme",
+      "april-carrion",
+      "gia-gunn"
+    ],
+    "bottomIds": [
+      "kelly-mantle",
+      "vivacious"
+    ],
     "lipSync": {
       "song": "Express Yourself",
-      "queenIds": ["kelly-mantle", "vivacious"],
-      "winnerIds": ["vivacious"],
-      "eliminatedIds": ["kelly-mantle"]
+      "queenIds": [
+        "kelly-mantle",
+        "vivacious"
+      ],
+      "winnerIds": [
+        "vivacious"
+      ],
+      "eliminatedIds": [
+        "kelly-mantle"
+      ]
     },
     "guestJudges": [
-      { "name": "Adam Lambert" },
-      { "name": "Mike Ruiz" }
+      {
+        "name": "Adam Lambert"
+      },
+      {
+        "name": "Mike Ruiz"
+      }
     ]
   },
   {
@@ -32,21 +59,49 @@
     "title": "RuPaul's Big Opening: Part 2",
     "miniChallenge": {
       "name": "Boudoir pillow fight with the pit crew photoshoot",
-      "winnerIds": ["trinity-k-bonet"]
+      "winnerIds": [
+        "trinity-k-bonet"
+      ]
     },
     "maxiChallenge": {
       "name": "Create an outfit inspired by party supplies",
-      "winnerIds": ["bianca-del-rio"]
+      "winnerIds": [
+        "bianca-del-rio"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 shopping spree from Fabric Planet",
+        "isSponsor": true
+      }
     },
-    "topIds": ["bianca-del-rio", "milk", "trinity-k-bonet"],
-    "bottomIds": ["darienne-lake", "magnolia-crawford"],
+    "topIds": [
+      "bianca-del-rio",
+      "milk",
+      "trinity-k-bonet"
+    ],
+    "bottomIds": [
+      "darienne-lake",
+      "magnolia-crawford"
+    ],
     "lipSync": {
       "song": "Turn the Beat Around",
-      "queenIds": ["darienne-lake", "magnolia-crawford"],
-      "winnerIds": ["darienne-lake"],
-      "eliminatedIds": ["magnolia-crawford"]
+      "queenIds": [
+        "darienne-lake",
+        "magnolia-crawford"
+      ],
+      "winnerIds": [
+        "darienne-lake"
+      ],
+      "eliminatedIds": [
+        "magnolia-crawford"
+      ]
     },
-    "guestJudges": [{ "name": "Khloé Kardashian" }]
+    "guestJudges": [
+      {
+        "name": "Khloé Kardashian"
+      }
+    ]
   },
   {
     "id": "US-S06-E03",
@@ -55,24 +110,51 @@
     "title": "Scream Queens",
     "miniChallenge": {
       "name": "Create a beach-themed lip-sync in pairs",
-      "winnerIds": ["adore-delano", "milk"]
+      "winnerIds": [
+        "adore-delano",
+        "milk"
+      ]
     },
     "maxiChallenge": {
       "name": "Star in horror film trailers for Drag Race Me to Hell",
-      "winnerIds": ["darienne-lake"]
+      "winnerIds": [
+        "darienne-lake"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "5-night stay at Island House Key West Resort",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Best Drag",
-    "topIds": ["darienne-lake"],
-    "bottomIds": ["april-carrion", "vivacious"],
+    "topIds": [
+      "darienne-lake"
+    ],
+    "bottomIds": [
+      "april-carrion",
+      "vivacious"
+    ],
     "lipSync": {
       "song": "Shake It Up",
-      "queenIds": ["april-carrion", "vivacious"],
-      "winnerIds": ["april-carrion"],
-      "eliminatedIds": ["vivacious"]
+      "queenIds": [
+        "april-carrion",
+        "vivacious"
+      ],
+      "winnerIds": [
+        "april-carrion"
+      ],
+      "eliminatedIds": [
+        "vivacious"
+      ]
     },
     "guestJudges": [
-      { "name": "Lena Headey" },
-      { "name": "Linda Blair" }
+      {
+        "name": "Lena Headey"
+      },
+      {
+        "name": "Linda Blair"
+      }
     ]
   },
   {
@@ -82,24 +164,52 @@
     "title": "Shade: The Rusical",
     "miniChallenge": {
       "name": "Female or She-male?",
-      "winnerIds": ["adore-delano", "bendelacreme"]
+      "winnerIds": [
+        "adore-delano",
+        "bendelacreme"
+      ]
     },
     "maxiChallenge": {
       "name": "Shade: The Rusical",
-      "winnerIds": ["courtney-act"]
+      "winnerIds": [
+        "courtney-act"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "2 VIP packages to the Broadway musical Kinky Boots"
+      }
     },
     "runwayTheme": "Tony Award Realness",
-    "topIds": ["courtney-act", "adore-delano", "bendelacreme"],
-    "bottomIds": ["april-carrion", "trinity-k-bonet"],
+    "topIds": [
+      "courtney-act",
+      "adore-delano",
+      "bendelacreme"
+    ],
+    "bottomIds": [
+      "april-carrion",
+      "trinity-k-bonet"
+    ],
     "lipSync": {
       "song": "I'm Every Woman",
-      "queenIds": ["april-carrion", "trinity-k-bonet"],
-      "winnerIds": ["trinity-k-bonet"],
-      "eliminatedIds": ["april-carrion"]
+      "queenIds": [
+        "april-carrion",
+        "trinity-k-bonet"
+      ],
+      "winnerIds": [
+        "trinity-k-bonet"
+      ],
+      "eliminatedIds": [
+        "april-carrion"
+      ]
     },
     "guestJudges": [
-      { "name": "Lucian Piane" },
-      { "name": "Sheryl Lee Ralph" }
+      {
+        "name": "Lucian Piane"
+      },
+      {
+        "name": "Sheryl Lee Ralph"
+      }
     ]
   },
   {
@@ -109,20 +219,46 @@
     "title": "Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["bendelacreme"]
+      "winnerIds": [
+        "bendelacreme"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "2 couture outfits from Syren Latex",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Night of a Thousand RuPaul's",
-    "topIds": ["bendelacreme", "adore-delano", "bianca-del-rio"],
-    "bottomIds": ["gia-gunn", "laganja-estranja"],
+    "topIds": [
+      "bendelacreme",
+      "adore-delano",
+      "bianca-del-rio"
+    ],
+    "bottomIds": [
+      "gia-gunn",
+      "laganja-estranja"
+    ],
     "lipSync": {
       "song": "Head to Toe",
-      "queenIds": ["gia-gunn", "laganja-estranja"],
-      "winnerIds": ["laganja-estranja"],
-      "eliminatedIds": ["gia-gunn"]
+      "queenIds": [
+        "gia-gunn",
+        "laganja-estranja"
+      ],
+      "winnerIds": [
+        "laganja-estranja"
+      ],
+      "eliminatedIds": [
+        "gia-gunn"
+      ]
     },
     "guestJudges": [
-      { "name": "Gillian Jacobs" },
-      { "name": "Heather McDonald" }
+      {
+        "name": "Gillian Jacobs"
+      },
+      {
+        "name": "Heather McDonald"
+      }
     ]
   },
   {
@@ -132,24 +268,52 @@
     "title": "Oh No She Betta Don't!",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["darienne-lake"]
+      "winnerIds": [
+        "darienne-lake"
+      ]
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Oh No She Betta Don't",
-      "winnerIds": ["adore-delano"]
+      "winnerIds": [
+        "adore-delano"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "collection of custom-made jewelry",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Crazy, Sexy, Cool",
-    "topIds": ["adore-delano", "bianca-del-rio", "joslyn-fox"],
-    "bottomIds": ["milk", "trinity-k-bonet"],
+    "topIds": [
+      "adore-delano",
+      "bianca-del-rio",
+      "joslyn-fox"
+    ],
+    "bottomIds": [
+      "milk",
+      "trinity-k-bonet"
+    ],
     "lipSync": {
       "song": "Whatta Man",
-      "queenIds": ["milk", "trinity-k-bonet"],
-      "winnerIds": ["trinity-k-bonet"],
-      "eliminatedIds": ["milk"]
+      "queenIds": [
+        "milk",
+        "trinity-k-bonet"
+      ],
+      "winnerIds": [
+        "trinity-k-bonet"
+      ],
+      "eliminatedIds": [
+        "milk"
+      ]
     },
     "guestJudges": [
-      { "name": "Eve" },
-      { "name": "Trina" }
+      {
+        "name": "Eve"
+      },
+      {
+        "name": "Trina"
+      }
     ]
   },
   {
@@ -159,23 +323,51 @@
     "title": "Glamazon by Colorevolution",
     "miniChallenge": {
       "name": "Design nails and hand-model fruits and vegetables",
-      "winnerIds": ["laganja-estranja"]
+      "winnerIds": [
+        "laganja-estranja"
+      ]
     },
     "maxiChallenge": {
       "name": "In pairs, film an infomercial for RuPaul's Glamazon Cosmetics",
-      "winnerIds": ["adore-delano", "laganja-estranja"]
+      "winnerIds": [
+        "adore-delano",
+        "laganja-estranja"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "collection of skincare products from Lather",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Black and White Drama",
-    "topIds": ["adore-delano", "laganja-estranja", "bianca-del-rio", "trinity-k-bonet"],
-    "bottomIds": ["bendelacreme", "darienne-lake"],
+    "topIds": [
+      "adore-delano",
+      "laganja-estranja",
+      "bianca-del-rio",
+      "trinity-k-bonet"
+    ],
+    "bottomIds": [
+      "bendelacreme",
+      "darienne-lake"
+    ],
     "lipSync": {
       "song": "Point of No Return",
-      "queenIds": ["bendelacreme", "darienne-lake"],
-      "winnerIds": ["darienne-lake"]
+      "queenIds": [
+        "bendelacreme",
+        "darienne-lake"
+      ],
+      "winnerIds": [
+        "darienne-lake"
+      ]
     },
     "guestJudges": [
-      { "name": "Leah Remini" },
-      { "name": "Lainie Kazan" }
+      {
+        "name": "Leah Remini"
+      },
+      {
+        "name": "Lainie Kazan"
+      }
     ]
   },
   {
@@ -185,23 +377,50 @@
     "title": "Drag Queens of Comedy",
     "miniChallenge": {
       "name": "Lip-sync to a RuPaul song upside down",
-      "winnerIds": ["joslyn-fox"]
+      "winnerIds": [
+        "joslyn-fox"
+      ]
     },
     "maxiChallenge": {
       "name": "Stand-up comedy act in front of the judges and a live audience",
-      "winnerIds": ["bianca-del-rio"]
+      "winnerIds": [
+        "bianca-del-rio"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "one-of-a-kind gown designed by Marco Marco"
+      }
     },
-    "topIds": ["bianca-del-rio", "darienne-lake", "trinity-k-bonet"],
-    "bottomIds": ["joslyn-fox", "laganja-estranja"],
+    "topIds": [
+      "bianca-del-rio",
+      "darienne-lake",
+      "trinity-k-bonet"
+    ],
+    "bottomIds": [
+      "joslyn-fox",
+      "laganja-estranja"
+    ],
     "lipSync": {
       "song": "Stupid Girls",
-      "queenIds": ["joslyn-fox", "laganja-estranja"],
-      "winnerIds": ["joslyn-fox"],
-      "eliminatedIds": ["laganja-estranja"]
+      "queenIds": [
+        "joslyn-fox",
+        "laganja-estranja"
+      ],
+      "winnerIds": [
+        "joslyn-fox"
+      ],
+      "eliminatedIds": [
+        "laganja-estranja"
+      ]
     },
     "guestJudges": [
-      { "name": "Bruce Vilanch" },
-      { "name": "Jaime Pressly" }
+      {
+        "name": "Bruce Vilanch"
+      },
+      {
+        "name": "Jaime Pressly"
+      }
     ]
   },
   {
@@ -211,25 +430,54 @@
     "title": "Queens of Talk",
     "miniChallenge": {
       "name": "Hung Men hangman-inspired challenge",
-      "winnerIds": ["bendelacreme"]
+      "winnerIds": [
+        "bendelacreme"
+      ]
     },
     "maxiChallenge": {
       "name": "Guest host The RuPaul Show and interview Chaz Bono and Georgia Holt",
-      "winnerIds": ["courtney-act"]
+      "winnerIds": [
+        "courtney-act"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "wig wardrobe from Outfiters Wig and a one-year haircare supply from Aquage",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Animal Kingdom Couture",
-    "topIds": ["courtney-act", "bendelacreme"],
-    "bottomIds": ["adore-delano", "trinity-k-bonet"],
+    "topIds": [
+      "courtney-act",
+      "bendelacreme"
+    ],
+    "bottomIds": [
+      "adore-delano",
+      "trinity-k-bonet"
+    ],
     "lipSync": {
       "song": "Vibeology",
-      "queenIds": ["adore-delano", "trinity-k-bonet"],
-      "winnerIds": ["adore-delano"],
-      "eliminatedIds": ["trinity-k-bonet"]
+      "queenIds": [
+        "adore-delano",
+        "trinity-k-bonet"
+      ],
+      "winnerIds": [
+        "adore-delano"
+      ],
+      "eliminatedIds": [
+        "trinity-k-bonet"
+      ]
     },
     "guestJudges": [
-      { "name": "Chaz Bono" },
-      { "name": "Georgia Holt" },
-      { "name": "Paula Abdul" }
+      {
+        "name": "Chaz Bono"
+      },
+      {
+        "name": "Georgia Holt"
+      },
+      {
+        "name": "Paula Abdul"
+      }
     ]
   },
   {
@@ -239,23 +487,50 @@
     "title": "Drag My Wedding",
     "miniChallenge": {
       "name": "Abstract body paintings in honor of same-sex marriage",
-      "winnerIds": ["bianca-del-rio"]
+      "winnerIds": [
+        "bianca-del-rio"
+      ]
     },
     "maxiChallenge": {
       "name": "Makeover grooms into brides for a drag wedding",
-      "winnerIds": ["bianca-del-rio"]
+      "winnerIds": [
+        "bianca-del-rio"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "trip for two to Hawaii",
+        "isSponsor": true
+      }
     },
-    "topIds": ["bianca-del-rio", "bendelacreme"],
-    "bottomIds": ["adore-delano", "joslyn-fox"],
+    "topIds": [
+      "bianca-del-rio",
+      "bendelacreme"
+    ],
+    "bottomIds": [
+      "adore-delano",
+      "joslyn-fox"
+    ],
     "lipSync": {
       "song": "Think",
-      "queenIds": ["adore-delano", "joslyn-fox"],
-      "winnerIds": ["adore-delano"],
-      "eliminatedIds": ["joslyn-fox"]
+      "queenIds": [
+        "adore-delano",
+        "joslyn-fox"
+      ],
+      "winnerIds": [
+        "adore-delano"
+      ],
+      "eliminatedIds": [
+        "joslyn-fox"
+      ]
     },
     "guestJudges": [
-      { "name": "Neil Patrick Harris" },
-      { "name": "David Burtka" }
+      {
+        "name": "Neil Patrick Harris"
+      },
+      {
+        "name": "David Burtka"
+      }
     ]
   },
   {
@@ -265,24 +540,51 @@
     "title": "Glitter Ball",
     "miniChallenge": {
       "name": "Everybody Loves Puppets",
-      "winnerIds": ["bendelacreme"]
+      "winnerIds": [
+        "bendelacreme"
+      ]
     },
     "maxiChallenge": {
       "name": "The Glitter Ball",
-      "winnerIds": ["adore-delano"]
+      "winnerIds": [
+        "adore-delano"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "costume from Kicka Custom Design",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Banjee Girl Bling, Platinum Card Executive Realness, and Dripping in Jewels Eleganza",
-    "topIds": ["adore-delano", "bianca-del-rio"],
-    "bottomIds": ["bendelacreme", "darienne-lake"],
+    "topIds": [
+      "adore-delano",
+      "bianca-del-rio"
+    ],
+    "bottomIds": [
+      "bendelacreme",
+      "darienne-lake"
+    ],
     "lipSync": {
       "song": "Stronger (What Doesn't Kill You)",
-      "queenIds": ["bendelacreme", "darienne-lake"],
-      "winnerIds": ["darienne-lake"],
-      "eliminatedIds": ["bendelacreme"]
+      "queenIds": [
+        "bendelacreme",
+        "darienne-lake"
+      ],
+      "winnerIds": [
+        "darienne-lake"
+      ],
+      "eliminatedIds": [
+        "bendelacreme"
+      ]
     },
     "guestJudges": [
-      { "name": "Bob Mackie" },
-      { "name": "Khloé Kardashian" }
+      {
+        "name": "Bob Mackie"
+      },
+      {
+        "name": "Khloé Kardashian"
+      }
     ]
   },
   {
@@ -291,8 +593,14 @@
     "episodeNumber": 12,
     "title": "Sissy That Walk",
     "runwayTheme": "Best Drag",
-    "topIds": ["adore-delano", "bianca-del-rio", "courtney-act"],
-    "bottomIds": ["darienne-lake"],
+    "topIds": [
+      "adore-delano",
+      "bianca-del-rio",
+      "courtney-act"
+    ],
+    "bottomIds": [
+      "darienne-lake"
+    ],
     "lipSync": {
       "song": "Sissy That Walk",
       "queenIds": [
@@ -301,8 +609,14 @@
         "courtney-act",
         "darienne-lake"
       ],
-      "winnerIds": ["adore-delano", "bianca-del-rio", "courtney-act"],
-      "eliminatedIds": ["darienne-lake"]
+      "winnerIds": [
+        "adore-delano",
+        "bianca-del-rio",
+        "courtney-act"
+      ],
+      "eliminatedIds": [
+        "darienne-lake"
+      ]
     }
   },
   {

@@ -20,6 +20,70 @@
         }
       ],
       "eliminatedEpisodeId": "US-S09-E07"
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S03-E01",
+          "name": "Perform a talent in front of the judges and a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Five-night stay at The Grand Resort and Spa in Fort Lauderdale, air fare included",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S03-E05",
+          "name": "Pop art-style portrait photoshoot",
+          "earnings": {
+            "amount": 2000,
+            "currency": "USD",
+            "context": "year's supply of hamburgers from Hamburger Mary's and $2,000"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S03-E01",
+          "song": "Anaconda"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S03-E05"
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E01",
+          "name": "Write and perform original verses to \"Winner Winner, Chicken Dinner\" with choreography by Jamal Sims"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S10-E01",
+          "song": "Think U the Shit (Fart)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E12",
+          "song": "Disease / Joyride / Party Lights / Show Me How You Burlesque / Raise Your Glass / Whenever, Wherever / It's Raining Men"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E12"
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "id": "FR-S02",
+  "franchise": "FR",
+  "name": "Drag Race France Season 2",
+  "seasonNumber": 2,
+  "year": 2023,
+  "episodeCount": 9,
+  "episodeIds": [
+    "FR-S02-E01",
+    "FR-S02-E02",
+    "FR-S02-E03",
+    "FR-S02-E04",
+    "FR-S02-E05",
+    "FR-S02-E06",
+    "FR-S02-E07",
+    "FR-S02-E08",
+    "FR-S02-E09"
+  ],
+  "castIds": [
+    "keiona",
+    "sara-forever",
+    "mami-watta",
+    "punani",
+    "piche",
+    "cookie-kunty",
+    "moon",
+    "ginger-bitch",
+    "kitty-space",
+    "vespi",
+    "rose-fr"
+  ],
+  "winnerIds": [
+    "keiona"
+  ],
+  "runnerUpIds": [
+    "sara-forever"
+  ],
+  "missCongenialityId": "moon",
+  "porkchopIds": [
+    "rose-fr"
+  ],
+  "hosts": [
+    {
+      "name": "Nicky Doll"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Nicky Doll"
+    },
+    {
+      "name": "Daphné Bürki"
+    },
+    {
+      "name": "Kiddy Smile"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "EUR",
+    "context": "No cash prize"
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "es-s05-satin-crown",
+    "title": "Satín Greco wins España Season 5",
+    "summary": "In the Grand Finale (ES-S05-E11), Margarita Kalifata and Satín Greco lip-synced to Rocío Jurado's \"Déjala correr\". Satín Greco won €50,000 and the crown.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync"
+    ],
+    "queenIds": [
+      "satin-greco",
+      "margarita-kalifata"
+    ],
+    "seasonIds": [
+      "ES-S05"
+    ],
+    "episodeIds": [
+      "ES-S05-E11"
+    ]
+  },
+  {
+    "id": "es-s05-two-pieced-heart",
+    "title": "Two-pieced Heart save twist",
+    "summary": "Season 5 introduced the Two-pieced Heart: eliminated queens gifted heart halves that could save a contestant from the bottom. The mechanic was used across several weeks including saves for Ferrxn, Nix, and Laca Udilla.",
+    "tags": [
+      "twist",
+      "production"
+    ],
+    "queenIds": [
+      "ferrxn",
+      "nix",
+      "laca-udilla"
+    ],
+    "seasonIds": [
+      "ES-S05"
+    ],
+    "episodeIds": [
+      "ES-S05-E03",
+      "ES-S05-E05",
+      "ES-S05-E07"
+    ]
+  },
+  {
+    "id": "es-s05-nori-porkchop",
+    "title": "Nori: Season 5 Porkchop and Miss Congeniality",
+    "summary": "Nori was the first contestant eliminated on España Season 5 (ES-S05-E02) and was later voted Miss Congeniality.",
+    "tags": [
+      "porkchop"
+    ],
+    "queenIds": [
+      "nori"
+    ],
+    "seasonIds": [
+      "ES-S05"
+    ],
+    "episodeIds": [
+      "ES-S05-E02",
+      "ES-S05-E10"
+    ]
+  }
+]

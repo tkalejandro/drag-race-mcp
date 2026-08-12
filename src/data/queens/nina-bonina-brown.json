@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S09-E01",
-          "name": "Present two looks for the Miss Charisma, Uniqueness, Nerve and Talent Pageant: hometown and Lady Gaga inspired"
+          "name": "Present two looks for the Miss Charisma, Uniqueness, Nerve and Talent Pageant: hometown and Lady Gaga inspired",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "weeklong getaway to The Grand Resort and Spa at Fort Lauderdale Beach."
+          }
         }
       ],
       "miniChallengeWins": [],

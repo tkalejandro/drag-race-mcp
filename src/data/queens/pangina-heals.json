@@ -1,0 +1,33 @@
+{
+  "id": "pangina-heals",
+  "name": "Pangina Heals",
+  "appearances": [
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E01",
+          "name": "Perform in a talent show"
+        },
+        {
+          "episodeId": "UKVTW-S01-E03",
+          "name": "West End Wendys — The Rusical"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S01-E01",
+          "song": "Say You'll Be There"
+        },
+        {
+          "episodeId": "UKVTW-S01-E03",
+          "song": "We Like to Party! (The Vengabus)"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "UKVTW-S01-E04"
+    }
+  ]
+}

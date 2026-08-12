@@ -1,0 +1,43 @@
+{
+  "id": "xilhouete",
+  "name": "Xilhouete",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S01-E06",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "PH-S01-E08",
+          "name": "Makeover a loved one",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S01-E03",
+          "song": "Glamazon"
+        },
+        {
+          "episodeId": "PH-S01-E09",
+          "song": "You'll Always Be My Number One"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PH-S01-E10"
+    }
+  ]
+}

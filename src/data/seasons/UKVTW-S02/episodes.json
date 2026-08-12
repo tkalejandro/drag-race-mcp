@@ -1,0 +1,334 @@
+[
+  {
+    "id": "UKVTW-S02-E01",
+    "seasonId": "UKVTW-S02",
+    "episodeNumber": 1,
+    "title": "The Queen's Variety Show",
+    "maxiChallenge": {
+      "name": "Perform in The Queen's Variety Show",
+      "winnerIds": [
+        "la-grande-dame",
+        "marina-summers"
+      ]
+    },
+    "runwayTheme": "For Queen and Country",
+    "topIds": [
+      "la-grande-dame",
+      "marina-summers"
+    ],
+    "bottomIds": [
+      "gothy-kendoll",
+      "mayhem-miller"
+    ],
+    "lipSync": {
+      "song": "Dreamer",
+      "queenIds": [
+        "la-grande-dame",
+        "marina-summers"
+      ],
+      "winnerIds": [
+        "marina-summers"
+      ],
+      "eliminatedIds": [
+        "mayhem-miller"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Richard E. Grant"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S02-E02",
+    "seasonId": "UKVTW-S02",
+    "episodeNumber": 2,
+    "title": "The Happy Ending Ball",
+    "miniChallenge": {
+      "name": "Choose The Fairest, The Shadiest, The Mightiest, and The Neediest",
+      "winnerIds": [
+        "marina-summers",
+        "hannah-conda",
+        "arantxa-castilla-la-mancha"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "The Happy Ending Ball",
+      "winnerIds": [
+        "keta-minaj",
+        "la-grande-dame"
+      ]
+    },
+    "runwayTheme": "Lady Prince Charming / She-vil Queen / Drags to Riches Eleganza",
+    "topIds": [
+      "keta-minaj",
+      "la-grande-dame"
+    ],
+    "bottomIds": [
+      "arantxa-castilla-la-mancha",
+      "choriza-may"
+    ],
+    "lipSync": {
+      "song": "Everytime We Touch",
+      "queenIds": [
+        "keta-minaj",
+        "la-grande-dame"
+      ],
+      "winnerIds": [
+        "la-grande-dame"
+      ],
+      "eliminatedIds": [
+        "arantxa-castilla-la-mancha"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Adwoa Aboah"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S02-E03",
+    "seasonId": "UKVTW-S02",
+    "episodeNumber": 3,
+    "title": "Drag Race World",
+    "maxiChallenge": {
+      "name": "In teams of three, write and film a promotional video for Drag Race World",
+      "winnerIds": [
+        "scarlet-envy",
+        "tia-kofi"
+      ]
+    },
+    "runwayTheme": "RuVeal Yourself",
+    "topIds": [
+      "scarlet-envy",
+      "tia-kofi"
+    ],
+    "bottomIds": [
+      "jonbers-blonde",
+      "keta-minaj"
+    ],
+    "lipSync": {
+      "song": "Future Starts Now",
+      "queenIds": [
+        "scarlet-envy",
+        "tia-kofi"
+      ],
+      "winnerIds": [
+        "scarlet-envy"
+      ],
+      "eliminatedIds": [
+        "jonbers-blonde"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Kim Petras"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S02-E04",
+    "seasonId": "UKVTW-S02",
+    "episodeNumber": 4,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game: Family Edition",
+      "winnerIds": [
+        "hannah-conda",
+        "tia-kofi"
+      ]
+    },
+    "runwayTheme": "Gone Cruising: Nautical Looks",
+    "topIds": [
+      "hannah-conda",
+      "tia-kofi"
+    ],
+    "bottomIds": [
+      "gothy-kendoll",
+      "keta-minaj"
+    ],
+    "lipSync": {
+      "song": "Crying at the Discoteque",
+      "queenIds": [
+        "hannah-conda",
+        "tia-kofi"
+      ],
+      "winnerIds": [
+        "tia-kofi"
+      ],
+      "eliminatedIds": [
+        "keta-minaj"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Tom Daley"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S02-E05",
+    "seasonId": "UKVTW-S02",
+    "episodeNumber": 5,
+    "title": "Seven!: The Rusical",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "tia-kofi"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Seven!: Confessions of a Drag Queen — The Rusical",
+      "winnerIds": [
+        "marina-summers",
+        "tia-kofi"
+      ]
+    },
+    "runwayTheme": "When I Glow Up",
+    "topIds": [
+      "marina-summers",
+      "tia-kofi"
+    ],
+    "bottomIds": [
+      "choriza-may",
+      "gothy-kendoll"
+    ],
+    "lipSync": {
+      "song": "Fucking Wizardry",
+      "queenIds": [
+        "marina-summers",
+        "tia-kofi"
+      ],
+      "winnerIds": [
+        "marina-summers"
+      ],
+      "eliminatedIds": [
+        "gothy-kendoll"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Self Esteem"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S02-E06",
+    "seasonId": "UKVTW-S02",
+    "episodeNumber": 6,
+    "title": "Strictly Come Prancing",
+    "maxiChallenge": {
+      "name": "Dance in pairs in half-and-half drag",
+      "winnerIds": [
+        "hannah-conda",
+        "marina-summers"
+      ]
+    },
+    "runwayTheme": "Business in the Front, Party in the Back",
+    "topIds": [
+      "hannah-conda",
+      "marina-summers"
+    ],
+    "bottomIds": [
+      "choriza-may",
+      "scarlet-envy"
+    ],
+    "lipSync": {
+      "song": "Release Me",
+      "queenIds": [
+        "hannah-conda",
+        "marina-summers"
+      ],
+      "winnerIds": [
+        "marina-summers"
+      ],
+      "eliminatedIds": [
+        "choriza-may"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Motsi Mabuse"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S02-E07",
+    "seasonId": "UKVTW-S02",
+    "episodeNumber": 7,
+    "title": "Haters Wedding Roast",
+    "miniChallenge": {
+      "name": "Hen party dance-off",
+      "winnerIds": [
+        "hannah-conda"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Write and deliver a wedding roast",
+      "winnerIds": [
+        "hannah-conda",
+        "tia-kofi"
+      ]
+    },
+    "runwayTheme": "Take Me Up the Aisle",
+    "topIds": [
+      "hannah-conda",
+      "tia-kofi"
+    ],
+    "bottomIds": [
+      "la-grande-dame",
+      "marina-summers",
+      "scarlet-envy"
+    ],
+    "lipSync": {
+      "song": "Euphoria",
+      "queenIds": [
+        "hannah-conda",
+        "tia-kofi"
+      ],
+      "winnerIds": [
+        "hannah-conda"
+      ],
+      "eliminatedIds": [
+        "scarlet-envy"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Katherine Ryan"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S02-E08",
+    "seasonId": "UKVTW-S02",
+    "episodeNumber": 8,
+    "title": "Grand Finale",
+    "runwayTheme": "Finale Eleganza Extravaganza",
+    "topIds": [
+      "hannah-conda",
+      "la-grande-dame",
+      "marina-summers",
+      "tia-kofi"
+    ],
+    "lipSync": {
+      "song": "Your Disco Needs You",
+      "queenIds": [
+        "hannah-conda",
+        "tia-kofi"
+      ],
+      "winnerIds": [
+        "tia-kofi"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

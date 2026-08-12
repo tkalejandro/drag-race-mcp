@@ -1,0 +1,86 @@
+{
+  "id": "brigiding",
+  "name": "Brigiding",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S01-E05",
+          "song": "Ate Sandali"
+        },
+        {
+          "episodeId": "PH-S01-E06",
+          "song": "Amakabogera"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E08",
+          "song": "Dyosa"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E08"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "PHSR-S01-E04",
+          "name": "Perform in Crazy Bitch Slaysians: The Musical"
+        },
+        {
+          "episodeId": "PHSR-S01-E05",
+          "name": "In pairs, makeover Overseas Filipino Workers"
+        },
+        {
+          "episodeId": "PHSR-S01-E06",
+          "name": "Impersonate celebrities in the Snatch Election for Drag President of the Slaysian Nation"
+        },
+        {
+          "episodeId": "PHSR-S01-E07",
+          "name": "Compete in a Lip Sync LaLaPaRuZa Slaysian Smackdown tournament"
+        },
+        {
+          "episodeId": "PHSR-S01-E09",
+          "name": "Record and perform High Time, the debut single from girl group Reyna"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PHSR-S01-E03",
+          "name": "Play a game of Kep Kep, Boob-ay",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "cash tip of ₱20,000"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PHSR-S01-E05",
+          "song": "Room"
+        },
+        {
+          "episodeId": "PHSR-S01-E10",
+          "song": "Born to Do Drag"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PHSR-S01-E04",
+          "song": "Cartoon Heroes"
+        },
+        {
+          "episodeId": "PHSR-S01-E06",
+          "song": "Out of My Head"
+        }
+      ]
+    }
+  ]
+}

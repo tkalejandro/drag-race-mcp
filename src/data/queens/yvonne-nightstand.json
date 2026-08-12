@@ -1,0 +1,47 @@
+{
+  "id": "yvonne-nightstand",
+  "name": "Yvonne Nightstand",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "DE-S01-E08",
+          "name": "Perform a comedy roast in front of the judges"
+        },
+        {
+          "episodeId": "DE-S01-E10",
+          "name": "Makeover Drag Race fans",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DE-S01-E02",
+          "name": "Get into quick drag and run on a treadmill",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DE-S01-E09",
+          "song": "Rock Me Amadeus"
+        },
+        {
+          "episodeId": "DE-S01-E12",
+          "song": "Rise Like a Phoenix"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "astrid-mercury",
+  "name": "Astrid Mercury",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S02-E02",
+          "song": "Unleash the Diva"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S02-E02"
+    }
+  ]
+}

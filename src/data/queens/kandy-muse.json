@@ -8,17 +8,34 @@
       "challengeWins": [
         {
           "episodeId": "US-S13-E12",
-          "name": "Roast of former Miss Congeniality winners"
+          "name": "Roast of former Miss Congeniality winners",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S13-E11",
-          "name": "Are You Smarter Than The Pit Crew?"
+          "name": "Are You Smarter Than The Pit Crew?",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from JJ Malibu",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S13-E12",
-          "name": "Comedy makeup tutorials in pairs"
+          "name": "Comedy makeup tutorials in pairs",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 worth of Anastasia Beverly Hills cosmetics",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -40,6 +57,52 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E06",
+          "name": "JOAN: The Unauthorized Rusical!",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
+        },
+        {
+          "episodeId": "AS-S08-E10",
+          "name": "Give lesbians drag makeovers",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S08-E06",
+          "song": "I'm Not Perfect (But I'm Perfect for You)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S08-E10",
+          "song": "Jumpin', Jumpin'"
+        },
+        {
+          "episodeId": "AS-S08-E12",
+          "song": "Do Ya Wanna Funk"
+        }
+      ]
     }
   ]
 }

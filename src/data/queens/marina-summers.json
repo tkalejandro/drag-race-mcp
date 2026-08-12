@@ -1,0 +1,87 @@
+{
+  "id": "marina-summers",
+  "name": "Marina Summers",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S01-E05",
+          "name": "Compete in the Miss Shutacca Queen Beauty Pageant",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "PH-S01-E09",
+          "name": "Star and perform in a music video for RuPaul's song \"Champion\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "PHP",
+            "context": "₱80,000"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S01-E01",
+          "name": "Dragna superhero inspired photoshoot",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E10",
+          "song": "Sirena"
+        }
+      ]
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E01",
+          "name": "Perform in The Queen's Variety Show"
+        },
+        {
+          "episodeId": "UKVTW-S02-E05",
+          "name": "Seven!: Confessions of a Drag Queen — The Rusical"
+        },
+        {
+          "episodeId": "UKVTW-S02-E06",
+          "name": "Dance in pairs in half-and-half drag"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "name": "Choose The Fairest, The Shadiest, The Mightiest, and The Neediest"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S02-E01",
+          "song": "Dreamer"
+        },
+        {
+          "episodeId": "UKVTW-S02-E05",
+          "song": "Fucking Wizardry"
+        },
+        {
+          "episodeId": "UKVTW-S02-E06",
+          "song": "Release Me"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "punani",
+  "name": "Punani",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S02-E04",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "luxury outfit from Patou worth €2,500",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S02-E01",
+          "name": "Garden photoshoot"
+        },
+        {
+          "episodeId": "FR-S02-E06",
+          "name": "Lip-sync live to \"Transfert Trottinette\" by Bilal Hassani"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S02-E05",
+          "song": "Le dernier jour du disco"
+        },
+        {
+          "episodeId": "FR-S02-E08",
+          "song": "Une femme avec une femme"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

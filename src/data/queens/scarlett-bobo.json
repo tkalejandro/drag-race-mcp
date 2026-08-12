@@ -8,18 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "CA-S01-E09",
-          "name": "The Snow Ball: Executive Holiday Party Realness, Icy Walk of Shame and Ice Queen Eleganza"
+          "name": "The Snow Ball: Executive Holiday Party Realness, Icy Walk of Shame and Ice Queen Eleganza",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "7 day trip for two to Vienna, courtesy of Air Canada Vacations",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S01-E08",
-          "name": "Everybody Loves Puppets"
+          "name": "Everybody Loves Puppets",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "trip for two to Cuba and assign the makeover pairs",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E10", "song": "You're a Superstar" }
+        {
+          "episodeId": "CA-S01-E10",
+          "song": "You're a Superstar"
+        }
       ]
     }
   ]

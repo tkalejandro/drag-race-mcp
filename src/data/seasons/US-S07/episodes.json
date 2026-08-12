@@ -6,18 +6,44 @@
     "title": "Born Naked",
     "maxiChallenge": {
       "name": "Create a resort-wear tearaway to reveal a nude illusion",
-      "winnerIds": ["violet-chachki"]
+      "winnerIds": [
+        "violet-chachki"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Dekoy hair care products",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Nude Illusion",
-    "topIds": ["violet-chachki", "kennedy-davenport", "miss-fame"],
-    "bottomIds": ["kandy-ho", "tempest-dujour"],
+    "topIds": [
+      "violet-chachki",
+      "kennedy-davenport",
+      "miss-fame"
+    ],
+    "bottomIds": [
+      "kandy-ho",
+      "tempest-dujour"
+    ],
     "lipSync": {
       "song": "Geronimo",
-      "queenIds": ["kandy-ho", "tempest-dujour"],
-      "winnerIds": ["kandy-ho"],
-      "eliminatedIds": ["tempest-dujour"]
+      "queenIds": [
+        "kandy-ho",
+        "tempest-dujour"
+      ],
+      "winnerIds": [
+        "kandy-ho"
+      ],
+      "eliminatedIds": [
+        "tempest-dujour"
+      ]
     },
-    "guestJudges": [{ "name": "Kathy Griffin" }]
+    "guestJudges": [
+      {
+        "name": "Kathy Griffin"
+      }
+    ]
   },
   {
     "id": "US-S07-E02",
@@ -26,24 +52,53 @@
     "title": "Glamazonian Airways",
     "miniChallenge": {
       "name": "Give face while the pit crew blows them with a leaf blower",
-      "winnerIds": ["ginger-minj", "trixie-mattel"]
+      "winnerIds": [
+        "ginger-minj",
+        "trixie-mattel"
+      ]
     },
     "maxiChallenge": {
       "name": "In teams, perform a mash-up of spoken word and song for a Glamazonian Airways pre-flight safety video",
-      "winnerIds": ["ginger-minj"]
+      "winnerIds": [
+        "ginger-minj"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "five-night luxury hotel accommodations courtesy of My Gay Getaway",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Jet Set Eleganza",
-    "topIds": ["ginger-minj", "mrs-kasha-davis", "violet-chachki"],
-    "bottomIds": ["katya", "sasha-belle"],
+    "topIds": [
+      "ginger-minj",
+      "mrs-kasha-davis",
+      "violet-chachki"
+    ],
+    "bottomIds": [
+      "katya",
+      "sasha-belle"
+    ],
     "lipSync": {
       "song": "Twist of Fate",
-      "queenIds": ["katya", "sasha-belle"],
-      "winnerIds": ["katya"],
-      "eliminatedIds": ["sasha-belle"]
+      "queenIds": [
+        "katya",
+        "sasha-belle"
+      ],
+      "winnerIds": [
+        "katya"
+      ],
+      "eliminatedIds": [
+        "sasha-belle"
+      ]
     },
     "guestJudges": [
-      { "name": "Jordin Sparks" },
-      { "name": "Olivia Newton-John" }
+      {
+        "name": "Jordin Sparks"
+      },
+      {
+        "name": "Olivia Newton-John"
+      }
     ]
   },
   {
@@ -53,24 +108,51 @@
     "title": "ShakesQueer",
     "miniChallenge": {
       "name": "Dress up in granny drag and dance with walkers and canes",
-      "winnerIds": ["kennedy-davenport", "max"]
+      "winnerIds": [
+        "kennedy-davenport",
+        "max"
+      ]
     },
     "maxiChallenge": {
       "name": "In teams, star in twisted Shakespeare classics MacBitch and Romy and Juliet",
-      "winnerIds": ["max"]
+      "winnerIds": [
+        "max"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Two couture latex creations, courtesy of Syren Latex",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Bearded and Beautiful",
-    "topIds": ["max"],
-    "bottomIds": ["jasmine-masters", "kennedy-davenport"],
+    "topIds": [
+      "max"
+    ],
+    "bottomIds": [
+      "jasmine-masters",
+      "kennedy-davenport"
+    ],
     "lipSync": {
       "song": "I Was Gonna Cancel",
-      "queenIds": ["jasmine-masters", "kennedy-davenport"],
-      "winnerIds": ["kennedy-davenport"],
-      "eliminatedIds": ["jasmine-masters"]
+      "queenIds": [
+        "jasmine-masters",
+        "kennedy-davenport"
+      ],
+      "winnerIds": [
+        "kennedy-davenport"
+      ],
+      "eliminatedIds": [
+        "jasmine-masters"
+      ]
     },
     "guestJudges": [
-      { "name": "Mel B" },
-      { "name": "Kat Dennings" }
+      {
+        "name": "Mel B"
+      },
+      {
+        "name": "Kat Dennings"
+      }
     ]
   },
   {
@@ -80,20 +162,46 @@
     "title": "Spoof! (There It Is)",
     "maxiChallenge": {
       "name": "In teams, create a music video parody to one of RuPaul's songs",
-      "winnerIds": ["kennedy-davenport"]
+      "winnerIds": [
+        "kennedy-davenport"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "3 year supply of essential family products from The Honest Company",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Green",
-    "topIds": ["kennedy-davenport", "jaidynn-diore-fierce", "katya"],
-    "bottomIds": ["pearl", "trixie-mattel"],
+    "topIds": [
+      "kennedy-davenport",
+      "jaidynn-diore-fierce",
+      "katya"
+    ],
+    "bottomIds": [
+      "pearl",
+      "trixie-mattel"
+    ],
     "lipSync": {
       "song": "Dreaming",
-      "queenIds": ["pearl", "trixie-mattel"],
-      "winnerIds": ["pearl"],
-      "eliminatedIds": ["trixie-mattel"]
+      "queenIds": [
+        "pearl",
+        "trixie-mattel"
+      ],
+      "winnerIds": [
+        "pearl"
+      ],
+      "eliminatedIds": [
+        "trixie-mattel"
+      ]
     },
     "guestJudges": [
-      { "name": "Jessica Alba" },
-      { "name": "Lucian Piane" }
+      {
+        "name": "Jessica Alba"
+      },
+      {
+        "name": "Lucian Piane"
+      }
     ]
   },
   {
@@ -103,21 +211,52 @@
     "title": "The DESPY Awards",
     "miniChallenge": {
       "name": "In pairs, make paper versions of classic celebrity red carpet outfits",
-      "winnerIds": ["katya", "mrs-kasha-davis"]
+      "winnerIds": [
+        "katya",
+        "mrs-kasha-davis"
+      ]
     },
     "maxiChallenge": {
       "name": "Present awards with banter at the DESPY Awards",
-      "winnerIds": ["max", "pearl"]
+      "winnerIds": [
+        "max",
+        "pearl"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom jewel packages, courtesy of Fierce Drag Jewels",
+        "isSponsor": true
+      }
     },
-    "topIds": ["max", "pearl", "jaidynn-diore-fierce", "kennedy-davenport"],
-    "bottomIds": ["kandy-ho", "mrs-kasha-davis"],
+    "topIds": [
+      "max",
+      "pearl",
+      "jaidynn-diore-fierce",
+      "kennedy-davenport"
+    ],
+    "bottomIds": [
+      "kandy-ho",
+      "mrs-kasha-davis"
+    ],
     "lipSync": {
       "song": "Lovergirl",
-      "queenIds": ["kandy-ho", "mrs-kasha-davis"],
-      "winnerIds": ["kandy-ho"],
-      "eliminatedIds": ["mrs-kasha-davis"]
+      "queenIds": [
+        "kandy-ho",
+        "mrs-kasha-davis"
+      ],
+      "winnerIds": [
+        "kandy-ho"
+      ],
+      "eliminatedIds": [
+        "mrs-kasha-davis"
+      ]
     },
-    "guestJudges": [{ "name": "Isaac Mizrahi" }]
+    "guestJudges": [
+      {
+        "name": "Isaac Mizrahi"
+      }
+    ]
   },
   {
     "id": "US-S07-E06",
@@ -126,24 +265,50 @@
     "title": "Ru Hollywood Stories",
     "miniChallenge": {
       "name": "Gain points by selecting pit crew members while avoiding the one with a monster in his pants",
-      "winnerIds": ["ginger-minj"]
+      "winnerIds": [
+        "ginger-minj"
+      ]
     },
     "maxiChallenge": {
       "name": "Re-enact Whatever Happened to Merle Ginsberg from Merle Ginsberg, Michelle Visage, and RuPaul points of view",
-      "winnerIds": ["katya"]
+      "winnerIds": [
+        "katya"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2000 giftcard to FABRICplanet",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Death Becomes Her",
-    "topIds": ["katya"],
-    "bottomIds": ["jaidynn-diore-fierce", "kandy-ho"],
+    "topIds": [
+      "katya"
+    ],
+    "bottomIds": [
+      "jaidynn-diore-fierce",
+      "kandy-ho"
+    ],
     "lipSync": {
       "song": "Break Free",
-      "queenIds": ["jaidynn-diore-fierce", "kandy-ho"],
-      "winnerIds": ["jaidynn-diore-fierce"],
-      "eliminatedIds": ["kandy-ho"]
+      "queenIds": [
+        "jaidynn-diore-fierce",
+        "kandy-ho"
+      ],
+      "winnerIds": [
+        "jaidynn-diore-fierce"
+      ],
+      "eliminatedIds": [
+        "kandy-ho"
+      ]
     },
     "guestJudges": [
-      { "name": "Ariana Grande" },
-      { "name": "Merle Ginsberg" }
+      {
+        "name": "Ariana Grande"
+      },
+      {
+        "name": "Merle Ginsberg"
+      }
     ]
   },
   {
@@ -153,20 +318,47 @@
     "title": "Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["ginger-minj", "kennedy-davenport"]
+      "winnerIds": [
+        "ginger-minj",
+        "kennedy-davenport"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Feather accessories from Mother Plucker",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Leather and Lace",
-    "topIds": ["ginger-minj", "kennedy-davenport", "katya"],
-    "bottomIds": ["jaidynn-diore-fierce", "max"],
+    "topIds": [
+      "ginger-minj",
+      "kennedy-davenport",
+      "katya"
+    ],
+    "bottomIds": [
+      "jaidynn-diore-fierce",
+      "max"
+    ],
     "lipSync": {
       "song": "No More Lies",
-      "queenIds": ["jaidynn-diore-fierce", "max"],
-      "winnerIds": ["jaidynn-diore-fierce"],
-      "eliminatedIds": ["max"]
+      "queenIds": [
+        "jaidynn-diore-fierce",
+        "max"
+      ],
+      "winnerIds": [
+        "jaidynn-diore-fierce"
+      ],
+      "eliminatedIds": [
+        "max"
+      ]
     },
     "guestJudges": [
-      { "name": "Michael Urie" },
-      { "name": "Tamar Braxton" }
+      {
+        "name": "Michael Urie"
+      },
+      {
+        "name": "Tamar Braxton"
+      }
     ]
   },
   {
@@ -176,23 +368,50 @@
     "title": "Conjoined Queens",
     "miniChallenge": {
       "name": "Recreate prison uniforms as Orange is the new Drag fashion looks",
-      "winnerIds": ["kennedy-davenport"]
+      "winnerIds": [
+        "kennedy-davenport"
+      ]
     },
     "maxiChallenge": {
       "name": "Create a conjoined twin makeover with a previously eliminated queen",
-      "winnerIds": ["pearl"]
+      "winnerIds": [
+        "pearl"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom website by Square Space"
+      }
     },
-    "topIds": ["pearl", "katya", "violet-chachki"],
-    "bottomIds": ["ginger-minj", "jaidynn-diore-fierce"],
+    "topIds": [
+      "pearl",
+      "katya",
+      "violet-chachki"
+    ],
+    "bottomIds": [
+      "ginger-minj",
+      "jaidynn-diore-fierce"
+    ],
     "lipSync": {
       "song": "I Think We're Alone Now",
-      "queenIds": ["ginger-minj", "jaidynn-diore-fierce"],
-      "winnerIds": ["ginger-minj"],
-      "eliminatedIds": ["jaidynn-diore-fierce"]
+      "queenIds": [
+        "ginger-minj",
+        "jaidynn-diore-fierce"
+      ],
+      "winnerIds": [
+        "ginger-minj"
+      ],
+      "eliminatedIds": [
+        "jaidynn-diore-fierce"
+      ]
     },
     "guestJudges": [
-      { "name": "LeAnn Rimes" },
-      { "name": "Nelsan Ellis" }
+      {
+        "name": "LeAnn Rimes"
+      },
+      {
+        "name": "Nelsan Ellis"
+      }
     ]
   },
   {
@@ -202,24 +421,51 @@
     "title": "Divine Inspiration",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["trixie-mattel"]
+      "winnerIds": [
+        "trixie-mattel"
+      ]
     },
     "maxiChallenge": {
       "name": "Star in musical versions of iconic John Waters films",
-      "winnerIds": ["ginger-minj"]
+      "winnerIds": [
+        "ginger-minj"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "hair collection by Weavin' Steven"
+      }
     },
     "runwayTheme": "Ugliest Dress",
-    "topIds": ["ginger-minj", "katya", "kennedy-davenport"],
-    "bottomIds": ["miss-fame", "pearl"],
+    "topIds": [
+      "ginger-minj",
+      "katya",
+      "kennedy-davenport"
+    ],
+    "bottomIds": [
+      "miss-fame",
+      "pearl"
+    ],
     "lipSync": {
       "song": "Really Don't Care",
-      "queenIds": ["miss-fame", "pearl"],
-      "winnerIds": ["pearl"],
-      "eliminatedIds": ["miss-fame"]
+      "queenIds": [
+        "miss-fame",
+        "pearl"
+      ],
+      "winnerIds": [
+        "pearl"
+      ],
+      "eliminatedIds": [
+        "miss-fame"
+      ]
     },
     "guestJudges": [
-      { "name": "Demi Lovato" },
-      { "name": "John Waters" }
+      {
+        "name": "Demi Lovato"
+      },
+      {
+        "name": "John Waters"
+      }
     ]
   },
   {
@@ -229,24 +475,52 @@
     "title": "Prancing Queens",
     "miniChallenge": {
       "name": "Create a Fake Housewives of Drag Race look using tape",
-      "winnerIds": ["violet-chachki"]
+      "winnerIds": [
+        "violet-chachki"
+      ]
     },
     "maxiChallenge": {
       "name": "In pairs, dance in a live drag dance spectacular",
-      "winnerIds": ["katya", "violet-chachki"]
+      "winnerIds": [
+        "katya",
+        "violet-chachki"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "An original gown from Mountbatten Concepts and a gift card from Klein Epstein & Parker",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Half Man, Half Queen",
-    "topIds": ["katya", "violet-chachki"],
-    "bottomIds": ["ginger-minj", "trixie-mattel"],
+    "topIds": [
+      "katya",
+      "violet-chachki"
+    ],
+    "bottomIds": [
+      "ginger-minj",
+      "trixie-mattel"
+    ],
     "lipSync": {
       "song": "Show Me Love",
-      "queenIds": ["ginger-minj", "trixie-mattel"],
-      "winnerIds": ["ginger-minj"],
-      "eliminatedIds": ["trixie-mattel"]
+      "queenIds": [
+        "ginger-minj",
+        "trixie-mattel"
+      ],
+      "winnerIds": [
+        "ginger-minj"
+      ],
+      "eliminatedIds": [
+        "trixie-mattel"
+      ]
     },
     "guestJudges": [
-      { "name": "Alyssa Milano" },
-      { "name": "Rachael Harris" }
+      {
+        "name": "Alyssa Milano"
+      },
+      {
+        "name": "Rachael Harris"
+      }
     ]
   },
   {
@@ -256,24 +530,51 @@
     "title": "Hello, Kitty Girls!",
     "miniChallenge": {
       "name": "Everybody Loves Puppets",
-      "winnerIds": ["ginger-minj"]
+      "winnerIds": [
+        "ginger-minj"
+      ]
     },
     "maxiChallenge": {
       "name": "The Hello Kitty Ball",
-      "winnerIds": ["violet-chachki"]
+      "winnerIds": [
+        "violet-chachki"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Hello Kitty Extravaganza Package"
+      }
     },
     "runwayTheme": "Hello Kitty BFF and Hello Kitty Eleganza",
-    "topIds": ["violet-chachki", "ginger-minj", "pearl"],
-    "bottomIds": ["katya", "kennedy-davenport"],
+    "topIds": [
+      "violet-chachki",
+      "ginger-minj",
+      "pearl"
+    ],
+    "bottomIds": [
+      "katya",
+      "kennedy-davenport"
+    ],
     "lipSync": {
       "song": "Roar",
-      "queenIds": ["katya", "kennedy-davenport"],
-      "winnerIds": ["kennedy-davenport"],
-      "eliminatedIds": ["katya"]
+      "queenIds": [
+        "katya",
+        "kennedy-davenport"
+      ],
+      "winnerIds": [
+        "kennedy-davenport"
+      ],
+      "eliminatedIds": [
+        "katya"
+      ]
     },
     "guestJudges": [
-      { "name": "Rebecca Romijn" },
-      { "name": "Santino Rice" }
+      {
+        "name": "Rebecca Romijn"
+      },
+      {
+        "name": "Santino Rice"
+      }
     ]
   },
   {
@@ -282,8 +583,14 @@
     "episodeNumber": 12,
     "title": "And the Rest Is Drag",
     "runwayTheme": "Best Drag",
-    "topIds": ["ginger-minj", "pearl", "violet-chachki"],
-    "bottomIds": ["kennedy-davenport"],
+    "topIds": [
+      "ginger-minj",
+      "pearl",
+      "violet-chachki"
+    ],
+    "bottomIds": [
+      "kennedy-davenport"
+    ],
     "lipSync": {
       "song": "Born Naked",
       "queenIds": [
@@ -292,8 +599,14 @@
         "pearl",
         "violet-chachki"
       ],
-      "winnerIds": ["ginger-minj", "pearl", "violet-chachki"],
-      "eliminatedIds": ["kennedy-davenport"]
+      "winnerIds": [
+        "ginger-minj",
+        "pearl",
+        "violet-chachki"
+      ],
+      "eliminatedIds": [
+        "kennedy-davenport"
+      ]
     }
   },
   {

@@ -1,0 +1,63 @@
+{
+  "id": "DU-S01",
+  "franchise": "DU",
+  "name": "RuPaul's Drag Race Down Under Season 1",
+  "seasonNumber": 1,
+  "year": 2021,
+  "episodeCount": 8,
+  "episodeIds": [
+    "DU-S01-E01",
+    "DU-S01-E02",
+    "DU-S01-E03",
+    "DU-S01-E04",
+    "DU-S01-E05",
+    "DU-S01-E06",
+    "DU-S01-E07",
+    "DU-S01-E08"
+  ],
+  "castIds": [
+    "kita-mean",
+    "art-simone",
+    "karen-from-finance",
+    "scarlet-adams",
+    "elektra-shock",
+    "maxi-shield",
+    "etcetera-etcetera",
+    "anita-wiglit",
+    "coco-jumbo",
+    "jojo-zaho"
+  ],
+  "winnerIds": [
+    "kita-mean"
+  ],
+  "runnerUpIds": [
+    "art-simone",
+    "karen-from-finance",
+    "scarlet-adams"
+  ],
+  "porkchopIds": [
+    "jojo-zaho"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Rhys Nicholson"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 30000,
+    "currency": "AUD",
+    "context": "A$30,000 season grand prize"
+  }
+}

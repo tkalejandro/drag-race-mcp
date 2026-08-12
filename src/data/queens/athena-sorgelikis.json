@@ -1,0 +1,62 @@
+{
+  "id": "athena-sorgelikis",
+  "name": "Athena Likis",
+  "aliases": [
+    "Athena Sorgelikis"
+  ],
+  "appearances": [
+    {
+      "seasonId": "BE-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "BE-S01-E01",
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Two tickets to see Stromae in Brussels",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "BE-S01-E06",
+          "name": "Makeover Belgian TV personalities",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Two tickets the Eurovision Song Contest",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S01-E07",
+          "song": "Le Banana Split"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S01-E08",
+          "song": "Démons"
+        }
+      ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E03",
+          "song": "Bad Idea Right?"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E03"
+    }
+  ]
+}

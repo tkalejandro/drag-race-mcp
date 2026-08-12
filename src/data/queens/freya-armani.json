@@ -1,0 +1,31 @@
+{
+  "id": "freya-armani",
+  "name": "Freya Armani",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 4,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DU-S04-E06",
+          "name": "Attempt to make Michelle Visage slap them",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "two night stay and dinner experience from Hilton Auckland",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S04-E04",
+          "song": "What About Me"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "DU-S04-E08"
+    }
+  ]
+}

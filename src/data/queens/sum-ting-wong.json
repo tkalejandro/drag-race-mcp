@@ -9,11 +9,26 @@
       "challengeWins": [],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "UK-S01-E03", "song": "Would I Lie to You?" }
+        {
+          "episodeId": "UK-S01-E03",
+          "song": "Would I Lie to You?"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "UK-S01-E04", "song": "Spice Up Your Life" }
+        {
+          "episodeId": "UK-S01-E04",
+          "song": "Spice Up Your Life"
+        }
       ]
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PHSR-S01-E02"
     }
   ]
 }

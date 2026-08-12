@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S07-E04",
-          "name": "In teams, create a music video parody to one of RuPaul's songs"
+          "name": "In teams, create a music video parody to one of RuPaul's songs",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "3 year supply of essential family products from The Honest Company",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S07-E07",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Feather accessories from Mother Plucker",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -42,6 +54,100 @@
         }
       ],
       "eliminatedEpisodeId": "US-S07-E12"
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S03-E03",
+          "name": "In pairs, improvise in an unscripted dating show inspired by The Bachelor called \"The Bitchelor\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "jewelry pack from Fierce Drag Jewels and a $1000 gift card to Nailed by Cristy",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S03-E03",
+          "song": "Green Light",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S03-E08",
+          "song": "Wrecking Ball"
+        }
+      ]
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E08",
+          "name": "Write and perform verses roasting each other in the Rappin' Roast"
+        },
+        {
+          "episodeId": "AS-S11-E09",
+          "name": "Lip-sync interviews from The RuPaul Show portraying RuPaul and celebrity guests"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E08",
+          "song": "The Ladies Who Lunch",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S11-E09",
+          "song": "Breakin' Dishes",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E10",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E10"
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S02-E02",
+          "name": "Improvise in the reality TV spoof The Hole"
+        },
+        {
+          "episodeId": "CVTW-S02-E04",
+          "name": "Reading Battles stand-up"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "CVTW-S02-E06"
     }
   ]
 }

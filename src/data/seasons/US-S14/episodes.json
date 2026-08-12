@@ -6,22 +6,55 @@
     "title": "Big Opening #1",
     "miniChallenge": {
       "name": "Photoshoot on a spinning wheel",
-      "winnerIds": ["kerri-colby"]
+      "winnerIds": [
+        "kerri-colby"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip courtesy of J.J. Malibu",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
-      "winnerIds": ["kornbread-the-snack-jete"]
+      "winnerIds": [
+        "kornbread-the-snack-jete"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Signature Show-Stopping Drag",
-    "topIds": ["bosco", "kornbread-the-snack-jete", "willow-pill"],
-    "bottomIds": ["june-jambalaya", "orion-story"],
+    "topIds": [
+      "bosco",
+      "kornbread-the-snack-jete",
+      "willow-pill"
+    ],
+    "bottomIds": [
+      "june-jambalaya",
+      "orion-story"
+    ],
     "lipSync": {
       "song": "Water Me",
-      "queenIds": ["june-jambalaya", "orion-story"],
-      "winnerIds": ["june-jambalaya"],
-      "eliminatedIds": ["orion-story"]
+      "queenIds": [
+        "june-jambalaya",
+        "orion-story"
+      ],
+      "winnerIds": [
+        "june-jambalaya"
+      ],
+      "eliminatedIds": [
+        "orion-story"
+      ]
     },
-    "guestJudges": [{ "name": "Lizzo" }]
+    "guestJudges": [
+      {
+        "name": "Lizzo"
+      }
+    ]
   },
   {
     "id": "US-S14-E02",
@@ -30,22 +63,55 @@
     "title": "Big Opening #2",
     "miniChallenge": {
       "name": "Photoshoot in a bowl of tic-tacs",
-      "winnerIds": ["angeria-paris-vanmicheals"]
+      "winnerIds": [
+        "angeria-paris-vanmicheals"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip courtesy of J.J. Malibu",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
-      "winnerIds": ["angeria-paris-vanmicheals"]
+      "winnerIds": [
+        "angeria-paris-vanmicheals"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Sickening Signature Drag",
-    "topIds": ["angeria-paris-vanmicheals", "jorgeous", "lady-camden"],
-    "bottomIds": ["daya-betty", "deja-skye"],
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "jorgeous",
+      "lady-camden"
+    ],
+    "bottomIds": [
+      "daya-betty",
+      "deja-skye"
+    ],
     "lipSync": {
       "song": "Fallin'",
-      "queenIds": ["daya-betty", "deja-skye"],
-      "winnerIds": ["deja-skye"],
-      "eliminatedIds": ["daya-betty"]
+      "queenIds": [
+        "daya-betty",
+        "deja-skye"
+      ],
+      "winnerIds": [
+        "deja-skye"
+      ],
+      "eliminatedIds": [
+        "daya-betty"
+      ]
     },
-    "guestJudges": [{ "name": "Alicia Keys" }]
+    "guestJudges": [
+      {
+        "name": "Alicia Keys"
+      }
+    ]
   },
   {
     "id": "US-S14-E03",
@@ -54,16 +120,37 @@
     "title": "A Pair of Balls",
     "maxiChallenge": {
       "name": "Compete in dual balls: The Hide and Chic Ball and The Red, White and Blue Ball",
-      "winnerIds": ["willow-pill"]
+      "winnerIds": [
+        "willow-pill"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Hide and Chic Ball / Red, White and Blue Ball",
-    "topIds": ["angeria-paris-vanmicheals", "jorgeous", "willow-pill"],
-    "bottomIds": ["june-jambalaya", "maddy-morphosis"],
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "jorgeous",
+      "willow-pill"
+    ],
+    "bottomIds": [
+      "june-jambalaya",
+      "maddy-morphosis"
+    ],
     "lipSync": {
       "song": "I Love It",
-      "queenIds": ["june-jambalaya", "maddy-morphosis"],
-      "winnerIds": ["maddy-morphosis"],
-      "eliminatedIds": ["june-jambalaya"]
+      "queenIds": [
+        "june-jambalaya",
+        "maddy-morphosis"
+      ],
+      "winnerIds": [
+        "maddy-morphosis"
+      ],
+      "eliminatedIds": [
+        "june-jambalaya"
+      ]
     }
   },
   {
@@ -73,18 +160,43 @@
     "title": "She's a Super Tease",
     "maxiChallenge": {
       "name": "In teams, produce attention-grabbing superteases for Season 14",
-      "winnerIds": ["angeria-paris-vanmicheals"]
+      "winnerIds": [
+        "angeria-paris-vanmicheals"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Night of a Thousand Jennifer Lopez's",
-    "topIds": ["angeria-paris-vanmicheals", "deja-skye", "willow-pill"],
-    "bottomIds": ["alyssa-hunter", "kerri-colby"],
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "deja-skye",
+      "willow-pill"
+    ],
+    "bottomIds": [
+      "alyssa-hunter",
+      "kerri-colby"
+    ],
     "lipSync": {
       "song": "Play",
-      "queenIds": ["alyssa-hunter", "kerri-colby"],
-      "winnerIds": ["kerri-colby"],
-      "eliminatedIds": ["alyssa-hunter"]
+      "queenIds": [
+        "alyssa-hunter",
+        "kerri-colby"
+      ],
+      "winnerIds": [
+        "kerri-colby"
+      ],
+      "eliminatedIds": [
+        "alyssa-hunter"
+      ]
     },
-    "guestJudges": [{ "name": "Loni Love" }]
+    "guestJudges": [
+      {
+        "name": "Loni Love"
+      }
+    ]
   },
   {
     "id": "US-S14-E05",
@@ -93,18 +205,43 @@
     "title": "Save a Queen",
     "maxiChallenge": {
       "name": "In teams, write a commercial for Save A Queen, a charity for first-eliminated queens",
-      "winnerIds": ["bosco"]
+      "winnerIds": [
+        "bosco"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Spring Has Sprung",
-    "topIds": ["angeria-paris-vanmicheals", "bosco", "lady-camden"],
-    "bottomIds": ["jorgeous", "orion-story"],
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "bosco",
+      "lady-camden"
+    ],
+    "bottomIds": [
+      "jorgeous",
+      "orion-story"
+    ],
     "lipSync": {
       "song": "My Head & My Heart",
-      "queenIds": ["jorgeous", "orion-story"],
-      "winnerIds": ["jorgeous"],
-      "eliminatedIds": ["orion-story"]
+      "queenIds": [
+        "jorgeous",
+        "orion-story"
+      ],
+      "winnerIds": [
+        "jorgeous"
+      ],
+      "eliminatedIds": [
+        "orion-story"
+      ]
     },
-    "guestJudges": [{ "name": "Ava Max" }]
+    "guestJudges": [
+      {
+        "name": "Ava Max"
+      }
+    ]
   },
   {
     "id": "US-S14-E06",
@@ -113,18 +250,43 @@
     "title": "Glamazon Prime",
     "maxiChallenge": {
       "name": "Create an outfit from junk Michelle Visage bought online",
-      "winnerIds": ["jorgeous"]
+      "winnerIds": [
+        "jorgeous"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Glamazon Primetime",
-    "topIds": ["angeria-paris-vanmicheals", "jorgeous", "lady-camden"],
-    "bottomIds": ["jasmine-kennedie", "maddy-morphosis"],
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "jorgeous",
+      "lady-camden"
+    ],
+    "bottomIds": [
+      "jasmine-kennedie",
+      "maddy-morphosis"
+    ],
     "lipSync": {
       "song": "Suga Mama",
-      "queenIds": ["jasmine-kennedie", "maddy-morphosis"],
-      "winnerIds": ["jasmine-kennedie"],
-      "eliminatedIds": ["maddy-morphosis"]
+      "queenIds": [
+        "jasmine-kennedie",
+        "maddy-morphosis"
+      ],
+      "winnerIds": [
+        "jasmine-kennedie"
+      ],
+      "eliminatedIds": [
+        "maddy-morphosis"
+      ]
     },
-    "guestJudges": [{ "name": "Taraji P. Henson" }]
+    "guestJudges": [
+      {
+        "name": "Taraji P. Henson"
+      }
+    ]
   },
   {
     "id": "US-S14-E07",
@@ -133,7 +295,14 @@
     "title": "The Daytona Wind",
     "maxiChallenge": {
       "name": "Act in an 80s soap opera called The Daytona Wind",
-      "winnerIds": ["lady-camden"]
+      "winnerIds": [
+        "lady-camden"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Chaps on the Runway",
     "topIds": [
@@ -146,10 +315,19 @@
     ],
     "lipSync": {
       "song": "One Way or Another",
-      "queenIds": ["daya-betty", "lady-camden"],
-      "winnerIds": ["lady-camden"]
+      "queenIds": [
+        "daya-betty",
+        "lady-camden"
+      ],
+      "winnerIds": [
+        "lady-camden"
+      ]
     },
-    "guestJudges": [{ "name": "Ts Madison" }]
+    "guestJudges": [
+      {
+        "name": "Ts Madison"
+      }
+    ]
   },
   {
     "id": "US-S14-E08",
@@ -158,22 +336,55 @@
     "title": "60s Girl Groups",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["bosco"]
+      "winnerIds": [
+        "bosco"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip courtesy of Sweet Tarts",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses as 60s-inspired girl groups",
-      "winnerIds": ["daya-betty"]
+      "winnerIds": [
+        "daya-betty"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Heart On",
-    "topIds": ["angeria-paris-vanmicheals", "daya-betty", "deja-skye"],
-    "bottomIds": ["jasmine-kennedie", "kerri-colby"],
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "daya-betty",
+      "deja-skye"
+    ],
+    "bottomIds": [
+      "jasmine-kennedie",
+      "kerri-colby"
+    ],
     "lipSync": {
       "song": "Un-Break My Heart (Soul-Hex Radio Mix)",
-      "queenIds": ["jasmine-kennedie", "kerri-colby"],
-      "winnerIds": ["jasmine-kennedie"],
-      "eliminatedIds": ["kerri-colby"]
+      "queenIds": [
+        "jasmine-kennedie",
+        "kerri-colby"
+      ],
+      "winnerIds": [
+        "jasmine-kennedie"
+      ],
+      "eliminatedIds": [
+        "kerri-colby"
+      ]
     },
-    "guestJudges": [{ "name": "Alec Mapa" }]
+    "guestJudges": [
+      {
+        "name": "Alec Mapa"
+      }
+    ]
   },
   {
     "id": "US-S14-E09",
@@ -182,21 +393,52 @@
     "title": "Menzeses",
     "miniChallenge": {
       "name": "Photobomb famous male celebrities",
-      "winnerIds": ["willow-pill"]
+      "winnerIds": [
+        "willow-pill"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "In teams, create a RuPaul's DragCon panel discussion about men",
-      "winnerIds": ["bosco"]
+      "winnerIds": [
+        "bosco"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Shoulder Pads",
-    "topIds": ["bosco", "deja-skye", "willow-pill"],
-    "bottomIds": ["jasmine-kennedie", "jorgeous"],
+    "topIds": [
+      "bosco",
+      "deja-skye",
+      "willow-pill"
+    ],
+    "bottomIds": [
+      "jasmine-kennedie",
+      "jorgeous"
+    ],
     "lipSync": {
       "song": "Something's Got a Hold on Me",
-      "queenIds": ["jasmine-kennedie", "jorgeous"],
-      "winnerIds": ["jasmine-kennedie", "jorgeous"]
+      "queenIds": [
+        "jasmine-kennedie",
+        "jorgeous"
+      ],
+      "winnerIds": [
+        "jasmine-kennedie",
+        "jorgeous"
+      ]
     },
-    "guestJudges": [{ "name": "Nicole Byer" }]
+    "guestJudges": [
+      {
+        "name": "Nicole Byer"
+      }
+    ]
   },
   {
     "id": "US-S14-E10",
@@ -205,14 +447,30 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Create an outfit made from bubble wrap",
-      "winnerIds": ["bosco"]
+      "winnerIds": [
+        "bosco"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["deja-skye"]
+      "winnerIds": [
+        "deja-skye"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Holy Couture",
-    "topIds": ["deja-skye"],
+    "topIds": [
+      "deja-skye"
+    ],
     "bottomIds": [
       "angeria-paris-vanmicheals",
       "bosco",
@@ -222,7 +480,11 @@
       "lady-camden",
       "willow-pill"
     ],
-    "guestJudges": [{ "name": "Dove Cameron" }]
+    "guestJudges": [
+      {
+        "name": "Dove Cameron"
+      }
+    ]
   },
   {
     "id": "US-S14-E11",
@@ -231,9 +493,16 @@
     "title": "An Extra Special Episode",
     "lipSync": {
       "song": "Swept Away",
-      "queenIds": ["bosco", "jasmine-kennedie"],
-      "winnerIds": ["bosco"],
-      "eliminatedIds": ["jasmine-kennedie"]
+      "queenIds": [
+        "bosco",
+        "jasmine-kennedie"
+      ],
+      "winnerIds": [
+        "bosco"
+      ],
+      "eliminatedIds": [
+        "jasmine-kennedie"
+      ]
     }
   },
   {
@@ -243,17 +512,40 @@
     "title": "Moulin Ru: The Rusical",
     "maxiChallenge": {
       "name": "Moulin Ru: The Rusical",
-      "winnerIds": ["lady-camden"]
+      "winnerIds": [
+        "lady-camden"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip and a trip to New York with tickets to Moulin Rouge"
+      }
     },
     "runwayTheme": "Mirror, Mirror",
-    "topIds": ["daya-betty", "lady-camden", "willow-pill"],
-    "bottomIds": ["bosco", "jorgeous"],
+    "topIds": [
+      "daya-betty",
+      "lady-camden",
+      "willow-pill"
+    ],
+    "bottomIds": [
+      "bosco",
+      "jorgeous"
+    ],
     "lipSync": {
       "song": "Heartbreak Hotel (Hex Hector Remix)",
-      "queenIds": ["bosco", "jorgeous"],
-      "winnerIds": ["jorgeous"]
+      "queenIds": [
+        "bosco",
+        "jorgeous"
+      ],
+      "winnerIds": [
+        "jorgeous"
+      ]
     },
-    "guestJudges": [{ "name": "Andra Day" }]
+    "guestJudges": [
+      {
+        "name": "Andra Day"
+      }
+    ]
   },
   {
     "id": "US-S14-E13",
@@ -262,11 +554,29 @@
     "title": "The Ross Mathews Roast",
     "miniChallenge": {
       "name": "In teams, paint a mural of Dolly Parton or RuPaul",
-      "winnerIds": ["bosco", "daya-betty", "lady-camden", "willow-pill"]
+      "winnerIds": [
+        "bosco",
+        "daya-betty",
+        "lady-camden",
+        "willow-pill"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,500 worth of Anastasia Beverly Hills cosmetics",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a roast of Ross Mathews",
-      "winnerIds": ["bosco"]
+      "winnerIds": [
+        "bosco"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Tutu Much",
     "topIds": [
@@ -275,14 +585,31 @@
       "lady-camden",
       "willow-pill"
     ],
-    "bottomIds": ["daya-betty", "deja-skye", "jorgeous"],
+    "bottomIds": [
+      "daya-betty",
+      "deja-skye",
+      "jorgeous"
+    ],
     "lipSync": {
       "song": "Good 4 U",
-      "queenIds": ["daya-betty", "deja-skye", "jorgeous"],
-      "winnerIds": ["daya-betty"],
-      "eliminatedIds": ["deja-skye", "jorgeous"]
+      "queenIds": [
+        "daya-betty",
+        "deja-skye",
+        "jorgeous"
+      ],
+      "winnerIds": [
+        "daya-betty"
+      ],
+      "eliminatedIds": [
+        "deja-skye",
+        "jorgeous"
+      ]
     },
-    "guestJudges": [{ "name": "Dulcé Sloan" }]
+    "guestJudges": [
+      {
+        "name": "Dulcé Sloan"
+      }
+    ]
   },
   {
     "id": "US-S14-E14",
@@ -291,15 +618,34 @@
     "title": "Catwalk",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to RuPaul's Catwalk",
-      "winnerIds": ["lady-camden"]
+      "winnerIds": [
+        "lady-camden"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "You're A Winner Baby",
-    "topIds": ["daya-betty", "lady-camden"],
-    "bottomIds": ["angeria-paris-vanmicheals", "willow-pill"],
+    "topIds": [
+      "daya-betty",
+      "lady-camden"
+    ],
+    "bottomIds": [
+      "angeria-paris-vanmicheals",
+      "willow-pill"
+    ],
     "lipSync": {
       "song": "Telephone",
-      "queenIds": ["angeria-paris-vanmicheals", "willow-pill"],
-      "winnerIds": ["angeria-paris-vanmicheals", "willow-pill"]
+      "queenIds": [
+        "angeria-paris-vanmicheals",
+        "willow-pill"
+      ],
+      "winnerIds": [
+        "angeria-paris-vanmicheals",
+        "willow-pill"
+      ]
     }
   },
   {

@@ -1,0 +1,303 @@
+[
+  {
+    "id": "UKVTW-S03-E01",
+    "seasonId": "UKVTW-S03",
+    "episodeNumber": 1,
+    "title": "RuRuvision Song Contest",
+    "maxiChallenge": {
+      "name": "Perform an original song at the RuRuvision Song Contest",
+      "winnerIds": [
+        "fontana",
+        "gawdland"
+      ]
+    },
+    "runwayTheme": "For Queen and Country",
+    "topIds": [
+      "fontana",
+      "gawdland"
+    ],
+    "lipSync": {
+      "song": "Tattoo",
+      "queenIds": [
+        "fontana",
+        "gawdland"
+      ],
+      "winnerIds": [
+        "fontana"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Loreen"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S03-E02",
+    "seasonId": "UKVTW-S03",
+    "episodeNumber": 2,
+    "title": "Runway Ru-Mix",
+    "maxiChallenge": {
+      "name": "Present RuDemption and The RuMix looks, reworking another queen's outfit",
+      "winnerIds": [
+        "gawdland"
+      ]
+    },
+    "runwayTheme": "RuDemption / The RuMix",
+    "topIds": [
+      "gawdland"
+    ],
+    "bottomIds": [
+      "melinda-verga",
+      "the-only-naomy"
+    ],
+    "lipSync": {
+      "song": "I Begin to Wonder",
+      "queenIds": [
+        "melinda-verga",
+        "the-only-naomy"
+      ],
+      "winnerIds": [
+        "the-only-naomy"
+      ],
+      "eliminatedIds": [
+        "melinda-verga"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Kristen McMenamy"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S03-E03",
+    "seasonId": "UKVTW-S03",
+    "episodeNumber": 3,
+    "title": "The Miss Snatch Game Pageant",
+    "maxiChallenge": {
+      "name": "Miss Snatch Game Pageant",
+      "winnerIds": [
+        "gawdland"
+      ]
+    },
+    "runwayTheme": "Let Them Eat Capes",
+    "topIds": [
+      "gawdland"
+    ],
+    "bottomIds": [
+      "fontana",
+      "minty-fresh"
+    ],
+    "lipSync": {
+      "song": "Angel of My Dreams",
+      "queenIds": [
+        "fontana",
+        "minty-fresh"
+      ],
+      "winnerIds": [
+        "fontana"
+      ],
+      "eliminatedIds": [
+        "minty-fresh"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Jade Thirlwall"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S03-E04",
+    "seasonId": "UKVTW-S03",
+    "episodeNumber": 4,
+    "title": "Girl Groups from Outer Space",
+    "maxiChallenge": {
+      "name": "Write, record and perform verses to I'm in Love with an Alien",
+      "winnerIds": [
+        "kate-butch"
+      ]
+    },
+    "runwayTheme": "You're A Star Baby",
+    "topIds": [
+      "kate-butch"
+    ],
+    "bottomIds": [
+      "serena-morena",
+      "sminty-drop"
+    ],
+    "lipSync": {
+      "song": "I Heard a Rumour",
+      "queenIds": [
+        "serena-morena",
+        "sminty-drop"
+      ],
+      "winnerIds": [
+        "serena-morena"
+      ],
+      "eliminatedIds": [
+        "sminty-drop"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Sara Dallin"
+      },
+      {
+        "name": "Keren Woodward"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S03-E05",
+    "seasonId": "UKVTW-S03",
+    "episodeNumber": 5,
+    "title": "Silent Movie Acting Challenge",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "the-only-naomy"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Star in two silent films",
+      "winnerIds": [
+        "mariah"
+      ]
+    },
+    "runwayTheme": "She-vil Movie Villains",
+    "topIds": [
+      "mariah"
+    ],
+    "bottomIds": [
+      "fontana",
+      "serena-morena"
+    ],
+    "lipSync": {
+      "song": "Axel F",
+      "queenIds": [
+        "fontana",
+        "serena-morena"
+      ],
+      "winnerIds": [
+        "fontana"
+      ],
+      "eliminatedIds": [
+        "serena-morena"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Will Poulter"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S03-E06",
+    "seasonId": "UKVTW-S03",
+    "episodeNumber": 6,
+    "title": "RuPaul's Fringe Festival",
+    "maxiChallenge": {
+      "name": "In pairs, perform stand-up at RuPaul's Fringe Festival",
+      "winnerIds": [
+        "kate-butch"
+      ]
+    },
+    "runwayTheme": "Ruveal",
+    "topIds": [
+      "kate-butch"
+    ],
+    "bottomIds": [
+      "mariah",
+      "zahirah-zapanta"
+    ],
+    "lipSync": {
+      "song": "Rasputin",
+      "queenIds": [
+        "mariah",
+        "zahirah-zapanta"
+      ],
+      "winnerIds": [
+        "mariah"
+      ],
+      "eliminatedIds": [
+        "zahirah-zapanta"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Lucy Punch"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S03-E07",
+    "seasonId": "UKVTW-S03",
+    "episodeNumber": 7,
+    "title": "Olympian Makeovers",
+    "maxiChallenge": {
+      "name": "Makeover Team GB Olympians into members of your drag family",
+      "winnerIds": [
+        "mariah"
+      ]
+    },
+    "runwayTheme": "Drag Family Resemblance",
+    "topIds": [
+      "mariah"
+    ],
+    "bottomIds": [
+      "kate-butch",
+      "the-only-naomy"
+    ],
+    "lipSync": {
+      "song": "Left Outside Alone",
+      "queenIds": [
+        "kate-butch",
+        "the-only-naomy"
+      ],
+      "winnerIds": [
+        "kate-butch"
+      ],
+      "eliminatedIds": [
+        "the-only-naomy"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Anastacia"
+      }
+    ]
+  },
+  {
+    "id": "UKVTW-S03-E08",
+    "seasonId": "UKVTW-S03",
+    "episodeNumber": 8,
+    "title": "Reunion & Lip Sync Smack Down For The Crown",
+    "runwayTheme": "Finale Eleganza Extravaganza",
+    "topIds": [
+      "fontana",
+      "gawdland",
+      "kate-butch",
+      "mariah"
+    ],
+    "lipSync": {
+      "song": "What Do I Have to Do",
+      "queenIds": [
+        "gawdland",
+        "kate-butch"
+      ],
+      "winnerIds": [
+        "gawdland"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

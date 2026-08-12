@@ -8,17 +8,35 @@
       "challengeWins": [
         {
           "episodeId": "US-S09-E04",
-          "name": "In teams, produce a live morning talk show"
+          "name": "In teams, produce a live morning talk show",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1000 and a year-supply of hamburgers courtesy of Hamburger Mary's",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S09-E09",
-          "name": "In pairs, create, write, and star in their own TV pilots"
+          "name": "In pairs, create, write, and star in their own TV pilots",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1000 gift certificate from The Spa On Rodeo and a supply of Aquage Professional Haircare products",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S09-E11",
-          "name": "Everybody Loves Puppets"
+          "name": "Everybody Loves Puppets",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$500 gift card for Today Tix",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

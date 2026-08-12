@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S10-E01",
-          "name": "Create an outfit made from items found at a 99 cent store"
+          "name": "Create an outfit made from items found at a 99 cent store",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "luxury Hawaiian getaway to Hale Mohalu Guesthouse and Retreat"
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -25,6 +30,24 @@
         }
       ],
       "eliminatedEpisodeId": "US-S10-E05"
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S05-E04"
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "UKVTW-S02-E01"
     }
   ]
 }

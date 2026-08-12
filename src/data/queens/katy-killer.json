@@ -1,0 +1,25 @@
+{
+  "id": "katy-killer",
+  "name": "Katy Killer",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 12,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E01",
+          "name": "Re-Born This Way photoshoot"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E03",
+          "song": "ขอใจเธอแลกเบอร์โทร (Your Heart for My Number)"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S02-E03"
+    }
+  ]
+}

@@ -8,17 +8,35 @@
       "challengeWins": [
         {
           "episodeId": "CA-S03-E03",
-          "name": "In pairs, choreograph and perform lip-sync numbers to RuPaul duets"
+          "name": "In pairs, choreograph and perform lip-sync numbers to RuPaul duets",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 gift card courtesy of Fabricland",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S03-E04",
-          "name": "Improvise a Tuck Talk sponsored by Trojan"
+          "name": "Improvise a Tuck Talk sponsored by Trojan",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,500 worth of pleasure products from Trojan",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S03-E06",
-          "name": "Drag Family Portrait Session"
+          "name": "Drag Family Portrait Session",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,500 cash courtesy of Dirt Squirrel Apparel",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

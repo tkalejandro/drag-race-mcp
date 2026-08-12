@@ -1,0 +1,35 @@
+{
+  "id": "deedee-marie-holliday",
+  "name": "DeeDee Marié Holliday",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S02-E05",
+          "name": "Sirena: The Rusical",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S02-E04",
+          "song": "Bongga Ka 'Day"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S02-E06",
+          "song": "I Bring the Beat"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S02-E06"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ES-S01",
+  "franchise": "ES",
+  "name": "Drag Race España Season 1",
+  "seasonNumber": 1,
+  "year": 2021,
+  "episodeCount": 9,
+  "episodeIds": [
+    "ES-S01-E01",
+    "ES-S01-E02",
+    "ES-S01-E03",
+    "ES-S01-E04",
+    "ES-S01-E05",
+    "ES-S01-E06",
+    "ES-S01-E07",
+    "ES-S01-E08",
+    "ES-S01-E09"
+  ],
+  "castIds": [
+    "carmen-farala",
+    "killer-queen",
+    "sagittaria",
+    "pupi-poisson",
+    "dovima-nurmi",
+    "hugaceo-crujiente",
+    "arantxa-castilla-la-mancha",
+    "inti",
+    "drag-vulcano",
+    "the-macarena"
+  ],
+  "winnerIds": [
+    "carmen-farala"
+  ],
+  "runnerUpIds": [
+    "killer-queen",
+    "sagittaria"
+  ],
+  "missCongenialityId": "pupi-poisson",
+  "porkchopIds": [
+    "the-macarena"
+  ],
+  "hosts": [
+    {
+      "name": "Supremme de Luxe"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Supremme de Luxe"
+    },
+    {
+      "name": "Ana Locking"
+    },
+    {
+      "name": "Javier Ambrossi"
+    },
+    {
+      "name": "Javier Calvo"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 30000,
+    "currency": "EUR",
+    "context": "€30,000 season grand prize"
+  }
+}

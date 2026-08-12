@@ -1,0 +1,30 @@
+{
+  "id": "divinity",
+  "name": "Divinity",
+  "appearances": [
+    {
+      "seasonId": "IT-S01",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S01-E03",
+          "name": "Raffaella Carrà: The Rusical"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S01-E01",
+          "song": "Occhi di gatto"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S01-E04",
+          "song": "Kobra"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S01-E04"
+    }
+  ]
+}

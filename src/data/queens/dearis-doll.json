@@ -1,0 +1,47 @@
+{
+  "id": "dearis-doll",
+  "name": "Dearis Doll",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S01-E06",
+          "name": "In pairs, create parodies of Line Mobile commercials",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Free for use of \"Line Mobile by DTAC\" for 3-years with unlimited package for winners, and free 1 year for other competitors and presenters."
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S01-E03",
+          "name": "Fairy tale puppet show"
+        },
+        {
+          "episodeId": "TH-S01-E07",
+          "name": "Twin photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Assign pairs for first main challenge"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S01-E03",
+          "song": "O.K. นะคะ (O.K. Yes)"
+        },
+        {
+          "episodeId": "TH-S01-E07",
+          "song": "Crazy in Love"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

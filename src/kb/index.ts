@@ -47,4 +47,5 @@ export {
   LoreSchema,
   MoneySchema,
   PersonRefSchema,
+  LipSyncKind,
 } from "./schemas/index.ts";

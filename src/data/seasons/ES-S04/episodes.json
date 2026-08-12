@@ -1,0 +1,450 @@
+[
+  {
+    "id": "ES-S04-E01",
+    "seasonId": "ES-S04",
+    "episodeNumber": 1,
+    "title": "Travel In Time",
+    "maxiChallenge": {
+      "name": "Time ball",
+      "winnerIds": [
+        "miss-khristo"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a two-night hotel stay in Valencia"
+      }
+    },
+    "runwayTheme": "Pasado / Futuro / Segunda Primera Vez",
+    "bottomIds": [
+      "la-nina-delantro",
+      "shani-lasanta"
+    ],
+    "lipSync": {
+      "song": "Las 12",
+      "queenIds": [
+        "la-nina-delantro",
+        "shani-lasanta"
+      ],
+      "winnerIds": [
+        "la-nina-delantro"
+      ],
+      "eliminatedIds": [
+        "shani-lasanta"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Boris Izaguirre"
+      }
+    ]
+  },
+  {
+    "id": "ES-S04-E02",
+    "seasonId": "ES-S04",
+    "episodeNumber": 2,
+    "title": "Night of the Stars",
+    "miniChallenge": {
+      "name": "Eye-focused quick drag",
+      "winnerIds": [
+        "la-nina-delantro"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€1,000 worth case makeup kit from NYX Cosmetics",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Talent show",
+      "winnerIds": [
+        "megui-yeillow"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a necklace and earrings from Aster LAB"
+      }
+    },
+    "runwayTheme": "Barrococó",
+    "bottomIds": [
+      "miss-khristo",
+      "porca-theclubkid"
+    ],
+    "lipSync": {
+      "song": "Cuando zarpa el amor",
+      "queenIds": [
+        "miss-khristo",
+        "porca-theclubkid"
+      ],
+      "winnerIds": [
+        "miss-khristo"
+      ],
+      "eliminatedIds": [
+        "porca-theclubkid"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Manuela Trasobares"
+      }
+    ]
+  },
+  {
+    "id": "ES-S04-E03",
+    "seasonId": "ES-S04",
+    "episodeNumber": 3,
+    "title": "Aquí No Hay Quien Diva",
+    "miniChallenge": {
+      "name": "Heel melon-split",
+      "winnerIds": [
+        "angelita-la-perversa"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Sitcom parody",
+      "winnerIds": [
+        "angelita-la-perversa"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a two-night hotel stay and spa treatment in Torremolinos"
+      }
+    },
+    "runwayTheme": "Historias No Para Dormir",
+    "bottomIds": [
+      "dita-dubois",
+      "mariana-stars"
+    ],
+    "lipSync": {
+      "song": "Loca",
+      "queenIds": [
+        "dita-dubois",
+        "mariana-stars"
+      ],
+      "winnerIds": [
+        "mariana-stars"
+      ],
+      "eliminatedIds": [
+        "dita-dubois"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Loles León"
+      }
+    ]
+  },
+  {
+    "id": "ES-S04-E04",
+    "seasonId": "ES-S04",
+    "episodeNumber": 4,
+    "title": "I'm That Girl from School",
+    "miniChallenge": {
+      "name": "Aerobics",
+      "winnerIds": [
+        "mariana-stars"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Girl groups \"Mis Amigas y Yo\"",
+      "winnerIds": [
+        "la-nina-delantro"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a two-night hotel stay in Torremolinos"
+      }
+    },
+    "runwayTheme": "Noche de las 1000 Ana Locking",
+    "bottomIds": [
+      "angelita-la-perversa",
+      "kelly-passa"
+    ],
+    "lipSync": {
+      "song": "Antagonista",
+      "queenIds": [
+        "angelita-la-perversa",
+        "kelly-passa"
+      ],
+      "winnerIds": [
+        "angelita-la-perversa"
+      ],
+      "eliminatedIds": [
+        "kelly-passa"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Belén Aguilera"
+      }
+    ]
+  },
+  {
+    "id": "ES-S04-E05",
+    "seasonId": "ES-S04",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "le-coco"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "mariana-stars"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a skincare set from FOREO"
+      }
+    },
+    "runwayTheme": "Rural Fashion Week",
+    "bottomIds": [
+      "angelita-la-perversa",
+      "miss-khristo"
+    ],
+    "lipSync": {
+      "song": "El amor",
+      "queenIds": [
+        "angelita-la-perversa",
+        "miss-khristo"
+      ],
+      "winnerIds": [
+        "angelita-la-perversa"
+      ],
+      "eliminatedIds": [
+        "miss-khristo"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Valeria Vegas"
+      }
+    ]
+  },
+  {
+    "id": "ES-S04-E06",
+    "seasonId": "ES-S04",
+    "episodeNumber": 6,
+    "title": "Legendary Queens, The Musical",
+    "maxiChallenge": {
+      "name": "Eternas musical",
+      "winnerIds": [
+        "la-bella-vampi"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a necklace and earrings from Aster LAB"
+      }
+    },
+    "runwayTheme": "Soy Una Feria",
+    "bottomIds": [
+      "chloe-vittu",
+      "la-nina-delantro"
+    ],
+    "lipSync": {
+      "song": "Mujer loba",
+      "queenIds": [
+        "chloe-vittu",
+        "la-nina-delantro"
+      ],
+      "winnerIds": [
+        "chloe-vittu",
+        "la-nina-delantro"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Melody"
+      }
+    ]
+  },
+  {
+    "id": "ES-S04-E07",
+    "seasonId": "ES-S04",
+    "episodeNumber": 7,
+    "title": "La Draguería Del Coleccionista",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": [
+        "la-nina-delantro"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Product ads",
+      "winnerIds": [
+        "le-coco"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a sex toys set from LELO"
+      }
+    },
+    "runwayTheme": "Los Cuatro Elementos",
+    "bottomIds": [
+      "angelita-la-perversa",
+      "la-nina-delantro"
+    ],
+    "lipSync": {
+      "song": "Puedes contar conmigo",
+      "queenIds": [
+        "angelita-la-perversa",
+        "la-nina-delantro"
+      ],
+      "winnerIds": [
+        "la-nina-delantro"
+      ],
+      "eliminatedIds": [
+        "angelita-la-perversa"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Eduardo Navarrete"
+      }
+    ]
+  },
+  {
+    "id": "ES-S04-E08",
+    "seasonId": "ES-S04",
+    "episodeNumber": 8,
+    "title": "Roast: Marichocho Awards",
+    "miniChallenge": {
+      "name": "Dress the Pit Crew",
+      "winnerIds": [
+        "megui-yeillow"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "selection of products from Addicted",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Roast / awards show",
+      "winnerIds": [
+        "le-coco"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a two-night hotel stay in Torremolinos"
+      }
+    },
+    "runwayTheme": "Tocada y no Hundida",
+    "bottomIds": [
+      "mariana-stars",
+      "megui-yeillow"
+    ],
+    "lipSync": {
+      "song": "Se acabó",
+      "queenIds": [
+        "mariana-stars",
+        "megui-yeillow"
+      ],
+      "winnerIds": [
+        "mariana-stars"
+      ],
+      "eliminatedIds": [
+        "megui-yeillow"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Valeria Ros"
+      }
+    ]
+  },
+  {
+    "id": "ES-S04-E09",
+    "seasonId": "ES-S04",
+    "episodeNumber": 9,
+    "title": "Makeover: Drag Legends",
+    "maxiChallenge": {
+      "name": "Makeover challenge",
+      "winnerIds": [
+        "chloe-vittu"
+      ]
+    },
+    "bottomIds": [
+      "le-coco",
+      "mariana-stars"
+    ],
+    "lipSync": {
+      "song": "Las Babys",
+      "queenIds": [
+        "le-coco",
+        "mariana-stars"
+      ],
+      "winnerIds": [
+        "le-coco"
+      ],
+      "eliminatedIds": [
+        "mariana-stars"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Lola Rodríguez"
+      }
+    ]
+  },
+  {
+    "id": "ES-S04-E10",
+    "seasonId": "ES-S04",
+    "episodeNumber": 10,
+    "title": "The Reunion"
+  },
+  {
+    "id": "ES-S04-E11",
+    "seasonId": "ES-S04",
+    "episodeNumber": 11,
+    "title": "Grand Finale",
+    "bottomIds": [
+      "la-nina-delantro"
+    ],
+    "lipSync": {
+      "song": "Diva",
+      "queenIds": [
+        "chloe-vittu",
+        "la-bella-vampi",
+        "le-coco"
+      ],
+      "winnerIds": [
+        "chloe-vittu",
+        "la-bella-vampi",
+        "le-coco"
+      ],
+      "eliminatedIds": [
+        "la-nina-delantro"
+      ]
+    }
+  },
+  {
+    "id": "ES-S04-E12",
+    "seasonId": "ES-S04",
+    "episodeNumber": 12,
+    "title": "The Final Battle",
+    "lipSync": {
+      "song": "Va todo al ganador",
+      "queenIds": [
+        "la-bella-vampi",
+        "le-coco"
+      ],
+      "winnerIds": [
+        "le-coco"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "lady-morgana",
+  "name": "Lady Morgana",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S01-E01",
+          "song": "Tala"
+        },
+        {
+          "episodeId": "PH-S01-E04",
+          "song": "Shine"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E05",
+          "song": "Ate Sandali"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E05",
+      "missCongeniality": true
+    }
+  ]
+}

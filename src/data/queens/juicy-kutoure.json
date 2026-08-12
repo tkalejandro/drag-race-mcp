@@ -1,0 +1,20 @@
+{
+  "id": "juicy-kutoure",
+  "name": "Juicy Kutoure",
+  "appearances": [
+    {
+      "seasonId": "NL-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S02-E01",
+          "song": "Physical"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S02-E01"
+    }
+  ]
+}

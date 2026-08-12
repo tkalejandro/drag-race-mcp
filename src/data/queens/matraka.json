@@ -1,0 +1,70 @@
+{
+  "id": "matraka",
+  "name": "Matraka",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S01-E05",
+          "name": "Write, record, and perform verses to \"Así soy yo\""
+        },
+        {
+          "episodeId": "MX-S01-E07",
+          "name": "Act as soap opera villains in the telenovela \"Villa No Más\"",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "MX-S01-E08",
+          "name": "Create a look made from denim from Levi's",
+          "earnings": {
+            "amount": 25000,
+            "currency": "MXN",
+            "context": "MX$ 25,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "MX-S01-E05",
+          "name": "Drag up a pair of tribal boots and wear them in a Latin dance-off",
+          "earnings": {
+            "amount": 9000,
+            "currency": "MXN",
+            "context": "MX$ 9,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "MX-S01-E09",
+          "name": "Impersonate each other with puppets",
+          "earnings": {
+            "amount": 9000,
+            "currency": "MXN",
+            "context": "MX$ 9,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S01-E08",
+          "song": "Bizcochito"
+        },
+        {
+          "episodeId": "MX-S01-E10",
+          "song": "El bombón asesino"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S01-E12",
+          "song": "Él me mintió"
+        }
+      ]
+    }
+  ]
+}

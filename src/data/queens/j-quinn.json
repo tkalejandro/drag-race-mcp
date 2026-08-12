@@ -1,0 +1,25 @@
+{
+  "id": "j-quinn",
+  "name": "J Quinn",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S03-E04",
+          "song": "Wag Kang Pabebe"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S03-E05",
+          "song": "Geronimo"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S03-E05"
+    }
+  ]
+}

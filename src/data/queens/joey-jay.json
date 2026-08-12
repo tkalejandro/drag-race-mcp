@@ -15,6 +15,20 @@
         }
       ],
       "eliminatedEpisodeId": "US-S13-E05"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 2,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E12",
+          "song": "Star Love / The Boss / The Main Event/Fight / Knock on Wood / MacArthur Park"
+        }
+      ],
+      "lipSyncLosses": [],
+      "reentered": true
     }
   ]
 }

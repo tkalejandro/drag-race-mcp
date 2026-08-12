@@ -10,7 +10,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "CA-S05-E05",
-          "name": "Get into quick drag and audition to be a '90s showcase supermodel"
+          "name": "Get into quick drag and audition to be a '90s showcase supermodel",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip courtesy of Shoefreaks",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

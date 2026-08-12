@@ -1,0 +1,82 @@
+{
+  "id": "soa-de-muse",
+  "name": "Soa de Muse",
+  "appearances": [
+    {
+      "seasonId": "FR-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S01-E01",
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "weekend in London"
+          }
+        },
+        {
+          "episodeId": "FR-S01-E05",
+          "name": "Write, record, and perform verses to \"Boom Boom\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "trip to Berlin",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S01-E05",
+          "name": "In pairs, paint each other's faces while blindfolded"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S01-E02",
+          "song": "Toutes les femmes de ta vie"
+        },
+        {
+          "episodeId": "FR-S01-E03",
+          "song": "Pookie"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S01-E08",
+          "song": "Mourir sur scène"
+        }
+      ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 9,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E11",
+          "name": "Global Lip-Sync LaLaPaRuZa Smackdown"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "GAS-S01-E03",
+          "song": "Bad Idea Right?"
+        },
+        {
+          "episodeId": "GAS-S01-E11",
+          "song": "The Beginning"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E06",
+          "song": "Bang Bang"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E06",
+      "missCongeniality": true
+    }
+  ]
+}

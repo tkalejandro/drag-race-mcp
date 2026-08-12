@@ -40,9 +40,10 @@ Link by IDs only — never nest full queen/season objects.
 1. Research public sources (Wikipedia season page, progress table, episode list; Fandom for songs/guests/minis when WP is thin).
 2. Write JSON from the source — not from memory.
 3. If an optional field is unclear, **omit it**. Do not guess prize amounts, song titles, mini winners, or guest judges.
-4. Episodes own weekly outcomes. Queen `challengeWins` / `miniChallengeWins` / `lipSyncWins` / `lipSyncLosses` must mirror those `episodeId`s (`lipSyncLosses` = in `lipSync.queenIds` but not in `winnerIds`).
-5. `season.json` cast/winner/runner-up/Miss C/porkchop/episodeIds must match queen + episode files.
-6. Returning queens: append to the same `queens/{id}.json` `appearances[]` — do not duplicate files.
+4. Challenge/mini/lip-sync prizes use shared `Money`: `{ amount, currency, context, isSponsor?, isCharity? }`. Always set `context` (prize as awarded). Use `amount: 0` + `isSponsor: true` for non-cash sponsor prizes (trips, gift cards, products). Episodes own weekly `earnings`; mirror onto queen win rows.
+5. Episodes own weekly outcomes. Queen `challengeWins` / `miniChallengeWins` / `lipSyncWins` / `lipSyncLosses` must mirror those `episodeId`s (`lipSyncLosses` = in `lipSync.queenIds` but not in `winnerIds`).
+6. `season.json` cast/`winnerIds`/runner-up/Miss C/`porkchopIds`/episodeIds must match queen + episode files. Dual crowns use multiple `winnerIds` (e.g. AS-S04). `porkchopIds` is usually length 1; AS-S01 lists both team first-outs (`mimi-imfurst`, `pandora-boxx`).
+7. Returning queens: append to the same `queens/{id}.json` `appearances[]` — do not duplicate files.
 
 ## Lore
 

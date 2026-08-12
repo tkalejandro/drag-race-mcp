@@ -8,37 +8,78 @@
       "challengeWins": [
         {
           "episodeId": "US-S16-E01",
-          "name": "Perform a talent show for MTV Spring Break"
+          "name": "Perform a talent show for MTV Spring Break",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip and immunity from a future challenge"
+          }
         },
         {
           "episodeId": "US-S16-E10",
-          "name": "Write, record, and perform verses to Power"
+          "name": "Write, record, and perform verses to Power",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S16-E11",
-          "name": "Present drag awareness seminars"
+          "name": "Present drag awareness seminars",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S16-E12",
-          "name": "Design paired bathrooms"
+          "name": "Design paired bathrooms",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip (share of $5,000 pot)"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S16-E01",
-          "name": "Porch doorbell photoshoot"
+          "name": "Porch doorbell photoshoot",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         },
         {
           "episodeId": "US-S16-E05",
-          "name": "Memoir cover photoshoot"
+          "name": "Memoir cover photoshoot",
+          "earnings": {
+            "amount": 2000,
+            "currency": "USD",
+            "context": "An autographed copy of RuPaul's memoir The House of Hidden Meanings and a $2,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S16-E11",
-          "name": "Spill the Tea superlatives"
+          "name": "Spill the Tea superlatives",
+          "earnings": {
+            "amount": 3400,
+            "currency": "USD",
+            "context": "$3,400 cash tip"
+          }
         },
         {
           "episodeId": "US-S16-E14",
-          "name": "Underwater Kitty Girl lip sync"
+          "name": "Underwater Kitty Girl lip sync",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "trip for two to The Alamar Resort and Mantamar Beach Club in Puerto Vallarta, Mexico",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

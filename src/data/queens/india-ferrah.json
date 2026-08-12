@@ -20,6 +20,31 @@
         }
       ],
       "eliminatedEpisodeId": "US-S03-E05"
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S05-E01",
+          "name": "Perform a talent show in front of the judges and a live audience",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "5-day trip to Reykjavik, Iceland. Hotel and airfare included courtesy of Pink Iceland",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S05-E01",
+          "song": "Livin' la Vida Loca"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S05-E05"
     }
   ]
 }

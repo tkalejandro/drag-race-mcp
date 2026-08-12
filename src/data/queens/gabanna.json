@@ -1,0 +1,24 @@
+{
+  "id": "gabanna",
+  "name": "Gabanna",
+  "appearances": [
+    {
+      "seasonId": "BE-S02",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S02-E01",
+          "song": "Rain on Me"
+        },
+        {
+          "episodeId": "BE-S02-E05",
+          "song": "My Head & My Heart"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "BE-S02-E08"
+    }
+  ]
+}

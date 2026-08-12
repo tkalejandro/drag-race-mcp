@@ -1,0 +1,74 @@
+{
+  "id": "pupi-poisson",
+  "name": "Pupi Poisson",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S01-E05",
+          "name": "Act in \"Básica o Cínica\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S01-E02",
+          "name": "Unscramble letters shown by the pit crew"
+        },
+        {
+          "episodeId": "ES-S01-E04",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "pack of underwear and swimsuits courtesy of Addicted.",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "ES-S01-E05",
+          "name": "In pairs, stomp grapes and make the most juice"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S01-E07",
+          "song": "Cuando tú vas"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S01-E07",
+      "missCongeniality": true
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E02",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "facial skin care set valued at €1,500"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ESAS-S01-E02",
+          "song": "Nochentera"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ESAS-S01-E05"
+    }
+  ]
+}

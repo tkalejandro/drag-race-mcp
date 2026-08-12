@@ -28,6 +28,30 @@
         }
       ],
       "eliminatedEpisodeId": "US-S15-E12"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E06",
+          "name": "Give drag makeovers to gay dads and coach a \"Too Many Daddies\" lip-sync performance"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E06",
+          "song": "Super Bass",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S11-E06"
     }
   ]
 }

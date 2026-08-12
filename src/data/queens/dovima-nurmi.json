@@ -1,0 +1,29 @@
+{
+  "id": "dovima-nurmi",
+  "name": "Dovima Nurmi",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S01-E01",
+          "song": "Sobreviviré"
+        },
+        {
+          "episodeId": "ES-S01-E03",
+          "song": "Mocatriz"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S01-E06",
+          "song": "Aute Cuture"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S01-E06"
+    }
+  ]
+}

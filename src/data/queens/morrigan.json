@@ -1,0 +1,30 @@
+{
+  "id": "morrigan",
+  "name": "Morrigan",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S01-E01",
+          "name": "Photoshoot while being doused with buckets of water"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S01-E01",
+          "song": "Born This Way"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S01-E03",
+          "song": "O.K. นะคะ (O.K. Yes)"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S01-E03"
+    }
+  ]
+}

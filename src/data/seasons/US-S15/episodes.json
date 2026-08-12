@@ -6,7 +6,15 @@
     "title": "One Night Only, Part 1",
     "miniChallenge": {
       "name": "Sexy Car Wash and Windy Hog photoshoots",
-      "winnerIds": ["irene-dubois", "loosey-laduca"]
+      "winnerIds": [
+        "irene-dubois",
+        "loosey-laduca"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     }
   },
   {
@@ -16,18 +24,43 @@
     "title": "One Night Only, Part 2",
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges",
-      "winnerIds": ["anetra"]
+      "winnerIds": [
+        "anetra"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Who Is She?",
-    "topIds": ["anetra", "jax", "marcia-marcia-marcia"],
-    "bottomIds": ["amethyst", "irene-dubois"],
+    "topIds": [
+      "anetra",
+      "jax",
+      "marcia-marcia-marcia"
+    ],
+    "bottomIds": [
+      "amethyst",
+      "irene-dubois"
+    ],
     "lipSync": {
       "song": "7 Rings",
-      "queenIds": ["amethyst", "irene-dubois"],
-      "winnerIds": ["amethyst"],
-      "eliminatedIds": ["irene-dubois"]
+      "queenIds": [
+        "amethyst",
+        "irene-dubois"
+      ],
+      "winnerIds": [
+        "amethyst"
+      ],
+      "eliminatedIds": [
+        "irene-dubois"
+      ]
     },
-    "guestJudges": [{ "name": "Ariana Grande" }]
+    "guestJudges": [
+      {
+        "name": "Ariana Grande"
+      }
+    ]
   },
   {
     "id": "US-S15-E03",
@@ -36,18 +69,43 @@
     "title": "All Queens Go to Heaven",
     "maxiChallenge": {
       "name": "Film a queer afterlife infomercial",
-      "winnerIds": ["sasha-colby"]
+      "winnerIds": [
+        "sasha-colby"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Metallica",
-    "topIds": ["loosey-laduca", "luxx-noir-london", "sasha-colby"],
-    "bottomIds": ["amethyst", "princess-poppy"],
+    "topIds": [
+      "loosey-laduca",
+      "luxx-noir-london",
+      "sasha-colby"
+    ],
+    "bottomIds": [
+      "amethyst",
+      "princess-poppy"
+    ],
     "lipSync": {
       "song": "Ain't No Mountain High Enough",
-      "queenIds": ["amethyst", "princess-poppy"],
-      "winnerIds": ["amethyst"],
-      "eliminatedIds": ["princess-poppy"]
+      "queenIds": [
+        "amethyst",
+        "princess-poppy"
+      ],
+      "winnerIds": [
+        "amethyst"
+      ],
+      "eliminatedIds": [
+        "princess-poppy"
+      ]
     },
-    "guestJudges": [{ "name": "Maren Morris" }]
+    "guestJudges": [
+      {
+        "name": "Maren Morris"
+      }
+    ]
   },
   {
     "id": "US-S15-E04",
@@ -56,7 +114,14 @@
     "title": "Supersized Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["loosey-laduca"]
+      "winnerIds": [
+        "loosey-laduca"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Beautiful Nightmare",
     "topIds": [
@@ -64,14 +129,28 @@
       "marcia-marcia-marcia",
       "mistress-isabelle-brooks"
     ],
-    "bottomIds": ["spice", "sugar"],
+    "bottomIds": [
+      "spice",
+      "sugar"
+    ],
     "lipSync": {
       "song": "You Better Run",
-      "queenIds": ["spice", "sugar"],
-      "winnerIds": ["spice"],
-      "eliminatedIds": ["sugar"]
+      "queenIds": [
+        "spice",
+        "sugar"
+      ],
+      "winnerIds": [
+        "spice"
+      ],
+      "eliminatedIds": [
+        "sugar"
+      ]
     },
-    "guestJudges": [{ "name": "Amandla Stenberg" }]
+    "guestJudges": [
+      {
+        "name": "Amandla Stenberg"
+      }
+    ]
   },
   {
     "id": "US-S15-E05",
@@ -80,11 +159,25 @@
     "title": "House of Fashion",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["loosey-laduca"]
+      "winnerIds": [
+        "loosey-laduca"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Design home-decor looks in fashion houses",
-      "winnerIds": ["luxx-noir-london"]
+      "winnerIds": [
+        "luxx-noir-london"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Drag Race Fashion Week",
     "topIds": [
@@ -93,14 +186,28 @@
       "robin-fierce",
       "sasha-colby"
     ],
-    "bottomIds": ["amethyst", "salina-estitties"],
+    "bottomIds": [
+      "amethyst",
+      "salina-estitties"
+    ],
     "lipSync": {
       "song": "Q.U.E.E.N.",
-      "queenIds": ["amethyst", "salina-estitties"],
-      "winnerIds": ["salina-estitties"],
-      "eliminatedIds": ["amethyst"]
+      "queenIds": [
+        "amethyst",
+        "salina-estitties"
+      ],
+      "winnerIds": [
+        "salina-estitties"
+      ],
+      "eliminatedIds": [
+        "amethyst"
+      ]
     },
-    "guestJudges": [{ "name": "Janelle Monáe" }]
+    "guestJudges": [
+      {
+        "name": "Janelle Monáe"
+      }
+    ]
   },
   {
     "id": "US-S15-E06",
@@ -109,18 +216,43 @@
     "title": "Old Friends Gold",
     "maxiChallenge": {
       "name": "Write, record, and perform as old-lady girl groups",
-      "winnerIds": ["aura-mayari"]
+      "winnerIds": [
+        "aura-mayari"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Tie-Dye to Die For",
-    "topIds": ["aura-mayari", "mistress-isabelle-brooks", "sasha-colby"],
-    "bottomIds": ["jax", "robin-fierce"],
+    "topIds": [
+      "aura-mayari",
+      "mistress-isabelle-brooks",
+      "sasha-colby"
+    ],
+    "bottomIds": [
+      "jax",
+      "robin-fierce"
+    ],
     "lipSync": {
       "song": "In Your Room",
-      "queenIds": ["jax", "robin-fierce"],
-      "winnerIds": ["jax"],
-      "eliminatedIds": ["robin-fierce"]
+      "queenIds": [
+        "jax",
+        "robin-fierce"
+      ],
+      "winnerIds": [
+        "jax"
+      ],
+      "eliminatedIds": [
+        "robin-fierce"
+      ]
     },
-    "guestJudges": [{ "name": "Megan Stalter" }]
+    "guestJudges": [
+      {
+        "name": "Megan Stalter"
+      }
+    ]
   },
   {
     "id": "US-S15-E07",
@@ -129,7 +261,14 @@
     "title": "The Daytona Wind 2",
     "maxiChallenge": {
       "name": "Act in a soap opera called The Daytona Wind 2",
-      "winnerIds": ["mistress-isabelle-brooks"]
+      "winnerIds": [
+        "mistress-isabelle-brooks"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Puffa Please",
     "topIds": [
@@ -138,14 +277,28 @@
       "marcia-marcia-marcia",
       "mistress-isabelle-brooks"
     ],
-    "bottomIds": ["aura-mayari", "jax"],
+    "bottomIds": [
+      "aura-mayari",
+      "jax"
+    ],
     "lipSync": {
       "song": "Sweetest Pie",
-      "queenIds": ["aura-mayari", "jax"],
-      "winnerIds": ["jax"],
-      "eliminatedIds": ["aura-mayari"]
+      "queenIds": [
+        "aura-mayari",
+        "jax"
+      ],
+      "winnerIds": [
+        "jax"
+      ],
+      "eliminatedIds": [
+        "aura-mayari"
+      ]
     },
-    "guestJudges": [{ "name": "Harvey Guillén" }]
+    "guestJudges": [
+      {
+        "name": "Harvey Guillén"
+      }
+    ]
   },
   {
     "id": "US-S15-E08",
@@ -156,12 +309,22 @@
       "name": "Compete in a Lip Sync LaLaPaRuZa Smackdown tournament",
       "winnerIds": []
     },
-    "bottomIds": ["anetra", "jax"],
+    "bottomIds": [
+      "anetra",
+      "jax"
+    ],
     "lipSync": {
       "song": "Finally",
-      "queenIds": ["anetra", "jax"],
-      "winnerIds": ["anetra"],
-      "eliminatedIds": ["jax"]
+      "queenIds": [
+        "anetra",
+        "jax"
+      ],
+      "winnerIds": [
+        "anetra"
+      ],
+      "eliminatedIds": [
+        "jax"
+      ]
     }
   },
   {
@@ -171,22 +334,54 @@
     "title": "The Crystal Ball",
     "miniChallenge": {
       "name": "Photobomb iconic Drag Race moments",
-      "winnerIds": ["anetra"]
+      "winnerIds": [
+        "anetra"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "The Crystal Ball",
-      "winnerIds": ["sasha-colby"]
+      "winnerIds": [
+        "sasha-colby"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Start Your Engines / My Favorite Ball / Crystallized Eleganza",
-    "topIds": ["anetra", "mistress-isabelle-brooks", "sasha-colby"],
-    "bottomIds": ["salina-estitties", "spice"],
+    "topIds": [
+      "anetra",
+      "mistress-isabelle-brooks",
+      "sasha-colby"
+    ],
+    "bottomIds": [
+      "salina-estitties",
+      "spice"
+    ],
     "lipSync": {
       "song": "That's What I Want",
-      "queenIds": ["salina-estitties", "spice"],
-      "winnerIds": ["salina-estitties"],
-      "eliminatedIds": ["spice"]
+      "queenIds": [
+        "salina-estitties",
+        "spice"
+      ],
+      "winnerIds": [
+        "salina-estitties"
+      ],
+      "eliminatedIds": [
+        "spice"
+      ]
     },
-    "guestJudges": [{ "name": "Julia Garner" }]
+    "guestJudges": [
+      {
+        "name": "Julia Garner"
+      }
+    ]
   },
   {
     "id": "US-S15-E10",
@@ -195,16 +390,37 @@
     "title": "50/50's Most Gagworthy Stars",
     "maxiChallenge": {
       "name": "Interview celebrities for 50/50's Most Gagworthy Stars",
-      "winnerIds": ["sasha-colby"]
+      "winnerIds": [
+        "sasha-colby"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Night of a Thousand Beyoncés",
-    "topIds": ["loosey-laduca", "luxx-noir-london", "sasha-colby"],
-    "bottomIds": ["malaysia-babydoll-foxx", "salina-estitties"],
+    "topIds": [
+      "loosey-laduca",
+      "luxx-noir-london",
+      "sasha-colby"
+    ],
+    "bottomIds": [
+      "malaysia-babydoll-foxx",
+      "salina-estitties"
+    ],
     "lipSync": {
       "song": "Single Ladies (Put a Ring on It)",
-      "queenIds": ["malaysia-babydoll-foxx", "salina-estitties"],
-      "winnerIds": ["salina-estitties"],
-      "eliminatedIds": ["malaysia-babydoll-foxx"]
+      "queenIds": [
+        "malaysia-babydoll-foxx",
+        "salina-estitties"
+      ],
+      "winnerIds": [
+        "salina-estitties"
+      ],
+      "eliminatedIds": [
+        "malaysia-babydoll-foxx"
+      ]
     }
   },
   {
@@ -214,11 +430,26 @@
     "title": "Two Queens, One Joke",
     "miniChallenge": {
       "name": "Harlem Vogue Ball",
-      "winnerIds": ["anetra"]
+      "winnerIds": [
+        "anetra"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform paired stand-up comedy routines",
-      "winnerIds": ["loosey-laduca", "luxx-noir-london"]
+      "winnerIds": [
+        "loosey-laduca",
+        "luxx-noir-london"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip each"
+      }
     },
     "runwayTheme": "Rip Her to Shreds",
     "topIds": [
@@ -227,14 +458,28 @@
       "mistress-isabelle-brooks",
       "salina-estitties"
     ],
-    "bottomIds": ["anetra", "marcia-marcia-marcia"],
+    "bottomIds": [
+      "anetra",
+      "marcia-marcia-marcia"
+    ],
     "lipSync": {
       "song": "Boss Bitch",
-      "queenIds": ["anetra", "marcia-marcia-marcia"],
-      "winnerIds": ["anetra"],
-      "eliminatedIds": ["marcia-marcia-marcia"]
+      "queenIds": [
+        "anetra",
+        "marcia-marcia-marcia"
+      ],
+      "winnerIds": [
+        "anetra"
+      ],
+      "eliminatedIds": [
+        "marcia-marcia-marcia"
+      ]
     },
-    "guestJudges": [{ "name": "Ali Wong" }]
+    "guestJudges": [
+      {
+        "name": "Ali Wong"
+      }
+    ]
   },
   {
     "id": "US-S15-E12",
@@ -243,7 +488,14 @@
     "title": "Wigloose: The Rusical!",
     "maxiChallenge": {
       "name": "Wigloose: The Rusical!",
-      "winnerIds": ["anetra"]
+      "winnerIds": [
+        "anetra"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Everybody Say Glove!",
     "topIds": [
@@ -252,14 +504,28 @@
       "mistress-isabelle-brooks",
       "sasha-colby"
     ],
-    "bottomIds": ["loosey-laduca", "salina-estitties"],
+    "bottomIds": [
+      "loosey-laduca",
+      "salina-estitties"
+    ],
     "lipSync": {
       "song": "Running Up That Hill (A Deal with God)",
-      "queenIds": ["loosey-laduca", "salina-estitties"],
-      "winnerIds": ["loosey-laduca"],
-      "eliminatedIds": ["salina-estitties"]
+      "queenIds": [
+        "loosey-laduca",
+        "salina-estitties"
+      ],
+      "winnerIds": [
+        "loosey-laduca"
+      ],
+      "eliminatedIds": [
+        "salina-estitties"
+      ]
     },
-    "guestJudges": [{ "name": "Orville Peck" }]
+    "guestJudges": [
+      {
+        "name": "Orville Peck"
+      }
+    ]
   },
   {
     "id": "US-S15-E13",
@@ -268,22 +534,55 @@
     "title": "Teacher Makeovers",
     "miniChallenge": {
       "name": "Spill the Tea superlatives",
-      "winnerIds": ["loosey-laduca"]
+      "winnerIds": [
+        "loosey-laduca"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$5,000 worth of Anastasia Beverly Hills Cosmetics",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Make over teachers into drag family members",
-      "winnerIds": ["anetra"]
+      "winnerIds": [
+        "anetra"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip each for Anetra and her makeover partner"
+      }
     },
     "runwayTheme": "Drag Family Resemblance",
-    "topIds": ["anetra", "mistress-isabelle-brooks", "sasha-colby"],
-    "bottomIds": ["loosey-laduca", "luxx-noir-london"],
+    "topIds": [
+      "anetra",
+      "mistress-isabelle-brooks",
+      "sasha-colby"
+    ],
+    "bottomIds": [
+      "loosey-laduca",
+      "luxx-noir-london"
+    ],
     "lipSync": {
       "song": "For the Girls",
-      "queenIds": ["loosey-laduca", "luxx-noir-london"],
-      "winnerIds": ["luxx-noir-london"],
-      "eliminatedIds": ["loosey-laduca"]
+      "queenIds": [
+        "loosey-laduca",
+        "luxx-noir-london"
+      ],
+      "winnerIds": [
+        "luxx-noir-london"
+      ],
+      "eliminatedIds": [
+        "loosey-laduca"
+      ]
     },
-    "guestJudges": [{ "name": "Hayley Kiyoko" }]
+    "guestJudges": [
+      {
+        "name": "Hayley Kiyoko"
+      }
+    ]
   },
   {
     "id": "US-S15-E14",
@@ -292,15 +591,34 @@
     "title": "Blame It on the Edit",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Blame It on the Edit",
-      "winnerIds": ["sasha-colby"]
+      "winnerIds": [
+        "sasha-colby"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Drag Excellence",
-    "topIds": ["luxx-noir-london", "sasha-colby"],
-    "bottomIds": ["anetra", "mistress-isabelle-brooks"],
+    "topIds": [
+      "luxx-noir-london",
+      "sasha-colby"
+    ],
+    "bottomIds": [
+      "anetra",
+      "mistress-isabelle-brooks"
+    ],
     "lipSync": {
       "song": "When Love Takes Over",
-      "queenIds": ["anetra", "mistress-isabelle-brooks"],
-      "winnerIds": ["anetra", "mistress-isabelle-brooks"]
+      "queenIds": [
+        "anetra",
+        "mistress-isabelle-brooks"
+      ],
+      "winnerIds": [
+        "anetra",
+        "mistress-isabelle-brooks"
+      ]
     }
   },
   {

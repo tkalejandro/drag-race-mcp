@@ -20,6 +20,15 @@
         }
       ],
       "eliminatedEpisodeId": "US-S06-E04"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S11-E06"
     }
   ]
 }

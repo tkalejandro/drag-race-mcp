@@ -1,0 +1,38 @@
+{
+  "id": "killer-queen",
+  "name": "Killer Queen",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S01-E04",
+          "name": "Snatch Game"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S01-E03",
+          "name": "Create a quick drag character to play football"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S01-E05",
+          "song": "Espectacular"
+        },
+        {
+          "episodeId": "ES-S01-E07",
+          "song": "Cuando tú vas"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S01-E09",
+          "song": "La gata bajo la lluvia"
+        }
+      ]
+    }
+  ]
+}

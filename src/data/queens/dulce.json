@@ -11,7 +11,11 @@
         {
           "episodeId": "CA-S06-E05",
           "name": "Sing karaoke to iconic verses from Canada's Drag Race girl groups",
-          "earnings": { "amount": 2500, "currency": "CAD" }
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "CA$2,500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [],

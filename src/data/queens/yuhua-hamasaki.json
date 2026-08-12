@@ -15,6 +15,33 @@
         }
       ],
       "eliminatedEpisodeId": "US-S10-E03"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "PHSR-S01-E06",
+          "name": "Impersonate celebrities in the Snatch Election for Drag President of the Slaysian Nation"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PHSR-S01-E06",
+          "song": "Out of My Head"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PHSR-S01-E07",
+          "song": "Misbehave"
+        }
+      ],
+      "eliminatedEpisodeId": "PHSR-S01-E07"
     }
+  ],
+  "aliases": [
+    "Yuhua"
   ]
 }

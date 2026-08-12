@@ -8,17 +8,33 @@
       "challengeWins": [
         {
           "episodeId": "US-S13-E05",
-          "name": "The Bag Ball"
+          "name": "The Bag Ball",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S13-E09",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S13-E07",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 giftcard from ISLYNYC",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -28,6 +44,62 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S09",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S09-E02",
+          "name": "The Paint Ball"
+        },
+        {
+          "episodeId": "AS-S09-E03",
+          "name": "Snatch Game of Love"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "AS-S09-E05",
+          "name": "Teletubbies Soul Train Dance-off",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 charity donation"
+          }
+        },
+        {
+          "episodeId": "AS-S09-E11",
+          "name": "Give a crew member a drag makeover"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S09-E02",
+          "song": "Jump in the Line (Shake, Senora)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S09-E03",
+          "song": "Banana",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S09-E10",
+          "song": "My Lovin' (You're Never Gonna Get It) / When I Grow Up / You Spin Me Round (Like a Record) / Holding Out for a Hero / I'm Every Woman / Groove Is in the Heart / Break Free"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S09-E12"
     }
   ]
 }

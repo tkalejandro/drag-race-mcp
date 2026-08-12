@@ -9,19 +9,133 @@
       "challengeWins": [
         {
           "episodeId": "CA-S01-E05",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "Cruise",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S01-E04",
-          "name": "Play a memory game with the pit crew's underwear colors"
+          "name": "Play a memory game with the pit crew's underwear colors",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "VIP stay at the Hilton Toronto",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E09", "song": "Closer" }
+        {
+          "episodeId": "CA-S01-E09",
+          "song": "Closer"
+        }
       ]
+    },
+    {
+      "seasonId": "AS-S08",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S08-E02",
+          "name": "Perform in a sketch comedy of RDR Live",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
+        },
+        {
+          "episodeId": "AS-S08-E04",
+          "name": "Star in a scripted TV series trailer",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
+        },
+        {
+          "episodeId": "AS-S08-E05",
+          "name": "Snatch Game of Love",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
+        },
+        {
+          "episodeId": "AS-S08-E09",
+          "name": "A roast of Carson Kressley",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S08-E09",
+          "song": "Freak-A-Zoid",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S08-E12",
+          "song": "Do Ya Wanna Funk"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S08-E02",
+          "song": "She Bop"
+        },
+        {
+          "episodeId": "AS-S08-E04",
+          "song": "Bad Reputation"
+        },
+        {
+          "episodeId": "AS-S08-E05",
+          "song": "Hallucinate"
+        }
+      ]
+    },
+    {
+      "seasonId": "UKVTW-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S01-E01",
+          "name": "Perform in a talent show"
+        },
+        {
+          "episodeId": "UKVTW-S01-E02",
+          "name": "The RuPaul Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S01-E01",
+          "song": "Say You'll Be There"
+        },
+        {
+          "episodeId": "UKVTW-S01-E02",
+          "song": "Supermodel (You Better Work) (El Lay Toya Jam)"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S01-E03"
     }
   ]
 }

@@ -8,13 +8,25 @@
       "challengeWins": [
         {
           "episodeId": "CA-S04-E01",
-          "name": "Present three looks: First Impressions, Shimmering Showgirls and Me Myself and I"
+          "name": "Present three looks: First Impressions, Shimmering Showgirls and Me Myself and I",
+          "earnings": {
+            "amount": 5000,
+            "currency": "CAD",
+            "context": "$5,000 cash tip courtesy of Fabricland",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S04-E07",
-          "name": "Get into quick drag and host a parody late night call-in show called Just A Tip"
+          "name": "Get into quick drag and host a parody late night call-in show called Just A Tip",
+          "earnings": {
+            "amount": 2000,
+            "currency": "CAD",
+            "context": "$2,000 cash tip and $500 worth of products courtesy of Trojan",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

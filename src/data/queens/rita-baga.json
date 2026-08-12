@@ -8,30 +8,91 @@
       "challengeWins": [
         {
           "episodeId": "CA-S01-E01",
-          "name": "Create a couture outfit from a box of items themed around various aspects of Canada"
+          "name": "Create a couture outfit from a box of items themed around various aspects of Canada",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 shopping spree from Roots Canada",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S01-E04",
-          "name": "In teams, create a cohesive fashion line made out of garbage"
+          "name": "In teams, create a cohesive fashion line made out of garbage",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "shopping spree at Fabric Land",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S01-E06",
-          "name": "In teams, write and produce commercials for fictional drag queen law firms"
+          "name": "In teams, write and produce commercials for fictional drag queen law firms",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$10,000 custom-designed wardrobe from Northbound Leather",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S01-E09",
-          "name": "Sing O Canada as a local chanteuse"
+          "name": "Sing O Canada as a local chanteuse",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$1,000 gift certificate courtesy of Dirt Squirrel",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
-        { "episodeId": "CA-S01-E08", "song": "You Oughta Know" },
-        { "episodeId": "CA-S01-E09", "song": "Closer" }
+        {
+          "episodeId": "CA-S01-E08",
+          "song": "You Oughta Know"
+        },
+        {
+          "episodeId": "CA-S01-E09",
+          "song": "Closer"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E10", "song": "You're a Superstar" }
+        {
+          "episodeId": "CA-S01-E10",
+          "song": "You're a Superstar"
+        }
       ]
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S01-E01",
+          "name": "In groups of three, write and perform an original song for Bonjour, Hi"
+        },
+        {
+          "episodeId": "CVTW-S01-E05",
+          "name": "Act in the spoof Spy Queens"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S01-E05",
+          "song": "Freak"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S01-E01",
+          "song": "Brand New Bitch"
+        }
+      ],
+      "eliminatedEpisodeId": "CVTW-S01-E06"
     }
   ]
 }

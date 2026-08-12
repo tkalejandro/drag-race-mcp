@@ -10,7 +10,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "CA-S05-E04",
-          "name": "Boudoir photoshoot"
+          "name": "Boudoir photoshoot",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip courtesy of Knix",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

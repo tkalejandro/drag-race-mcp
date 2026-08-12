@@ -1,0 +1,26 @@
+{
+  "id": "moon",
+  "name": "Moon",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S02-E02",
+          "name": "Get into panda drag and dance to a remix of \"Pandi-Panda\""
+        },
+        {
+          "episodeId": "FR-S02-E04",
+          "name": "In pairs, act as a couple getting married by exchanging vows and playing a wedding game"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "FR-S02-E06",
+      "missCongeniality": true,
+      "quit": true
+    }
+  ]
+}

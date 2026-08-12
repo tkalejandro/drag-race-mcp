@@ -1,7 +1,10 @@
 {
   "id": "adriana",
   "name": "Adriana",
-  "aliases": ["Adriana The Bombshell", "Adriana Schatzim"],
+  "aliases": [
+    "Adriana The Bombshell",
+    "Adriana Schatzim"
+  ],
   "appearances": [
     {
       "seasonId": "CA-S02",
@@ -9,7 +12,13 @@
       "challengeWins": [
         {
           "episodeId": "CA-S02-E03",
-          "name": "Overact in the slasher film parody Screech"
+          "name": "Overact in the slasher film parody Screech",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 gift certificate courtesy of Fabricland",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

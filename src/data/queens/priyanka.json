@@ -8,23 +8,50 @@
       "challengeWins": [
         {
           "episodeId": "CA-S01-E03",
-          "name": "Write, record, and perform verses to Not Sorry Aboot It"
+          "name": "Write, record, and perform verses to Not Sorry Aboot It",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "luxury stay at the Hilton Lac-Leamy",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S01-E08",
-          "name": "Makeover LGBT refugees who have recently moved to Canada through Rainbow Railroad"
+          "name": "Makeover LGBT refugees who have recently moved to Canada through Rainbow Railroad",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$10,000 donation in the winner's name to Rainbow Railroad",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S01-E03",
-          "name": "Get into quick drag and perform an audition for the morning show Canada Gay M while reading from a teleprompter in English, French, and Draglish"
+          "name": "Get into quick drag and perform an audition for the morning show Canada Gay M while reading from a teleprompter in English, French, and Draglish",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,000 worth of drag jewels from Amped Accessories",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
-        { "episodeId": "CA-S01-E05", "song": "I Drove All Night" },
-        { "episodeId": "CA-S01-E07", "song": "Hello" },
-        { "episodeId": "CA-S01-E10", "song": "You're a Superstar" }
+        {
+          "episodeId": "CA-S01-E05",
+          "song": "I Drove All Night"
+        },
+        {
+          "episodeId": "CA-S01-E07",
+          "song": "Hello"
+        },
+        {
+          "episodeId": "CA-S01-E10",
+          "song": "You're a Superstar"
+        }
       ],
       "lipSyncLosses": []
     }

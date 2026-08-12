@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ph-s03-maxie-crown",
+    "title": "Maxie wins Drag Race Philippines Season 3",
+    "summary": "At the Grand Finale (PH-S03-E10), Khianna and Maxie lip-synced to \"Lipad ng Pangarap\". Maxie was crowned the winner of Drag Race Philippines Season 3, with Khianna as runner-up.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["maxie", "khianna"],
+    "seasonIds": ["PH-S03"],
+    "episodeIds": ["PH-S03-E10"]
+  },
+  {
+    "id": "ph-s03-versex-porkchop",
+    "title": "Versex: Season 3 Porkchop and Miss Congeniality",
+    "summary": "Versex was the season's first true elimination, losing \"Miss Manila\" against Myx Chanel in PH-S03-E03. She later returned for the finale and was voted Miss Congeniality.",
+    "tags": ["porkchop"],
+    "queenIds": ["versex", "myx-chanel"],
+    "seasonIds": ["PH-S03"],
+    "episodeIds": ["PH-S03-E03", "PH-S03-E10"]
+  },
+  {
+    "id": "ph-s03-yudipota-quit",
+    "title": "Yudipota quits mid-lip sync",
+    "summary": "In PH-S03-E04, Yudipota was in the bottom two against J Quinn. During their lip sync to \"Wag Kang Pabebe\", Yudipota walked off stage and quit the competition, handing J Quinn the win.",
+    "tags": ["quit", "drama"],
+    "queenIds": ["yudipota", "j-quinn"],
+    "seasonIds": ["PH-S03"],
+    "episodeIds": ["PH-S03-E04"]
+  },
+  {
+    "id": "ph-s03-lalaparuza",
+    "title": "The Lip Sync LaLaPaRuZa Smackdown and the Golden Balut",
+    "summary": "PH-S03-E08 introduced a Lip-Sync LaLaPaRuZa Smackdown: Tita Baby beat Myx Chanel to \"Adrenaline\", Angel beat Khianna to \"Loka Loka\", and Maxie beat Zymba Ding to \"Hush\". The three winners received the \"Golden Balut\", which they used to save Khianna from the elimination round. Myx Chanel and Zymba Ding then lip-synced to \"Ligaw Tingin\"; Zymba Ding won and Myx Chanel was eliminated.",
+    "tags": ["twist", "lip-sync"],
+    "queenIds": ["tita-baby", "angel", "maxie", "khianna", "myx-chanel", "zymba-ding"],
+    "seasonIds": ["PH-S03"],
+    "episodeIds": ["PH-S03-E08"]
+  }
+]

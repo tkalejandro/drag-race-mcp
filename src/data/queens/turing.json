@@ -1,0 +1,35 @@
+{
+  "id": "turing",
+  "name": "Turing",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 9,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S01-E03",
+          "name": "Write, record, and perform verses to \"Pop Off Ate (Pop Off Sis)\"",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S01-E02",
+          "song": "I'm Feeling Sexy Tonight"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E04",
+          "song": "Shine"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E04"
+    }
+  ]
+}

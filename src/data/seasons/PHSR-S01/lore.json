@@ -1,0 +1,93 @@
+[
+  {
+    "id": "phsr-s01-brigiding-crowned",
+    "title": "Brigiding becomes the first Slaysian Royalty",
+    "summary": "In the Grand Finale (PHSR-S01-E10), after a talent extravaganza narrowed the top four to a final two, Brigiding beat fellow Philippines Season 1 alumna Viñas DeLuxe to Marina Summers's \"Born to Do Drag\". Brigiding won ₱2,000,000 and became the first queen crowned Slaysian Royalty.",
+    "tags": ["finale", "crown", "vs-the-world"],
+    "queenIds": ["brigiding", "vinas-deluxe", "marina-summers"],
+    "seasonIds": ["PHSR-S01", "PH-S01"],
+    "episodeIds": ["PHSR-S01-E10"]
+  },
+  {
+    "id": "phsr-s01-cross-asia-cast",
+    "title": "Slaysian Royale assembles a pan-Asian returnee cast",
+    "summary": "Drag Race Philippines: Slaysian Royale Season 1 brought together five Philippines returnees with Asian queens from Canada (Suki Doll), the US (Yuhua Hamasaki), Thailand (Siam Phusri), France (Kitty Space), Down Under (Ivory Glaze), the UK (Sum Ting Wong), and Belgique (Madame Yoko) for the franchise's first all-Asian All Stars format hosted in the Philippines.",
+    "tags": ["vs-the-world", "international", "crossover", "return"],
+    "queenIds": [
+      "brigiding",
+      "suki-doll",
+      "yuhua-hamasaki",
+      "siam-phusri",
+      "kitty-space",
+      "ivory-glaze",
+      "sum-ting-wong",
+      "madame-yoko"
+    ],
+    "seasonIds": [
+      "PHSR-S01",
+      "PH-S01",
+      "CA-S02",
+      "US-S10",
+      "TH-S03",
+      "FR-S02",
+      "DU-S03",
+      "UK-S01",
+      "BE-S02"
+    ],
+    "episodeIds": ["PHSR-S01-E01"]
+  },
+  {
+    "id": "phsr-s01-madame-yoko-porkchop",
+    "title": "Madame Yoko is the first Slaysian sashay",
+    "summary": "Belgique Season 2 alumna Madame Yoko was the first queen eliminated on PHSR-S01-E01. After Khianna and Siam Phusri won Miss Shutacca: Slaysian Edition, Khianna won the Lip Sync for Your Legacy to Katseye's \"Debut\" and sent Madame Yoko home.",
+    "tags": ["porkchop", "lip-sync", "international"],
+    "queenIds": ["madame-yoko", "khianna", "siam-phusri"],
+    "seasonIds": ["PHSR-S01", "BE-S02"],
+    "episodeIds": ["PHSR-S01-E01"]
+  },
+  {
+    "id": "phsr-s01-suki-miss-c",
+    "title": "Suki Doll is voted Miss Congeniality",
+    "summary": "Canada Season 2 Miss Congeniality Suki Doll was voted Miss Congeniality again on Slaysian Royale, finishing fourth after reaching the finale with Arizona Brandy, Brigiding, and Viñas DeLuxe and sharing a DragCon Slaysia maxi win with Arizona on PHSR-S01-E08.",
+    "tags": ["finale", "fan-favorite", "international"],
+    "queenIds": ["suki-doll", "arizona-brandy"],
+    "seasonIds": ["PHSR-S01", "CA-S02"],
+    "episodeIds": ["PHSR-S01-E08", "PHSR-S01-E10"]
+  },
+  {
+    "id": "phsr-s01-golden-balut",
+    "title": "Brigiding saves Viñas with the Golden Balut",
+    "summary": "During the Lip Sync LaLaPaRuZa Slaysian Smackdown (PHSR-S01-E07), Brigiding won the top tournament and used the Golden Balut to save Viñas DeLuxe from the bottom three. Khianna then beat Yuhua Hamasaki in the Lip Sync for Your Life to Lola Amour's \"Misbehave\", eliminating Yuhua.",
+    "tags": ["twist", "lip-sync", "sisterhood"],
+    "queenIds": ["brigiding", "vinas-deluxe", "khianna", "yuhua-hamasaki"],
+    "seasonIds": ["PHSR-S01", "US-S10"],
+    "episodeIds": ["PHSR-S01-E07"]
+  },
+  {
+    "id": "phsr-s01-vinas-legacy-run",
+    "title": "Viñas DeLuxe stacks early Lip Sync for Your Legacy wins",
+    "summary": "Philippines Season 1 alumna Viñas DeLuxe won consecutive Lip Syncs for Your Legacy on PHSR-S01-E02 and E03 (\"XL\" and Pangina Heals's \"Winna Winna\"), then returned from the bottom to eliminate Khianna on DragCon Slaysia before finishing as runner-up to Brigiding.",
+    "tags": ["lip-sync", "finale", "return"],
+    "queenIds": ["vinas-deluxe", "brigiding", "khianna", "pangina-heals"],
+    "seasonIds": ["PHSR-S01", "PH-S01"],
+    "episodeIds": ["PHSR-S01-E02", "PHSR-S01-E03", "PHSR-S01-E08", "PHSR-S01-E10"]
+  },
+  {
+    "id": "phsr-s01-double-shantay",
+    "title": "High Time ends in a double shantay",
+    "summary": "On PHSR-S01-E09, after Brigiding won the Reyna girl-group challenge, Suki Doll and Viñas DeLuxe lip synced to Morissette Amon's \"Power\" with no elimination, sending the final four into the Slaysian Grand T.I.T.E. talent finale.",
+    "tags": ["double-shantay", "lip-sync", "finale"],
+    "queenIds": ["brigiding", "suki-doll", "vinas-deluxe"],
+    "seasonIds": ["PHSR-S01"],
+    "episodeIds": ["PHSR-S01-E09"]
+  },
+  {
+    "id": "phsr-s01-yuhua-snatch-election",
+    "title": "Yuhua Hamasaki wins Snatch Election before Lalaparuza exit",
+    "summary": "US Season 10 alumna Yuhua Hamasaki won the three-way Snatch Election Lip Sync for Your Legacy to BINI's \"Out of My Head\" on PHSR-S01-E06 and eliminated Thailand Season 3's Siam Phusri, then was eliminated the next week when Khianna won the Lalaparuza Lip Sync for Your Life.",
+    "tags": ["snatch-game", "lip-sync", "international"],
+    "queenIds": ["yuhua-hamasaki", "siam-phusri", "khianna"],
+    "seasonIds": ["PHSR-S01", "US-S10", "TH-S03"],
+    "episodeIds": ["PHSR-S01-E06", "PHSR-S01-E07"]
+  }
+]

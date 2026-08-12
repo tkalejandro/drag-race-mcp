@@ -1,0 +1,456 @@
+[
+  {
+    "id": "ES-S03-E01",
+    "seasonId": "ES-S03",
+    "episodeNumber": 1,
+    "title": "Spain is Different",
+    "miniChallenge": {
+      "name": "Farm-animal photoshoot",
+      "winnerIds": [
+        "hornella-gongora"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "photoshoot for Shangay Magazine"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Talent show",
+      "winnerIds": [
+        "bestiah"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
+    },
+    "runwayTheme": "Spain is Different",
+    "bottomIds": [
+      "drag-chuchi",
+      "maria-edilia"
+    ],
+    "lipSync": {
+      "song": "Despechá",
+      "queenIds": [
+        "drag-chuchi",
+        "maria-edilia"
+      ],
+      "winnerIds": [
+        "drag-chuchi"
+      ],
+      "eliminatedIds": [
+        "maria-edilia"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Paco León"
+      }
+    ]
+  },
+  {
+    "id": "ES-S03-E02",
+    "seasonId": "ES-S03",
+    "episodeNumber": 2,
+    "title": "Drag Vision",
+    "miniChallenge": {
+      "name": "Eurovision quiz",
+      "winnerIds": [
+        "the-macarena"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip from Addicted"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Choreograph and perform to \"SloMo\"",
+      "winnerIds": [
+        "pink-chadora"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and 2 nights at the Barcelona Axel Hotel"
+      }
+    },
+    "runwayTheme": "España en Eurovisión",
+    "bottomIds": [
+      "drag-chuchi",
+      "vania-vainilla"
+    ],
+    "lipSync": {
+      "song": "La noche es para mí",
+      "queenIds": [
+        "drag-chuchi",
+        "vania-vainilla"
+      ],
+      "winnerIds": [
+        "vania-vainilla"
+      ],
+      "eliminatedIds": [
+        "drag-chuchi"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Soraya Arnelas"
+      }
+    ]
+  },
+  {
+    "id": "ES-S03-E03",
+    "seasonId": "ES-S03",
+    "episodeNumber": 3,
+    "title": "The Great Ball of Regions",
+    "maxiChallenge": {
+      "name": "The Great Ball of Regions",
+      "winnerIds": [
+        "pitita"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a necklace and earrings from Aster LAB"
+      }
+    },
+    "runwayTheme": "Colores / Sabores / Regiones",
+    "bottomIds": [
+      "chanel-anorex",
+      "kelly-roller"
+    ],
+    "lipSync": {
+      "song": "Genio atrapado",
+      "queenIds": [
+        "chanel-anorex",
+        "kelly-roller"
+      ],
+      "winnerIds": [
+        "kelly-roller"
+      ],
+      "eliminatedIds": [
+        "chanel-anorex"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Palomo Spain"
+      }
+    ]
+  },
+  {
+    "id": "ES-S03-E04",
+    "seasonId": "ES-S03",
+    "episodeNumber": 4,
+    "title": "Drag Sequels",
+    "maxiChallenge": {
+      "name": "Horror sequel acting challenge",
+      "winnerIds": [
+        "pitita"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and a trip to Axel Hoteles San Sebastián"
+      }
+    },
+    "runwayTheme": "Mi Peor Yo",
+    "bottomIds": [
+      "clover-bish",
+      "kelly-roller"
+    ],
+    "lipSync": {
+      "song": "Ay mamá",
+      "queenIds": [
+        "clover-bish",
+        "kelly-roller"
+      ],
+      "winnerIds": [
+        "clover-bish"
+      ],
+      "eliminatedIds": [
+        "kelly-roller"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Paco Plaza"
+      }
+    ]
+  },
+  {
+    "id": "ES-S03-E05",
+    "seasonId": "ES-S03",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "pakita"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€1,000 worth of products from FOREO",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "pink-chadora"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
+    },
+    "runwayTheme": "Arriba la pluma",
+    "bottomIds": [
+      "pakita",
+      "the-macarena"
+    ],
+    "lipSync": {
+      "song": "Desátame",
+      "queenIds": [
+        "pakita",
+        "the-macarena"
+      ],
+      "winnerIds": [
+        "pakita"
+      ],
+      "eliminatedIds": [
+        "the-macarena"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "La Terremoto de Alcorcón"
+      }
+    ]
+  },
+  {
+    "id": "ES-S03-E06",
+    "seasonId": "ES-S03",
+    "episodeNumber": 6,
+    "title": "El Mago Precoz",
+    "maxiChallenge": {
+      "name": "Oz musical",
+      "winnerIds": [
+        "pitita"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip and jewelry from Aster Lab"
+      }
+    },
+    "runwayTheme": "Tres Looks en Uno",
+    "bottomIds": [
+      "clover-bish",
+      "visa"
+    ],
+    "lipSync": {
+      "song": "Dime",
+      "queenIds": [
+        "clover-bish",
+        "visa"
+      ],
+      "winnerIds": [
+        "clover-bish"
+      ],
+      "eliminatedIds": [
+        "visa"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Mónica Cruz"
+      }
+    ]
+  },
+  {
+    "id": "ES-S03-E07",
+    "seasonId": "ES-S03",
+    "episodeNumber": 7,
+    "title": "The Second Chance",
+    "maxiChallenge": {
+      "name": "Stand-up with eliminated queens",
+      "winnerIds": [
+        "vania-vainilla"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
+    },
+    "runwayTheme": "Peluca Palooza",
+    "bottomIds": [
+      "pakita",
+      "pink-chadora",
+      "pitita"
+    ],
+    "lipSync": {
+      "song": "No controles",
+      "queenIds": [
+        "pakita",
+        "pink-chadora",
+        "pitita"
+      ],
+      "winnerIds": [
+        "pitita"
+      ],
+      "eliminatedIds": [
+        "pakita",
+        "pink-chadora"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Eva Soriano"
+      }
+    ]
+  },
+  {
+    "id": "ES-S03-E08",
+    "seasonId": "ES-S03",
+    "episodeNumber": 8,
+    "title": "One, Two, Drags!",
+    "miniChallenge": {
+      "name": "Blindfold face paint",
+      "winnerIds": [
+        "bestiah",
+        "clover-bish"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "€500 worth of products from Krash Kosmetics",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Game-show improv",
+      "winnerIds": [
+        "pitita"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
+    },
+    "runwayTheme": "Una ilusión",
+    "bottomIds": [
+      "bestiah",
+      "kelly-roller"
+    ],
+    "lipSync": {
+      "song": "La niña",
+      "queenIds": [
+        "bestiah",
+        "kelly-roller"
+      ],
+      "winnerIds": [
+        "kelly-roller"
+      ],
+      "eliminatedIds": [
+        "bestiah"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "María Peláe"
+      }
+    ]
+  },
+  {
+    "id": "ES-S03-E09",
+    "seasonId": "ES-S03",
+    "episodeNumber": 9,
+    "title": "Makeover: Barricientas",
+    "miniChallenge": {
+      "name": "Pancake slap",
+      "winnerIds": [
+        "pitita"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "sample of products courtesy of ES Collection Cosmetics",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Makeover cleaners",
+      "winnerIds": [
+        "vania-vainilla"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "EUR",
+        "context": "€2,500 cash tip"
+      }
+    },
+    "runwayTheme": "Barricientas",
+    "bottomIds": [
+      "clover-bish",
+      "hornella-gongora"
+    ],
+    "lipSync": {
+      "song": "Vas a volverme loca",
+      "queenIds": [
+        "clover-bish",
+        "hornella-gongora"
+      ],
+      "winnerIds": [
+        "hornella-gongora"
+      ],
+      "eliminatedIds": [
+        "clover-bish"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Valentina"
+      }
+    ]
+  },
+  {
+    "id": "ES-S03-E10",
+    "seasonId": "ES-S03",
+    "episodeNumber": 10,
+    "title": "The Reunion"
+  },
+  {
+    "id": "ES-S03-E11",
+    "seasonId": "ES-S03",
+    "episodeNumber": 11,
+    "title": "Grand Finale",
+    "runwayTheme": "Mi Mejor Look Drag",
+    "topIds": [
+      "pitita",
+      "vania-vainilla"
+    ],
+    "lipSync": {
+      "song": "Punto de partida",
+      "queenIds": [
+        "pitita",
+        "vania-vainilla"
+      ],
+      "winnerIds": [
+        "pitita"
+      ],
+      "eliminatedIds": [
+        "hornella-gongora",
+        "kelly-roller"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

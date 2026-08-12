@@ -1,0 +1,102 @@
+{
+  "id": "hannah-conda",
+  "name": "Hannah Conda",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S02-E04",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 5000,
+            "currency": "AUD",
+            "context": "$5,000 cash tip courtesy of The Star, Sydney",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "DU-S02-E05",
+          "name": "Write, record, and perform verses to \"Bosom Buddies\"",
+          "earnings": {
+            "amount": 2000,
+            "currency": "AUD",
+            "context": "$2,000 cash tip and a year supply of tights"
+          }
+        },
+        {
+          "episodeId": "DU-S02-E06",
+          "name": "Create a tourism campaign for their hometowns",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$2,000 gift card courtesy of Shoe Me",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S02-E07",
+          "song": "Heartbreak in This City"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S02-E08",
+          "song": "Wow"
+        }
+      ]
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E04",
+          "name": "Snatch Game: Family Edition"
+        },
+        {
+          "episodeId": "UKVTW-S02-E06",
+          "name": "Dance in pairs in half-and-half drag"
+        },
+        {
+          "episodeId": "UKVTW-S02-E07",
+          "name": "Write and deliver a wedding roast"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "name": "Choose The Fairest, The Shadiest, The Mightiest, and The Neediest"
+        },
+        {
+          "episodeId": "UKVTW-S02-E07",
+          "name": "Hen party dance-off"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S02-E07",
+          "song": "Euphoria"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S02-E04",
+          "song": "Crying at the Discoteque"
+        },
+        {
+          "episodeId": "UKVTW-S02-E06",
+          "song": "Release Me"
+        },
+        {
+          "episodeId": "UKVTW-S02-E08",
+          "song": "Your Disco Needs You"
+        }
+      ]
+    }
+  ]
+}

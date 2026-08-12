@@ -25,6 +25,20 @@
         }
       ],
       "eliminatedEpisodeId": "US-S05-E02"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 13,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E10",
+          "song": "Free Your Mind / Girls Just Want to Have Fun / Point of No Return / Song for the Lonely / Barbie Girl / Heartbreaker / Focus / Since U Been Gone"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S06-E01"
     }
   ]
 }

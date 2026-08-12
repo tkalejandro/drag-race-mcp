@@ -1,0 +1,34 @@
+{
+  "id": "m1ss-jade-so",
+  "name": "M1ss Jade So",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S02-E09",
+          "name": "Star and perform in a music video for RuPaul's song \"Main Event\"",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S02-E05",
+          "song": "Gusto Ko Nang Bumitaw"
+        },
+        {
+          "episodeId": "PH-S02-E06",
+          "song": "I Bring the Beat"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PH-S02-E10"
+    }
+  ]
+}

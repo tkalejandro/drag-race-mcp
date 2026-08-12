@@ -8,17 +8,32 @@
       "challengeWins": [
         {
           "episodeId": "US-S17-E02",
-          "name": "Perform a talent show for Drag Queens Got Talent (group 2)"
+          "name": "Perform a talent show for Drag Queens Got Talent (group 2)",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S17-E12",
-          "name": "Perform paired C.U.N.T. monologues"
+          "name": "Perform paired C.U.N.T. monologues",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash prize each"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S17-E06",
-          "name": "ABH lipstick mouth relay"
+          "name": "ABH lipstick mouth relay",
+          "earnings": {
+            "amount": 500,
+            "currency": "USD",
+            "context": "$500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "PH-S02-E01",
+    "seasonId": "PH-S02",
+    "episodeNumber": 1,
+    "title": "Grand Opening Part 1",
+    "miniChallenge": {
+      "name": "Photoshoot with a tarantula",
+      "winnerIds": [
+        "matilduh"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"BOOGSH!\"",
+      "winnerIds": [
+        "arizona-brandy"
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
+    },
+    "runwayTheme": "Feather You Like It or Not",
+    "topIds": [
+      "arizona-brandy"
+    ],
+    "bottomIds": [
+      "nicole-pardaux",
+      "tiny-deluxe"
+    ],
+    "lipSync": {
+      "song": "Here We Go",
+      "queenIds": [
+        "nicole-pardaux",
+        "tiny-deluxe"
+      ],
+      "winnerIds": [
+        "tiny-deluxe"
+      ],
+      "eliminatedIds": [
+        "nicole-pardaux"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Almira Cercado"
+      },
+      {
+        "name": "Mylene Cercado"
+      }
+    ]
+  },
+  {
+    "id": "PH-S02-E02",
+    "seasonId": "PH-S02",
+    "episodeNumber": 2,
+    "title": "Grand Opening Part 2",
+    "miniChallenge": {
+      "name": "Photoshoot with a snake",
+      "winnerIds": [
+        "veruschka-levels"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"BOOGSH!\"",
+      "winnerIds": [
+        "bernie"
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
+    },
+    "runwayTheme": "Fringe with Benefits",
+    "topIds": [
+      "bernie"
+    ],
+    "bottomIds": [
+      "astrid-mercury",
+      "hana-beshie"
+    ],
+    "lipSync": {
+      "song": "Unleash the Diva",
+      "queenIds": [
+        "astrid-mercury",
+        "hana-beshie"
+      ],
+      "winnerIds": [
+        "hana-beshie"
+      ],
+      "eliminatedIds": [
+        "astrid-mercury"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Celina Cercado"
+      },
+      {
+        "name": "Irene Cercado"
+      }
+    ]
+  },
+  {
+    "id": "PH-S02-E03",
+    "seasonId": "PH-S02",
+    "episodeNumber": 3,
+    "title": "Who Wore It Bettah?",
+    "miniChallenge": {
+      "name": "Lolapalooza Newspaper Dance",
+      "winnerIds": [
+        "matilduh"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Create a look with the same party supplies as your drag sister",
+      "winnerIds": [
+        "veruschka-levels"
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
+    },
+    "runwayTheme": "Who Wore It Bettah?",
+    "topIds": [
+      "veruschka-levels"
+    ],
+    "bottomIds": [
+      "arizona-brandy",
+      "tiny-deluxe"
+    ],
+    "lipSync": {
+      "song": "Kitty Girl",
+      "queenIds": [
+        "arizona-brandy",
+        "tiny-deluxe"
+      ],
+      "winnerIds": [
+        "arizona-brandy"
+      ],
+      "eliminatedIds": [
+        "tiny-deluxe"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Tessa Prieto"
+      }
+    ]
+  },
+  {
+    "id": "PH-S02-E04",
+    "seasonId": "PH-S02",
+    "episodeNumber": 4,
+    "title": "Snatch Game KNB?",
+    "miniChallenge": {
+      "name": "Perform a tinikling routine",
+      "winnerIds": [
+        "matilduh"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "captivating-katkat"
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
+    },
+    "runwayTheme": "Uuh-La-Lam Realness",
+    "topIds": [
+      "captivating-katkat"
+    ],
+    "bottomIds": [
+      "deedee-marie-holliday",
+      "matilduh",
+      "veruschka-levels"
+    ],
+    "lipSync": {
+      "song": "Bongga Ka 'Day",
+      "queenIds": [
+        "deedee-marie-holliday",
+        "matilduh",
+        "veruschka-levels"
+      ],
+      "winnerIds": [
+        "deedee-marie-holliday",
+        "matilduh"
+      ],
+      "eliminatedIds": [
+        "veruschka-levels"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Kim Molina"
+      }
+    ]
+  },
+  {
+    "id": "PH-S02-E05",
+    "seasonId": "PH-S02",
+    "episodeNumber": 5,
+    "title": "Sirena: The Rusical",
+    "miniChallenge": {
+      "name": "Play a game of musical chairs",
+      "winnerIds": [
+        "captivating-katkat"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Sirena: The Rusical",
+      "winnerIds": [
+        "deedee-marie-holliday"
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
+    },
+    "runwayTheme": "The Shoooes!",
+    "topIds": [
+      "deedee-marie-holliday"
+    ],
+    "bottomIds": [
+      "m1ss-jade-so",
+      "matilduh"
+    ],
+    "lipSync": {
+      "song": "Gusto Ko Nang Bumitaw",
+      "queenIds": [
+        "m1ss-jade-so",
+        "matilduh"
+      ],
+      "winnerIds": [
+        "m1ss-jade-so"
+      ],
+      "eliminatedIds": [
+        "matilduh"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Anne Curtis"
+      }
+    ]
+  },
+  {
+    "id": "PH-S02-E06",
+    "seasonId": "PH-S02",
+    "episodeNumber": 6,
+    "title": "Dramarama Mama!",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": [
+        "hana-beshie"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Overact in \"Pangako Sa'Yo, Mula sa Puso... Magkaribal sa Dulo ng Walang Hanggan ng Kadenang Ginto... The Second Installment!\"",
+      "winnerIds": [
+        "captivating-katkat"
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
+    },
+    "runwayTheme": "Can I Get an Alien?",
+    "topIds": [
+      "captivating-katkat"
+    ],
+    "bottomIds": [
+      "deedee-marie-holliday",
+      "m1ss-jade-so"
+    ],
+    "lipSync": {
+      "song": "I Bring the Beat",
+      "queenIds": [
+        "deedee-marie-holliday",
+        "m1ss-jade-so"
+      ],
+      "winnerIds": [
+        "m1ss-jade-so"
+      ],
+      "eliminatedIds": [
+        "deedee-marie-holliday"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Maricel Soriano"
+      }
+    ]
+  },
+  {
+    "id": "PH-S02-E07",
+    "seasonId": "PH-S02",
+    "episodeNumber": 7,
+    "title": "Twinning: The Shequel",
+    "miniChallenge": {
+      "name": "Apply makeup using only one compact mirror and pose for a photoshoot",
+      "winnerIds": [
+        "bernie"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Makeover members of the Golden Gays",
+      "winnerIds": [
+        "bernie"
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
+    },
+    "runwayTheme": "Twinning: The Shequel",
+    "topIds": [
+      "bernie",
+      "ov-cunt"
+    ],
+    "lipSync": {
+      "song": "A Little Kiss, a Little Hug",
+      "queenIds": [
+        "bernie",
+        "ov-cunt"
+      ],
+      "winnerIds": [
+        "bernie"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Gloria Diaz"
+      }
+    ]
+  },
+  {
+    "id": "PH-S02-E08",
+    "seasonId": "PH-S02",
+    "episodeNumber": 8,
+    "title": "Branding-Ding-Ding!",
+    "miniChallenge": {
+      "name": "Read the other queens through a rap",
+      "winnerIds": [
+        "arizona-brandy"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "₱20,000 cash tip courtesy of Havaianas",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Create, market, and film a commercial for your own shampoo",
+      "winnerIds": [
+        "ov-cunt"
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
+    },
+    "runwayTheme": "Rainbow Runway Realness",
+    "topIds": [
+      "ov-cunt"
+    ],
+    "bottomIds": [
+      "bernie",
+      "captivating-katkat"
+    ],
+    "lipSync": {
+      "song": "The Power",
+      "queenIds": [
+        "bernie",
+        "captivating-katkat"
+      ],
+      "winnerIds": [
+        "bernie",
+        "captivating-katkat"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Pangina Heals"
+      }
+    ]
+  },
+  {
+    "id": "PH-S02-E09",
+    "seasonId": "PH-S02",
+    "episodeNumber": 9,
+    "title": "The Main Event",
+    "maxiChallenge": {
+      "name": "Star and perform in a music video for RuPaul's song \"Main Event\"",
+      "winnerIds": [
+        "m1ss-jade-so"
+      ],
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "₱80,000 cash tip"
+      }
+    },
+    "runwayTheme": "Doble-Kara Extravaganza",
+    "topIds": [
+      "m1ss-jade-so"
+    ],
+    "bottomIds": [
+      "arizona-brandy",
+      "hana-beshie",
+      "ov-cunt"
+    ],
+    "lipSync": {
+      "song": "Dati",
+      "queenIds": [
+        "arizona-brandy",
+        "hana-beshie",
+        "ov-cunt"
+      ],
+      "winnerIds": [
+        "arizona-brandy"
+      ],
+      "eliminatedIds": [
+        "hana-beshie",
+        "ov-cunt"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Bretman Rock"
+      }
+    ]
+  },
+  {
+    "id": "PH-S02-E10",
+    "seasonId": "PH-S02",
+    "episodeNumber": 10,
+    "title": "Grand Finale",
+    "runwayTheme": "Wildlife Couture Extravaganza, My Precious Stones Fantasy and Your Best Drag Eleganza",
+    "topIds": [
+      "arizona-brandy",
+      "bernie",
+      "captivating-katkat",
+      "m1ss-jade-so"
+    ],
+    "lipSync": {
+      "song": "Kapangyarihan",
+      "queenIds": [
+        "arizona-brandy",
+        "captivating-katkat"
+      ],
+      "winnerIds": [
+        "captivating-katkat"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

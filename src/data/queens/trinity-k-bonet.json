@@ -29,6 +29,43 @@
         }
       ],
       "eliminatedEpisodeId": "US-S06-E09"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S06-E03",
+          "name": "Write and star in a commercial promoting a side hustle",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 and $5,000 worth of Orbucks from Orbitz"
+          }
+        },
+        {
+          "episodeId": "AS-S06-E07",
+          "name": "In groups, write your own verse to \"Show Up Queen\"",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000, courtesy of Snag Tights"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E03",
+          "song": "Physical"
+        },
+        {
+          "episodeId": "AS-S06-E07",
+          "song": "Dance Again"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S06-E11"
     }
   ]
 }

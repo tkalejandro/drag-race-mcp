@@ -9,7 +9,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S13-E09",
-          "name": "Audition for The PantyHoes"
+          "name": "Audition for The PantyHoes",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 tip, courtesy of Snag Tights"
+          }
         }
       ],
       "lipSyncWins": [],
@@ -20,6 +25,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S13-E11"
+    },
+    {
+      "seasonId": "AS-S10",
+      "placement": 11,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S10-E04",
+          "name": "Design an outfit using all items inside an 8-ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S10-E04",
+          "song": "Love Sensation"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S10-E06"
     }
   ]
 }

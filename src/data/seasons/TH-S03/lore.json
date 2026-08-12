@@ -1,0 +1,20 @@
+[
+  {
+    "id": "th-s03-frankie-crown",
+    "title": "Frankie Wonga wins Drag Race Thailand Season 3",
+    "summary": "At the Grand Finale (TH-S03-E10), Frankie Wonga and Zepee lip-synced to \"ประวัติศาสตร์\" by Christina Aguilar. Frankie Wonga was crowned the winner of Drag Race Thailand Season 3, with Zepee as runner-up.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["frankie-wonga", "zepee"],
+    "seasonIds": ["TH-S03"],
+    "episodeIds": ["TH-S03-E10"]
+  },
+  {
+    "id": "th-s03-srirasha-porkchop",
+    "title": "Srirasha Hotsauce: Season 3 Porkchop",
+    "summary": "Srirasha Hotsauce survived a first-episode lip sync but was eliminated the following week (TH-S03-E02), losing to \"บุ๋ง\" against Spicy Sunshine.",
+    "tags": ["porkchop"],
+    "queenIds": ["srirasha-hotsauce", "spicy-sunshine"],
+    "seasonIds": ["TH-S03"],
+    "episodeIds": ["TH-S03-E01", "TH-S03-E02"]
+  }
+]

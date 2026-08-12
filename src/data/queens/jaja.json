@@ -1,0 +1,30 @@
+{
+  "id": "jaja",
+  "name": "JAJA",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S01-E04",
+          "name": "Pink carpet photoshoot"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S01-E05",
+          "song": "Toxic"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S01-E06",
+          "song": "เพลงสุดท้าย (Last Song)"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S01-E06"
+    }
+  ]
+}

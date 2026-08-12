@@ -1,0 +1,20 @@
+{
+  "id": "nicole-pardaux",
+  "name": "Nicole Pardaux",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S02-E01",
+          "song": "Here We Go"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S02-E01"
+    }
+  ]
+}

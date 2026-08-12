@@ -1,0 +1,54 @@
+{
+  "id": "elecktra-bionic",
+  "name": "Elecktra Bionic",
+  "appearances": [
+    {
+      "seasonId": "IT-S01",
+      "placement": 1,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S01-E01",
+          "name": "Photoshoot on a Venetian Gondola",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "jewelry piece by Aster Lab",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "IT-S01-E03",
+          "name": "Complete a puzzle of an iconic Raffaella Carrà look",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "jewelry piece by Aster Lab",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "IT-S01-E04",
+          "name": "Apply drag makeup in the dark",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "selection of products from Mac Cosmetics worth €500",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "IT-S01-E06",
+          "name": "Reading Is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S01-E06",
+          "song": "Non sono una signora"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

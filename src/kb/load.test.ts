@@ -51,7 +51,11 @@ const minimalSeason = (id: string, castIds: string[], episodeIds: string[]) => (
   hosts: [{ name: "RuPaul" }],
   judges: [{ name: "RuPaul" }],
   isCharity: false,
-  cashPrice: { amount: 0, currency: "USD" },
+  cashPrice: {
+    amount: 0,
+    currency: "USD",
+    context: "No cash prize",
+  },
 });
 
 const minimalEpisode = (id: string, seasonId: string, episodeNumber: number) => ({
@@ -341,14 +345,14 @@ describe("loadKnowledgeBase", () => {
     );
   });
 
-  it("rejects queens not referenced by castIds or PersonRef queenId", () => {
+  it("rejects queens not referenced by castIds, lipSync, or PersonRef queenId", () => {
     const root = makeDataRoot();
     writeValidMinimalKb(root);
     writeQueen(root, minimalQueen("orphan-queen"));
 
     assert.throws(
       () => loadKnowledgeBase(root),
-      /queen "orphan-queen" is not referenced by any castIds or PersonRef queenId/,
+      /queen "orphan-queen" is not referenced by any castIds, lipSync\.queenIds, or PersonRef queenId/,
     );
   });
 });

@@ -1,0 +1,42 @@
+{
+  "id": "sagittaria",
+  "name": "Sagittaria",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S01-E03",
+          "name": "In pairs, act as influencers for a themed magazine"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S01-E06",
+          "song": "Aute Cuture"
+        },
+        {
+          "episodeId": "ES-S01-E07",
+          "song": "Cuando tú vas"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S01-E09",
+          "song": "La gata bajo la lluvia"
+        }
+      ]
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ESAS-S01-E04"
+    }
+  ]
+}

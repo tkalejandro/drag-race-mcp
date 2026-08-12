@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fr-s02-keiona-crown",
+    "title": "Keiona wins Drag Race France Season 2",
+    "summary": "In the Grand Finale (FR-S02-E09), Keiona defeated Sara Forever in the Lip Sync for the Crown to David Guetta ft. Sia's \"Titanium\", becoming Drag Race France's second Drag Superstar. Mami Watta and Punani were eliminated from the final four without a lip sync.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["keiona", "sara-forever", "mami-watta", "punani"],
+    "seasonIds": ["FR-S02"],
+    "episodeIds": ["FR-S02-E09"]
+  },
+  {
+    "id": "fr-s02-rose-porkchop",
+    "title": "Rose: France Season 2's first Porkchop",
+    "summary": "Rose was the first contestant eliminated on Drag Race France season 2 (FR-S02-E01), losing the lip sync to \"3SEX\" against Kitty Space.",
+    "tags": ["porkchop"],
+    "queenIds": ["rose-fr", "kitty-space"],
+    "seasonIds": ["FR-S02"],
+    "episodeIds": ["FR-S02-E01"]
+  },
+  {
+    "id": "fr-s02-moon-quit",
+    "title": "Moon quits before the Time Ball lip sync",
+    "summary": "In FR-S02-E06, Moon and Sara Forever were called as the bottom two after the Time Ball. Before lip-syncing, Moon announced she was leaving the competition due to mental health issues; the rest of the cast joined Sara Forever in a symbolic performance of \"Tu m'oublieras\" with no elimination. Moon was later voted Miss Congeniality.",
+    "tags": ["quit", "drama"],
+    "queenIds": ["moon", "sara-forever"],
+    "seasonIds": ["FR-S02"],
+    "episodeIds": ["FR-S02-E06"]
+  },
+  {
+    "id": "fr-s02-piche-reentry",
+    "title": "Piche returns from elimination",
+    "summary": "Eliminated in FR-S02-E04, Piche was named the best of the eliminated queens in FR-S02-E07's girl-group challenge against the current cast. She then beat bottom-placed Cookie Kunty in a lip sync to \"Et alors!\" by Shy'm, re-entering the competition and sending Cookie Kunty home instead.",
+    "tags": ["return", "twist", "lip-sync"],
+    "queenIds": ["piche", "cookie-kunty"],
+    "seasonIds": ["FR-S02"],
+    "episodeIds": ["FR-S02-E07"]
+  }
+]

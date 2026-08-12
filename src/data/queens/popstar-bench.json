@@ -1,0 +1,25 @@
+{
+  "id": "popstar-bench",
+  "name": "Popstar Bench",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S03-E06",
+          "song": "Dadalhin"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S03-E07",
+          "song": "Get Your Rebel On"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S03-E07"
+    }
+  ]
+}

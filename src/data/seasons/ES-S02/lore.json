@@ -1,0 +1,61 @@
+[
+  {
+    "id": "es-s02-sharonne-crown",
+    "title": "Sharonne wins España Season 2",
+    "summary": "In the Grand Finale (ES-S02-E11), Estrella Xtravaganza, Sharonne, and Venedita Von Däsh lip-synced to Alaska y Dinarama's \"Ni tú ni nadie\". Sharonne was crowned Spain's next Drag Superstar.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "iconic"
+    ],
+    "queenIds": [
+      "sharonne",
+      "estrella-xtravaganza",
+      "venedita-von-dash"
+    ],
+    "seasonIds": [
+      "ES-S02"
+    ],
+    "episodeIds": [
+      "ES-S02-E11"
+    ]
+  },
+  {
+    "id": "es-s02-marisa-porkchop",
+    "title": "Marisa Prisa: Season 2 Porkchop",
+    "summary": "Marisa Prisa was the first contestant eliminated on España Season 2 (ES-S02-E01), lip-syncing to Gloria Trevi's \"Todos me miran\" against Samantha Ballentines.",
+    "tags": [
+      "porkchop"
+    ],
+    "queenIds": [
+      "marisa-prisa",
+      "samantha-ballentines"
+    ],
+    "seasonIds": [
+      "ES-S02"
+    ],
+    "episodeIds": [
+      "ES-S02-E01"
+    ]
+  },
+  {
+    "id": "es-s02-double-shantay",
+    "title": "Estrella and Marina double shantay",
+    "summary": "In ES-S02-E09, Estrella Xtravaganza and Marina lip-synced to Jennifer Lopez's \"El Anillo\". Both won and no one went home.",
+    "tags": [
+      "double-shantay",
+      "lip-sync"
+    ],
+    "queenIds": [
+      "estrella-xtravaganza",
+      "marina"
+    ],
+    "seasonIds": [
+      "ES-S02"
+    ],
+    "episodeIds": [
+      "ES-S02-E09"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "edna-sorgelsen",
+  "name": "Edna Sorgelsen",
+  "appearances": [
+    {
+      "seasonId": "BE-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BE-S01-E03",
+          "name": "Soccer goalie photoshoot"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S01-E03",
+          "song": "Pump Up the Jam"
+        }
+      ],
+      "eliminatedEpisodeId": "BE-S01-E03"
+    }
+  ]
+}

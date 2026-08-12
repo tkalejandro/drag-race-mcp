@@ -9,11 +9,21 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S18-E01",
-          "name": "Scream queen photoshoot with masked dancers"
+          "name": "Scream queen photoshoot with masked dancers",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         },
         {
           "episodeId": "US-S18-E09",
-          "name": "Grindr, I Hardly Know Her"
+          "name": "Grindr, I Hardly Know Her",
+          "earnings": {
+            "amount": 1250,
+            "currency": "USD",
+            "context": "$2,500 cash prize ($1,250 for each)"
+          }
         }
       ],
       "lipSyncWins": [

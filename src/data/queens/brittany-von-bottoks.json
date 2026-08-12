@@ -1,0 +1,20 @@
+{
+  "id": "brittany-von-bottoks",
+  "name": "Brittany Von Bottoks",
+  "appearances": [
+    {
+      "seasonId": "BE-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S01-E01",
+          "song": "Tous les mêmes"
+        }
+      ],
+      "eliminatedEpisodeId": "BE-S01-E01"
+    }
+  ]
+}

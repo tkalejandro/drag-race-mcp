@@ -1,0 +1,20 @@
+{
+  "id": "drag-vulcano",
+  "name": "Drag Vulcano",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S01-E02",
+          "song": "Veneno pa tu piel"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S01-E02"
+    }
+  ]
+}

@@ -48,7 +48,7 @@ IDs and catalogs live in `src/kb/catalogs.ts`; entity shapes are Zod schemas in 
 | `Season` | `kb/schemas/season.ts` | Franchise season metadata, cast IDs, winner, prize, hosts/judges |
 | `Queen` | `kb/schemas/queen.ts` | Drag name, aliases, per-season appearances & wins |
 | `Episode` | `kb/schemas/episode.ts` | Week-by-week challenges, runway, lip sync, eliminations |
-| `Money` | `kb/schemas/money.ts` | Amount + currency enum |
+| `Money` | `kb/schemas/money.ts` | Prize record: `{ amount, currency, context, isSponsor?, isCharity? }` — season `cashPrice`, episode mini/maxi/lip-sync `earnings`, mirrored on queen wins. Use `amount: 0` + `context` for non-cash sponsor prizes; `isCharity` for charity purses |
 | `PersonRef` | `kb/schemas/person.ts` | Host/judge `{ name, queenId? }` |
 | `SeasonId` / `Currency` / `LoreTag` | `kb/catalogs.ts` | Closed catalogs + string ID aliases |
 
@@ -109,6 +109,28 @@ Track what data exists for each `SeasonId`. Flip `—` → `✅` when that slice
 
 Everything starts empty — **this is the contribution map**. Pick any `—` and fill it.
 
+### Challenge prizes (Money coverage)
+
+Episodes ✅ means episode records exist — **not** that every mini/maxi prize is filled. Weekly prizes live on optional `earnings` (`Money`) on challenges and lip syncs; queen `challengeWins` / `miniChallengeWins` / `lipSyncWins` mirror those amounts. Season grand prizes use `cashPrice` (required on every season).
+
+- **Source-first:** omit `earnings` when public sources don’t list a prize (many UK RuPeter weeks have no cash bullet).
+- **Career totals:** use MCP tool `get_queen_earnings` (personal cash vs charity vs non-cash `context` prizes).
+
+Roughly **69 / 81** season packs have at least some weekly `earnings` today.
+
+**No weekly `earnings` yet (12)** — good contribution targets if Fandom or episode sources list prizes Wikipedia omitted:
+
+`AS-S01`, `CVTW-S01`, `CVTW-S02`, `ES-S05`, `UK-S02`, `UK-S03`, `UK-S04`, `UK-S05`, `UK-S07`, `UKVTW-S01`, `UKVTW-S02`, `UKVTW-S03`
+
+**Thin / incomplete (patterns):**
+
+- Early US minis often advantage-only (`US-S01`–`S08`: maxis mostly filled; minis sparse)
+- UK / UKVTW / CVTW generally sparse (badges or undocumented weekly cash)
+- Some All Stars tip/maxi holes remain (e.g. `AS-S04` tips; `AS-S07` / `AS-S09` maxis)
+- Several intl packs strong on maxi **or** mini but not both (e.g. FR minis empty; BR / MX / TH partial)
+
+Do not add a Prize column to the franchise tables below — track prize depth here instead.
+
 ### US — RuPaul's Drag Race
 
 | SeasonId | Season | Queens | Episodes | Lore |
@@ -138,15 +160,15 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 |----------|:------:|:------:|:--------:|:----:|
 | `AS-S01` | ✅ | ✅ | ✅ | ✅ |
 | `AS-S02` | ✅ | ✅ | ✅ | ✅ |
-| `AS-S03` | — | — | — | — |
-| `AS-S04` | — | — | — | — |
-| `AS-S05` | — | — | — | — |
-| `AS-S06` | — | — | — | — |
-| `AS-S07` | — | — | — | — |
-| `AS-S08` | — | — | — | — |
-| `AS-S09` | — | — | — | — |
-| `AS-S10` | — | — | — | — |
-| `AS-S11` | — | — | — | — |
+| `AS-S03` | ✅ | ✅ | ✅ | ✅ |
+| `AS-S04` | ✅ | ✅ | ✅ | ✅ |
+| `AS-S05` | ✅ | ✅ | ✅ | ✅ |
+| `AS-S06` | ✅ | ✅ | ✅ | ✅ |
+| `AS-S07` | ✅ | ✅ | ✅ | ✅ |
+| `AS-S08` | ✅ | ✅ | ✅ | ✅ |
+| `AS-S09` | ✅ | ✅ | ✅ | ✅ |
+| `AS-S10` | ✅ | ✅ | ✅ | ✅ |
+| `AS-S11` | ✅ | ✅ | ✅ | ✅ |
 
 ### UK
 
@@ -159,6 +181,9 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | `UK-S05` | ✅ | ✅ | ✅ | ✅ |
 | `UK-S06` | ✅ | ✅ | ✅ | ✅ |
 | `UK-S07` | ✅ | ✅ | ✅ | ✅ |
+| `UKVTW-S01` | ✅ | ✅ | ✅ | ✅ |
+| `UKVTW-S02` | ✅ | ✅ | ✅ | ✅ |
+| `UKVTW-S03` | ✅ | ✅ | ✅ | ✅ |
 
 ### Canada
 
@@ -170,59 +195,63 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 | `CA-S04` | ✅ | ✅ | ✅ | ✅ |
 | `CA-S05` | ✅ | ✅ | ✅ | ✅ |
 | `CA-S06` | ✅ | ✅ | ✅ | ✅ |
-| `CVTW-S01` | — | — | — | — |
-| `CVTW-S02` | — | — | — | — |
+| `CVTW-S01` | ✅ | ✅ | ✅ | ✅ |
+| `CVTW-S02` | ✅ | ✅ | ✅ | ✅ |
 | `CAS-S01` | — | — | — | — |
 
 ### Europe
 
 | SeasonId | Season | Queens | Episodes | Lore |
 |----------|:------:|:------:|:--------:|:----:|
-| `ES-S01` | — | — | — | — |
-| `ES-S02` | — | — | — | — |
-| `ES-S03` | — | — | — | — |
-| `ES-S04` | — | — | — | — |
-| `ES-S05` | — | — | — | — |
-| `ESAS-S01` | — | — | — | — |
+| `ES-S01` | ✅ | ✅ | ✅ | ✅ |
+| `ES-S02` | ✅ | ✅ | ✅ | ✅ |
+| `ES-S03` | ✅ | ✅ | ✅ | ✅ |
+| `ES-S04` | ✅ | ✅ | ✅ | ✅ |
+| `ES-S05` | ✅ | ✅ | ✅ | ✅ |
+| `ESAS-S01` | ✅ | ✅ | ✅ | ✅ |
 | `ESAS-S02` | — | — | — | — |
-| `FR-S01` | — | — | — | — |
-| `FR-S02` | — | — | — | — |
-| `FR-S03` | — | — | — | — |
+| `FR-S01` | ✅ | ✅ | ✅ | ✅ |
+| `FR-S02` | ✅ | ✅ | ✅ | ✅ |
+| `FR-S03` | ✅ | ✅ | ✅ | ✅ |
 | `FR-S04` | — | — | — | — |
-| `IT-S01` | — | — | — | — |
-| `IT-S02` | — | — | — | — |
-| `IT-S03` | — | — | — | — |
-| `DE-S01` | — | — | — | — |
-| `NL-S01` | — | — | — | — |
-| `NL-S02` | — | — | — | — |
-| `BE-S01` | — | — | — | — |
-| `BE-S02` | — | — | — | — |
-| `SE-S01` | — | — | — | — |
+| `IT-S01` | ✅ | ✅ | ✅ | ✅ |
+| `IT-S02` | ✅ | ✅ | ✅ | ✅ |
+| `IT-S03` | ✅ | ✅ | ✅ | ✅ |
+| `DE-S01` | ✅ | ✅ | ✅ | ✅ |
+| `NL-S01` | ✅ | ✅ | ✅ | ✅ |
+| `NL-S02` | ✅ | ✅ | ✅ | ✅ |
+| `BE-S01` | ✅ | ✅ | ✅ | ✅ |
+| `BE-S02` | ✅ | ✅ | ✅ | ✅ |
+| `SE-S01` | ✅ | ✅ | ✅ | ✅ |
 
 ### Latin America
 
 | SeasonId | Season | Queens | Episodes | Lore |
 |----------|:------:|:------:|:--------:|:----:|
-| `MX-S01` | — | — | — | — |
-| `MX-S02` | — | — | — | — |
+| `MX-S01` | ✅ | ✅ | ✅ | ✅ |
+| `MX-S02` | ✅ | ✅ | ✅ | ✅ |
 | `MX-S03` | — | — | — | — |
 | `MXLR-S01` | — | — | — | — |
-| `BR-S01` | — | — | — | — |
-| `BR-S02` | — | — | — | — |
+| `BR-S01` | ✅ | ✅ | ✅ | ✅ |
+| `BR-S02` | ✅ | ✅ | ✅ | ✅ |
 
 ### Asia–Pacific & global
 
 | SeasonId | Season | Queens | Episodes | Lore |
 |----------|:------:|:------:|:--------:|:----:|
-| `TH-S01` | — | — | — | — |
-| `TH-S02` | — | — | — | — |
-| `TH-S03` | — | — | — | — |
-| `PH-S01` | — | — | — | — |
-| `PH-S02` | — | — | — | — |
-| `PH-S03` | — | — | — | — |
+| `TH-S01` | ✅ | ✅ | ✅ | ✅ |
+| `TH-S02` | ✅ | ✅ | ✅ | ✅ |
+| `TH-S03` | ✅ | ✅ | ✅ | ✅ |
+| `PH-S01` | ✅ | ✅ | ✅ | ✅ |
+| `PH-S02` | ✅ | ✅ | ✅ | ✅ |
+| `PH-S03` | ✅ | ✅ | ✅ | ✅ |
 | `PH-S04` | — | — | — | — |
-| `PHSR-S01` | — | — | — | — |
-| `GAS-S01` | — | — | — | — |
+| `PHSR-S01` | ✅ | ✅ | ✅ | ✅ |
+| `GAS-S01` | ✅ | ✅ | ✅ | ✅ |
+| `DU-S01` | ✅ | ✅ | ✅ | ✅ |
+| `DU-S02` | ✅ | ✅ | ✅ | ✅ |
+| `DU-S03` | ✅ | ✅ | ✅ | ✅ |
+| `DU-S04` | ✅ | ✅ | ✅ | ✅ |
 | `DUVTW-S01` | — | — | — | — |
 
 ---
@@ -255,7 +284,7 @@ Everything starts empty — **this is the contribution map**. Pick any `—` and
 │   └── tools/                # MCP registerTool wrappers only
 │       ├── general/          # welcome_user.ts
 │       ├── seasons/          # list_season_ids.ts, get_season.ts
-│       ├── queens/           # list_queen_ids.ts, search_queens.ts, get_queen.ts
+│       ├── queens/           # list_queen_ids.ts, search_queens.ts, get_queen.ts, get_queen_earnings.ts
 │       ├── episodes/         # get_episode.ts
 │       └── lore/             # get_lore.ts, search_lore.ts
 │
@@ -363,6 +392,7 @@ That’s the same path used in development: **Cursor discovers the server’s to
 | `list_queen_ids` | Cast queen ids for one `seasonId` (required) |
 | `search_queens` | Search queens by name/alias (limit default 20, max 50) |
 | `get_queen` | Full queen record |
+| `get_queen_earnings` | Career prize breakdown (cash, charity, non-cash) |
 | `get_episode` | Episode detail |
 | `get_lore` | Lore entry by id |
 | `search_lore` | Search lore by query, tags, queen, and/or season |
@@ -400,6 +430,7 @@ Contributions welcome — especially filling gaps in **[Data coverage](#data-cov
 - Fix incorrect hard facts
 - Add missing queens / seasons / episodes (use ID conventions)
 - Add lore that links existing IDs
+- Fill missing challenge / lip-sync `earnings` (and mirror queen win rows) for seasons listed under [Challenge prizes (Money coverage)](#challenge-prizes-money-coverage); follow `.cursor/skills/drag-race-data/SKILL.md` Money rules
 - Mark the matching cell `✅` in this README when a slice is done
 - New MCP tools & docs
 
@@ -428,7 +459,7 @@ Examples:
 
 - `feat: add Season and SeasonId types`
 - `feat: add US-S06 season + cast data`
-- `fix: correct porkchopId for US-S01`
+- `fix: correct porkchopIds for US-S01`
 - `docs: update data coverage checklist`
 
 **PR body** — short summary of *why*, plus a tiny test plan (e.g. `tsc`, which coverage cells flipped, MCP tool smoke test).

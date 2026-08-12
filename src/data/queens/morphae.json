@@ -1,0 +1,16 @@
+{
+  "id": "morphae",
+  "name": "Morphæ",
+  "appearances": [
+    {
+      "seasonId": "BE-S02",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "BE-S02-E04",
+      "quit": true
+    }
+  ]
+}

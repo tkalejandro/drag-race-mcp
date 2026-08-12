@@ -1,0 +1,62 @@
+{
+  "id": "BE-S01",
+  "franchise": "BE",
+  "name": "Drag Race Belgique Season 1",
+  "seasonNumber": 1,
+  "year": 2023,
+  "episodeCount": 8,
+  "episodeIds": [
+    "BE-S01-E01",
+    "BE-S01-E02",
+    "BE-S01-E03",
+    "BE-S01-E04",
+    "BE-S01-E05",
+    "BE-S01-E06",
+    "BE-S01-E07",
+    "BE-S01-E08"
+  ],
+  "castIds": [
+    "drag-couenne",
+    "athena-sorgelikis",
+    "susan",
+    "mademoiselle-boop",
+    "peach",
+    "valenciaga",
+    "mocca-bone",
+    "edna-sorgelsen",
+    "amanda-tears",
+    "brittany-von-bottoks"
+  ],
+  "winnerIds": [
+    "drag-couenne"
+  ],
+  "runnerUpIds": [
+    "athena-sorgelikis"
+  ],
+  "missCongenialityId": "valenciaga",
+  "porkchopIds": [
+    "brittany-von-bottoks"
+  ],
+  "hosts": [
+    {
+      "name": "Rita Baga"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Rita Baga"
+    },
+    {
+      "name": "Lufy"
+    },
+    {
+      "name": "Mustii"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 20000,
+    "currency": "EUR",
+    "context": "€20,000 season grand prize"
+  }
+}

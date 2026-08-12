@@ -1,0 +1,66 @@
+{
+  "id": "PH-S02",
+  "franchise": "PH",
+  "name": "Drag Race Philippines Season 2",
+  "seasonNumber": 2,
+  "year": 2023,
+  "episodeCount": 10,
+  "episodeIds": [
+    "PH-S02-E01",
+    "PH-S02-E02",
+    "PH-S02-E03",
+    "PH-S02-E04",
+    "PH-S02-E05",
+    "PH-S02-E06",
+    "PH-S02-E07",
+    "PH-S02-E08",
+    "PH-S02-E09",
+    "PH-S02-E10"
+  ],
+  "castIds": [
+    "captivating-katkat",
+    "arizona-brandy",
+    "bernie",
+    "m1ss-jade-so",
+    "hana-beshie",
+    "ov-cunt",
+    "deedee-marie-holliday",
+    "matilduh",
+    "veruschka-levels",
+    "tiny-deluxe",
+    "astrid-mercury",
+    "nicole-pardaux"
+  ],
+  "winnerIds": [
+    "captivating-katkat"
+  ],
+  "runnerUpIds": [
+    "arizona-brandy"
+  ],
+  "missCongenialityId": "hana-beshie",
+  "porkchopIds": [
+    "nicole-pardaux"
+  ],
+  "hosts": [
+    {
+      "name": "Paolo Ballesteros"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Paolo Ballesteros"
+    },
+    {
+      "name": "KaladKaren"
+    },
+    {
+      "name": "Jiggly Caliente"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "PHP",
+    "context": "No cash prize"
+  }
+}

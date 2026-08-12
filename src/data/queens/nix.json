@@ -1,0 +1,25 @@
+{
+  "id": "nix",
+  "name": "Nix",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S05-E06",
+          "name": "Lorca musical"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S05-E04",
+          "song": "Duro de pelar (Oh No Special Edition)"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ES-S05-E11"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sissy-lea",
+  "name": "Sissy Lea",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S03-E06",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S03-E03",
+          "song": "Mare caos"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S03-E06",
+          "song": "Vamos a bailar (Esta vida nueva)"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S03-E06"
+    }
+  ]
+}

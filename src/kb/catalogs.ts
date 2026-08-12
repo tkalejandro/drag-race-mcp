@@ -17,6 +17,7 @@ export const FranchiseCode = {
   US: "US",
   AS: "AS",
   UK: "UK",
+  UKVTW: "UKVTW",
   DE: "DE",
   FR: "FR",
   NL: "NL",
@@ -28,6 +29,7 @@ export const FranchiseCode = {
   CA: "CA",
   CVTW: "CVTW",
   CAS: "CAS",
+  DU: "DU",
   DUVTW: "DUVTW",
   TH: "TH",
   PH: "PH",
@@ -60,7 +62,7 @@ export type FranchiseRegion =
 
 export const FRANCHISE_REGION_CODES = {
   us: [FranchiseCode.US, FranchiseCode.AS],
-  uk: [FranchiseCode.UK],
+  uk: [FranchiseCode.UK, FranchiseCode.UKVTW],
   canada: [FranchiseCode.CA, FranchiseCode.CVTW, FranchiseCode.CAS],
   europe: [
     FranchiseCode.DE,
@@ -77,6 +79,7 @@ export const FRANCHISE_REGION_CODES = {
     FranchiseCode.TH,
     FranchiseCode.PH,
     FranchiseCode.PHSR,
+    FranchiseCode.DU,
     FranchiseCode.DUVTW,
   ],
   specials: [FranchiseCode.GAS],
@@ -87,6 +90,7 @@ export const FRANCHISE_LABEL = {
   US: "RuPaul's Drag Race (US)",
   AS: "RuPaul's Drag Race All Stars",
   UK: "RuPaul's Drag Race UK",
+  UKVTW: "RuPaul's Drag Race UK vs the World",
   DE: "Drag Race Germany",
   FR: "Drag Race France",
   NL: "Drag Race Holland",
@@ -98,6 +102,7 @@ export const FRANCHISE_LABEL = {
   CA: "Canada's Drag Race",
   CVTW: "Canada's Drag Race vs The World",
   CAS: "Canada's Drag Race All Stars",
+  DU: "Drag Race Down Under",
   DUVTW: "Drag Race Down Under vs The World",
   TH: "Drag Race Thailand",
   PH: "Drag Race Philippines",
@@ -152,6 +157,10 @@ export const SeasonId = {
   UK_S06: "UK-S06",
   UK_S07: "UK-S07",
 
+  UKVTW_S01: "UKVTW-S01",
+  UKVTW_S02: "UKVTW-S02",
+  UKVTW_S03: "UKVTW-S03",
+
   DE_S01: "DE-S01",
 
   FR_S01: "FR-S01",
@@ -189,6 +198,11 @@ export const SeasonId = {
   CVTW_S02: "CVTW-S02",
 
   CAS_S01: "CAS-S01",
+
+  DU_S01: "DU-S01",
+  DU_S02: "DU-S02",
+  DU_S03: "DU-S03",
+  DU_S04: "DU-S04",
 
   DUVTW_S01: "DUVTW-S01",
 

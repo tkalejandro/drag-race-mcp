@@ -9,11 +9,22 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S16-E06",
-          "name": "Flamenco dance"
+          "name": "Flamenco dance",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "trip to Spain, all expenses paid",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S16-E08",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [],

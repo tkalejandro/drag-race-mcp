@@ -1,0 +1,54 @@
+{
+  "id": "mellody-queen",
+  "name": "Mellody Queen",
+  "appearances": [
+    {
+      "seasonId": "BR-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S02-E03",
+          "name": "In teams, create a verse and choreography for an original song"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BR-S02-E01",
+          "name": "Quiz das Sabichonas: correctly respond to a quiz about the Drag Race franchise"
+        },
+        {
+          "episodeId": "BR-S02-E02",
+          "name": "Customize an undergarment, get in quick drag and do a hair-whipping performance"
+        },
+        {
+          "episodeId": "BR-S02-E03",
+          "name": "Reading Challenge"
+        },
+        {
+          "episodeId": "BR-S02-E09",
+          "name": "Xilindrag Brasil: get in quick drag and act as a prisoner"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S02-E04",
+          "song": "Brasil"
+        },
+        {
+          "episodeId": "BR-S02-E06",
+          "song": "A Dona Aranha"
+        },
+        {
+          "episodeId": "BR-S02-E09",
+          "song": "Jeito Sexy"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S02-E10",
+          "song": "O Amor e o Poder"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ivory-glaze",
+  "name": "Ivory Glaze",
+  "appearances": [
+    {
+      "seasonId": "DU-S03",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S03-E01",
+          "song": "Down Under"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S03-E03",
+          "song": "Murder on the Dancefloor"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S03-E03"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PHSR-S01-E03"
+    }
+  ]
+}

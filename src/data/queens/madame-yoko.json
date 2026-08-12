@@ -1,0 +1,34 @@
+{
+  "id": "madame-yoko",
+  "name": "Madame Yoko",
+  "appearances": [
+    {
+      "seasonId": "BE-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BE-S02-E02",
+          "name": "Audition for a Jean-Claude Van Damme martial arts film"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S02-E03",
+          "song": "Bruxelles je t'aime"
+        }
+      ],
+      "eliminatedEpisodeId": "BE-S02-E03"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "PHSR-S01-E01"
+    }
+  ]
+}

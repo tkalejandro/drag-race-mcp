@@ -10,7 +10,11 @@
         {
           "episodeId": "CA-S06-E02",
           "name": "In teams, film a commercial for a cruise line",
-          "earnings": { "amount": 5000, "currency": "CAD" }
+          "earnings": {
+            "amount": 5000,
+            "currency": "CAD",
+            "context": "CA$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

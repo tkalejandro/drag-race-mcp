@@ -8,15 +8,30 @@
       "challengeWins": [
         {
           "episodeId": "US-S18-E02",
-          "name": "Write, record, and perform 70s/80s girl-group verses"
+          "name": "Write, record, and perform 70s/80s girl-group verses",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S18-E09",
-          "name": "Fannie: The Hard Knock Ball Rusical"
+          "name": "Fannie: The Hard Knock Ball Rusical",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S18-E10",
-          "name": "Design a look from eliminated queens' suitcases"
+          "name": "Design a look from eliminated queens' suitcases",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         }
       ],
       "miniChallengeWins": [],

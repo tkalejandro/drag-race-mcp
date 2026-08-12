@@ -1,0 +1,436 @@
+[
+  {
+    "id": "AS-S03-E01",
+    "seasonId": "AS-S03",
+    "episodeNumber": 1,
+    "title": "All-Star Variety Show",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "bendelacreme"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 shopping spree to L.A. Eyeworks",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent in front of the judges and a live audience",
+      "winnerIds": [
+        "aja",
+        "bendelacreme"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Five-night stay at The Grand Resort and Spa in Fort Lauderdale, air fare included",
+        "isSponsor": true
+      }
+    },
+    "topIds": [
+      "aja",
+      "bendelacreme"
+    ],
+    "bottomIds": [
+      "chi-chi-devayne",
+      "morgan-mcmichaels"
+    ],
+    "lipSync": {
+      "song": "Anaconda",
+      "queenIds": [
+        "aja",
+        "bendelacreme"
+      ],
+      "winnerIds": [
+        "bendelacreme"
+      ],
+      "eliminatedIds": [
+        "morgan-mcmichaels"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Vanessa Hudgens"
+      }
+    ]
+  },
+  {
+    "id": "AS-S03-E02",
+    "seasonId": "AS-S03",
+    "episodeNumber": 2,
+    "title": "Divas Lip Sync Live",
+    "maxiChallenge": {
+      "name": "Perform a lip-syncing dance number inspired by VH1 Divas",
+      "winnerIds": [
+        "bendelacreme",
+        "shangela"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1000 gift card from Sparkles Rhinestones and a $1000 gift card from Fierce Queen Heels",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "RuDemption Runway",
+    "topIds": [
+      "bendelacreme",
+      "shangela"
+    ],
+    "bottomIds": [
+      "kennedy-davenport",
+      "thorgy-thor"
+    ],
+    "lipSync": {
+      "song": "Jump (For My Love)",
+      "queenIds": [
+        "bendelacreme",
+        "shangela"
+      ],
+      "winnerIds": [
+        "shangela"
+      ],
+      "eliminatedIds": [
+        "thorgy-thor"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Todrick Hall"
+      },
+      {
+        "name": "Vanessa Williams"
+      }
+    ]
+  },
+  {
+    "id": "AS-S03-E03",
+    "seasonId": "AS-S03",
+    "episodeNumber": 3,
+    "title": "The Bitchelor",
+    "maxiChallenge": {
+      "name": "In pairs, improvise in an unscripted dating show inspired by The Bachelor called \"The Bitchelor\"",
+      "winnerIds": [
+        "bendelacreme",
+        "kennedy-davenport"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "jewelry pack from Fierce Drag Jewels and a $1000 gift card to Nailed by Cristy",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Wigs on Wigs on Wigs",
+    "topIds": [
+      "bendelacreme",
+      "kennedy-davenport"
+    ],
+    "bottomIds": [
+      "aja",
+      "chi-chi-devayne",
+      "milk"
+    ],
+    "lipSync": {
+      "song": "Green Light",
+      "queenIds": [
+        "bendelacreme",
+        "kennedy-davenport"
+      ],
+      "winnerIds": [
+        "kennedy-davenport"
+      ],
+      "eliminatedIds": [
+        "milk"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Constance Zimmer"
+      },
+      {
+        "name": "Jeffrey Bowyer-Chapman"
+      }
+    ]
+  },
+  {
+    "id": "AS-S03-E04",
+    "seasonId": "AS-S03",
+    "episodeNumber": 4,
+    "title": "All Stars Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "bendelacreme",
+        "shangela"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "wig wardrobe courtesy of Rockstar Wigs and a $1000 gift card from Coolhaus Ice Cream",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Flower Power",
+    "topIds": [
+      "bendelacreme",
+      "shangela"
+    ],
+    "bottomIds": [
+      "chi-chi-devayne",
+      "kennedy-davenport",
+      "trixie-mattel"
+    ],
+    "lipSync": {
+      "song": "I Kissed a Girl",
+      "queenIds": [
+        "bendelacreme",
+        "shangela"
+      ],
+      "winnerIds": [
+        "bendelacreme",
+        "shangela"
+      ],
+      "eliminatedIds": [
+        "chi-chi-devayne"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Kristin Chenoweth"
+      },
+      {
+        "name": "Nicole Byer"
+      }
+    ]
+  },
+  {
+    "id": "AS-S03-E05",
+    "seasonId": "AS-S03",
+    "episodeNumber": 5,
+    "title": "Pop Art Ball",
+    "miniChallenge": {
+      "name": "Pop art-style portrait photoshoot",
+      "winnerIds": [
+        "aja"
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "USD",
+        "context": "year's supply of hamburgers from Hamburger Mary's and $2,000"
+      }
+    },
+    "maxiChallenge": {
+      "name": "The Pop Art Ball",
+      "winnerIds": [
+        "bebe-zahara-benet",
+        "trixie-mattel"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Two-night escape for 2 at the W Hotel in Fort Lauderdale",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Andy Warhol: Soup Can Realness and Studio 54",
+    "topIds": [
+      "bebe-zahara-benet",
+      "trixie-mattel"
+    ],
+    "bottomIds": [
+      "aja",
+      "shangela"
+    ],
+    "lipSync": {
+      "song": "The Boss",
+      "queenIds": [
+        "bebe-zahara-benet",
+        "trixie-mattel"
+      ],
+      "winnerIds": [
+        "bebe-zahara-benet"
+      ],
+      "eliminatedIds": [
+        "aja"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Tituss Burgess"
+      },
+      {
+        "name": "Shay Mitchell"
+      }
+    ]
+  },
+  {
+    "id": "AS-S03-E06",
+    "seasonId": "AS-S03",
+    "episodeNumber": 6,
+    "title": "Handmaids to Kitty Girls",
+    "maxiChallenge": {
+      "name": "Write, record, and perform original verses in girl groups",
+      "winnerIds": [
+        "bebe-zahara-benet",
+        "bendelacreme"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 gift card to The Spa on Rodeo and a $1,000 gift card to MuLondon",
+        "isSponsor": true
+      }
+    },
+    "topIds": [
+      "bebe-zahara-benet",
+      "bendelacreme"
+    ],
+    "bottomIds": [
+      "kennedy-davenport",
+      "shangela",
+      "trixie-mattel"
+    ],
+    "lipSync": {
+      "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)",
+      "queenIds": [
+        "bebe-zahara-benet",
+        "bendelacreme"
+      ],
+      "winnerIds": [
+        "bendelacreme"
+      ],
+      "eliminatedIds": [
+        "bendelacreme"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Adam Lambert"
+      },
+      {
+        "name": "Emma Bunton"
+      }
+    ]
+  },
+  {
+    "id": "AS-S03-E07",
+    "seasonId": "AS-S03",
+    "episodeNumber": 7,
+    "title": "My Best Squirrelfriend's Dragsmaids Wedding Trip",
+    "maxiChallenge": {
+      "name": "Star in the raunchy girl comedy \"My Best Squirrelfriend's Dragsmaids Wedding Trip\"",
+      "winnerIds": [
+        "shangela",
+        "trixie-mattel"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 gift card to Elea's Closet and a luggage set from Radden Luggage",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Red for Filth",
+    "topIds": [
+      "shangela",
+      "trixie-mattel"
+    ],
+    "bottomIds": [
+      "bebe-zahara-benet",
+      "kennedy-davenport",
+      "morgan-mcmichaels"
+    ],
+    "lipSync": {
+      "song": "Freaky Money",
+      "queenIds": [
+        "shangela",
+        "trixie-mattel"
+      ],
+      "winnerIds": [
+        "shangela"
+      ],
+      "eliminatedIds": [
+        "morgan-mcmichaels"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Chris Colfer"
+      },
+      {
+        "name": "Garcelle Beauvais"
+      }
+    ]
+  },
+  {
+    "id": "AS-S03-E08",
+    "seasonId": "AS-S03",
+    "episodeNumber": 8,
+    "title": "A Jury of Their Queers",
+    "runwayTheme": "Best Drag Eleganza Extravaganza",
+    "topIds": [
+      "kennedy-davenport",
+      "trixie-mattel"
+    ],
+    "bottomIds": [
+      "bebe-zahara-benet",
+      "shangela"
+    ],
+    "lipSync": {
+      "song": "Wrecking Ball",
+      "queenIds": [
+        "kennedy-davenport",
+        "trixie-mattel"
+      ],
+      "winnerIds": [
+        "trixie-mattel"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

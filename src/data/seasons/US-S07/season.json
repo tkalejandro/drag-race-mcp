@@ -37,17 +37,40 @@
     "sasha-belle",
     "tempest-dujour"
   ],
-  "winnerId": "violet-chachki",
-  "runnerUpIds": ["ginger-minj", "pearl"],
+  "winnerIds": [
+    "violet-chachki"
+  ],
+  "runnerUpIds": [
+    "ginger-minj",
+    "pearl"
+  ],
   "missCongenialityId": "katya",
-  "porkchopId": "tempest-dujour",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "tempest-dujour"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD",
+    "context": "$100,000 season grand prize"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "id": "kelly-roller",
+  "name": "Kelly Roller",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S03-E03",
+          "song": "Genio atrapado"
+        },
+        {
+          "episodeId": "ES-S03-E08",
+          "song": "La niña"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E04",
+          "song": "Ay mamá"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S03-E11",
+      "reentered": true
+    }
+  ]
+}

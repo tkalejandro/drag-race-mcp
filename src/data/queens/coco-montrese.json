@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S05-E07",
-          "name": "Perform a roast of RuPaul, the judges, and the fellow queens"
+          "name": "Perform a roast of RuPaul, the judges, and the fellow queens",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom gown from Sequin Queen",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

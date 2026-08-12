@@ -1,0 +1,57 @@
+{
+  "id": "onyx",
+  "name": "Onyx",
+  "aliases": [
+    "Onyx Unleashed"
+  ],
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 8,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S02-E01",
+          "name": "Present two looks"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S02-E03",
+          "name": "Complete sayings",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "collection of Foreo products valued at €800",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "ES-S02-E05",
+          "name": "Recite poetry",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "selection of LELO sex toys valued at €1000"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E05",
+          "song": "Arrasando"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S02-E05"
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ESAS-S01-E02"
+    }
+  ]
+}

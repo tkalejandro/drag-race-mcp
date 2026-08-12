@@ -27,16 +27,36 @@
     "tammie-brown",
     "victoria-porkchop-parker"
   ],
-  "winnerId": "bebe-zahara-benet",
-  "runnerUpIds": ["nina-flowers"],
+  "winnerIds": [
+    "bebe-zahara-benet"
+  ],
+  "runnerUpIds": [
+    "nina-flowers"
+  ],
   "missCongenialityId": "nina-flowers",
-  "porkchopId": "victoria-porkchop-parker",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "victoria-porkchop-parker"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Santino Rice" },
-    { "name": "Merle Ginsberg" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Santino Rice"
+    },
+    {
+      "name": "Merle Ginsberg"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 20000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 20000,
+    "currency": "USD",
+    "context": "$20,000 season grand prize"
+  }
 }

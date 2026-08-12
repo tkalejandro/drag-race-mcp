@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S12-E03",
-          "name": "In teams, improvise in the talent competition World's Worst"
+          "name": "In teams, improvise in the talent competition World's Worst",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip (VH1 and World of Wonder donated $5,000 to The Trevor Project as a result of Sherry Pie's disqualification from the competition.)",
+            "isCharity": true
+          }
         },
         {
           "episodeId": "US-S12-E05",
-          "name": "Overact in a parody of Grey's Anatomy called Gay's Anatomy"
+          "name": "Overact in a parody of Grey's Anatomy called Gay's Anatomy",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip (VH1 and World of Wonder donated $5,000 to The Trevor Project as a result of Sherry Pie's disqualification from the competition.)",
+            "isCharity": true
+          }
         }
       ],
       "miniChallengeWins": [],

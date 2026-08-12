@@ -1,0 +1,30 @@
+{
+  "id": "hugaceo-crujiente",
+  "name": "Hugáceo Crujiente",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S01-E01",
+          "name": "Create a look made out of rummage sale items"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S01-E04",
+          "song": "Pussy"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S01-E05",
+          "song": "Espectacular"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S01-E05"
+    }
+  ]
+}

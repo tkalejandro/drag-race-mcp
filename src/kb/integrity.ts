@@ -27,10 +27,28 @@ const collectPersonQueenIds = (
 export const assertKnowledgeBaseIntegrity = (kb: KnowledgeBase): void => {
   const errors: string[] = [];
   const referencedQueenIds = new Set<QueenId>();
+  const castQueenIds = new Set<QueenId>();
 
   for (const season of kb.seasons.values()) {
     for (const castId of season.castIds) {
       referencedQueenIds.add(castId);
+      castQueenIds.add(castId);
+    }
+    for (const id of [
+      ...(season.winnerIds ?? []),
+      season.missCongenialityId,
+      season.lipSyncAssassinId,
+      ...(season.porkchopIds ?? []),
+      ...season.runnerUpIds,
+      ...(season.disqualifiedIds ?? []),
+    ]) {
+      if (!id) continue;
+      referencedQueenIds.add(id);
+      if (!kb.queens.has(id)) {
+        errors.push(
+          `season ${season.id}: queenId "${id}" does not exist`,
+        );
+      }
     }
     collectPersonQueenIds(
       season.hosts,
@@ -49,18 +67,32 @@ export const assertKnowledgeBaseIntegrity = (kb: KnowledgeBase): void => {
   }
 
   for (const episode of kb.episodes.values()) {
-    if (!episode.guestJudges) continue;
-    collectPersonQueenIds(
-      episode.guestJudges,
-      referencedQueenIds,
-      errors,
-      kb.queens,
-      `episode ${episode.id} guestJudges`,
-    );
+    if (episode.guestJudges) {
+      collectPersonQueenIds(
+        episode.guestJudges,
+        referencedQueenIds,
+        errors,
+        kb.queens,
+        `episode ${episode.id} guestJudges`,
+      );
+    }
+    // Guest Lip Sync Assassins (etc.) appear in lipSync.queenIds but not castIds.
+    if (episode.lipSync) {
+      for (const id of episode.lipSync.queenIds) {
+        referencedQueenIds.add(id);
+        if (!kb.queens.has(id)) {
+          errors.push(
+            `episode ${episode.id} lipSync: queenId "${id}" does not exist`,
+          );
+        }
+      }
+    }
   }
 
   for (const queen of kb.queens.values()) {
-    if (queen.appearances.length === 0) {
+    // Cast contestants must have appearances; guest-only lip-sync / PersonRef
+    // queens may exist before their home season pack is filled.
+    if (queen.appearances.length === 0 && castQueenIds.has(queen.id)) {
       errors.push(`queen "${queen.id}" has no appearances`);
     }
 
@@ -82,7 +114,7 @@ export const assertKnowledgeBaseIntegrity = (kb: KnowledgeBase): void => {
 
     if (!referencedQueenIds.has(queen.id)) {
       errors.push(
-        `queen "${queen.id}" is not referenced by any castIds or PersonRef queenId`,
+        `queen "${queen.id}" is not referenced by any castIds, lipSync.queenIds, or PersonRef queenId`,
       );
     }
   }

@@ -27,16 +27,38 @@
     "scaredy-kat",
     "gothy-kendoll"
   ],
-  "winnerId": "the-vivienne",
-  "runnerUpIds": ["divina-de-campo"],
-  "porkchopId": "gothy-kendoll",
-  "hosts": [{ "name": "RuPaul" }],
+  "winnerIds": [
+    "the-vivienne"
+  ],
+  "runnerUpIds": [
+    "divina-de-campo"
+  ],
+  "porkchopIds": [
+    "gothy-kendoll"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Alan Carr" },
-    { "name": "Graham Norton" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Alan Carr"
+    },
+    {
+      "name": "Graham Norton"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "GBP" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "GBP",
+    "context": "No cash prize"
+  }
 }

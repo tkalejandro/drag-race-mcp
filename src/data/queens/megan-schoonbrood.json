@@ -1,0 +1,25 @@
+{
+  "id": "megan-schoonbrood",
+  "name": "Megan Schoonbrood",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S01-E01",
+          "song": "Express Yourself"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S01-E03",
+          "song": "Why Tell Me, Why"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S01-E03"
+    }
+  ]
+}

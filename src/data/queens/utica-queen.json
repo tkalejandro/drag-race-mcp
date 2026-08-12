@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S13-E10",
-          "name": "Makeover another queen into your drag doppelganger"
+          "name": "Makeover another queen into your drag doppelganger",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         }
       ],
       "miniChallengeWins": [],

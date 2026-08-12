@@ -1,0 +1,62 @@
+{
+  "id": "tessa-testicle",
+  "name": "Tessa Testicle",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DE-S01-E05",
+          "name": "In teams, play \"Zack Zack\" (Chop Chop)"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DE-S01-E01",
+          "song": "Lieben wir"
+        },
+        {
+          "episodeId": "DE-S01-E03",
+          "song": "Holding Out for a Hero"
+        },
+        {
+          "episodeId": "DE-S01-E04",
+          "song": "About Damn Time"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DE-S01-E05",
+          "song": "Atemlos durch die Nacht"
+        }
+      ],
+      "eliminatedEpisodeId": "DE-S01-E05"
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E06",
+          "name": "Create a cocktail dress using materials from another queen's suitcase"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E06",
+          "name": "Apply makeup during a turbulent plane simulation"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E10",
+          "song": "Don't Leave Me This Way"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E10"
+    }
+  ]
+}

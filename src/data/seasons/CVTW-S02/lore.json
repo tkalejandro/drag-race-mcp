@@ -1,0 +1,81 @@
+[
+  {
+    "id": "cvtw-s02-lemon-crown",
+    "title": "Lemon crowned Queen of the Motherpucking World",
+    "summary": "In the Grand Finale (CVTW-S02-E06), the final four competed in a Lip Sync Smackdown for the Crown. Lemon beat Kennedy Davenport to Kiesza's \"Hideaway\", Alexis Mateo beat Cheryl to \"So Many Men, So Little Time\", and Lemon beat Alexis to Céline Dion's \"Love Can Move Mountains\". Lemon won $100,000 CAD after previously competing on Canada's Drag Race Season 1 and UK vs the World Series 1.",
+    "tags": ["crown", "finale", "lip-sync", "vs-the-world", "international", "crossover"],
+    "queenIds": [
+      "lemon",
+      "alexis-mateo",
+      "cheryl-hole",
+      "kennedy-davenport"
+    ],
+    "seasonIds": ["CVTW-S02", "CA-S01", "UKVTW-S01"],
+    "episodeIds": ["CVTW-S02-E06"]
+  },
+  {
+    "id": "cvtw-s02-la-kahena-porkchop",
+    "title": "La Kahena: Canada vs the World Season 2 porkchop",
+    "summary": "La Kahena, previously of Drag Race France Season 1, was the first queen eliminated on Canada vs the World Season 2 (CVTW-S02-E01). After Lemon won Drag Pop and used the Golden Beaver to save Alexis Mateo, Eureka! and La Kahena lip-synced to Charlotte Cardin's \"Meaningless\"; Eureka! won and La Kahena sashayed away.",
+    "tags": ["porkchop", "lip-sync", "vs-the-world", "international", "crossover"],
+    "queenIds": ["la-kahena", "eureka", "lemon", "alexis-mateo"],
+    "seasonIds": ["CVTW-S02", "FR-S01"],
+    "episodeIds": ["CVTW-S02-E01"]
+  },
+  {
+    "id": "cvtw-s02-golden-beaver",
+    "title": "Golden Beaver returns on vs the World",
+    "summary": "Canada vs the World Season 2 revived the Golden Beaver twist from Canada's Drag Race Season 4: each maxi-challenge winner could save one of three bottom queens from lip-syncing. Saves were Alexis Mateo (E01 and E04), Miss Fiercalicious (E02), and Kennedy Davenport (E03 and E05).",
+    "tags": ["twist", "production", "vs-the-world"],
+    "queenIds": [
+      "lemon",
+      "kennedy-davenport",
+      "alexis-mateo",
+      "miss-fiercalicious"
+    ],
+    "seasonIds": ["CVTW-S02", "CA-S04"],
+    "episodeIds": [
+      "CVTW-S02-E01",
+      "CVTW-S02-E02",
+      "CVTW-S02-E03",
+      "CVTW-S02-E04",
+      "CVTW-S02-E05"
+    ]
+  },
+  {
+    "id": "cvtw-s02-eureka-miss-c",
+    "title": "Eureka! voted Miss Congeniality",
+    "summary": "Eureka! was voted Miss Congeniality and received $10,000. She had previously competed on US Seasons 9 and 10 and All Stars 6, and was eliminated in Reading Battles (CVTW-S02-E04) after lip-syncing to the Pussycat Dolls' \"Hush Hush; Hush Hush\" against Miss Fiercalicious.",
+    "tags": ["fan-favorite", "finale", "crossover", "all-stars", "vs-the-world"],
+    "queenIds": ["eureka", "miss-fiercalicious"],
+    "seasonIds": ["CVTW-S02", "US-S09", "US-S10", "AS-S06"],
+    "episodeIds": ["CVTW-S02-E04", "CVTW-S02-E06"]
+  },
+  {
+    "id": "cvtw-s02-alexis-return",
+    "title": "Alexis Mateo returns across three All Stars eras",
+    "summary": "Alexis Mateo entered Canada vs the World Season 2 after US Season 3 and All Stars 1 and 5. She won the Glamorous Drag Queen Ball (CVTW-S02-E03), reached the finale Lip Sync Smackdown for the Crown as runner-up to Lemon, and was saved twice by the Golden Beaver (E01 and E04).",
+    "tags": ["crossover", "all-stars", "vs-the-world", "underdog", "international"],
+    "queenIds": ["alexis-mateo", "lemon"],
+    "seasonIds": ["CVTW-S02", "US-S03", "AS-S01", "AS-S05"],
+    "episodeIds": ["CVTW-S02-E01", "CVTW-S02-E03", "CVTW-S02-E06"]
+  },
+  {
+    "id": "cvtw-s02-ukvtw-returnees",
+    "title": "Lemon and Cheryl reunite from UK vs the World",
+    "summary": "Lemon and Cheryl (Cheryl Hole) both returned from UK vs the World Series 1 to compete on Canada vs the World Season 2, alongside Kennedy Davenport (US Season 7 / All Stars 3). Cheryl and Kennedy both reached the finale smackdown and finished tied for third.",
+    "tags": ["crossover", "vs-the-world", "international", "return"],
+    "queenIds": ["lemon", "cheryl-hole", "kennedy-davenport"],
+    "seasonIds": ["CVTW-S02", "UKVTW-S01", "UK-S01", "US-S07", "AS-S03"],
+    "episodeIds": ["CVTW-S02-E06"]
+  },
+  {
+    "id": "cvtw-s02-ra-jah-guest-judge",
+    "title": "Ra'Jah O'Hara judges the Season 2 finale",
+    "summary": "Season 1 winner Ra'Jah O'Hara returned as a guest judge for the CVTW-S02-E06 Grand Finale alongside Sarain Fox, as Lemon, Alexis Mateo, Cheryl, and Kennedy Davenport competed in the Lip Sync Smackdown for the Crown.",
+    "tags": ["judges", "crossover", "vs-the-world", "finale"],
+    "queenIds": ["ra-jah-ohara", "lemon", "alexis-mateo"],
+    "seasonIds": ["CVTW-S02", "CVTW-S01"],
+    "episodeIds": ["CVTW-S02-E06"]
+  }
+]

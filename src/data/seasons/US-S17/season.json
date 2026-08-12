@@ -39,17 +39,39 @@
     "joella",
     "lucky-starzzz"
   ],
-  "winnerId": "onya-nurve",
-  "runnerUpIds": ["jewels-sparkles"],
+  "winnerIds": [
+    "onya-nurve"
+  ],
+  "runnerUpIds": [
+    "jewels-sparkles"
+  ],
   "missCongenialityId": "crystal-envy",
-  "porkchopId": "lucky-starzzz",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "lucky-starzzz"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 200000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 200000,
+    "currency": "USD",
+    "context": "$200,000 season grand prize"
+  }
 }

@@ -1,0 +1,20 @@
+{
+  "id": "ivanna-drink",
+  "name": "Ivanna Drink",
+  "appearances": [
+    {
+      "seasonId": "DU-S03",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S03-E03",
+          "song": "Holding Out for a Hero"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S03-E03"
+    }
+  ]
+}

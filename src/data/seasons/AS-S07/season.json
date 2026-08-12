@@ -1,0 +1,67 @@
+{
+  "id": "AS-S07",
+  "franchise": "AS",
+  "name": "RuPaul's Drag Race All Stars Season 7",
+  "seasonNumber": 7,
+  "year": 2022,
+  "episodeCount": 12,
+  "episodeIds": [
+    "AS-S07-E01",
+    "AS-S07-E02",
+    "AS-S07-E03",
+    "AS-S07-E04",
+    "AS-S07-E05",
+    "AS-S07-E06",
+    "AS-S07-E07",
+    "AS-S07-E08",
+    "AS-S07-E09",
+    "AS-S07-E10",
+    "AS-S07-E11",
+    "AS-S07-E12"
+  ],
+  "castIds": [
+    "jinkx-monsoon",
+    "monet-x-change",
+    "shea-coulee",
+    "trinity-taylor",
+    "raja",
+    "yvie-oddly",
+    "jaida-essence-hall",
+    "the-vivienne"
+  ],
+  "winnerIds": [
+    "jinkx-monsoon"
+  ],
+  "runnerUpIds": [
+    "monet-x-change"
+  ],
+  "porkchopIds": [
+    "the-vivienne"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
+  ],
+  "isCharity": true,
+  "cashPrice": {
+    "amount": 200000,
+    "currency": "USD",
+    "isCharity": true,
+    "context": "$200,000 charity prize"
+  }
+}

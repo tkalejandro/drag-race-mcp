@@ -1,0 +1,573 @@
+[
+  {
+    "id": "GAS-S01-E01",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 1,
+    "title": "Global Talent Extravaganza",
+    "maxiChallenge": {
+      "name": "Global Glamazon Talent Extravaganza (Part 1)",
+      "winnerIds": [
+        "alyssa-edwards",
+        "kween-kong"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "Garden of Eden",
+    "topIds": [
+      "alyssa-edwards",
+      "kween-kong"
+    ],
+    "lipSync": {
+      "song": "Only Girl (In the World)",
+      "queenIds": [
+        "alyssa-edwards",
+        "kween-kong"
+      ],
+      "winnerIds": [
+        "alyssa-edwards",
+        "kween-kong"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Adriana Lima"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E02",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 2,
+    "title": "Global Talent Extravaganza: Part 2",
+    "miniChallenge": {
+      "name": "Quick Drag Magazine cover photoshoot",
+      "winnerIds": [
+        "nehellenia"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Global Glamazon Talent Extravaganza (Part 2)",
+      "winnerIds": [
+        "vanity-vain"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "Money Makes The World Go Round",
+    "topIds": [
+      "eva-le-queen",
+      "vanity-vain"
+    ],
+    "lipSync": {
+      "song": "Paranoia",
+      "queenIds": [
+        "eva-le-queen",
+        "vanity-vain"
+      ],
+      "winnerIds": [
+        "vanity-vain"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Danna Paola"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E03",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 3,
+    "title": "International Queen of Mystery Ball",
+    "maxiChallenge": {
+      "name": "The International Queen of Mystery Ball",
+      "winnerIds": [
+        "pythia"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "Boss Lady in Charge / She-Vil Villain / International Queen of Mystery",
+    "topIds": [
+      "alyssa-edwards",
+      "pythia",
+      "tessa-testicle"
+    ],
+    "bottomIds": [
+      "athena-sorgelikis",
+      "soa-de-muse"
+    ],
+    "lipSync": {
+      "song": "Bad Idea Right?",
+      "queenIds": [
+        "athena-sorgelikis",
+        "soa-de-muse"
+      ],
+      "winnerIds": [
+        "soa-de-muse"
+      ],
+      "eliminatedIds": [
+        "athena-sorgelikis"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Matt Rogers"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E04",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 4,
+    "title": "Everybody Say Love Girl Groups",
+    "miniChallenge": {
+      "name": "Guess the total population of your country",
+      "winnerIds": [
+        "kween-kong",
+        "miranda-lebrao",
+        "vanity-vain"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"Everybody Say Love\"",
+      "winnerIds": [
+        "kitty-scott-claus"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "Color My World",
+    "topIds": [
+      "kitty-scott-claus",
+      "kween-kong",
+      "nehellenia"
+    ],
+    "bottomIds": [
+      "miranda-lebrao",
+      "vanity-vain"
+    ],
+    "lipSync": {
+      "song": "Spice Up Your Life",
+      "queenIds": [
+        "miranda-lebrao",
+        "vanity-vain"
+      ],
+      "winnerIds": [
+        "vanity-vain"
+      ],
+      "eliminatedIds": [
+        "miranda-lebrao"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Ross Mathews"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E05",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 5,
+    "title": "Boobie: The Shequels",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "kitty-scott-claus"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "In teams, star in sequels of \"Boobie\"",
+      "winnerIds": [
+        "kween-kong"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "Browntown",
+    "topIds": [
+      "kween-kong"
+    ],
+    "bottomIds": [
+      "eva-le-queen",
+      "gala-varo"
+    ],
+    "lipSync": {
+      "song": "Take On Me",
+      "queenIds": [
+        "eva-le-queen",
+        "gala-varo"
+      ],
+      "winnerIds": [
+        "gala-varo"
+      ],
+      "eliminatedIds": [
+        "eva-le-queen"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Carson Kressley"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E06",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 6,
+    "title": "It's 5 O'Clock Somewhere",
+    "miniChallenge": {
+      "name": "Apply makeup during a turbulent plane simulation",
+      "winnerIds": [
+        "tessa-testicle"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Create a cocktail dress using materials from another queen's suitcase",
+      "winnerIds": [
+        "tessa-testicle"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "It's 5 O'Clock Somewhere",
+    "topIds": [
+      "kween-kong",
+      "pythia",
+      "tessa-testicle"
+    ],
+    "bottomIds": [
+      "gala-varo",
+      "soa-de-muse"
+    ],
+    "lipSync": {
+      "song": "Bang Bang",
+      "queenIds": [
+        "gala-varo",
+        "soa-de-muse"
+      ],
+      "winnerIds": [
+        "gala-varo"
+      ],
+      "eliminatedIds": [
+        "soa-de-muse"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Jasmine Tookes"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E07",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 7,
+    "title": "Snatch Game of Love",
+    "miniChallenge": {
+      "name": "Make a profile for the dating app \"Archer\"",
+      "winnerIds": [
+        "gala-varo"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game of Love",
+      "winnerIds": [
+        "kitty-scott-claus"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "Eat Me!",
+    "topIds": [
+      "kitty-scott-claus",
+      "nehellenia",
+      "pythia"
+    ],
+    "bottomIds": [
+      "gala-varo",
+      "vanity-vain"
+    ],
+    "lipSync": {
+      "song": "Mah Nà Mah Nà",
+      "queenIds": [
+        "gala-varo",
+        "vanity-vain"
+      ],
+      "winnerIds": [
+        "vanity-vain"
+      ],
+      "eliminatedIds": [
+        "gala-varo"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Javier Calvo"
+      },
+      {
+        "name": "Javier Ambrossi"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E08",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 8,
+    "title": "Mmm... A Rich International Roast",
+    "maxiChallenge": {
+      "name": "Perform a roast",
+      "winnerIds": [
+        "kitty-scott-claus",
+        "kween-kong"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "Blow Me Away",
+    "topIds": [
+      "alyssa-edwards",
+      "kitty-scott-claus",
+      "kween-kong",
+      "nehellenia"
+    ],
+    "bottomIds": [
+      "pythia",
+      "vanity-vain"
+    ],
+    "lipSync": {
+      "song": "I Drove All Night",
+      "queenIds": [
+        "pythia",
+        "vanity-vain"
+      ],
+      "winnerIds": [
+        "vanity-vain"
+      ],
+      "eliminatedIds": [
+        "pythia"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Graham Norton"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E09",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 9,
+    "title": "Re-United Nations Makeover",
+    "miniChallenge": {
+      "name": "Who Is She?",
+      "winnerIds": [
+        "kween-kong"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Makeover one of the eliminated queens",
+      "winnerIds": [
+        "nehellenia"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "Drag Family Resemblance",
+    "topIds": [
+      "alyssa-edwards",
+      "kween-kong",
+      "nehellenia"
+    ],
+    "bottomIds": [
+      "kitty-scott-claus",
+      "vanity-vain"
+    ],
+    "lipSync": {
+      "song": "Believe",
+      "queenIds": [
+        "kitty-scott-claus",
+        "vanity-vain"
+      ],
+      "winnerIds": [
+        "kitty-scott-claus"
+      ],
+      "eliminatedIds": [
+        "vanity-vain"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Dianne Brill"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E10",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 10,
+    "title": "There's No Place Like Home",
+    "maxiChallenge": {
+      "name": "Create a tourism ad showcasing your country",
+      "winnerIds": [
+        "alyssa-edwards"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash tip"
+      }
+    },
+    "runwayTheme": "Star Trek: Queens in Outer Space",
+    "topIds": [
+      "alyssa-edwards",
+      "kitty-scott-claus",
+      "nehellenia"
+    ],
+    "bottomIds": [
+      "kween-kong",
+      "tessa-testicle"
+    ],
+    "lipSync": {
+      "song": "Don't Leave Me This Way",
+      "queenIds": [
+        "kween-kong",
+        "tessa-testicle"
+      ],
+      "winnerIds": [
+        "kween-kong"
+      ],
+      "eliminatedIds": [
+        "tessa-testicle"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Ts Madison"
+      }
+    ]
+  },
+  {
+    "id": "GAS-S01-E11",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 11,
+    "title": "Global Lip Sync Lalaparuza",
+    "maxiChallenge": {
+      "name": "Global Lip-Sync LaLaPaRuZa Smackdown",
+      "winnerIds": [
+        "soa-de-muse"
+      ],
+      "earnings": {
+        "amount": 50000,
+        "currency": "USD",
+        "context": "$50,000 cash tip"
+      }
+    },
+    "lipSync": {
+      "song": "The Beginning",
+      "queenIds": [
+        "gala-varo",
+        "soa-de-muse"
+      ],
+      "winnerIds": [
+        "soa-de-muse"
+      ],
+      "kind": "smackdown"
+    }
+  },
+  {
+    "id": "GAS-S01-E12",
+    "seasonId": "GAS-S01",
+    "episodeNumber": 12,
+    "title": "Dance Like The World Is Watching",
+    "runwayTheme": "Best Drag on Earth",
+    "topIds": [
+      "alyssa-edwards",
+      "kitty-scott-claus",
+      "kween-kong",
+      "nehellenia"
+    ],
+    "lipSync": {
+      "song": "Bad Romance",
+      "queenIds": [
+        "alyssa-edwards",
+        "kitty-scott-claus",
+        "kween-kong",
+        "nehellenia"
+      ],
+      "winnerIds": [
+        "alyssa-edwards"
+      ],
+      "kind": "for-the-crown"
+    },
+    "guestJudges": [
+      {
+        "name": "Ariadna Gutiérrez"
+      }
+    ]
+  }
+]

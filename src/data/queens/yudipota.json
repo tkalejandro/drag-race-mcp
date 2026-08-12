@@ -1,0 +1,21 @@
+{
+  "id": "yudipota",
+  "name": "Yudipota",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S03-E04",
+          "song": "Wag Kang Pabebe"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S03-E04",
+      "quit": true
+    }
+  ]
+}

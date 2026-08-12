@@ -1,0 +1,54 @@
+{
+  "id": "annee-maywong",
+  "name": "Année Maywong",
+  "appearances": [
+    {
+      "seasonId": "TH-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S01-E01",
+          "name": "Design a three-in-one runway look incorporating materials that tell the story of your life",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "50,000฿ gift voucher from Apex Medical Center",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "TH-S01-E03",
+          "name": "Create a couture evening gown out of window curtains",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "20,000฿ gift voucher from KarmaKamet",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "TH-S01-E07",
+          "name": "Design a conjoined-twins outfit and act out a scene inspired by Plerng Phra Nang"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S01-E07",
+          "name": "Twin photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Assign pairs for first main challenge"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S01-E05",
+          "song": "Toxic"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "margarita-kalifata",
+  "name": "Margarita Kalifata",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S05-E02",
+          "name": "Soap opera parody"
+        },
+        {
+          "episodeId": "ES-S05-E08",
+          "name": "Notary / comedy challenge"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S05-E03",
+          "song": "Una estrella en mi jardín"
+        },
+        {
+          "episodeId": "ES-S05-E09",
+          "song": "Quédate conmigo"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S05-E11",
+          "song": "Déjala correr"
+        }
+      ]
+    }
+  ]
+}

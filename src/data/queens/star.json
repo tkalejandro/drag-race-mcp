@@ -1,0 +1,26 @@
+{
+  "id": "star",
+  "name": "Star",
+  "appearances": [
+    {
+      "seasonId": "BE-S02",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BE-S02-E04",
+          "name": "Compete in the Bootylicious Cha Cha Cha Dance-Off"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S02-E05",
+          "song": "My Head & My Heart"
+        }
+      ],
+      "eliminatedEpisodeId": "BE-S02-E05",
+      "missCongeniality": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mama-queen",
+  "name": "Ma'Ma Queen",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S01-E03",
+          "name": "Act in a drag version of Gooische Vrouwen",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "prize package worth €1,000, for make up products by Schminkspecialist",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S01-E04",
+          "name": "Reading is Fundamental"
+        },
+        {
+          "episodeId": "NL-S01-E06",
+          "name": "Save the Date improv",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "weekend away in Rotterdam"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S01-E04",
+          "song": "I Wanna Dance With Somebody (Who Loves Me)"
+        },
+        {
+          "episodeId": "NL-S01-E07",
+          "song": "Stronger (What Doesn't Kill You)"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

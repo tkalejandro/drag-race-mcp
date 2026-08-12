@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S17-E06",
-          "name": "Let's Get Sea Sickening Ball"
+          "name": "Let's Get Sea Sickening Ball",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         }
       ],
       "miniChallengeWins": [],

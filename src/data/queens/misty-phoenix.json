@@ -1,0 +1,30 @@
+{
+  "id": "misty-phoenix",
+  "name": "Misty Phoenix",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S03-E02",
+          "name": "Teen dance party (Boom)"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S03-E06",
+          "song": "Hey Mama"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S03-E07",
+          "song": "En rouge et noir"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S03-E07"
+    }
+  ]
+}

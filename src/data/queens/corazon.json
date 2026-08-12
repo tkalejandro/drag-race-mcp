@@ -1,0 +1,30 @@
+{
+  "id": "corazon",
+  "name": "Corazon",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S01-E02",
+          "name": "The Hard Greasy Pole Game",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S01-E02",
+          "song": "I'm Feeling Sexy Tonight"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S01-E02"
+    }
+  ]
+}

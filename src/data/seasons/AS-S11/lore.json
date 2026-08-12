@@ -1,0 +1,72 @@
+[
+  {
+    "id": "as-s11-crystal-methyd-crown",
+    "title": "Crystal Methyd crowned All Stars 11 winner",
+    "summary": "In the All Stars 11 finale (AS-S11-E12), Crystal Methyd and Joey Jay lip-synced to Donna Summer's \"MacArthur Park\". Crystal won the Disco Smackdown for the Crown after previously placing as runner-up on Season 12. Joey Jay, who returned via the Comeback Queen Wildcard Lottery, placed as runner-up and received $25,000.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "crystal-methyd",
+      "joey-jay"
+    ],
+    "seasonIds": [
+      "AS-S11"
+    ],
+    "episodeIds": [
+      "AS-S11-E12"
+    ]
+  },
+  {
+    "id": "as-s11-tournament-top-two-brackets",
+    "title": "Tournament format advances only top two per bracket",
+    "summary": "All Stars 11 kept the Tournament of All Stars bracket structure from All Stars 10, but only the top two point-earners from each of three brackets advanced to the semifinals (instead of three). RuPaul broke point ties, choosing A'keria C. Davenport over Morgan McMichaels in Bracket 1 and advancing both Jasmine Kennedie and Sam Star from Bracket 3.",
+    "tags": [
+      "twist",
+      "all-stars",
+      "production"
+    ],
+    "queenIds": [
+      "crystal-methyd",
+      "akeria-c-davenport",
+      "morgan-mcmichaels",
+      "jasmine-kennedie",
+      "sam-star"
+    ],
+    "seasonIds": [
+      "AS-S11",
+      "AS-S10"
+    ],
+    "episodeIds": [
+      "AS-S11-E03",
+      "AS-S11-E09"
+    ]
+  },
+  {
+    "id": "as-s11-joey-jay-comeback",
+    "title": "Joey Jay returns as Comeback Queen",
+    "summary": "After Bracket 3, RuPaul and Michelle Visage entered Morgan McMichaels, Salina EsTitties, and Joey Jay into a Comeback Queen Wildcard Lottery. Joey Jay was randomly selected and returned for the semifinals, ultimately reaching the Disco Smackdown for the Crown final against Crystal Methyd.",
+    "tags": [
+      "twist",
+      "all-stars",
+      "finale"
+    ],
+    "queenIds": [
+      "joey-jay",
+      "morgan-mcmichaels",
+      "salina-estitties",
+      "crystal-methyd"
+    ],
+    "seasonIds": [
+      "AS-S11"
+    ],
+    "episodeIds": [
+      "AS-S11-E09",
+      "AS-S11-E10",
+      "AS-S11-E12"
+    ]
+  }
+]

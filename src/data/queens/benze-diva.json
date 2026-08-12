@@ -1,0 +1,36 @@
+{
+  "id": "benze-diva",
+  "name": "Benze Diva",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S03-E03",
+          "name": "Perform a rap dressed as grandmas",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E04",
+          "song": "Condragulations"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E05",
+          "song": "Burning for You"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S03-E05",
+      "missCongeniality": true
+    }
+  ]
+}

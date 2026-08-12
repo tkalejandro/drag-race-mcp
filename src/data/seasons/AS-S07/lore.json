@@ -1,0 +1,74 @@
+[
+  {
+    "id": "as-s07-jinkx-monsoon-crown",
+    "title": "Jinkx Monsoon crowned Queen of All Queens",
+    "summary": "In the All Stars 7 finale (AS-S07-E12), the four queens with the most Legendary Legend Stars competed in a Lip Sync LaLaPaRuZa Smackdown for the Crown. Jinkx Monsoon beat Shea Couleé to Lady Gaga's \"Judas\" and then Monét X Change to Katy Perry's \"Swish Swish\", winning the season, the $200,000 charity prize, and the title Queen of All Queens.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "jinkx-monsoon",
+      "monet-x-change",
+      "shea-coulee"
+    ],
+    "seasonIds": [
+      "AS-S07"
+    ],
+    "episodeIds": [
+      "AS-S07-E12"
+    ]
+  },
+  {
+    "id": "as-s07-all-winners-charity",
+    "title": "All Winners season with charity prize",
+    "summary": "All Stars 7 (All Winners) cast eight prior Drag Race franchise winners and directed the $200,000 grand prize to charity. Episode 11's variety extravaganza also tied weekly tips and a $30,000 lip-sync donation to contestants' chosen charities, underscoring the season's charity framing.",
+    "tags": [
+      "all-stars",
+      "production",
+      "finale"
+    ],
+    "queenIds": [
+      "jinkx-monsoon",
+      "monet-x-change",
+      "shea-coulee",
+      "trinity-taylor",
+      "raja",
+      "yvie-oddly",
+      "jaida-essence-hall",
+      "the-vivienne"
+    ],
+    "seasonIds": [
+      "AS-S07"
+    ],
+    "episodeIds": [
+      "AS-S07-E01",
+      "AS-S07-E11"
+    ]
+  },
+  {
+    "id": "as-s07-the-block-twist",
+    "title": "The Block replaces weekly eliminations",
+    "summary": "All Stars 7 introduced The Block: no one was eliminated during the season. Each week two Top All Stars earned Legendary Legend Stars and lip-synced for a tip; the lip-sync winner could block one safe queen from earning a star the following week. After episode 10 RuPaul suspended further blocking. The four queens with the most stars advanced to the Queen of All Queens smackdown; the other four competed for Queen of She Done Already Done Had Herses ($50,000), won by Raja.",
+    "tags": [
+      "twist",
+      "all-stars",
+      "production"
+    ],
+    "queenIds": [
+      "shea-coulee",
+      "trinity-taylor",
+      "raja"
+    ],
+    "seasonIds": [
+      "AS-S07"
+    ],
+    "episodeIds": [
+      "AS-S07-E01",
+      "AS-S07-E10",
+      "AS-S07-E12"
+    ]
+  }
+]

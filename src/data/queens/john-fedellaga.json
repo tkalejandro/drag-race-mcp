@@ -1,0 +1,30 @@
+{
+  "id": "john-fedellaga",
+  "name": "John Fedellaga",
+  "appearances": [
+    {
+      "seasonId": "PH-S03",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S03-E04",
+          "name": "Guess the contents of four boxes while blindfolded",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S03-E06",
+          "song": "Dadalhin"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S03-E06"
+    }
+  ]
+}

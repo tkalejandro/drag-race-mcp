@@ -1,0 +1,49 @@
+{
+  "id": "vybe",
+  "name": "Vybe",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S04-E05",
+          "name": "Makeover librarians",
+          "earnings": {
+            "amount": 2500,
+            "currency": "AUD",
+            "context": "$2,500 cash tip from Anastasia Beverly Hills"
+          }
+        },
+        {
+          "episodeId": "DU-S04-E07",
+          "name": "Perform a roast of Rhys Nicholson",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "$3,500 worth of custom prosthetics courtesy of Body FX",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DU-S04-E05",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "Singer C430 sewing machine"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S04-E08",
+          "song": "Came Here for Love"
+        }
+      ]
+    }
+  ]
+}

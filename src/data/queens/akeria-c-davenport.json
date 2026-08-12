@@ -8,17 +8,35 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E06",
-          "name": "Perform in a free-style floor performance which includes Fanography, Voguing and Shablam"
+          "name": "Perform in a free-style floor performance which includes Fanography, Voguing and Shablam",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from daftboy and $2,500 gift card from Elea's Closet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E09",
-          "name": "In pairs, perform in an improvised comedy police sketch for Los Angeles Drag Patrol (L.A.D.P.)"
+          "name": "In pairs, perform in an improvised comedy police sketch for Los Angeles Drag Patrol (L.A.D.P.)",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "2 VIP tickets to Cirque du Soleil: Zumanity in Las Vegas, including flights and hotel accommodations",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E06",
-          "name": "Galisthenics with Love Connie"
+          "name": "Galisthenics with Love Connie",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,500 gift card from MuLondon",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -32,6 +50,55 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S06-E06"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E02",
+          "name": "Design an outfit using materials inspired by themed gay bars"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E02",
+          "song": "Fergalicious",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S11-E10",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        },
+        {
+          "episodeId": "AS-S11-E11",
+          "song": "Run the World (Girls)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E12",
+          "song": "Star Love / The Boss / The Main Event/Fight / Knock on Wood / MacArthur Park"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E12"
     }
+  ],
+  "aliases": [
+    "A'keria Chanel Davenport"
   ]
 }

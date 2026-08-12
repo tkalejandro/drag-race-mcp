@@ -1,0 +1,21 @@
+{
+  "id": "enorma-jean",
+  "name": "Enorma Jean",
+  "appearances": [
+    {
+      "seasonId": "IT-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S01-E02",
+          "name": "Create your own infomercial about a specific item"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "IT-S01-E04",
+      "disqualified": true
+    }
+  ]
+}

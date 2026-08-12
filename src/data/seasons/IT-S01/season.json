@@ -1,0 +1,62 @@
+{
+  "id": "IT-S01",
+  "franchise": "IT",
+  "name": "Drag Race Italia Season 1",
+  "seasonNumber": 1,
+  "year": 2021,
+  "episodeCount": 6,
+  "episodeIds": [
+    "IT-S01-E01",
+    "IT-S01-E02",
+    "IT-S01-E03",
+    "IT-S01-E04",
+    "IT-S01-E05",
+    "IT-S01-E06"
+  ],
+  "castIds": [
+    "elecktra-bionic",
+    "farida-kant",
+    "le-riche",
+    "luquisha-lubamba",
+    "ava-hangar",
+    "divinity",
+    "enorma-jean",
+    "ivana-vamp"
+  ],
+  "winnerIds": [
+    "elecktra-bionic"
+  ],
+  "runnerUpIds": [
+    "farida-kant",
+    "le-riche"
+  ],
+  "missCongenialityId": "luquisha-lubamba",
+  "porkchopIds": [
+    "ivana-vamp"
+  ],
+  "disqualifiedIds": [
+    "enorma-jean"
+  ],
+  "hosts": [
+    {
+      "name": "Priscilla"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Priscilla"
+    },
+    {
+      "name": "Tommaso Zorzi"
+    },
+    {
+      "name": "Chiara Francini"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "EUR",
+    "context": "No cash prize"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "PH-S01",
+  "franchise": "PH",
+  "name": "Drag Race Philippines Season 1",
+  "seasonNumber": 1,
+  "year": 2022,
+  "episodeCount": 10,
+  "episodeIds": [
+    "PH-S01-E01",
+    "PH-S01-E02",
+    "PH-S01-E03",
+    "PH-S01-E04",
+    "PH-S01-E05",
+    "PH-S01-E06",
+    "PH-S01-E07",
+    "PH-S01-E08",
+    "PH-S01-E09",
+    "PH-S01-E10"
+  ],
+  "castIds": [
+    "precious-paula-nicole",
+    "marina-summers",
+    "eva-le-queen",
+    "xilhouete",
+    "minty-fresh",
+    "brigiding",
+    "vinas-deluxe",
+    "lady-morgana",
+    "turing",
+    "gigi-era",
+    "corazon",
+    "prince"
+  ],
+  "winnerIds": [
+    "precious-paula-nicole"
+  ],
+  "runnerUpIds": [
+    "marina-summers"
+  ],
+  "missCongenialityId": "lady-morgana",
+  "porkchopIds": [
+    "prince"
+  ],
+  "hosts": [
+    {
+      "name": "Paolo Ballesteros"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Paolo Ballesteros"
+    },
+    {
+      "name": "Jiggly Caliente"
+    },
+    {
+      "name": "KaladKaren"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 1000000,
+    "currency": "PHP",
+    "context": "₱1,000,000 season grand prize"
+  }
+}

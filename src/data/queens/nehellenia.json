@@ -1,0 +1,87 @@
+{
+  "id": "nehellenia",
+  "name": "Nehellenia",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "IT-S02-E06",
+          "name": "Makeover football players from the LGBTI+ inclusive club Lupi Roma",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "professional mannequin from La Rosa",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "IT-S02-E01",
+          "name": "Car wash photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and a pair of earrings from PerLei"
+          }
+        },
+        {
+          "episodeId": "IT-S02-E02",
+          "name": "Drag Comanda Color",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and a necklace from PerLei"
+          }
+        },
+        {
+          "episodeId": "IT-S02-E03",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "badge and a travel gift card from Eden Viaggi worth €500",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S02-E05",
+          "song": "The Rhythm of the Night"
+        },
+        {
+          "episodeId": "IT-S02-E08",
+          "song": "Festival"
+        }
+      ],
+      "missCongeniality": true
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E09",
+          "name": "Makeover one of the eliminated queens"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E02",
+          "name": "Quick Drag Magazine cover photoshoot"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E12",
+          "song": "Bad Romance"
+        }
+      ]
+    }
+  ]
+}

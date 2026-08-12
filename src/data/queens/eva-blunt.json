@@ -1,0 +1,47 @@
+{
+  "id": "eva-blunt",
+  "name": "Eva Blunt",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S02-E06",
+          "name": "Create an outfit made from sports equipment"
+        },
+        {
+          "episodeId": "MX-S02-E10",
+          "name": "Makeover a loved one into a drag wrestler"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "MX-S02-E03",
+          "name": "Photoshoot posing as alien hunters in space",
+          "earnings": {
+            "amount": 9000,
+            "currency": "MXN",
+            "context": "MX$ 9,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "MX-S02-E04",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 9000,
+            "currency": "MXN",
+            "context": "MX$ 9,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E12",
+          "song": "Bzrp Music Sessions, Vol. 53"
+        }
+      ]
+    }
+  ]
+}

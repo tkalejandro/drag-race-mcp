@@ -1,0 +1,82 @@
+{
+  "id": "AS-S11",
+  "franchise": "AS",
+  "name": "RuPaul's Drag Race All Stars Season 11",
+  "seasonNumber": 11,
+  "year": 2026,
+  "episodeCount": 12,
+  "episodeIds": [
+    "AS-S11-E01",
+    "AS-S11-E02",
+    "AS-S11-E03",
+    "AS-S11-E04",
+    "AS-S11-E05",
+    "AS-S11-E06",
+    "AS-S11-E07",
+    "AS-S11-E08",
+    "AS-S11-E09",
+    "AS-S11-E10",
+    "AS-S11-E11",
+    "AS-S11-E12"
+  ],
+  "castIds": [
+    "crystal-methyd",
+    "joey-jay",
+    "jasmine-kennedie",
+    "silky-nutmeg-ganache",
+    "akeria-c-davenport",
+    "dawn",
+    "sam-star",
+    "kennedy-davenport",
+    "april-carrion",
+    "aura-mayari",
+    "hershii-liqcour-jete",
+    "lucky-starzzz",
+    "morgan-mcmichaels",
+    "morphine-love-dion",
+    "mystique-summers-madison",
+    "salina-estitties",
+    "shuga-cain",
+    "vivacious"
+  ],
+  "winnerIds": [
+    "crystal-methyd"
+  ],
+  "runnerUpIds": [
+    "joey-jay"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    },
+    {
+      "name": "Ts Madison"
+    },
+    {
+      "name": "Law Roach"
+    },
+    {
+      "name": "Jamal Sims"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 200000,
+    "currency": "USD",
+    "context": "$200,000 season grand prize"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ruby-on-the-nail",
+  "name": "Ruby on the Nail",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S03-E05",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Concert tickets from Polydor plus €1,000 and a year's subscription from Deezer",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "FR-S03-E06",
+          "name": "Give a drag makeover to an LGBT senior",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Four bags from Ozias plus €1,000 and a year's subscription from Deezer",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S03-E03",
+          "name": "Drag Olympics"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S03-E02",
+          "song": "Gigi l'amoroso"
+        },
+        {
+          "episodeId": "FR-S03-E03",
+          "song": "C'est l'amour"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S03-E08",
+          "song": "I'm Alive"
+        }
+      ]
+    }
+  ]
+}

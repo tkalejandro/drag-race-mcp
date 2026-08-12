@@ -15,6 +15,25 @@
         }
       ],
       "eliminatedEpisodeId": "US-S16-E03"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 10,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E08",
+          "name": "Write and perform verses roasting each other in the Rappin' Roast"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E08",
+          "song": "The Ladies Who Lunch"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E09"
     }
   ]
 }

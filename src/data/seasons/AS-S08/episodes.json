@@ -1,0 +1,552 @@
+[
+  {
+    "id": "AS-S08-E01",
+    "seasonId": "AS-S08",
+    "episodeNumber": 1,
+    "title": "The Fame Games",
+    "maxiChallenge": {
+      "name": "Write and perform an original verse to a disco or glam-rock rendition of \"Money, Success, Fame, Glamour\"",
+      "winnerIds": [
+        "kahanna-montrese"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "Famous Forever: Your Timeless Signature Drag",
+    "topIds": [
+      "kahanna-montrese"
+    ],
+    "bottomIds": [
+      "darienne-lake",
+      "monica-beverly-hillz"
+    ],
+    "lipSync": {
+      "song": "Freakum Dress",
+      "queenIds": [
+        "kahanna-montrese",
+        "aja"
+      ],
+      "winnerIds": [
+        "aja"
+      ],
+      "eliminatedIds": [
+        "monica-beverly-hillz"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Idina Menzel"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E02",
+    "seasonId": "AS-S08",
+    "episodeNumber": 2,
+    "title": "It's RDR Live!",
+    "maxiChallenge": {
+      "name": "Perform in a sketch comedy of RDR Live",
+      "winnerIds": [
+        "jimbo"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "Net Gala",
+    "topIds": [
+      "jimbo"
+    ],
+    "bottomIds": [
+      "kahanna-montrese",
+      "naysha-lopez"
+    ],
+    "lipSync": {
+      "song": "She Bop",
+      "queenIds": [
+        "jimbo",
+        "pangina-heals"
+      ],
+      "winnerIds": [
+        "pangina-heals"
+      ],
+      "eliminatedIds": [
+        "naysha-lopez"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Robin Thede"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E03",
+    "seasonId": "AS-S08",
+    "episodeNumber": 3,
+    "title": "The Supermarket Ball",
+    "maxiChallenge": {
+      "name": "The Supermarket Ball",
+      "winnerIds": [
+        "jessica-wild"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "Legen-dairy Queens / Fruity Patootie / Supermarket Supermodel Eleganza",
+    "topIds": [
+      "jessica-wild"
+    ],
+    "bottomIds": [
+      "darienne-lake",
+      "mrs-kasha-davis"
+    ],
+    "lipSync": {
+      "song": "Coconuts",
+      "queenIds": [
+        "jessica-wild",
+        "ra-jah-ohara"
+      ],
+      "winnerIds": [
+        "jessica-wild"
+      ],
+      "eliminatedIds": [
+        "mrs-kasha-davis"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "JoJo Siwa"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E04",
+    "seasonId": "AS-S08",
+    "episodeNumber": 4,
+    "title": "Screen Queens",
+    "maxiChallenge": {
+      "name": "Star in a scripted TV series trailer",
+      "winnerIds": [
+        "jimbo"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "Ass The World Turns",
+    "topIds": [
+      "jimbo"
+    ],
+    "bottomIds": [
+      "alexis-michelle",
+      "darienne-lake",
+      "jaymes-mansfield"
+    ],
+    "lipSync": {
+      "song": "Bad Reputation",
+      "queenIds": [
+        "jimbo",
+        "shannel"
+      ],
+      "winnerIds": [
+        "shannel"
+      ],
+      "eliminatedIds": [
+        "darienne-lake"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Maude Apatow"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E05",
+    "seasonId": "AS-S08",
+    "episodeNumber": 5,
+    "title": "Snatch Game of Love",
+    "maxiChallenge": {
+      "name": "Snatch Game of Love",
+      "winnerIds": [
+        "jimbo"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "RuVeal Yourself",
+    "topIds": [
+      "jimbo"
+    ],
+    "bottomIds": [
+      "jessica-wild",
+      "kahanna-montrese"
+    ],
+    "lipSync": {
+      "song": "Hallucinate",
+      "queenIds": [
+        "jimbo",
+        "jasmine-kennedie"
+      ],
+      "winnerIds": [
+        "jasmine-kennedie"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Bowen Yang"
+      },
+      {
+        "name": "Matt Rogers"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E06",
+    "seasonId": "AS-S08",
+    "episodeNumber": 6,
+    "title": "Joan: The Unauthorized Rusical",
+    "maxiChallenge": {
+      "name": "JOAN: The Unauthorized Rusical!",
+      "winnerIds": [
+        "kandy-muse"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "Night of 1,000 Grace Joneses",
+    "topIds": [
+      "kandy-muse"
+    ],
+    "bottomIds": [
+      "jaymes-mansfield",
+      "kahanna-montrese"
+    ],
+    "lipSync": {
+      "song": "I'm Not Perfect (But I'm Perfect for You)",
+      "queenIds": [
+        "kandy-muse",
+        "angeria-paris-vanmicheals"
+      ],
+      "winnerIds": [
+        "kandy-muse"
+      ],
+      "eliminatedIds": [
+        "jaymes-mansfield"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Adam Shankman"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E07",
+    "seasonId": "AS-S08",
+    "episodeNumber": 7,
+    "title": "Forensic Queens",
+    "maxiChallenge": {
+      "name": "Improvise in the true-crime spoof \"Forensic Queens: Wha-Ha-Happened to Lil' Poundcake?\"",
+      "winnerIds": [
+        "lala-ri"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "Miss Fill-in-the-Blank",
+    "topIds": [
+      "lala-ri"
+    ],
+    "bottomIds": [
+      "alexis-michelle",
+      "kahanna-montrese"
+    ],
+    "lipSync": {
+      "song": "About Damn Time",
+      "queenIds": [
+        "lala-ri",
+        "jorgeous"
+      ],
+      "winnerIds": [
+        "lala-ri"
+      ],
+      "eliminatedIds": [
+        "kahanna-montrese"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Javicia Leslie"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E08",
+    "seasonId": "AS-S08",
+    "episodeNumber": 8,
+    "title": "You're a Winner, Baby!",
+    "maxiChallenge": {
+      "name": "Transform materials into a signature \"I'm a Winner, Baby!\" look",
+      "winnerIds": [
+        "alexis-michelle"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "I'm A Winner Baby",
+    "topIds": [
+      "alexis-michelle"
+    ],
+    "bottomIds": [
+      "kandy-muse",
+      "lala-ri"
+    ],
+    "lipSync": {
+      "song": "These Boots Are Made for Walkin'",
+      "queenIds": [
+        "alexis-michelle",
+        "nicky-doll"
+      ],
+      "winnerIds": [
+        "alexis-michelle"
+      ],
+      "eliminatedIds": [
+        "lala-ri"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Brandon Boyd"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E09",
+    "seasonId": "AS-S08",
+    "episodeNumber": 9,
+    "title": "Carson Kressley, This Is Your Gay Life!",
+    "maxiChallenge": {
+      "name": "A roast of Carson Kressley",
+      "winnerIds": [
+        "jimbo"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "Snow Bunny",
+    "topIds": [
+      "jimbo"
+    ],
+    "bottomIds": [
+      "alexis-michelle",
+      "jessica-wild",
+      "kandy-muse"
+    ],
+    "lipSync": {
+      "song": "Freak-A-Zoid",
+      "queenIds": [
+        "jimbo",
+        "silky-nutmeg-ganache"
+      ],
+      "winnerIds": [
+        "jimbo"
+      ],
+      "eliminatedIds": [
+        "alexis-michelle"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Thom Filicia"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E10",
+    "seasonId": "AS-S08",
+    "episodeNumber": 10,
+    "title": "The Letter L",
+    "miniChallenge": {
+      "name": "Design and model a look based on a Jean Paul Gaultier perfume bottle",
+      "winnerIds": [
+        "jessica-wild"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Give lesbians drag makeovers",
+      "winnerIds": [
+        "kandy-muse"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000"
+      }
+    },
+    "runwayTheme": "Drag Family Resemblance",
+    "topIds": [
+      "kandy-muse"
+    ],
+    "bottomIds": [
+      "jessica-wild",
+      "jimbo"
+    ],
+    "lipSync": {
+      "song": "Jumpin', Jumpin'",
+      "queenIds": [
+        "kandy-muse",
+        "priyanka"
+      ],
+      "winnerIds": [
+        "priyanka"
+      ],
+      "eliminatedIds": [
+        "jessica-wild"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Zooey Deschanel"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E11",
+    "seasonId": "AS-S08",
+    "episodeNumber": 11,
+    "title": "The Fame Games Variety Extravaganza",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "mrs-kasha-davis"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Fame Games Variety Extravaganza",
+      "winnerIds": [
+        "jaymes-mansfield",
+        "lala-ri"
+      ]
+    },
+    "topIds": [
+      "jaymes-mansfield",
+      "lala-ri"
+    ],
+    "lipSync": {
+      "song": "Rain on Me",
+      "queenIds": [
+        "jaymes-mansfield",
+        "lala-ri"
+      ],
+      "winnerIds": [
+        "jaymes-mansfield",
+        "lala-ri"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Ego Nwodim"
+      }
+    ]
+  },
+  {
+    "id": "AS-S08-E12",
+    "seasonId": "AS-S08",
+    "episodeNumber": 12,
+    "title": "Grand Finale",
+    "runwayTheme": "Finale Fabulosity",
+    "topIds": [
+      "jimbo",
+      "kandy-muse"
+    ],
+    "lipSync": {
+      "song": "Do Ya Wanna Funk",
+      "queenIds": [
+        "jimbo",
+        "kandy-muse"
+      ],
+      "winnerIds": [
+        "jimbo"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

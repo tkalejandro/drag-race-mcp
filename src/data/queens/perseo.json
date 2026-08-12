@@ -1,0 +1,36 @@
+{
+  "id": "perseo",
+  "name": "Perseo",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S03-E02",
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€2,500 of glasses from Pontet plus €1,000 and a year's subscription from Deezer",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S03-E06",
+          "name": "Bingo Loco"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S03-E06",
+          "song": "Hey Mama"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S03-E06"
+    }
+  ]
+}

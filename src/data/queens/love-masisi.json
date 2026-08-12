@@ -1,0 +1,20 @@
+{
+  "id": "love-masisi",
+  "name": "Love Masisi",
+  "appearances": [
+    {
+      "seasonId": "NL-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S02-E03",
+          "song": "It's All Coming Back to Me Now"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S02-E03"
+    }
+  ]
+}

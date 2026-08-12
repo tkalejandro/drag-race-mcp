@@ -36,18 +36,43 @@
     "rock-m-sakura",
     "dahlia-sin"
   ],
-  "winnerId": "jaida-essence-hall",
-  "runnerUpIds": ["crystal-methyd", "gigi-goode"],
+  "winnerIds": [
+    "jaida-essence-hall"
+  ],
+  "runnerUpIds": [
+    "crystal-methyd",
+    "gigi-goode"
+  ],
   "missCongenialityId": "heidi-n-closet",
-  "porkchopId": "dahlia-sin",
-  "disqualifiedIds": ["sherry-pie"],
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "dahlia-sin"
+  ],
+  "disqualifiedIds": [
+    "sherry-pie"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Carson Kressley" },
-    { "name": "Ross Mathews" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD",
+    "context": "$100,000 season grand prize"
+  }
 }

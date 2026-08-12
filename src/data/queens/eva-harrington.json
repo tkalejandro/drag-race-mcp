@@ -1,0 +1,20 @@
+{
+  "id": "eva-harrington",
+  "name": "Eva Harrington",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S05-E04",
+          "song": "Duro de pelar (Oh No Special Edition)"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S05-E04"
+    }
+  ]
+}

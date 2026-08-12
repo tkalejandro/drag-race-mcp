@@ -10,12 +10,21 @@
       "miniChallengeWins": [
         {
           "episodeId": "CA-S01-E01",
-          "name": "Photoshoot atop a replica of the Rocky Mountains"
+          "name": "Photoshoot atop a replica of the Rocky Mountains",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$1,000 of latex couture from Polymorphe",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E02", "song": "If You Could Read My Mind" }
+        {
+          "episodeId": "CA-S01-E02",
+          "song": "If You Could Read My Mind"
+        }
       ]
     }
   ]

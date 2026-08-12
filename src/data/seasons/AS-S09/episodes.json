@@ -1,0 +1,498 @@
+[
+  {
+    "id": "AS-S09-E01",
+    "seasonId": "AS-S09",
+    "episodeNumber": 1,
+    "title": "Drag Queens Save the World",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "roxxxy-andrews"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 charity donation"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Write and perform original verses on RuPaul's \"Drag Queens Save the World\"",
+      "winnerIds": [
+        "angeria-paris-vanmicheals",
+        "jorgeous"
+      ]
+    },
+    "runwayTheme": "Signature Look, Signature Fragrance",
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "jorgeous"
+    ],
+    "lipSync": {
+      "song": "Million Dollar Bill (Freemasons Radio Mix)",
+      "queenIds": [
+        "angeria-paris-vanmicheals",
+        "jorgeous"
+      ],
+      "winnerIds": [
+        "angeria-paris-vanmicheals"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Keke Palmer"
+      }
+    ]
+  },
+  {
+    "id": "AS-S09-E02",
+    "seasonId": "AS-S09",
+    "episodeNumber": 2,
+    "title": "The Paint Ball",
+    "maxiChallenge": {
+      "name": "The Paint Ball",
+      "winnerIds": [
+        "gottmik",
+        "plastique-tiara"
+      ]
+    },
+    "runwayTheme": "Monochromatica / Drag Imitates Art / Paint Ball Eleganza",
+    "topIds": [
+      "gottmik",
+      "plastique-tiara"
+    ],
+    "lipSync": {
+      "song": "Jump in the Line (Shake, Senora)",
+      "queenIds": [
+        "gottmik",
+        "plastique-tiara"
+      ],
+      "winnerIds": [
+        "gottmik"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Stephanie Hsu"
+      }
+    ]
+  },
+  {
+    "id": "AS-S09-E03",
+    "seasonId": "AS-S09",
+    "episodeNumber": 3,
+    "title": "Snatch Game of Love",
+    "maxiChallenge": {
+      "name": "Snatch Game of Love",
+      "winnerIds": [
+        "gottmik",
+        "nina-west"
+      ]
+    },
+    "runwayTheme": "A Tail and Two Titties",
+    "topIds": [
+      "gottmik",
+      "nina-west"
+    ],
+    "lipSync": {
+      "song": "Banana",
+      "queenIds": [
+        "gottmik",
+        "nina-west"
+      ],
+      "winnerIds": [
+        "gottmik"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Anitta"
+      }
+    ]
+  },
+  {
+    "id": "AS-S09-E04",
+    "seasonId": "AS-S09",
+    "episodeNumber": 4,
+    "title": "Smokin' Hot Firefighter Makeovers",
+    "maxiChallenge": {
+      "name": "In pairs, give a firefighter a pop star makeover and perform with them as a girl group",
+      "winnerIds": [
+        "roxxxy-andrews",
+        "vanessa-vanjie-mateo"
+      ]
+    },
+    "runwayTheme": "Smokin' Hot Pop Stars",
+    "topIds": [
+      "roxxxy-andrews",
+      "vanessa-vanjie-mateo"
+    ],
+    "lipSync": {
+      "song": "Black Cat",
+      "queenIds": [
+        "roxxxy-andrews",
+        "vanessa-vanjie-mateo"
+      ],
+      "winnerIds": [
+        "roxxxy-andrews",
+        "vanessa-vanjie-mateo"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Brothers Osborne"
+      }
+    ]
+  },
+  {
+    "id": "AS-S09-E05",
+    "seasonId": "AS-S09",
+    "episodeNumber": 5,
+    "title": "Property Queens",
+    "miniChallenge": {
+      "name": "Teletubbies Soul Train Dance-off",
+      "winnerIds": [
+        "gottmik"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 charity donation"
+      }
+    },
+    "maxiChallenge": {
+      "name": "In pairs, create campy real estate commercials",
+      "winnerIds": [
+        "plastique-tiara",
+        "roxxxy-andrews"
+      ]
+    },
+    "runwayTheme": "Day to Night Ruveal",
+    "topIds": [
+      "plastique-tiara",
+      "roxxxy-andrews"
+    ],
+    "lipSync": {
+      "song": "Super Freaky Girl",
+      "queenIds": [
+        "plastique-tiara",
+        "roxxxy-andrews"
+      ],
+      "winnerIds": [
+        "roxxxy-andrews"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Alec Mapa"
+      }
+    ]
+  },
+  {
+    "id": "AS-S09-E06",
+    "seasonId": "AS-S09",
+    "episodeNumber": 6,
+    "title": "The National Drag Convention Roast",
+    "miniChallenge": {
+      "name": "Straw Poll",
+      "winnerIds": [
+        "jorgeous"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 charity donation and a badge"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Deliver a drag political convention roast",
+      "winnerIds": [
+        "angeria-paris-vanmicheals",
+        "plastique-tiara"
+      ]
+    },
+    "runwayTheme": "Atomic Blonde",
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "plastique-tiara"
+    ],
+    "lipSync": {
+      "song": "Be My Lover",
+      "queenIds": [
+        "angeria-paris-vanmicheals",
+        "plastique-tiara"
+      ],
+      "winnerIds": [
+        "angeria-paris-vanmicheals"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Ruta Lee"
+      }
+    ]
+  },
+  {
+    "id": "AS-S09-E07",
+    "seasonId": "AS-S09",
+    "episodeNumber": 7,
+    "title": "Meeting in the Ladies Room",
+    "miniChallenge": {
+      "name": "Fruity Patootie",
+      "winnerIds": [
+        "nina-west"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "Immunity from being cut off (later substituted for a $2,500 charity donation)"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Act in a campy two-person scene opposite RuPaul",
+      "winnerIds": [
+        "angeria-paris-vanmicheals",
+        "nina-west"
+      ]
+    },
+    "runwayTheme": "Widow, Weep for Me",
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "nina-west"
+    ],
+    "lipSync": {
+      "song": "Lovergirl",
+      "queenIds": [
+        "angeria-paris-vanmicheals",
+        "nina-west"
+      ],
+      "winnerIds": [
+        "angeria-paris-vanmicheals"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Colton Haynes"
+      }
+    ]
+  },
+  {
+    "id": "AS-S09-E08",
+    "seasonId": "AS-S09",
+    "episodeNumber": 8,
+    "title": "Make Your Own Kind of Rusic",
+    "miniChallenge": {
+      "name": "Photobomb a vacation locale",
+      "winnerIds": [
+        "nina-west"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 charity donation"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Create a look inspired by a RuPaul song",
+      "winnerIds": [
+        "plastique-tiara",
+        "roxxxy-andrews"
+      ]
+    },
+    "runwayTheme": "Make Your Own Kind of Rusic",
+    "topIds": [
+      "plastique-tiara",
+      "roxxxy-andrews"
+    ],
+    "lipSync": {
+      "song": "No One Gets the Prize",
+      "queenIds": [
+        "plastique-tiara",
+        "roxxxy-andrews"
+      ],
+      "winnerIds": [
+        "roxxxy-andrews"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Jeremy Scott"
+      }
+    ]
+  },
+  {
+    "id": "AS-S09-E09",
+    "seasonId": "AS-S09",
+    "episodeNumber": 9,
+    "title": "Rosemarie's Baby Shower: The Rusical",
+    "maxiChallenge": {
+      "name": "Rosemarie's Baby Shower: The Rusical",
+      "winnerIds": [
+        "jorgeous",
+        "shannel"
+      ]
+    },
+    "runwayTheme": "Bring Back My Pearls",
+    "topIds": [
+      "jorgeous",
+      "shannel"
+    ],
+    "lipSync": {
+      "song": "Love Come Home (Subgroovers Music Video Edit)",
+      "queenIds": [
+        "jorgeous",
+        "shannel"
+      ],
+      "winnerIds": [
+        "jorgeous",
+        "shannel"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Kristine W"
+      }
+    ]
+  },
+  {
+    "id": "AS-S09-E10",
+    "seasonId": "AS-S09",
+    "episodeNumber": 10,
+    "title": "Lip-Sync LaLaPaRuZa Smackdown",
+    "maxiChallenge": {
+      "name": "Lip-Sync LaLaPaRuZa Smackdown",
+      "winnerIds": [
+        "roxxxy-andrews",
+        "shannel"
+      ]
+    },
+    "lipSync": {
+      "song": "My Lovin' (You're Never Gonna Get It) / When I Grow Up / You Spin Me Round (Like a Record) / Holding Out for a Hero / I'm Every Woman / Groove Is in the Heart / Break Free",
+      "queenIds": [
+        "angeria-paris-vanmicheals",
+        "gottmik",
+        "plastique-tiara",
+        "vanessa-vanjie-mateo",
+        "nina-west",
+        "shannel",
+        "jorgeous",
+        "roxxxy-andrews"
+      ],
+      "winnerIds": [
+        "angeria-paris-vanmicheals",
+        "vanessa-vanjie-mateo",
+        "shannel",
+        "roxxxy-andrews"
+      ],
+      "kind": "smackdown"
+    }
+  },
+  {
+    "id": "AS-S09-E11",
+    "seasonId": "AS-S09",
+    "episodeNumber": 11,
+    "title": "Grand Finale Variety Extravaganza: Part 1",
+    "miniChallenge": {
+      "name": "Give a crew member a drag makeover",
+      "winnerIds": [
+        "angeria-paris-vanmicheals",
+        "gottmik",
+        "jorgeous",
+        "nina-west",
+        "plastique-tiara",
+        "roxxxy-andrews",
+        "shannel",
+        "vanessa-vanjie-mateo"
+      ]
+    }
+  },
+  {
+    "id": "AS-S09-E12",
+    "seasonId": "AS-S09",
+    "episodeNumber": 12,
+    "title": "Grand Finale Variety Extravaganza: Part 2",
+    "maxiChallenge": {
+      "name": "Slay It Forward Variety Extravaganza",
+      "winnerIds": [
+        "angeria-paris-vanmicheals",
+        "vanessa-vanjie-mateo"
+      ]
+    },
+    "runwayTheme": "Grand Finale Eleganza",
+    "topIds": [
+      "angeria-paris-vanmicheals",
+      "roxxxy-andrews",
+      "vanessa-vanjie-mateo"
+    ],
+    "lipSync": {
+      "song": "Rhythm Nation",
+      "queenIds": [
+        "angeria-paris-vanmicheals",
+        "roxxxy-andrews",
+        "vanessa-vanjie-mateo"
+      ],
+      "winnerIds": [
+        "angeria-paris-vanmicheals"
+      ],
+      "kind": "for-the-crown"
+    },
+    "guestJudges": [
+      {
+        "name": "Connie Britton"
+      }
+    ]
+  }
+]

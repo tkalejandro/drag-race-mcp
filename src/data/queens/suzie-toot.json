@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "US-S17-E01",
-          "name": "Perform a talent show for Drag Queens Got Talent (group 1)"
+          "name": "Perform a talent show for Drag Queens Got Talent (group 1)",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S17-E05",
-          "name": "Act in RDR Live! sketch comedy"
+          "name": "Act in RDR Live! sketch comedy",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S17-E15",
@@ -22,11 +32,21 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S17-E06",
-          "name": "ABH lipstick mouth relay"
+          "name": "ABH lipstick mouth relay",
+          "earnings": {
+            "amount": 500,
+            "currency": "USD",
+            "context": "$500 cash tip"
+          }
         },
         {
           "episodeId": "US-S17-E09",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

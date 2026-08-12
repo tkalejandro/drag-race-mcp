@@ -36,17 +36,40 @@
     "lashauwn-beyond",
     "alisa-summers"
   ],
-  "winnerId": "sharon-needles",
-  "runnerUpIds": ["chad-michaels", "phi-phi-ohara"],
+  "winnerIds": [
+    "sharon-needles"
+  ],
+  "runnerUpIds": [
+    "chad-michaels",
+    "phi-phi-ohara"
+  ],
   "missCongenialityId": "latrice-royale",
-  "porkchopId": "alisa-summers",
-  "hosts": [{ "name": "RuPaul" }],
+  "porkchopIds": [
+    "alisa-summers"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Santino Rice" },
-    { "name": "Billy B" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Santino Rice"
+    },
+    {
+      "name": "Billy B"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "USD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "USD",
+    "context": "$100,000 season grand prize"
+  }
 }

@@ -29,16 +29,38 @@
     "the-girlfriend-experience",
     "sisi-superstar"
   ],
-  "winnerId": "venus",
-  "runnerUpIds": ["aurora-matrix"],
+  "winnerIds": [
+    "venus"
+  ],
+  "runnerUpIds": [
+    "aurora-matrix"
+  ],
   "missCongenialityId": "kitten-kaboodle",
-  "porkchopId": "sisi-superstar",
-  "hosts": [{ "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" }],
+  "porkchopIds": [
+    "sisi-superstar"
+  ],
+  "hosts": [
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    }
+  ],
   "judges": [
-    { "name": "Brooke Lynn Hytes", "queenId": "brooke-lynn-hytes" },
-    { "name": "Brad Goreski" },
-    { "name": "Traci Melchor" }
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    },
+    {
+      "name": "Brad Goreski"
+    },
+    {
+      "name": "Traci Melchor"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 100000, "currency": "CAD" }
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "CAD",
+    "context": "CA$100,000 season grand prize"
+  }
 }

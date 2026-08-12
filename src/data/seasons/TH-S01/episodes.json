@@ -1,0 +1,407 @@
+[
+  {
+    "id": "TH-S01-E01",
+    "seasonId": "TH-S01",
+    "episodeNumber": 1,
+    "title": "Contestant's Story",
+    "miniChallenge": {
+      "name": "Photoshoot while being doused with buckets of water",
+      "winnerIds": [
+        "morrigan"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Design a three-in-one runway look incorporating materials that tell the story of your life",
+      "winnerIds": [
+        "annee-maywong"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "50,000฿ gift voucher from Apex Medical Center",
+        "isSponsor": true
+      }
+    },
+    "topIds": [
+      "annee-maywong"
+    ],
+    "bottomIds": [
+      "meannie-minaj",
+      "morrigan"
+    ],
+    "lipSync": {
+      "song": "Born This Way",
+      "queenIds": [
+        "meannie-minaj",
+        "morrigan"
+      ],
+      "winnerIds": [
+        "morrigan"
+      ],
+      "eliminatedIds": [
+        "meannie-minaj"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Madame Mod"
+      },
+      {
+        "name": "Madeaw"
+      },
+      {
+        "name": "Pa-Tue"
+      }
+    ]
+  },
+  {
+    "id": "TH-S01-E02",
+    "seasonId": "TH-S01",
+    "episodeNumber": 2,
+    "title": "The Power of Love",
+    "miniChallenge": {
+      "name": "Photoshoot with blacklight",
+      "winnerIds": [
+        "natalia-pliacam"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "30 minutes for the maxi-challenge instead of 15"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Dress up as the bride and groom in a photoshoot",
+      "winnerIds": [
+        "natalia-pliacam"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Custom pair of men's and women's shoes from Tango worth 30,000฿",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Power of Love",
+    "topIds": [
+      "natalia-pliacam",
+      "amadiva"
+    ],
+    "bottomIds": [
+      "bunny-be-fly",
+      "petchra"
+    ],
+    "lipSync": {
+      "song": "รักยังไม่ต้องการ (I Don't Want Love Yet)",
+      "queenIds": [
+        "bunny-be-fly",
+        "petchra"
+      ],
+      "winnerIds": [
+        "petchra"
+      ],
+      "eliminatedIds": [
+        "bunny-be-fly"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Marsha Vadhanapanich"
+      },
+      {
+        "name": "Jai Sira"
+      }
+    ]
+  },
+  {
+    "id": "TH-S01-E03",
+    "seasonId": "TH-S01",
+    "episodeNumber": 3,
+    "title": "Curtain to Couture",
+    "miniChallenge": {
+      "name": "Fairy tale puppet show",
+      "winnerIds": [
+        "dearis-doll"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Create a couture evening gown out of window curtains",
+      "winnerIds": [
+        "annee-maywong"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "20,000฿ gift voucher from KarmaKamet",
+        "isSponsor": true
+      }
+    },
+    "topIds": [
+      "annee-maywong"
+    ],
+    "bottomIds": [
+      "dearis-doll",
+      "morrigan"
+    ],
+    "lipSync": {
+      "song": "O.K. นะคะ (O.K. Yes)",
+      "queenIds": [
+        "dearis-doll",
+        "morrigan"
+      ],
+      "winnerIds": [
+        "dearis-doll"
+      ],
+      "eliminatedIds": [
+        "morrigan"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Mae Baan Mee Nuad"
+      },
+      {
+        "name": "Prapakas Angsulin"
+      },
+      {
+        "name": "Cris Horwang"
+      }
+    ]
+  },
+  {
+    "id": "TH-S01-E04",
+    "seasonId": "TH-S01",
+    "episodeNumber": 4,
+    "title": "Drag Race Thailand Debut Season Award",
+    "miniChallenge": {
+      "name": "Pink carpet photoshoot",
+      "winnerIds": [
+        "jaja"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Present and accept the Drag Race Thailand Debut Season Awards",
+      "winnerIds": [
+        "natalia-pliacam"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "One-year supply of Biore products",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Beloved Thai Movies",
+    "topIds": [
+      "natalia-pliacam",
+      "dearis-doll",
+      "jaja"
+    ],
+    "bottomIds": [
+      "amadiva",
+      "natalia-pliacam"
+    ],
+    "lipSync": {
+      "song": "Dhoom Dhoom",
+      "queenIds": [
+        "amadiva",
+        "natalia-pliacam"
+      ],
+      "winnerIds": [
+        "amadiva",
+        "natalia-pliacam"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Ananda Everingham"
+      },
+      {
+        "name": "Sinjai Plengpanich"
+      },
+      {
+        "name": "Pattriya Na Nakorn"
+      }
+    ]
+  },
+  {
+    "id": "TH-S01-E05",
+    "seasonId": "TH-S01",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "amadiva"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "natalia-pliacam"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "3 day stay at the AVANI Garden Room in Pattaya, worth 20,000฿",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Thai Silk Extravaganza",
+    "topIds": [
+      "natalia-pliacam"
+    ],
+    "bottomIds": [
+      "annee-maywong",
+      "jaja",
+      "petchra"
+    ],
+    "lipSync": {
+      "song": "Toxic",
+      "queenIds": [
+        "annee-maywong",
+        "jaja",
+        "petchra"
+      ],
+      "winnerIds": [
+        "annee-maywong",
+        "jaja"
+      ],
+      "eliminatedIds": [
+        "petchra"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Metinee Kingpayom"
+      },
+      {
+        "name": "Polpat Asavaprapha"
+      }
+    ]
+  },
+  {
+    "id": "TH-S01-E06",
+    "seasonId": "TH-S01",
+    "episodeNumber": 6,
+    "title": "Commercial, Commercial",
+    "miniChallenge": {
+      "name": "Line Mobile presentation clip",
+      "winnerIds": [
+        "b-ella"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Free for use of \"Line Mobile by DTAC\" for 2-years with unlimited package, and privileges for select the partners of main challenge."
+      }
+    },
+    "maxiChallenge": {
+      "name": "In pairs, create parodies of Line Mobile commercials",
+      "winnerIds": [
+        "b-ella",
+        "dearis-doll"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Free for use of \"Line Mobile by DTAC\" for 3-years with unlimited package for winners, and free 1 year for other competitors and presenters."
+      }
+    },
+    "runwayTheme": "Chompoo Araya",
+    "topIds": [
+      "b-ella",
+      "dearis-doll"
+    ],
+    "bottomIds": [
+      "amadiva",
+      "jaja"
+    ],
+    "lipSync": {
+      "song": "เพลงสุดท้าย (Last Song)",
+      "queenIds": [
+        "amadiva",
+        "jaja"
+      ],
+      "winnerIds": [],
+      "eliminatedIds": [
+        "amadiva",
+        "jaja"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Araya A. Hargate"
+      },
+      {
+        "name": "Ornapa Krisadee"
+      },
+      {
+        "name": "Pavarisa Chumvigrant"
+      }
+    ]
+  },
+  {
+    "id": "TH-S01-E07",
+    "seasonId": "TH-S01",
+    "episodeNumber": 7,
+    "title": "Twins",
+    "miniChallenge": {
+      "name": "Twin photoshoot",
+      "winnerIds": [
+        "annee-maywong",
+        "dearis-doll"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "THB",
+        "context": "Assign pairs for first main challenge"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Design a conjoined-twins outfit and act out a scene inspired by Plerng Phra Nang",
+      "winnerIds": [
+        "annee-maywong"
+      ]
+    },
+    "runwayTheme": "Water Festival (Songkran)",
+    "topIds": [
+      "annee-maywong"
+    ],
+    "bottomIds": [
+      "b-ella",
+      "dearis-doll"
+    ],
+    "lipSync": {
+      "song": "Crazy in Love",
+      "queenIds": [
+        "b-ella",
+        "dearis-doll"
+      ],
+      "winnerIds": [
+        "dearis-doll"
+      ],
+      "eliminatedIds": [
+        "b-ella"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Ploy Chermarn"
+      },
+      {
+        "name": "Utt Uttsada"
+      },
+      {
+        "name": "Chom"
+      }
+    ]
+  },
+  {
+    "id": "TH-S01-E08",
+    "seasonId": "TH-S01",
+    "episodeNumber": 8,
+    "title": "Final Runway",
+    "runwayTheme": "Moulin Rouge and Best Drag"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "br-s02-ruby-crown",
+    "title": "Ruby Nox wins Drag Race Brasil Season 2",
+    "summary": "In the Grand Finale (BR-S02-E10), Melina Blley and Poseidon Drag were eliminated as the final four narrowed to two, leaving Ruby Nox and Mellody Queen to lip-sync to Rosana Fiengo's \"O Amor e o Poder\". Ruby Nox won the Lip Sync for the Crown and was named Drag Race Brasil's next Drag Superstar; Mellody Queen finished as runner-up.",
+    "tags": ["crown", "finale", "lip-sync", "international"],
+    "queenIds": ["ruby-nox", "mellody-queen", "melina-blley", "poseidon-drag"],
+    "seasonIds": ["BR-S02"],
+    "episodeIds": ["BR-S02-E10"]
+  },
+  {
+    "id": "br-s02-chanel-porkchop",
+    "title": "Chanel: Season 2's first Porkchop",
+    "summary": "Chanel was the first contestant eliminated on Drag Race Brasil season 2 (BR-S02-E02), losing \"Ultra Som\" by Pabllo Vittar to Poseidon Drag.",
+    "tags": ["porkchop", "international"],
+    "queenIds": ["chanel", "poseidon-drag"],
+    "seasonIds": ["BR-S02"],
+    "episodeIds": ["BR-S02-E02"]
+  },
+  {
+    "id": "br-s02-lalaparuza",
+    "title": "Rinha de Lipsync LaLaPaRuZa twist",
+    "summary": "In BR-S02-E07, the six remaining queens faced a Lip-Sync LaLaPaRuZa Smackdown: Melina Blley beat Bhelchi, Poseidon Drag beat Adora Black, and Mellody Queen beat Ruby Nox in the first round. The three round-one winners then saved Bhelchi from the decider, sending Ruby Nox and Adora Black to lip-sync to \"Sissy That Walk\". Ruby Nox won and Adora Black was eliminated.",
+    "tags": ["twist", "lip-sync", "international"],
+    "queenIds": ["melina-blley", "bhelchi", "poseidon-drag", "adora-black", "mellody-queen", "ruby-nox"],
+    "seasonIds": ["BR-S02"],
+    "episodeIds": ["BR-S02-E07"]
+  }
+]

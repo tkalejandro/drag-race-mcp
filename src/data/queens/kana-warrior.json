@@ -1,0 +1,44 @@
+{
+  "id": "kana-warrior",
+  "name": "Kana Warrior",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E10",
+          "name": "Teach an exercise class to senior citizens",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "30,000฿ gift voucher from Positif, premium Japanese beauty products",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S02-E03",
+          "song": "ขอใจเธอแลกเบอร์โทร (Your Heart for My Number)"
+        },
+        {
+          "episodeId": "TH-S02-E04",
+          "song": "จดหมายรักจากเมียเช่า (A Love Letter from a Wife)"
+        },
+        {
+          "episodeId": "TH-S02-E09",
+          "song": "หางเครื่อง (Dancer)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E05",
+          "song": "สุดฤทธิ์สุดเดช (Suprit Suddet)"
+        }
+      ],
+      "reentered": true
+    }
+  ]
+}

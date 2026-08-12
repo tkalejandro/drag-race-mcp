@@ -1,0 +1,20 @@
+{
+  "id": "olivia-dreams",
+  "name": "Olivia Dreams",
+  "appearances": [
+    {
+      "seasonId": "DU-S04",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S04-E02",
+          "song": "Freefallin"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S04-E02"
+    }
+  ]
+}

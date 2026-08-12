@@ -13,11 +13,29 @@ export const EpisodeChallengeSchema = z.object({
   earnings: MoneySchema.optional(),
 });
 
+export const LipSyncKind = {
+  FOR_THE_WIN: "for-the-win",
+  FOR_YOUR_LIFE: "for-your-life",
+  FOR_THE_CROWN: "for-the-crown",
+  SMACKDOWN: "smackdown",
+} as const;
+
+export type LipSyncKind = (typeof LipSyncKind)[keyof typeof LipSyncKind];
+
 export const EpisodeLipSyncSchema = z.object({
   song: z.string().min(1),
   queenIds: z.array(QueenIdSchema),
   winnerIds: z.array(QueenIdSchema),
   eliminatedIds: z.array(QueenIdSchema).optional(),
+  kind: z
+    .enum([
+      LipSyncKind.FOR_THE_WIN,
+      LipSyncKind.FOR_YOUR_LIFE,
+      LipSyncKind.FOR_THE_CROWN,
+      LipSyncKind.SMACKDOWN,
+    ])
+    .optional(),
+  earnings: MoneySchema.optional(),
 });
 
 export const EpisodeSchema = z.object({

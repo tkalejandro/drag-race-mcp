@@ -1,0 +1,63 @@
+{
+  "id": "juriji-der-klee",
+  "name": "Juriji der Klee",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S02-E04",
+          "song": "Baloncesto"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E08",
+          "song": "Fuego"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S02-E08"
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E03",
+          "name": "Walk the Deadly Sins Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "jewelry set from Aster Lab",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "ESAS-S01-E04",
+          "name": "Write, record, and perform verses as two girl groups for Superstar",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "set of Krash Kosmetics makeup products valued at €500",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ESAS-S01-E03",
+          "song": "Estoy llorando por ti"
+        },
+        {
+          "episodeId": "ESAS-S01-E04",
+          "song": "Mafiosa"
+        }
+      ]
+    }
+  ]
+}

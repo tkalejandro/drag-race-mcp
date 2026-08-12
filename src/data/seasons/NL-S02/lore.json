@@ -1,0 +1,20 @@
+[
+  {
+    "id": "nl-s02-vanessa-crown",
+    "title": "Vanessa Van Cartier wins Drag Race Holland Season 2",
+    "summary": "In the finale (NL-S02-E08), Vanessa Van Cartier defeated My Little Puny in the Lip Sync for the Crown to Shirley Bassey's \"This Is My Life\", becoming Holland's second Drag Superstar. Vivaldi was eliminated from the final three without a lip sync.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["vanessa-van-cartier", "my-little-puny", "vivaldi"],
+    "seasonIds": ["NL-S02"],
+    "episodeIds": ["NL-S02-E08"]
+  },
+  {
+    "id": "nl-s02-juicy-kutoure-porkchop",
+    "title": "Juicy Kutoure: Holland Season 2's first Porkchop",
+    "summary": "Juicy Kutoure was the first contestant eliminated on Drag Race Holland season 2 (NL-S02-E01), losing the lip sync to \"Physical\" against Reggy B.",
+    "tags": ["porkchop"],
+    "queenIds": ["juicy-kutoure", "reggy-b"],
+    "seasonIds": ["NL-S02"],
+    "episodeIds": ["NL-S02-E01"]
+  }
+]

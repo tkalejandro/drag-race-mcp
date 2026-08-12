@@ -1,0 +1,33 @@
+{
+  "id": "vivaldi",
+  "name": "Vivaldi",
+  "appearances": [
+    {
+      "seasonId": "NL-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S02-E03",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Badge and a €1,000 tip, courtesy of House of Bratz"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S02-E06",
+          "song": "Lekker met de meiden"
+        },
+        {
+          "episodeId": "NL-S02-E07",
+          "song": "Don't Stop Me Now"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

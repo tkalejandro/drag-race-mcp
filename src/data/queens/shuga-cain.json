@@ -9,7 +9,13 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E07",
-          "name": "Participate in a potato sack race serving boob-ography"
+          "name": "Participate in a potato sack race serving boob-ography",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip courtesy of Hask",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -29,6 +35,15 @@
         }
       ],
       "eliminatedEpisodeId": "US-S11-E10"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S11-E09"
     }
   ]
 }

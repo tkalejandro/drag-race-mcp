@@ -11,11 +11,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S07-E06",
-          "name": "Re-enact Whatever Happened to Merle Ginsberg from Merle Ginsberg, Michelle Visage, and RuPaul points of view"
+          "name": "Re-enact Whatever Happened to Merle Ginsberg from Merle Ginsberg, Michelle Visage, and RuPaul points of view",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2000 giftcard to FABRICplanet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S07-E10",
-          "name": "In pairs, dance in a live drag dance spectacular"
+          "name": "In pairs, dance in a live drag dance spectacular",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "An original gown from Mountbatten Concepts and a gift card from Klein Epstein & Parker",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -45,15 +57,32 @@
       "challengeWins": [
         {
           "episodeId": "AS-S02-E02",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Two VIP tickets to Cirque du Soleil cabaret \"Zumanity\", including airfare and accommodations.",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S02-E06",
-          "name": "Create drag-influenced products"
+          "name": "Create drag-influenced products",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom wig wardrobe from Weaven Steven, and have their merchandise sold at RuPaul's Drag Con",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S02-E07",
-          "name": "Makeover a family member"
+          "name": "Makeover a family member",
+          "earnings": {
+            "amount": 2000,
+            "currency": "USD",
+            "context": "$2,000 gift certificate from Marc Jacobs"
+          }
         }
       ],
       "miniChallengeWins": [],

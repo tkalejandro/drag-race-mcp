@@ -12,7 +12,14 @@
     "title": "Condragulations",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Condragulations",
-      "winnerIds": ["symone"]
+      "winnerIds": [
+        "symone"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Lamé You Stay",
     "topIds": [
@@ -24,10 +31,19 @@
     ],
     "lipSync": {
       "song": "Break My Heart",
-      "queenIds": ["olivia-lux", "symone"],
-      "winnerIds": ["symone"]
+      "queenIds": [
+        "olivia-lux",
+        "symone"
+      ],
+      "winnerIds": [
+        "symone"
+      ]
     },
-    "guestJudges": [{ "name": "Jamal Sims" }]
+    "guestJudges": [
+      {
+        "name": "Jamal Sims"
+      }
+    ]
   },
   {
     "id": "US-S13-E03",
@@ -36,16 +52,37 @@
     "title": "Phenomenon",
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Phenomenon",
-      "winnerIds": ["denali"]
+      "winnerIds": [
+        "denali"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "We're Here, We're Sheer, Get Used to It",
-    "topIds": ["denali", "rose", "tamisha-iman", "utica-queen"],
+    "topIds": [
+      "denali",
+      "rose",
+      "tamisha-iman",
+      "utica-queen"
+    ],
     "lipSync": {
       "song": "If U Seek Amy",
-      "queenIds": ["denali", "rose"],
-      "winnerIds": ["denali"]
+      "queenIds": [
+        "denali",
+        "rose"
+      ],
+      "winnerIds": [
+        "denali"
+      ]
     },
-    "guestJudges": [{ "name": "Nicole Byer" }]
+    "guestJudges": [
+      {
+        "name": "Nicole Byer"
+      }
+    ]
   },
   {
     "id": "US-S13-E04",
@@ -54,18 +91,43 @@
     "title": "RuPaulmark Channel",
     "maxiChallenge": {
       "name": "Overact in cheesy RuPaulmark holiday movies",
-      "winnerIds": ["symone"]
+      "winnerIds": [
+        "symone"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Trains for Days",
-    "topIds": ["kandy-muse", "rose", "symone"],
-    "bottomIds": ["denali", "kahmora-hall"],
+    "topIds": [
+      "kandy-muse",
+      "rose",
+      "symone"
+    ],
+    "bottomIds": [
+      "denali",
+      "kahmora-hall"
+    ],
     "lipSync": {
       "song": "100% Pure Love",
-      "queenIds": ["denali", "kahmora-hall"],
-      "winnerIds": ["denali"],
-      "eliminatedIds": ["kahmora-hall"]
+      "queenIds": [
+        "denali",
+        "kahmora-hall"
+      ],
+      "winnerIds": [
+        "denali"
+      ],
+      "eliminatedIds": [
+        "kahmora-hall"
+      ]
     },
-    "guestJudges": [{ "name": "Loni Love" }]
+    "guestJudges": [
+      {
+        "name": "Loni Love"
+      }
+    ]
   },
   {
     "id": "US-S13-E05",
@@ -74,22 +136,55 @@
     "title": "The Bag Ball",
     "miniChallenge": {
       "name": "Baby Got Back: Who Is the Most Misbehaved Baby?",
-      "winnerIds": ["lala-ri"]
+      "winnerIds": [
+        "lala-ri"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from FierceQueen.com",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "The Bag Ball",
-      "winnerIds": ["gottmik"]
+      "winnerIds": [
+        "gottmik"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Mixed Bag, Money Bags, and Bag Ball Eleganza",
-    "topIds": ["gottmik", "rose", "utica-queen"],
-    "bottomIds": ["joey-jay", "lala-ri"],
+    "topIds": [
+      "gottmik",
+      "rose",
+      "utica-queen"
+    ],
+    "bottomIds": [
+      "joey-jay",
+      "lala-ri"
+    ],
     "lipSync": {
       "song": "Fancy",
-      "queenIds": ["joey-jay", "lala-ri"],
-      "winnerIds": ["lala-ri"],
-      "eliminatedIds": ["joey-jay"]
+      "queenIds": [
+        "joey-jay",
+        "lala-ri"
+      ],
+      "winnerIds": [
+        "lala-ri"
+      ],
+      "eliminatedIds": [
+        "joey-jay"
+      ]
     },
-    "guestJudges": [{ "name": "Nicole Byer" }]
+    "guestJudges": [
+      {
+        "name": "Nicole Byer"
+      }
+    ]
   },
   {
     "id": "US-S13-E06",
@@ -98,22 +193,56 @@
     "title": "Disco-mentary",
     "miniChallenge": {
       "name": "Create eye-popping dresses made from wallpaper",
-      "winnerIds": ["elliott-with-2-ts", "tamisha-iman"]
+      "winnerIds": [
+        "elliott-with-2-ts",
+        "tamisha-iman"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from Spoonflower",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform in a disco-themed dance documentary",
-      "winnerIds": ["olivia-lux"]
+      "winnerIds": [
+        "olivia-lux"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Little Black Dress",
-    "topIds": ["elliott-with-2-ts", "olivia-lux", "tina-burner"],
-    "bottomIds": ["kandy-muse", "tamisha-iman"],
+    "topIds": [
+      "elliott-with-2-ts",
+      "olivia-lux",
+      "tina-burner"
+    ],
+    "bottomIds": [
+      "kandy-muse",
+      "tamisha-iman"
+    ],
     "lipSync": {
       "song": "Hit 'Em Up Style (Oops!)",
-      "queenIds": ["kandy-muse", "tamisha-iman"],
-      "winnerIds": ["kandy-muse"],
-      "eliminatedIds": ["tamisha-iman"]
+      "queenIds": [
+        "kandy-muse",
+        "tamisha-iman"
+      ],
+      "winnerIds": [
+        "kandy-muse"
+      ],
+      "eliminatedIds": [
+        "tamisha-iman"
+      ]
     },
-    "guestJudges": [{ "name": "Loni Love" }]
+    "guestJudges": [
+      {
+        "name": "Loni Love"
+      }
+    ]
   },
   {
     "id": "US-S13-E07",
@@ -122,22 +251,55 @@
     "title": "Bossy Rossy RuBoot",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["gottmik"]
+      "winnerIds": [
+        "gottmik"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 giftcard from ISLYNYC",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Improvise in the Bossy Rossy After Dark talk show",
-      "winnerIds": ["olivia-lux"]
+      "winnerIds": [
+        "olivia-lux"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Bead It",
-    "topIds": ["kandy-muse", "olivia-lux", "symone"],
-    "bottomIds": ["elliott-with-2-ts", "lala-ri"],
+    "topIds": [
+      "kandy-muse",
+      "olivia-lux",
+      "symone"
+    ],
+    "bottomIds": [
+      "elliott-with-2-ts",
+      "lala-ri"
+    ],
     "lipSync": {
       "song": "Whole Lotta Woman",
-      "queenIds": ["elliott-with-2-ts", "lala-ri"],
-      "winnerIds": ["elliott-with-2-ts"],
-      "eliminatedIds": ["lala-ri"]
+      "queenIds": [
+        "elliott-with-2-ts",
+        "lala-ri"
+      ],
+      "winnerIds": [
+        "elliott-with-2-ts"
+      ],
+      "eliminatedIds": [
+        "lala-ri"
+      ]
     },
-    "guestJudges": [{ "name": "Ts Madison" }]
+    "guestJudges": [
+      {
+        "name": "Ts Madison"
+      }
+    ]
   },
   {
     "id": "US-S13-E08",
@@ -146,17 +308,41 @@
     "title": "Social Media: The Unverified Rusical",
     "maxiChallenge": {
       "name": "Social Media: The Unverified Rusical",
-      "winnerIds": ["rose"]
+      "winnerIds": [
+        "rose"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Yellow, Gorgeous!",
-    "topIds": ["denali", "gottmik", "rose"],
-    "bottomIds": ["kandy-muse", "symone"],
+    "topIds": [
+      "denali",
+      "gottmik",
+      "rose"
+    ],
+    "bottomIds": [
+      "kandy-muse",
+      "symone"
+    ],
     "lipSync": {
       "song": "Boss",
-      "queenIds": ["kandy-muse", "symone"],
-      "winnerIds": ["kandy-muse", "symone"]
+      "queenIds": [
+        "kandy-muse",
+        "symone"
+      ],
+      "winnerIds": [
+        "kandy-muse",
+        "symone"
+      ]
     },
-    "guestJudges": [{ "name": "Jamal Sims" }]
+    "guestJudges": [
+      {
+        "name": "Jamal Sims"
+      }
+    ]
   },
   {
     "id": "US-S13-E09",
@@ -165,22 +351,54 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Audition for The PantyHoes",
-      "winnerIds": ["tina-burner"]
+      "winnerIds": [
+        "tina-burner"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 tip, courtesy of Snag Tights"
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["gottmik"]
+      "winnerIds": [
+        "gottmik"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Fascinating Fascinators",
-    "topIds": ["denali", "gottmik", "rose"],
-    "bottomIds": ["elliott-with-2-ts", "utica-queen"],
+    "topIds": [
+      "denali",
+      "gottmik",
+      "rose"
+    ],
+    "bottomIds": [
+      "elliott-with-2-ts",
+      "utica-queen"
+    ],
     "lipSync": {
       "song": "Fascinated",
-      "queenIds": ["elliott-with-2-ts", "utica-queen"],
-      "winnerIds": ["utica-queen"],
-      "eliminatedIds": ["elliott-with-2-ts"]
+      "queenIds": [
+        "elliott-with-2-ts",
+        "utica-queen"
+      ],
+      "winnerIds": [
+        "utica-queen"
+      ],
+      "eliminatedIds": [
+        "elliott-with-2-ts"
+      ]
     },
-    "guestJudges": [{ "name": "Ts Madison" }]
+    "guestJudges": [
+      {
+        "name": "Ts Madison"
+      }
+    ]
   },
   {
     "id": "US-S13-E10",
@@ -189,18 +407,45 @@
     "title": "Freaky Friday Queens",
     "maxiChallenge": {
       "name": "Makeover another queen into your drag doppelganger",
-      "winnerIds": ["symone", "utica-queen"]
+      "winnerIds": [
+        "symone",
+        "utica-queen"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Drag Doppelgangers",
-    "topIds": ["gottmik", "kandy-muse", "symone", "utica-queen"],
-    "bottomIds": ["denali", "olivia-lux"],
+    "topIds": [
+      "gottmik",
+      "kandy-muse",
+      "symone",
+      "utica-queen"
+    ],
+    "bottomIds": [
+      "denali",
+      "olivia-lux"
+    ],
     "lipSync": {
       "song": "Shackles (Praise You)",
-      "queenIds": ["denali", "olivia-lux"],
-      "winnerIds": ["olivia-lux"],
-      "eliminatedIds": ["denali"]
+      "queenIds": [
+        "denali",
+        "olivia-lux"
+      ],
+      "winnerIds": [
+        "olivia-lux"
+      ],
+      "eliminatedIds": [
+        "denali"
+      ]
     },
-    "guestJudges": [{ "name": "Loni Love" }]
+    "guestJudges": [
+      {
+        "name": "Loni Love"
+      }
+    ]
   },
   {
     "id": "US-S13-E11",
@@ -209,20 +454,50 @@
     "title": "Pop! Goes the Queens",
     "miniChallenge": {
       "name": "Are You Smarter Than The Pit Crew?",
-      "winnerIds": ["kandy-muse"]
+      "winnerIds": [
+        "kandy-muse"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from JJ Malibu",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create and advertise a soft drink brand with a catchy jingle",
-      "winnerIds": ["rose", "symone"]
+      "winnerIds": [
+        "rose",
+        "symone"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Beast Couture",
-    "topIds": ["kandy-muse", "rose", "symone"],
-    "bottomIds": ["tina-burner", "utica-queen"],
+    "topIds": [
+      "kandy-muse",
+      "rose",
+      "symone"
+    ],
+    "bottomIds": [
+      "tina-burner",
+      "utica-queen"
+    ],
     "lipSync": {
       "song": "My Humps",
-      "queenIds": ["tina-burner", "utica-queen"],
-      "winnerIds": ["utica-queen"],
-      "eliminatedIds": ["tina-burner"]
+      "queenIds": [
+        "tina-burner",
+        "utica-queen"
+      ],
+      "winnerIds": [
+        "utica-queen"
+      ],
+      "eliminatedIds": [
+        "tina-burner"
+      ]
     }
   },
   {
@@ -232,21 +507,55 @@
     "title": "Nice Girls Roast",
     "miniChallenge": {
       "name": "Comedy makeup tutorials in pairs",
-      "winnerIds": ["kandy-muse", "rose"]
+      "winnerIds": [
+        "kandy-muse",
+        "rose"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 worth of Anastasia Beverly Hills cosmetics",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Roast of former Miss Congeniality winners",
-      "winnerIds": ["kandy-muse"]
+      "winnerIds": [
+        "kandy-muse"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
-    "topIds": ["gottmik", "kandy-muse", "rose"],
-    "bottomIds": ["symone", "utica-queen"],
+    "topIds": [
+      "gottmik",
+      "kandy-muse",
+      "rose"
+    ],
+    "bottomIds": [
+      "symone",
+      "utica-queen"
+    ],
     "lipSync": {
       "song": "No Tears Left to Cry",
-      "queenIds": ["symone", "utica-queen"],
-      "winnerIds": ["symone"],
-      "eliminatedIds": ["utica-queen"]
+      "queenIds": [
+        "symone",
+        "utica-queen"
+      ],
+      "winnerIds": [
+        "symone"
+      ],
+      "eliminatedIds": [
+        "utica-queen"
+      ]
     },
-    "guestJudges": [{ "name": "Loni Love" }]
+    "guestJudges": [
+      {
+        "name": "Loni Love"
+      }
+    ]
   },
   {
     "id": "US-S13-E13",
@@ -255,29 +564,69 @@
     "title": "Henny, I Shrunk the Drag Queens!",
     "maxiChallenge": {
       "name": "Star in Henny, I Shrunk the Drag Queens!",
-      "winnerIds": ["rose"]
+      "winnerIds": [
+        "rose"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash tip"
+      }
     },
     "runwayTheme": "Haute Pockets",
-    "topIds": ["gottmik", "rose", "symone"],
-    "bottomIds": ["kandy-muse", "olivia-lux"],
+    "topIds": [
+      "gottmik",
+      "rose",
+      "symone"
+    ],
+    "bottomIds": [
+      "kandy-muse",
+      "olivia-lux"
+    ],
     "lipSync": {
       "song": "Strong Enough",
-      "queenIds": ["kandy-muse", "olivia-lux"],
-      "winnerIds": ["kandy-muse"],
-      "eliminatedIds": ["olivia-lux"]
+      "queenIds": [
+        "kandy-muse",
+        "olivia-lux"
+      ],
+      "winnerIds": [
+        "kandy-muse"
+      ],
+      "eliminatedIds": [
+        "olivia-lux"
+      ]
     },
-    "guestJudges": [{ "name": "Cynthia Erivo" }]
+    "guestJudges": [
+      {
+        "name": "Cynthia Erivo"
+      }
+    ]
   },
   {
     "id": "US-S13-E14",
     "seasonId": "US-S13",
     "episodeNumber": 14,
     "title": "Gettin' Lucky",
-    "topIds": ["gottmik", "kandy-muse", "rose", "symone"],
+    "topIds": [
+      "gottmik",
+      "kandy-muse",
+      "rose",
+      "symone"
+    ],
     "lipSync": {
       "song": "I Learned from the Best (HQ2 Radio Mix)",
-      "queenIds": ["gottmik", "kandy-muse", "rose", "symone"],
-      "winnerIds": ["gottmik", "kandy-muse", "rose", "symone"]
+      "queenIds": [
+        "gottmik",
+        "kandy-muse",
+        "rose",
+        "symone"
+      ],
+      "winnerIds": [
+        "gottmik",
+        "kandy-muse",
+        "rose",
+        "symone"
+      ]
     }
   },
   {

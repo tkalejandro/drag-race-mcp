@@ -1,0 +1,80 @@
+{
+  "id": "metamorkid",
+  "name": "Metamorkid",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "DE-S01-E03",
+          "name": "Dragort: The Rusical (CSI: Drag - The Crime Rusical)",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "DE-S01-E09",
+          "name": "In pairs, star in your own web show",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DE-S01-E05",
+          "name": "In teams, play \"Zack Zack\" (Chop Chop)"
+        },
+        {
+          "episodeId": "DE-S01-E06",
+          "name": "Split-face photoshoot",
+          "earnings": {
+            "amount": 1250,
+            "currency": "EUR",
+            "context": "€1,250 cash tip courtesy of Bruno Banani",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "DE-S01-E07",
+          "name": "Perform as rock star groupies",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "DE-S01-E08",
+          "name": "Convince Dianne Brill to let you into her club",
+          "earnings": {
+            "amount": 500,
+            "currency": "EUR",
+            "context": "€500 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "DE-S01-E09",
+          "song": "Rock Me Amadeus"
+        },
+        {
+          "episodeId": "DE-S01-E10",
+          "song": "Heart to Break"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DE-S01-E12",
+          "song": "Rise Like a Phoenix"
+        }
+      ]
+    }
+  ]
+}

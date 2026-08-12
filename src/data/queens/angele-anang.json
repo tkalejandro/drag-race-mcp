@@ -1,0 +1,67 @@
+{
+  "id": "angele-anang",
+  "name": "Angele Anang",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E01",
+          "name": "Re-Born This Way photoshoot"
+        },
+        {
+          "episodeId": "TH-S02-E04",
+          "name": "Give drag makeovers to men in committed relationships, bridal theme",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Two nights and two days at Avani Resort Pattaya, Plus a 30,000฿ voucher",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "TH-S02-E05",
+          "name": "Team lakorn: \"The Haunting Dolls\""
+        },
+        {
+          "episodeId": "TH-S02-E06",
+          "name": "Talk Show with the finalists of Drag Race Thailand Season 1",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "year supply of premium mink lashes by ChiChi, worth 30,000฿",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "TH-S02-E07",
+          "name": "Create a runway look inspired by Thai cuisine",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Two vouchers for a two night/three day stay at Aksorn Rayong The Vitality Collection with a volcano detox treatment from Aksorn Wellness worth ฿55,000",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S02-E07",
+          "name": "Create a portrait out of Thai fruits and vegetables"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S02-E09",
+          "song": "หางเครื่อง (Dancer)"
+        },
+        {
+          "episodeId": "TH-S02-E11",
+          "song": "Last Dance"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

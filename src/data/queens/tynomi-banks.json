@@ -9,12 +9,40 @@
       "challengeWins": [],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "CA-S01-E02", "song": "If You Could Read My Mind" },
-        { "episodeId": "CA-S01-E03", "song": "Absolutely Not (Chanel Club Mix)" }
+        {
+          "episodeId": "CA-S01-E02",
+          "song": "If You Could Read My Mind"
+        },
+        {
+          "episodeId": "CA-S01-E03",
+          "song": "Absolutely Not (Chanel Club Mix)"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E04", "song": "Girlfriend" }
+        {
+          "episodeId": "CA-S01-E04",
+          "song": "Girlfriend"
+        }
       ]
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S02-E02",
+          "song": "Let Me Think About It"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S02-E03",
+          "song": "What the Hell"
+        }
+      ],
+      "eliminatedEpisodeId": "CVTW-S02-E03"
     }
   ]
 }

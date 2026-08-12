@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "CA-S03-E06",
-          "name": "Film a commercial and do a photoshoot to promote an eyeshadow palette"
+          "name": "Film a commercial and do a photoshoot to promote an eyeshadow palette",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 courtesy of Neutrogena",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S03-E08",
-          "name": "The Masquerade Ball"
+          "name": "The Masquerade Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 courtesy of Snag Tights",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -23,6 +35,30 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CVTW-S02-E04",
+          "name": "Lip sync to Just What They Want while being blasted by a high-powered fan"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S02-E04",
+          "song": "Hush Hush; Hush Hush"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S02-E05",
+          "song": "How Far I'll Go (Alessia Cara Version)"
+        }
+      ],
+      "eliminatedEpisodeId": "CVTW-S02-E05"
     }
   ]
 }

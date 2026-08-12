@@ -1,0 +1,25 @@
+{
+  "id": "skandalove",
+  "name": "Skandalove",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S02-E06",
+          "song": "Pem Pem"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S02-E07",
+          "song": "Far l'amore"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S02-E07"
+    }
+  ]
+}

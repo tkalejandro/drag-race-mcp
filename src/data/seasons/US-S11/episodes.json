@@ -6,11 +6,27 @@
     "title": "Whatcha Unpackin?",
     "miniChallenge": {
       "name": "Photoshoot with past Drag Race queens",
-      "winnerIds": ["silky-nutmeg-ganache"]
+      "winnerIds": [
+        "silky-nutmeg-ganache"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from Arda Wigs",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create an outfit using materials belonging to former RuPaul's Drag Race queens",
-      "winnerIds": ["brooke-lynn-hytes"]
+      "winnerIds": [
+        "brooke-lynn-hytes"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "seven night stay in Paris, France courtesy of misterb&b",
+        "isSponsor": true
+      }
     },
     "topIds": [
       "akeria-c-davenport",
@@ -18,14 +34,28 @@
       "plastique-tiara",
       "vanessa-vanjie-mateo"
     ],
-    "bottomIds": ["kahanna-montrese", "soju"],
+    "bottomIds": [
+      "kahanna-montrese",
+      "soju"
+    ],
     "lipSync": {
       "song": "The Best of Both Worlds",
-      "queenIds": ["kahanna-montrese", "soju"],
-      "winnerIds": ["kahanna-montrese"],
-      "eliminatedIds": ["soju"]
+      "queenIds": [
+        "kahanna-montrese",
+        "soju"
+      ],
+      "winnerIds": [
+        "kahanna-montrese"
+      ],
+      "eliminatedIds": [
+        "soju"
+      ]
     },
-    "guestJudges": [{ "name": "Miley Cyrus" }]
+    "guestJudges": [
+      {
+        "name": "Miley Cyrus"
+      }
+    ]
   },
   {
     "id": "US-S11-E02",
@@ -34,11 +64,29 @@
     "title": "Good God Girl, Get Out",
     "miniChallenge": {
       "name": "Photobomb iconic celebrity pictures",
-      "winnerIds": ["brooke-lynn-hytes", "silky-nutmeg-ganache"]
+      "winnerIds": [
+        "brooke-lynn-hytes",
+        "silky-nutmeg-ganache"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 gift card from Fierce Queen",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform in drag film adaptations of Black Panther and Get Out",
-      "winnerIds": ["scarlet-envy", "yvie-oddly"]
+      "winnerIds": [
+        "scarlet-envy",
+        "yvie-oddly"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from The Crème Shop",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "What's Your Sign?",
     "topIds": [
@@ -47,16 +95,30 @@
       "shuga-cain",
       "yvie-oddly"
     ],
-    "bottomIds": ["kahanna-montrese", "mercedes-iman-diamond"],
+    "bottomIds": [
+      "kahanna-montrese",
+      "mercedes-iman-diamond"
+    ],
     "lipSync": {
       "song": "Work Bitch",
-      "queenIds": ["kahanna-montrese", "mercedes-iman-diamond"],
-      "winnerIds": ["mercedes-iman-diamond"],
-      "eliminatedIds": ["kahanna-montrese"]
+      "queenIds": [
+        "kahanna-montrese",
+        "mercedes-iman-diamond"
+      ],
+      "winnerIds": [
+        "mercedes-iman-diamond"
+      ],
+      "eliminatedIds": [
+        "kahanna-montrese"
+      ]
     },
     "guestJudges": [
-      { "name": "Sydelle Noel" },
-      { "name": "Bobby Moynihan" }
+      {
+        "name": "Sydelle Noel"
+      },
+      {
+        "name": "Bobby Moynihan"
+      }
     ]
   },
   {
@@ -66,14 +128,33 @@
     "title": "Diva Worship",
     "miniChallenge": {
       "name": "Seduce your way into a Seduction concert",
-      "winnerIds": ["nina-west", "ra-jah-ohara"]
+      "winnerIds": [
+        "nina-west",
+        "ra-jah-ohara"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,500 gift card from J.J. Malibu",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, star in a she-vangelical talk show worshiping a diva",
-      "winnerIds": ["nina-west"]
+      "winnerIds": [
+        "nina-west"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,500 gift card from ISLYNYC",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Fringe",
-    "topIds": ["nina-west"],
+    "topIds": [
+      "nina-west"
+    ],
     "bottomIds": [
       "akeria-c-davenport",
       "honey-davenport",
@@ -99,11 +180,17 @@
         "scarlet-envy",
         "shuga-cain"
       ],
-      "eliminatedIds": ["honey-davenport"]
+      "eliminatedIds": [
+        "honey-davenport"
+      ]
     },
     "guestJudges": [
-      { "name": "Guillermo Díaz" },
-      { "name": "Troye Sivan" }
+      {
+        "name": "Guillermo Díaz"
+      },
+      {
+        "name": "Troye Sivan"
+      }
     ]
   },
   {
@@ -113,24 +200,57 @@
     "title": "Trump: The Rusical",
     "miniChallenge": {
       "name": "Why You Maddow, Tho?",
-      "winnerIds": ["scarlet-envy"]
+      "winnerIds": [
+        "scarlet-envy"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 gift card from The Divas Jewels",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Trump: The Rusical",
-      "winnerIds": ["silky-nutmeg-ganache"]
+      "winnerIds": [
+        "silky-nutmeg-ganache"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "getaway to The Grand Resort and Spa in Fort Lauderdale"
+      }
     },
     "runwayTheme": "Orange Alert",
-    "topIds": ["brooke-lynn-hytes", "silky-nutmeg-ganache", "yvie-oddly"],
-    "bottomIds": ["mercedes-iman-diamond", "ra-jah-ohara"],
+    "topIds": [
+      "brooke-lynn-hytes",
+      "silky-nutmeg-ganache",
+      "yvie-oddly"
+    ],
+    "bottomIds": [
+      "mercedes-iman-diamond",
+      "ra-jah-ohara"
+    ],
     "lipSync": {
       "song": "Living in America",
-      "queenIds": ["mercedes-iman-diamond", "ra-jah-ohara"],
-      "winnerIds": ["ra-jah-ohara"],
-      "eliminatedIds": ["mercedes-iman-diamond"]
+      "queenIds": [
+        "mercedes-iman-diamond",
+        "ra-jah-ohara"
+      ],
+      "winnerIds": [
+        "ra-jah-ohara"
+      ],
+      "eliminatedIds": [
+        "mercedes-iman-diamond"
+      ]
     },
     "guestJudges": [
-      { "name": "Tiffany Pollard" },
-      { "name": "Joel McHale" }
+      {
+        "name": "Tiffany Pollard"
+      },
+      {
+        "name": "Joel McHale"
+      }
     ]
   },
   {
@@ -140,24 +260,58 @@
     "title": "Monster Ball",
     "miniChallenge": {
       "name": "Create a living doll",
-      "winnerIds": ["ra-jah-ohara"]
+      "winnerIds": [
+        "ra-jah-ohara"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 gift card from Coolhaus Ice Cream",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "The Monster Ball",
-      "winnerIds": ["brooke-lynn-hytes"]
+      "winnerIds": [
+        "brooke-lynn-hytes"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 gift card from Travelgay.com",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Trampy Trick or Treater, Witch Please!, and MILF Eleganza",
-    "topIds": ["brooke-lynn-hytes", "plastique-tiara", "yvie-oddly"],
-    "bottomIds": ["ariel-versace", "shuga-cain"],
+    "topIds": [
+      "brooke-lynn-hytes",
+      "plastique-tiara",
+      "yvie-oddly"
+    ],
+    "bottomIds": [
+      "ariel-versace",
+      "shuga-cain"
+    ],
     "lipSync": {
       "song": "I'm Your Baby Tonight",
-      "queenIds": ["ariel-versace", "shuga-cain"],
-      "winnerIds": ["shuga-cain"],
-      "eliminatedIds": ["ariel-versace"]
+      "queenIds": [
+        "ariel-versace",
+        "shuga-cain"
+      ],
+      "winnerIds": [
+        "shuga-cain"
+      ],
+      "eliminatedIds": [
+        "ariel-versace"
+      ]
     },
     "guestJudges": [
-      { "name": "Cara Delevingne" },
-      { "name": "Elvira" }
+      {
+        "name": "Cara Delevingne"
+      },
+      {
+        "name": "Elvira"
+      }
     ]
   },
   {
@@ -167,25 +321,60 @@
     "title": "The Draglympics",
     "miniChallenge": {
       "name": "Galisthenics with Love Connie",
-      "winnerIds": ["akeria-c-davenport", "plastique-tiara"]
+      "winnerIds": [
+        "akeria-c-davenport",
+        "plastique-tiara"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,500 gift card from MuLondon",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform in a free-style floor performance which includes Fanography, Voguing and Shablam",
-      "winnerIds": ["akeria-c-davenport"]
+      "winnerIds": [
+        "akeria-c-davenport"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from daftboy and $2,500 gift card from Elea's Closet",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "All That Glitters is Gold",
-    "topIds": ["akeria-c-davenport"],
-    "bottomIds": ["ra-jah-ohara", "scarlet-envy"],
+    "topIds": [
+      "akeria-c-davenport"
+    ],
+    "bottomIds": [
+      "ra-jah-ohara",
+      "scarlet-envy"
+    ],
     "lipSync": {
       "song": "Last Dance",
-      "queenIds": ["ra-jah-ohara", "scarlet-envy"],
-      "winnerIds": ["ra-jah-ohara"],
-      "eliminatedIds": ["scarlet-envy"]
+      "queenIds": [
+        "ra-jah-ohara",
+        "scarlet-envy"
+      ],
+      "winnerIds": [
+        "ra-jah-ohara"
+      ],
+      "eliminatedIds": [
+        "scarlet-envy"
+      ]
     },
     "guestJudges": [
-      { "name": "Travis Wall" },
-      { "name": "Mirai Nagasu" },
-      { "name": "Adam Rippon" }
+      {
+        "name": "Travis Wall"
+      },
+      {
+        "name": "Mirai Nagasu"
+      },
+      {
+        "name": "Adam Rippon"
+      }
     ]
   },
   {
@@ -195,24 +384,59 @@
     "title": "From Farm to Runway",
     "miniChallenge": {
       "name": "Participate in a potato sack race serving boob-ography",
-      "winnerIds": ["nina-west", "shuga-cain"]
+      "winnerIds": [
+        "nina-west",
+        "shuga-cain"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip courtesy of Hask",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create an outfit made out of organic materials",
-      "winnerIds": ["plastique-tiara"]
+      "winnerIds": [
+        "plastique-tiara"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "five night trip to Toronto courtesy of Tourism Toronto",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Farm to Runway",
-    "topIds": ["brooke-lynn-hytes", "plastique-tiara", "yvie-oddly"],
-    "bottomIds": ["akeria-c-davenport", "ra-jah-ohara"],
+    "topIds": [
+      "brooke-lynn-hytes",
+      "plastique-tiara",
+      "yvie-oddly"
+    ],
+    "bottomIds": [
+      "akeria-c-davenport",
+      "ra-jah-ohara"
+    ],
     "lipSync": {
       "song": "Strut",
-      "queenIds": ["akeria-c-davenport", "ra-jah-ohara"],
-      "winnerIds": ["akeria-c-davenport"],
-      "eliminatedIds": ["ra-jah-ohara"]
+      "queenIds": [
+        "akeria-c-davenport",
+        "ra-jah-ohara"
+      ],
+      "winnerIds": [
+        "akeria-c-davenport"
+      ],
+      "eliminatedIds": [
+        "ra-jah-ohara"
+      ]
     },
     "guestJudges": [
-      { "name": "Kandi Burruss" },
-      { "name": "Amber Valletta" }
+      {
+        "name": "Kandi Burruss"
+      },
+      {
+        "name": "Amber Valletta"
+      }
     ]
   },
   {
@@ -222,23 +446,56 @@
     "title": "Snatch Game at Sea",
     "miniChallenge": {
       "name": "Pitch your own Self-Help Book",
-      "winnerIds": ["silky-nutmeg-ganache"]
+      "winnerIds": [
+        "silky-nutmeg-ganache"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 credit from Postmates",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game at Sea",
-      "winnerIds": ["silky-nutmeg-ganache"]
+      "winnerIds": [
+        "silky-nutmeg-ganache"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$5,000 gift certificate from VACAYA",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Sequins on the Runway",
-    "topIds": ["nina-west", "shuga-cain", "silky-nutmeg-ganache"],
-    "bottomIds": ["brooke-lynn-hytes", "yvie-oddly"],
+    "topIds": [
+      "nina-west",
+      "shuga-cain",
+      "silky-nutmeg-ganache"
+    ],
+    "bottomIds": [
+      "brooke-lynn-hytes",
+      "yvie-oddly"
+    ],
     "lipSync": {
       "song": "Sorry Not Sorry",
-      "queenIds": ["brooke-lynn-hytes", "yvie-oddly"],
-      "winnerIds": ["brooke-lynn-hytes", "yvie-oddly"]
+      "queenIds": [
+        "brooke-lynn-hytes",
+        "yvie-oddly"
+      ],
+      "winnerIds": [
+        "brooke-lynn-hytes",
+        "yvie-oddly"
+      ]
     },
     "guestJudges": [
-      { "name": "Tony Hale" },
-      { "name": "Clea DuVall" }
+      {
+        "name": "Tony Hale"
+      },
+      {
+        "name": "Clea DuVall"
+      }
     ]
   },
   {
@@ -248,11 +505,27 @@
     "title": "L.A.D.P.!",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["brooke-lynn-hytes"]
+      "winnerIds": [
+        "brooke-lynn-hytes"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card to l.a.Eyeworks",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In pairs, perform in an improvised comedy police sketch for Los Angeles Drag Patrol (L.A.D.P.)",
-      "winnerIds": ["akeria-c-davenport"]
+      "winnerIds": [
+        "akeria-c-davenport"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "2 VIP tickets to Cirque du Soleil: Zumanity in Las Vegas, including flights and hotel accommodations",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Face-Kini Fantasy",
     "topIds": [
@@ -260,17 +533,33 @@
       "brooke-lynn-hytes",
       "silky-nutmeg-ganache"
     ],
-    "bottomIds": ["plastique-tiara", "vanessa-vanjie-mateo"],
+    "bottomIds": [
+      "plastique-tiara",
+      "vanessa-vanjie-mateo"
+    ],
     "lipSync": {
       "song": "Hood Boy",
-      "queenIds": ["plastique-tiara", "vanessa-vanjie-mateo"],
-      "winnerIds": ["vanessa-vanjie-mateo"],
-      "eliminatedIds": ["plastique-tiara"]
+      "queenIds": [
+        "plastique-tiara",
+        "vanessa-vanjie-mateo"
+      ],
+      "winnerIds": [
+        "vanessa-vanjie-mateo"
+      ],
+      "eliminatedIds": [
+        "plastique-tiara"
+      ]
     },
     "guestJudges": [
-      { "name": "Fortune Feimster" },
-      { "name": "Cheyenne Jackson" },
-      { "name": "Natasha Lyonne" }
+      {
+        "name": "Fortune Feimster"
+      },
+      {
+        "name": "Cheyenne Jackson"
+      },
+      {
+        "name": "Natasha Lyonne"
+      }
     ]
   },
   {
@@ -280,24 +569,57 @@
     "title": "Dragracadabra",
     "miniChallenge": {
       "name": "Balls to the Wall",
-      "winnerIds": ["vanessa-vanjie-mateo"]
+      "winnerIds": [
+        "vanessa-vanjie-mateo"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from Dirt Squirrel",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, perform a magic show in front of the judges and a live audience",
-      "winnerIds": ["nina-west"]
+      "winnerIds": [
+        "nina-west"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,000 gift card from Marek & Richard and $3,000 gift card from OutOfOffice.com",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Caftan Realness",
-    "topIds": ["brooke-lynn-hytes", "nina-west"],
-    "bottomIds": ["shuga-cain", "vanessa-vanjie-mateo"],
+    "topIds": [
+      "brooke-lynn-hytes",
+      "nina-west"
+    ],
+    "bottomIds": [
+      "shuga-cain",
+      "vanessa-vanjie-mateo"
+    ],
     "lipSync": {
       "song": "No More Drama",
-      "queenIds": ["shuga-cain", "vanessa-vanjie-mateo"],
-      "winnerIds": ["vanessa-vanjie-mateo"],
-      "eliminatedIds": ["shuga-cain"]
+      "queenIds": [
+        "shuga-cain",
+        "vanessa-vanjie-mateo"
+      ],
+      "winnerIds": [
+        "vanessa-vanjie-mateo"
+      ],
+      "eliminatedIds": [
+        "shuga-cain"
+      ]
     },
     "guestJudges": [
-      { "name": "Katherine Langford" },
-      { "name": "Gina Rodriguez" }
+      {
+        "name": "Katherine Langford"
+      },
+      {
+        "name": "Gina Rodriguez"
+      }
     ]
   },
   {
@@ -307,11 +629,27 @@
     "title": "Bring Back My Queens!",
     "miniChallenge": {
       "name": "Attempt to make the other queens slap them",
-      "winnerIds": ["brooke-lynn-hytes"]
+      "winnerIds": [
+        "brooke-lynn-hytes"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Nails and lashes from KISS USA, and a wig and styling package from Luxelab",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Makeover the eliminated queens",
-      "winnerIds": ["brooke-lynn-hytes"]
+      "winnerIds": [
+        "brooke-lynn-hytes"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "trip for two to Aruba with complimentary airfare and a five-night stay at the Marriott Resort and Stellaris Casino for Brooke Lynn, and a $2,000 gift card from Klein Epstein & Parker for Plastique Tiara",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Drag Family Values",
     "topIds": [
@@ -319,16 +657,30 @@
       "brooke-lynn-hytes",
       "vanessa-vanjie-mateo"
     ],
-    "bottomIds": ["nina-west", "silky-nutmeg-ganache"],
+    "bottomIds": [
+      "nina-west",
+      "silky-nutmeg-ganache"
+    ],
     "lipSync": {
       "song": "No Scrubs",
-      "queenIds": ["nina-west", "silky-nutmeg-ganache"],
-      "winnerIds": ["silky-nutmeg-ganache"],
-      "eliminatedIds": ["nina-west"]
+      "queenIds": [
+        "nina-west",
+        "silky-nutmeg-ganache"
+      ],
+      "winnerIds": [
+        "silky-nutmeg-ganache"
+      ],
+      "eliminatedIds": [
+        "nina-west"
+      ]
     },
     "guestJudges": [
-      { "name": "Lena Waithe" },
-      { "name": "Wanda Sykes" }
+      {
+        "name": "Lena Waithe"
+      },
+      {
+        "name": "Wanda Sykes"
+      }
     ]
   },
   {
@@ -337,15 +689,32 @@
     "episodeNumber": 12,
     "title": "Queens Everywhere",
     "runwayTheme": "Best Drag",
-    "topIds": ["akeria-c-davenport", "yvie-oddly"],
-    "bottomIds": ["brooke-lynn-hytes", "vanessa-vanjie-mateo"],
+    "topIds": [
+      "akeria-c-davenport",
+      "yvie-oddly"
+    ],
+    "bottomIds": [
+      "brooke-lynn-hytes",
+      "vanessa-vanjie-mateo"
+    ],
     "lipSync": {
       "song": "Pride (A Deeper Love)",
-      "queenIds": ["brooke-lynn-hytes", "vanessa-vanjie-mateo"],
-      "winnerIds": ["brooke-lynn-hytes"],
-      "eliminatedIds": ["vanessa-vanjie-mateo"]
+      "queenIds": [
+        "brooke-lynn-hytes",
+        "vanessa-vanjie-mateo"
+      ],
+      "winnerIds": [
+        "brooke-lynn-hytes"
+      ],
+      "eliminatedIds": [
+        "vanessa-vanjie-mateo"
+      ]
     },
-    "guestJudges": [{ "name": "Todrick Hall" }]
+    "guestJudges": [
+      {
+        "name": "Todrick Hall"
+      }
+    ]
   },
   {
     "id": "US-S11-E13",

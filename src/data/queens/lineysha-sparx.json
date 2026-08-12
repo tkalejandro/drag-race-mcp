@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S05-E02",
-          "name": "In teams, lip-sync and re-enact famous Untucked scenes"
+          "name": "In teams, lip-sync and re-enact famous Untucked scenes",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom latex garment from Syren Latex",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

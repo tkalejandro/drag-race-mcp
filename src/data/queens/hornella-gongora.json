@@ -1,0 +1,54 @@
+{
+  "id": "hornella-gongora",
+  "name": "Hornella Góngora",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 3,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S03-E01",
+          "name": "Farm-animal photoshoot",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "photoshoot for Shangay Magazine"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S03-E09",
+          "song": "Vas a volverme loca"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ES-S03-E11"
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "name": "Perform in the Supremme Eleganza Olé Stars Extravaganza talent show",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "two-night stay in Torremolinos",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ESAS-S01-E01",
+          "song": "Me gustas mucho"
+        }
+      ]
+    }
+  ]
+}

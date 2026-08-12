@@ -8,11 +8,22 @@
       "challengeWins": [
         {
           "episodeId": "US-S05-E08",
-          "name": "Create, market, and film a commercial for a signature fragrance"
+          "name": "Create, market, and film a commercial for a signature fragrance",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "selection of handmade corsets from Corset Connection",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S05-E11",
-          "name": "The Sugar Ball"
+          "name": "The Sugar Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "private portrait session with Austin Young"
+          }
         }
       ],
       "miniChallengeWins": [
@@ -42,43 +53,93 @@
       "challengeWins": [
         {
           "episodeId": "AS-S02-E02",
-          "name": "Snatch Game"
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Two VIP tickets to Cirque du Soleil cabaret \"Zumanity\", including airfare and accommodations.",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S02-E04",
-          "name": "In pairs, act in a parody movie sequel from one of RuPaul's favorite movies"
+          "name": "In pairs, act in a parody movie sequel from one of RuPaul's favorite movies",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 shopping spree to Fabric Planet",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S02-E05",
-          "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen"
+          "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Couture Gown from SNL Designs",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S02-E06",
-          "name": "Create drag-influenced products"
+          "name": "Create drag-influenced products",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom wig wardrobe from Weaven Steven, and have their merchandise sold at RuPaul's Drag Con",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "AS-S02-E01",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 shopping spree to L.A. Eyeworks",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "AS-S02-E06",
-          "name": "Play a game of beastly golf"
+          "name": "Play a game of beastly golf",
+          "earnings": {
+            "amount": 2000,
+            "currency": "USD",
+            "context": "$2,000 prize package from Klein Epstein and Parker"
+          }
         }
       ],
       "lipSyncWins": [
         {
           "episodeId": "AS-S02-E02",
-          "song": "Le Freak"
+          "song": "Le Freak",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S02-E04",
-          "song": "Got to Be Real"
+          "song": "Got to Be Real",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S02-E06",
-          "song": "Cherry Bomb"
+          "song": "Cherry Bomb",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
         },
         {
           "episodeId": "AS-S02-E08",

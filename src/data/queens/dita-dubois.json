@@ -1,0 +1,21 @@
+{
+  "id": "dita-dubois",
+  "name": "Dita Dubois",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S04-E03",
+          "song": "Loca"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S04-E03",
+      "missCongeniality": true
+    }
+  ]
+}

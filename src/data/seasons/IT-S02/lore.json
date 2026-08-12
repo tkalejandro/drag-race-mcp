@@ -1,0 +1,20 @@
+[
+  {
+    "id": "it-s02-la-diamond-crown",
+    "title": "La Diamond wins Drag Race Italia Season 2",
+    "summary": "In the Grand Finale (IT-S02-E08), La Diamond, Aura Eternal, and Nehellenia lip-synced to Paola & Chiara's \"Festival\". La Diamond was crowned Drag Race Italia's second Drag Superstar, with Aura Eternal and Nehellenia as runners-up.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["la-diamond", "aura-eternal", "nehellenia"],
+    "seasonIds": ["IT-S02"],
+    "episodeIds": ["IT-S02-E08"]
+  },
+  {
+    "id": "it-s02-narciso-porkchop",
+    "title": "Narciso: Italia Season 2's first Porkchop",
+    "summary": "Narciso was the first contestant eliminated on Drag Race Italia season 2 (IT-S02-E01), losing the lip sync to \"La bambola\" against Panthera Virus.",
+    "tags": ["porkchop"],
+    "queenIds": ["narciso", "panthera-virus"],
+    "seasonIds": ["IT-S02"],
+    "episodeIds": ["IT-S02-E01"]
+  }
+]

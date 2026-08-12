@@ -1,0 +1,29 @@
+{
+  "id": "gigi-ferocious",
+  "name": "Gigi Ferocious",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E05",
+          "song": "Burning for You"
+        },
+        {
+          "episodeId": "TH-S03-E06",
+          "song": "We Are Beautiful"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E07",
+          "song": "Music Lover"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S03-E07"
+    }
+  ]
+}

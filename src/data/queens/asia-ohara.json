@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S10-E03",
-          "name": "In teams, film ads for new dating apps"
+          "name": "In teams, film ads for new dating apps",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to Casper Sleep and a $3,000 gift card to Catherine D'Lish",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S10-E09",
-          "name": "Act in the new hit series \"Breastworld\""
+          "name": "Act in the new hit series \"Breastworld\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "4-night stay at Frog Meadow Farm in Vermont",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -22,15 +34,33 @@
         },
         {
           "episodeId": "US-S10-E06",
-          "name": "Identify objects by only sitting on them"
+          "name": "Identify objects by only sitting on them",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 hair care package from Art Lab Salon",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S10-E08",
-          "name": "Attempt to make RuPaul slap them"
+          "name": "Attempt to make RuPaul slap them",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to Sparkles Rhinestones",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S10-E11",
-          "name": "Decorate a pancake in edible drag"
+          "name": "Decorate a pancake in edible drag",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to The Spa on Rodeo",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

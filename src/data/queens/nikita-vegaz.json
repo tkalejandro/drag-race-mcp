@@ -1,0 +1,36 @@
+{
+  "id": "nikita-vegaz",
+  "name": "Nikita Vegaz",
+  "appearances": [
+    {
+      "seasonId": "DE-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "DE-S01-E04",
+          "name": "In teams, film a commercial selling an \"impossible product\""
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "DE-S01-E06",
+          "name": "Split-face photoshoot",
+          "earnings": {
+            "amount": 1250,
+            "currency": "EUR",
+            "context": "€1,250 cash tip courtesy of Bruno Banani",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DE-S01-E06",
+          "song": "Flowers"
+        }
+      ],
+      "eliminatedEpisodeId": "DE-S01-E06"
+    }
+  ]
+}

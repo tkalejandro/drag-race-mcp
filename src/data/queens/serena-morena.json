@@ -1,0 +1,49 @@
+{
+  "id": "serena-morena",
+  "name": "Serena Morena",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S01-E02",
+          "song": "Mírala, míralo"
+        },
+        {
+          "episodeId": "MX-S01-E03",
+          "song": "XT4S1S"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S01-E05",
+          "song": "Amor prohibido"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S01-E05"
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S03-E04",
+          "song": "I Heard a Rumour"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S03-E05",
+          "song": "Axel F"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S03-E05",
+      "missCongeniality": true
+    }
+  ]
+}

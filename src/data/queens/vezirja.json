@@ -1,0 +1,20 @@
+{
+  "id": "vezirja",
+  "name": "Vezirja",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S03-E03",
+          "song": "Mare caos"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S03-E03"
+    }
+  ]
+}

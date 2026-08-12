@@ -8,15 +8,32 @@
       "challengeWins": [
         {
           "episodeId": "US-S03-E03",
-          "name": "Star in Drag Queens in Outer Space sci-fi spoof trailers"
+          "name": "Star in Drag Queens in Outer Space sci-fi spoof trailers",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "set of hand-sculpted silicone breast plates by Boobs for Queens"
+          }
         },
         {
           "episodeId": "US-S03-E04",
-          "name": "Produce a fitness workout video"
+          "name": "Produce a fitness workout video",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card to Gilt Groupe",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S03-E09",
-          "name": "Film a patriotic message for US military personnel overseas"
+          "name": "Film a patriotic message for US military personnel overseas",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "three-piece luxury luggage set from Antler Luggage",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -69,6 +86,43 @@
         }
       ],
       "eliminatedEpisodeId": "AS-S01-E04"
+    },
+    {
+      "seasonId": "AS-S05",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S05-E06"
+    },
+    {
+      "seasonId": "CVTW-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S02-E03",
+          "name": "The Glamorous Drag Queen Ball"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CVTW-S02-E03",
+          "name": "Participate in a motion capture film audition"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S02-E05",
+          "song": "How Far I'll Go (Alessia Cara Version)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S02-E06",
+          "song": "Love Can Move Mountains"
+        }
+      ]
     }
   ]
 }

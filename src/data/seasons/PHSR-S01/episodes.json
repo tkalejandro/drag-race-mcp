@@ -1,0 +1,512 @@
+[
+  {
+    "id": "PHSR-S01-E01",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 1,
+    "title": "Miss Shutacca: Slaysian Edition",
+    "miniChallenge": {
+      "name": "Perform in hairography dance-battles",
+      "winnerIds": [
+        "khianna"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "cash tip of ₱20,000 courtesy of Cream Silk",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Present two looks for The Miss Shutacca: Slaysian Edition",
+      "winnerIds": [
+        "khianna",
+        "siam-phusri"
+      ]
+    },
+    "runwayTheme": "From Roots to Runway / Ruveal Yourself",
+    "topIds": [
+      "khianna",
+      "siam-phusri"
+    ],
+    "bottomIds": [
+      "madame-yoko",
+      "sum-ting-wong"
+    ],
+    "lipSync": {
+      "song": "Debut",
+      "queenIds": [
+        "khianna",
+        "siam-phusri"
+      ],
+      "winnerIds": [
+        "khianna"
+      ],
+      "eliminatedIds": [
+        "madame-yoko"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "cash tip of ₱80,000"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Jimbo",
+        "queenId": "jimbo"
+      },
+      {
+        "name": "Maxie",
+        "queenId": "maxie"
+      }
+    ]
+  },
+  {
+    "id": "PHSR-S01-E02",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 2,
+    "title": "Asian Eyyy!",
+    "miniChallenge": {
+      "name": "Play a traditional game of Kadang-Kadang",
+      "winnerIds": [
+        "khianna"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "cash tip of ₱20,000"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to Asian Eyyy!",
+      "winnerIds": [
+        "arizona-brandy",
+        "vinas-deluxe"
+      ]
+    },
+    "runwayTheme": "Tech Couture",
+    "topIds": [
+      "arizona-brandy",
+      "vinas-deluxe"
+    ],
+    "bottomIds": [
+      "ivory-glaze",
+      "sum-ting-wong"
+    ],
+    "lipSync": {
+      "song": "XL",
+      "queenIds": [
+        "arizona-brandy",
+        "vinas-deluxe"
+      ],
+      "winnerIds": [
+        "vinas-deluxe"
+      ],
+      "eliminatedIds": [
+        "sum-ting-wong"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "cash tip of ₱80,000 courtesy of Cream Silk",
+        "isSponsor": true
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "Jimbo",
+        "queenId": "jimbo"
+      },
+      {
+        "name": "Maxie",
+        "queenId": "maxie"
+      }
+    ]
+  },
+  {
+    "id": "PHSR-S01-E03",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 3,
+    "title": "Holy Cacao!",
+    "miniChallenge": {
+      "name": "Play a game of Kep Kep, Boob-ay",
+      "winnerIds": [
+        "brigiding"
+      ],
+      "earnings": {
+        "amount": 20000,
+        "currency": "PHP",
+        "context": "cash tip of ₱20,000"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Create an outfit made out of fossilized cacao leaves",
+      "winnerIds": [
+        "kitty-space",
+        "vinas-deluxe"
+      ]
+    },
+    "runwayTheme": "Holy Cacao!",
+    "topIds": [
+      "kitty-space",
+      "vinas-deluxe"
+    ],
+    "bottomIds": [
+      "arizona-brandy",
+      "ivory-glaze"
+    ],
+    "lipSync": {
+      "song": "Winna Winna",
+      "queenIds": [
+        "kitty-space",
+        "vinas-deluxe"
+      ],
+      "winnerIds": [
+        "vinas-deluxe"
+      ],
+      "eliminatedIds": [
+        "ivory-glaze"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 80000,
+        "currency": "PHP",
+        "context": "cash tip of ₱80,000 and a year's supply of products courtesy of Auro Chocolate",
+        "isSponsor": true
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "KaladKaren"
+      },
+      {
+        "name": "Pangina Heals",
+        "queenId": "pangina-heals"
+      }
+    ]
+  },
+  {
+    "id": "PHSR-S01-E04",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 4,
+    "title": "Crazy Bitch Slaysians: The Musical",
+    "miniChallenge": {
+      "name": "Drop Balls: bet on which Pit Crew member's face a ball will land on",
+      "winnerIds": [
+        "siam-phusri"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Perform in Crazy Bitch Slaysians: The Musical",
+      "winnerIds": [
+        "arizona-brandy",
+        "brigiding"
+      ]
+    },
+    "topIds": [
+      "arizona-brandy",
+      "brigiding"
+    ],
+    "bottomIds": [
+      "bernie",
+      "kitty-space"
+    ],
+    "lipSync": {
+      "song": "Cartoon Heroes",
+      "queenIds": [
+        "arizona-brandy",
+        "brigiding"
+      ],
+      "winnerIds": [
+        "arizona-brandy"
+      ],
+      "eliminatedIds": [
+        "kitty-space"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "KaladKaren"
+      },
+      {
+        "name": "Pangina Heals",
+        "queenId": "pangina-heals"
+      }
+    ]
+  },
+  {
+    "id": "PHSR-S01-E05",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 5,
+    "title": "Homecoming Queens",
+    "miniChallenge": {
+      "name": "Spider Gay gladiator battle dressed as spider monkeys",
+      "winnerIds": [
+        "khianna"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "In pairs, makeover Overseas Filipino Workers",
+      "winnerIds": [
+        "brigiding",
+        "suki-doll"
+      ]
+    },
+    "runwayTheme": "Homecoming Gala Night",
+    "topIds": [
+      "brigiding",
+      "suki-doll"
+    ],
+    "bottomIds": [
+      "arizona-brandy",
+      "bernie"
+    ],
+    "lipSync": {
+      "song": "Room",
+      "queenIds": [
+        "brigiding",
+        "suki-doll"
+      ],
+      "winnerIds": [
+        "brigiding"
+      ],
+      "eliminatedIds": [
+        "bernie"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Alyssa Edwards",
+        "queenId": "alyssa-edwards"
+      },
+      {
+        "name": "Captivating Katkat",
+        "queenId": "captivating-katkat"
+      }
+    ]
+  },
+  {
+    "id": "PHSR-S01-E06",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 6,
+    "title": "Snatch Election",
+    "maxiChallenge": {
+      "name": "Impersonate celebrities in the Snatch Election for Drag President of the Slaysian Nation",
+      "winnerIds": [
+        "brigiding",
+        "vinas-deluxe",
+        "yuhua-hamasaki"
+      ]
+    },
+    "topIds": [
+      "brigiding",
+      "vinas-deluxe",
+      "yuhua-hamasaki"
+    ],
+    "bottomIds": [
+      "khianna",
+      "siam-phusri"
+    ],
+    "lipSync": {
+      "song": "Out of My Head",
+      "queenIds": [
+        "brigiding",
+        "vinas-deluxe",
+        "yuhua-hamasaki"
+      ],
+      "winnerIds": [
+        "yuhua-hamasaki"
+      ],
+      "eliminatedIds": [
+        "siam-phusri"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Alyssa Edwards",
+        "queenId": "alyssa-edwards"
+      },
+      {
+        "name": "Captivating Katkat",
+        "queenId": "captivating-katkat"
+      }
+    ]
+  },
+  {
+    "id": "PHSR-S01-E07",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 7,
+    "title": "Lip Sync Lalaparuza Smackdown",
+    "maxiChallenge": {
+      "name": "Compete in a Lip Sync LaLaPaRuZa Slaysian Smackdown tournament",
+      "winnerIds": [
+        "brigiding"
+      ]
+    },
+    "topIds": [
+      "arizona-brandy",
+      "brigiding",
+      "suki-doll"
+    ],
+    "bottomIds": [
+      "khianna",
+      "vinas-deluxe",
+      "yuhua-hamasaki"
+    ],
+    "lipSync": {
+      "song": "Misbehave",
+      "queenIds": [
+        "khianna",
+        "yuhua-hamasaki"
+      ],
+      "winnerIds": [
+        "khianna"
+      ],
+      "eliminatedIds": [
+        "yuhua-hamasaki"
+      ],
+      "kind": "smackdown"
+    },
+    "guestJudges": [
+      {
+        "name": "Sasha Colby",
+        "queenId": "sasha-colby"
+      },
+      {
+        "name": "Precious Paula Nicole",
+        "queenId": "precious-paula-nicole"
+      }
+    ]
+  },
+  {
+    "id": "PHSR-S01-E08",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 8,
+    "title": "Dragcon Slaysia!",
+    "miniChallenge": {
+      "name": "Photobombing photoshoot featuring provincial tourist spots in the Philippines",
+      "winnerIds": [
+        "khianna"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Design and present a booth for DragCon Slaysia",
+      "winnerIds": [
+        "arizona-brandy",
+        "suki-doll"
+      ]
+    },
+    "topIds": [
+      "arizona-brandy",
+      "suki-doll"
+    ],
+    "bottomIds": [
+      "khianna",
+      "vinas-deluxe"
+    ],
+    "lipSync": {
+      "song": "Race Car",
+      "queenIds": [
+        "khianna",
+        "vinas-deluxe"
+      ],
+      "winnerIds": [
+        "vinas-deluxe"
+      ],
+      "eliminatedIds": [
+        "khianna"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Sasha Colby",
+        "queenId": "sasha-colby"
+      },
+      {
+        "name": "Precious Paula Nicole",
+        "queenId": "precious-paula-nicole"
+      }
+    ]
+  },
+  {
+    "id": "PHSR-S01-E09",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 9,
+    "title": "High Time",
+    "maxiChallenge": {
+      "name": "Record and perform High Time, the debut single from girl group Reyna",
+      "winnerIds": [
+        "brigiding"
+      ]
+    },
+    "topIds": [
+      "brigiding"
+    ],
+    "bottomIds": [
+      "suki-doll",
+      "vinas-deluxe"
+    ],
+    "lipSync": {
+      "song": "Power",
+      "queenIds": [
+        "suki-doll",
+        "vinas-deluxe"
+      ],
+      "winnerIds": [],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Marina Summers",
+        "queenId": "marina-summers"
+      },
+      {
+        "name": "Nymphia Wind",
+        "queenId": "nymphia-wind"
+      }
+    ]
+  },
+  {
+    "id": "PHSR-S01-E10",
+    "seasonId": "PHSR-S01",
+    "episodeNumber": 10,
+    "title": "Slaysian Grand T.I.T.E! (Totally Impressive Talent Extravaganza!)",
+    "maxiChallenge": {
+      "name": "Perform a talent in the Slaysian Grand Totally Impressive Talent Extravaganza",
+      "winnerIds": []
+    },
+    "topIds": [
+      "arizona-brandy",
+      "brigiding",
+      "suki-doll",
+      "vinas-deluxe"
+    ],
+    "lipSync": {
+      "song": "Born to Do Drag",
+      "queenIds": [
+        "brigiding",
+        "vinas-deluxe"
+      ],
+      "winnerIds": [
+        "brigiding"
+      ],
+      "kind": "for-the-crown"
+    },
+    "guestJudges": [
+      {
+        "name": "Marina Summers",
+        "queenId": "marina-summers"
+      },
+      {
+        "name": "Nymphia Wind",
+        "queenId": "nymphia-wind"
+      }
+    ]
+  }
+]

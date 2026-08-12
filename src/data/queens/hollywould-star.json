@@ -1,0 +1,39 @@
+{
+  "id": "hollywould-star",
+  "name": "Hollywould Star",
+  "appearances": [
+    {
+      "seasonId": "DU-S03",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S03-E01",
+          "name": "Write, record, and perform verses to a mashup of RuPaul's \"Super Queen\" and \"Sissy That Walk\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "custom prosthetics valued at $3,500"
+          }
+        },
+        {
+          "episodeId": "DU-S03-E05",
+          "name": "Write, record, and perform verses to \"BMX Bitches\"",
+          "earnings": {
+            "amount": 5000,
+            "currency": "AUD",
+            "context": "$5,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S03-E07",
+          "song": "Not About You"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S03-E07"
+    }
+  ]
+}

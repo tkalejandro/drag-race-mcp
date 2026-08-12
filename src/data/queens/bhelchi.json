@@ -1,0 +1,25 @@
+{
+  "id": "bhelchi",
+  "name": "Bhelchi",
+  "appearances": [
+    {
+      "seasonId": "BR-S02",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S02-E04",
+          "name": "In teams, host a show for \"Grag News\""
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S02-E09",
+          "song": "Jeito Sexy"
+        }
+      ],
+      "eliminatedEpisodeId": "BR-S02-E09"
+    }
+  ]
+}

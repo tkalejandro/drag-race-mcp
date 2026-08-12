@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S09-E08",
-          "name": "Perform a roast of Michelle Visage"
+          "name": "Perform a roast of Michelle Visage",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "5-year membership with SquareSpace"
+          }
         }
       ],
       "miniChallengeWins": [],

@@ -1,0 +1,61 @@
+{
+  "id": "la-veuve",
+  "name": "La Veuve",
+  "appearances": [
+    {
+      "seasonId": "BE-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "BE-S02-E01",
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "BE-S02-E06",
+          "name": "Act in a parody of Murder on the Orient Express called \"Le Crime du Drag Express\"",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "BE-S02-E07",
+          "name": "Makeover a loved one",
+          "earnings": {
+            "amount": 1000,
+            "currency": "EUR",
+            "context": "€1,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BE-S02-E05",
+          "name": "Everybody Loves Puppets"
+        },
+        {
+          "episodeId": "BE-S02-E06",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BE-S02-E03",
+          "song": "Bruxelles je t'aime"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BE-S02-E08",
+          "song": "Too Young"
+        }
+      ]
+    }
+  ]
+}

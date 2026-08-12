@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E02",
-          "name": "Perform in drag film adaptations of Black Panther and Get Out"
+          "name": "Perform in drag film adaptations of Black Panther and Get Out",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from The Crème Shop",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -19,6 +25,30 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S07",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S07-E06",
+          "name": "Write, record, and perform throwback tracks as Y2K girl groups"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S07-E12",
+          "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S07-E06",
+          "song": "Why'd You Come in Here Lookin' Like That"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S07-E12"
     }
   ]
 }

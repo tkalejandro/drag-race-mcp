@@ -61,6 +61,14 @@ for (const ep of episodes) {
     continue;
   }
   for (const id of ls.queenIds) {
+    // Guest Lip Sync Assassins (etc.) appear in queenIds but not castIds —
+    // require a queen file, skip appearance win/loss mirroring.
+    if (!season.castIds.includes(id)) {
+      if (!fs.existsSync(path.join(queensDir, `${id}.json`))) {
+        errors.push(`${id} guest lipsync participant missing queen file (${ep.id})`);
+      }
+      continue;
+    }
     const a = queens[id]?.appearances.find((x) => x.seasonId === seasonId);
     const hasWin = a?.lipSyncWins.some((w) => w.episodeId === ep.id);
     const hasLoss = a?.lipSyncLosses.some((w) => w.episodeId === ep.id);

@@ -1,0 +1,20 @@
+{
+  "id": "mercedez-vulcao",
+  "name": "Mercedez Vulcão",
+  "appearances": [
+    {
+      "seasonId": "BR-S02",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S02-E05",
+          "song": "Tombei"
+        }
+      ],
+      "eliminatedEpisodeId": "BR-S02-E05"
+    }
+  ]
+}

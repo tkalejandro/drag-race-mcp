@@ -1,0 +1,74 @@
+{
+  "id": "MX-S02",
+  "franchise": "MX",
+  "name": "Drag Race México Season 2",
+  "seasonNumber": 2,
+  "year": 2024,
+  "episodeCount": 12,
+  "episodeIds": [
+    "MX-S02-E01",
+    "MX-S02-E02",
+    "MX-S02-E03",
+    "MX-S02-E04",
+    "MX-S02-E05",
+    "MX-S02-E06",
+    "MX-S02-E07",
+    "MX-S02-E08",
+    "MX-S02-E09",
+    "MX-S02-E10",
+    "MX-S02-E11",
+    "MX-S02-E12"
+  ],
+  "castIds": [
+    "leexa-fox",
+    "eva-blunt",
+    "horacio-potasio",
+    "jenary-bloom",
+    "elektra-vandergeld",
+    "unique",
+    "luna-lansman",
+    "suculenta",
+    "ava-pocket",
+    "garconne",
+    "maria-bonita",
+    "nina-de-la-fuente",
+    "ignus-ars"
+  ],
+  "winnerIds": [
+    "leexa-fox"
+  ],
+  "runnerUpIds": [
+    "eva-blunt",
+    "horacio-potasio",
+    "jenary-bloom"
+  ],
+  "missCongenialityId": "luna-lansman",
+  "porkchopIds": [
+    "ignus-ars"
+  ],
+  "hosts": [
+    {
+      "name": "Lolita Banana"
+    },
+    {
+      "name": "Taiga Brava"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Lolita Banana"
+    },
+    {
+      "name": "Taiga Brava"
+    },
+    {
+      "name": "Oscar Madrazo"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "MXN",
+    "context": "No cash prize"
+  }
+}

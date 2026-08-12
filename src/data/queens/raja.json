@@ -8,15 +8,32 @@
       "challengeWins": [
         {
           "episodeId": "US-S03-E02",
-          "name": "Create an outfit made from Christmas-themed items"
+          "name": "Create an outfit made from Christmas-themed items",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,000 gift card to Sequin Queen",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S03-E07",
-          "name": "Create an outfit inspired by a bakery cake"
+          "name": "Create an outfit inspired by a bakery cake",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "shopping spree at L.A. Eyeworks",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S03-E10",
-          "name": "Perform RuPaul's Superstar in different music genres"
+          "name": "Perform RuPaul's Superstar in different music genres",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "An original, custom gown by Marco Marco"
+          }
         }
       ],
       "miniChallengeWins": [
@@ -40,6 +57,45 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S07",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S07-E05",
+          "name": "Write and deliver Draguation Speeches"
+        },
+        {
+          "episodeId": "AS-S07-E08",
+          "name": "Act in Santa's School For Girls"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S07-E08",
+          "song": "Super Freak",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S07-E12",
+          "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S07-E05",
+          "song": "Better in Color"
+        }
+      ]
     }
+  ],
+  "aliases": [
+    "Raja Gemini"
   ]
 }

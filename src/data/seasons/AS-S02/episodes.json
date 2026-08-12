@@ -6,21 +6,64 @@
     "title": "All Star Talent Show Extravaganza",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["alaska"]
+      "winnerIds": [
+        "alaska"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,000 shopping spree to L.A. Eyeworks",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show in front of the judges and a live audience",
-      "winnerIds": ["roxxxy-andrews", "tatianna"]
+      "winnerIds": [
+        "roxxxy-andrews",
+        "tatianna"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "collection of jewelry from Fierce Drag Jewels",
+        "isSponsor": true
+      }
     },
-    "topIds": ["roxxxy-andrews", "tatianna", "alaska", "ginger-minj"],
-    "bottomIds": ["adore-delano", "coco-montrese", "phi-phi-ohara"],
+    "topIds": [
+      "roxxxy-andrews",
+      "tatianna",
+      "alaska",
+      "ginger-minj"
+    ],
+    "bottomIds": [
+      "adore-delano",
+      "coco-montrese",
+      "phi-phi-ohara"
+    ],
     "lipSync": {
       "song": "Shake It Off",
-      "queenIds": ["roxxxy-andrews", "tatianna"],
-      "winnerIds": ["roxxxy-andrews"],
-      "eliminatedIds": ["coco-montrese"]
+      "queenIds": [
+        "roxxxy-andrews",
+        "tatianna"
+      ],
+      "winnerIds": [
+        "roxxxy-andrews"
+      ],
+      "eliminatedIds": [
+        "coco-montrese"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
-    "guestJudges": [{ "name": "Raven-Symoné" }]
+    "guestJudges": [
+      {
+        "name": "Raven-Symoné"
+      }
+    ]
   },
   {
     "id": "AS-S02-E02",
@@ -29,18 +72,52 @@
     "title": "All Stars Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["alaska", "katya"]
+      "winnerIds": [
+        "alaska",
+        "katya"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Two VIP tickets to Cirque du Soleil cabaret \"Zumanity\", including airfare and accommodations.",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Latex Eleganza",
-    "topIds": ["alaska", "katya", "phi-phi-ohara"],
-    "bottomIds": ["detox", "roxxxy-andrews", "tatianna"],
+    "topIds": [
+      "alaska",
+      "katya",
+      "phi-phi-ohara"
+    ],
+    "bottomIds": [
+      "detox",
+      "roxxxy-andrews",
+      "tatianna"
+    ],
     "lipSync": {
       "song": "Le Freak",
-      "queenIds": ["alaska", "katya"],
-      "winnerIds": ["alaska"],
-      "eliminatedIds": ["tatianna"]
+      "queenIds": [
+        "alaska",
+        "katya"
+      ],
+      "winnerIds": [
+        "alaska"
+      ],
+      "eliminatedIds": [
+        "tatianna"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
-    "guestJudges": [{ "name": "Ross Mathews" }]
+    "guestJudges": [
+      {
+        "name": "Ross Mathews"
+      }
+    ]
   },
   {
     "id": "AS-S02-E03",
@@ -49,18 +126,50 @@
     "title": "HERstory of the World",
     "maxiChallenge": {
       "name": "Perform a lip-syncing dance number dedicated to legendary historical women",
-      "winnerIds": ["alyssa-edwards", "detox"]
+      "winnerIds": [
+        "alyssa-edwards",
+        "detox"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "three-night getaway to Palm Springs, California",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Future of Drag",
-    "topIds": ["alyssa-edwards", "detox"],
-    "bottomIds": ["ginger-minj", "katya"],
+    "topIds": [
+      "alyssa-edwards",
+      "detox"
+    ],
+    "bottomIds": [
+      "ginger-minj",
+      "katya"
+    ],
     "lipSync": {
       "song": "Tell It to My Heart",
-      "queenIds": ["alyssa-edwards", "detox"],
-      "winnerIds": ["alyssa-edwards"],
-      "eliminatedIds": ["ginger-minj"]
+      "queenIds": [
+        "alyssa-edwards",
+        "detox"
+      ],
+      "winnerIds": [
+        "alyssa-edwards"
+      ],
+      "eliminatedIds": [
+        "ginger-minj"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
-    "guestJudges": [{ "name": "Jeremy Scott" }]
+    "guestJudges": [
+      {
+        "name": "Jeremy Scott"
+      }
+    ]
   },
   {
     "id": "AS-S02-E04",
@@ -69,18 +178,51 @@
     "title": "Drag Movie Shequels",
     "maxiChallenge": {
       "name": "In pairs, act in a parody movie sequel from one of RuPaul's favorite movies",
-      "winnerIds": ["alaska", "phi-phi-ohara"]
+      "winnerIds": [
+        "alaska",
+        "phi-phi-ohara"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 shopping spree to Fabric Planet",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Two Looks in One",
-    "topIds": ["alaska", "phi-phi-ohara"],
-    "bottomIds": ["alyssa-edwards", "katya", "roxxxy-andrews"],
+    "topIds": [
+      "alaska",
+      "phi-phi-ohara"
+    ],
+    "bottomIds": [
+      "alyssa-edwards",
+      "katya",
+      "roxxxy-andrews"
+    ],
     "lipSync": {
       "song": "Got to Be Real",
-      "queenIds": ["alaska", "phi-phi-ohara"],
-      "winnerIds": ["alaska"],
-      "eliminatedIds": ["alyssa-edwards"]
+      "queenIds": [
+        "alaska",
+        "phi-phi-ohara"
+      ],
+      "winnerIds": [
+        "alaska"
+      ],
+      "eliminatedIds": [
+        "alyssa-edwards"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
-    "guestJudges": [{ "name": "Nicole Scherzinger" }]
+    "guestJudges": [
+      {
+        "name": "Nicole Scherzinger"
+      }
+    ]
   },
   {
     "id": "AS-S02-E05",
@@ -89,17 +231,52 @@
     "title": "Revenge of the Queens",
     "maxiChallenge": {
       "name": "Perform a live stand-up comedy routine partnered with a previously eliminated queen",
-      "winnerIds": ["alaska", "alyssa-edwards", "detox", "tatianna"]
+      "winnerIds": [
+        "alaska",
+        "alyssa-edwards",
+        "detox",
+        "tatianna"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "Couture Gown from SNL Designs",
+        "isSponsor": true
+      }
     },
-    "topIds": ["alyssa-edwards", "tatianna"],
-    "bottomIds": ["phi-phi-ohara", "roxxxy-andrews"],
+    "topIds": [
+      "alyssa-edwards",
+      "tatianna"
+    ],
+    "bottomIds": [
+      "phi-phi-ohara",
+      "roxxxy-andrews"
+    ],
     "lipSync": {
       "song": "Shut Up and Drive",
-      "queenIds": ["alyssa-edwards", "tatianna"],
-      "winnerIds": ["alyssa-edwards", "tatianna"],
-      "eliminatedIds": ["phi-phi-ohara"]
+      "queenIds": [
+        "alyssa-edwards",
+        "tatianna"
+      ],
+      "winnerIds": [
+        "alyssa-edwards",
+        "tatianna"
+      ],
+      "eliminatedIds": [
+        "phi-phi-ohara"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
-    "guestJudges": [{ "name": "Ross Mathews" }]
+    "guestJudges": [
+      {
+        "name": "Ross Mathews"
+      }
+    ]
   },
   {
     "id": "AS-S02-E06",
@@ -108,22 +285,61 @@
     "title": "Drag Fish Tank",
     "miniChallenge": {
       "name": "Play a game of beastly golf",
-      "winnerIds": ["alaska"]
+      "winnerIds": [
+        "alaska"
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "USD",
+        "context": "$2,000 prize package from Klein Epstein and Parker"
+      }
     },
     "maxiChallenge": {
       "name": "Create drag-influenced products",
-      "winnerIds": ["alaska", "katya"]
+      "winnerIds": [
+        "alaska",
+        "katya"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom wig wardrobe from Weaven Steven, and have their merchandise sold at RuPaul's Drag Con",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Pants",
-    "topIds": ["alaska", "katya"],
-    "bottomIds": ["roxxxy-andrews", "tatianna"],
+    "topIds": [
+      "alaska",
+      "katya"
+    ],
+    "bottomIds": [
+      "roxxxy-andrews",
+      "tatianna"
+    ],
     "lipSync": {
       "song": "Cherry Bomb",
-      "queenIds": ["alaska", "katya"],
-      "winnerIds": ["alaska"],
-      "eliminatedIds": ["tatianna"]
+      "queenIds": [
+        "alaska",
+        "katya"
+      ],
+      "winnerIds": [
+        "alaska"
+      ],
+      "eliminatedIds": [
+        "tatianna"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
-    "guestJudges": [{ "name": "Graham Norton" }]
+    "guestJudges": [
+      {
+        "name": "Graham Norton"
+      }
+    ]
   },
   {
     "id": "AS-S02-E07",
@@ -132,17 +348,49 @@
     "title": "Family That Drags Together",
     "maxiChallenge": {
       "name": "Makeover a family member",
-      "winnerIds": ["detox", "katya"]
+      "winnerIds": [
+        "detox",
+        "katya"
+      ],
+      "earnings": {
+        "amount": 2000,
+        "currency": "USD",
+        "context": "$2,000 gift certificate from Marc Jacobs"
+      }
     },
-    "topIds": ["detox", "katya"],
-    "bottomIds": ["alaska", "alyssa-edwards", "roxxxy-andrews"],
+    "topIds": [
+      "detox",
+      "katya"
+    ],
+    "bottomIds": [
+      "alaska",
+      "alyssa-edwards",
+      "roxxxy-andrews"
+    ],
     "lipSync": {
       "song": "Step It Up",
-      "queenIds": ["detox", "katya"],
-      "winnerIds": ["detox"],
-      "eliminatedIds": ["alyssa-edwards"]
+      "queenIds": [
+        "detox",
+        "katya"
+      ],
+      "winnerIds": [
+        "detox"
+      ],
+      "eliminatedIds": [
+        "alyssa-edwards"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
     },
-    "guestJudges": [{ "name": "Aubrey Plaza" }]
+    "guestJudges": [
+      {
+        "name": "Aubrey Plaza"
+      }
+    ]
   },
   {
     "id": "AS-S02-E08",
@@ -151,8 +399,15 @@
     "title": "All Stars Supergroup",
     "lipSync": {
       "song": "If I Were Your Woman",
-      "queenIds": ["alaska", "detox", "katya"],
-      "winnerIds": ["alaska"]
+      "queenIds": [
+        "alaska",
+        "detox",
+        "katya"
+      ],
+      "winnerIds": [
+        "alaska"
+      ],
+      "kind": "for-the-crown"
     }
   },
   {

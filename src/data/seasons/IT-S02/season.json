@@ -1,0 +1,63 @@
+{
+  "id": "IT-S02",
+  "franchise": "IT",
+  "name": "Drag Race Italia Season 2",
+  "seasonNumber": 2,
+  "year": 2022,
+  "episodeCount": 8,
+  "episodeIds": [
+    "IT-S02-E01",
+    "IT-S02-E02",
+    "IT-S02-E03",
+    "IT-S02-E04",
+    "IT-S02-E05",
+    "IT-S02-E06",
+    "IT-S02-E07",
+    "IT-S02-E08"
+  ],
+  "castIds": [
+    "la-diamond",
+    "aura-eternal",
+    "nehellenia",
+    "la-petite-noire",
+    "skandalove",
+    "gioffre",
+    "panthera-virus",
+    "obama",
+    "tanissa-yonce",
+    "narciso"
+  ],
+  "winnerIds": [
+    "la-diamond"
+  ],
+  "runnerUpIds": [
+    "aura-eternal",
+    "nehellenia"
+  ],
+  "missCongenialityId": "nehellenia",
+  "porkchopIds": [
+    "narciso"
+  ],
+  "hosts": [
+    {
+      "name": "Priscilla"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Priscilla"
+    },
+    {
+      "name": "Tommaso Zorzi"
+    },
+    {
+      "name": "Chiara Francini"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "EUR",
+    "context": "No cash prize"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "maya-bharo",
+  "name": "Maya B'Haro",
+  "appearances": [
+    {
+      "seasonId": "TH-S02",
+      "placement": 11,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S02-E03",
+          "name": "Princess photoshoot"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S02-E03",
+          "name": "Create a crown from scrap materials"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S02-E05",
+          "song": "สุดฤทธิ์สุดเดช (Suprit Suddet)"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S02-E05",
+      "missCongeniality": true
+    }
+  ]
+}

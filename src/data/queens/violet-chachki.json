@@ -8,15 +8,32 @@
       "challengeWins": [
         {
           "episodeId": "US-S07-E01",
-          "name": "Create a resort-wear tearaway to reveal a nude illusion"
+          "name": "Create a resort-wear tearaway to reveal a nude illusion",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Dekoy hair care products",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S07-E10",
-          "name": "In pairs, dance in a live drag dance spectacular"
+          "name": "In pairs, dance in a live drag dance spectacular",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "An original gown from Mountbatten Concepts and a gift card from Klein Epstein & Parker",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S07-E11",
-          "name": "The Hello Kitty Ball"
+          "name": "The Hello Kitty Ball",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Hello Kitty Extravaganza Package"
+          }
         }
       ],
       "miniChallengeWins": [

@@ -1,0 +1,74 @@
+{
+  "id": "samantha-ballentines",
+  "name": "Samantha Ballentines",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S02-E01",
+          "song": "Todos me miran"
+        },
+        {
+          "episodeId": "ES-S02-E02",
+          "song": "Yo quiero bailar"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E03",
+          "song": "Un año de amor"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S02-E03",
+      "missCongeniality": true
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "ESAS-S01-E04",
+          "name": "Write, record, and perform verses as two girl groups for Superstar",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "set of Krash Kosmetics makeup products valued at €500",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "ESAS-S01-E05",
+          "name": "Perform a roast of the judges panel and fellow contestants",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "surprise European trip from Waynabox",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ESAS-S01-E04",
+          "song": "Mafiosa"
+        },
+        {
+          "episodeId": "ESAS-S01-E05",
+          "song": "La zarzamora"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ESAS-S01-E07",
+          "song": "Eloise"
+        }
+      ],
+      "missCongeniality": true
+    }
+  ]
+}

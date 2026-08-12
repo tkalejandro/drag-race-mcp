@@ -1,0 +1,20 @@
+{
+  "id": "ariel-rec",
+  "name": "Ariel Rec",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E02",
+          "song": "Yo quiero bailar"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S02-E02"
+    }
+  ]
+}

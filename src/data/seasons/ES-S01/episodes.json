@@ -1,0 +1,366 @@
+[
+  {
+    "id": "ES-S01-E01",
+    "seasonId": "ES-S01",
+    "episodeNumber": 1,
+    "title": "¡Bienvenidas a España!",
+    "miniChallenge": {
+      "name": "Photoshoot while riding a mechanical bull",
+      "winnerIds": [
+        "carmen-farala"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Create a look made out of rummage sale items",
+      "winnerIds": [
+        "hugaceo-crujiente"
+      ]
+    },
+    "runwayTheme": "De Mercadillo (From the Flea Market)",
+    "topIds": [
+      "carmen-farala",
+      "hugaceo-crujiente",
+      "sagittaria"
+    ],
+    "bottomIds": [
+      "dovima-nurmi",
+      "the-macarena"
+    ],
+    "lipSync": {
+      "song": "Sobreviviré",
+      "queenIds": [
+        "dovima-nurmi",
+        "the-macarena"
+      ],
+      "winnerIds": [
+        "dovima-nurmi"
+      ],
+      "eliminatedIds": [
+        "the-macarena"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Jon Kortajarena"
+      }
+    ]
+  },
+  {
+    "id": "ES-S01-E02",
+    "seasonId": "ES-S01",
+    "episodeNumber": 2,
+    "title": "Divas",
+    "miniChallenge": {
+      "name": "Unscramble letters shown by the pit crew",
+      "winnerIds": [
+        "pupi-poisson"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"Divas\"",
+      "winnerIds": [
+        "carmen-farala"
+      ]
+    },
+    "runwayTheme": "Tributo a La Veneno",
+    "topIds": [
+      "carmen-farala",
+      "pupi-poisson"
+    ],
+    "bottomIds": [
+      "arantxa-castilla-la-mancha",
+      "drag-vulcano"
+    ],
+    "lipSync": {
+      "song": "Veneno pa tu piel",
+      "queenIds": [
+        "arantxa-castilla-la-mancha",
+        "drag-vulcano"
+      ],
+      "winnerIds": [
+        "arantxa-castilla-la-mancha"
+      ],
+      "eliminatedIds": [
+        "drag-vulcano"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Paca la Piraña"
+      }
+    ]
+  },
+  {
+    "id": "ES-S01-E03",
+    "seasonId": "ES-S01",
+    "episodeNumber": 3,
+    "title": "Mocatriz",
+    "miniChallenge": {
+      "name": "Create a quick drag character to play football",
+      "winnerIds": [
+        "killer-queen"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "In pairs, act as influencers for a themed magazine",
+      "winnerIds": [
+        "sagittaria"
+      ]
+    },
+    "runwayTheme": "Mis Raíces (My Roots)",
+    "topIds": [
+      "pupi-poisson",
+      "sagittaria"
+    ],
+    "bottomIds": [
+      "dovima-nurmi",
+      "inti"
+    ],
+    "lipSync": {
+      "song": "Mocatriz",
+      "queenIds": [
+        "dovima-nurmi"
+      ],
+      "winnerIds": [
+        "dovima-nurmi"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Carlos Areces"
+      }
+    ]
+  },
+  {
+    "id": "ES-S01-E04",
+    "seasonId": "ES-S01",
+    "episodeNumber": 4,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "pupi-poisson"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "pack of underwear and swimsuits courtesy of Addicted.",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "killer-queen"
+      ]
+    },
+    "runwayTheme": "Choni de Barrio / Ejecutiva Agresiva / Jet-Set Marbellí",
+    "topIds": [
+      "killer-queen",
+      "pupi-poisson",
+      "sagittaria"
+    ],
+    "bottomIds": [
+      "arantxa-castilla-la-mancha",
+      "hugaceo-crujiente"
+    ],
+    "lipSync": {
+      "song": "Pussy",
+      "queenIds": [
+        "arantxa-castilla-la-mancha",
+        "hugaceo-crujiente"
+      ],
+      "winnerIds": [
+        "hugaceo-crujiente"
+      ],
+      "eliminatedIds": [
+        "arantxa-castilla-la-mancha"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Bad Gyal"
+      }
+    ]
+  },
+  {
+    "id": "ES-S01-E05",
+    "seasonId": "ES-S01",
+    "episodeNumber": 5,
+    "title": "The Art of Drag",
+    "miniChallenge": {
+      "name": "In pairs, stomp grapes and make the most juice",
+      "winnerIds": [
+        "carmen-farala",
+        "pupi-poisson"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Act in \"Básica o Cínica\"",
+      "winnerIds": [
+        "pupi-poisson"
+      ]
+    },
+    "runwayTheme": "Arte Español: Eleganza Extravaganza",
+    "topIds": [
+      "carmen-farala",
+      "pupi-poisson"
+    ],
+    "bottomIds": [
+      "hugaceo-crujiente",
+      "killer-queen"
+    ],
+    "lipSync": {
+      "song": "Espectacular",
+      "queenIds": [
+        "hugaceo-crujiente",
+        "killer-queen"
+      ],
+      "winnerIds": [
+        "killer-queen"
+      ],
+      "eliminatedIds": [
+        "hugaceo-crujiente"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Alaska"
+      }
+    ]
+  },
+  {
+    "id": "ES-S01-E06",
+    "seasonId": "ES-S01",
+    "episodeNumber": 6,
+    "title": "Drags de la Comedia",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": [
+        "carmen-farala"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "gift card to use in Ribes & Casals shops",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Perform a roast of the judges",
+      "winnerIds": [
+        "carmen-farala"
+      ]
+    },
+    "runwayTheme": "La Noche de las Mil Rosalía's",
+    "topIds": [
+      "carmen-farala",
+      "killer-queen"
+    ],
+    "bottomIds": [
+      "dovima-nurmi",
+      "sagittaria"
+    ],
+    "lipSync": {
+      "song": "Aute Cuture",
+      "queenIds": [
+        "dovima-nurmi",
+        "sagittaria"
+      ],
+      "winnerIds": [
+        "sagittaria"
+      ],
+      "eliminatedIds": [
+        "dovima-nurmi"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Susi Caramelo"
+      }
+    ]
+  },
+  {
+    "id": "ES-S01-E07",
+    "seasonId": "ES-S01",
+    "episodeNumber": 7,
+    "title": "Final Four",
+    "miniChallenge": {
+      "name": "Apply makeup without mirrors",
+      "winnerIds": [
+        "carmen-farala"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Makeover rugby players from Madrid Titanes",
+      "winnerIds": [
+        "carmen-farala"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "Two-night stay, dinner and spa treatments for 2 at W Barcelona, for both the contestant and their makeover partner",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Furia de Titanas",
+    "topIds": [
+      "carmen-farala"
+    ],
+    "bottomIds": [
+      "killer-queen",
+      "pupi-poisson",
+      "sagittaria"
+    ],
+    "lipSync": {
+      "song": "Cuando tú vas",
+      "queenIds": [
+        "killer-queen",
+        "pupi-poisson",
+        "sagittaria"
+      ],
+      "winnerIds": [
+        "killer-queen",
+        "sagittaria"
+      ],
+      "eliminatedIds": [
+        "pupi-poisson"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Envy Peru"
+      }
+    ]
+  },
+  {
+    "id": "ES-S01-E08",
+    "seasonId": "ES-S01",
+    "episodeNumber": 8,
+    "title": "The Reunion"
+  },
+  {
+    "id": "ES-S01-E09",
+    "seasonId": "ES-S01",
+    "episodeNumber": 9,
+    "title": "Grand Finale",
+    "runwayTheme": "Mi Mejor Look Drag",
+    "topIds": [
+      "carmen-farala",
+      "killer-queen",
+      "sagittaria"
+    ],
+    "lipSync": {
+      "song": "La gata bajo la lluvia",
+      "queenIds": [
+        "carmen-farala",
+        "killer-queen",
+        "sagittaria"
+      ],
+      "winnerIds": [
+        "carmen-farala"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

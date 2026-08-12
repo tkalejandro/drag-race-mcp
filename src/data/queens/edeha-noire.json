@@ -1,0 +1,25 @@
+{
+  "id": "edeha-noire",
+  "name": "Edeha Noire",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S03-E01",
+          "song": "Sur le fil"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S03-E03",
+          "song": "C'est l'amour"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S03-E03"
+    }
+  ]
+}

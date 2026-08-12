@@ -1,0 +1,40 @@
+{
+  "id": "veruschka-levels",
+  "name": "Veruschka Levels",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 9,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S02-E03",
+          "name": "Create a look with the same party supplies as your drag sister",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S02-E02",
+          "name": "Photoshoot with a snake",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S02-E04",
+          "song": "Bongga Ka 'Day"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S02-E04"
+    }
+  ]
+}

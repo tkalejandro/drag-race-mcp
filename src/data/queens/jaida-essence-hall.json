@@ -8,15 +8,30 @@
       "challengeWins": [
         {
           "episodeId": "US-S12-E02",
-          "name": "Write, record, and perform verses to You Don't Know Me"
+          "name": "Write, record, and perform verses to You Don't Know Me",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S12-E09",
-          "name": "Participate in a presidential debate called Choices 2020"
+          "name": "Participate in a presidential debate called Choices 2020",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip"
+          }
         },
         {
           "episodeId": "US-S12-E10",
-          "name": "Makeover Drag Race superfans"
+          "name": "Makeover Drag Race superfans",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash tip for Jaida Essence Hall, and a $5,000 gift card to Shop Betsey Johnson for Jazz Essence Hall"
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -31,6 +46,43 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S07",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S07-E03",
+          "name": "The Realness of Fortune Ball"
+        },
+        {
+          "episodeId": "AS-S07-E07",
+          "name": "Design, construct, and present RuPaul-inspired Legendary Legend Looks"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S07-E03",
+          "song": "Green Light",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S07-E07",
+          "song": "I Want Love"
+        },
+        {
+          "episodeId": "AS-S07-E12",
+          "song": "Push It / Let's Hear It for the Boy / Judas / So What / Sisters Are Doin' It for Themselves / Swish Swish"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S07-E12"
     }
   ]
 }

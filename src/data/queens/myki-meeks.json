@@ -8,29 +8,59 @@
       "challengeWins": [
         {
           "episodeId": "US-S18-E07",
-          "name": "Create paired political campaign ads"
+          "name": "Create paired political campaign ads",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S18-E12",
-          "name": "Make over rodeo riders into drag family members"
+          "name": "Make over rodeo riders into drag family members",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize and $2,500 cash prize for her makeover partner"
+          }
         },
         {
           "episodeId": "US-S18-E13",
-          "name": "Improv with RuPaul"
+          "name": "Improv with RuPaul",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S18-E14",
-          "name": "Host a paired morning show"
+          "name": "Host a paired morning show",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip (share of $5,000 pot)"
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S18-E10",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash prize"
+          }
         },
         {
           "episodeId": "US-S18-E11",
-          "name": "Scent Bird ads"
+          "name": "Scent Bird ads",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash prize"
+          }
         }
       ],
       "lipSyncWins": [

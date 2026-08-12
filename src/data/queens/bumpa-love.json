@@ -1,0 +1,25 @@
+{
+  "id": "bumpa-love",
+  "name": "Bumpa Love",
+  "appearances": [
+    {
+      "seasonId": "DU-S03",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S03-E05",
+          "song": "Hot n Cold"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S03-E06",
+          "song": "Are You Gonna Be My Girl"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S03-E06"
+    }
+  ]
+}

@@ -6,21 +6,48 @@
     "title": "Keeping It 100!",
     "miniChallenge": {
       "name": "Photoshoot with past winners",
-      "winnerIds": ["robbie-turner"]
+      "winnerIds": [
+        "robbie-turner"
+      ]
     },
     "maxiChallenge": {
       "name": "Design a look based on a past-season design challenge",
-      "winnerIds": ["kim-chi"]
+      "winnerIds": [
+        "kim-chi"
+      ],
+      "earnings": {
+        "amount": 3000,
+        "currency": "USD",
+        "context": "$3,000 cash tip from selfieonastick.com"
+      }
     },
-    "topIds": ["acid-betty", "derrick-barry", "kim-chi"],
-    "bottomIds": ["laila-mcqueen", "naysha-lopez"],
+    "topIds": [
+      "acid-betty",
+      "derrick-barry",
+      "kim-chi"
+    ],
+    "bottomIds": [
+      "laila-mcqueen",
+      "naysha-lopez"
+    ],
     "lipSync": {
       "song": "Applause",
-      "queenIds": ["laila-mcqueen", "naysha-lopez"],
-      "winnerIds": ["laila-mcqueen"],
-      "eliminatedIds": ["naysha-lopez"]
+      "queenIds": [
+        "laila-mcqueen",
+        "naysha-lopez"
+      ],
+      "winnerIds": [
+        "laila-mcqueen"
+      ],
+      "eliminatedIds": [
+        "naysha-lopez"
+      ]
     },
-    "guestJudges": [{ "name": "Nicole Richie" }]
+    "guestJudges": [
+      {
+        "name": "Nicole Richie"
+      }
+    ]
   },
   {
     "id": "US-S08-E02",
@@ -29,25 +56,54 @@
     "title": "Bitch Perfect",
     "miniChallenge": {
       "name": "Latin dance-off to Cha Cha Bitch",
-      "winnerIds": ["chi-chi-devayne", "cynthia-lee-fontaine"]
+      "winnerIds": [
+        "chi-chi-devayne",
+        "cynthia-lee-fontaine"
+      ]
     },
     "maxiChallenge": {
       "name": "Collegiate a cappella sing-off (Bitch Perfect)",
-      "winnerIds": ["chi-chi-devayne"]
+      "winnerIds": [
+        "chi-chi-devayne"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "4 night getaway to a bed and breakfast in New England"
+      }
     },
     "runwayTheme": "Movie Premiere Realness",
-    "topIds": ["acid-betty", "chi-chi-devayne", "thorgy-thor"],
-    "bottomIds": ["dax-exclamationpoint", "laila-mcqueen"],
+    "topIds": [
+      "acid-betty",
+      "chi-chi-devayne",
+      "thorgy-thor"
+    ],
+    "bottomIds": [
+      "dax-exclamationpoint",
+      "laila-mcqueen"
+    ],
     "lipSync": {
       "song": "I Will Survive",
-      "queenIds": ["dax-exclamationpoint", "laila-mcqueen"],
+      "queenIds": [
+        "dax-exclamationpoint",
+        "laila-mcqueen"
+      ],
       "winnerIds": [],
-      "eliminatedIds": ["dax-exclamationpoint", "laila-mcqueen"]
+      "eliminatedIds": [
+        "dax-exclamationpoint",
+        "laila-mcqueen"
+      ]
     },
     "guestJudges": [
-      { "name": "Ester Dean" },
-      { "name": "Jamal Sims" },
-      { "name": "Lucian Piane" }
+      {
+        "name": "Ester Dean"
+      },
+      {
+        "name": "Jamal Sims"
+      },
+      {
+        "name": "Lucian Piane"
+      }
     ]
   },
   {
@@ -57,24 +113,52 @@
     "title": "RuCo's Empire",
     "miniChallenge": {
       "name": "Drag up a Supreme Court judge robe",
-      "winnerIds": ["naomi-smalls"]
+      "winnerIds": [
+        "naomi-smalls"
+      ]
     },
     "maxiChallenge": {
       "name": "Empire-inspired acting challenge",
-      "winnerIds": ["bob-the-drag-queen"]
+      "winnerIds": [
+        "bob-the-drag-queen"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$3,500 of Innovative Eyewear from Bradley Kenneth",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Roller Girl Realness",
-    "topIds": ["acid-betty", "bob-the-drag-queen", "thorgy-thor"],
-    "bottomIds": ["cynthia-lee-fontaine", "robbie-turner"],
+    "topIds": [
+      "acid-betty",
+      "bob-the-drag-queen",
+      "thorgy-thor"
+    ],
+    "bottomIds": [
+      "cynthia-lee-fontaine",
+      "robbie-turner"
+    ],
     "lipSync": {
       "song": "Mesmerized (Freemasons Radio Edit)",
-      "queenIds": ["cynthia-lee-fontaine", "robbie-turner"],
-      "winnerIds": ["robbie-turner"],
-      "eliminatedIds": ["cynthia-lee-fontaine"]
+      "queenIds": [
+        "cynthia-lee-fontaine",
+        "robbie-turner"
+      ],
+      "winnerIds": [
+        "robbie-turner"
+      ],
+      "eliminatedIds": [
+        "cynthia-lee-fontaine"
+      ]
     },
     "guestJudges": [
-      { "name": "Faith Evans" },
-      { "name": "Tasha Smith" }
+      {
+        "name": "Faith Evans"
+      },
+      {
+        "name": "Tasha Smith"
+      }
     ]
   },
   {
@@ -84,21 +168,47 @@
     "title": "New Wave Queens",
     "maxiChallenge": {
       "name": "Write, record, and perform 1980s New Wave girl-band verses",
-      "winnerIds": ["robbie-turner"]
+      "winnerIds": [
+        "robbie-turner"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "wig wardrobe from Weaven Steven",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Neon Queen Realness",
-    "topIds": ["robbie-turner"],
-    "bottomIds": ["chi-chi-devayne", "naysha-lopez"],
+    "topIds": [
+      "robbie-turner"
+    ],
+    "bottomIds": [
+      "chi-chi-devayne",
+      "naysha-lopez"
+    ],
     "lipSync": {
       "song": "Call Me",
-      "queenIds": ["chi-chi-devayne", "naysha-lopez"],
-      "winnerIds": ["chi-chi-devayne"],
-      "eliminatedIds": ["naysha-lopez"]
+      "queenIds": [
+        "chi-chi-devayne",
+        "naysha-lopez"
+      ],
+      "winnerIds": [
+        "chi-chi-devayne"
+      ],
+      "eliminatedIds": [
+        "naysha-lopez"
+      ]
     },
     "guestJudges": [
-      { "name": "Debbie Harry" },
-      { "name": "Chris Stein" },
-      { "name": "Lucian Piane" }
+      {
+        "name": "Debbie Harry"
+      },
+      {
+        "name": "Chris Stein"
+      },
+      {
+        "name": "Lucian Piane"
+      }
     ]
   },
   {
@@ -108,20 +218,45 @@
     "title": "Supermodel Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["bob-the-drag-queen"]
+      "winnerIds": [
+        "bob-the-drag-queen"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "set of Lux De Ville hand bags"
+      }
     },
     "runwayTheme": "Night of a Thousand Madonnas",
-    "topIds": ["bob-the-drag-queen", "derrick-barry", "thorgy-thor"],
-    "bottomIds": ["acid-betty", "naomi-smalls"],
+    "topIds": [
+      "bob-the-drag-queen",
+      "derrick-barry",
+      "thorgy-thor"
+    ],
+    "bottomIds": [
+      "acid-betty",
+      "naomi-smalls"
+    ],
     "lipSync": {
       "song": "Causing a Commotion",
-      "queenIds": ["acid-betty", "naomi-smalls"],
-      "winnerIds": ["naomi-smalls"],
-      "eliminatedIds": ["acid-betty"]
+      "queenIds": [
+        "acid-betty",
+        "naomi-smalls"
+      ],
+      "winnerIds": [
+        "naomi-smalls"
+      ],
+      "eliminatedIds": [
+        "acid-betty"
+      ]
     },
     "guestJudges": [
-      { "name": "Chanel Iman" },
-      { "name": "Gigi Hadid" }
+      {
+        "name": "Chanel Iman"
+      },
+      {
+        "name": "Gigi Hadid"
+      }
     ]
   },
   {
@@ -131,23 +266,50 @@
     "title": "Wizards of Drag",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["bob-the-drag-queen"]
+      "winnerIds": [
+        "bob-the-drag-queen"
+      ]
     },
     "maxiChallenge": {
       "name": "Wizard of Oz makeovers with the cast of Little Women: LA",
-      "winnerIds": ["naomi-smalls"]
+      "winnerIds": [
+        "naomi-smalls"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$1,000 worth of spa services from The Spa on Rodeo",
+        "isSponsor": true
+      }
     },
-    "topIds": ["kim-chi", "naomi-smalls"],
-    "bottomIds": ["derrick-barry", "robbie-turner"],
+    "topIds": [
+      "kim-chi",
+      "naomi-smalls"
+    ],
+    "bottomIds": [
+      "derrick-barry",
+      "robbie-turner"
+    ],
     "lipSync": {
       "song": "I Love It",
-      "queenIds": ["derrick-barry", "robbie-turner"],
-      "winnerIds": ["derrick-barry"],
-      "eliminatedIds": ["robbie-turner"]
+      "queenIds": [
+        "derrick-barry",
+        "robbie-turner"
+      ],
+      "winnerIds": [
+        "derrick-barry"
+      ],
+      "eliminatedIds": [
+        "robbie-turner"
+      ]
     },
     "guestJudges": [
-      { "name": "Marc Jacobs" },
-      { "name": "Todrick Hall" }
+      {
+        "name": "Marc Jacobs"
+      },
+      {
+        "name": "Todrick Hall"
+      }
     ]
   },
   {
@@ -157,24 +319,52 @@
     "title": "Shady Politics",
     "miniChallenge": {
       "name": "True/false guessing game with the pit crew",
-      "winnerIds": ["derrick-barry"]
+      "winnerIds": [
+        "derrick-barry"
+      ]
     },
     "maxiChallenge": {
       "name": "Paired presidential smear campaign ads",
-      "winnerIds": ["bob-the-drag-queen", "derrick-barry"]
+      "winnerIds": [
+        "bob-the-drag-queen",
+        "derrick-barry"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "custom made gown from MountBatten Concepts",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Black and White Realness",
-    "topIds": ["bob-the-drag-queen", "derrick-barry"],
-    "bottomIds": ["chi-chi-devayne", "thorgy-thor"],
+    "topIds": [
+      "bob-the-drag-queen",
+      "derrick-barry"
+    ],
+    "bottomIds": [
+      "chi-chi-devayne",
+      "thorgy-thor"
+    ],
     "lipSync": {
       "song": "And I Am Telling You I'm Not Going",
-      "queenIds": ["chi-chi-devayne", "thorgy-thor"],
-      "winnerIds": ["chi-chi-devayne"],
-      "eliminatedIds": ["thorgy-thor"]
+      "queenIds": [
+        "chi-chi-devayne",
+        "thorgy-thor"
+      ],
+      "winnerIds": [
+        "chi-chi-devayne"
+      ],
+      "eliminatedIds": [
+        "thorgy-thor"
+      ]
     },
     "guestJudges": [
-      { "name": "Thomas Roberts" },
-      { "name": "Vivica A. Fox" }
+      {
+        "name": "Thomas Roberts"
+      },
+      {
+        "name": "Vivica A. Fox"
+      }
     ]
   },
   {
@@ -184,24 +374,52 @@
     "title": "RuPaul Book Ball",
     "miniChallenge": {
       "name": "Everybody Loves Puppets",
-      "winnerIds": ["chi-chi-devayne"]
+      "winnerIds": [
+        "chi-chi-devayne"
+      ]
     },
     "maxiChallenge": {
       "name": "The RuPaul Book Ball",
-      "winnerIds": ["kim-chi"]
+      "winnerIds": [
+        "kim-chi"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "USD",
+        "context": "$2,500 gift card from Fabric Planet",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Baby Drag Realness, That's My Mama Realness, and Book Couture",
-    "topIds": ["chi-chi-devayne", "kim-chi", "naomi-smalls"],
-    "bottomIds": ["bob-the-drag-queen", "derrick-barry"],
+    "topIds": [
+      "chi-chi-devayne",
+      "kim-chi",
+      "naomi-smalls"
+    ],
+    "bottomIds": [
+      "bob-the-drag-queen",
+      "derrick-barry"
+    ],
     "lipSync": {
       "song": "You Make Me Feel (Mighty Real)",
-      "queenIds": ["bob-the-drag-queen", "derrick-barry"],
-      "winnerIds": ["bob-the-drag-queen"],
-      "eliminatedIds": ["derrick-barry"]
+      "queenIds": [
+        "bob-the-drag-queen",
+        "derrick-barry"
+      ],
+      "winnerIds": [
+        "bob-the-drag-queen"
+      ],
+      "eliminatedIds": [
+        "derrick-barry"
+      ]
     },
     "guestJudges": [
-      { "name": "Amy Sedaris" },
-      { "name": "David Sedaris" }
+      {
+        "name": "Amy Sedaris"
+      },
+      {
+        "name": "David Sedaris"
+      }
     ]
   },
   {
@@ -210,8 +428,14 @@
     "episodeNumber": 9,
     "title": "The Realness",
     "runwayTheme": "Best Drag",
-    "topIds": ["bob-the-drag-queen", "kim-chi", "naomi-smalls"],
-    "bottomIds": ["chi-chi-devayne"],
+    "topIds": [
+      "bob-the-drag-queen",
+      "kim-chi",
+      "naomi-smalls"
+    ],
+    "bottomIds": [
+      "chi-chi-devayne"
+    ],
     "lipSync": {
       "song": "The Realness",
       "queenIds": [
@@ -220,8 +444,14 @@
         "kim-chi",
         "naomi-smalls"
       ],
-      "winnerIds": ["bob-the-drag-queen", "kim-chi", "naomi-smalls"],
-      "eliminatedIds": ["chi-chi-devayne"]
+      "winnerIds": [
+        "bob-the-drag-queen",
+        "kim-chi",
+        "naomi-smalls"
+      ],
+      "eliminatedIds": [
+        "chi-chi-devayne"
+      ]
     }
   },
   {

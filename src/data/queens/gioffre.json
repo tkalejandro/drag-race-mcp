@@ -1,0 +1,25 @@
+{
+  "id": "gioffre",
+  "name": "Gioffré",
+  "appearances": [
+    {
+      "seasonId": "IT-S02",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "IT-S02-E04",
+          "song": "Jem"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S02-E06",
+          "song": "Pem Pem"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S02-E06"
+    }
+  ]
+}

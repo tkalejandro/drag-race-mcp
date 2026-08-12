@@ -1,0 +1,46 @@
+{
+  "id": "piche",
+  "name": "Piche",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S02-E02",
+          "name": "Perform a talent show in front of the judges",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "trip to Malta",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S02-E03",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S02-E07",
+          "song": "Et alors!"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S02-E04",
+          "song": "Je vais vite"
+        },
+        {
+          "episodeId": "FR-S02-E08",
+          "song": "Une femme avec une femme"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S02-E08",
+      "reentered": true
+    }
+  ]
+}

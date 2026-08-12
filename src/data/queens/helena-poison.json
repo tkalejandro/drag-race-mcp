@@ -8,13 +8,25 @@
       "challengeWins": [
         {
           "episodeId": "CA-S05-E08",
-          "name": "Recap talk show hosted by Brad Goreski"
+          "name": "Recap talk show hosted by Brad Goreski",
+          "earnings": {
+            "amount": 5000,
+            "currency": "CAD",
+            "context": "$5,000 cash tip courtesy of House of Jimbo",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S05-E06",
-          "name": "Reading is Fundamental"
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip courtesy of The Men's Room",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],

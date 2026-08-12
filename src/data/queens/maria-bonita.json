@@ -1,0 +1,20 @@
+{
+  "id": "maria-bonita",
+  "name": "María Bonita",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E03",
+          "song": "Ni una Sola Palabra"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S02-E03"
+    }
+  ]
+}

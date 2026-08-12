@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "US-S08-E06",
-          "name": "Wizard of Oz makeovers with the cast of Little Women: LA"
+          "name": "Wizard of Oz makeovers with the cast of Little Women: LA",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 worth of spa services from The Spa on Rodeo",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -25,6 +31,38 @@
         {
           "episodeId": "US-S08-E09",
           "song": "The Realness"
+        }
+      ],
+      "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S04",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S04-E06",
+          "name": "Lip-sync LaLaPaRUza smackdown"
+        },
+        {
+          "episodeId": "AS-S04-E08",
+          "name": "Makeover your best Judy's",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "trip for two to Iceland with complimentary first class airfare from WOW air and a four night stay at Design Hotel from Pink Iceland for the queens, and a $1,000 gift card from Klein Epstein & Parker for the Judy's.",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S04-E06",
+          "song": "Peanut Butter / Kitty Girl / Adrenaline / Sissy That Walk"
+        },
+        {
+          "episodeId": "AS-S04-E08",
+          "song": "Come Rain or Come Shine"
         }
       ],
       "lipSyncLosses": []

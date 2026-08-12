@@ -1,0 +1,59 @@
+{
+  "id": "fontana",
+  "name": "Fontana",
+  "appearances": [
+    {
+      "seasonId": "SE-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "SE-S01-E06",
+          "name": "Makeover MMA fighter Simon Sköld and his macho gang of guys"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "SE-S01-E02",
+          "name": "Apply drag makeup in the dark"
+        },
+        {
+          "episodeId": "SE-S01-E05",
+          "name": "Sell products from Melodifestivalen"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "SE-S01-E05",
+          "song": "Euphoria"
+        }
+      ],
+      "lipSyncLosses": []
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S03-E01",
+          "name": "Perform an original song at the RuRuvision Song Contest"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S03-E01",
+          "song": "Tattoo"
+        },
+        {
+          "episodeId": "UKVTW-S03-E03",
+          "song": "Angel of My Dreams"
+        },
+        {
+          "episodeId": "UKVTW-S03-E05",
+          "song": "Axel F"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

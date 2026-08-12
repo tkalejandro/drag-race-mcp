@@ -1,0 +1,36 @@
+{
+  "id": "hana-beshie",
+  "name": "Hana Beshie",
+  "appearances": [
+    {
+      "seasonId": "PH-S02",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S02-E06",
+          "name": "Everybody Loves Puppets",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S02-E02",
+          "song": "Unleash the Diva"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PH-S02-E09",
+          "song": "Dati"
+        }
+      ],
+      "eliminatedEpisodeId": "PH-S02-E09",
+      "missCongeniality": true
+    }
+  ]
+}

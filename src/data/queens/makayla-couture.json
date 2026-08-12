@@ -8,7 +8,13 @@
       "challengeWins": [
         {
           "episodeId": "CA-S05-E05",
-          "name": "Write, record, and perform verses to Duh and Not"
+          "name": "Write, record, and perform verses to Duh and Not",
+          "earnings": {
+            "amount": 5000,
+            "currency": "CAD",
+            "context": "$5,000 cash tip courtesy of Gilead Sciences Canada",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],

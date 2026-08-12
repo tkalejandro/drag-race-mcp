@@ -1,0 +1,60 @@
+{
+  "id": "sara-forever",
+  "name": "Sara Forever",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S02-E01",
+          "name": "Write, record, and perform verses to \"We Are Légendaires\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€2,500 worth of products from Horace",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "FR-S02-E03",
+          "name": "Host in the new morning show \"Le Croissant Show\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Jewelry from YPARIS",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "FR-S02-E07",
+          "name": "Perform in a girl group performance to \"Attention\" against the eliminated queens",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€2,000 worth of products from MAC Cosmetics",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "FR-S02-E08",
+          "name": "Makeover rugby players",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€2,000 mall gift card",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S02-E09",
+          "song": "Titanium"
+        }
+      ]
+    }
+  ]
+}

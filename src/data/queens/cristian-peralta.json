@@ -1,0 +1,45 @@
+{
+  "id": "cristian-peralta",
+  "name": "Cristian Peralta",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S01-E01",
+          "name": "Present a runway look representing your hometown and region"
+        },
+        {
+          "episodeId": "MX-S01-E04",
+          "name": "Dragapulco Shore: El Rusical"
+        },
+        {
+          "episodeId": "MX-S01-E06",
+          "name": "Snatch Game"
+        },
+        {
+          "episodeId": "MX-S01-E09",
+          "name": "Perform a stand-up comedy routine"
+        },
+        {
+          "episodeId": "MX-S01-E10",
+          "name": "Makeover a Drag Race fan from Chile, Colombia, Mexico or Venezuela",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S01-E12",
+          "song": "Él me mintió"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

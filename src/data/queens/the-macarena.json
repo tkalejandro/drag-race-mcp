@@ -1,0 +1,44 @@
+{
+  "id": "the-macarena",
+  "name": "The Macarena",
+  "appearances": [
+    {
+      "seasonId": "ES-S01",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S01-E01",
+          "song": "Sobreviviré"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S01-E01"
+    },
+    {
+      "seasonId": "ES-S03",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S03-E02",
+          "name": "Eurovision quiz",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip from Addicted"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E05",
+          "song": "Desátame"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S03-E05"
+    }
+  ]
+}

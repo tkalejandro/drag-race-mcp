@@ -1,0 +1,253 @@
+[
+  {
+    "id": "CVTW-S01-E01",
+    "seasonId": "CVTW-S01",
+    "episodeNumber": 1,
+    "title": "Bonjour, Hi",
+    "maxiChallenge": {
+      "name": "In groups of three, write and perform an original song for Bonjour, Hi",
+      "winnerIds": [
+        "rita-baga",
+        "vanity-milan"
+      ]
+    },
+    "runwayTheme": "Queen of the World",
+    "topIds": [
+      "rita-baga",
+      "vanity-milan"
+    ],
+    "bottomIds": [
+      "kendall-gender",
+      "stephanie-prince"
+    ],
+    "lipSync": {
+      "song": "Brand New Bitch",
+      "queenIds": [
+        "rita-baga",
+        "vanity-milan"
+      ],
+      "winnerIds": [
+        "vanity-milan"
+      ],
+      "eliminatedIds": [
+        "kendall-gender"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Anjulie"
+      }
+    ]
+  },
+  {
+    "id": "CVTW-S01-E02",
+    "seasonId": "CVTW-S01",
+    "episodeNumber": 2,
+    "title": "Snatch Summit",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "anita-wiglit"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Impersonate celebrities in the Snatch Summit",
+      "winnerIds": [
+        "icesis-couture",
+        "ra-jah-ohara"
+      ]
+    },
+    "runwayTheme": "Celestial Bodies",
+    "topIds": [
+      "icesis-couture",
+      "ra-jah-ohara"
+    ],
+    "bottomIds": [
+      "anita-wiglit",
+      "stephanie-prince"
+    ],
+    "lipSync": {
+      "song": "Sk8er Boi",
+      "queenIds": [
+        "icesis-couture",
+        "ra-jah-ohara"
+      ],
+      "winnerIds": [
+        "icesis-couture"
+      ],
+      "eliminatedIds": [
+        "stephanie-prince"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Priyanka",
+        "queenId": "priyanka"
+      },
+      {
+        "name": "Sarain Fox"
+      }
+    ]
+  },
+  {
+    "id": "CVTW-S01-E03",
+    "seasonId": "CVTW-S01",
+    "episodeNumber": 3,
+    "title": "The Weather Ball",
+    "maxiChallenge": {
+      "name": "The Weather Ball",
+      "winnerIds": [
+        "silky-nutmeg-ganache",
+        "victoria-scone"
+      ]
+    },
+    "runwayTheme": "Air Body Lace / Arctic Foxy Lady / Caught in the Rain Couture",
+    "topIds": [
+      "silky-nutmeg-ganache",
+      "victoria-scone"
+    ],
+    "bottomIds": [
+      "anita-wiglit",
+      "rita-baga"
+    ],
+    "lipSync": {
+      "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)",
+      "queenIds": [
+        "silky-nutmeg-ganache",
+        "victoria-scone"
+      ],
+      "winnerIds": [
+        "silky-nutmeg-ganache"
+      ],
+      "eliminatedIds": [
+        "anita-wiglit"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Hollywood Jade"
+      },
+      {
+        "name": "Jeanne Beker"
+      }
+    ]
+  },
+  {
+    "id": "CVTW-S01-E04",
+    "seasonId": "CVTW-S01",
+    "episodeNumber": 4,
+    "title": "Comedy Queens",
+    "miniChallenge": {
+      "name": "Record Cameo-style personalized messages",
+      "winnerIds": [
+        "ra-jah-ohara"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Write and perform a comedy routine",
+      "winnerIds": [
+        "silky-nutmeg-ganache",
+        "victoria-scone"
+      ]
+    },
+    "runwayTheme": "Plaid Girls Club",
+    "topIds": [
+      "silky-nutmeg-ganache",
+      "victoria-scone"
+    ],
+    "bottomIds": [
+      "ra-jah-ohara",
+      "vanity-milan"
+    ],
+    "lipSync": {
+      "song": "Your Daddy Don't Know",
+      "queenIds": [
+        "silky-nutmeg-ganache",
+        "victoria-scone"
+      ],
+      "winnerIds": [
+        "victoria-scone"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Gary Janetti"
+      }
+    ]
+  },
+  {
+    "id": "CVTW-S01-E05",
+    "seasonId": "CVTW-S01",
+    "episodeNumber": 5,
+    "title": "Spy Queens",
+    "maxiChallenge": {
+      "name": "Act in the spoof Spy Queens",
+      "winnerIds": [
+        "rita-baga",
+        "victoria-scone"
+      ]
+    },
+    "runwayTheme": "Y2Gay: 2000s Club Kids",
+    "topIds": [
+      "rita-baga",
+      "victoria-scone"
+    ],
+    "bottomIds": [
+      "silky-nutmeg-ganache",
+      "vanity-milan"
+    ],
+    "lipSync": {
+      "song": "Freak",
+      "queenIds": [
+        "rita-baga",
+        "victoria-scone"
+      ],
+      "winnerIds": [
+        "rita-baga"
+      ],
+      "eliminatedIds": [
+        "vanity-milan"
+      ],
+      "kind": "for-the-win"
+    },
+    "guestJudges": [
+      {
+        "name": "Joe Zee"
+      }
+    ]
+  },
+  {
+    "id": "CVTW-S01-E06",
+    "seasonId": "CVTW-S01",
+    "episodeNumber": 6,
+    "title": "Grand Finale",
+    "runwayTheme": "Coronation Eleganza Extravaganza",
+    "topIds": [
+      "ra-jah-ohara",
+      "rita-baga",
+      "silky-nutmeg-ganache",
+      "victoria-scone"
+    ],
+    "lipSync": {
+      "song": "River Deep – Mountain High",
+      "queenIds": [
+        "ra-jah-ohara",
+        "silky-nutmeg-ganache"
+      ],
+      "winnerIds": [
+        "ra-jah-ohara"
+      ],
+      "kind": "for-the-crown"
+    },
+    "guestJudges": [
+      {
+        "name": "Monét X Change",
+        "queenId": "monet-x-change"
+      }
+    ]
+  }
+]

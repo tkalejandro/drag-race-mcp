@@ -15,8 +15,25 @@
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S06-E04", "song": "Don't Call Me Up" }
+        {
+          "episodeId": "UK-S06-E04",
+          "song": "Don't Call Me Up"
+        }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S03-E06",
+          "song": "Rasputin"
+        }
+      ],
+      "eliminatedEpisodeId": "UKVTW-S03-E06"
     }
   ]
 }

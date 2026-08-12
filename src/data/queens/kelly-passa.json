@@ -1,0 +1,20 @@
+{
+  "id": "kelly-passa",
+  "name": "Kelly Passa!?",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S04-E04",
+          "song": "Antagonista"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S04-E04"
+    }
+  ]
+}

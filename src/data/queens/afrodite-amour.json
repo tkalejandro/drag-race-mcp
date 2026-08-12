@@ -1,0 +1,20 @@
+{
+  "id": "afrodite-amour",
+  "name": "Afrodite Amour",
+  "appearances": [
+    {
+      "seasonId": "FR-S03",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S03-E01",
+          "song": "Sur le fil"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S03-E01"
+    }
+  ]
+}

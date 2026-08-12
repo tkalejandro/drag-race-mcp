@@ -29,16 +29,38 @@
     "miss-naomi-carter",
     "alexis-saint-pete"
   ],
-  "winnerId": "ginger-johnson",
-  "runnerUpIds": ["michael-marouli"],
-  "porkchopId": "alexis-saint-pete",
-  "hosts": [{ "name": "RuPaul" }],
+  "winnerIds": [
+    "ginger-johnson"
+  ],
+  "runnerUpIds": [
+    "michael-marouli"
+  ],
+  "porkchopIds": [
+    "alexis-saint-pete"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
   "judges": [
-    { "name": "RuPaul" },
-    { "name": "Michelle Visage" },
-    { "name": "Alan Carr" },
-    { "name": "Graham Norton" }
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Alan Carr"
+    },
+    {
+      "name": "Graham Norton"
+    }
   ],
   "isCharity": false,
-  "cashPrice": { "amount": 0, "currency": "GBP" }
+  "cashPrice": {
+    "amount": 0,
+    "currency": "GBP",
+    "context": "No cash prize"
+  }
 }

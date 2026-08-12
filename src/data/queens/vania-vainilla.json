@@ -1,0 +1,43 @@
+{
+  "id": "vania-vainilla",
+  "name": "Vania Vainilla",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S03-E07",
+          "name": "Stand-up with eliminated queens",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip"
+          }
+        },
+        {
+          "episodeId": "ES-S03-E09",
+          "name": "Makeover cleaners",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S03-E02",
+          "song": "La noche es para mí"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E11",
+          "song": "Punto de partida"
+        }
+      ]
+    }
+  ]
+}

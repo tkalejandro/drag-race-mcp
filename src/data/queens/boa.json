@@ -1,7 +1,9 @@
 {
   "id": "boa",
   "name": "BOA",
-  "aliases": ["Bitch On Arrival"],
+  "aliases": [
+    "Bitch On Arrival"
+  ],
   "appearances": [
     {
       "seasonId": "CA-S01",
@@ -11,12 +13,21 @@
       "miniChallengeWins": [
         {
           "episodeId": "CA-S01-E02",
-          "name": "Get into quick drag and audition for a role as a ballerina in The Nutsmacker"
+          "name": "Get into quick drag and audition for a role as a ballerina in The Nutsmacker",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$1,000 gift certificate from Wigs And Grace",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E06", "song": "Scars to Your Beautiful" }
+        {
+          "episodeId": "CA-S01-E06",
+          "song": "Scars to Your Beautiful"
+        }
       ]
     }
   ]

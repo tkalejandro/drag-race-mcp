@@ -28,6 +28,29 @@
         }
       ],
       "eliminatedEpisodeId": "US-S14-E11"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E07",
+          "name": "Design an outfit using high school sportswear materials"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S11-E07",
+          "song": "If You Were a Woman (And I Was a Man)"
+        },
+        {
+          "episodeId": "AS-S11-E12",
+          "song": "Star Love / The Boss / The Main Event/Fight / Knock on Wood / MacArthur Park"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S11-E12"
     }
   ]
 }

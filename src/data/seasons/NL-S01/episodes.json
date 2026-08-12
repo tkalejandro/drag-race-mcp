@@ -1,0 +1,416 @@
+[
+  {
+    "id": "NL-S01-E01",
+    "seasonId": "NL-S01",
+    "episodeNumber": 1,
+    "title": "Land of the Queens",
+    "miniChallenge": {
+      "name": "Underwater photoshoot",
+      "winnerIds": [
+        "miss-abby-omg"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Present a look based on your favorite queen",
+      "winnerIds": [
+        "janey-jacke"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "prize package from Make-up Studio, worth €1,000",
+        "isSponsor": true
+      }
+    },
+    "topIds": [
+      "chelseaboy",
+      "janey-jacke",
+      "sederginne"
+    ],
+    "bottomIds": [
+      "megan-schoonbrood",
+      "roem"
+    ],
+    "lipSync": {
+      "song": "Express Yourself",
+      "queenIds": [
+        "megan-schoonbrood",
+        "roem"
+      ],
+      "winnerIds": [
+        "megan-schoonbrood"
+      ],
+      "eliminatedIds": [
+        "roem"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Claes Iversen"
+      },
+      {
+        "name": "Sanne Wallis de Vries"
+      }
+    ]
+  },
+  {
+    "id": "NL-S01-E02",
+    "seasonId": "NL-S01",
+    "episodeNumber": 2,
+    "title": "Give Face!",
+    "miniChallenge": {
+      "name": "Design a pair of clogs and model them",
+      "winnerIds": [
+        "chelseaboy",
+        "envy-peru"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Record a group workout video",
+      "winnerIds": [
+        "envy-peru"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "prize package of hair products and styling tools by John Beerens, worth €1,000",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Give Face, Face, Face",
+    "topIds": [
+      "envy-peru",
+      "miss-abby-omg",
+      "sederginne"
+    ],
+    "bottomIds": [
+      "madame-madness",
+      "patty-pam-pam"
+    ],
+    "lipSync": {
+      "song": "Roar",
+      "queenIds": [
+        "madame-madness",
+        "patty-pam-pam"
+      ],
+      "winnerIds": [
+        "madame-madness"
+      ],
+      "eliminatedIds": [
+        "patty-pam-pam"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Nikkie de Jager"
+      }
+    ]
+  },
+  {
+    "id": "NL-S01-E03",
+    "seasonId": "NL-S01",
+    "episodeNumber": 3,
+    "title": "Drama Queens",
+    "miniChallenge": {
+      "name": "Play traditional Dutch games: Koekhappen, Spijkerpoepen and Zaklopen",
+      "winnerIds": [
+        "madame-madness",
+        "sederginne"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Act in a drag version of Gooische Vrouwen",
+      "winnerIds": [
+        "mama-queen"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "prize package worth €1,000, for make up products by Schminkspecialist",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Miss Holland",
+    "topIds": [
+      "chelseaboy",
+      "mama-queen",
+      "sederginne"
+    ],
+    "bottomIds": [
+      "megan-schoonbrood",
+      "miss-abby-omg"
+    ],
+    "lipSync": {
+      "song": "Why Tell Me, Why",
+      "queenIds": [
+        "megan-schoonbrood",
+        "miss-abby-omg"
+      ],
+      "winnerIds": [
+        "miss-abby-omg"
+      ],
+      "eliminatedIds": [
+        "megan-schoonbrood"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Rick Paul van Mulligen"
+      }
+    ]
+  },
+  {
+    "id": "NL-S01-E04",
+    "seasonId": "NL-S01",
+    "episodeNumber": 4,
+    "title": "Dancing Queens",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "mama-queen",
+        "sederginne"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "In groups, perform a vogue choreographed song",
+      "winnerIds": [
+        "envy-peru"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "voucher worth €1,000, courtesy of Mister B",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Shine Bright Like A Diamond",
+    "topIds": [
+      "chelseaboy",
+      "envy-peru",
+      "sederginne"
+    ],
+    "bottomIds": [
+      "mama-queen",
+      "madame-madness",
+      "miss-abby-omg"
+    ],
+    "lipSync": {
+      "song": "I Wanna Dance With Somebody (Who Loves Me)",
+      "queenIds": [
+        "mama-queen",
+        "madame-madness",
+        "miss-abby-omg"
+      ],
+      "winnerIds": [
+        "mama-queen",
+        "miss-abby-omg"
+      ],
+      "eliminatedIds": [
+        "madame-madness"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Amber Vineyard"
+      }
+    ]
+  },
+  {
+    "id": "NL-S01-E05",
+    "seasonId": "NL-S01",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "miniChallenge": {
+      "name": "Naked photoshoot",
+      "winnerIds": [
+        "janey-jacke"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "photoshoot by Rob Jacobs"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "envy-peru"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "voucher worth €1,000, for SofaCompany",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Half Man, Half Queen",
+    "topIds": [
+      "chelseaboy",
+      "envy-peru",
+      "janey-jacke"
+    ],
+    "bottomIds": [
+      "miss-abby-omg",
+      "sederginne"
+    ],
+    "lipSync": {
+      "song": "Girl",
+      "queenIds": [
+        "miss-abby-omg",
+        "sederginne"
+      ],
+      "winnerIds": [
+        "miss-abby-omg"
+      ],
+      "eliminatedIds": [
+        "sederginne"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Carlo Boszhard"
+      },
+      {
+        "name": "Ruth Jacott"
+      }
+    ]
+  },
+  {
+    "id": "NL-S01-E06",
+    "seasonId": "NL-S01",
+    "episodeNumber": 6,
+    "title": "It Takes Two",
+    "miniChallenge": {
+      "name": "Save the Date improv",
+      "winnerIds": [
+        "mama-queen"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "weekend away in Rotterdam"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Makeover a family member or friend",
+      "winnerIds": [
+        "envy-peru"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "voucher for tooth whitening therapy for two",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "We Are Family",
+    "topIds": [
+      "envy-peru",
+      "miss-abby-omg"
+    ],
+    "bottomIds": [
+      "chelseaboy",
+      "janey-jacke"
+    ],
+    "lipSync": {
+      "song": "9 to 5",
+      "queenIds": [
+        "chelseaboy",
+        "janey-jacke"
+      ],
+      "winnerIds": [
+        "janey-jacke"
+      ],
+      "eliminatedIds": [
+        "chelseaboy"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Ryanne van Dorst"
+      },
+      {
+        "name": "Loiza Lamers"
+      }
+    ]
+  },
+  {
+    "id": "NL-S01-E07",
+    "seasonId": "NL-S01",
+    "episodeNumber": 7,
+    "title": "Máxima - The Rusical",
+    "miniChallenge": {
+      "name": "Everybody Loves Puppets",
+      "winnerIds": [
+        "envy-peru"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Máxima, The Rusical",
+      "winnerIds": [
+        "janey-jacke"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "EUR",
+        "context": "voucher worth €1,000, courtesy of Nikkie",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Red (Beachwear), White (Cocktail Dress), and Blue (Evening Gown)",
+    "topIds": [
+      "janey-jacke"
+    ],
+    "bottomIds": [
+      "mama-queen",
+      "miss-abby-omg"
+    ],
+    "lipSync": {
+      "song": "Stronger (What Doesn't Kill You)",
+      "queenIds": [
+        "mama-queen",
+        "miss-abby-omg"
+      ],
+      "winnerIds": [
+        "mama-queen",
+        "miss-abby-omg"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Edsilia Rombley"
+      }
+    ]
+  },
+  {
+    "id": "NL-S01-E08",
+    "seasonId": "NL-S01",
+    "episodeNumber": 8,
+    "title": "The Grand Finale",
+    "runwayTheme": "Best Drag",
+    "topIds": [
+      "envy-peru",
+      "janey-jacke"
+    ],
+    "bottomIds": [
+      "mama-queen",
+      "miss-abby-omg"
+    ],
+    "lipSync": {
+      "song": "Born This Way",
+      "queenIds": [
+        "envy-peru",
+        "janey-jacke"
+      ],
+      "winnerIds": [
+        "envy-peru"
+      ],
+      "kind": "for-the-crown"
+    },
+    "guestJudges": [
+      {
+        "name": "Nikkie de Jager"
+      }
+    ]
+  }
+]

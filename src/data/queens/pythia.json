@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "CA-S02-E02",
-          "name": "Perform in Under the Big Top, Live"
+          "name": "Perform in Under the Big Top, Live",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 gift certificate from Peoples Jewellers",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "CA-S02-E08",
-          "name": "Makeover LGBTQ+ teenagers"
+          "name": "Makeover LGBTQ+ teenagers",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,500 beauty gift card and $5,000 donated to It Gets Better Canada courtesy of Shoppers Drug Mart",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [],
@@ -28,6 +40,25 @@
           "song": "It's All Coming Back to Me Now"
         }
       ]
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E03",
+          "name": "The International Queen of Mystery Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E08",
+          "song": "I Drove All Night"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E08"
     }
   ]
 }

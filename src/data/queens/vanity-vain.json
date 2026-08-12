@@ -1,0 +1,70 @@
+{
+  "id": "vanity-vain",
+  "name": "Vanity Vain",
+  "appearances": [
+    {
+      "seasonId": "SE-S01",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "SE-S01-E03",
+          "name": "Create an avant-garde outfit made from recycled materials"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "SE-S01-E02",
+          "song": "Jazzbacillen"
+        },
+        {
+          "episodeId": "SE-S01-E07",
+          "song": "Kisses of Fire"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "SE-S01-E08"
+    },
+    {
+      "seasonId": "GAS-S01",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "GAS-S01-E02",
+          "name": "Global Glamazon Talent Extravaganza (Part 2)"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "GAS-S01-E04",
+          "name": "Guess the total population of your country"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "GAS-S01-E02",
+          "song": "Paranoia"
+        },
+        {
+          "episodeId": "GAS-S01-E04",
+          "song": "Spice Up Your Life"
+        },
+        {
+          "episodeId": "GAS-S01-E07",
+          "song": "Mah Nà Mah Nà"
+        },
+        {
+          "episodeId": "GAS-S01-E08",
+          "song": "I Drove All Night"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "GAS-S01-E09",
+          "song": "Believe"
+        }
+      ],
+      "eliminatedEpisodeId": "GAS-S01-E09"
+    }
+  ]
+}

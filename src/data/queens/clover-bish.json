@@ -1,0 +1,40 @@
+{
+  "id": "clover-bish",
+  "name": "Clover Bish",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 5,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S03-E08",
+          "name": "Blindfold face paint",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€500 worth of products from Krash Kosmetics",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S03-E04",
+          "song": "Ay mamá"
+        },
+        {
+          "episodeId": "ES-S03-E06",
+          "song": "Dime"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E09",
+          "song": "Vas a volverme loca"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S03-E09"
+    }
+  ]
+}

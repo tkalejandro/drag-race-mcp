@@ -1,0 +1,39 @@
+{
+  "id": "venedita-von-dash",
+  "name": "Venedita Von Däsh",
+  "appearances": [
+    {
+      "seasonId": "ES-S02",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S02-E03",
+          "name": "Talk-show improv"
+        },
+        {
+          "episodeId": "ES-S02-E09",
+          "name": "Makeover challenge",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Two-night stay, meals included at Hotel Ritual",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S02-E08",
+          "song": "Fuego"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S02-E11",
+          "song": "Ni tú ni nadie"
+        }
+      ]
+    }
+  ]
+}

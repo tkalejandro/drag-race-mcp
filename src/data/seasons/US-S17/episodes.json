@@ -6,20 +6,46 @@
     "title": "Squirrel Games",
     "miniChallenge": {
       "name": "Ru Light, Green Light photoshoot",
-      "winnerIds": ["lana-jarae"]
+      "winnerIds": [
+        "lana-jarae"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform a talent show for Drag Queens Got Talent (group 1)",
-      "winnerIds": ["suzie-toot"]
+      "winnerIds": [
+        "suzie-toot"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Masc For Masked Singer",
-    "topIds": ["jewels-sparkles", "suzie-toot"],
+    "topIds": [
+      "jewels-sparkles",
+      "suzie-toot"
+    ],
     "lipSync": {
       "song": "Woman's World",
-      "queenIds": ["jewels-sparkles", "suzie-toot"],
-      "winnerIds": ["suzie-toot"]
+      "queenIds": [
+        "jewels-sparkles",
+        "suzie-toot"
+      ],
+      "winnerIds": [
+        "suzie-toot"
+      ]
     },
-    "guestJudges": [{ "name": "Katy Perry" }]
+    "guestJudges": [
+      {
+        "name": "Katy Perry"
+      }
+    ]
   },
   {
     "id": "US-S17-E02",
@@ -28,17 +54,39 @@
     "title": "Drag Queens Got Talent – Part 2",
     "maxiChallenge": {
       "name": "Perform a talent show for Drag Queens Got Talent (group 2)",
-      "winnerIds": ["lexi-love"]
+      "winnerIds": [
+        "lexi-love"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Is It Cake?",
-    "topIds": ["crystal-envy", "lexi-love"],
-    "bottomIds": ["acacia-forgot", "hormona-lisa"],
+    "topIds": [
+      "crystal-envy",
+      "lexi-love"
+    ],
+    "bottomIds": [
+      "acacia-forgot",
+      "hormona-lisa"
+    ],
     "lipSync": {
       "song": "Alter Ego",
-      "queenIds": ["crystal-envy", "lexi-love"],
-      "winnerIds": ["lexi-love"]
+      "queenIds": [
+        "crystal-envy",
+        "lexi-love"
+      ],
+      "winnerIds": [
+        "lexi-love"
+      ]
     },
-    "guestJudges": [{ "name": "Doechii" }]
+    "guestJudges": [
+      {
+        "name": "Doechii"
+      }
+    ]
   },
   {
     "id": "US-S17-E03",
@@ -47,18 +95,43 @@
     "title": "Monopulence!",
     "maxiChallenge": {
       "name": "Design a Monopoly monochrome look",
-      "winnerIds": ["sam-star"]
+      "winnerIds": [
+        "sam-star"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Monopulence!",
-    "topIds": ["arrietty", "onya-nurve", "sam-star"],
-    "bottomIds": ["joella", "lucky-starzzz"],
+    "topIds": [
+      "arrietty",
+      "onya-nurve",
+      "sam-star"
+    ],
+    "bottomIds": [
+      "joella",
+      "lucky-starzzz"
+    ],
     "lipSync": {
       "song": "(It's Just) The Way That You Love Me",
-      "queenIds": ["joella", "lucky-starzzz"],
-      "winnerIds": ["joella"],
-      "eliminatedIds": ["lucky-starzzz"]
+      "queenIds": [
+        "joella",
+        "lucky-starzzz"
+      ],
+      "winnerIds": [
+        "joella"
+      ],
+      "eliminatedIds": [
+        "lucky-starzzz"
+      ]
     },
-    "guestJudges": [{ "name": "Sandra Bernhard" }]
+    "guestJudges": [
+      {
+        "name": "Sandra Bernhard"
+      }
+    ]
   },
   {
     "id": "US-S17-E04",
@@ -67,18 +140,43 @@
     "title": "Bitch, I'm a Drag Queen!",
     "maxiChallenge": {
       "name": "Create commercials for past Drag Race musical tracks",
-      "winnerIds": ["onya-nurve"]
+      "winnerIds": [
+        "onya-nurve"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Quilted For Your Pleasure",
-    "topIds": ["crystal-envy", "onya-nurve", "suzie-toot"],
-    "bottomIds": ["joella", "kori-king"],
+    "topIds": [
+      "crystal-envy",
+      "onya-nurve",
+      "suzie-toot"
+    ],
+    "bottomIds": [
+      "joella",
+      "kori-king"
+    ],
     "lipSync": {
       "song": "Buttons",
-      "queenIds": ["joella", "kori-king"],
-      "winnerIds": ["kori-king"],
-      "eliminatedIds": ["joella"]
+      "queenIds": [
+        "joella",
+        "kori-king"
+      ],
+      "winnerIds": [
+        "kori-king"
+      ],
+      "eliminatedIds": [
+        "joella"
+      ]
     },
-    "guestJudges": [{ "name": "Julia Schlaepfer" }]
+    "guestJudges": [
+      {
+        "name": "Julia Schlaepfer"
+      }
+    ]
   },
   {
     "id": "US-S17-E05",
@@ -87,17 +185,40 @@
     "title": "RDR Live!",
     "maxiChallenge": {
       "name": "Act in RDR Live! sketch comedy",
-      "winnerIds": ["suzie-toot"]
+      "winnerIds": [
+        "suzie-toot"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Tickled Pink",
-    "topIds": ["hormona-lisa", "onya-nurve", "suzie-toot"],
-    "bottomIds": ["arrietty", "lydia-b-kollins"],
+    "topIds": [
+      "hormona-lisa",
+      "onya-nurve",
+      "suzie-toot"
+    ],
+    "bottomIds": [
+      "arrietty",
+      "lydia-b-kollins"
+    ],
     "lipSync": {
       "song": "Boogie Wonderland",
-      "queenIds": ["arrietty", "lydia-b-kollins"],
-      "winnerIds": ["lydia-b-kollins"]
+      "queenIds": [
+        "arrietty",
+        "lydia-b-kollins"
+      ],
+      "winnerIds": [
+        "lydia-b-kollins"
+      ]
     },
-    "guestJudges": [{ "name": "Paul W. Downs" }]
+    "guestJudges": [
+      {
+        "name": "Paul W. Downs"
+      }
+    ]
   },
   {
     "id": "US-S17-E06",
@@ -113,22 +234,52 @@
         "onya-nurve",
         "sam-star",
         "suzie-toot"
-      ]
+      ],
+      "earnings": {
+        "amount": 500,
+        "currency": "USD",
+        "context": "$500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Let's Get Sea Sickening Ball",
-      "winnerIds": ["arrietty"]
+      "winnerIds": [
+        "arrietty"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Bathing Beauties / Sea Creature Couture / Sea Sickening Eleganza",
-    "topIds": ["arrietty", "crystal-envy", "sam-star"],
-    "bottomIds": ["hormona-lisa", "lana-jarae"],
+    "topIds": [
+      "arrietty",
+      "crystal-envy",
+      "sam-star"
+    ],
+    "bottomIds": [
+      "hormona-lisa",
+      "lana-jarae"
+    ],
     "lipSync": {
       "song": "Get Him Back!",
-      "queenIds": ["hormona-lisa", "lana-jarae"],
-      "winnerIds": ["lana-jarae"],
-      "eliminatedIds": ["hormona-lisa"]
+      "queenIds": [
+        "hormona-lisa",
+        "lana-jarae"
+      ],
+      "winnerIds": [
+        "lana-jarae"
+      ],
+      "eliminatedIds": [
+        "hormona-lisa"
+      ]
     },
-    "guestJudges": [{ "name": "Hunter Schafer" }]
+    "guestJudges": [
+      {
+        "name": "Hunter Schafer"
+      }
+    ]
   },
   {
     "id": "US-S17-E07",
@@ -137,18 +288,44 @@
     "title": "Snatch Game",
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["onya-nurve"]
+      "winnerIds": [
+        "onya-nurve"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Nailed It!",
-    "topIds": ["jewels-sparkles", "lexi-love", "onya-nurve", "sam-star"],
-    "bottomIds": ["crystal-envy", "lana-jarae"],
+    "topIds": [
+      "jewels-sparkles",
+      "lexi-love",
+      "onya-nurve",
+      "sam-star"
+    ],
+    "bottomIds": [
+      "crystal-envy",
+      "lana-jarae"
+    ],
     "lipSync": {
       "song": "Hands to Myself",
-      "queenIds": ["crystal-envy", "lana-jarae"],
-      "winnerIds": ["lana-jarae"],
-      "eliminatedIds": ["crystal-envy"]
+      "queenIds": [
+        "crystal-envy",
+        "lana-jarae"
+      ],
+      "winnerIds": [
+        "lana-jarae"
+      ],
+      "eliminatedIds": [
+        "crystal-envy"
+      ]
     },
-    "guestJudges": [{ "name": "Quinta Brunson" }]
+    "guestJudges": [
+      {
+        "name": "Quinta Brunson"
+      }
+    ]
   },
   {
     "id": "US-S17-E08",
@@ -157,18 +334,44 @@
     "title": "The Wicked Wiz of Oz: The Rusical!",
     "maxiChallenge": {
       "name": "The Wicked Wiz of Oz: The Rusical!",
-      "winnerIds": ["sam-star"]
+      "winnerIds": [
+        "sam-star"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Parasols, Shady Ladies",
-    "topIds": ["jewels-sparkles", "onya-nurve", "sam-star", "suzie-toot"],
-    "bottomIds": ["acacia-forgot", "kori-king"],
+    "topIds": [
+      "jewels-sparkles",
+      "onya-nurve",
+      "sam-star",
+      "suzie-toot"
+    ],
+    "bottomIds": [
+      "acacia-forgot",
+      "kori-king"
+    ],
     "lipSync": {
       "song": "Wet Dream",
-      "queenIds": ["acacia-forgot", "kori-king"],
-      "winnerIds": ["kori-king"],
-      "eliminatedIds": ["acacia-forgot"]
+      "queenIds": [
+        "acacia-forgot",
+        "kori-king"
+      ],
+      "winnerIds": [
+        "kori-king"
+      ],
+      "eliminatedIds": [
+        "acacia-forgot"
+      ]
     },
-    "guestJudges": [{ "name": "Adam Lambert" }]
+    "guestJudges": [
+      {
+        "name": "Adam Lambert"
+      }
+    ]
   },
   {
     "id": "US-S17-E09",
@@ -177,21 +380,53 @@
     "title": "Heavens to Betsey!",
     "miniChallenge": {
       "name": "Reading is Fundamental",
-      "winnerIds": ["suzie-toot"]
+      "winnerIds": [
+        "suzie-toot"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Design looks inspired by a Betsey Johnson collection",
-      "winnerIds": ["jewels-sparkles"]
+      "winnerIds": [
+        "jewels-sparkles"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
-    "topIds": ["arrietty", "jewels-sparkles", "lexi-love"],
-    "bottomIds": ["kori-king", "lydia-b-kollins"],
+    "topIds": [
+      "arrietty",
+      "jewels-sparkles",
+      "lexi-love"
+    ],
+    "bottomIds": [
+      "kori-king",
+      "lydia-b-kollins"
+    ],
     "lipSync": {
       "song": "Kiss Me Deadly",
-      "queenIds": ["kori-king", "lydia-b-kollins"],
-      "winnerIds": ["lydia-b-kollins"],
-      "eliminatedIds": ["kori-king"]
+      "queenIds": [
+        "kori-king",
+        "lydia-b-kollins"
+      ],
+      "winnerIds": [
+        "lydia-b-kollins"
+      ],
+      "eliminatedIds": [
+        "kori-king"
+      ]
     },
-    "guestJudges": [{ "name": "Betsey Johnson" }]
+    "guestJudges": [
+      {
+        "name": "Betsey Johnson"
+      }
+    ]
   },
   {
     "id": "US-S17-E10",
@@ -200,18 +435,43 @@
     "title": "The Villains Roast",
     "maxiChallenge": {
       "name": "Perform a roast of Kandy Muse, Mistress Isabelle Brooks, and Plane Jane",
-      "winnerIds": ["lydia-b-kollins"]
+      "winnerIds": [
+        "lydia-b-kollins"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Who Wears Short Shorts?",
-    "topIds": ["lana-jarae", "lydia-b-kollins", "sam-star"],
-    "bottomIds": ["arrietty", "jewels-sparkles"],
+    "topIds": [
+      "lana-jarae",
+      "lydia-b-kollins",
+      "sam-star"
+    ],
+    "bottomIds": [
+      "arrietty",
+      "jewels-sparkles"
+    ],
     "lipSync": {
       "song": "Ya Ya",
-      "queenIds": ["arrietty", "jewels-sparkles"],
-      "winnerIds": ["jewels-sparkles"],
-      "eliminatedIds": ["arrietty"]
+      "queenIds": [
+        "arrietty",
+        "jewels-sparkles"
+      ],
+      "winnerIds": [
+        "jewels-sparkles"
+      ],
+      "eliminatedIds": [
+        "arrietty"
+      ]
     },
-    "guestJudges": [{ "name": "Whitney Cummings" }]
+    "guestJudges": [
+      {
+        "name": "Whitney Cummings"
+      }
+    ]
   },
   {
     "id": "US-S17-E11",
@@ -220,18 +480,44 @@
     "title": "Ross Mathews vs. The Ducks",
     "maxiChallenge": {
       "name": "Act in a Ross Mathews vs. The Ducks parody",
-      "winnerIds": ["onya-nurve"]
+      "winnerIds": [
+        "onya-nurve"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Black & White Ball",
-    "topIds": ["lexi-love", "onya-nurve", "sam-star", "suzie-toot"],
-    "bottomIds": ["lana-jarae", "lydia-b-kollins"],
+    "topIds": [
+      "lexi-love",
+      "onya-nurve",
+      "sam-star",
+      "suzie-toot"
+    ],
+    "bottomIds": [
+      "lana-jarae",
+      "lydia-b-kollins"
+    ],
     "lipSync": {
       "song": "Unholy",
-      "queenIds": ["lana-jarae", "lydia-b-kollins"],
-      "winnerIds": ["lana-jarae"],
-      "eliminatedIds": ["lydia-b-kollins"]
+      "queenIds": [
+        "lana-jarae",
+        "lydia-b-kollins"
+      ],
+      "winnerIds": [
+        "lana-jarae"
+      ],
+      "eliminatedIds": [
+        "lydia-b-kollins"
+      ]
     },
-    "guestJudges": [{ "name": "Sam Smith" }]
+    "guestJudges": [
+      {
+        "name": "Sam Smith"
+      }
+    ]
   },
   {
     "id": "US-S17-E12",
@@ -240,22 +526,54 @@
     "title": "Charisma, Uniqueness, Nerve & Talent Monologues",
     "miniChallenge": {
       "name": "Duo Drag Race bios",
-      "winnerIds": ["jewels-sparkles"]
+      "winnerIds": [
+        "jewels-sparkles"
+      ],
+      "earnings": {
+        "amount": 1000,
+        "currency": "USD",
+        "context": "$1000 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Perform paired C.U.N.T. monologues",
-      "winnerIds": ["lexi-love", "onya-nurve"]
+      "winnerIds": [
+        "lexi-love",
+        "onya-nurve"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash prize each"
+      }
     },
     "runwayTheme": "Ugliest Dress Ever",
-    "topIds": ["lexi-love", "onya-nurve"],
-    "bottomIds": ["lana-jarae", "sam-star"],
+    "topIds": [
+      "lexi-love",
+      "onya-nurve"
+    ],
+    "bottomIds": [
+      "lana-jarae",
+      "sam-star"
+    ],
     "lipSync": {
       "song": "Illusion",
-      "queenIds": ["lana-jarae", "sam-star"],
-      "winnerIds": ["sam-star"],
-      "eliminatedIds": ["lana-jarae"]
+      "queenIds": [
+        "lana-jarae",
+        "sam-star"
+      ],
+      "winnerIds": [
+        "sam-star"
+      ],
+      "eliminatedIds": [
+        "lana-jarae"
+      ]
     },
-    "guestJudges": [{ "name": "Jerrod Carmichael" }]
+    "guestJudges": [
+      {
+        "name": "Jerrod Carmichael"
+      }
+    ]
   },
   {
     "id": "US-S17-E13",
@@ -264,21 +582,51 @@
     "title": "Drag Baby Mamas",
     "miniChallenge": {
       "name": "Spill the T / superlatives",
-      "winnerIds": ["onya-nurve"]
+      "winnerIds": [
+        "onya-nurve"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2500 cash tip"
+      }
     },
     "maxiChallenge": {
       "name": "Make over parents into drag family members",
-      "winnerIds": ["sam-star"]
+      "winnerIds": [
+        "sam-star"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize (plus $2,500 cash prize for her drag member)"
+      }
     },
     "runwayTheme": "Drag Family Resemblance",
-    "topIds": ["sam-star", "suzie-toot"],
-    "bottomIds": ["jewels-sparkles", "onya-nurve"],
+    "topIds": [
+      "sam-star",
+      "suzie-toot"
+    ],
+    "bottomIds": [
+      "jewels-sparkles",
+      "onya-nurve"
+    ],
     "lipSync": {
       "song": "1 Thing",
-      "queenIds": ["jewels-sparkles", "onya-nurve"],
-      "winnerIds": ["jewels-sparkles", "onya-nurve"]
+      "queenIds": [
+        "jewels-sparkles",
+        "onya-nurve"
+      ],
+      "winnerIds": [
+        "jewels-sparkles",
+        "onya-nurve"
+      ]
     },
-    "guestJudges": [{ "name": "June Diane Raphael" }]
+    "guestJudges": [
+      {
+        "name": "June Diane Raphael"
+      }
+    ]
   },
   {
     "id": "US-S17-E14",
@@ -287,18 +635,43 @@
     "title": "How's Your Headliner?",
     "maxiChallenge": {
       "name": "Audition for Drag Race Live!",
-      "winnerIds": ["jewels-sparkles"]
+      "winnerIds": [
+        "jewels-sparkles"
+      ],
+      "earnings": {
+        "amount": 5000,
+        "currency": "USD",
+        "context": "$5,000 cash prize"
+      }
     },
     "runwayTheme": "Opulent Outerwear",
-    "topIds": ["jewels-sparkles", "lexi-love", "onya-nurve"],
-    "bottomIds": ["sam-star", "suzie-toot"],
+    "topIds": [
+      "jewels-sparkles",
+      "lexi-love",
+      "onya-nurve"
+    ],
+    "bottomIds": [
+      "sam-star",
+      "suzie-toot"
+    ],
     "lipSync": {
       "song": "Love Child",
-      "queenIds": ["sam-star", "suzie-toot"],
-      "winnerIds": ["sam-star"],
-      "eliminatedIds": ["suzie-toot"]
+      "queenIds": [
+        "sam-star",
+        "suzie-toot"
+      ],
+      "winnerIds": [
+        "sam-star"
+      ],
+      "eliminatedIds": [
+        "suzie-toot"
+      ]
     },
-    "guestJudges": [{ "name": "Tracee Ellis Ross" }]
+    "guestJudges": [
+      {
+        "name": "Tracee Ellis Ross"
+      }
+    ]
   },
   {
     "id": "US-S17-E15",
@@ -307,12 +680,19 @@
     "title": "Lip Sync LaLaPaRuZa Smackdown",
     "maxiChallenge": {
       "name": "Compete in a Lip Sync LaLaPaRuZa Smackdown tournament for eliminated queens",
-      "winnerIds": ["suzie-toot"]
+      "winnerIds": [
+        "suzie-toot"
+      ]
     },
     "lipSync": {
       "song": "APT.",
-      "queenIds": ["kori-king", "suzie-toot"],
-      "winnerIds": ["suzie-toot"]
+      "queenIds": [
+        "kori-king",
+        "suzie-toot"
+      ],
+      "winnerIds": [
+        "suzie-toot"
+      ]
     }
   },
   {
@@ -320,12 +700,24 @@
     "seasonId": "US-S17",
     "episodeNumber": 16,
     "title": "Grand Finale",
-    "topIds": ["jewels-sparkles", "onya-nurve"],
-    "bottomIds": ["lexi-love", "sam-star"],
+    "topIds": [
+      "jewels-sparkles",
+      "onya-nurve"
+    ],
+    "bottomIds": [
+      "lexi-love",
+      "sam-star"
+    ],
     "lipSync": {
       "song": "Abracadabra",
-      "queenIds": ["jewels-sparkles", "onya-nurve"],
-      "winnerIds": ["onya-nurve"]
+      "queenIds": [
+        "jewels-sparkles",
+        "onya-nurve"
+      ],
+      "winnerIds": [
+        "onya-nurve"
+      ],
+      "kind": "for-the-crown"
     }
   }
 ]

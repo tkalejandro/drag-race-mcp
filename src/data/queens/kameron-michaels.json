@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S10-E08",
-          "name": "Cher: The Unauthorized Rusical"
+          "name": "Cher: The Unauthorized Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "luxury VIP getaway to Sofitel Hotel in Los Angeles"
+          }
         }
       ],
       "miniChallengeWins": [],

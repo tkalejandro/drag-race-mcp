@@ -1,0 +1,44 @@
+{
+  "id": "siam-phusri",
+  "name": "Siam Phusri",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E06",
+          "song": "We Are Beautiful"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S03-E06"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "PHSR-S01-E01",
+          "name": "Present two looks for The Miss Shutacca: Slaysian Edition"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PHSR-S01-E04",
+          "name": "Drop Balls: bet on which Pit Crew member's face a ball will land on"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PHSR-S01-E01",
+          "song": "Debut"
+        }
+      ],
+      "eliminatedEpisodeId": "PHSR-S01-E06"
+    }
+  ]
+}

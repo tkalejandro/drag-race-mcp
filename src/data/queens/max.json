@@ -11,11 +11,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S07-E03",
-          "name": "In teams, star in twisted Shakespeare classics MacBitch and Romy and Juliet"
+          "name": "In teams, star in twisted Shakespeare classics MacBitch and Romy and Juliet",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "Two couture latex creations, courtesy of Syren Latex",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S07-E05",
-          "name": "Present awards with banter at the DESPY Awards"
+          "name": "Present awards with banter at the DESPY Awards",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "custom jewel packages, courtesy of Fierce Drag Jewels",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

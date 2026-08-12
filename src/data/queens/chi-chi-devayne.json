@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S08-E02",
-          "name": "Collegiate a cappella sing-off (Bitch Perfect)"
+          "name": "Collegiate a cappella sing-off (Bitch Perfect)",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "4 night getaway to a bed and breakfast in New England"
+          }
         }
       ],
       "miniChallengeWins": [
@@ -38,6 +43,15 @@
         }
       ],
       "eliminatedEpisodeId": "US-S08-E09"
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S03-E04"
     }
   ]
 }

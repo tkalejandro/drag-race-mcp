@@ -15,7 +15,11 @@
         {
           "episodeId": "CA-S06-E07",
           "name": "Star in a perfume commercial",
-          "earnings": { "amount": 2500, "currency": "CAD" }
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "CA$2,500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

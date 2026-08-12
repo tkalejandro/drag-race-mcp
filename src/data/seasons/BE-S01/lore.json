@@ -1,0 +1,20 @@
+[
+  {
+    "id": "be-s01-couenne-crown",
+    "title": "Drag Couenne wins Drag Race Belgique Season 1",
+    "summary": "In the Grande Finale (BE-S01-E08), Athena Sorgelikis and Drag Couenne lip-synced to Angèle ft. Damso's \"Démons\". Drag Couenne was crowned the winner of the first season of Drag Race Belgique; Athena Sorgelikis finished as runner-up. Susan placed third.",
+    "tags": ["crown", "finale", "lip-sync", "international"],
+    "queenIds": ["drag-couenne", "athena-sorgelikis", "susan"],
+    "seasonIds": ["BE-S01"],
+    "episodeIds": ["BE-S01-E08"]
+  },
+  {
+    "id": "be-s01-brittany-porkchop",
+    "title": "Brittany Von Bottoks: Belgium's first Porkchop",
+    "summary": "Brittany Von Bottoks was the first contestant eliminated on Drag Race Belgique (BE-S01-E01), lip-syncing to Stromae's \"Tous les mêmes\" against Amanda Tears.",
+    "tags": ["porkchop", "international"],
+    "queenIds": ["brittany-von-bottoks", "amanda-tears"],
+    "seasonIds": ["BE-S01"],
+    "episodeIds": ["BE-S01-E01"]
+  }
+]

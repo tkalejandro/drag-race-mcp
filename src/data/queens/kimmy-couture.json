@@ -8,13 +8,25 @@
       "challengeWins": [
         {
           "episodeId": "CA-S03-E02",
-          "name": "Host and present segments of the Who-Knows awards show"
+          "name": "Host and present segments of the Who-Knows awards show",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$5,000 and a weekend getaway for two to Prince Edward County, courtesy of Welcome to the Dans",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "CA-S03-E07",
-          "name": "Audition for a parody sci-fi film"
+          "name": "Audition for a parody sci-fi film",
+          "earnings": {
+            "amount": 0,
+            "currency": "CAD",
+            "context": "$2,500 cash courtesy of Made",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [

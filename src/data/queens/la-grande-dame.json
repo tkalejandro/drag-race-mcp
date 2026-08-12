@@ -1,0 +1,71 @@
+{
+  "id": "la-grande-dame",
+  "name": "La Grande Dame",
+  "appearances": [
+    {
+      "seasonId": "FR-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "FR-S01-E04",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "gift valued at €2,000 courtesy of La Maison Patou",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "FR-S01-E02",
+          "name": "Rock 'n' roll show quick-drag"
+        },
+        {
+          "episodeId": "FR-S01-E05",
+          "name": "In pairs, paint each other's faces while blindfolded"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S01-E07",
+          "song": "La grenade"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S01-E08",
+          "song": "Mourir sur scène"
+        }
+      ]
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E01",
+          "name": "Perform in The Queen's Variety Show"
+        },
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "name": "The Happy Ending Ball"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S02-E02",
+          "song": "Everytime We Touch"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S02-E01",
+          "song": "Dreamer"
+        }
+      ]
+    }
+  ]
+}

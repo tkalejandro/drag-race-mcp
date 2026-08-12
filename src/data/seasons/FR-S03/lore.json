@@ -1,0 +1,20 @@
+[
+  {
+    "id": "fr-s03-le-filip-crown",
+    "title": "Le Filip wins Drag Race France Season 3",
+    "summary": "In the Grand Finale (FR-S03-E08), Le Filip defeated Ruby on the Nail in the Lip Sync for the Crown to Céline Dion's \"I'm Alive\", becoming Drag Race France's third Drag Superstar. Leona Winter and Lula Strega were eliminated from the final four without a lip sync.",
+    "tags": ["crown", "finale", "lip-sync"],
+    "queenIds": ["le-filip", "ruby-on-the-nail", "leona-winter", "lula-strega"],
+    "seasonIds": ["FR-S03"],
+    "episodeIds": ["FR-S03-E08"]
+  },
+  {
+    "id": "fr-s03-afrodite-amour-porkchop",
+    "title": "Afrodite Amour: France Season 3's first Porkchop",
+    "summary": "Afrodite Amour was the first contestant eliminated on Drag Race France season 3 (FR-S03-E01), losing the lip sync to \"Sur le fil\" against Edeha Noire.",
+    "tags": ["porkchop"],
+    "queenIds": ["afrodite-amour", "edeha-noire"],
+    "seasonIds": ["FR-S03"],
+    "episodeIds": ["FR-S03-E01"]
+  }
+]

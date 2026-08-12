@@ -1,0 +1,68 @@
+{
+  "id": "AS-S09",
+  "franchise": "AS",
+  "name": "RuPaul's Drag Race All Stars Season 9",
+  "seasonNumber": 9,
+  "year": 2024,
+  "episodeCount": 12,
+  "episodeIds": [
+    "AS-S09-E01",
+    "AS-S09-E02",
+    "AS-S09-E03",
+    "AS-S09-E04",
+    "AS-S09-E05",
+    "AS-S09-E06",
+    "AS-S09-E07",
+    "AS-S09-E08",
+    "AS-S09-E09",
+    "AS-S09-E10",
+    "AS-S09-E11",
+    "AS-S09-E12"
+  ],
+  "castIds": [
+    "angeria-paris-vanmicheals",
+    "roxxxy-andrews",
+    "vanessa-vanjie-mateo",
+    "gottmik",
+    "jorgeous",
+    "nina-west",
+    "plastique-tiara",
+    "shannel"
+  ],
+  "winnerIds": [
+    "angeria-paris-vanmicheals"
+  ],
+  "runnerUpIds": [
+    "roxxxy-andrews",
+    "vanessa-vanjie-mateo"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Carson Kressley"
+    },
+    {
+      "name": "Ross Mathews"
+    },
+    {
+      "name": "Ts Madison"
+    }
+  ],
+  "isCharity": true,
+  "cashPrice": {
+    "amount": 200000,
+    "currency": "USD",
+    "isCharity": true,
+    "context": "$200,000 charity prize"
+  }
+}

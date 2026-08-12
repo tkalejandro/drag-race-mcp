@@ -8,11 +8,21 @@
       "challengeWins": [
         {
           "episodeId": "US-S18-E01",
-          "name": "Design a look from leftover past-season materials"
+          "name": "Design a look from leftover past-season materials",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         },
         {
           "episodeId": "US-S18-E08",
-          "name": "Snatch Game of Love Island"
+          "name": "Snatch Game of Love Island",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         }
       ],
       "miniChallengeWins": [],

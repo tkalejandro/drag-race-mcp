@@ -1,0 +1,51 @@
+{
+  "id": "le-coco",
+  "name": "Le Cocó",
+  "appearances": [
+    {
+      "seasonId": "ES-S04",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S04-E07",
+          "name": "Product ads",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a sex toys set from LELO"
+          }
+        },
+        {
+          "episodeId": "ES-S04-E08",
+          "name": "Roast / awards show",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a two-night hotel stay in Torremolinos"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S04-E05",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S04-E09",
+          "song": "Las Babys"
+        },
+        {
+          "episodeId": "ES-S04-E11",
+          "song": "Diva"
+        },
+        {
+          "episodeId": "ES-S04-E12",
+          "song": "Va todo al ganador"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rose-fr",
+  "name": "Rose",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S02-E01",
+          "song": "3SEX"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S02-E01"
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+[
+  {
+    "id": "MX-S02-E01",
+    "seasonId": "MX-S02",
+    "episodeNumber": 1,
+    "title": "From Terror to Glamour",
+    "maxiChallenge": {
+      "name": "Present two looks on the runway",
+      "winnerIds": [
+        "elektra-vandergeld"
+      ],
+      "earnings": {
+        "amount": 18000,
+        "currency": "MXN",
+        "context": "MX$ 18,000 cash tip"
+      }
+    },
+    "runwayTheme": "Mis Raíces (My Roots) / Jotéame el Look (Sissy that Frock)",
+    "topIds": [
+      "elektra-vandergeld",
+      "garconne",
+      "leexa-fox"
+    ],
+    "bottomIds": [
+      "ava-pocket",
+      "ignus-ars"
+    ],
+    "lipSync": {
+      "song": "Me río de ti",
+      "queenIds": [
+        "ava-pocket",
+        "ignus-ars"
+      ],
+      "winnerIds": [
+        "ava-pocket"
+      ],
+      "eliminatedIds": [
+        "ignus-ars"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Lucía Méndez"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E02",
+    "seasonId": "MX-S02",
+    "episodeNumber": 2,
+    "title": "Dance and Silver",
+    "miniChallenge": {
+      "name": "Drag Race trivia",
+      "winnerIds": [
+        "horacio-potasio"
+      ]
+    },
+    "maxiChallenge": {
+      "name": "Perform in a dance crew battle",
+      "winnerIds": [
+        "horacio-potasio"
+      ]
+    },
+    "runwayTheme": "Chicas de Plata (Silver Girls)",
+    "topIds": [
+      "ava-pocket",
+      "elektra-vandergeld",
+      "horacio-potasio"
+    ],
+    "bottomIds": [
+      "nina-de-la-fuente",
+      "unique"
+    ],
+    "lipSync": {
+      "song": "Mujer Latina",
+      "queenIds": [
+        "nina-de-la-fuente",
+        "unique"
+      ],
+      "winnerIds": [
+        "unique"
+      ],
+      "eliminatedIds": [
+        "nina-de-la-fuente"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Herly RG"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E03",
+    "seasonId": "MX-S02",
+    "episodeNumber": 3,
+    "title": "Fair Ball",
+    "miniChallenge": {
+      "name": "Photoshoot posing as alien hunters in space",
+      "winnerIds": [
+        "eva-blunt",
+        "unique"
+      ],
+      "earnings": {
+        "amount": 9000,
+        "currency": "MXN",
+        "context": "MX$ 9,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "The Fair Ball: create three looks",
+      "winnerIds": [
+        "leexa-fox"
+      ]
+    },
+    "runwayTheme": "Fair Food / Fair Game / Fair Prize",
+    "topIds": [
+      "eva-blunt",
+      "horacio-potasio",
+      "leexa-fox"
+    ],
+    "bottomIds": [
+      "luna-lansman",
+      "maria-bonita"
+    ],
+    "lipSync": {
+      "song": "Ni una Sola Palabra",
+      "queenIds": [
+        "luna-lansman",
+        "maria-bonita"
+      ],
+      "winnerIds": [
+        "luna-lansman"
+      ],
+      "eliminatedIds": [
+        "maria-bonita"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Polo Morín"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E04",
+    "seasonId": "MX-S02",
+    "episodeNumber": 4,
+    "title": "Drag Saturday",
+    "miniChallenge": {
+      "name": "Reading is Fundamental",
+      "winnerIds": [
+        "elektra-vandergeld",
+        "eva-blunt"
+      ],
+      "earnings": {
+        "amount": 9000,
+        "currency": "MXN",
+        "context": "MX$ 9,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to \"Ya No Quiero\" and \"Lonely\"",
+      "winnerIds": [
+        "jenary-bloom"
+      ]
+    },
+    "runwayTheme": "Futudrag Folklorica 5000",
+    "topIds": [
+      "elektra-vandergeld",
+      "eva-blunt",
+      "jenary-bloom"
+    ],
+    "bottomIds": [
+      "garconne",
+      "unique"
+    ],
+    "lipSync": {
+      "song": "La Calle de las Sirenas",
+      "queenIds": [
+        "garconne",
+        "unique"
+      ],
+      "winnerIds": [
+        "unique"
+      ],
+      "eliminatedIds": [
+        "garconne"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Victoria Volkova"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E05",
+    "seasonId": "MX-S02",
+    "episodeNumber": 5,
+    "title": "Snatch Game",
+    "maxiChallenge": {
+      "name": "Snatch Game",
+      "winnerIds": [
+        "luna-lansman"
+      ]
+    },
+    "runwayTheme": "Antisistema (Anti-System)",
+    "topIds": [
+      "leexa-fox",
+      "luna-lansman",
+      "unique"
+    ],
+    "bottomIds": [
+      "ava-pocket",
+      "elektra-vandergeld"
+    ],
+    "lipSync": {
+      "song": "Reina de Corazones",
+      "queenIds": [
+        "ava-pocket",
+        "elektra-vandergeld"
+      ],
+      "winnerIds": [
+        "elektra-vandergeld"
+      ],
+      "eliminatedIds": [
+        "ava-pocket"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Turbulence"
+      },
+      {
+        "name": "Burrita Burrona"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E06",
+    "seasonId": "MX-S02",
+    "episodeNumber": 6,
+    "title": "National Drag",
+    "maxiChallenge": {
+      "name": "Create an outfit made from sports equipment",
+      "winnerIds": [
+        "eva-blunt",
+        "luna-lansman"
+      ]
+    },
+    "runwayTheme": "Nacionales del Drag",
+    "topIds": [
+      "eva-blunt",
+      "horacio-potasio",
+      "luna-lansman"
+    ],
+    "bottomIds": [
+      "suculenta",
+      "unique"
+    ],
+    "lipSync": {
+      "song": "Agüita",
+      "queenIds": [
+        "suculenta",
+        "unique"
+      ],
+      "winnerIds": [
+        "unique"
+      ],
+      "eliminatedIds": [
+        "suculenta"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Jhonny Caz"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E07",
+    "seasonId": "MX-S02",
+    "episodeNumber": 7,
+    "title": "Three Marias",
+    "maxiChallenge": {
+      "name": "Las Tres Marías: El Rusical",
+      "winnerIds": [
+        "jenary-bloom"
+      ]
+    },
+    "runwayTheme": "Amarillo como el sol",
+    "topIds": [
+      "elektra-vandergeld",
+      "eva-blunt",
+      "jenary-bloom"
+    ],
+    "bottomIds": [
+      "horacio-potasio",
+      "luna-lansman"
+    ],
+    "lipSync": {
+      "song": "Me Hipnotizas",
+      "queenIds": [
+        "horacio-potasio",
+        "luna-lansman"
+      ],
+      "winnerIds": [
+        "horacio-potasio"
+      ],
+      "eliminatedIds": [
+        "luna-lansman"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Chantal Andere"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E08",
+    "seasonId": "MX-S02",
+    "episodeNumber": 8,
+    "title": "Good Afternoon Mexico",
+    "miniChallenge": {
+      "name": "Do your makeup with only one hand while riding a fake bus",
+      "winnerIds": [
+        "elektra-vandergeld",
+        "unique"
+      ],
+      "earnings": {
+        "amount": 9000,
+        "currency": "MXN",
+        "context": "MX$ 9,000 cash tip"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Improvise as television presenters in \"¡Buenas Tardes, México!\"",
+      "winnerIds": [
+        "jenary-bloom",
+        "unique"
+      ]
+    },
+    "runwayTheme": "Dulces de México (Mexican Candy)",
+    "topIds": [
+      "jenary-bloom",
+      "unique"
+    ],
+    "bottomIds": [
+      "horacio-potasio",
+      "leexa-fox"
+    ],
+    "lipSync": {
+      "song": "One, Two, Three, Go!",
+      "queenIds": [
+        "horacio-potasio",
+        "leexa-fox"
+      ],
+      "winnerIds": [
+        "horacio-potasio",
+        "leexa-fox"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "La Supermana"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E09",
+    "seasonId": "MX-S02",
+    "episodeNumber": 9,
+    "title": "First Mexican Roast",
+    "maxiChallenge": {
+      "name": "Perform a roast of Cristian Peralta, Gala Varo, Matraka and Regina Voce",
+      "winnerIds": [
+        "horacio-potasio"
+      ]
+    },
+    "runwayTheme": "La Noche de las Mil Selenas",
+    "topIds": [
+      "elektra-vandergeld",
+      "horacio-potasio"
+    ],
+    "bottomIds": [
+      "jenary-bloom",
+      "unique"
+    ],
+    "lipSync": {
+      "song": "Techno Cumbia",
+      "queenIds": [
+        "jenary-bloom",
+        "unique"
+      ],
+      "winnerIds": [
+        "jenary-bloom"
+      ],
+      "eliminatedIds": [
+        "unique"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Manolo Caro"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E10",
+    "seasonId": "MX-S02",
+    "episodeNumber": 10,
+    "title": "Family Makeover",
+    "maxiChallenge": {
+      "name": "Makeover a loved one into a drag wrestler",
+      "winnerIds": [
+        "eva-blunt"
+      ]
+    },
+    "runwayTheme": "Luchadóras Exoticas",
+    "topIds": [
+      "eva-blunt",
+      "horacio-potasio",
+      "leexa-fox"
+    ],
+    "bottomIds": [
+      "elektra-vandergeld",
+      "jenary-bloom"
+    ],
+    "lipSync": {
+      "song": "Azúcar amargo",
+      "queenIds": [
+        "elektra-vandergeld",
+        "jenary-bloom"
+      ],
+      "winnerIds": [
+        "jenary-bloom"
+      ],
+      "eliminatedIds": [
+        "elektra-vandergeld"
+      ]
+    },
+    "guestJudges": [
+      {
+        "name": "Benito Santos"
+      }
+    ]
+  },
+  {
+    "id": "MX-S02-E11",
+    "seasonId": "MX-S02",
+    "episodeNumber": 11,
+    "title": "The Reunion"
+  },
+  {
+    "id": "MX-S02-E12",
+    "seasonId": "MX-S02",
+    "episodeNumber": 12,
+    "title": "Grand Finale",
+    "maxiChallenge": {
+      "name": "Perform a talent in front of the judges",
+      "winnerIds": []
+    },
+    "runwayTheme": "Glamour de Final (Finale Glamour)",
+    "topIds": [
+      "eva-blunt",
+      "horacio-potasio",
+      "jenary-bloom",
+      "leexa-fox"
+    ],
+    "lipSync": {
+      "song": "Bzrp Music Sessions, Vol. 53",
+      "queenIds": [
+        "eva-blunt",
+        "horacio-potasio",
+        "jenary-bloom",
+        "leexa-fox"
+      ],
+      "winnerIds": [
+        "leexa-fox"
+      ],
+      "kind": "for-the-crown"
+    }
+  }
+]

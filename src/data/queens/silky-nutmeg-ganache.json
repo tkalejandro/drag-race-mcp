@@ -8,25 +8,54 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E04",
-          "name": "Trump: The Rusical"
+          "name": "Trump: The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "getaway to The Grand Resort and Spa in Fort Lauderdale"
+          }
         },
         {
           "episodeId": "US-S11-E08",
-          "name": "Snatch Game at Sea"
+          "name": "Snatch Game at Sea",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$5,000 gift certificate from VACAYA",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E01",
-          "name": "Photoshoot with past Drag Race queens"
+          "name": "Photoshoot with past Drag Race queens",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from Arda Wigs",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E02",
-          "name": "Photobomb iconic celebrity pictures"
+          "name": "Photobomb iconic celebrity pictures",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 gift card from Fierce Queen",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S11-E08",
-          "name": "Pitch your own Self-Help Book"
+          "name": "Pitch your own Self-Help Book",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 credit from Postmates",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -36,6 +65,79 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 11,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E10",
+          "song": "Free Your Mind / Girls Just Want to Have Fun / Point of No Return / Song for the Lonely / Barbie Girl / Heartbreaker / Focus / Since U Been Gone"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S06-E03"
+    },
+    {
+      "seasonId": "AS-S11",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S11-E05",
+          "name": "Create, direct, and shoot a short informational how-to video"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S11-E05",
+          "song": "Hazy Shade of Winter",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S11-E12",
+          "song": "Star Love / The Boss / The Main Event/Fight / Knock on Wood / MacArthur Park"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "AS-S11-E12"
+    },
+    {
+      "seasonId": "CVTW-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CVTW-S01-E03",
+          "name": "The Weather Ball"
+        },
+        {
+          "episodeId": "CVTW-S01-E04",
+          "name": "Write and perform a comedy routine"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "CVTW-S01-E03",
+          "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CVTW-S01-E04",
+          "song": "Your Daddy Don't Know"
+        },
+        {
+          "episodeId": "CVTW-S01-E06",
+          "song": "River Deep – Mountain High"
+        }
+      ]
     }
   ]
 }

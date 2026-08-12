@@ -8,13 +8,25 @@
       "challengeWins": [
         {
           "episodeId": "US-S11-E02",
-          "name": "Perform in drag film adaptations of Black Panther and Get Out"
+          "name": "Perform in drag film adaptations of Black Panther and Get Out",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$2,500 gift card from The Crème Shop",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
         {
           "episodeId": "US-S11-E04",
-          "name": "Why You Maddow, Tho?"
+          "name": "Why You Maddow, Tho?",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$3,000 gift card from The Divas Jewels",
+            "isSponsor": true
+          }
         }
       ],
       "lipSyncWins": [
@@ -30,6 +42,39 @@
         }
       ],
       "eliminatedEpisodeId": "US-S11-E06"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E10",
+          "song": "Free Your Mind / Girls Just Want to Have Fun / Point of No Return / Song for the Lonely / Barbie Girl / Heartbreaker / Focus / Since U Been Gone"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S06-E05"
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S02-E03",
+          "name": "In teams of three, write and film a promotional video for Drag Race World"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S02-E03",
+          "song": "Future Starts Now"
+        }
+      ],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "UKVTW-S02-E07"
     }
   ]
 }

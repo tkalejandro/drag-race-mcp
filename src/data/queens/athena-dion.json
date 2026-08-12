@@ -8,7 +8,12 @@
       "challengeWins": [
         {
           "episodeId": "US-S18-E06",
-          "name": "Perform a talent show for Rate-A-Queen (group 2)"
+          "name": "Perform a talent show for Rate-A-Queen (group 2)",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000 cash prize"
+          }
         }
       ],
       "miniChallengeWins": [],

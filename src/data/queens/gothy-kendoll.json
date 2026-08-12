@@ -10,8 +10,20 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S01-E01", "song": "New Rules" }
+        {
+          "episodeId": "UK-S01-E01",
+          "song": "New Rules"
+        }
       ]
+    },
+    {
+      "seasonId": "UKVTW-S02",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "UKVTW-S02-E05"
     }
   ]
 }

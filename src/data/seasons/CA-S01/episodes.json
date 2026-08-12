@@ -6,21 +6,55 @@
     "title": "Eh-laganza Eh-xtravaganza",
     "miniChallenge": {
       "name": "Photoshoot atop a replica of the Rocky Mountains",
-      "winnerIds": ["kyne"]
+      "winnerIds": [
+        "kyne"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 of latex couture from Polymorphe",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Create a couture outfit from a box of items themed around various aspects of Canada",
-      "winnerIds": ["rita-baga"]
+      "winnerIds": [
+        "rita-baga"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 shopping spree from Roots Canada",
+        "isSponsor": true
+      }
     },
-    "topIds": ["rita-baga", "boa", "jimbo"],
-    "bottomIds": ["juice-boxx", "lemon"],
+    "topIds": [
+      "rita-baga",
+      "boa",
+      "jimbo"
+    ],
+    "bottomIds": [
+      "juice-boxx",
+      "lemon"
+    ],
     "lipSync": {
       "song": "I Really Like You",
-      "queenIds": ["juice-boxx", "lemon"],
-      "winnerIds": ["lemon"],
-      "eliminatedIds": ["juice-boxx"]
+      "queenIds": [
+        "juice-boxx",
+        "lemon"
+      ],
+      "winnerIds": [
+        "lemon"
+      ],
+      "eliminatedIds": [
+        "juice-boxx"
+      ]
     },
-    "guestJudges": [{ "name": "Elisha Cuthbert" }]
+    "guestJudges": [
+      {
+        "name": "Elisha Cuthbert"
+      }
+    ]
   },
   {
     "id": "CA-S01-E02",
@@ -29,22 +63,58 @@
     "title": "Her-itage Moments",
     "miniChallenge": {
       "name": "Get into quick drag and audition for a role as a ballerina in The Nutsmacker",
-      "winnerIds": ["anastarzia-anaquway", "boa"]
+      "winnerIds": [
+        "anastarzia-anaquway",
+        "boa"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 gift certificate from Wigs And Grace",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, overact in parodies of Heritage Minutes",
-      "winnerIds": ["lemon"]
+      "winnerIds": [
+        "lemon"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$5,000 worth of Anastasia Beverly Hills cosmetics",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Not My First Time",
-    "topIds": ["lemon", "jimbo", "kiara", "priyanka"],
-    "bottomIds": ["kyne", "tynomi-banks"],
+    "topIds": [
+      "lemon",
+      "jimbo",
+      "kiara",
+      "priyanka"
+    ],
+    "bottomIds": [
+      "kyne",
+      "tynomi-banks"
+    ],
     "lipSync": {
       "song": "If You Could Read My Mind",
-      "queenIds": ["kyne", "tynomi-banks"],
-      "winnerIds": ["tynomi-banks"],
-      "eliminatedIds": ["kyne"]
+      "queenIds": [
+        "kyne",
+        "tynomi-banks"
+      ],
+      "winnerIds": [
+        "tynomi-banks"
+      ],
+      "eliminatedIds": [
+        "kyne"
+      ]
     },
-    "guestJudges": [{ "name": "Jade Hassouné" }]
+    "guestJudges": [
+      {
+        "name": "Jade Hassouné"
+      }
+    ]
   },
   {
     "id": "CA-S01-E03",
@@ -53,22 +123,57 @@
     "title": "Not Sorry Aboot It",
     "miniChallenge": {
       "name": "Get into quick drag and perform an audition for the morning show Canada Gay M while reading from a teleprompter in English, French, and Draglish",
-      "winnerIds": ["lemon", "priyanka"]
+      "winnerIds": [
+        "lemon",
+        "priyanka"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$2,000 worth of drag jewels from Amped Accessories",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Write, record, and perform verses to Not Sorry Aboot It",
-      "winnerIds": ["priyanka"]
+      "winnerIds": [
+        "priyanka"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "luxury stay at the Hilton Lac-Leamy",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Que-Becky With the Good Hair",
-    "topIds": ["priyanka", "boa", "scarlett-bobo"],
-    "bottomIds": ["anastarzia-anaquway", "tynomi-banks"],
+    "topIds": [
+      "priyanka",
+      "boa",
+      "scarlett-bobo"
+    ],
+    "bottomIds": [
+      "anastarzia-anaquway",
+      "tynomi-banks"
+    ],
     "lipSync": {
       "song": "Absolutely Not (Chanel Club Mix)",
-      "queenIds": ["anastarzia-anaquway", "tynomi-banks"],
-      "winnerIds": ["tynomi-banks"],
-      "eliminatedIds": ["anastarzia-anaquway"]
+      "queenIds": [
+        "anastarzia-anaquway",
+        "tynomi-banks"
+      ],
+      "winnerIds": [
+        "tynomi-banks"
+      ],
+      "eliminatedIds": [
+        "anastarzia-anaquway"
+      ]
     },
-    "guestJudges": [{ "name": "Deborah Cox" }]
+    "guestJudges": [
+      {
+        "name": "Deborah Cox"
+      }
+    ]
   },
   {
     "id": "CA-S01-E04",
@@ -77,21 +182,53 @@
     "title": "Single-Use Queens",
     "miniChallenge": {
       "name": "Play a memory game with the pit crew's underwear colors",
-      "winnerIds": ["jimbo"]
+      "winnerIds": [
+        "jimbo"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "VIP stay at the Hilton Toronto",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, create a cohesive fashion line made out of garbage",
-      "winnerIds": ["rita-baga"]
+      "winnerIds": [
+        "rita-baga"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "shopping spree at Fabric Land",
+        "isSponsor": true
+      }
     },
-    "topIds": ["rita-baga"],
-    "bottomIds": ["ilona-verley", "tynomi-banks"],
+    "topIds": [
+      "rita-baga"
+    ],
+    "bottomIds": [
+      "ilona-verley",
+      "tynomi-banks"
+    ],
     "lipSync": {
       "song": "Girlfriend",
-      "queenIds": ["ilona-verley", "tynomi-banks"],
-      "winnerIds": ["ilona-verley"],
-      "eliminatedIds": ["tynomi-banks"]
+      "queenIds": [
+        "ilona-verley",
+        "tynomi-banks"
+      ],
+      "winnerIds": [
+        "ilona-verley"
+      ],
+      "eliminatedIds": [
+        "tynomi-banks"
+      ]
     },
-    "guestJudges": [{ "name": "Evan Biddell" }]
+    "guestJudges": [
+      {
+        "name": "Evan Biddell"
+      }
+    ]
   },
   {
     "id": "CA-S01-E05",
@@ -100,22 +237,56 @@
     "title": "Snatch Game",
     "miniChallenge": {
       "name": "Reading Is Fundamental",
-      "winnerIds": ["lemon"]
+      "winnerIds": [
+        "lemon"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 gift card to LAGconcepts",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Snatch Game",
-      "winnerIds": ["jimbo"]
+      "winnerIds": [
+        "jimbo"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "Cruise",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Night of a Thousand Céline Dion's",
-    "topIds": ["jimbo", "lemon", "rita-baga"],
-    "bottomIds": ["kiara", "priyanka"],
+    "topIds": [
+      "jimbo",
+      "lemon",
+      "rita-baga"
+    ],
+    "bottomIds": [
+      "kiara",
+      "priyanka"
+    ],
     "lipSync": {
       "song": "I Drove All Night",
-      "queenIds": ["kiara", "priyanka"],
-      "winnerIds": ["priyanka"],
-      "eliminatedIds": ["kiara"]
+      "queenIds": [
+        "kiara",
+        "priyanka"
+      ],
+      "winnerIds": [
+        "priyanka"
+      ],
+      "eliminatedIds": [
+        "kiara"
+      ]
     },
-    "guestJudges": [{ "name": "Mary Walsh" }]
+    "guestJudges": [
+      {
+        "name": "Mary Walsh"
+      }
+    ]
   },
   {
     "id": "CA-S01-E06",
@@ -124,22 +295,56 @@
     "title": "Star Sixty-Nine",
     "miniChallenge": {
       "name": "Get into quick drag and play psychic hotline operators",
-      "winnerIds": ["lemon"]
+      "winnerIds": [
+        "lemon"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 worth of Bailey Nelson eyewear",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "In teams, write and produce commercials for fictional drag queen law firms",
-      "winnerIds": ["rita-baga"]
+      "winnerIds": [
+        "rita-baga"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$10,000 custom-designed wardrobe from Northbound Leather",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Canadian 'Tuck'-shedo",
-    "topIds": ["rita-baga", "jimbo", "scarlett-bobo"],
-    "bottomIds": ["boa", "ilona-verley"],
+    "topIds": [
+      "rita-baga",
+      "jimbo",
+      "scarlett-bobo"
+    ],
+    "bottomIds": [
+      "boa",
+      "ilona-verley"
+    ],
     "lipSync": {
       "song": "Scars to Your Beautiful",
-      "queenIds": ["boa", "ilona-verley"],
-      "winnerIds": ["ilona-verley"],
-      "eliminatedIds": ["boa"]
+      "queenIds": [
+        "boa",
+        "ilona-verley"
+      ],
+      "winnerIds": [
+        "ilona-verley"
+      ],
+      "eliminatedIds": [
+        "boa"
+      ]
     },
-    "guestJudges": [{ "name": "Tom Green" }]
+    "guestJudges": [
+      {
+        "name": "Tom Green"
+      }
+    ]
   },
   {
     "id": "CA-S01-E07",
@@ -148,18 +353,43 @@
     "title": "Miss Loose Jaw",
     "maxiChallenge": {
       "name": "Compete in The Miss Loose Jaw Pageant",
-      "winnerIds": ["lemon"]
+      "winnerIds": [
+        "lemon"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "trip for two to Iceland from Pink Iceland",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Pageant Perfection",
-    "topIds": ["lemon", "scarlett-bobo"],
-    "bottomIds": ["ilona-verley", "priyanka"],
+    "topIds": [
+      "lemon",
+      "scarlett-bobo"
+    ],
+    "bottomIds": [
+      "ilona-verley",
+      "priyanka"
+    ],
     "lipSync": {
       "song": "Hello",
-      "queenIds": ["ilona-verley", "priyanka"],
-      "winnerIds": ["priyanka"],
-      "eliminatedIds": ["ilona-verley"]
+      "queenIds": [
+        "ilona-verley",
+        "priyanka"
+      ],
+      "winnerIds": [
+        "priyanka"
+      ],
+      "eliminatedIds": [
+        "ilona-verley"
+      ]
     },
-    "guestJudges": [{ "name": "Allie X" }]
+    "guestJudges": [
+      {
+        "name": "Allie X"
+      }
+    ]
   },
   {
     "id": "CA-S01-E08",
@@ -168,22 +398,55 @@
     "title": "Welcome to the Family",
     "miniChallenge": {
       "name": "Everybody Loves Puppets",
-      "winnerIds": ["scarlett-bobo"]
+      "winnerIds": [
+        "scarlett-bobo"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "trip for two to Cuba and assign the makeover pairs",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "Makeover LGBT refugees who have recently moved to Canada through Rainbow Railroad",
-      "winnerIds": ["priyanka"]
+      "winnerIds": [
+        "priyanka"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$10,000 donation in the winner's name to Rainbow Railroad",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "A Family Affair",
-    "topIds": ["priyanka", "scarlett-bobo"],
-    "bottomIds": ["lemon", "rita-baga"],
+    "topIds": [
+      "priyanka",
+      "scarlett-bobo"
+    ],
+    "bottomIds": [
+      "lemon",
+      "rita-baga"
+    ],
     "lipSync": {
       "song": "You Oughta Know",
-      "queenIds": ["lemon", "rita-baga"],
-      "winnerIds": ["rita-baga"],
-      "eliminatedIds": ["lemon"]
+      "queenIds": [
+        "lemon",
+        "rita-baga"
+      ],
+      "winnerIds": [
+        "rita-baga"
+      ],
+      "eliminatedIds": [
+        "lemon"
+      ]
     },
-    "guestJudges": [{ "name": "Amanda Brugel" }]
+    "guestJudges": [
+      {
+        "name": "Amanda Brugel"
+      }
+    ]
   },
   {
     "id": "CA-S01-E09",
@@ -192,22 +455,54 @@
     "title": "The Snow Ball",
     "miniChallenge": {
       "name": "Sing O Canada as a local chanteuse",
-      "winnerIds": ["rita-baga"]
+      "winnerIds": [
+        "rita-baga"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "$1,000 gift certificate courtesy of Dirt Squirrel",
+        "isSponsor": true
+      }
     },
     "maxiChallenge": {
       "name": "The Snow Ball: Executive Holiday Party Realness, Icy Walk of Shame and Ice Queen Eleganza",
-      "winnerIds": ["scarlett-bobo"]
+      "winnerIds": [
+        "scarlett-bobo"
+      ],
+      "earnings": {
+        "amount": 0,
+        "currency": "CAD",
+        "context": "7 day trip for two to Vienna, courtesy of Air Canada Vacations",
+        "isSponsor": true
+      }
     },
     "runwayTheme": "Executive Holiday Party Realness, Icy Walk of Shame and Ice Queen Eleganza",
-    "topIds": ["scarlett-bobo"],
-    "bottomIds": ["jimbo", "rita-baga"],
+    "topIds": [
+      "scarlett-bobo"
+    ],
+    "bottomIds": [
+      "jimbo",
+      "rita-baga"
+    ],
     "lipSync": {
       "song": "Closer",
-      "queenIds": ["jimbo", "rita-baga"],
-      "winnerIds": ["rita-baga"],
-      "eliminatedIds": ["jimbo"]
+      "queenIds": [
+        "jimbo",
+        "rita-baga"
+      ],
+      "winnerIds": [
+        "rita-baga"
+      ],
+      "eliminatedIds": [
+        "jimbo"
+      ]
     },
-    "guestJudges": [{ "name": "Michelle Visage" }]
+    "guestJudges": [
+      {
+        "name": "Michelle Visage"
+      }
+    ]
   },
   {
     "id": "CA-S01-E10",
@@ -219,12 +514,27 @@
       "winnerIds": []
     },
     "runwayTheme": "Coronation Eleganza",
-    "topIds": ["priyanka", "rita-baga", "scarlett-bobo"],
+    "topIds": [
+      "priyanka",
+      "rita-baga",
+      "scarlett-bobo"
+    ],
     "lipSync": {
       "song": "You're a Superstar",
-      "queenIds": ["priyanka", "rita-baga", "scarlett-bobo"],
-      "winnerIds": ["priyanka"]
+      "queenIds": [
+        "priyanka",
+        "rita-baga",
+        "scarlett-bobo"
+      ],
+      "winnerIds": [
+        "priyanka"
+      ],
+      "kind": "for-the-crown"
     },
-    "guestJudges": [{ "name": "Traci Melchor" }]
+    "guestJudges": [
+      {
+        "name": "Traci Melchor"
+      }
+    ]
   }
 ]

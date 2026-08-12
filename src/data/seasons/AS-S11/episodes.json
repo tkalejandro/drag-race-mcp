@@ -1,0 +1,505 @@
+[
+  {
+    "id": "AS-S11-E01",
+    "seasonId": "AS-S11",
+    "episodeNumber": 1,
+    "title": "Break Dancin' 2: Electric Rugaloo",
+    "maxiChallenge": {
+      "name": "Write and perform original verses to \"Break Dancin' 2: Electric Rugaloo\"",
+      "winnerIds": [
+        "dawn",
+        "morgan-mcmichaels"
+      ]
+    },
+    "runwayTheme": "La Toya's R Us",
+    "topIds": [
+      "dawn",
+      "morgan-mcmichaels"
+    ],
+    "bottomIds": [
+      "akeria-c-davenport",
+      "lucky-starzzz",
+      "morphine-love-dion",
+      "mystique-summers-madison"
+    ],
+    "lipSync": {
+      "song": "Such a Wicked Love",
+      "queenIds": [
+        "dawn",
+        "morgan-mcmichaels"
+      ],
+      "winnerIds": [
+        "morgan-mcmichaels"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    },
+    "guestJudges": [
+      {
+        "name": "La Toya Jackson"
+      }
+    ]
+  },
+  {
+    "id": "AS-S11-E02",
+    "seasonId": "AS-S11",
+    "episodeNumber": 2,
+    "title": "Bar Queen Couture",
+    "maxiChallenge": {
+      "name": "Design an outfit using materials inspired by themed gay bars",
+      "winnerIds": [
+        "akeria-c-davenport",
+        "dawn"
+      ]
+    },
+    "runwayTheme": "Bar Queen Couture",
+    "topIds": [
+      "akeria-c-davenport",
+      "dawn"
+    ],
+    "bottomIds": [
+      "lucky-starzzz",
+      "morgan-mcmichaels",
+      "morphine-love-dion",
+      "mystique-summers-madison"
+    ],
+    "lipSync": {
+      "song": "Fergalicious",
+      "queenIds": [
+        "akeria-c-davenport",
+        "dawn"
+      ],
+      "winnerIds": [
+        "akeria-c-davenport"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    }
+  },
+  {
+    "id": "AS-S11-E03",
+    "seasonId": "AS-S11",
+    "episodeNumber": 3,
+    "title": "Shop Til U Drop",
+    "maxiChallenge": {
+      "name": "In pairs, host a live shopping show on the Home Spooky Network as mythical creatures",
+      "winnerIds": [
+        "dawn",
+        "morgan-mcmichaels"
+      ]
+    },
+    "runwayTheme": "Paris, France",
+    "topIds": [
+      "dawn",
+      "morgan-mcmichaels"
+    ],
+    "bottomIds": [
+      "akeria-c-davenport",
+      "lucky-starzzz",
+      "morphine-love-dion",
+      "mystique-summers-madison"
+    ],
+    "lipSync": {
+      "song": "Zombieboy",
+      "queenIds": [
+        "dawn",
+        "morgan-mcmichaels"
+      ],
+      "winnerIds": [
+        "dawn"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    }
+  },
+  {
+    "id": "AS-S11-E04",
+    "seasonId": "AS-S11",
+    "episodeNumber": 4,
+    "title": "Duets: It Takes Two",
+    "maxiChallenge": {
+      "name": "In pairs, write, record, and perform original duets",
+      "winnerIds": [
+        "aura-mayari",
+        "crystal-methyd"
+      ]
+    },
+    "runwayTheme": "You Butter Ask Somebody",
+    "topIds": [
+      "aura-mayari",
+      "crystal-methyd"
+    ],
+    "bottomIds": [
+      "april-carrion",
+      "salina-estitties",
+      "silky-nutmeg-ganache",
+      "vivacious"
+    ],
+    "lipSync": {
+      "song": "No More Tears (Enough Is Enough)",
+      "queenIds": [
+        "aura-mayari",
+        "crystal-methyd"
+      ],
+      "winnerIds": [
+        "crystal-methyd"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    }
+  },
+  {
+    "id": "AS-S11-E05",
+    "seasonId": "AS-S11",
+    "episodeNumber": 5,
+    "title": "How-To Videos",
+    "maxiChallenge": {
+      "name": "Create, direct, and shoot a short informational how-to video",
+      "winnerIds": [
+        "crystal-methyd",
+        "silky-nutmeg-ganache"
+      ]
+    },
+    "runwayTheme": "Barn Your Way",
+    "topIds": [
+      "crystal-methyd",
+      "silky-nutmeg-ganache"
+    ],
+    "bottomIds": [
+      "april-carrion",
+      "aura-mayari",
+      "salina-estitties",
+      "vivacious"
+    ],
+    "lipSync": {
+      "song": "Hazy Shade of Winter",
+      "queenIds": [
+        "crystal-methyd",
+        "silky-nutmeg-ganache"
+      ],
+      "winnerIds": [
+        "silky-nutmeg-ganache"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    }
+  },
+  {
+    "id": "AS-S11-E06",
+    "seasonId": "AS-S11",
+    "episodeNumber": 6,
+    "title": "Too Many Daddies",
+    "maxiChallenge": {
+      "name": "Give drag makeovers to gay dads and coach a \"Too Many Daddies\" lip-sync performance",
+      "winnerIds": [
+        "salina-estitties",
+        "vivacious"
+      ]
+    },
+    "runwayTheme": "Drag Family Resemblance",
+    "topIds": [
+      "salina-estitties",
+      "vivacious"
+    ],
+    "bottomIds": [
+      "april-carrion",
+      "aura-mayari",
+      "crystal-methyd",
+      "silky-nutmeg-ganache"
+    ],
+    "lipSync": {
+      "song": "Super Bass",
+      "queenIds": [
+        "salina-estitties",
+        "vivacious"
+      ],
+      "winnerIds": [
+        "salina-estitties"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    }
+  },
+  {
+    "id": "AS-S11-E07",
+    "seasonId": "AS-S11",
+    "episodeNumber": 7,
+    "title": "Athletic Supporter Design Challenge",
+    "maxiChallenge": {
+      "name": "Design an outfit using high school sportswear materials",
+      "winnerIds": [
+        "jasmine-kennedie",
+        "sam-star"
+      ]
+    },
+    "runwayTheme": "Athletic Supporter Eleganza",
+    "topIds": [
+      "jasmine-kennedie",
+      "sam-star"
+    ],
+    "bottomIds": [
+      "hershii-liqcour-jete",
+      "joey-jay",
+      "kennedy-davenport",
+      "shuga-cain"
+    ],
+    "lipSync": {
+      "song": "If You Were a Woman (And I Was a Man)",
+      "queenIds": [
+        "jasmine-kennedie",
+        "sam-star"
+      ],
+      "winnerIds": [
+        "sam-star"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    }
+  },
+  {
+    "id": "AS-S11-E08",
+    "seasonId": "AS-S11",
+    "episodeNumber": 8,
+    "title": "Rappin' Roast Redux",
+    "maxiChallenge": {
+      "name": "Write and perform verses roasting each other in the Rappin' Roast",
+      "winnerIds": [
+        "hershii-liqcour-jete",
+        "kennedy-davenport"
+      ]
+    },
+    "runwayTheme": "Ladies Who Lunch",
+    "topIds": [
+      "hershii-liqcour-jete",
+      "kennedy-davenport"
+    ],
+    "bottomIds": [
+      "jasmine-kennedie",
+      "joey-jay",
+      "sam-star",
+      "shuga-cain"
+    ],
+    "lipSync": {
+      "song": "The Ladies Who Lunch",
+      "queenIds": [
+        "hershii-liqcour-jete",
+        "kennedy-davenport"
+      ],
+      "winnerIds": [
+        "kennedy-davenport"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    }
+  },
+  {
+    "id": "AS-S11-E09",
+    "seasonId": "AS-S11",
+    "episodeNumber": 9,
+    "title": "That's What She Said",
+    "maxiChallenge": {
+      "name": "Lip-sync interviews from The RuPaul Show portraying RuPaul and celebrity guests",
+      "winnerIds": [
+        "kennedy-davenport",
+        "sam-star"
+      ]
+    },
+    "runwayTheme": "David Bowie, Icon",
+    "topIds": [
+      "kennedy-davenport",
+      "sam-star"
+    ],
+    "bottomIds": [
+      "hershii-liqcour-jete",
+      "jasmine-kennedie",
+      "joey-jay",
+      "shuga-cain"
+    ],
+    "lipSync": {
+      "song": "Breakin' Dishes",
+      "queenIds": [
+        "kennedy-davenport",
+        "sam-star"
+      ],
+      "winnerIds": [
+        "kennedy-davenport"
+      ],
+      "kind": "for-the-win",
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 Lip Sync for Your Legacy tip"
+      }
+    }
+  },
+  {
+    "id": "AS-S11-E10",
+    "seasonId": "AS-S11",
+    "episodeNumber": 10,
+    "title": "Tell Me Something Good",
+    "maxiChallenge": {
+      "name": "Write and perform storytelling in \"Tell Me Something Good\" Story Hour",
+      "winnerIds": [
+        "crystal-methyd"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash prize"
+      }
+    },
+    "runwayTheme": "Red Carpet Realness",
+    "topIds": [
+      "crystal-methyd"
+    ],
+    "bottomIds": [
+      "akeria-c-davenport",
+      "kennedy-davenport"
+    ],
+    "lipSync": {
+      "song": "Nobody's Supposed to Be Here (Hex Hector Dance Mix)",
+      "queenIds": [
+        "akeria-c-davenport",
+        "kennedy-davenport"
+      ],
+      "winnerIds": [
+        "akeria-c-davenport"
+      ],
+      "eliminatedIds": [
+        "kennedy-davenport"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Evan Mulrooney"
+      }
+    ]
+  },
+  {
+    "id": "AS-S11-E11",
+    "seasonId": "AS-S11",
+    "episodeNumber": 11,
+    "title": "Tournament of All Stars Talent Rumble",
+    "miniChallenge": {
+      "name": "Lip-sync to \"U Wear It Well\" while being hosed by the Pit Crew",
+      "winnerIds": [
+        "sam-star"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "USD",
+        "context": "$2,500 cash prize"
+      }
+    },
+    "maxiChallenge": {
+      "name": "Perform a talent in the Tournament of All Stars Talent Rumble",
+      "winnerIds": [
+        "crystal-methyd"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "USD",
+        "context": "$10,000 cash prize"
+      }
+    },
+    "runwayTheme": "It's Giving Crowned Queen",
+    "topIds": [
+      "crystal-methyd"
+    ],
+    "bottomIds": [
+      "akeria-c-davenport",
+      "sam-star"
+    ],
+    "lipSync": {
+      "song": "Run the World (Girls)",
+      "queenIds": [
+        "akeria-c-davenport",
+        "sam-star"
+      ],
+      "winnerIds": [
+        "akeria-c-davenport"
+      ],
+      "eliminatedIds": [
+        "sam-star"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Cooper Koch"
+      }
+    ]
+  },
+  {
+    "id": "AS-S11-E12",
+    "seasonId": "AS-S11",
+    "episodeNumber": 12,
+    "title": "Disco Smackdown for the Crown",
+    "maxiChallenge": {
+      "name": "Disco Smackdown for the Crown lip-sync tournament",
+      "winnerIds": [
+        "crystal-methyd"
+      ]
+    },
+    "topIds": [
+      "crystal-methyd",
+      "joey-jay"
+    ],
+    "lipSync": {
+      "song": "Star Love / The Boss / The Main Event/Fight / Knock on Wood / MacArthur Park",
+      "queenIds": [
+        "dawn",
+        "silky-nutmeg-ganache",
+        "akeria-c-davenport",
+        "joey-jay",
+        "crystal-methyd",
+        "jasmine-kennedie"
+      ],
+      "winnerIds": [
+        "silky-nutmeg-ganache",
+        "joey-jay",
+        "crystal-methyd"
+      ],
+      "eliminatedIds": [
+        "dawn",
+        "akeria-c-davenport",
+        "silky-nutmeg-ganache",
+        "jasmine-kennedie"
+      ],
+      "kind": "smackdown"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "the-countess",
+  "name": "The Countess",
+  "appearances": [
+    {
+      "seasonId": "NL-S02",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "NL-S02-E02",
+          "name": "Create a couture outfit made from camping materials",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "Badge and a Bernina's sewing machine, worth €1,000",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S02-E02",
+          "name": "Photoshoot on a bicycle"
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "NL-S02-E04",
+          "song": "Free Your Mind"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S02-E05",
+          "song": "Call Me Mother"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S02-E05"
+    }
+  ]
+}

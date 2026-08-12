@@ -1,0 +1,53 @@
+{
+  "id": "spankie-jackzon",
+  "name": "Spankie Jackzon",
+  "appearances": [
+    {
+      "seasonId": "DU-S02",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "DU-S02-E02",
+          "name": "In teams, perform in a gritty prison drama called \"Caged Queens\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "AUD",
+            "context": "4 night stay at a Sofitel property of choice in Australia or New Zealand from Sofitel Viaduct Auckland Harbour",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "DU-S02-E03",
+          "name": "In pairs, host a Down Under Drag Brunch",
+          "earnings": {
+            "amount": 5000,
+            "currency": "AUD",
+            "context": "$5,000 cash tip, courtesy of The Star, Sydney",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "DU-S02-E05",
+          "name": "Write, record, and perform verses to \"Bosom Buddies\"",
+          "earnings": {
+            "amount": 2000,
+            "currency": "AUD",
+            "context": "$2,000 cash tip and a year supply of tights"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "DU-S02-E01",
+          "song": "Get Outta My Way"
+        },
+        {
+          "episodeId": "DU-S02-E08",
+          "song": "Wow"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

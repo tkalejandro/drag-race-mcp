@@ -1,0 +1,72 @@
+[
+  {
+    "id": "as-s08-jimbo-crown",
+    "title": "Jimbo inducted into the Hall of Fame",
+    "summary": "In the All Stars 8 finale (AS-S08-E12), Jimbo and Kandy Muse lip-synced to Sylvester and Patrick Cowley's \"Do Ya Wanna Funk\". Jimbo won the Lip Sync for the Crown, earning the $100,000 prize and Hall of Fame induction after competing on Canada's Drag Race and UK vs. the World.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "jimbo",
+      "kandy-muse"
+    ],
+    "seasonIds": [
+      "AS-S08"
+    ],
+    "episodeIds": [
+      "AS-S08-E12"
+    ]
+  },
+  {
+    "id": "as-s08-fame-games",
+    "title": "Queen of the Fame Games parallel competition",
+    "summary": "All Stars 8 introduced the Fame Games: eliminated contestants' unused runway looks were voted on by fans during Untucked. After Priyanka's lip-sync win in episode 10 added $10,000 to the pot, LaLa Ri was crowned Queen of the Fame Games in the finale and won $60,000. Episode 11's Fame Games Variety Extravaganza let eliminated queens (minus Heidi N Closet) compete for vote multipliers; Jaymes Mansfield and LaLa Ri both won the lip sync, earning 2x and 3x multipliers respectively.",
+    "tags": [
+      "twist",
+      "all-stars",
+      "production",
+      "finale"
+    ],
+    "queenIds": [
+      "lala-ri",
+      "jaymes-mansfield",
+      "priyanka",
+      "heidi-n-closet"
+    ],
+    "seasonIds": [
+      "AS-S08"
+    ],
+    "episodeIds": [
+      "AS-S08-E01",
+      "AS-S08-E10",
+      "AS-S08-E11",
+      "AS-S08-E12"
+    ]
+  },
+  {
+    "id": "as-s08-heidi-quit",
+    "title": "Heidi N Closet quits; no elimination that week",
+    "summary": "During All Stars 8 episode 5 (Snatch Game of Love), Heidi N Closet quit the competition before the runway and critiques. Because of her departure, RuPaul announced that neither Jessica Wild nor Kahanna Montrese would be eliminated after Jasmine Kennedie won the Lip Sync for Your Legacy against Jimbo.",
+    "tags": [
+      "quit",
+      "all-stars",
+      "twist"
+    ],
+    "queenIds": [
+      "heidi-n-closet",
+      "jessica-wild",
+      "kahanna-montrese",
+      "jasmine-kennedie",
+      "jimbo"
+    ],
+    "seasonIds": [
+      "AS-S08"
+    ],
+    "episodeIds": [
+      "AS-S08-E05"
+    ]
+  }
+]

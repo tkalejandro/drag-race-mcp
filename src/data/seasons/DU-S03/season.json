@@ -1,0 +1,61 @@
+{
+  "id": "DU-S03",
+  "franchise": "DU",
+  "name": "RuPaul's Drag Race Down Under Season 3",
+  "seasonNumber": 3,
+  "year": 2023,
+  "episodeCount": 8,
+  "episodeIds": [
+    "DU-S03-E01",
+    "DU-S03-E02",
+    "DU-S03-E03",
+    "DU-S03-E04",
+    "DU-S03-E05",
+    "DU-S03-E06",
+    "DU-S03-E07",
+    "DU-S03-E08"
+  ],
+  "castIds": [
+    "isis-avis-loren",
+    "gabriella-labucci",
+    "flor",
+    "hollywould-star",
+    "bumpa-love",
+    "ashley-madison",
+    "rita-menu",
+    "ivanna-drink",
+    "ivory-glaze",
+    "amyl"
+  ],
+  "winnerIds": [
+    "isis-avis-loren"
+  ],
+  "runnerUpIds": [
+    "gabriella-labucci"
+  ],
+  "porkchopIds": [
+    "amyl"
+  ],
+  "hosts": [
+    {
+      "name": "RuPaul"
+    }
+  ],
+  "judges": [
+    {
+      "name": "RuPaul"
+    },
+    {
+      "name": "Michelle Visage"
+    },
+    {
+      "name": "Rhys Nicholson"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 30000,
+    "currency": "AUD",
+    "context": "A$30,000 season grand prize"
+  }
+}

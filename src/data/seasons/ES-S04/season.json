@@ -1,0 +1,71 @@
+{
+  "id": "ES-S04",
+  "franchise": "ES",
+  "name": "Drag Race España Season 4",
+  "seasonNumber": 4,
+  "year": 2024,
+  "episodeCount": 12,
+  "episodeIds": [
+    "ES-S04-E01",
+    "ES-S04-E02",
+    "ES-S04-E03",
+    "ES-S04-E04",
+    "ES-S04-E05",
+    "ES-S04-E06",
+    "ES-S04-E07",
+    "ES-S04-E08",
+    "ES-S04-E09",
+    "ES-S04-E10",
+    "ES-S04-E11",
+    "ES-S04-E12"
+  ],
+  "castIds": [
+    "le-coco",
+    "la-bella-vampi",
+    "chloe-vittu",
+    "la-nina-delantro",
+    "mariana-stars",
+    "megui-yeillow",
+    "angelita-la-perversa",
+    "miss-khristo",
+    "kelly-passa",
+    "dita-dubois",
+    "porca-theclubkid",
+    "shani-lasanta"
+  ],
+  "winnerIds": [
+    "le-coco"
+  ],
+  "runnerUpIds": [
+    "la-bella-vampi"
+  ],
+  "missCongenialityId": "dita-dubois",
+  "porkchopIds": [
+    "shani-lasanta"
+  ],
+  "hosts": [
+    {
+      "name": "Supremme de Luxe"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Supremme de Luxe"
+    },
+    {
+      "name": "Ana Locking"
+    },
+    {
+      "name": "Javier Ambrossi"
+    },
+    {
+      "name": "Javier Calvo"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 0,
+    "currency": "EUR",
+    "context": "No cash prize"
+  }
+}

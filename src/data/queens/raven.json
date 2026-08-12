@@ -8,11 +8,23 @@
       "challengeWins": [
         {
           "episodeId": "US-S02-E07",
-          "name": "Create and promote an autobiography concept"
+          "name": "Create and promote an autobiography concept",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "shopping spree at L.A. Eyeworks",
+            "isSponsor": true
+          }
         },
         {
           "episodeId": "US-S02-E08",
-          "name": "Makeover older gay men"
+          "name": "Makeover older gay men",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "4-day 3-night stay and massage at East Canyon Hotel in Palm Springs",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [

@@ -1,0 +1,29 @@
+{
+  "id": "sederginne",
+  "name": "Sederginne",
+  "appearances": [
+    {
+      "seasonId": "NL-S01",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "NL-S01-E03",
+          "name": "Play traditional Dutch games: Koekhappen, Spijkerpoepen and Zaklopen"
+        },
+        {
+          "episodeId": "NL-S01-E04",
+          "name": "Reading is Fundamental"
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "NL-S01-E05",
+          "song": "Girl"
+        }
+      ],
+      "eliminatedEpisodeId": "NL-S01-E05"
+    }
+  ]
+}

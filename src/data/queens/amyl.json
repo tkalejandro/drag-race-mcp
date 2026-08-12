@@ -1,0 +1,20 @@
+{
+  "id": "amyl",
+  "name": "Amyl",
+  "appearances": [
+    {
+      "seasonId": "DU-S03",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "DU-S03-E01",
+          "song": "Down Under"
+        }
+      ],
+      "eliminatedEpisodeId": "DU-S03-E01"
+    }
+  ]
+}

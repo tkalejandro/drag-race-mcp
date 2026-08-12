@@ -1,0 +1,25 @@
+{
+  "id": "drag-chuchi",
+  "name": "Drag Chuchi",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 12,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S03-E01",
+          "song": "Despechá"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E02",
+          "song": "La noche es para mí"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S03-E02"
+    }
+  ]
+}

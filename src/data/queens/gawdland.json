@@ -1,0 +1,85 @@
+{
+  "id": "gawdland",
+  "name": "Gawdland",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 3,
+      "challengeWins": [
+        {
+          "episodeId": "TH-S03-E06",
+          "name": "Kraitong: The Rusical",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿50,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "TH-S03-E08",
+          "name": "Makeover queer people from Bangkok Pride",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "Gift Vouchers from SLC worth ฿130,000",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "TH-S03-E05",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "TH-S03-E06",
+          "name": "ASMR Mukbang",
+          "earnings": {
+            "amount": 0,
+            "currency": "THB",
+            "context": "฿12,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "TH-S03-E10"
+    },
+    {
+      "seasonId": "UKVTW-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "UKVTW-S03-E01",
+          "name": "Perform an original song at the RuRuvision Song Contest"
+        },
+        {
+          "episodeId": "UKVTW-S03-E02",
+          "name": "Present RuDemption and The RuMix looks, reworking another queen's outfit"
+        },
+        {
+          "episodeId": "UKVTW-S03-E03",
+          "name": "Miss Snatch Game Pageant"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "UKVTW-S03-E08",
+          "song": "What Do I Have to Do"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "UKVTW-S03-E01",
+          "song": "Tattoo"
+        }
+      ]
+    }
+  ]
+}

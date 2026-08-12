@@ -1,0 +1,71 @@
+{
+  "id": "pitita",
+  "name": "Pitita",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S03-E03",
+          "name": "The Great Ball of Regions",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a necklace and earrings from Aster LAB"
+          }
+        },
+        {
+          "episodeId": "ES-S03-E04",
+          "name": "Horror sequel acting challenge",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and a trip to Axel Hoteles San Sebastián"
+          }
+        },
+        {
+          "episodeId": "ES-S03-E06",
+          "name": "Oz musical",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip and jewelry from Aster Lab"
+          }
+        },
+        {
+          "episodeId": "ES-S03-E08",
+          "name": "Game-show improv",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S03-E09",
+          "name": "Pancake slap",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "sample of products courtesy of ES Collection Cosmetics",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S03-E07",
+          "song": "No controles"
+        },
+        {
+          "episodeId": "ES-S03-E11",
+          "song": "Punto de partida"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

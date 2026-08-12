@@ -25,11 +25,22 @@
       "challengeWins": [
         {
           "episodeId": "US-S03-E03",
-          "name": "Star in Drag Queens in Outer Space sci-fi spoof trailers"
+          "name": "Star in Drag Queens in Outer Space sci-fi spoof trailers",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "set of hand-sculpted silicone breast plates by Boobs for Queens"
+          }
         },
         {
           "episodeId": "US-S03-E08",
-          "name": "Stand-up comedy routine"
+          "name": "Stand-up comedy routine",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "An original, custom designed gown from Miami Elite Designs",
+            "isSponsor": true
+          }
         }
       ],
       "miniChallengeWins": [
@@ -55,6 +66,73 @@
         }
       ],
       "eliminatedEpisodeId": "US-S03-E11"
+    },
+    {
+      "seasonId": "AS-S03",
+      "placement": 4,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S03-E02",
+          "name": "Perform a lip-syncing dance number inspired by VH1 Divas",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1000 gift card from Sparkles Rhinestones and a $1000 gift card from Fierce Queen Heels",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "AS-S03-E04",
+          "name": "Snatch Game",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "wig wardrobe courtesy of Rockstar Wigs and a $1000 gift card from Coolhaus Ice Cream",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "AS-S03-E07",
+          "name": "Star in the raunchy girl comedy \"My Best Squirrelfriend's Dragsmaids Wedding Trip\"",
+          "earnings": {
+            "amount": 0,
+            "currency": "USD",
+            "context": "$1,000 gift card to Elea's Closet and a luggage set from Radden Luggage",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "AS-S03-E02",
+          "song": "Jump (For My Love)",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S03-E04",
+          "song": "I Kissed a Girl",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        },
+        {
+          "episodeId": "AS-S03-E07",
+          "song": "Freaky Money",
+          "earnings": {
+            "amount": 10000,
+            "currency": "USD",
+            "context": "$10,000 Lip Sync for Your Legacy tip"
+          }
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

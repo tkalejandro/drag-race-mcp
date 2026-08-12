@@ -1,0 +1,53 @@
+{
+  "id": "shannon-skarllet",
+  "name": "Shannon Skarllet",
+  "appearances": [
+    {
+      "seasonId": "BR-S01",
+      "placement": 5,
+      "challengeWins": [
+        {
+          "episodeId": "BR-S01-E05",
+          "name": "Create a 30-second campaign with the theme \"Você Não Está Só\" (You Are Not Alone)"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "BR-S01-E08",
+          "name": "Pose as tourists in front of the Iguazu Falls",
+          "earnings": {
+            "amount": 5000,
+            "currency": "BRL",
+            "context": "R$5,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "BR-S01-E09",
+          "name": "Do a makeup look of an assigned animal without mirrors",
+          "earnings": {
+            "amount": 5000,
+            "currency": "BRL",
+            "context": "R$5,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "BR-S01-E07",
+          "song": "Decadence Avec Elegance"
+        },
+        {
+          "episodeId": "BR-S01-E09",
+          "song": "Festa"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "BR-S01-E10",
+          "song": "Gueto"
+        }
+      ],
+      "eliminatedEpisodeId": "BR-S01-E10"
+    }
+  ]
+}

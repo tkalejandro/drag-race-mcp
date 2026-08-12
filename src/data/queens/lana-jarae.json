@@ -9,7 +9,12 @@
       "miniChallengeWins": [
         {
           "episodeId": "US-S17-E01",
-          "name": "Ru Light, Green Light photoshoot"
+          "name": "Ru Light, Green Light photoshoot",
+          "earnings": {
+            "amount": 2500,
+            "currency": "USD",
+            "context": "$2,500 cash tip"
+          }
         }
       ],
       "lipSyncWins": [

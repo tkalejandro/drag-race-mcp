@@ -1,0 +1,25 @@
+{
+  "id": "shortgun",
+  "name": "Shortgun",
+  "appearances": [
+    {
+      "seasonId": "TH-S03",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "TH-S03-E01",
+          "song": "ผีเสื้อราตรี (2002 Ratree)"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "TH-S03-E04",
+          "song": "Condragulations"
+        }
+      ],
+      "eliminatedEpisodeId": "TH-S03-E04"
+    }
+  ]
+}

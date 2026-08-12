@@ -1,0 +1,20 @@
+{
+  "id": "lightning-aurora",
+  "name": "Lightning Aurora",
+  "appearances": [
+    {
+      "seasonId": "IT-S03",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S03-E04",
+          "song": "Tribale"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S03-E04"
+    }
+  ]
+}

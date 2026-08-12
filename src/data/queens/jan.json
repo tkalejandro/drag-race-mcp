@@ -15,6 +15,34 @@
         }
       ],
       "eliminatedEpisodeId": "US-S12-E08"
+    },
+    {
+      "seasonId": "AS-S06",
+      "placement": 7,
+      "challengeWins": [
+        {
+          "episodeId": "AS-S06-E04",
+          "name": "All Stars 6 Hall of Fame Half-Time Show",
+          "earnings": {
+            "amount": 5000,
+            "currency": "USD",
+            "context": "$5,000, courtesy of Mane Club and $5,000 worth of Orbucks from Orbitz"
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "AS-S06-E04",
+          "song": "Womanizer"
+        },
+        {
+          "episodeId": "AS-S06-E10",
+          "song": "Free Your Mind / Girls Just Want to Have Fun / Point of No Return / Song for the Lonely / Barbie Girl / Heartbreaker / Focus / Since U Been Gone"
+        }
+      ],
+      "eliminatedEpisodeId": "AS-S06-E07"
     }
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "id": "pakita",
+  "name": "Pakita",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S03-E05",
+          "name": "Reading is Fundamental",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€1,000 worth of products from FOREO",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S03-E05",
+          "song": "Desátame"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E07",
+          "song": "No controles"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S03-E07"
+    },
+    {
+      "seasonId": "ESAS-S01",
+      "placement": 7,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [],
+      "eliminatedEpisodeId": "ESAS-S01-E03"
+    }
+  ]
+}

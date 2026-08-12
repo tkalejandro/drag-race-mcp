@@ -1,0 +1,20 @@
+{
+  "id": "ivana-vamp",
+  "name": "Ivana Vamp",
+  "appearances": [
+    {
+      "seasonId": "IT-S01",
+      "placement": 8,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "IT-S01-E02",
+          "song": "Comprami"
+        }
+      ],
+      "eliminatedEpisodeId": "IT-S01-E02"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "alexandra-del-raval",
+  "name": "Alexandra del Raval",
+  "appearances": [
+    {
+      "seasonId": "ES-S05",
+      "placement": 6,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "ES-S05-E05",
+          "song": "El hombre del piano"
+        },
+        {
+          "episodeId": "ES-S05-E06",
+          "song": "Yo tengo un novio"
+        },
+        {
+          "episodeId": "ES-S05-E07",
+          "song": "KITT y los coches del pasado"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S05-E08",
+          "song": "La Original"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S05-E08"
+    }
+  ]
+}

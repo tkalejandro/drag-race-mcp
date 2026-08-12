@@ -1,0 +1,20 @@
+{
+  "id": "garconne",
+  "name": "Garçonne",
+  "appearances": [
+    {
+      "seasonId": "MX-S02",
+      "placement": 10,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S02-E04",
+          "song": "La Calle de las Sirenas"
+        }
+      ],
+      "eliminatedEpisodeId": "MX-S02-E04"
+    }
+  ]
+}

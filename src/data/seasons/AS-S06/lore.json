@@ -1,0 +1,69 @@
+[
+  {
+    "id": "as-s06-kylie-sonique-love-crown",
+    "title": "Kylie Sonique Love wins All Stars 6",
+    "summary": "In the All Stars 6 finale (AS-S06-E12), Eureka!, Ginger Minj, Kylie Sonique Love (filed as sonique), and Ra'Jah O'Hara lip-synced to Lady Gaga's \"Stupid Love\". Kylie Sonique Love won the Lip Sync for the Crown and the $100,000 Hall of Fame prize, becoming the first Season 2 alum crowned on All Stars.",
+    "tags": [
+      "crown",
+      "finale",
+      "lip-sync",
+      "all-stars"
+    ],
+    "queenIds": [
+      "sonique",
+      "eureka",
+      "ginger-minj",
+      "ra-jah-ohara"
+    ],
+    "seasonIds": [
+      "AS-S06"
+    ],
+    "episodeIds": [
+      "AS-S06-E12"
+    ]
+  },
+  {
+    "id": "as-s06-rudemption-smackdown",
+    "title": "RuDemption Lip Sync Smackdown",
+    "summary": "All Stars 6's signature twist (not The Block, which debuted on All Stars 7): eliminated queens fought weekly in a RuDemption Lip Sync Smackdown to re-enter. On AS-S06-E10 the Top 4 watched the tournament; Eureka! beat Silky Nutmeg Ganache to Kelly Clarkson's \"Since U Been Gone\" and returned in E11. A'keria C. Davenport declined to compete.",
+    "tags": [
+      "twist",
+      "lip-sync",
+      "all-stars",
+      "return"
+    ],
+    "queenIds": [
+      "eureka",
+      "silky-nutmeg-ganache",
+      "akeria-c-davenport"
+    ],
+    "seasonIds": [
+      "AS-S06"
+    ],
+    "episodeIds": [
+      "AS-S06-E10",
+      "AS-S06-E11"
+    ]
+  },
+  {
+    "id": "as-s06-laganja-physical",
+    "title": "Laganja Estranja assassinates to Physical",
+    "summary": "On AS-S06-E03, Lip Sync Assassin Laganja Estranja beat Top All Star Trinity K. Bonet to Dua Lipa's \"Physical\", triggering a group vote that eliminated Silky Nutmeg Ganache — one of the season's most talked-about Assassin wins.",
+    "tags": [
+      "lip-sync",
+      "iconic",
+      "all-stars"
+    ],
+    "queenIds": [
+      "laganja-estranja",
+      "trinity-k-bonet",
+      "silky-nutmeg-ganache"
+    ],
+    "seasonIds": [
+      "AS-S06"
+    ],
+    "episodeIds": [
+      "AS-S06-E03"
+    ]
+  }
+]

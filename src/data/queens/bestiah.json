@@ -1,0 +1,41 @@
+{
+  "id": "bestiah",
+  "name": "Bestiah",
+  "appearances": [
+    {
+      "seasonId": "ES-S03",
+      "placement": 6,
+      "challengeWins": [
+        {
+          "episodeId": "ES-S03-E01",
+          "name": "Talent show",
+          "earnings": {
+            "amount": 2500,
+            "currency": "EUR",
+            "context": "€2,500 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "ES-S03-E08",
+          "name": "Blindfold face paint",
+          "earnings": {
+            "amount": 0,
+            "currency": "EUR",
+            "context": "€500 worth of products from Krash Kosmetics",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "ES-S03-E08",
+          "song": "La niña"
+        }
+      ],
+      "eliminatedEpisodeId": "ES-S03-E08"
+    }
+  ]
+}

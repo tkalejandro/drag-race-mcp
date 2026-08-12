@@ -1,0 +1,44 @@
+{
+  "id": "kitty-space",
+  "name": "Kitty Space",
+  "appearances": [
+    {
+      "seasonId": "FR-S02",
+      "placement": 9,
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [
+        {
+          "episodeId": "FR-S02-E01",
+          "song": "3SEX"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "FR-S02-E03",
+          "song": "Monday Tuesday... Laissez moi danser"
+        }
+      ],
+      "eliminatedEpisodeId": "FR-S02-E03"
+    },
+    {
+      "seasonId": "PHSR-S01",
+      "placement": 9,
+      "challengeWins": [
+        {
+          "episodeId": "PHSR-S01-E03",
+          "name": "Create an outfit made out of fossilized cacao leaves"
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "PHSR-S01-E03",
+          "song": "Winna Winna"
+        }
+      ],
+      "eliminatedEpisodeId": "PHSR-S01-E04"
+    }
+  ]
+}

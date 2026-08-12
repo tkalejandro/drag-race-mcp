@@ -1,0 +1,39 @@
+{
+  "id": "precious-paula-nicole",
+  "name": "Precious Paula Nicole",
+  "appearances": [
+    {
+      "seasonId": "PH-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "PH-S01-E04",
+          "name": "OPM Divas: The Rusical",
+          "earnings": {
+            "amount": 80000,
+            "currency": "PHP",
+            "context": "₱80,000 cash tip"
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "PH-S01-E03",
+          "name": "Drag Race Special Ru-lection",
+          "earnings": {
+            "amount": 20000,
+            "currency": "PHP",
+            "context": "₱20,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "PH-S01-E10",
+          "song": "Sirena"
+        }
+      ],
+      "lipSyncLosses": []
+    }
+  ]
+}

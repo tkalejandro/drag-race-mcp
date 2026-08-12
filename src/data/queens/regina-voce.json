@@ -1,0 +1,57 @@
+{
+  "id": "regina-voce",
+  "name": "Regina Voce",
+  "appearances": [
+    {
+      "seasonId": "MX-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "MX-S01-E03",
+          "name": "In pairs, create and star in a commercial promoting a different business"
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "MX-S01-E03",
+          "name": "In pairs, participate in a taco eating contest",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "MX-S01-E06",
+          "name": "Apply quick drag makeup without mirrors",
+          "earnings": {
+            "amount": 18000,
+            "currency": "MXN",
+            "context": "MX$ 18,000 cash tip"
+          }
+        },
+        {
+          "episodeId": "MX-S01-E09",
+          "name": "Impersonate each other with puppets",
+          "earnings": {
+            "amount": 9000,
+            "currency": "MXN",
+            "context": "MX$ 9,000 cash tip"
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "MX-S01-E10",
+          "song": "El bombón asesino"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "MX-S01-E12",
+          "song": "Él me mintió"
+        }
+      ]
+    }
+  ]
+}
