@@ -38,6 +38,46 @@
           "song": "From This Moment On"
         }
       ]
+    },
+    {
+      "seasonId": "CAS-S01",
+      "placement": 6,
+      "eliminatedEpisodeId": "CAS-S01-E04",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CAS-S01-E04",
+          "name": "In pairs, create an outfit inspired by an outfit from a previous queen",
+          "earnings": {
+            "amount": 1250,
+            "currency": "CAD",
+            "context": "$1,250 cash tip each courtesy of PrEP Clinic",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "CAS-S01-E06",
+          "name": "Lip-Sync For Your Pride to Queendom (JROB Remix)",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 courtesy of The Men's Room",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CAS-S01-E02",
+          "song": "Trust!"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CAS-S01-E04",
+          "song": "Black Eye"
+        }
+      ]
     }
   ]
 }

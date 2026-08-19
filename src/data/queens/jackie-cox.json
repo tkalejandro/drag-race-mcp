@@ -48,6 +48,20 @@
         }
       ],
       "eliminatedEpisodeId": "US-S12-E12"
+    },
+    {
+      "seasonId": "CAS-S01",
+      "placement": 9,
+      "eliminatedEpisodeId": "CAS-S01-E01",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CAS-S01-E01",
+          "song": "Where Is My Husband!"
+        }
+      ]
     }
   ]
 }

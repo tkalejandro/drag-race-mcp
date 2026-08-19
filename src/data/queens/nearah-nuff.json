@@ -39,6 +39,59 @@
         }
       ],
       "lipSyncLosses": []
+    },
+    {
+      "seasonId": "CAS-S01",
+      "placement": 2,
+      "challengeWins": [
+        {
+          "episodeId": "CAS-S01-E04",
+          "name": "In teams, write and star in political campaign advertisements",
+          "earnings": {
+            "amount": 10000,
+            "currency": "CAD",
+            "context": "$10,000 cash tip courtesy of Now Boarding Travel and Craig's Cookies",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "CAS-S01-E05",
+          "name": "CUNTest: Snatch Game, dollhouse photoshoot, write and perform verses to Spotlight, and Lip-Sync for the Finale",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip each courtesy of Tryst Hotels",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CAS-S01-E02",
+          "name": "Play as a goalkeeper while blocking soccer balls",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip courtesy of BMO",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CAS-S01-E01",
+          "song": "Where Is My Husband!"
+        },
+        {
+          "episodeId": "CAS-S01-E05",
+          "song": "Into You"
+        },
+        {
+          "episodeId": "CAS-S01-E06",
+          "song": "Man! I Feel Like a Woman! / Cut to the Feeling / Perfect Celebrity"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

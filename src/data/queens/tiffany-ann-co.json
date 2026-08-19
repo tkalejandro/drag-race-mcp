@@ -20,6 +20,36 @@
           "song": "Hot"
         }
       ]
+    },
+    {
+      "seasonId": "CAS-S01",
+      "placement": 5,
+      "eliminatedEpisodeId": "CAS-S01-E05",
+      "challengeWins": [],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CAS-S01-E03",
+          "name": "Polygraph test administered by Jimbo and Melinda Verga",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip courtesy of Safer Six Sexual Health Clinic",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CAS-S01-E03",
+          "song": "Conga"
+        }
+      ],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CAS-S01-E05",
+          "song": "Into You"
+        }
+      ]
     }
   ]
 }

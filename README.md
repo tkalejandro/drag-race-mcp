@@ -215,7 +215,7 @@ Episodes ✅ means episode records exist — **not** that every mini/maxi prize 
 - **Source-first:** omit `earnings` when public sources don’t list a prize (many UK RuPeter weeks have no cash bullet).
 - **Career totals:** use MCP tool `get_queen_earnings` (personal cash vs charity vs non-cash `context` prizes).
 
-Roughly **69 / 81** season packs have at least some weekly `earnings` today.
+Roughly **70 / 82** season packs have at least some weekly `earnings` today.
 
 **No weekly `earnings` yet (12)** — good contribution targets if Fandom or episode sources list prizes Wikipedia omitted:
 
@@ -296,7 +296,7 @@ Do not add a Prize column to the franchise tables below — track prize depth he
 | `CA-S06` | ✅ | ✅ | ✅ | ✅ |
 | `CVTW-S01` | ✅ | ✅ | ✅ | ✅ |
 | `CVTW-S02` | ✅ | ✅ | ✅ | ✅ |
-| `CAS-S01` | — | — | — | — |
+| `CAS-S01` | ✅ | ✅ | ✅ | ✅ |
 
 ### Europe
 

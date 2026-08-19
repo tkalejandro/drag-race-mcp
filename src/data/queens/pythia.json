@@ -59,6 +59,31 @@
         }
       ],
       "eliminatedEpisodeId": "GAS-S01-E08"
+    },
+    {
+      "seasonId": "CAS-S01",
+      "placement": 8,
+      "eliminatedEpisodeId": "CAS-S01-E02",
+      "challengeWins": [
+        {
+          "episodeId": "CAS-S01-E01",
+          "name": "Present two looks for The Miss Charisma, Uniqueness, Nerve, and Talent Pageant, and perform a talent number",
+          "earnings": {
+            "amount": 10000,
+            "currency": "CAD",
+            "context": "$10,000 cash tip courtesy of Crews & Tangos and The Drink",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CAS-S01-E02",
+          "song": "Trust!"
+        }
+      ]
     }
   ]
 }

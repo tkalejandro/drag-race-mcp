@@ -12,6 +12,21 @@
       "lipSyncLosses": [
         { "episodeId": "CA-S01-E01", "song": "I Really Like You" }
       ]
+    },
+    {
+      "seasonId": "CAS-S01",
+      "placement": 7,
+      "eliminatedEpisodeId": "CAS-S01-E03",
+      "challengeWins": [],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CAS-S01-E03",
+          "song": "Conga"
+        }
+      ],
+      "missCongeniality": true
     }
   ]
 }
