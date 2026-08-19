@@ -1,0 +1,84 @@
+[
+  {
+    "id": "cas-s01-aurora-matrix-crown",
+    "title": "Aurora Matrix wins Canada's Drag Race All Stars",
+    "summary": "In the Grand Finale (CAS-S01-E06), the top four competed in a Lip Sync Smackdown for the Crown. Aurora Matrix beat Sami Landri to Shania Twain's \"Man! I Feel Like a Woman!\", Nearah Nuff beat Jada Shada Hudson to Carly Rae Jepsen's \"Cut to the Feeling\", and Aurora beat Nearah to Lady Gaga's \"Perfect Celebrity\". Aurora, previously runner-up on Canada's Drag Race Season 4 (CA-S04), was crowned Canada's Ultimate All-Star and won $100,000 CAD.",
+    "tags": ["crown", "finale", "lip-sync", "all-stars", "iconic"],
+    "queenIds": [
+      "aurora-matrix",
+      "nearah-nuff",
+      "jada-shada-hudson",
+      "sami-landri"
+    ],
+    "seasonIds": ["CAS-S01", "CA-S04"],
+    "episodeIds": ["CAS-S01-E06"]
+  },
+  {
+    "id": "cas-s01-jackie-cox-porkchop",
+    "title": "Jackie Cox: Canada's All Stars porkchop",
+    "summary": "Jackie Cox, previously fifth on RuPaul's Drag Race Season 12 (US-S12), was the first queen eliminated on Canada's Drag Race All Stars (CAS-S01-E01). After Pythia won the Miss Charisma, Uniqueness, Nerve, and Talent Pageant and the safe queens voted the Golden Beaver to Juice Boxx, Jackie lost the Lip Sync for Your Life to Nearah Nuff on Raye's \"Where Is My Husband!\".",
+    "tags": ["porkchop", "crossover", "international", "all-stars", "lip-sync"],
+    "queenIds": ["jackie-cox", "nearah-nuff", "pythia", "juice-boxx"],
+    "seasonIds": ["CAS-S01", "US-S12"],
+    "episodeIds": ["CAS-S01-E01"]
+  },
+  {
+    "id": "cas-s01-juice-boxx-miss-c",
+    "title": "Juice Boxx named Miss Congeniality",
+    "summary": "Juice Boxx was voted Miss Congeniality by fellow contestants at the CAS-S01 finale and received a $10,000 prize from Shark. She had been eliminated in CAS-S01-E03 after losing the Lip Sync for Your Life to Tiffany Ann Co. on Miami Sound Machine's \"Conga\", having earlier received the Golden Beaver on the premiere.",
+    "tags": ["fan-favorite", "all-stars", "iconic"],
+    "queenIds": ["juice-boxx", "tiffany-ann-co"],
+    "seasonIds": ["CAS-S01"],
+    "episodeIds": ["CAS-S01-E01", "CAS-S01-E03", "CAS-S01-E06"]
+  },
+  {
+    "id": "cas-s01-golden-beaver-vote",
+    "title": "Golden Beaver voted by the safe queens",
+    "summary": "On Canada's Drag Race All Stars, the Golden Beaver was awarded by anonymous vote of the safe queens rather than by the maxi-challenge winner. The bottom three were named, then the remaining queens voted to save one of them from lip-syncing. Saves went to Juice Boxx (4 of 6 votes, E01), Tiffany Ann Co. (3 of 5, E02; 3 of 3, E04), and Nearah Nuff (2 of 4, E03).",
+    "tags": ["twist", "production", "all-stars"],
+    "queenIds": [
+      "juice-boxx",
+      "tiffany-ann-co",
+      "nearah-nuff"
+    ],
+    "seasonIds": ["CAS-S01"],
+    "episodeIds": [
+      "CAS-S01-E01",
+      "CAS-S01-E02",
+      "CAS-S01-E03",
+      "CAS-S01-E04"
+    ]
+  },
+  {
+    "id": "cas-s01-all-drag-panel",
+    "title": "First all-drag judging panel",
+    "summary": "Canada's Drag Race All Stars was hosted by Brooke Lynn Hytes with Jimbo and Priyanka as regular judges, the first Drag Race panel made up entirely of drag performers. The series premiered on Crave on 9 July 2026.",
+    "tags": ["judges", "all-stars", "production"],
+    "queenIds": ["brooke-lynn-hytes", "jimbo", "priyanka"],
+    "seasonIds": ["CAS-S01"]
+  },
+  {
+    "id": "cas-s01-cuntest-win-to-get-in",
+    "title": "CUNTest Win To Get In",
+    "summary": "In CAS-S01-E05, the top five competed in a four-round Charisma, Uniqueness, Nerve and Talent Contest to lock a finale spot. Sami Landri won Snatch Game (Celine Dion), Aurora Matrix won the dollhouse photoshoot, Jada Shada Hudson won the Spotlight rusical, and Nearah Nuff beat Tiffany Ann Co. in the Lip-Sync for the Finale to Ariana Grande's \"Into You\", sending Tiffany home in fifth place.",
+    "tags": ["twist", "snatch-game", "lip-sync", "all-stars"],
+    "queenIds": [
+      "sami-landri",
+      "aurora-matrix",
+      "jada-shada-hudson",
+      "nearah-nuff",
+      "tiffany-ann-co"
+    ],
+    "seasonIds": ["CAS-S01"],
+    "episodeIds": ["CAS-S01-E05"]
+  },
+  {
+    "id": "cas-s01-tiffany-ann-co-farewell-undocumented",
+    "title": "Tiffany Ann Co.'s All Stars farewell undocumented",
+    "summary": "Tiffany Ann Co. was eliminated in fifth place on CAS-S01-E05 after losing the Lip-Sync for the Finale to Nearah Nuff on Ariana Grande's \"Into You\". Public sources leave her All Stars workroom farewell blank: Wikipedia lists Farewell Message with no text, and recaps do not quote one. Her earlier Canada's Drag Race Season 5 farewell, \"As Tiff!\", belongs to her CA-S05-E03 elimination, not this season.",
+    "tags": ["lip-sync", "all-stars"],
+    "queenIds": ["tiffany-ann-co", "nearah-nuff"],
+    "seasonIds": ["CAS-S01", "CA-S05"],
+    "episodeIds": ["CAS-S01-E05", "CA-S05-E03"]
+  }
+]

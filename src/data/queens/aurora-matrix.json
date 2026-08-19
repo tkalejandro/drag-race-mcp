@@ -40,6 +40,65 @@
           "song": "Try"
         }
       ]
+    },
+    {
+      "seasonId": "CAS-S01",
+      "placement": 1,
+      "challengeWins": [
+        {
+          "episodeId": "CAS-S01-E02",
+          "name": "Write, record, and perform verses to Body Tea and Diva Down",
+          "earnings": {
+            "amount": 10000,
+            "currency": "CAD",
+            "context": "$10,000 cash tip courtesy of Cedars Campground",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "CAS-S01-E03",
+          "name": "Bid on items in an auction to help create an outfit",
+          "earnings": {
+            "amount": 10000,
+            "currency": "CAD",
+            "context": "$10,000 cash tip courtesy of Travel Manitoba",
+            "isSponsor": true
+          }
+        },
+        {
+          "episodeId": "CAS-S01-E05",
+          "name": "CUNTest: Snatch Game, dollhouse photoshoot, write and perform verses to Spotlight, and Lip-Sync for the Finale",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip each courtesy of Tryst Hotels",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [
+        {
+          "episodeId": "CAS-S01-E04",
+          "name": "In pairs, create an outfit inspired by an outfit from a previous queen",
+          "earnings": {
+            "amount": 1250,
+            "currency": "CAD",
+            "context": "$1,250 cash tip each courtesy of PrEP Clinic",
+            "isSponsor": true
+          }
+        }
+      ],
+      "lipSyncWins": [
+        {
+          "episodeId": "CAS-S01-E04",
+          "song": "Black Eye"
+        },
+        {
+          "episodeId": "CAS-S01-E06",
+          "song": "Man! I Feel Like a Woman! / Cut to the Feeling / Perfect Celebrity"
+        }
+      ],
+      "lipSyncLosses": []
     }
   ]
 }

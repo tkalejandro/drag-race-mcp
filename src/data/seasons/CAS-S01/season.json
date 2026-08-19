@@ -1,0 +1,63 @@
+{
+  "id": "CAS-S01",
+  "franchise": "CAS",
+  "name": "Canada's Drag Race All Stars Season 1",
+  "seasonNumber": 1,
+  "year": 2026,
+  "episodeCount": 6,
+  "episodeIds": [
+    "CAS-S01-E01",
+    "CAS-S01-E02",
+    "CAS-S01-E03",
+    "CAS-S01-E04",
+    "CAS-S01-E05",
+    "CAS-S01-E06"
+  ],
+  "castIds": [
+    "aurora-matrix",
+    "nearah-nuff",
+    "jada-shada-hudson",
+    "sami-landri",
+    "tiffany-ann-co",
+    "makayla-couture",
+    "juice-boxx",
+    "pythia",
+    "jackie-cox"
+  ],
+  "winnerIds": [
+    "aurora-matrix"
+  ],
+  "runnerUpIds": [
+    "nearah-nuff"
+  ],
+  "missCongenialityId": "juice-boxx",
+  "porkchopIds": [
+    "jackie-cox"
+  ],
+  "hosts": [
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Brooke Lynn Hytes",
+      "queenId": "brooke-lynn-hytes"
+    },
+    {
+      "name": "Jimbo",
+      "queenId": "jimbo"
+    },
+    {
+      "name": "Priyanka",
+      "queenId": "priyanka"
+    }
+  ],
+  "isCharity": false,
+  "cashPrice": {
+    "amount": 100000,
+    "currency": "CAD",
+    "context": "CA$100,000 season grand prize"
+  }
+}

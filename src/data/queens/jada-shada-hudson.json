@@ -55,6 +55,31 @@
           "song": "A New Day Has Come (Radio Remix)"
         }
       ]
+    },
+    {
+      "seasonId": "CAS-S01",
+      "placement": 3,
+      "eliminatedEpisodeId": "CAS-S01-E06",
+      "challengeWins": [
+        {
+          "episodeId": "CAS-S01-E05",
+          "name": "CUNTest: Snatch Game, dollhouse photoshoot, write and perform verses to Spotlight, and Lip-Sync for the Finale",
+          "earnings": {
+            "amount": 2500,
+            "currency": "CAD",
+            "context": "$2,500 cash tip each courtesy of Tryst Hotels",
+            "isSponsor": true
+          }
+        }
+      ],
+      "miniChallengeWins": [],
+      "lipSyncWins": [],
+      "lipSyncLosses": [
+        {
+          "episodeId": "CAS-S01-E06",
+          "song": "Man! I Feel Like a Woman! / Cut to the Feeling / Perfect Celebrity"
+        }
+      ]
     }
   ]
 }

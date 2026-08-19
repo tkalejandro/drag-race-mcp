@@ -1,0 +1,320 @@
+[
+  {
+    "id": "CAS-S01-E01",
+    "seasonId": "CAS-S01",
+    "episodeNumber": 1,
+    "title": "Miss Charisma, Uniqueness, Nerve, and Talent Pageant",
+    "maxiChallenge": {
+      "name": "Present two looks for The Miss Charisma, Uniqueness, Nerve, and Talent Pageant, and perform a talent number",
+      "winnerIds": [
+        "pythia"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "CAD",
+        "context": "$10,000 cash tip courtesy of Crews & Tangos and The Drink",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Swimsuit / Elegant Eveningwear",
+    "topIds": [
+      "aurora-matrix",
+      "pythia",
+      "sami-landri"
+    ],
+    "bottomIds": [
+      "jackie-cox",
+      "nearah-nuff"
+    ],
+    "lipSync": {
+      "song": "Where Is My Husband!",
+      "queenIds": [
+        "jackie-cox",
+        "nearah-nuff"
+      ],
+      "winnerIds": [
+        "nearah-nuff"
+      ],
+      "eliminatedIds": [
+        "jackie-cox"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Kathy Griffin"
+      }
+    ]
+  },
+  {
+    "id": "CAS-S01-E02",
+    "seasonId": "CAS-S01",
+    "episodeNumber": 2,
+    "title": "Song of the Summer",
+    "miniChallenge": {
+      "name": "Play as a goalkeeper while blocking soccer balls",
+      "winnerIds": [
+        "nearah-nuff"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of BMO",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Write, record, and perform verses to Body Tea and Diva Down",
+      "winnerIds": [
+        "aurora-matrix"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "CAD",
+        "context": "$10,000 cash tip courtesy of Cedars Campground",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Camp",
+    "topIds": [
+      "aurora-matrix",
+      "jada-shada-hudson"
+    ],
+    "bottomIds": [
+      "makayla-couture",
+      "pythia"
+    ],
+    "lipSync": {
+      "song": "Trust!",
+      "queenIds": [
+        "makayla-couture",
+        "pythia"
+      ],
+      "winnerIds": [
+        "makayla-couture"
+      ],
+      "eliminatedIds": [
+        "pythia"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Rebecca Black"
+      }
+    ]
+  },
+  {
+    "id": "CAS-S01-E03",
+    "seasonId": "CAS-S01",
+    "episodeNumber": 3,
+    "title": "The Design Auction",
+    "miniChallenge": {
+      "name": "Polygraph test administered by Jimbo and Melinda Verga",
+      "winnerIds": [
+        "tiffany-ann-co"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip courtesy of Safer Six Sexual Health Clinic",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "Bid on items in an auction to help create an outfit",
+      "winnerIds": [
+        "aurora-matrix"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "CAD",
+        "context": "$10,000 cash tip courtesy of Travel Manitoba",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Looking Good, Feeling Gorgeous",
+    "topIds": [
+      "aurora-matrix",
+      "jada-shada-hudson"
+    ],
+    "bottomIds": [
+      "juice-boxx",
+      "tiffany-ann-co"
+    ],
+    "lipSync": {
+      "song": "Conga",
+      "queenIds": [
+        "juice-boxx",
+        "tiffany-ann-co"
+      ],
+      "winnerIds": [
+        "tiffany-ann-co"
+      ],
+      "eliminatedIds": [
+        "juice-boxx"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Christian Allaire"
+      }
+    ]
+  },
+  {
+    "id": "CAS-S01-E04",
+    "seasonId": "CAS-S01",
+    "episodeNumber": 4,
+    "title": "Drag Prime Minister",
+    "miniChallenge": {
+      "name": "In pairs, create an outfit inspired by an outfit from a previous queen",
+      "winnerIds": [
+        "aurora-matrix",
+        "makayla-couture"
+      ],
+      "earnings": {
+        "amount": 1250,
+        "currency": "CAD",
+        "context": "$1,250 cash tip each courtesy of PrEP Clinic",
+        "isSponsor": true
+      }
+    },
+    "maxiChallenge": {
+      "name": "In teams, write and star in political campaign advertisements",
+      "winnerIds": [
+        "nearah-nuff"
+      ],
+      "earnings": {
+        "amount": 10000,
+        "currency": "CAD",
+        "context": "$10,000 cash tip courtesy of Now Boarding Travel and Craig's Cookies",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Lavender Haze",
+    "topIds": [
+      "jada-shada-hudson",
+      "nearah-nuff",
+      "sami-landri"
+    ],
+    "bottomIds": [
+      "aurora-matrix",
+      "makayla-couture"
+    ],
+    "lipSync": {
+      "song": "Black Eye",
+      "queenIds": [
+        "aurora-matrix",
+        "makayla-couture"
+      ],
+      "winnerIds": [
+        "aurora-matrix"
+      ],
+      "eliminatedIds": [
+        "makayla-couture"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Robby Hoffman"
+      }
+    ]
+  },
+  {
+    "id": "CAS-S01-E05",
+    "seasonId": "CAS-S01",
+    "episodeNumber": 5,
+    "title": "Win To Get In",
+    "maxiChallenge": {
+      "name": "CUNTest: Snatch Game, dollhouse photoshoot, write and perform verses to Spotlight, and Lip-Sync for the Finale",
+      "winnerIds": [
+        "aurora-matrix",
+        "jada-shada-hudson",
+        "nearah-nuff",
+        "sami-landri"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 cash tip each courtesy of Tryst Hotels",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Dollhouse",
+    "topIds": [
+      "aurora-matrix",
+      "jada-shada-hudson",
+      "nearah-nuff",
+      "sami-landri"
+    ],
+    "bottomIds": [
+      "nearah-nuff",
+      "tiffany-ann-co"
+    ],
+    "lipSync": {
+      "song": "Into You",
+      "queenIds": [
+        "nearah-nuff",
+        "tiffany-ann-co"
+      ],
+      "winnerIds": [
+        "nearah-nuff"
+      ],
+      "eliminatedIds": [
+        "tiffany-ann-co"
+      ],
+      "kind": "for-your-life"
+    },
+    "guestJudges": [
+      {
+        "name": "Lemon",
+        "queenId": "lemon"
+      }
+    ]
+  },
+  {
+    "id": "CAS-S01-E06",
+    "seasonId": "CAS-S01",
+    "episodeNumber": 6,
+    "title": "Crown Me, Canada!",
+    "miniChallenge": {
+      "name": "Lip-Sync For Your Pride to Queendom (JROB Remix)",
+      "winnerIds": [
+        "makayla-couture"
+      ],
+      "earnings": {
+        "amount": 2500,
+        "currency": "CAD",
+        "context": "$2,500 courtesy of The Men's Room",
+        "isSponsor": true
+      }
+    },
+    "runwayTheme": "Coronation Eleganza",
+    "topIds": [
+      "aurora-matrix",
+      "jada-shada-hudson",
+      "nearah-nuff",
+      "sami-landri"
+    ],
+    "lipSync": {
+      "song": "Man! I Feel Like a Woman! / Cut to the Feeling / Perfect Celebrity",
+      "queenIds": [
+        "aurora-matrix",
+        "jada-shada-hudson",
+        "nearah-nuff",
+        "sami-landri"
+      ],
+      "winnerIds": [
+        "aurora-matrix",
+        "nearah-nuff"
+      ],
+      "eliminatedIds": [
+        "jada-shada-hudson",
+        "sami-landri"
+      ],
+      "kind": "smackdown"
+    }
+  }
+]
