@@ -1,6 +1,12 @@
 {
   "id": "vanity-milan",
   "name": "Vanity Milan",
+  "origin": {
+    "countries": [
+      "JM",
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

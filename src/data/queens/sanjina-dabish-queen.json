@@ -1,6 +1,11 @@
 {
   "id": "sanjina-dabish-queen",
   "name": "Sanjina DaBish Queen",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

@@ -1,6 +1,11 @@
 {
   "id": "tynomi-banks",
   "name": "Tynomi Banks",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",

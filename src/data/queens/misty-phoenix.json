@@ -1,6 +1,11 @@
 {
   "id": "misty-phoenix",
   "name": "Misty Phoenix",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S03",

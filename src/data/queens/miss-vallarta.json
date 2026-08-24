@@ -1,6 +1,11 @@
 {
   "id": "miss-vallarta",
   "name": "Miss Vallarta",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S01",

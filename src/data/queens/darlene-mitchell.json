@@ -1,6 +1,11 @@
 {
   "id": "darlene-mitchell",
   "name": "Darlene Mitchell",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

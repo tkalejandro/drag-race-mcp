@@ -1,6 +1,11 @@
 {
   "id": "maxi-shield",
   "name": "Maxi Shield",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S01",

@@ -1,6 +1,11 @@
 {
   "id": "vanity-vain",
   "name": "Vanity Vain",
+  "origin": {
+    "countries": [
+      "SE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "SE-S01",

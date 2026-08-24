@@ -1,6 +1,11 @@
 {
   "id": "petchra",
   "name": "Petchra",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S01",

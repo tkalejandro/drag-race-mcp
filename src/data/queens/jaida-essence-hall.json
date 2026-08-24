@@ -1,6 +1,11 @@
 {
   "id": "jaida-essence-hall",
   "name": "Jaida Essence Hall",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

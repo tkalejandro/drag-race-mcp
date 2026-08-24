@@ -1,6 +1,11 @@
 {
   "id": "maya-bharo",
   "name": "Maya B'Haro",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S02",

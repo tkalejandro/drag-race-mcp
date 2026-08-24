@@ -1,6 +1,15 @@
 {
   "id": "trinity-taylor",
   "name": "Trinity Taylor",
+  "aliases": [
+    "Trinity the Tuck",
+    "Trinity Taylor"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S09",
@@ -182,9 +191,5 @@
       ],
       "eliminatedEpisodeId": "AS-S07-E12"
     }
-  ],
-  "aliases": [
-    "Trinity the Tuck",
-    "Trinity Taylor"
   ]
 }

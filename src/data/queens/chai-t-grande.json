@@ -1,6 +1,11 @@
 {
   "id": "chai-t-grande",
   "name": "Chai T Grande",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S07",
@@ -10,7 +15,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S07-E05", "song": "Spectrum (Say My Name)" }
+        {
+          "episodeId": "UK-S07-E05",
+          "song": "Spectrum (Say My Name)"
+        }
       ],
       "missCongeniality": true
     }

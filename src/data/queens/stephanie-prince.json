@@ -1,6 +1,11 @@
 {
   "id": "stephanie-prince",
   "name": "Stephanie Prince",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S02",

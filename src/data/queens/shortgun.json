@@ -1,6 +1,11 @@
 {
   "id": "shortgun",
   "name": "Shortgun",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S03",

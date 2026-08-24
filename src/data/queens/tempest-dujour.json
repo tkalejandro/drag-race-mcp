@@ -1,6 +1,11 @@
 {
   "id": "tempest-dujour",
   "name": "Tempest DuJour",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

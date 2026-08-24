@@ -1,6 +1,11 @@
 {
   "id": "la-kahena",
   "name": "La Kahena",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S01",

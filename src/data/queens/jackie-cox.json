@@ -1,6 +1,11 @@
 {
   "id": "jackie-cox",
   "name": "Jackie Cox",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

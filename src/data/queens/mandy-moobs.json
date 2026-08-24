@@ -1,6 +1,11 @@
 {
   "id": "mandy-moobs",
   "name": "Mandy Moobs",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S04",

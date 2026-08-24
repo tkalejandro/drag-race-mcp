@@ -1,6 +1,11 @@
 {
   "id": "penny-tration",
   "name": "Penny Tration",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

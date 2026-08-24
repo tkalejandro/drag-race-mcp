@@ -1,6 +1,11 @@
 {
   "id": "keta-minaj",
   "name": "Keta Minaj",
+  "origin": {
+    "countries": [
+      "NL"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "NL-S02",

@@ -1,6 +1,11 @@
 {
   "id": "keiona",
   "name": "Keiona",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S02",

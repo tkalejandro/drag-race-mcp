@@ -1,6 +1,12 @@
 {
   "id": "fontana",
   "name": "Fontana",
+  "origin": {
+    "countries": [
+      "BR",
+      "SE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "SE-S01",

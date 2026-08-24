@@ -1,6 +1,11 @@
 {
   "id": "panthera-virus",
   "name": "Panthera Virus",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S02",

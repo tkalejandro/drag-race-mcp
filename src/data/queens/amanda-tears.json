@@ -1,6 +1,11 @@
 {
   "id": "amanda-tears",
   "name": "Amanda Tears",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S01",

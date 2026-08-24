@@ -1,6 +1,14 @@
 {
   "id": "alaska",
   "name": "Alaska",
+  "aliases": [
+    "Alaska Thunderfuck 5000"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",
@@ -148,8 +156,5 @@
       ],
       "lipSyncLosses": []
     }
-  ],
-  "aliases": [
-    "Alaska Thunderfuck 5000"
   ]
 }

@@ -1,6 +1,11 @@
 {
   "id": "karna-ford",
   "name": "Karna Ford",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S04",

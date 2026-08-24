@@ -1,6 +1,11 @@
 {
   "id": "alexandra-del-raval",
   "name": "Alexandra del Raval",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S05",

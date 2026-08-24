@@ -1,6 +1,11 @@
 {
   "id": "nix",
   "name": "Nix",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S05",

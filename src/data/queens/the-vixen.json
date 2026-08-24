@@ -1,6 +1,11 @@
 {
   "id": "the-vixen",
   "name": "The Vixen",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",

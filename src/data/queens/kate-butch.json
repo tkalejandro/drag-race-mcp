@@ -1,6 +1,11 @@
 {
   "id": "kate-butch",
   "name": "Kate Butch",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S05",

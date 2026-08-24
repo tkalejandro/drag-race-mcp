@@ -1,6 +1,11 @@
 {
   "id": "poseidon-drag",
   "name": "Poseidon Drag",
+  "origin": {
+    "countries": [
+      "BR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S02",

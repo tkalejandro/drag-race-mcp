@@ -1,6 +1,11 @@
 {
   "id": "gisele-lullaby",
   "name": "Gisèle Lullaby",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

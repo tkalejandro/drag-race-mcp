@@ -1,6 +1,11 @@
 {
   "id": "sagittaria",
   "name": "Sagittaria",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S01",

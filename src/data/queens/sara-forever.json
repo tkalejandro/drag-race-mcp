@@ -1,6 +1,11 @@
 {
   "id": "sara-forever",
   "name": "Sara Forever",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S02",

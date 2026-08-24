@@ -1,6 +1,14 @@
 {
   "id": "mystique-summers-madison",
   "name": "Mystique Summers Madison",
+  "aliases": [
+    "Mystique Summers"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",
@@ -30,8 +38,5 @@
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S11-E03"
     }
-  ],
-  "aliases": [
-    "Mystique Summers"
   ]
 }

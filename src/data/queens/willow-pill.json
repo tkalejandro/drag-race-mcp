@@ -1,6 +1,11 @@
 {
   "id": "willow-pill",
   "name": "Willow Pill",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

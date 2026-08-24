@@ -1,6 +1,11 @@
 {
   "id": "tatianna",
   "name": "Tatianna",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",

@@ -1,6 +1,11 @@
 {
   "id": "veronica-green",
   "name": "Veronica Green",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S02",

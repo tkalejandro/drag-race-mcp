@@ -1,6 +1,11 @@
 {
   "id": "morgan-mcmichaels",
   "name": "Morgan McMichaels",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",

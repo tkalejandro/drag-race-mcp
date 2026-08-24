@@ -1,6 +1,11 @@
 {
   "id": "kornbread-the-snack-jete",
   "name": "Kornbread \"The Snack\" Jeté",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

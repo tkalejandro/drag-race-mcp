@@ -1,6 +1,11 @@
 {
   "id": "orion-story",
   "name": "Orion Story",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

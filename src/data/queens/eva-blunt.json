@@ -1,6 +1,11 @@
 {
   "id": "eva-blunt",
   "name": "Eva Blunt",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

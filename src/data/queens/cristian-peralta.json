@@ -1,6 +1,11 @@
 {
   "id": "cristian-peralta",
   "name": "Cristian Peralta",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S01",

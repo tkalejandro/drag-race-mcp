@@ -1,6 +1,11 @@
 {
   "id": "nicole-pardaux",
   "name": "Nicole Pardaux",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S02",

@@ -1,6 +1,11 @@
 {
   "id": "bumpa-love",
   "name": "Bumpa Love",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

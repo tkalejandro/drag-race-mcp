@@ -1,6 +1,11 @@
 {
   "id": "silky-nutmeg-ganache",
   "name": "Silky Nutmeg Ganache",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",

@@ -1,6 +1,11 @@
 {
   "id": "mya-foxx",
   "name": "Mya Foxx",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

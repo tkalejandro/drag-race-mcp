@@ -1,6 +1,11 @@
 {
   "id": "suzie-toot",
   "name": "Suzie Toot",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

@@ -1,6 +1,11 @@
 {
   "id": "jojo-zaho",
   "name": "Jojo Zaho",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S01",

@@ -1,6 +1,11 @@
 {
   "id": "spankie-jackzon",
   "name": "Spankie Jackzon",
+  "origin": {
+    "countries": [
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S02",

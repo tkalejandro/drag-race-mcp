@@ -1,6 +1,14 @@
 {
   "id": "yuhua-hamasaki",
   "name": "Yuhua Hamasaki",
+  "aliases": [
+    "Yuhua"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",
@@ -40,8 +48,5 @@
       ],
       "eliminatedEpisodeId": "PHSR-S01-E07"
     }
-  ],
-  "aliases": [
-    "Yuhua"
   ]
 }

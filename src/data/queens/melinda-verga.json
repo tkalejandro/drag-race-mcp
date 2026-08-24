@@ -1,6 +1,11 @@
 {
   "id": "melinda-verga",
   "name": "Melinda Verga",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S04",

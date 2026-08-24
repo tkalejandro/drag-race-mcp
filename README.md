@@ -1,5 +1,8 @@
 # Drag Race MCP 👑
 
+[![Glama](https://glama.ai/mcp/servers/tkalejandro/drag-race-mcp/badges/card.svg)](https://glama.ai/mcp/servers/tkalejandro/drag-race-mcp)
+[![Glama score](https://glama.ai/mcp/servers/tkalejandro/drag-race-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tkalejandro/drag-race-mcp)
+
 > An unofficial, community-driven MCP (Model Context Protocol) server for Drag Race knowledge.
 
 `drag-race-mcp` gives AI assistants structured access to queens, seasons, episodes, and fan lore through MCP tools.
@@ -113,15 +116,15 @@ Tool names and arguments match the table in [MCP tools](#mcp-tools) (e.g. `get_q
 
 **Ready**
 
-- Typed knowledge model (seasons, queens, episodes, lore)
+- Typed knowledge model (seasons, queens, episodes, lore) including queen `origin`
 - JSON knowledge base + Zod validation + integrity checks
-- Core MCP read tools (list / search / get for seasons, queens, episodes, lore)
+- MCP read tools: discovery, rankings, stats, alumni hosts/judges, track records
 - Cursor-friendly local MCP config + workflow docs
 
 **Coming next**
 
-- Compare queens, recommendations, richer stats
 - Broader franchise coverage; optional RAG later
+- `recommend_season` is skipped until ratings data exists (would be made-up)
 
 ---
 
@@ -145,11 +148,14 @@ IDs and catalogs live in `src/kb/catalogs.ts`; entity shapes are Zod schemas in 
 | Type | Where | What it stores |
 |------|-------|----------------|
 | `Season` | `kb/schemas/season.ts` | Franchise season metadata, cast IDs, winner, prize, hosts/judges |
-| `Queen` | `kb/schemas/queen.ts` | Drag name, aliases, per-season appearances & wins |
+| `Queen` | `kb/schemas/queen.ts` | Drag name, aliases, `origin.countries` (ISO-3166-1-alpha-2, required), optional `hometown`, per-season appearances & wins |
 | `Episode` | `kb/schemas/episode.ts` | Week-by-week challenges, runway, lip sync, eliminations |
 | `Money` | `kb/schemas/money.ts` | Prize record: `{ amount, currency, context, isSponsor?, isCharity? }` — season `cashPrice`, episode mini/maxi/lip-sync `earnings`, mirrored on queen wins. Use `amount: 0` + `context` for non-cash sponsor prizes; `isCharity` for charity purses |
 | `PersonRef` | `kb/schemas/person.ts` | Host/judge `{ name, queenId? }` |
 | `SeasonId` / `Currency` / `LoreTag` | `kb/catalogs.ts` | Closed catalogs + string ID aliases |
+| `Country` / `OriginRegion` | `kb/origin.ts` | ISO countries used in origin + derived regions (`latin_america` excludes Spain; Spain is `iberia`) |
+
+Queen origin is nationality/heritage from sources — **not** an ethnicity field. `originRegion=latin_america` excludes Spain (`ES`). Show geography (`franchise=FR`) is not queen origin. Regions are derived in the service from `origin.countries`; they are not stored on each JSON file.
 
 These are the **source of truth** for placements, wins, cast lists, and episode outcomes.
 
@@ -370,30 +376,34 @@ Do not add a Prize column to the franchise tables below — track prize depth he
 │   │           └── lore.json
 │   ├── kb/                   # Data layer: catalogs, Zod, load, integrity
 │   │   ├── catalogs.ts
+│   │   ├── origin.ts         # Country + OriginRegion catalogs
 │   │   ├── schemas/
 │   │   ├── load.ts
 │   │   ├── integrity.ts
 │   │   └── index.ts
 │   ├── services/             # Utilities tools call (not MCP)
 │   │   ├── accessors/        # accessors.ts → get* / list*Ids
-│   │   ├── seasons/          # list_season_ids.ts
-│   │   ├── queens/           # search_queens.ts, list_queen_ids_for_season.ts
+│   │   ├── seasons/          # list_season_ids, list_catalogs, list_winners
+│   │   ├── queens/           # search, earnings, ranks, stats, roles, track record
+│   │   ├── episodes/         # search_episodes.ts
 │   │   ├── lore/             # search_lore.ts
 │   │   └── shared/           # limits.ts
 │   └── tools/                # MCP registerTool wrappers only
 │       ├── general/          # welcome_user.ts
-│       ├── seasons/          # list_season_ids.ts, get_season.ts
-│       ├── queens/           # list_queen_ids.ts, search_queens.ts, get_queen.ts, get_queen_earnings.ts
-│       ├── episodes/         # get_episode.ts
+│       ├── seasons/          # list_catalogs, list_season_ids, get_season, list_winners
+│       ├── queens/           # search, get, ranks, stats, lists, track record
+│       ├── episodes/         # get_episode, search_episodes
 │       └── lore/             # get_lore.ts, search_lore.ts
 │
 ├── .cursor/
 │   ├── mcp.json              # Local Cursor MCP config ADD WHEN YOU NEED IT.
 │   └── skills/
 │       ├── drag-race-data/   # How to contribute season/queen JSON
+│       ├── mcp-tools/        # Tool layout, TDQS descriptions, annotations
 │       └── typescript-style/ # Arrow-const functions + TS conventions
 │
 ├── package.json
+├── glama.json
 ├── tsconfig.json
 └── README.md
 ```
@@ -483,20 +493,34 @@ That’s the same path used in development: **Cursor discovers the server’s to
 
 ## MCP tools
 
+Call `list_catalogs` when mapping names like `"france"` or `"latinas"` to codes. France the **show** is `franchise=FR`. Latin American **origin** is `originRegion=latin_america` (not Spain). Rankings run **inside the server** — do not loop `get_queen_earnings`.
+
 | Tool | Description |
 |------|-------------|
-| `welcome_user` | Smoke-test / hello |
-| `list_season_ids` | List loaded seasons; optional `region` (`us`, `uk`, `canada`, `europe`, `latam_br`, `asia_pacific`, `specials`) |
+| `welcome_user` | Connectivity smoke test only — not for facts |
+| `list_catalogs` | Franchise / region / origin-region / currency codes + aliases |
+| `list_season_ids` | Loaded seasons; optional `franchise` (`FR`, `ES`, …) and/or `region` |
 | `get_season` | Season record + linked IDs |
+| `list_winners` | Crowned winner ids + `cashPrice` |
 | `list_queen_ids` | Cast queen ids for one `seasonId` (required) |
-| `search_queens` | Search queens by name/alias (limit default 20, max 50) |
-| `get_queen` | Full queen record |
-| `get_queen_earnings` | Career prize breakdown (cash, charity, non-cash) |
+| `search_queens` | Name/alias and/or `seasonId` / `franchise` / `region` / `originCountry` / `originRegion` |
+| `get_queen` | Full queen record (includes `origin`) |
+| `get_queen_earnings` | One queen's prize breakdown |
+| `rank_queens_by_earnings` | In-process cash ranking per currency (no FX) |
+| `rank_queens_by_stats` | Rank by challenge/mini/lip-sync wins or appearances |
+| `get_queen_stats` | One queen: appearances, W-L, placements, cash by currency |
+| `compare_queens` | Side-by-side stats for 2–4 queen ids |
+| `list_returning_queens` | Queens with more than one contestant appearance |
+| `list_porkchops` | First-outs from `season.porkchopIds` |
+| `list_queens_as_judges` | Alumni panel + guest judges (`queenId` only) |
+| `list_queens_as_hosts` | Alumni hosts (`queenId` only; not contestant appearances) |
+| `get_queen_track_record` | Weekly outcomes for one queen on one season |
 | `get_episode` | Episode detail |
+| `search_episodes` | Substring on title, runway, challenge names |
 | `get_lore` | Lore entry by id |
 | `search_lore` | Search lore by query, tags, queen, and/or season |
 
-**Planned (v2+):** `compare_queens`, `recommend_season`, stats aggregations.
+**Skipped:** `recommend_season` — no ratings data.
 
 ---
 
@@ -511,9 +535,11 @@ That’s the same path used in development: **Cursor discovers the server’s to
 
 ### v2
 
-- Richer search & stats
-- Recommendations
+- [x] Origin on every queen + origin-region filters (`latin_america` ≠ Spain)
+- [x] Rankings / compare / stats aggregations
+- [x] Alumni host/judge lists; porkchops; track records
 - Broader franchise coverage in data
+- Recommendations only if ratings data exists
 
 ### v3
 

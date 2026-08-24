@@ -1,6 +1,11 @@
 {
   "id": "gabanna",
   "name": "Gabanna",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S02",

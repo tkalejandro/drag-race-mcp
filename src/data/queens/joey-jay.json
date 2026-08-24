@@ -1,6 +1,11 @@
 {
   "id": "joey-jay",
   "name": "Joey Jay",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

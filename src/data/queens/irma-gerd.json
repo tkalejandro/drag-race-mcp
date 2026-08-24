@@ -1,6 +1,11 @@
 {
   "id": "irma-gerd",
   "name": "Irma Gerd",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

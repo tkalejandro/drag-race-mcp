@@ -1,6 +1,11 @@
 {
   "id": "sasha-velour",
   "name": "Sasha Velour",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S09",

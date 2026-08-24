@@ -1,6 +1,11 @@
 {
   "id": "hornella-gongora",
   "name": "Hornella Góngora",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S03",

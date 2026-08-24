@@ -1,6 +1,11 @@
 {
   "id": "ivy-winters",
   "name": "Ivy Winters",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

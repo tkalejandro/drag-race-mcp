@@ -1,6 +1,11 @@
 {
   "id": "amanda-tori-meating",
   "name": "Amanda Tori Meating",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

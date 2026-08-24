@@ -1,6 +1,11 @@
 {
   "id": "jane-dont",
   "name": "Jane Don't",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

@@ -1,6 +1,11 @@
 {
   "id": "yudipota",
   "name": "Yudipota",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S03",

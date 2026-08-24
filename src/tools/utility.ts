@@ -17,3 +17,11 @@ export const toolResult = <T extends Record<string, unknown>>(output: T) => ({
   ],
   structuredContent: output,
 });
+
+/** MCP hints for local read-only knowledge-base tools. */
+export const readOnlyAnnotations = {
+  readOnlyHint: true,
+  destructiveHint: false,
+  idempotentHint: true,
+  openWorldHint: false,
+} as const;

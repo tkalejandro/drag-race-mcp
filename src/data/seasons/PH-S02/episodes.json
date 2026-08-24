@@ -429,7 +429,8 @@
     },
     "guestJudges": [
       {
-        "name": "Pangina Heals"
+        "name": "Pangina Heals",
+        "queenId": "pangina-heals"
       }
     ]
   },

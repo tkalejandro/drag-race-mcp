@@ -1,6 +1,12 @@
 {
   "id": "aura-mayari",
   "name": "Aura Mayari",
+  "origin": {
+    "countries": [
+      "PR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

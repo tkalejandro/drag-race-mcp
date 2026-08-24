@@ -1,6 +1,11 @@
 {
   "id": "aura-eternal",
   "name": "Aura Eternal",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S02",

@@ -1,6 +1,11 @@
 {
   "id": "just-may",
   "name": "Just May",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S04",
@@ -10,7 +15,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S04-E01", "song": "Let Them Know" }
+        {
+          "episodeId": "UK-S04-E01",
+          "song": "Let Them Know"
+        }
       ]
     }
   ]

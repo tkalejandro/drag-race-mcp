@@ -1,6 +1,11 @@
 {
   "id": "la-voix",
   "name": "La Voix",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S06",
@@ -35,8 +40,14 @@
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S06-E01", "song": "Ooh La La" },
-        { "episodeId": "UK-S06-E10", "song": "Don't Stop Me Now" }
+        {
+          "episodeId": "UK-S06-E01",
+          "song": "Ooh La La"
+        },
+        {
+          "episodeId": "UK-S06-E10",
+          "song": "Don't Stop Me Now"
+        }
       ]
     }
   ]

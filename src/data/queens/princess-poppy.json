@@ -1,6 +1,11 @@
 {
   "id": "princess-poppy",
   "name": "Princess Poppy",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

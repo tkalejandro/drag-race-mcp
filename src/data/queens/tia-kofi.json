@@ -1,6 +1,11 @@
 {
   "id": "tia-kofi",
   "name": "Tia Kofi",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S02",

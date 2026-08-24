@@ -1,6 +1,11 @@
 {
   "id": "la-diamond",
   "name": "La Diamond",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S02",

@@ -1,6 +1,11 @@
 {
   "id": "trixie-mattel",
   "name": "Trixie Mattel",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

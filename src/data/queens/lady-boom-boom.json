@@ -1,6 +1,11 @@
 {
   "id": "lady-boom-boom",
   "name": "Lady Boom Boom",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

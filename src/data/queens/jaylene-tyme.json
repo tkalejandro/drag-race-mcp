@@ -1,6 +1,11 @@
 {
   "id": "jaylene-tyme",
   "name": "Jaylene Tyme",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

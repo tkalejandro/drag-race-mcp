@@ -1,6 +1,12 @@
 {
   "id": "pandora-nox",
   "name": "Pandora Nox",
+  "origin": {
+    "countries": [
+      "AT",
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

@@ -1,6 +1,11 @@
 {
   "id": "nina-de-la-fuente",
   "name": "Nina de la Fuente",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

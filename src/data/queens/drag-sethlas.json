@@ -1,6 +1,11 @@
 {
   "id": "drag-sethlas",
   "name": "Drag Sethlas",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S02",

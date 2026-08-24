@@ -1,6 +1,11 @@
 {
   "id": "regina-voce",
   "name": "Regina Voce",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S01",

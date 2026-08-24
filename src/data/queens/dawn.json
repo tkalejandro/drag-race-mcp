@@ -1,6 +1,11 @@
 {
   "id": "dawn",
   "name": "Dawn",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

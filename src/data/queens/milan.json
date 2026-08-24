@@ -1,6 +1,11 @@
 {
   "id": "milan",
   "name": "Milan",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

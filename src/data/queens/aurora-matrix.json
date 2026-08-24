@@ -1,6 +1,11 @@
 {
   "id": "aurora-matrix",
   "name": "Aurora Matrix",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S04",

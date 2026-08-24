@@ -1,6 +1,11 @@
 {
   "id": "barbie-q",
   "name": "Barbie Q",
+  "origin": {
+    "countries": [
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

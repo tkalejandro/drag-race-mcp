@@ -1,6 +1,11 @@
 {
   "id": "nikita-vegaz",
   "name": "Nikita Vegaz",
+  "origin": {
+    "countries": [
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

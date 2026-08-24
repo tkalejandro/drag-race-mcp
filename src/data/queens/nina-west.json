@@ -1,6 +1,11 @@
 {
   "id": "nina-west",
   "name": "Nina West",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",

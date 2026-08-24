@@ -1,6 +1,11 @@
 {
   "id": "ivanna-drink",
   "name": "Ivanna Drink",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

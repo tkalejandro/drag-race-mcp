@@ -1,6 +1,11 @@
 {
   "id": "ava-pocket",
   "name": "Ava Pocket",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

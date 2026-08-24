@@ -1,6 +1,11 @@
 {
   "id": "megami",
   "name": "Megami",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

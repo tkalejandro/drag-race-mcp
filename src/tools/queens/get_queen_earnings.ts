@@ -3,7 +3,7 @@ import { z } from "zod";
 import { QueenIdSchema } from "../../kb/schemas/common.ts";
 import { MoneySchema } from "../../kb/schemas/money.ts";
 import { getQueenEarnings } from "../../services/queens/get_queen_earnings.ts";
-import { toolResult } from "../utility.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 
 const CurrencyTotalSchema = z.object({
   amount: z.number(),
@@ -38,15 +38,16 @@ const outputSchema = z.discriminatedUnion("ok", [
 
 type Output = z.infer<typeof outputSchema>;
 
-/** Register the `get_queen_earnings` tool (career cash / prize breakdown). */
+/** Register the `get_queen_earnings` tool (one queen's prize breakdown). */
 export const registerGetQueenEarnings = (server: McpServer) => {
   server.registerTool(
     "get_queen_earnings",
     {
       description:
-        "Sum a queen's documented prizes across appearances (challenge tips, lip-sync tips, season purse). Returns personal cash totals, charity totals, non-cash prizes, and a full breakdown.",
+        "Sum one queen's documented prizes (challenge tips, lip-sync tips, season purse). Returns personal cash, charity, non-cash, and a breakdown. Do not loop this to rank many queens — use rank_queens_by_earnings (server-side sort, no FX). Unknown queenId returns ok=false.",
       inputSchema,
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
     async ({ queenId }) => {
       const earnings = getQueenEarnings(queenId);
@@ -57,10 +58,7 @@ export const registerGetQueenEarnings = (server: McpServer) => {
         };
         return toolResult(output);
       }
-      const output: Output = {
-        ok: true,
-        ...earnings,
-      };
+      const output: Output = { ok: true, ...earnings };
       return toolResult(output);
     },
   );

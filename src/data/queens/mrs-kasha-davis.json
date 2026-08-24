@@ -1,6 +1,11 @@
 {
   "id": "mrs-kasha-davis",
   "name": "Mrs. Kasha Davis",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

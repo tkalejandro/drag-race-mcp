@@ -1,6 +1,11 @@
 {
   "id": "dax-exclamationpoint",
   "name": "Dax ExclamationPoint",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

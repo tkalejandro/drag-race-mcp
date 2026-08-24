@@ -1,6 +1,11 @@
 {
   "id": "onya-nurve",
   "name": "Onya Nurve",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

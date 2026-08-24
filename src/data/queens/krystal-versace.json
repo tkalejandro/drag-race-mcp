@@ -1,6 +1,11 @@
 {
   "id": "krystal-versace",
   "name": "Krystal Versace",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

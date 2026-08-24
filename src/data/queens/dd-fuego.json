@@ -1,6 +1,11 @@
 {
   "id": "dd-fuego",
   "name": "DD Fuego",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

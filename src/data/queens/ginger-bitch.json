@@ -1,6 +1,11 @@
 {
   "id": "ginger-bitch",
   "name": "Ginger Bitch",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S02",

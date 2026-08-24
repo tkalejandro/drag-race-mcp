@@ -1,6 +1,11 @@
 {
   "id": "zahirah-zapanta",
   "name": "Zahirah Zapanta",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S06",

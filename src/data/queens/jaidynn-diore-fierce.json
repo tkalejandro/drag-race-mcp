@@ -1,6 +1,11 @@
 {
   "id": "jaidynn-diore-fierce",
   "name": "Jaidynn Diore Fierce",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

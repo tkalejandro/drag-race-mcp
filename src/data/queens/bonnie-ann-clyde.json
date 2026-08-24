@@ -1,6 +1,11 @@
 {
   "id": "bonnie-ann-clyde",
   "name": "Bonnie Ann Clyde",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S07",
@@ -19,7 +24,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S07-E08", "song": "Push the Button" }
+        {
+          "episodeId": "UK-S07-E08",
+          "song": "Push the Button"
+        }
       ]
     }
   ]

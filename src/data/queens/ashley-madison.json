@@ -1,6 +1,11 @@
 {
   "id": "ashley-madison",
   "name": "Ashley Madison",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

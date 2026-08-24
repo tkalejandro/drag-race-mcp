@@ -1,6 +1,11 @@
 {
   "id": "beth",
   "name": "Beth",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S02",

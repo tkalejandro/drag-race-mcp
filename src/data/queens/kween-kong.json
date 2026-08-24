@@ -1,6 +1,11 @@
 {
   "id": "kween-kong",
   "name": "Kween Kong",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S02",

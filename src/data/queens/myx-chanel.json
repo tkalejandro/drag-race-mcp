@@ -1,6 +1,11 @@
 {
   "id": "myx-chanel",
   "name": "Myx Chanel",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S03",

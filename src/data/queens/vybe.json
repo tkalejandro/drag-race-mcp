@@ -1,6 +1,11 @@
 {
   "id": "vybe",
   "name": "Vybe",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S04",

@@ -1,6 +1,11 @@
 {
   "id": "leexa-fox",
   "name": "Leexa Fox",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

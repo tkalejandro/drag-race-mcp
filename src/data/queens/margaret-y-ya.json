@@ -1,6 +1,11 @@
 {
   "id": "margaret-y-ya",
   "name": "Margaret Y Ya",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S01",

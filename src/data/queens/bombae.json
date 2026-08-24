@@ -1,6 +1,11 @@
 {
   "id": "bombae",
   "name": "Bombae",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

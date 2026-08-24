@@ -1,6 +1,11 @@
 {
   "id": "jonbers-blonde",
   "name": "Jonbers Blonde",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S04",

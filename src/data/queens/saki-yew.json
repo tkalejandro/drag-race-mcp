@@ -1,6 +1,11 @@
 {
   "id": "saki-yew",
   "name": "Saki Yew",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S06",

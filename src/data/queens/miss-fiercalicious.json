@@ -1,6 +1,11 @@
 {
   "id": "miss-fiercalicious",
   "name": "Miss Fiercalicious",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

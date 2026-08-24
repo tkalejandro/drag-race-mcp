@@ -1,6 +1,11 @@
 {
   "id": "maria-edilia",
   "name": "María Edilia",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S03",

@@ -1,6 +1,11 @@
 {
   "id": "robbie-turner",
   "name": "Robbie Turner",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

@@ -1,6 +1,11 @@
 {
   "id": "delta-work",
   "name": "Delta Work",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

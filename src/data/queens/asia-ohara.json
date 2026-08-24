@@ -1,6 +1,11 @@
 {
   "id": "asia-ohara",
   "name": "Asia O'Hara",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",

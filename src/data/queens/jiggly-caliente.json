@@ -1,6 +1,11 @@
 {
   "id": "jiggly-caliente",
   "name": "Jiggly Caliente",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

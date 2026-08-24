@@ -1,6 +1,15 @@
 {
   "id": "raja",
   "name": "Raja",
+  "aliases": [
+    "Raja Gemini"
+  ],
+  "origin": {
+    "countries": [
+      "ID",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",
@@ -94,8 +103,5 @@
         }
       ]
     }
-  ],
-  "aliases": [
-    "Raja Gemini"
   ]
 }

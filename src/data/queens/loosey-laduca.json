@@ -1,6 +1,11 @@
 {
   "id": "loosey-laduca",
   "name": "Loosey LaDuca",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

@@ -1,6 +1,11 @@
 {
   "id": "courtney-act",
   "name": "Courtney Act",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

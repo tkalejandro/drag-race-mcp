@@ -1,6 +1,11 @@
 {
   "id": "corazon",
   "name": "Corazon",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S01",

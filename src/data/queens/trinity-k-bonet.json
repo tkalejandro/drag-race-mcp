@@ -1,6 +1,11 @@
 {
   "id": "trinity-k-bonet",
   "name": "Trinity K. Bonet",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

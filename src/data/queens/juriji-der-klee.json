@@ -1,6 +1,12 @@
 {
   "id": "juriji-der-klee",
   "name": "Juriji der Klee",
+  "origin": {
+    "countries": [
+      "DE",
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S02",

@@ -1,6 +1,11 @@
 {
   "id": "melissa-bianchini",
   "name": "Melissa Bianchini",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

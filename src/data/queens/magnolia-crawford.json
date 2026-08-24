@@ -1,6 +1,11 @@
 {
   "id": "magnolia-crawford",
   "name": "Magnolia Crawford",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

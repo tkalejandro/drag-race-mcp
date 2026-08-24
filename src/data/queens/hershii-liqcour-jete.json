@@ -1,6 +1,11 @@
 {
   "id": "hershii-liqcour-jete",
   "name": "Hershii LiqCour-Jeté",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

@@ -1,6 +1,11 @@
 {
   "id": "madame-laqueer",
   "name": "Madame LaQueer",
+  "origin": {
+    "countries": [
+      "PR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

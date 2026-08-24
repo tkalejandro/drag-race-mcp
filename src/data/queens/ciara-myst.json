@@ -1,6 +1,11 @@
 {
   "id": "ciara-myst",
   "name": "Ciara Myst",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

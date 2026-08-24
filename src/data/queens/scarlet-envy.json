@@ -1,6 +1,11 @@
 {
   "id": "scarlet-envy",
   "name": "Scarlet Envy",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",

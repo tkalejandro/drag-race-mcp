@@ -1,6 +1,11 @@
 {
   "id": "adriana-picasso",
   "name": "Adriana Picasso",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

@@ -1,6 +1,11 @@
 {
   "id": "hormona-lisa",
   "name": "Hormona Lisa",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

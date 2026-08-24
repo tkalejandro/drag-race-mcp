@@ -1,6 +1,11 @@
 {
   "id": "venedita-von-dash",
   "name": "Venedita Von Däsh",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S02",

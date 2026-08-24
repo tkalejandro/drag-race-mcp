@@ -1,6 +1,11 @@
 {
   "id": "shuga-cain",
   "name": "Shuga Cain",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",

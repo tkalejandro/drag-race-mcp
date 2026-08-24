@@ -1,6 +1,11 @@
 {
   "id": "mami-watta",
   "name": "Mami Watta",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S02",

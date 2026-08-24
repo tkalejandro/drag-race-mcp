@@ -1,6 +1,11 @@
 {
   "id": "la-sheeva",
   "name": "La Sheeva",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

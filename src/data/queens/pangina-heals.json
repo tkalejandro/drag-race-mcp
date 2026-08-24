@@ -1,6 +1,11 @@
 {
   "id": "pangina-heals",
   "name": "Pangina Heals",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UKVTW-S01",

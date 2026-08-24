@@ -1,6 +1,11 @@
 {
   "id": "aja",
   "name": "Aja",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S09",

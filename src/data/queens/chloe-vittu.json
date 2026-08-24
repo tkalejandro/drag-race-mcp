@@ -1,6 +1,11 @@
 {
   "id": "chloe-vittu",
   "name": "Chloe Vittu",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S04",

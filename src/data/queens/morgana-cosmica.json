@@ -1,6 +1,11 @@
 {
   "id": "morgana-cosmica",
   "name": "Morgana Cosmica",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

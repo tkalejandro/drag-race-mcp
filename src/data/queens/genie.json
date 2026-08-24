@@ -1,6 +1,11 @@
 {
   "id": "genie",
   "name": "Genie",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S02",

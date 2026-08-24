@@ -1,6 +1,11 @@
 {
   "id": "arrietty",
   "name": "Arrietty",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

@@ -1,6 +1,11 @@
 {
   "id": "ella-vaday",
   "name": "Ella Vaday",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

@@ -1,6 +1,11 @@
 {
   "id": "freya-armani",
   "name": "Freya Armani",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S04",

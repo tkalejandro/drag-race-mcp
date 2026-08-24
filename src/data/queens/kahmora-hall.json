@@ -1,6 +1,11 @@
 {
   "id": "kahmora-hall",
   "name": "Kahmora Hall",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

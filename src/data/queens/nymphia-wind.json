@@ -1,6 +1,11 @@
 {
   "id": "nymphia-wind",
   "name": "Nymphia Wind",
+  "origin": {
+    "countries": [
+      "TW"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

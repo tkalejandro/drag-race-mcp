@@ -1,6 +1,11 @@
 {
   "id": "ariel-versace",
   "name": "Ariel Versace",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",

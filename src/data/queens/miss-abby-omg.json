@@ -1,6 +1,11 @@
 {
   "id": "miss-abby-omg",
   "name": "Miss Abby OMG",
+  "origin": {
+    "countries": [
+      "NL"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "NL-S01",

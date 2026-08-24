@@ -1,6 +1,11 @@
 {
   "id": "brigiding",
   "name": "Brigiding",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S01",

@@ -3,7 +3,7 @@ import { z } from "zod";
 import { getEpisode } from "../../services/accessors/index.ts";
 import { EpisodeIdSchema } from "../../kb/schemas/common.ts";
 import { EpisodeSchema } from "../../kb/schemas/episode.ts";
-import { toolResult } from "../utility.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 
 const inputSchema = z.object({
   episodeId: EpisodeIdSchema.describe(
@@ -30,9 +30,10 @@ export const registerGetEpisode = (server: McpServer) => {
     "get_episode",
     {
       description:
-        "Get an episode by id (challenges, runway, lip sync, eliminations, guest judges).",
+        "Return one episode by id (challenges, runwayTheme, lip sync, eliminations, guest judges). Use after search_episodes or from a season's episodeIds. For a queen's weekly outcomes on a season use get_queen_track_record instead of fetching every episode.",
       inputSchema,
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
     async ({ episodeId }) => {
       const episode = getEpisode(episodeId);
@@ -43,10 +44,7 @@ export const registerGetEpisode = (server: McpServer) => {
         };
         return toolResult(output);
       }
-      const output: Output = {
-        ok: true,
-        episode,
-      };
+      const output: Output = { ok: true, episode };
       return toolResult(output);
     },
   );

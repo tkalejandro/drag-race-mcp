@@ -1,6 +1,11 @@
 {
   "id": "mama-queen",
   "name": "Ma'Ma Queen",
+  "origin": {
+    "countries": [
+      "NL"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "NL-S01",

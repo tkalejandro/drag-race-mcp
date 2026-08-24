@@ -1,6 +1,11 @@
 {
   "id": "tammie-brown",
   "name": "Tammie Brown",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S01",

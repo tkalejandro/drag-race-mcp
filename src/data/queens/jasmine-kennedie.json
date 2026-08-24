@@ -1,6 +1,11 @@
 {
   "id": "jasmine-kennedie",
   "name": "Jasmine Kennedie",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

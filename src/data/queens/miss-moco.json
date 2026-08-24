@@ -1,6 +1,11 @@
 {
   "id": "miss-moco",
   "name": "Miss Moço",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

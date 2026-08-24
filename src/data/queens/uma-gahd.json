@@ -1,6 +1,11 @@
 {
   "id": "uma-gahd",
   "name": "Uma Gahd",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

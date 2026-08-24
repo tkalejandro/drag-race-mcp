@@ -1,6 +1,11 @@
 {
   "id": "sam-star",
   "name": "Sam Star",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

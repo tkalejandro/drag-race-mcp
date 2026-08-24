@@ -1,6 +1,12 @@
 {
   "id": "manila-luzon",
   "name": "Manila Luzon",
+  "origin": {
+    "countries": [
+      "PH",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

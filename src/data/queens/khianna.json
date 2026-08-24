@@ -1,6 +1,11 @@
 {
   "id": "khianna",
   "name": "Khianna",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S03",

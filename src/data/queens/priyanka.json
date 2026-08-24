@@ -1,6 +1,11 @@
 {
   "id": "priyanka",
   "name": "Priyanka",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",

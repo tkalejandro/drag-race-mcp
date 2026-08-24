@@ -1,6 +1,11 @@
 {
   "id": "cookie-kunty",
   "name": "Cookie Kunty",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S02",

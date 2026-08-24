@@ -1,6 +1,11 @@
 {
   "id": "mia-starr",
   "name": "Mia Starr",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

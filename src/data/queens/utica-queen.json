@@ -1,6 +1,11 @@
 {
   "id": "utica-queen",
   "name": "Utica Queen",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

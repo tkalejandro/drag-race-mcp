@@ -1,6 +1,12 @@
 {
   "id": "suki-doll",
   "name": "Suki Doll",
+  "origin": {
+    "countries": [
+      "CA",
+      "CN"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S02",

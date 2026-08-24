@@ -1,6 +1,11 @@
 {
   "id": "karamilk",
   "name": "Karamilk",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

@@ -1,6 +1,11 @@
 {
   "id": "captivating-katkat",
   "name": "Captivating Katkat",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S02",

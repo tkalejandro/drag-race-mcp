@@ -1,6 +1,11 @@
 {
   "id": "nyongbella",
   "name": "Nyongbella",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S07",
@@ -9,11 +14,20 @@
       "challengeWins": [],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "UK-S07-E01", "song": "Von Dutch" },
-        { "episodeId": "UK-S07-E03", "song": "Sound of the Underground" }
+        {
+          "episodeId": "UK-S07-E01",
+          "song": "Von Dutch"
+        },
+        {
+          "episodeId": "UK-S07-E03",
+          "song": "Sound of the Underground"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "UK-S07-E04", "song": "Pearls" }
+        {
+          "episodeId": "UK-S07-E04",
+          "song": "Pearls"
+        }
       ]
     }
   ]

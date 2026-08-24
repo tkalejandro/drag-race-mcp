@@ -1,6 +1,11 @@
 {
   "id": "kam-hugh",
   "name": "Kam Hugh",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S01",

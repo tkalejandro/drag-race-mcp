@@ -1,6 +1,11 @@
 {
   "id": "dedelicious",
   "name": "DeDeLicious",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S05",

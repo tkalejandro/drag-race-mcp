@@ -1,6 +1,11 @@
 {
   "id": "ivory-glaze",
   "name": "Ivory Glaze",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

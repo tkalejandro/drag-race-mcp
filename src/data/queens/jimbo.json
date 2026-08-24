@@ -1,6 +1,11 @@
 {
   "id": "jimbo",
   "name": "Jimbo",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",

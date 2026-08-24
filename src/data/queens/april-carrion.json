@@ -1,6 +1,11 @@
 {
   "id": "april-carrion",
   "name": "April Carrión",
+  "origin": {
+    "countries": [
+      "PR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

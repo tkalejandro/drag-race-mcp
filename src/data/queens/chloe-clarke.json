@@ -1,6 +1,11 @@
 {
   "id": "chloe-clarke",
   "name": "Chloe Clarke",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S02",

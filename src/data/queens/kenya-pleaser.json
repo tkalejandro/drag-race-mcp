@@ -1,6 +1,11 @@
 {
   "id": "kenya-pleaser",
   "name": "Kenya Pleaser",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

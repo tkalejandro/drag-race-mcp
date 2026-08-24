@@ -1,6 +1,11 @@
 {
   "id": "madame-yoko",
   "name": "Madame Yoko",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S02",

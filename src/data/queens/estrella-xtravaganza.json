@@ -1,6 +1,11 @@
 {
   "id": "estrella-xtravaganza",
   "name": "Estrella Xtravaganza",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S02",

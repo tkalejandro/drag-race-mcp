@@ -1,6 +1,11 @@
 {
   "id": "la-grande-dame",
   "name": "La Grande Dame",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S01",

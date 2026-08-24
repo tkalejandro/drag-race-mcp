@@ -1,6 +1,11 @@
 {
   "id": "morrigan",
   "name": "Morrigan",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S01",

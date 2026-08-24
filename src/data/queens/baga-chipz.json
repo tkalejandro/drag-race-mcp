@@ -1,6 +1,11 @@
 {
   "id": "baga-chipz",
   "name": "Baga Chipz",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S01",

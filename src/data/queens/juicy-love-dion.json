@@ -1,6 +1,11 @@
 {
   "id": "juicy-love-dion",
   "name": "Juicy Love Dion",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

@@ -1,6 +1,11 @@
 {
   "id": "lana-jarae",
   "name": "Lana Ja'Rae",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

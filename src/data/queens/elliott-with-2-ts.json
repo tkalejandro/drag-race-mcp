@@ -1,6 +1,11 @@
 {
   "id": "elliott-with-2-ts",
   "name": "Elliott with 2 Ts",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

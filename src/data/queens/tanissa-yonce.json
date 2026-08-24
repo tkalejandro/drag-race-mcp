@@ -1,6 +1,11 @@
 {
   "id": "tanissa-yonce",
   "name": "Tanissa Yoncè",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S02",

@@ -1,6 +1,12 @@
 {
   "id": "flor",
   "name": "Flor",
+  "origin": {
+    "countries": [
+      "GT",
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

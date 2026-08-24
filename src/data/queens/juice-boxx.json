@@ -1,6 +1,11 @@
 {
   "id": "juice-boxx",
   "name": "Juice Boxx",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",
@@ -10,7 +15,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E01", "song": "I Really Like You" }
+        {
+          "episodeId": "CA-S01-E01",
+          "song": "I Really Like You"
+        }
       ]
     },
     {

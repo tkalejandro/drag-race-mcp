@@ -1,6 +1,11 @@
 {
   "id": "lazy-susan",
   "name": "Lazy Susan",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S04",

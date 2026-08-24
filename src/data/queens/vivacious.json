@@ -1,6 +1,11 @@
 {
   "id": "vivacious",
   "name": "Vivacious",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

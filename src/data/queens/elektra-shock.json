@@ -1,6 +1,11 @@
 {
   "id": "elektra-shock",
   "name": "Elektra Shock",
+  "origin": {
+    "countries": [
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S01",

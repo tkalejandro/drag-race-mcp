@@ -1,6 +1,11 @@
 {
   "id": "alyssa-hunter",
   "name": "Alyssa Hunter",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

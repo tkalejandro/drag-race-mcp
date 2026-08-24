@@ -1,6 +1,11 @@
 {
   "id": "angel",
   "name": "Angel",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S03",

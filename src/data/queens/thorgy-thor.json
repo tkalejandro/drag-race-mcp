@@ -1,6 +1,11 @@
 {
   "id": "thorgy-thor",
   "name": "Thorgy Thor",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

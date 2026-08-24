@@ -1,6 +1,11 @@
 {
   "id": "elektra-vandergeld",
   "name": "Elektra Vandergeld",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

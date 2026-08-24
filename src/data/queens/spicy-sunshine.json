@@ -1,6 +1,11 @@
 {
   "id": "spicy-sunshine",
   "name": "Spicy Sunshine",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S03",

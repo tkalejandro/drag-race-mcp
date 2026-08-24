@@ -1,6 +1,11 @@
 {
   "id": "jinkx-monsoon",
   "name": "Jinkx Monsoon",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

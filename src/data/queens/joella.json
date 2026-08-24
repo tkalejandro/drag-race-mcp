@@ -1,6 +1,11 @@
 {
   "id": "joella",
   "name": "Joella",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

@@ -1,6 +1,11 @@
 {
   "id": "chelseaboy",
   "name": "ChelseaBoy",
+  "origin": {
+    "countries": [
+      "NL"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "NL-S01",

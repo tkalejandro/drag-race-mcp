@@ -1,6 +1,11 @@
 {
   "id": "m-stranger-fox",
   "name": "M Stranger Fox",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S02",

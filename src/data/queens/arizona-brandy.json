@@ -1,6 +1,11 @@
 {
   "id": "arizona-brandy",
   "name": "Arizona Brandy",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S02",

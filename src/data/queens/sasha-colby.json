@@ -1,6 +1,11 @@
 {
   "id": "sasha-colby",
   "name": "Sasha Colby",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

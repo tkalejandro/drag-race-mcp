@@ -1,6 +1,11 @@
 {
   "id": "ginny-lemon",
   "name": "Ginny Lemon",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S02",

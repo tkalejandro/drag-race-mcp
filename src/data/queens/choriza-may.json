@@ -1,6 +1,11 @@
 {
   "id": "choriza-may",
   "name": "Choriza May",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

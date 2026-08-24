@@ -1,6 +1,11 @@
 {
   "id": "kelly-heelton",
   "name": "Kelly Heelton",
+  "origin": {
+    "countries": [
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

@@ -1,5 +1,6 @@
 import { z } from "zod";
 import {
+  CountrySchema,
   EpisodeIdSchema,
   QueenIdSchema,
   SeasonIdSchema,
@@ -32,14 +33,21 @@ export const QueenAppearanceSchema = z.object({
   reentered: z.boolean().optional(),
 });
 
+export const QueenOriginSchema = z.object({
+  countries: z.array(CountrySchema).min(1),
+  hometown: z.string().min(1).optional(),
+});
+
 export const QueenSchema = z.object({
   id: QueenIdSchema,
   name: z.string().min(1),
   aliases: z.array(z.string()).optional(),
+  origin: QueenOriginSchema,
   appearances: z.array(QueenAppearanceSchema),
 });
 
 export type ChallengeWin = z.infer<typeof ChallengeWinSchema>;
 export type LipSyncResult = z.infer<typeof LipSyncResultSchema>;
 export type QueenAppearance = z.infer<typeof QueenAppearanceSchema>;
+export type QueenOrigin = z.infer<typeof QueenOriginSchema>;
 export type Queen = z.infer<typeof QueenSchema>;

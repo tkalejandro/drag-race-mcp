@@ -1,6 +1,11 @@
 {
   "id": "diva-more",
   "name": "Diva More",
+  "origin": {
+    "countries": [
+      "BR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S01",

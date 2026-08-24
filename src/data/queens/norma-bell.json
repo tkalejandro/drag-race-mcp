@@ -1,6 +1,11 @@
 {
   "id": "norma-bell",
   "name": "Norma Bell",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S03",

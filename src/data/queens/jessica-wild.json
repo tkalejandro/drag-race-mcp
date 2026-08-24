@@ -1,6 +1,11 @@
 {
   "id": "jessica-wild",
   "name": "Jessica Wild",
+  "origin": {
+    "countries": [
+      "PR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",

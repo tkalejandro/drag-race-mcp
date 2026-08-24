@@ -1,6 +1,11 @@
 {
   "id": "jorgeous",
   "name": "Jorgeous",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

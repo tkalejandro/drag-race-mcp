@@ -1,6 +1,11 @@
 {
   "id": "sisi-superstar",
   "name": "Sisi Superstar",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S04",

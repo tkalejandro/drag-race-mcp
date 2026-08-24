@@ -1,6 +1,11 @@
 {
   "id": "shani-lasanta",
   "name": "Shani LaSanta",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S04",

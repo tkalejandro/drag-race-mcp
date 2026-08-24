@@ -11,6 +11,7 @@ import {
   LoreTag,
   type SeasonId,
 } from "../catalogs.ts";
+import { Country, OriginRegion } from "../origin.ts";
 
 export const currencyValues = Object.values(Currency) as [
   Currency,
@@ -26,9 +27,18 @@ export const franchiseRegionValues = Object.values(FranchiseRegion) as [
 ];
 export const loreTagValues = Object.values(LoreTag) as [LoreTag, ...LoreTag[]];
 export const seasonIdValues = ALL_SEASON_IDS as [SeasonId, ...SeasonId[]];
+export const countryValues = Object.values(Country) as [Country, ...Country[]];
+export const originRegionValues = Object.values(OriginRegion) as [
+  OriginRegion,
+  ...OriginRegion[],
+];
 
 export const QueenIdSchema = z.string().min(1);
 export const EpisodeIdSchema = z.string().min(1);
 export const LoreIdSchema = z.string().min(1);
 export const SeasonIdSchema = z.enum(seasonIdValues);
 export const FranchiseRegionSchema = z.enum(franchiseRegionValues);
+export const FranchiseCodeSchema = z.enum(franchiseValues);
+export const CountrySchema = z.enum(countryValues);
+export const OriginRegionSchema = z.enum(originRegionValues);
+export const CurrencySchema = z.enum(currencyValues);

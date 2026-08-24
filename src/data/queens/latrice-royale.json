@@ -1,6 +1,11 @@
 {
   "id": "latrice-royale",
   "name": "Latrice Royale",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

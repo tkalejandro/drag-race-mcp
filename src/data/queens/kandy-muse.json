@@ -1,6 +1,11 @@
 {
   "id": "kandy-muse",
   "name": "Kandy Muse",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

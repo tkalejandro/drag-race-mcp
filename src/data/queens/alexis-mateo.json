@@ -1,6 +1,11 @@
 {
   "id": "alexis-mateo",
   "name": "Alexis Mateo",
+  "origin": {
+    "countries": [
+      "PR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

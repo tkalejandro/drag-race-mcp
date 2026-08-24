@@ -1,6 +1,11 @@
 {
   "id": "gia-gunn",
   "name": "Gia Gunn",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

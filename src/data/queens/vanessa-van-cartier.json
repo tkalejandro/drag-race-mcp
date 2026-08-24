@@ -1,6 +1,11 @@
 {
   "id": "vanessa-van-cartier",
   "name": "Vanessa Van Cartier",
+  "origin": {
+    "countries": [
+      "NL"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "NL-S02",

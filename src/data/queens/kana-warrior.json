@@ -1,6 +1,11 @@
 {
   "id": "kana-warrior",
   "name": "Kana Warrior",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S02",

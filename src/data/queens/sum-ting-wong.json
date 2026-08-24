@@ -1,6 +1,11 @@
 {
   "id": "sum-ting-wong",
   "name": "Sum Ting Wong",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S01",

@@ -1,6 +1,11 @@
 {
   "id": "scarlet-adams",
   "name": "Scarlet Adams",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S01",

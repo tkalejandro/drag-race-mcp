@@ -1,6 +1,11 @@
 {
   "id": "india-ferrah",
   "name": "India Ferrah",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

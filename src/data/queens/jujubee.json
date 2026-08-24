@@ -1,6 +1,12 @@
 {
   "id": "jujubee",
   "name": "Jujubee",
+  "origin": {
+    "countries": [
+      "US",
+      "LA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",

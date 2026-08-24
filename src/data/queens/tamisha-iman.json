@@ -1,6 +1,11 @@
 {
   "id": "tamisha-iman",
   "name": "Tamisha Iman",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

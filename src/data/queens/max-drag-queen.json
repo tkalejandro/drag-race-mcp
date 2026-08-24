@@ -1,6 +1,11 @@
 {
   "id": "max-drag-queen",
   "name": "Max Drag Queen",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S04",

@@ -1,6 +1,11 @@
 {
   "id": "brita",
   "name": "Brita",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

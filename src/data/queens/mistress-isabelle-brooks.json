@@ -1,6 +1,11 @@
 {
   "id": "mistress-isabelle-brooks",
   "name": "Mistress Isabelle Brooks",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

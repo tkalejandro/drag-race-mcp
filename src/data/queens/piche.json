@@ -1,6 +1,11 @@
 {
   "id": "piche",
   "name": "Piche",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S02",

@@ -1,6 +1,11 @@
 {
   "id": "maddy-morphosis",
   "name": "Maddy Morphosis",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

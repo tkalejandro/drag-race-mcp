@@ -1,6 +1,11 @@
 {
   "id": "imaa-queen",
   "name": "Imaa Queen",
+  "origin": {
+    "countries": [
+      "SE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "SE-S01",

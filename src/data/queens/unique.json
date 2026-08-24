@@ -1,6 +1,11 @@
 {
   "id": "unique",
   "name": "Unique",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

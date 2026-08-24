@@ -1,6 +1,11 @@
 {
   "id": "punani",
   "name": "Punani",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S02",

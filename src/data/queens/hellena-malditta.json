@@ -1,6 +1,11 @@
 {
   "id": "hellena-malditta",
   "name": "Hellena Malditta",
+  "origin": {
+    "countries": [
+      "BR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S01",

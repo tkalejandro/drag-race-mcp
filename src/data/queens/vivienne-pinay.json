@@ -1,6 +1,11 @@
 {
   "id": "vivienne-pinay",
   "name": "Vivienne Pinay",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

@@ -1,6 +1,11 @@
 {
   "id": "sasha-belle",
   "name": "Sasha Belle",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

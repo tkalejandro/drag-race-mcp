@@ -1,6 +1,11 @@
 {
   "id": "tyra-sanchez",
   "name": "Tyra Sanchez",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",

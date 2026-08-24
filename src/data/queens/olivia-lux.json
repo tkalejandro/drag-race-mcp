@@ -1,6 +1,11 @@
 {
   "id": "olivia-lux",
   "name": "Olivia Lux",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

@@ -1,6 +1,11 @@
 {
   "id": "the-girlfriend-experience",
   "name": "The Girlfriend Experience",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S04",

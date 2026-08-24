@@ -1,6 +1,11 @@
 {
   "id": "joslyn-fox",
   "name": "Joslyn Fox",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

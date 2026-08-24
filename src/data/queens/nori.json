@@ -1,6 +1,11 @@
 {
   "id": "nori",
   "name": "Nori",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S05",

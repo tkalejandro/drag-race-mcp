@@ -1,6 +1,12 @@
 {
   "id": "soa-de-muse",
   "name": "Soa de Muse",
+  "origin": {
+    "countries": [
+      "MQ",
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S01",

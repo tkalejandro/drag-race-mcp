@@ -1,6 +1,11 @@
 {
   "id": "kandy-ho",
   "name": "Kandy Ho",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

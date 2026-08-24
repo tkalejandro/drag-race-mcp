@@ -1,6 +1,11 @@
 {
   "id": "gothy-kendoll",
   "name": "Gothy Kendoll",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S01",

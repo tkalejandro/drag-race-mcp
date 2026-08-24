@@ -1,6 +1,11 @@
 {
   "id": "mimi-imfurst",
   "name": "Mimi Imfurst",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

@@ -1,6 +1,11 @@
 {
   "id": "lemon",
   "name": "Lemon",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",

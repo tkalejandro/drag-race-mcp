@@ -1,6 +1,11 @@
 {
   "id": "phoenix",
   "name": "Phoenix",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

@@ -1,6 +1,12 @@
 {
   "id": "antonina-nutshell",
   "name": "Antonina Nutshell",
+  "origin": {
+    "countries": [
+      "PL",
+      "SE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "SE-S01",

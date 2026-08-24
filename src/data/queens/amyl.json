@@ -1,6 +1,11 @@
 {
   "id": "amyl",
   "name": "Amyl",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

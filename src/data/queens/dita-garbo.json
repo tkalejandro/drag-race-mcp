@@ -1,6 +1,11 @@
 {
   "id": "dita-garbo",
   "name": "Dita Garbo",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S06",
@@ -10,7 +15,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S06-E03", "song": "Girls on Film" }
+        {
+          "episodeId": "UK-S06-E03",
+          "song": "Girls on Film"
+        }
       ]
     }
   ]

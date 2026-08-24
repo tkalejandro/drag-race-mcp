@@ -1,6 +1,11 @@
 {
   "id": "edeha-noire",
   "name": "Edeha Noire",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S03",

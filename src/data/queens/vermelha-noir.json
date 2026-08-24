@@ -1,6 +1,11 @@
 {
   "id": "vermelha-noir",
   "name": "Vermelha Noir",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S01",

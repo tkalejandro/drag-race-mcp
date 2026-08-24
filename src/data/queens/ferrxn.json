@@ -1,6 +1,11 @@
 {
   "id": "ferrxn",
   "name": "Ferrxn",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S05",

@@ -3,10 +3,10 @@ import { z } from "zod";
 import { getSeason } from "../../services/accessors/index.ts";
 import { SeasonIdSchema } from "../../kb/schemas/common.ts";
 import { SeasonSchema } from "../../kb/schemas/season.ts";
-import { toolResult } from "../utility.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 
 const inputSchema = z.object({
-  seasonId: SeasonIdSchema.describe("Season id, e.g. US-S06 or UK-S01"),
+  seasonId: SeasonIdSchema.describe("Season id, e.g. US-S06, FR-S01, or UK-S01"),
 });
 
 const outputSchema = z.discriminatedUnion("ok", [
@@ -28,9 +28,10 @@ export const registerGetSeason = (server: McpServer) => {
     "get_season",
     {
       description:
-        "Get a season record by id (castIds, episodeIds, winner, hosts/judges). Expand queens/episodes with get_queen / get_episode.",
+        "Return one season record by id (castIds, episodeIds, winners, hosts/judges, cashPrice). Use after list_season_ids. Expand queens with get_queen and episodes with get_episode. Do not use this to rank earnings or filter by queen origin.",
       inputSchema,
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
     async ({ seasonId }) => {
       const season = getSeason(seasonId);
@@ -41,10 +42,7 @@ export const registerGetSeason = (server: McpServer) => {
         };
         return toolResult(output);
       }
-      const output: Output = {
-        ok: true,
-        season,
-      };
+      const output: Output = { ok: true, season };
       return toolResult(output);
     },
   );

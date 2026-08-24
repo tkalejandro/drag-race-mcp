@@ -1,6 +1,11 @@
 {
   "id": "luna-lansman",
   "name": "Luna Lansman",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

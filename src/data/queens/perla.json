@@ -1,6 +1,11 @@
 {
   "id": "perla",
   "name": "Perla",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

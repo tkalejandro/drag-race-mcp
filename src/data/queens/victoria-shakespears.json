@@ -1,6 +1,11 @@
 {
   "id": "victoria-shakespears",
   "name": "Victoria Shakespears",
+  "origin": {
+    "countries": [
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

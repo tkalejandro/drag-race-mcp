@@ -1,40 +1,31 @@
 import type { McpServer } from "@modelcontextprotocol/server";
 import { z } from "zod";
-import { toolResult } from "../utility.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 
-/**
- * Welcome user tool
- * Just a simple tool to welcome the user to the server
- * This explains the basics of how to create a tool for the server.
- */
 const inputSchema = z.object({
   name: z
-    // rules for the name
     .string()
     .min(1)
     .max(20)
-    // describe the field to the LLM
-    .describe("The name of the user to welcome"),
+    .describe("Display name to include in the greeting"),
 });
 
 const outputSchema = z.object({
-  message: z.string().describe("Welcome message from the Drag Race MCP server"),
+  message: z.string().describe("Greeting that names this MCP server"),
 });
 
 type Output = z.infer<typeof outputSchema>;
 
-/** Register the `welcome_user` smoke-test tool. */
+/** Register the `welcome_user` connectivity smoke-test tool. */
 export const registerWelcomeUser = (server: McpServer) => {
   server.registerTool(
-    // Give the tool a name
     "welcome_user",
     {
-      // Describe the tool
-      description: "Welcome a user to the Drag Race MCP server (smoke test).",
-      // Describe the input schema
+      description:
+        "Return a short greeting that names this server so a host can verify stdio MCP is connected. Use only as a connectivity smoke test (first session or after config change). Do not use for Drag Race facts — use search_queens, get_queen, or list_season_ids. Read-only, no I/O, no network; the same name always yields the same message.",
       inputSchema,
-      // Describe the output schema
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
     async ({ name }) => {
       const output: Output = {

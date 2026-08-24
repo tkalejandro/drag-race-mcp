@@ -1,6 +1,11 @@
 {
   "id": "la-briochee",
   "name": "La Briochée",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S01",

@@ -1,6 +1,11 @@
 {
   "id": "pixie-pixie",
   "name": "Pixie Pixie",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S01",

@@ -1,6 +1,11 @@
 {
   "id": "rubi-ocean",
   "name": "Rubi Ocean",
+  "origin": {
+    "countries": [
+      "BR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S01",

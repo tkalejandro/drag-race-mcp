@@ -1,6 +1,11 @@
 {
   "id": "mayhem-miller",
   "name": "Mayhem Miller",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",

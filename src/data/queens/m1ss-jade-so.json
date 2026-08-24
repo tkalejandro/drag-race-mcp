@@ -1,6 +1,11 @@
 {
   "id": "m1ss-jade-so",
   "name": "M1ss Jade So",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S02",

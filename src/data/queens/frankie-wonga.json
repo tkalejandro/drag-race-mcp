@@ -1,6 +1,11 @@
 {
   "id": "frankie-wonga",
   "name": "Frankie Wonga",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S03",

@@ -1,6 +1,11 @@
 {
   "id": "adora-black",
   "name": "Adora Black",
+  "origin": {
+    "countries": [
+      "BR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S02",

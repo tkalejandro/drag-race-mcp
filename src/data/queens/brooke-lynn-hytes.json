@@ -1,6 +1,11 @@
 {
   "id": "brooke-lynn-hytes",
   "name": "Brooke Lynn Hytes",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",
