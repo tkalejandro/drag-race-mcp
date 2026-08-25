@@ -7,7 +7,7 @@
   "scripts": {
     "test": "tsx --test \"src/**/*.test.ts\"",
     "prepare": "husky",
-    "build": "tsc -p tsconfig.build.json && chmod 755 dist/index.js",
+    "build": "tsc -p tsconfig.build.json && rm -rf dist/data && cp -R src/data dist/data && chmod 755 dist/index.js",
     "prepublishOnly": "pnpm build"
   },
   "files": [
