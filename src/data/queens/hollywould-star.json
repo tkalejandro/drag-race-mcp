@@ -1,6 +1,12 @@
 {
   "id": "hollywould-star",
   "name": "Hollywould Star",
+  "origin": {
+    "countries": [
+      "US",
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

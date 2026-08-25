@@ -1,6 +1,11 @@
 {
   "id": "jade-jolie",
   "name": "Jade Jolie",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

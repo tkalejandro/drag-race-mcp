@@ -1,6 +1,11 @@
 {
   "id": "scaredy-kat",
   "name": "Scaredy Kat",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S01",
@@ -8,11 +13,17 @@
       "eliminatedEpisodeId": "UK-S01-E02",
       "challengeWins": [],
       "miniChallengeWins": [
-        { "episodeId": "UK-S01-E01", "name": "Off with Your Heads photoshoot" }
+        {
+          "episodeId": "UK-S01-E01",
+          "name": "Off with Your Heads photoshoot"
+        }
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S01-E02", "song": "Venus" }
+        {
+          "episodeId": "UK-S01-E02",
+          "song": "Venus"
+        }
       ]
     }
   ]

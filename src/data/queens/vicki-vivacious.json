@@ -1,6 +1,11 @@
 {
   "id": "vicki-vivacious",
   "name": "Vicki Vivacious",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S05",

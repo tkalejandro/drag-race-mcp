@@ -1,6 +1,11 @@
 {
   "id": "dearis-doll",
   "name": "Dearis Doll",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S01",

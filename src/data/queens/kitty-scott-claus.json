@@ -1,6 +1,11 @@
 {
   "id": "kitty-scott-claus",
   "name": "Kitty Scott-Claus",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

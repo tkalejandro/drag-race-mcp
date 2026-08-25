@@ -1,6 +1,14 @@
 {
   "id": "lydia-b-kollins",
   "name": "Lydia B. Kollins",
+  "aliases": [
+    "Lydia Butthole Kollins"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",
@@ -86,8 +94,5 @@
       ],
       "eliminatedEpisodeId": "AS-S10-E12"
     }
-  ],
-  "aliases": [
-    "Lydia Butthole Kollins"
   ]
 }

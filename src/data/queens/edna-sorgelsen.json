@@ -1,6 +1,11 @@
 {
   "id": "edna-sorgelsen",
   "name": "Edna Sorgelsen",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S01",

@@ -1,6 +1,11 @@
 {
   "id": "sypario",
   "name": "Sypario",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

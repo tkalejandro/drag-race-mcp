@@ -1,6 +1,11 @@
 {
   "id": "popstar-bench",
   "name": "Popstar Bench",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S03",

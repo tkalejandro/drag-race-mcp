@@ -1,6 +1,11 @@
 {
   "id": "art-simone",
   "name": "Art Simone",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S01",

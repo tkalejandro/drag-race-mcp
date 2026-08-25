@@ -1,6 +1,11 @@
 {
   "id": "yvie-oddly",
   "name": "Yvie Oddly",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",

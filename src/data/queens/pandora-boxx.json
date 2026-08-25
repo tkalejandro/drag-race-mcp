@@ -1,6 +1,11 @@
 {
   "id": "pandora-boxx",
   "name": "Pandora Boxx",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",

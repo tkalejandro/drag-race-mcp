@@ -1,6 +1,11 @@
 {
   "id": "kimora-amour",
   "name": "Kimora Amour",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S02",

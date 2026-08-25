@@ -1,6 +1,11 @@
 {
   "id": "joe-black",
   "name": "Joe Black",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S02",

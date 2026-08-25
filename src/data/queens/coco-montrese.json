@@ -1,6 +1,11 @@
 {
   "id": "coco-montrese",
   "name": "Coco Montrese",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

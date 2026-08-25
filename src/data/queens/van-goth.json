@@ -1,6 +1,11 @@
 {
   "id": "van-goth",
   "name": "Van Goth",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

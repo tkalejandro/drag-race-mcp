@@ -1,6 +1,12 @@
 {
   "id": "diamante-merybrown",
   "name": "Diamante Merybrown",
+  "origin": {
+    "countries": [
+      "DO",
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S02",

@@ -1,6 +1,11 @@
 {
   "id": "stacy-layne-matthews",
   "name": "Stacy Layne Matthews",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

@@ -1,7 +1,14 @@
 {
   "id": "kiara",
   "name": "Kiara",
-  "aliases": ["Kiara Schatzi"],
+  "aliases": [
+    "Kiara Schatzi"
+  ],
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",
@@ -11,7 +18,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E05", "song": "I Drove All Night" }
+        {
+          "episodeId": "CA-S01-E05",
+          "song": "I Drove All Night"
+        }
       ]
     }
   ]

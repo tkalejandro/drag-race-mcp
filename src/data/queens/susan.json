@@ -1,6 +1,11 @@
 {
   "id": "susan",
   "name": "Susan",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S01",

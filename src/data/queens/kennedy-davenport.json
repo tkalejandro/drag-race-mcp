@@ -1,6 +1,11 @@
 {
   "id": "kennedy-davenport",
   "name": "Kennedy Davenport",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

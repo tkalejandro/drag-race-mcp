@@ -1,6 +1,11 @@
 {
   "id": "siam-phusri",
   "name": "Siam Phusri",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S03",

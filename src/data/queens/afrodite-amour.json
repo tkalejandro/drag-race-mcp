@@ -1,6 +1,11 @@
 {
   "id": "afrodite-amour",
   "name": "Afrodite Amour",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S03",

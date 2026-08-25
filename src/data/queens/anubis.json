@@ -1,7 +1,14 @@
 {
   "id": "anubis",
   "name": "Anubis",
-  "aliases": ["Anubis Finch"],
+  "aliases": [
+    "Anubis Finch"
+  ],
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

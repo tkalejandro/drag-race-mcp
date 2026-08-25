@@ -5,21 +5,51 @@ import {
   DEFAULT_SEARCH_LIMIT,
   MAX_SEARCH_LIMIT,
 } from "../../services/shared/limits.ts";
-import { toolResult } from "../utility.ts";
+import {
+  franchiseField,
+  originCountryField,
+  originRegionField,
+  regionField,
+  seasonIdField,
+  toQueenScope,
+} from "../scope_fields.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 
-const inputSchema = z.object({
-  query: z
-    .string()
-    .min(1)
-    .describe("Substring to match against queen name or aliases"),
-  limit: z
-    .number()
-    .int()
-    .min(1)
-    .max(MAX_SEARCH_LIMIT)
-    .optional()
-    .describe(`Max results (default ${DEFAULT_SEARCH_LIMIT}, max ${MAX_SEARCH_LIMIT})`),
-});
+const inputSchema = z
+  .object({
+    query: z
+      .string()
+      .min(1)
+      .optional()
+      .describe("Optional substring against queen name or aliases"),
+    seasonId: seasonIdField,
+    franchise: franchiseField,
+    region: regionField,
+    originCountry: originCountryField,
+    originRegion: originRegionField,
+    limit: z
+      .number()
+      .int()
+      .min(1)
+      .max(MAX_SEARCH_LIMIT)
+      .optional()
+      .describe(
+        `Max results (default ${DEFAULT_SEARCH_LIMIT}, max ${MAX_SEARCH_LIMIT})`,
+      ),
+  })
+  .refine(
+    (value) =>
+      Boolean(value.query) ||
+      Boolean(value.seasonId) ||
+      Boolean(value.franchise) ||
+      Boolean(value.region) ||
+      Boolean(value.originCountry) ||
+      Boolean(value.originRegion),
+    {
+      message:
+        "Provide query and/or at least one filter: seasonId, franchise, region, originCountry, originRegion",
+    },
+  );
 
 const outputSchema = z.object({
   ok: z.literal(true),
@@ -35,21 +65,23 @@ const outputSchema = z.object({
 
 type Output = z.infer<typeof outputSchema>;
 
-/** Register the `search_queens` tool (name/alias substring search). */
+/** Register the `search_queens` tool (name/alias + origin/franchise filters). */
 export const registerSearchQueens = (server: McpServer) => {
   server.registerTool(
     "search_queens",
     {
       description:
-        "Search queens by name or alias (case-insensitive substring). Returns id/name hits — then call get_queen.",
+        "Find queen ids by name/alias substring and/or filters. France the show is franchise=FR (not region=france). Latin American origin is originRegion=latin_america — that excludes Spain (use iberia or originCountry=ES). query may be omitted when filters are set. Returns id/name hits only — then call get_queen. For earnings ranking use rank_queens_by_earnings.",
       inputSchema,
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
-    async ({ query, limit }) => {
-      const results = searchQueens(
-        query,
-        limit === undefined ? undefined : { limit },
-      );
+    async ({ query, limit, ...scopeArgs }) => {
+      const results = searchQueens({
+        ...toQueenScope(scopeArgs),
+        ...(query !== undefined ? { query } : {}),
+        ...(limit !== undefined ? { limit } : {}),
+      });
       const output: Output = {
         ok: true,
         results,

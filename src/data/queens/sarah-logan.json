@@ -1,6 +1,11 @@
 {
   "id": "sarah-logan",
   "name": "Sarah Logan",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S02",

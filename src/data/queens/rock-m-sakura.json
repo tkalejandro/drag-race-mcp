@@ -1,6 +1,13 @@
 {
   "id": "rock-m-sakura",
   "name": "Rock M. Sakura",
+  "origin": {
+    "countries": [
+      "PH",
+      "VN",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

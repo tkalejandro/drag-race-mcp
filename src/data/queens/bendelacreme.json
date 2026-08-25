@@ -1,6 +1,11 @@
 {
   "id": "bendelacreme",
   "name": "BenDeLaCreme",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

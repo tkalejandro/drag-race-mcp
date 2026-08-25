@@ -1,6 +1,11 @@
 {
   "id": "nina-bonina-brown",
   "name": "Nina Bo'nina Brown",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S09",

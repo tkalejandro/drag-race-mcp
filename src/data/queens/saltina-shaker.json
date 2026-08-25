@@ -1,6 +1,11 @@
 {
   "id": "saltina-shaker",
   "name": "Saltina Shaker",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

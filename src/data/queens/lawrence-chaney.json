@@ -1,6 +1,11 @@
 {
   "id": "lawrence-chaney",
   "name": "Lawrence Chaney",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S02",

@@ -1,6 +1,12 @@
 {
   "id": "kim-chi",
   "name": "Kim Chi",
+  "origin": {
+    "countries": [
+      "KR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

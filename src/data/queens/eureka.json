@@ -1,6 +1,14 @@
 {
   "id": "eureka",
   "name": "Eureka",
+  "aliases": [
+    "Eureka!"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S09",
@@ -137,8 +145,5 @@
       "eliminatedEpisodeId": "CVTW-S02-E04",
       "missCongeniality": true
     }
-  ],
-  "aliases": [
-    "Eureka!"
   ]
 }

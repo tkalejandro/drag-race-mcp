@@ -1,6 +1,13 @@
 {
   "id": "charlie-hides",
   "name": "Charlie Hides",
+  "origin": {
+    "countries": [
+      "US",
+      "GB",
+      "IE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S09",

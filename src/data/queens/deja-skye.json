@@ -1,6 +1,11 @@
 {
   "id": "deja-skye",
   "name": "DeJa Skye",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

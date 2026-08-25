@@ -11,7 +11,7 @@ import {
   DEFAULT_SEARCH_LIMIT,
   MAX_SEARCH_LIMIT,
 } from "../../services/shared/limits.ts";
-import { toolResult } from "../utility.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 
 const inputSchema = z
   .object({
@@ -24,7 +24,9 @@ const inputSchema = z
       .array(z.enum(loreTagValues))
       .optional()
       .describe("Match lore that has any of these tags"),
-    queenId: QueenIdSchema.optional().describe("Filter lore linked to this queen"),
+    queenId: QueenIdSchema.optional().describe(
+      "Filter lore linked to this queen",
+    ),
     seasonId: SeasonIdSchema.optional().describe(
       "Filter lore linked to this season",
     ),
@@ -34,7 +36,9 @@ const inputSchema = z
       .min(1)
       .max(MAX_SEARCH_LIMIT)
       .optional()
-      .describe(`Max results (default ${DEFAULT_SEARCH_LIMIT}, max ${MAX_SEARCH_LIMIT})`),
+      .describe(
+        `Max results (default ${DEFAULT_SEARCH_LIMIT}, max ${MAX_SEARCH_LIMIT})`,
+      ),
   })
   .refine(
     (value) =>
@@ -61,9 +65,10 @@ export const registerSearchLore = (server: McpServer) => {
     "search_lore",
     {
       description:
-        "Search lore by query, tags, queenId, and/or seasonId. Returns matching lore entries (capped).",
+        "Search narrative lore by query, tags, queenId, and/or seasonId. Provide at least one of those. Returns capped lore records — then get_lore for a known id. Not for placements, cast lists, or earnings (use get_season, search_queens, rank_queens_by_earnings).",
       inputSchema,
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
     async ({ query, tags, queenId, seasonId, limit }) => {
       const results = searchLore({

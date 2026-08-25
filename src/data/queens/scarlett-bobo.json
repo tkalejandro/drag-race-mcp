@@ -1,6 +1,11 @@
 {
   "id": "scarlett-bobo",
   "name": "Scarlett BoBo",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",

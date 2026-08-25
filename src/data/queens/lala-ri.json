@@ -1,6 +1,11 @@
 {
   "id": "lala-ri",
   "name": "LaLa Ri",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

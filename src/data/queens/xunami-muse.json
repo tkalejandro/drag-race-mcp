@@ -1,6 +1,12 @@
 {
   "id": "xunami-muse",
   "name": "Xunami Muse",
+  "origin": {
+    "countries": [
+      "PA",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

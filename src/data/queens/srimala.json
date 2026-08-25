@@ -1,6 +1,11 @@
 {
   "id": "srimala",
   "name": "Srimala",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S02",

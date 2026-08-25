@@ -1,6 +1,12 @@
 {
   "id": "lucky-starzzz",
   "name": "Lucky Starzzz",
+  "origin": {
+    "countries": [
+      "CU",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

@@ -1,6 +1,11 @@
 {
   "id": "alexis-saint-pete",
   "name": "Alexis Saint-Pete",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S05",

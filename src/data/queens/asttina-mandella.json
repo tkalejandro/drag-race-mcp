@@ -1,6 +1,11 @@
 {
   "id": "asttina-mandella",
   "name": "Asttina Mandella",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S02",

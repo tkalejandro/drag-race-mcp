@@ -1,6 +1,11 @@
 {
   "id": "loulou-velvet",
   "name": "Loulou Velvet",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S02",

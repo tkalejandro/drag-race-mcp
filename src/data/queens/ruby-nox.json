@@ -1,6 +1,11 @@
 {
   "id": "ruby-nox",
   "name": "Ruby Nox",
+  "origin": {
+    "countries": [
+      "BR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S02",

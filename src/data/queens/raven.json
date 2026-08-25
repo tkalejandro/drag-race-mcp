@@ -1,6 +1,11 @@
 {
   "id": "raven",
   "name": "Raven",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",

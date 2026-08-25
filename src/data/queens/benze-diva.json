@@ -1,6 +1,11 @@
 {
   "id": "benze-diva",
   "name": "Benze Diva",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S03",

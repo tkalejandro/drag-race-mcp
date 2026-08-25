@@ -1,6 +1,11 @@
 {
   "id": "jaja",
   "name": "JAJA",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S01",

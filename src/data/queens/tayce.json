@@ -1,6 +1,11 @@
 {
   "id": "tayce",
   "name": "Tayce",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S02",

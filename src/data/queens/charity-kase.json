@@ -1,6 +1,11 @@
 {
   "id": "charity-kase",
   "name": "Charity Kase",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

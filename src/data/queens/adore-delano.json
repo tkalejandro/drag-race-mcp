@@ -1,6 +1,11 @@
 {
   "id": "adore-delano",
   "name": "Adore Delano",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

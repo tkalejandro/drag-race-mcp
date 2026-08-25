@@ -1,6 +1,11 @@
 {
   "id": "aiden-zhane",
   "name": "Aiden Zhane",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

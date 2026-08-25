@@ -1,6 +1,14 @@
 {
   "id": "monique-heart",
   "name": "Monique Heart",
+  "aliases": [
+    "Mo Heart"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",
@@ -104,8 +112,5 @@
         }
       ]
     }
-  ],
-  "aliases": [
-    "Mo Heart"
   ]
 }

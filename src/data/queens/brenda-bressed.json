@@ -1,6 +1,11 @@
 {
   "id": "brenda-bressed",
   "name": "Brenda Bressed",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S04",

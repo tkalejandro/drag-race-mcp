@@ -1,6 +1,11 @@
 {
   "id": "laganja-estranja",
   "name": "Laganja Estranja",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

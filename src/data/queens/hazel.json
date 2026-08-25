@@ -1,6 +1,11 @@
 {
   "id": "hazel",
   "name": "Hazel",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

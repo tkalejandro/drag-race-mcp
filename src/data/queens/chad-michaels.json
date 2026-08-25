@@ -1,6 +1,11 @@
 {
   "id": "chad-michaels",
   "name": "Chad Michaels",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

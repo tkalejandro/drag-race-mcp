@@ -1,6 +1,11 @@
 {
   "id": "tomara-thomas",
   "name": "Tomara Thomas",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S05",

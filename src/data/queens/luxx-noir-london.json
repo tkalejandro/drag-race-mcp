@@ -1,6 +1,11 @@
 {
   "id": "luxx-noir-london",
   "name": "Luxx Noir London",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

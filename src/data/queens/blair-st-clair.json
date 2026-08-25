@@ -1,6 +1,11 @@
 {
   "id": "blair-st-clair",
   "name": "Blair St. Clair",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",

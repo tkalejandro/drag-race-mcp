@@ -1,6 +1,12 @@
 {
   "id": "jax",
   "name": "Jax",
+  "origin": {
+    "countries": [
+      "PR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

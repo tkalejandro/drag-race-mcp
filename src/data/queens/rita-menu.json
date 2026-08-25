@@ -1,6 +1,11 @@
 {
   "id": "rita-menu",
   "name": "Rita Menu",
+  "origin": {
+    "countries": [
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

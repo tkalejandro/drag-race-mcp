@@ -1,6 +1,11 @@
 {
   "id": "venus-d-lite",
   "name": "Venus D-Lite",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

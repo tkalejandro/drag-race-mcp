@@ -1,6 +1,11 @@
 {
   "id": "ruby-on-the-nail",
   "name": "Ruby on the Nail",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S03",

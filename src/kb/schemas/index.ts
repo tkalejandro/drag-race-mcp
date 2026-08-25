@@ -9,10 +9,12 @@ export {
   ChallengeWinSchema,
   LipSyncResultSchema,
   QueenAppearanceSchema,
+  QueenOriginSchema,
   QueenSchema,
   type ChallengeWin,
   type LipSyncResult,
   type QueenAppearance,
+  type QueenOrigin,
   type Queen,
 } from "./queen.ts";
 export {

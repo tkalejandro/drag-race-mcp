@@ -1,6 +1,11 @@
 {
   "id": "paola-hoffmann-van-cartier",
   "name": "Paola Hoffmann Van Cartier",
+  "origin": {
+    "countries": [
+      "BR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S02",

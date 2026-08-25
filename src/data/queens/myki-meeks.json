@@ -1,6 +1,11 @@
 {
   "id": "myki-meeks",
   "name": "Myki Meeks",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

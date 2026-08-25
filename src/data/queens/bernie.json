@@ -1,6 +1,14 @@
 {
   "id": "bernie",
   "name": "Bernie",
+  "aliases": [
+    "Bernie Barrantes"
+  ],
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S02",
@@ -58,8 +66,5 @@
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "PHSR-S01-E05"
     }
-  ],
-  "aliases": [
-    "Bernie Barrantes"
   ]
 }

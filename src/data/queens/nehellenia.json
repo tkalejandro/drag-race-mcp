@@ -1,6 +1,11 @@
 {
   "id": "nehellenia",
   "name": "Nehellenia",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S02",

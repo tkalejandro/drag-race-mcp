@@ -1,6 +1,11 @@
 {
   "id": "isis-avis-loren",
   "name": "Isis Avis Loren",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

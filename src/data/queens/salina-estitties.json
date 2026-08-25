@@ -1,6 +1,11 @@
 {
   "id": "salina-estitties",
   "name": "Salina Estitties",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

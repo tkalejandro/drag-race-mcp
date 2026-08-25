@@ -1,6 +1,12 @@
 {
   "id": "cynthia-lee-fontaine",
   "name": "Cynthia Lee Fontaine",
+  "origin": {
+    "countries": [
+      "PR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

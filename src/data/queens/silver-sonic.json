@@ -1,6 +1,11 @@
 {
   "id": "silver-sonic",
   "name": "Silver Sonic",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S02",

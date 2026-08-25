@@ -1,6 +1,11 @@
 {
   "id": "pythia",
   "name": "Pythia",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S02",

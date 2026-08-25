@@ -1,6 +1,11 @@
 {
   "id": "helena-poison",
   "name": "Helena Poison",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

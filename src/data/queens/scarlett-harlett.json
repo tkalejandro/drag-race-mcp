@@ -1,6 +1,11 @@
 {
   "id": "scarlett-harlett",
   "name": "Scarlett Harlett",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

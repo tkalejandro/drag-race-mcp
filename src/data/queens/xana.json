@@ -1,6 +1,11 @@
 {
   "id": "xana",
   "name": "Xana",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

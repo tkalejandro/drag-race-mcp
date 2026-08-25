@@ -1,6 +1,11 @@
 {
   "id": "mariana-stars",
   "name": "Mariana Stars",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S04",

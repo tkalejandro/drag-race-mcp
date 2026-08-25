@@ -1,6 +1,11 @@
 {
   "id": "krystal-forever",
   "name": "Krystal Forever",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S05",

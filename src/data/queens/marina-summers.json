@@ -1,6 +1,11 @@
 {
   "id": "marina-summers",
   "name": "Marina Summers",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S01",

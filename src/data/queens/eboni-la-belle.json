@@ -1,6 +1,11 @@
 {
   "id": "eboni-la-belle",
   "name": "Eboni La'Belle",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

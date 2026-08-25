@@ -1,6 +1,11 @@
 {
   "id": "tiffany-ann-co",
   "name": "Tiffany Ann Co.",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

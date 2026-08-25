@@ -1,6 +1,11 @@
 {
   "id": "starlet",
   "name": "Starlet",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S04",
@@ -10,7 +15,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S04-E02", "song": "About You Now" }
+        {
+          "episodeId": "UK-S04-E02",
+          "song": "About You Now"
+        }
       ]
     }
   ]

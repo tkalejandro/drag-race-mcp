@@ -1,6 +1,11 @@
 {
   "id": "denebola-murnau",
   "name": "Denébola Murnau",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S05",

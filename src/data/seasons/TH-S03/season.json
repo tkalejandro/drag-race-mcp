@@ -42,12 +42,14 @@
   ],
   "hosts": [
     {
-      "name": "Pangina Heals"
+      "name": "Pangina Heals",
+      "queenId": "pangina-heals"
     }
   ],
   "judges": [
     {
-      "name": "Pangina Heals"
+      "name": "Pangina Heals",
+      "queenId": "pangina-heals"
     },
     {
       "name": "Art Arya"

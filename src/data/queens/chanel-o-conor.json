@@ -1,6 +1,11 @@
 {
   "id": "chanel-o-conor",
   "name": "Chanel O'Conor",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S06",
@@ -15,8 +20,14 @@
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S06-E02", "song": "Tension" },
-        { "episodeId": "UK-S06-E06", "song": "Something Kinda Ooooh" }
+        {
+          "episodeId": "UK-S06-E02",
+          "song": "Tension"
+        },
+        {
+          "episodeId": "UK-S06-E06",
+          "song": "Something Kinda Ooooh"
+        }
       ]
     }
   ]

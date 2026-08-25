@@ -1,6 +1,11 @@
 {
   "id": "shannel",
   "name": "Shannel",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S01",

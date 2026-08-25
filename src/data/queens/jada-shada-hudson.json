@@ -1,6 +1,11 @@
 {
   "id": "jada-shada-hudson",
   "name": "Jada Shada Hudson",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

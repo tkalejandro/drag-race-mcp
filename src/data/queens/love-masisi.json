@@ -1,6 +1,12 @@
 {
   "id": "love-masisi",
   "name": "Love Masisi",
+  "origin": {
+    "countries": [
+      "HT",
+      "NL"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "NL-S02",

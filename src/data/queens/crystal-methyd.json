@@ -1,6 +1,12 @@
 {
   "id": "crystal-methyd",
   "name": "Crystal Methyd",
+  "origin": {
+    "countries": [
+      "MX",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

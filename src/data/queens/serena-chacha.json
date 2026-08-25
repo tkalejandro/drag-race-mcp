@@ -1,6 +1,12 @@
 {
   "id": "serena-chacha",
   "name": "Serena ChaCha",
+  "origin": {
+    "countries": [
+      "PA",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

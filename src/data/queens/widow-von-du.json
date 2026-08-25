@@ -1,6 +1,11 @@
 {
   "id": "widow-von-du",
   "name": "Widow Von'Du",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

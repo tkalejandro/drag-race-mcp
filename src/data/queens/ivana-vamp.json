@@ -1,6 +1,11 @@
 {
   "id": "ivana-vamp",
   "name": "Ivana Vamp",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S01",

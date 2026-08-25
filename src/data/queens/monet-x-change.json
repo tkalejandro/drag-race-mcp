@@ -1,6 +1,11 @@
 {
   "id": "monet-x-change",
   "name": "Monét X Change",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",

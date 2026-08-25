@@ -1,6 +1,11 @@
 {
   "id": "ignus-ars",
   "name": "Ignus Ars",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

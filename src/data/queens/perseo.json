@@ -1,6 +1,11 @@
 {
   "id": "perseo",
   "name": "Perseo",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S03",

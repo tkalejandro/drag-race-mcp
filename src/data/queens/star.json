@@ -1,6 +1,11 @@
 {
   "id": "star",
   "name": "Star",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S02",

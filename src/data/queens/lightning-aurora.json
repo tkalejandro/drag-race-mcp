@@ -1,6 +1,11 @@
 {
   "id": "lightning-aurora",
   "name": "Lightning Aurora",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

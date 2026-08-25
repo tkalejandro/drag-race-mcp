@@ -1,6 +1,11 @@
 {
   "id": "la-petite-noire",
   "name": "La Petite Noire",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S02",

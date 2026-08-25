@@ -1,6 +1,11 @@
 {
   "id": "kaos",
   "name": "Kaos",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

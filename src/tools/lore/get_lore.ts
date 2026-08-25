@@ -3,7 +3,7 @@ import { z } from "zod";
 import { getLore } from "../../services/accessors/index.ts";
 import { LoreIdSchema } from "../../kb/schemas/common.ts";
 import { LoreSchema } from "../../kb/schemas/lore.ts";
-import { toolResult } from "../utility.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 
 const inputSchema = z.object({
   loreId: LoreIdSchema.describe("Lore id (kebab-case slug)"),
@@ -27,9 +27,11 @@ export const registerGetLore = (server: McpServer) => {
   server.registerTool(
     "get_lore",
     {
-      description: "Get a lore entry by id (title, summary, tags, linked ids).",
+      description:
+        "Return one lore entry by id (title, summary, tags, linked queen/season/episode ids). Use after search_lore. Lore is narrative context, not placements or earnings — use get_queen / get_season / get_queen_earnings for hard facts.",
       inputSchema,
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
     async ({ loreId }) => {
       const lore = getLore(loreId);
@@ -40,10 +42,7 @@ export const registerGetLore = (server: McpServer) => {
         };
         return toolResult(output);
       }
-      const output: Output = {
-        ok: true,
-        lore,
-      };
+      const output: Output = { ok: true, lore };
       return toolResult(output);
     },
   );

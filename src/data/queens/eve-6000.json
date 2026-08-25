@@ -1,6 +1,11 @@
 {
   "id": "eve-6000",
   "name": "Eve 6000",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S02",

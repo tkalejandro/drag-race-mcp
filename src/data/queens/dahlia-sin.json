@@ -1,6 +1,11 @@
 {
   "id": "dahlia-sin",
   "name": "Dahlia Sin",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

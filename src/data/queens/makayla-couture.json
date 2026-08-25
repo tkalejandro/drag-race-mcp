@@ -1,6 +1,11 @@
 {
   "id": "makayla-couture",
   "name": "Makayla Couture",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

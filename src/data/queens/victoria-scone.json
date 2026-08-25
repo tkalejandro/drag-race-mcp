@@ -1,6 +1,11 @@
 {
   "id": "victoria-scone",
   "name": "Victoria Scone",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

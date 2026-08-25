@@ -1,6 +1,11 @@
 {
   "id": "awhora",
   "name": "A'Whora",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S02",

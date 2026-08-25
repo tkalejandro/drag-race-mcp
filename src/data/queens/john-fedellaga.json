@@ -1,6 +1,11 @@
 {
   "id": "john-fedellaga",
   "name": "John Fedellaga",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S03",

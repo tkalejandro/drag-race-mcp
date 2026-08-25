@@ -1,6 +1,11 @@
 {
   "id": "alexis-michelle",
   "name": "Alexis Michelle",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S09",

@@ -1,6 +1,11 @@
 {
   "id": "elecktra",
   "name": "Elecktra",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "SE-S01",

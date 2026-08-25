@@ -1,6 +1,11 @@
 {
   "id": "kyran-thrax",
   "name": "Kyran Thrax",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S06",

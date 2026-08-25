@@ -1,6 +1,12 @@
 {
   "id": "kenya-michaels",
   "name": "Kenya Michaels",
+  "origin": {
+    "countries": [
+      "PR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

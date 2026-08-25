@@ -1,6 +1,11 @@
 {
   "id": "melina-blley",
   "name": "Melina Blley",
+  "origin": {
+    "countries": [
+      "BR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S02",

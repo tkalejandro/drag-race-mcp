@@ -1,6 +1,11 @@
 {
   "id": "tina-burner",
   "name": "Tina Burner",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

@@ -1,6 +1,11 @@
 {
   "id": "obama",
   "name": "Obama",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S02",

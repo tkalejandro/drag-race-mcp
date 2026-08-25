@@ -1,6 +1,12 @@
 {
   "id": "soju",
   "name": "Soju",
+  "origin": {
+    "countries": [
+      "KR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",

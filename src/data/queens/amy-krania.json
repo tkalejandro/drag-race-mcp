@@ -1,6 +1,11 @@
 {
   "id": "amy-krania",
   "name": "Amy Krania",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

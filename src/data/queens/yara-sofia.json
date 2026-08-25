@@ -1,6 +1,12 @@
 {
   "id": "yara-sofia",
   "name": "Yara Sofia",
+  "origin": {
+    "countries": [
+      "PR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

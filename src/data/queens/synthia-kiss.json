@@ -1,6 +1,11 @@
 {
   "id": "synthia-kiss",
   "name": "Synthia Kiss",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S02",

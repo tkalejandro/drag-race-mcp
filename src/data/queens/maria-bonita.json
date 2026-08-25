@@ -1,6 +1,11 @@
 {
   "id": "maria-bonita",
   "name": "María Bonita",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

@@ -1,6 +1,12 @@
 {
   "id": "naysha-lopez",
   "name": "Naysha Lopez",
+  "origin": {
+    "countries": [
+      "PR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

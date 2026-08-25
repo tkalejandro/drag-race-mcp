@@ -1,6 +1,11 @@
 {
   "id": "vita-vontesse-starr",
   "name": "Vita VonTesse Starr",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

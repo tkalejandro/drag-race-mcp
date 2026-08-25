@@ -1,6 +1,12 @@
 {
   "id": "anastarzia-anaquway",
   "name": "Anastarzia Anaquway",
+  "origin": {
+    "countries": [
+      "JM",
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",

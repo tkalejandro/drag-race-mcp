@@ -1,6 +1,11 @@
 {
   "id": "dusty-ray-bottoms",
   "name": "Dusty Ray Bottoms",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",

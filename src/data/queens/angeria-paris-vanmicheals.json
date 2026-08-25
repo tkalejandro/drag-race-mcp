@@ -1,6 +1,11 @@
 {
   "id": "angeria-paris-vanmicheals",
   "name": "Angeria Paris VanMicheals",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

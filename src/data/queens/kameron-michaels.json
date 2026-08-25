@@ -1,6 +1,11 @@
 {
   "id": "kameron-michaels",
   "name": "Kameron Michaels",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",

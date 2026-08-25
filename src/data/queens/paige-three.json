@@ -1,6 +1,11 @@
 {
   "id": "paige-three",
   "name": "Paige Three",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S07",
@@ -15,7 +20,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S07-E07", "song": "Tainted Love" }
+        {
+          "episodeId": "UK-S07-E07",
+          "song": "Tainted Love"
+        }
       ]
     }
   ]

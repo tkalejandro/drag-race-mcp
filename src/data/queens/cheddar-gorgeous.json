@@ -1,6 +1,11 @@
 {
   "id": "cheddar-gorgeous",
   "name": "Cheddar Gorgeous",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S04",
@@ -10,7 +15,10 @@
           "episodeId": "UK-S04-E02",
           "name": "Write, record, and perform verses to Come Alive"
         },
-        { "episodeId": "UK-S04-E06", "name": "Snatch Game" },
+        {
+          "episodeId": "UK-S04-E06",
+          "name": "Snatch Game"
+        },
         {
           "episodeId": "UK-S04-E07",
           "name": "Makeover the Queen Team"
@@ -23,7 +31,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S04-E10", "song": "This Is My Life" }
+        {
+          "episodeId": "UK-S04-E10",
+          "song": "This Is My Life"
+        }
       ]
     }
   ]

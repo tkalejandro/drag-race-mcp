@@ -1,6 +1,11 @@
 {
   "id": "horacio-potasio",
   "name": "Horacio Potasio",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

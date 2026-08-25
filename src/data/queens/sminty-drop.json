@@ -1,6 +1,11 @@
 {
   "id": "sminty-drop",
   "name": "Sminty Drop",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S04",

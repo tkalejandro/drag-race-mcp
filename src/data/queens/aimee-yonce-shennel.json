@@ -1,6 +1,11 @@
 {
   "id": "aimee-yonce-shennel",
   "name": "Aimee Yonce Shennel",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S04",

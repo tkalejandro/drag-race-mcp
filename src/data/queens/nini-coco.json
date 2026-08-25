@@ -1,6 +1,11 @@
 {
   "id": "nini-coco",
   "name": "Nini Coco",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

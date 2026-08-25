@@ -1,6 +1,11 @@
 {
   "id": "nicky-doll",
   "name": "Nicky Doll",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

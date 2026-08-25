@@ -1,6 +1,11 @@
 {
   "id": "elle-vosque",
   "name": "Elle Vosque",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S07",
@@ -16,11 +21,17 @@
         }
       ],
       "miniChallengeWins": [
-        { "episodeId": "UK-S07-E02", "name": "The Tainters" }
+        {
+          "episodeId": "UK-S07-E02",
+          "name": "The Tainters"
+        }
       ],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "UK-S07-E10", "song": "You Make Me Feel (Mighty Real)" }
+        {
+          "episodeId": "UK-S07-E10",
+          "song": "You Make Me Feel (Mighty Real)"
+        }
       ]
     }
   ]

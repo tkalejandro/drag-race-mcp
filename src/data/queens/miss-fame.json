@@ -1,6 +1,11 @@
 {
   "id": "miss-fame",
   "name": "Miss Fame",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

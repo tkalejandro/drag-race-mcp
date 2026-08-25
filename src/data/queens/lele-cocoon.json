@@ -1,6 +1,11 @@
 {
   "id": "lele-cocoon",
   "name": "LéLé Cocoon",
+  "origin": {
+    "countries": [
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

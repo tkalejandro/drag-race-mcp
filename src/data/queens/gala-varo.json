@@ -1,6 +1,11 @@
 {
   "id": "gala-varo",
   "name": "Gala Varo",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S01",

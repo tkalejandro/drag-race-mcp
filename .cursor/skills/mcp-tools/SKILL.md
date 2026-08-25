@@ -14,7 +14,8 @@ Follow TypeScript conventions from the `typescript-style` skill (arrow consts, `
 
 ```text
 src/tools/
-  utility.ts                 # toolResult helper
+  utility.ts                 # toolResult + readOnlyAnnotations
+  scope_fields.ts            # shared franchise/region/origin filters
   general|seasons|queens|episodes|lore/
     index.ts                 # register{Domain}Tools(server)
     snake_case_tool.ts       # one tool per file
@@ -33,7 +34,7 @@ Structure every tool file like this:
 ```ts
 import type { McpServer } from "@modelcontextprotocol/server";
 import { z } from "zod";
-import { toolResult } from "../utility.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 // + service/accessor + kb schemas as needed
 
 const inputSchema = z.object({
@@ -51,9 +52,11 @@ export const registerThing = (server: McpServer) => {
   server.registerTool(
     "snake_name",
     {
-      description: "What the tool does (LLM-facing).",
+      description:
+        "Verb + resource + scope. When to use / when not to use; name sibling tools. Do not recap the output schema.",
       inputSchema,
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
     async (args) => {
       const output: Output = { /* ... */ };
@@ -64,6 +67,23 @@ export const registerThing = (server: McpServer) => {
 ```
 
 Always return `toolResult(output)` from `src/tools/utility.ts` (JSON text in `content` + same object in `structuredContent`).
+
+Always pass `annotations: readOnlyAnnotations` (`readOnlyHint: true`, `destructiveHint: false`, `idempotentHint: true`, `openWorldHint: false`). This KB is local JSON, not the live web.
+
+## TDQS descriptions
+
+Glama scores `tools/list` (description + input schema + output schema + annotations). One weak tool tanks the grade (60% mean + 40% min).
+
+1. **Purpose** — first sentence = verb + resource + scope, not a tautology of the name.
+2. **When / when-not** — name sibling tools (`get_queen` vs `search_queens` vs `rank_queens_by_earnings`).
+3. **Params** — `.describe()` on every Zod field.
+4. **Output schema** — already present; do not restate returns in the description.
+5. **Concise** — a few dense sentences; no schema recap.
+
+Geography vs origin (repeat when relevant):
+
+- France the **show** = `franchise=FR`. `region=europe` includes France **and** Spain.
+- Latin American origin = `originRegion=latin_america` (excludes Spain). Spain = `iberia` or `originCountry=ES`.
 
 ## Conventions
 
@@ -76,11 +96,12 @@ Always return `toolResult(output)` from `src/tools/utility.ts` (JSON text in `co
 | Missable get | `z.discriminatedUnion("ok", [{ ok: true, ... }, { ok: false, error }])` |
 | Search / always-ok | `{ ok: z.literal(true), results, limit }` |
 | Search limits | `DEFAULT_SEARCH_LIMIT` / `MAX_SEARCH_LIMIT` from `src/services/shared/limits.ts` |
+| Rankings | Compute in a service; return id + metric rows, not full queen dumps |
 
 ## Add a tool checklist
 
 1. Pick or create a domain folder under `src/tools/`.
-2. Add `snake_name.ts` using the template above.
+2. Add `snake_name.ts` using the template above (TDQS description + annotations).
 3. Call `registerSnakeName(server)` from the domain `index.ts`.
 4. If the domain is new, add `register{Domain}Tools(server)` in `src/server.ts`.
 5. Put business logic in services; keep the tool file as schema + wire-up + `toolResult`.

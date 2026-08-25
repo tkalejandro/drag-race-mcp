@@ -1,6 +1,11 @@
 {
   "id": "anetra",
   "name": "Anetra",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

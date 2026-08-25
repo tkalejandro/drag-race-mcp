@@ -1,6 +1,11 @@
 {
   "id": "tristan-soledade",
   "name": "Tristan Soledade",
+  "origin": {
+    "countries": [
+      "BR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S01",

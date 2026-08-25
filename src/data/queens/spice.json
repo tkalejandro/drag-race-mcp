@@ -1,6 +1,11 @@
 {
   "id": "spice",
   "name": "Spice",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

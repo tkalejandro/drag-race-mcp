@@ -1,6 +1,12 @@
 {
   "id": "pupi-poisson",
   "name": "Pupi Poisson",
+  "origin": {
+    "countries": [
+      "AR",
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S01",

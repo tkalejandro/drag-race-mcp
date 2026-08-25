@@ -1,6 +1,11 @@
 {
   "id": "acacia-forgot",
   "name": "Acacia Forgot",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

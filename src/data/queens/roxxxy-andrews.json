@@ -1,6 +1,11 @@
 {
   "id": "roxxxy-andrews",
   "name": "Roxxxy Andrews",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

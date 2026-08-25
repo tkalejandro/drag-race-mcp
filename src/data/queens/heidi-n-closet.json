@@ -1,6 +1,11 @@
 {
   "id": "heidi-n-closet",
   "name": "Heidi N Closet",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S12",

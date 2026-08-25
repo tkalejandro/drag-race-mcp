@@ -1,6 +1,11 @@
 {
   "id": "ginger-johnson",
   "name": "Ginger Johnson",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S05",

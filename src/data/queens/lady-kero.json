@@ -1,6 +1,11 @@
 {
   "id": "lady-kero",
   "name": "Lady Kero",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S01",

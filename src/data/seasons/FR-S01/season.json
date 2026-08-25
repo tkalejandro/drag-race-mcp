@@ -40,12 +40,14 @@
   ],
   "hosts": [
     {
-      "name": "Nicky Doll"
+      "name": "Nicky Doll",
+      "queenId": "nicky-doll"
     }
   ],
   "judges": [
     {
-      "name": "Nicky Doll"
+      "name": "Nicky Doll",
+      "queenId": "nicky-doll"
     },
     {
       "name": "Daphné Bürki"

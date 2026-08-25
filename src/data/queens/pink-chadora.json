@@ -1,6 +1,11 @@
 {
   "id": "pink-chadora",
   "name": "Pink Chadora",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S03",

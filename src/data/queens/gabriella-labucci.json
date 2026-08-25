@@ -1,6 +1,11 @@
 {
   "id": "gabriella-labucci",
   "name": "Gabriella Labucci",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S03",

@@ -1,6 +1,11 @@
 {
   "id": "lula-strega",
   "name": "Lula Strega",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S03",

@@ -1,6 +1,11 @@
 {
   "id": "hugaceo-crujiente",
   "name": "Hugáceo Crujiente",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S01",

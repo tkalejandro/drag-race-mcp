@@ -1,6 +1,11 @@
 {
   "id": "shannon-skarllet",
   "name": "Shannon Skarllet",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BR-S01",

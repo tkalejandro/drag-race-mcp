@@ -1,6 +1,11 @@
 {
   "id": "miss-naomi-carter",
   "name": "Miss Naomi Carter",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S05",

@@ -1,6 +1,12 @@
 {
   "id": "honey-mahogany",
   "name": "Honey Mahogany",
+  "origin": {
+    "countries": [
+      "ET",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

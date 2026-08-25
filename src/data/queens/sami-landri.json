@@ -1,6 +1,11 @@
 {
   "id": "sami-landri",
   "name": "Sami Landri",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

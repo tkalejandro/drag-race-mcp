@@ -1,6 +1,14 @@
 {
   "id": "irene-dubois",
   "name": "Irene Dubois",
+  "aliases": [
+    "Irene the Alien"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",
@@ -71,8 +79,5 @@
       ],
       "eliminatedEpisodeId": "AS-S10-E12"
     }
-  ],
-  "aliases": [
-    "Irene the Alien"
   ]
 }

@@ -1,6 +1,11 @@
 {
   "id": "kiki-coe",
   "name": "Kiki Coe",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S04",

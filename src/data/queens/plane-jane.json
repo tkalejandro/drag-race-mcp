@@ -1,6 +1,12 @@
 {
   "id": "plane-jane",
   "name": "Plane Jane",
+  "origin": {
+    "countries": [
+      "US",
+      "LV"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

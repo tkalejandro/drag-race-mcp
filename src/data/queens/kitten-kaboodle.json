@@ -1,6 +1,11 @@
 {
   "id": "kitten-kaboodle",
   "name": "Kitten Kaboodle",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S04",

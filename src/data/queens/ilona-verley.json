@@ -1,6 +1,11 @@
 {
   "id": "ilona-verley",
   "name": "Ilona Verley",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",
@@ -9,11 +14,20 @@
       "challengeWins": [],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "CA-S01-E04", "song": "Girlfriend" },
-        { "episodeId": "CA-S01-E06", "song": "Scars to Your Beautiful" }
+        {
+          "episodeId": "CA-S01-E04",
+          "song": "Girlfriend"
+        },
+        {
+          "episodeId": "CA-S01-E06",
+          "song": "Scars to Your Beautiful"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "CA-S01-E07", "song": "Hello" }
+        {
+          "episodeId": "CA-S01-E07",
+          "song": "Hello"
+        }
       ]
     }
   ]

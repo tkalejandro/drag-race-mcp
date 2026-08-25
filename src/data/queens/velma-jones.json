@@ -1,6 +1,11 @@
 {
   "id": "velma-jones",
   "name": "Velma Jones",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

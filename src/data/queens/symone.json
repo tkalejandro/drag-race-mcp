@@ -1,6 +1,11 @@
 {
   "id": "symone",
   "name": "Symone",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

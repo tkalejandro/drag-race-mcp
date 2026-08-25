@@ -18,6 +18,16 @@ export {
 } from "./catalogs.ts";
 
 export {
+  Country,
+  OriginRegion,
+  COUNTRY_ORIGIN_REGIONS,
+  COUNTRY_LABEL,
+  ORIGIN_REGION_LABEL,
+  ORIGIN_REGION_ALIASES,
+  originRegionsForCountries,
+} from "./origin.ts";
+
+export {
   getKb,
   loadKnowledgeBase,
   resetKb,

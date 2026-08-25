@@ -1,6 +1,11 @@
 {
   "id": "jewels-sparkles",
   "name": "Jewels Sparkles",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

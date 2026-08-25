@@ -1,6 +1,11 @@
 {
   "id": "vezirja",
   "name": "Vezirja",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

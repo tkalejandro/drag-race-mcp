@@ -1,6 +1,11 @@
 {
   "id": "aubrey-haive",
   "name": "Aubrey Haive",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S02",

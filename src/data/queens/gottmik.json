@@ -1,6 +1,11 @@
 {
   "id": "gottmik",
   "name": "Gottmik",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S13",

@@ -1,6 +1,12 @@
 {
   "id": "cara-melle",
   "name": "Cara Melle",
+  "origin": {
+    "countries": [
+      "US",
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S05",

@@ -1,6 +1,11 @@
 {
   "id": "rita-baga",
   "name": "Rita Baga",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",

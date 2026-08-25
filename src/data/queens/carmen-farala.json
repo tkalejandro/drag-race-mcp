@@ -1,6 +1,11 @@
 {
   "id": "carmen-farala",
   "name": "Carmen Farala",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S01",

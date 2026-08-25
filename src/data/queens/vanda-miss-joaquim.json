@@ -1,6 +1,11 @@
 {
   "id": "vanda-miss-joaquim",
   "name": "Vanda Miss Joaquim",
+  "origin": {
+    "countries": [
+      "SG"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S02",

@@ -1,6 +1,11 @@
 {
   "id": "farrah-moan",
   "name": "Farrah Moan",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S09",

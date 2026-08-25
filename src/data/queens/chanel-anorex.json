@@ -1,6 +1,11 @@
 {
   "id": "chanel-anorex",
   "name": "Chanel Anorex",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S03",

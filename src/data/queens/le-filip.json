@@ -1,6 +1,12 @@
 {
   "id": "le-filip",
   "name": "Le Filip",
+  "origin": {
+    "countries": [
+      "HR",
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S03",

@@ -1,7 +1,15 @@
 {
   "id": "victoria-porkchop-parker",
   "name": "Victoria \"Porkchop\" Parker",
-  "aliases": ["Porkchop", "Victoria Parker"],
+  "aliases": [
+    "Porkchop",
+    "Victoria Parker"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S01",
@@ -11,7 +19,10 @@
       "miniChallengeWins": [],
       "lipSyncWins": [],
       "lipSyncLosses": [
-        { "episodeId": "US-S01-E01", "song": "Supermodel (You Better Work)" }
+        {
+          "episodeId": "US-S01-E01",
+          "song": "Supermodel (You Better Work)"
+        }
       ]
     }
   ]

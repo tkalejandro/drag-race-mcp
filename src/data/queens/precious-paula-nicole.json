@@ -1,6 +1,11 @@
 {
   "id": "precious-paula-nicole",
   "name": "Precious Paula Nicole",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S01",

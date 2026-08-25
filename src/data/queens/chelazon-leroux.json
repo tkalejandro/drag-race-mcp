@@ -1,6 +1,11 @@
 {
   "id": "chelazon-leroux",
   "name": "Chelazon Leroux",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

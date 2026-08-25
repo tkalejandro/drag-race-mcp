@@ -1,6 +1,12 @@
 {
   "id": "envy-peru",
   "name": "Envy Peru",
+  "origin": {
+    "countries": [
+      "PE",
+      "NL"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "NL-S01",

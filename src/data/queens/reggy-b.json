@@ -1,6 +1,11 @@
 {
   "id": "reggy-b",
   "name": "Reggy B",
+  "origin": {
+    "countries": [
+      "NL"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "NL-S02",

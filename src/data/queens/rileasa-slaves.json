@@ -1,6 +1,11 @@
 {
   "id": "rileasa-slaves",
   "name": "Rileasa Slaves",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S06",
@@ -13,9 +18,18 @@
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "UK-S06-E06", "song": "Something Kinda Ooooh" },
-        { "episodeId": "UK-S06-E08", "song": "Never Gonna Give You Up" },
-        { "episodeId": "UK-S06-E09", "song": "Crazy What Love Can Do" }
+        {
+          "episodeId": "UK-S06-E06",
+          "song": "Something Kinda Ooooh"
+        },
+        {
+          "episodeId": "UK-S06-E08",
+          "song": "Never Gonna Give You Up"
+        },
+        {
+          "episodeId": "UK-S06-E09",
+          "song": "Crazy What Love Can Do"
+        }
       ],
       "lipSyncLosses": []
     }

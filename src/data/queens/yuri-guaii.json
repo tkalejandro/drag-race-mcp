@@ -1,6 +1,11 @@
 {
   "id": "yuri-guaii",
   "name": "Yuri Guaii",
+  "origin": {
+    "countries": [
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S02",

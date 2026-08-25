@@ -1,6 +1,11 @@
 {
   "id": "nikita-iman",
   "name": "Nikita Iman",
+  "origin": {
+    "countries": [
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S04",

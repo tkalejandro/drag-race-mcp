@@ -1,6 +1,11 @@
 {
   "id": "ginger-minj",
   "name": "Ginger Minj",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

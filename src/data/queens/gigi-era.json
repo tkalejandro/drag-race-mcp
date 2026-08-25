@@ -1,6 +1,11 @@
 {
   "id": "gigi-era",
   "name": "Gigi Era",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S01",

@@ -1,6 +1,11 @@
 {
   "id": "lashauwn-beyond",
   "name": "Lashauwn Beyond",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

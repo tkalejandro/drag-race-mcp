@@ -1,6 +1,11 @@
 {
   "id": "anita-wiglit",
   "name": "Anita Wigl'it",
+  "origin": {
+    "countries": [
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S01",

@@ -1,6 +1,12 @@
 {
   "id": "halal-bae",
   "name": "Halal Bae",
+  "origin": {
+    "countries": [
+      "EG",
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

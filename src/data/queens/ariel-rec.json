@@ -1,6 +1,11 @@
 {
   "id": "ariel-rec",
   "name": "Ariel Rec",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S02",

@@ -26,6 +26,7 @@ afterEach(() => {
 const minimalQueen = (id: string, seasonId = "US-S01") => ({
   id,
   name: id,
+  origin: { countries: ["US"] as const },
   appearances: [
     {
       seasonId,
@@ -277,8 +278,7 @@ describe("loadKnowledgeBase", () => {
     writeValidMinimalKb(root);
 
     const queen = {
-      id: "test-queen",
-      name: "test-queen",
+      ...minimalQueen("test-queen"),
       appearances: [
         ...minimalQueen("test-queen").appearances,
         ...minimalQueen("test-queen").appearances,
@@ -299,7 +299,7 @@ describe("loadKnowledgeBase", () => {
     writeFileSync(
       path.join(root, "queens", "empty-queen.json"),
       JSON.stringify(
-        { id: "empty-queen", name: "Empty Queen", appearances: [] },
+        { id: "empty-queen", name: "Empty Queen", origin: { countries: ["US"] }, appearances: [] },
         null,
         2,
       ),

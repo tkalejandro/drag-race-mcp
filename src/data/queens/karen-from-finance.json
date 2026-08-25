@@ -1,6 +1,11 @@
 {
   "id": "karen-from-finance",
   "name": "Karen from Finance",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S01",

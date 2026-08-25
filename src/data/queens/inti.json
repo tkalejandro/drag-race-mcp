@@ -1,6 +1,12 @@
 {
   "id": "inti",
   "name": "Inti",
+  "origin": {
+    "countries": [
+      "BO",
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S01",

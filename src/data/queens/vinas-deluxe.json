@@ -1,6 +1,11 @@
 {
   "id": "vinas-deluxe",
   "name": "Viñas DeLuxe",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S01",

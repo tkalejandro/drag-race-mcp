@@ -1,6 +1,11 @@
 {
   "id": "robin-fierce",
   "name": "Robin Fierce",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

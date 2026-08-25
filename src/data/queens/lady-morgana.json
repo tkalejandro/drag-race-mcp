@@ -1,6 +1,11 @@
 {
   "id": "lady-morgana",
   "name": "Lady Morgana",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S01",

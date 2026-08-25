@@ -1,6 +1,11 @@
 {
   "id": "killer-queen",
   "name": "Killer Queen",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S01",

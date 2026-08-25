@@ -1,6 +1,11 @@
 {
   "id": "nicole-paige-brooks",
   "name": "Nicole Paige Brooks",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",

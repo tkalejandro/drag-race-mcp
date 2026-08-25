@@ -1,6 +1,12 @@
 {
   "id": "plastique-tiara",
   "name": "Plastique Tiara",
+  "origin": {
+    "countries": [
+      "VN",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",

@@ -1,6 +1,11 @@
 {
   "id": "kerri-colby",
   "name": "Kerri Colby",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

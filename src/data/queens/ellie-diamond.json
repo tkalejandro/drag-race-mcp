@@ -1,6 +1,11 @@
 {
   "id": "ellie-diamond",
   "name": "Ellie Diamond",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S02",

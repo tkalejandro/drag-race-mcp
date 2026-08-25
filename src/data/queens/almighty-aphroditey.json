@@ -1,6 +1,11 @@
 {
   "id": "almighty-aphroditey",
   "name": "Almighty Aphroditey",
+  "origin": {
+    "countries": [
+      "SE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "SE-S01",

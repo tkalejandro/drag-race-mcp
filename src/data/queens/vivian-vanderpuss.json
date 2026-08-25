@@ -1,6 +1,11 @@
 {
   "id": "vivian-vanderpuss",
   "name": "Vivian Vanderpuss",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

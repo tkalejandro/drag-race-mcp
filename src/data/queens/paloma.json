@@ -1,6 +1,11 @@
 {
   "id": "paloma",
   "name": "Paloma",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S01",

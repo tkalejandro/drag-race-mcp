@@ -1,6 +1,12 @@
 {
   "id": "lolita-banana",
   "name": "Lolita Banana",
+  "origin": {
+    "countries": [
+      "MX",
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S01",

@@ -1,6 +1,11 @@
 {
   "id": "vinegar-strokes",
   "name": "Vinegar Strokes",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S01",
@@ -9,10 +14,16 @@
       "challengeWins": [],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "UK-S01-E01", "song": "New Rules" }
+        {
+          "episodeId": "UK-S01-E01",
+          "song": "New Rules"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "UK-S01-E03", "song": "Would I Lie to You?" }
+        {
+          "episodeId": "UK-S01-E03",
+          "song": "Would I Lie to You?"
+        }
       ]
     }
   ]

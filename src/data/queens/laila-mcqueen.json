@@ -1,6 +1,11 @@
 {
   "id": "laila-mcqueen",
   "name": "Laila McQueen",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

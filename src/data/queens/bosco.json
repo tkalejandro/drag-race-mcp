@@ -1,6 +1,11 @@
 {
   "id": "bosco",
   "name": "Bosco",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

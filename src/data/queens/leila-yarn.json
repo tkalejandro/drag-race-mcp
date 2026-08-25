@@ -1,6 +1,11 @@
 {
   "id": "leila-yarn",
   "name": "Leila Yarn",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

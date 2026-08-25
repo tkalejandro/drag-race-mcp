@@ -1,6 +1,11 @@
 {
   "id": "amethyst",
   "name": "Amethyst",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

@@ -1,6 +1,11 @@
 {
   "id": "samantha-ballentines",
   "name": "Samantha Ballentines",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S02",

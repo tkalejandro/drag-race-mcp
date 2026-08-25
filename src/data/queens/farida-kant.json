@@ -1,6 +1,11 @@
 {
   "id": "farida-kant",
   "name": "Farida Kant",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S01",

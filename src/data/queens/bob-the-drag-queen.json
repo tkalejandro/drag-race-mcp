@@ -1,6 +1,11 @@
 {
   "id": "bob-the-drag-queen",
   "name": "Bob the Drag Queen",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

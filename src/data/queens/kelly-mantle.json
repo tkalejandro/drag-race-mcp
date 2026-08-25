@@ -1,6 +1,11 @@
 {
   "id": "kelly-mantle",
   "name": "Kelly Mantle",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

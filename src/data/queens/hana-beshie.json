@@ -1,6 +1,11 @@
 {
   "id": "hana-beshie",
   "name": "Hana Beshie",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S02",

@@ -1,6 +1,14 @@
 {
   "id": "akeria-c-davenport",
   "name": "A'keria C. Davenport",
+  "aliases": [
+    "A'keria Chanel Davenport"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",
@@ -97,8 +105,5 @@
       ],
       "eliminatedEpisodeId": "AS-S11-E12"
     }
-  ],
-  "aliases": [
-    "A'keria Chanel Davenport"
   ]
 }

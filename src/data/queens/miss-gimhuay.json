@@ -1,6 +1,11 @@
 {
   "id": "miss-gimhuay",
   "name": "Miss Gimhuay",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S02",

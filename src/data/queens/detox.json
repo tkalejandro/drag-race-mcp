@@ -1,6 +1,14 @@
 {
   "id": "detox",
   "name": "Detox",
+  "aliases": [
+    "Detox Icunt"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",
@@ -114,8 +122,5 @@
         }
       ]
     }
-  ],
-  "aliases": [
-    "Detox Icunt"
   ]
 }

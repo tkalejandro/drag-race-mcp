@@ -1,6 +1,11 @@
 {
   "id": "kara-might",
   "name": "Kara Might",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S03",

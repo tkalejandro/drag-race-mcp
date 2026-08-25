@@ -1,6 +1,11 @@
 {
   "id": "lucina-innocence",
   "name": "Lucina Innocence",
+  "origin": {
+    "countries": [
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S04",

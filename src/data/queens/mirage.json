@@ -1,6 +1,11 @@
 {
   "id": "mirage",
   "name": "Mirage",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

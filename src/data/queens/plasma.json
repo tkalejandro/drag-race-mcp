@@ -1,6 +1,11 @@
 {
   "id": "plasma",
   "name": "Plasma",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

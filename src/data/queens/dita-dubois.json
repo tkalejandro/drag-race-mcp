@@ -1,6 +1,11 @@
 {
   "id": "dita-dubois",
   "name": "Dita Dubois",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S04",

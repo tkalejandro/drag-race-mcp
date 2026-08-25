@@ -1,6 +1,11 @@
 {
   "id": "naomi-smalls",
   "name": "Naomi Smalls",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

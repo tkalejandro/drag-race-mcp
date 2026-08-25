@@ -1,6 +1,11 @@
 {
   "id": "lina-galore",
   "name": "Lina Galore",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

@@ -1,6 +1,11 @@
 {
   "id": "luna-dubois",
   "name": "Luna DuBois",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S04",

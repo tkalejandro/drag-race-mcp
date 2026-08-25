@@ -3,7 +3,7 @@ import { z } from "zod";
 import { getQueen } from "../../services/accessors/index.ts";
 import { QueenIdSchema } from "../../kb/schemas/common.ts";
 import { QueenSchema } from "../../kb/schemas/queen.ts";
-import { toolResult } from "../utility.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 
 const inputSchema = z.object({
   queenId: QueenIdSchema.describe("Queen id (kebab-case), e.g. jinkx-monsoon"),
@@ -28,9 +28,10 @@ export const registerGetQueen = (server: McpServer) => {
     "get_queen",
     {
       description:
-        "Get a full queen record by id (appearances, placements, challenge/lip-sync wins).",
+        "Return the full queen record by id (origin, appearances, placements, challenge/lip-sync wins). Use after search_queens or a rank/list hit. For cash totals use get_queen_earnings; for weekly outcomes use get_queen_track_record; for side-by-side use compare_queens.",
       inputSchema,
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
     async ({ queenId }) => {
       const queen = getQueen(queenId);
@@ -41,10 +42,7 @@ export const registerGetQueen = (server: McpServer) => {
         };
         return toolResult(output);
       }
-      const output: Output = {
-        ok: true,
-        queen,
-      };
+      const output: Output = { ok: true, queen };
       return toolResult(output);
     },
   );

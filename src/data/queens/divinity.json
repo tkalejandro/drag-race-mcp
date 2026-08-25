@@ -1,6 +1,11 @@
 {
   "id": "divinity",
   "name": "Divinity",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S01",

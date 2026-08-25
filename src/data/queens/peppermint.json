@@ -1,6 +1,11 @@
 {
   "id": "peppermint",
   "name": "Peppermint",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S09",

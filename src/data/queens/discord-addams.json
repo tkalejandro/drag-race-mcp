@@ -1,6 +1,11 @@
 {
   "id": "discord-addams",
   "name": "Discord Addams",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S18",

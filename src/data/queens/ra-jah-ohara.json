@@ -1,6 +1,11 @@
 {
   "id": "ra-jah-ohara",
   "name": "Ra'Jah O'Hara",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S11",

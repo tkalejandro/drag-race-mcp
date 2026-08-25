@@ -1,6 +1,11 @@
 {
   "id": "alyssa-edwards",
   "name": "Alyssa Edwards",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

@@ -1,6 +1,11 @@
 {
   "id": "oceane-aqua-black",
   "name": "Océane Aqua-Black",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S02",

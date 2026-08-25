@@ -1,6 +1,14 @@
 {
   "id": "darienne-lake",
   "name": "Darienne Lake",
+  "aliases": [
+    "Miss Darienne Lake"
+  ],
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",
@@ -54,8 +62,5 @@
       "lipSyncLosses": [],
       "eliminatedEpisodeId": "AS-S08-E04"
     }
-  ],
-  "aliases": [
-    "Miss Darienne Lake"
   ]
 }

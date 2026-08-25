@@ -1,6 +1,12 @@
 {
   "id": "visa",
   "name": "Visa",
+  "origin": {
+    "countries": [
+      "MX",
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S03",

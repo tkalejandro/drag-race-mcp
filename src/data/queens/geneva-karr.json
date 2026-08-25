@@ -1,6 +1,12 @@
 {
   "id": "geneva-karr",
   "name": "Geneva Karr",
+  "origin": {
+    "countries": [
+      "MX",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

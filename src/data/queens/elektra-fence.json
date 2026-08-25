@@ -1,6 +1,11 @@
 {
   "id": "elektra-fence",
   "name": "Elektra Fence",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S03",

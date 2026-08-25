@@ -2,7 +2,7 @@ import type { McpServer } from "@modelcontextprotocol/server";
 import { z } from "zod";
 import { SeasonIdSchema } from "../../kb/schemas/common.ts";
 import { listQueenIdsForSeason } from "../../services/queens/index.ts";
-import { toolResult } from "../utility.ts";
+import { toolResult, readOnlyAnnotations } from "../utility.ts";
 
 const inputSchema = z.object({
   seasonId: SeasonIdSchema.describe(
@@ -30,9 +30,10 @@ export const registerListQueenIds = (server: McpServer) => {
     "list_queen_ids",
     {
       description:
-        "List queen ids for one season's cast. Requires seasonId. For name lookup use search_queens.",
+        "List queen ids for one season's contestant cast. Requires seasonId. For name lookup use search_queens. For alumni hosts/judges (not contestants) use list_queens_as_hosts or list_queens_as_judges.",
       inputSchema,
       outputSchema,
+      annotations: readOnlyAnnotations,
     },
     async ({ seasonId }) => {
       const queenIds = listQueenIdsForSeason(seasonId);

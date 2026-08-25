@@ -1,6 +1,11 @@
 {
   "id": "le-riche",
   "name": "Le Riche",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S01",

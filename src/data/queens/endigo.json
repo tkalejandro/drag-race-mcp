@@ -1,6 +1,11 @@
 {
   "id": "endigo",
   "name": "Endigo",
+  "origin": {
+    "countries": [
+      "SE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "SE-S01",

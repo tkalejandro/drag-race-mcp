@@ -1,6 +1,11 @@
 {
   "id": "malaysia-babydoll-foxx",
   "name": "Malaysia Babydoll Foxx",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S15",

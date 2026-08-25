@@ -1,6 +1,11 @@
 {
   "id": "dafne-mugler",
   "name": "Dafne Mugler",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S05",

@@ -1,6 +1,11 @@
 {
   "id": "tara-nova",
   "name": "Tara Nova",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

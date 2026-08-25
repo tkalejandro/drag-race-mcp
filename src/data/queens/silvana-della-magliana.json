@@ -1,6 +1,11 @@
 {
   "id": "silvana-della-magliana",
   "name": "Silvana Della Magliana",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

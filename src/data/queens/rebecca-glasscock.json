@@ -1,6 +1,11 @@
 {
   "id": "rebecca-glasscock",
   "name": "Rebecca Glasscock",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S01",

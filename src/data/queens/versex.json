@@ -1,6 +1,11 @@
 {
   "id": "versex",
   "name": "Versex",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S03",

@@ -1,6 +1,11 @@
 {
   "id": "yvonne-nightstand",
   "name": "Yvonne Nightstand",
+  "origin": {
+    "countries": [
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

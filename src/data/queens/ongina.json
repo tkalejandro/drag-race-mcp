@@ -1,6 +1,12 @@
 {
   "id": "ongina",
   "name": "Ongina",
+  "origin": {
+    "countries": [
+      "PH",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S01",

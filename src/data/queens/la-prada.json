@@ -1,6 +1,11 @@
 {
   "id": "la-prada",
   "name": "La Prada",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

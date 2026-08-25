@@ -1,6 +1,11 @@
 {
   "id": "kita-mean",
   "name": "Kita Mean",
+  "origin": {
+    "countries": [
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S01",

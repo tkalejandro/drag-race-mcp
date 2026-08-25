@@ -1,6 +1,11 @@
 {
   "id": "violet-chachki",
   "name": "Violet Chachki",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S07",

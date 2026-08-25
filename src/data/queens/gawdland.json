@@ -1,6 +1,11 @@
 {
   "id": "gawdland",
   "name": "Gawdland",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S03",

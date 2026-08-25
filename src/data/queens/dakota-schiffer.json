@@ -1,6 +1,11 @@
 {
   "id": "dakota-schiffer",
   "name": "Dakota Schiffer",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S04",
@@ -18,11 +23,20 @@
       ],
       "miniChallengeWins": [],
       "lipSyncWins": [
-        { "episodeId": "UK-S04-E01", "song": "Let Them Know" },
-        { "episodeId": "UK-S04-E05", "song": "No Way" }
+        {
+          "episodeId": "UK-S04-E01",
+          "song": "Let Them Know"
+        },
+        {
+          "episodeId": "UK-S04-E05",
+          "song": "No Way"
+        }
       ],
       "lipSyncLosses": [
-        { "episodeId": "UK-S04-E07", "song": "Miss Me Blind" }
+        {
+          "episodeId": "UK-S04-E07",
+          "song": "Miss Me Blind"
+        }
       ]
     }
   ]

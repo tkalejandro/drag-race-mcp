@@ -1,6 +1,11 @@
 {
   "id": "the-only-naomy",
   "name": "The Only Naomy",
+  "origin": {
+    "countries": [
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

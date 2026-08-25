@@ -1,6 +1,11 @@
 {
   "id": "the-princess",
   "name": "The Princess",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

@@ -1,6 +1,11 @@
 {
   "id": "gioffre",
   "name": "Gioffré",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S02",

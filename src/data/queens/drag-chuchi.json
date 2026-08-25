@@ -1,6 +1,11 @@
 {
   "id": "drag-chuchi",
   "name": "Drag Chuchi",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S03",

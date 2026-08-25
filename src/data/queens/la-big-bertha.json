@@ -1,6 +1,11 @@
 {
   "id": "la-big-bertha",
   "name": "La Big Bertha",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S01",

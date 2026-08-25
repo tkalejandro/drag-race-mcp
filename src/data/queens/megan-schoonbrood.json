@@ -1,6 +1,11 @@
 {
   "id": "megan-schoonbrood",
   "name": "Megan Schoonbrood",
+  "origin": {
+    "countries": [
+      "NL"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "NL-S01",

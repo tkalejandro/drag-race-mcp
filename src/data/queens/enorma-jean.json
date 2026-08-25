@@ -1,6 +1,11 @@
 {
   "id": "enorma-jean",
   "name": "Enorma Jean",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S01",

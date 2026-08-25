@@ -1,6 +1,12 @@
 {
   "id": "kimmy-couture",
   "name": "Kimmy Couture",
+  "origin": {
+    "countries": [
+      "PH",
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S03",

@@ -1,6 +1,15 @@
 {
   "id": "vanessa-vanjie-mateo",
   "name": "Vanessa Vanjie Mateo",
+  "aliases": [
+    "Vanessa Vanjie"
+  ],
+  "origin": {
+    "countries": [
+      "PR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S10",
@@ -91,8 +100,5 @@
         }
       ]
     }
-  ],
-  "aliases": [
-    "Vanessa Vanjie"
   ]
 }

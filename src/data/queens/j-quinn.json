@@ -1,6 +1,11 @@
 {
   "id": "j-quinn",
   "name": "J Quinn",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S03",

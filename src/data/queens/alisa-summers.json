@@ -1,6 +1,11 @@
 {
   "id": "alisa-summers",
   "name": "Alisa Summers",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

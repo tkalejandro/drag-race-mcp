@@ -1,6 +1,12 @@
 {
   "id": "tessa-testicle",
   "name": "Tessa Testicle",
+  "origin": {
+    "countries": [
+      "CH",
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

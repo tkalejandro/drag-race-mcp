@@ -1,6 +1,11 @@
 {
   "id": "skandalove",
   "name": "Skandalove",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S02",

@@ -1,6 +1,11 @@
 {
   "id": "xilhouete",
   "name": "Xilhouete",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S01",

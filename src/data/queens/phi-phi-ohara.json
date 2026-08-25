@@ -1,6 +1,11 @@
 {
   "id": "phi-phi-ohara",
   "name": "Phi Phi O'Hara",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S04",

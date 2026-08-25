@@ -1,6 +1,11 @@
 {
   "id": "venus",
   "name": "Venus",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S04",

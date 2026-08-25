@@ -1,6 +1,11 @@
 {
   "id": "elips",
   "name": "Elips",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S01",

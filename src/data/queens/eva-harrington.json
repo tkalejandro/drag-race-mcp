@@ -1,6 +1,11 @@
 {
   "id": "eva-harrington",
   "name": "Eva Harrington",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S05",

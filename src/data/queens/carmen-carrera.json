@@ -1,6 +1,13 @@
 {
   "id": "carmen-carrera",
   "name": "Carmen Carrera",
+  "origin": {
+    "countries": [
+      "PR",
+      "PE",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S03",

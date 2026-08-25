@@ -1,6 +1,11 @@
 {
   "id": "ava-hangar",
   "name": "Ava Hangar",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S01",

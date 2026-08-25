@@ -1,6 +1,11 @@
 {
   "id": "kandy-zyanide",
   "name": "Kandy Zyanide",
+  "origin": {
+    "countries": [
+      "TH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "TH-S02",

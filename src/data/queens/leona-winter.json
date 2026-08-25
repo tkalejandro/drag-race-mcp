@@ -1,6 +1,11 @@
 {
   "id": "leona-winter",
   "name": "Leona Winter",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S03",

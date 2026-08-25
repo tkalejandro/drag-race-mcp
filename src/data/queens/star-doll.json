@@ -1,6 +1,11 @@
 {
   "id": "star-doll",
   "name": "Star Doll",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

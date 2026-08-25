@@ -1,6 +1,11 @@
 {
   "id": "loreley-rivers",
   "name": "Loreley Rivers",
+  "origin": {
+    "countries": [
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

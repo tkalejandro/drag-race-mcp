@@ -1,6 +1,11 @@
 {
   "id": "beverly-kills",
   "name": "Beverly Kills",
+  "origin": {
+    "countries": [
+      "AU"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S02",

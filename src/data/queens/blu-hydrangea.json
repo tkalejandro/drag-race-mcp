@@ -1,6 +1,12 @@
 {
   "id": "blu-hydrangea",
   "name": "Blu Hydrangea",
+  "origin": {
+    "countries": [
+      "GB",
+      "IE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S01",

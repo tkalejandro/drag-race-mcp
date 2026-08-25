@@ -1,6 +1,11 @@
 {
   "id": "derrick-barry",
   "name": "Derrick Barry",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

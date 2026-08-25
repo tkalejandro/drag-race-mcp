@@ -1,6 +1,11 @@
 {
   "id": "kitty-space",
   "name": "Kitty Space",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S02",

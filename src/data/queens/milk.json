@@ -1,6 +1,11 @@
 {
   "id": "milk",
   "name": "Milk",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

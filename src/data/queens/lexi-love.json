@@ -1,6 +1,11 @@
 {
   "id": "lexi-love",
   "name": "Lexi Love",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

@@ -1,6 +1,12 @@
 {
   "id": "lineysha-sparx",
   "name": "Lineysha Sparx",
+  "origin": {
+    "countries": [
+      "PR",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S05",

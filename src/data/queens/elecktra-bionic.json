@@ -1,6 +1,11 @@
 {
   "id": "elecktra-bionic",
   "name": "Elecktra Bionic",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S01",

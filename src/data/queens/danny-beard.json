@@ -1,6 +1,11 @@
 {
   "id": "danny-beard",
   "name": "Danny Beard",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "UK-S04",
@@ -24,10 +29,16 @@
         }
       ],
       "miniChallengeWins": [
-        { "episodeId": "UK-S04-E03", "name": "Naff-ta Awards" }
+        {
+          "episodeId": "UK-S04-E03",
+          "name": "Naff-ta Awards"
+        }
       ],
       "lipSyncWins": [
-        { "episodeId": "UK-S04-E10", "song": "This Is My Life" }
+        {
+          "episodeId": "UK-S04-E10",
+          "song": "This Is My Life"
+        }
       ],
       "lipSyncLosses": []
     }

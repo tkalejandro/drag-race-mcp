@@ -1,6 +1,11 @@
 {
   "id": "rose-fr",
   "name": "Rose",
+  "origin": {
+    "countries": [
+      "FR"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "FR-S02",

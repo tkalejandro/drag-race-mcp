@@ -1,6 +1,12 @@
 {
   "id": "metamorkid",
   "name": "Metamorkid",
+  "origin": {
+    "countries": [
+      "AT",
+      "DE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DE-S01",

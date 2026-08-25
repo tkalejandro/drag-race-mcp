@@ -1,6 +1,11 @@
 {
   "id": "astrid-mercury",
   "name": "Astrid Mercury",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S02",

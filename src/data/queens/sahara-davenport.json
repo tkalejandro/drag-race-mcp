@@ -1,6 +1,11 @@
 {
   "id": "sahara-davenport",
   "name": "Sahara Davenport",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S02",

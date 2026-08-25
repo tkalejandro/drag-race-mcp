@@ -1,6 +1,11 @@
 {
   "id": "chi-chi-devayne",
   "name": "Chi Chi DeVayne",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S08",

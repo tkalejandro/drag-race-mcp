@@ -1,6 +1,11 @@
 {
   "id": "sissy-lea",
   "name": "Sissy Lea",
+  "origin": {
+    "countries": [
+      "IT"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "IT-S03",

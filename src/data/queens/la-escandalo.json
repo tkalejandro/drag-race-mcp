@@ -1,6 +1,11 @@
 {
   "id": "la-escandalo",
   "name": "La Escándalo",
+  "origin": {
+    "countries": [
+      "ES"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "ES-S05",

@@ -1,6 +1,11 @@
 {
   "id": "minty-fresh",
   "name": "Minty Fresh",
+  "origin": {
+    "countries": [
+      "PH"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "PH-S01",

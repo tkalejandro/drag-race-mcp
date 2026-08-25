@@ -1,6 +1,11 @@
 {
   "id": "crystal-envy",
   "name": "Crystal Envy",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S17",

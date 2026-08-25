@@ -1,6 +1,11 @@
 {
   "id": "sapphira-cristal",
   "name": "Sapphira Cristál",
+  "origin": {
+    "countries": [
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S16",

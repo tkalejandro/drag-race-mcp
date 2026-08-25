@@ -1,6 +1,11 @@
 {
   "id": "paolo-perfeccion",
   "name": "Paolo Perfección",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S06",

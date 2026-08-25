@@ -1,6 +1,11 @@
 {
   "id": "kyne",
   "name": "Kyne",
+  "origin": {
+    "countries": [
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S01",

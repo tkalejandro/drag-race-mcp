@@ -1,6 +1,11 @@
 {
   "id": "garconne",
   "name": "Garçonne",
+  "origin": {
+    "countries": [
+      "MX"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "MX-S02",

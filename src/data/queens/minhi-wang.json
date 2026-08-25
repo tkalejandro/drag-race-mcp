@@ -1,6 +1,12 @@
 {
   "id": "minhi-wang",
   "name": "Minhi Wang",
+  "origin": {
+    "countries": [
+      "AU",
+      "CA"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "CA-S05",

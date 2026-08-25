@@ -1,6 +1,11 @@
 {
   "id": "valenciaga",
   "name": "Valenciaga",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S01",

@@ -1,6 +1,11 @@
 {
   "id": "mademoiselle-boop",
   "name": "Mademoiselle Boop",
+  "origin": {
+    "countries": [
+      "BE"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "BE-S01",

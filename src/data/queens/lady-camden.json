@@ -1,6 +1,11 @@
 {
   "id": "lady-camden",
   "name": "Lady Camden",
+  "origin": {
+    "countries": [
+      "GB"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S14",

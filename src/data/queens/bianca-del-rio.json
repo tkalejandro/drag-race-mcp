@@ -1,6 +1,13 @@
 {
   "id": "bianca-del-rio",
   "name": "Bianca Del Rio",
+  "origin": {
+    "countries": [
+      "HN",
+      "CU",
+      "US"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "US-S06",

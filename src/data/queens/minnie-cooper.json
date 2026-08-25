@@ -1,6 +1,11 @@
 {
   "id": "minnie-cooper",
   "name": "Minnie Cooper",
+  "origin": {
+    "countries": [
+      "NZ"
+    ]
+  },
   "appearances": [
     {
       "seasonId": "DU-S02",
